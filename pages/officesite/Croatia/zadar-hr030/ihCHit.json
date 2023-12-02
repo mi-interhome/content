@@ -26,38 +26,104 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "height": 600,
+                            "src": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254166-56-ita-XX/Test-Image-for-Release.jpg",
+                            "width": 1440
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/it/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/it/servizi-in-loco/",
+                            "label": "Servizi in loco"
+                        },
+                        {
+                            "href": "/it/servizi-in-loco/interhome-zadar-hr030/",
+                            "label": "Local Interhome office: Zadar"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 4,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Ufficio locale Interhome: Zadar",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nelle Sua casa per Vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/it/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello garantita",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "In una casa per vacanze la privacy è garantita",
+                    "support": "Assistenza in loco"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna delle chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/it/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/it/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"https://www.interhome.it/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"https://www.interhome.it/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

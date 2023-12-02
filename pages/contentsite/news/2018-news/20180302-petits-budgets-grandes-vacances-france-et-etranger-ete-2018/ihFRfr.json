@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2018/",
+                            "label": "Presse 2018"
+                        },
+                        {
+                            "href": "/presse/2018/20180302-petits-budgets-grandes-vacances-france-et-etranger-ete-2018/",
+                            "label": "Petits budgets mais grandes vacances en France et à l'étranger cet été"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Petits budgets mais grandes vacances en France et à l'étranger cet été",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eInterhome, spécialiste de la location de maisons et appartements de vacances depuis plus de 50 ans, propose pour les vacances d’été, une sélection de bons plans pour profiter des vacances avec sérénité. \u003cstrong\u003eFocus sur 5 logements à petits prix, qui permettent de partir 15 jours d’affilée !\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDétente en amoureux sur la Côte d’Azur\u003c/strong\u003e \u003cbr\u003eSituée à Nice, la résidence \"Le DELLA\" est parfaite pour profiter de l'été à deux. Cet appartement confortable et de bon goût de 2 pièces avec vue sur les alentours, propose tout le confort nécessaire pour un couple en quête de calme. La résidence est idéalement située, à proximité des commerces et autres activités (plage, restaurant, bar, discothèque et casino) ainsi que du célèbre Musée Matisse. \u003cbr\u003e\u003cstrong\u003eLes petits +\u003c/strong\u003e : Wifi gratuit et à seulement 500m de la mer. \u003cbr\u003eUne semaine du 07 au 14 juillet : 755 €* / Pour deux semaines du 07 au 21 juillet : 1412 €* \u003cbr\u003e\u003ca href=\"/FR8800.141.3\"\u003ewww.interhome.fr/FR8800.141.3\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCet été, j'emmène toute la famille à Tenerife !\u003c/strong\u003e \u003cbr\u003eUn bel appartement situé dans la région d’Adeje, petite commune au sud-ouest de Tenerife. Avec un aménagement confortable et accueillant, l’appartement Urb Bouganvilla se trouve dans une belle résidence avec une piscine commune. C’est l'endroit idéal pour s'amuser en famille. \u003cbr\u003e\u003cstrong\u003eLes petits +\u003c/strong\u003e : De nombreuses activités sportives (golf, tennis, équitation, pêche) à proximité. \u003cbr\u003eUne semaine du 07 au 14 juillet: 636 €* / Pour deux semaines du 07 au 21 juillet : 1162 €* \u003cbr\u003e\u003ca href=\"/ES6034.622.1\"\u003ewww.interhome.fr/ES6034.622.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eGrand bol d‘air et randos en famille !\u003c/strong\u003e \u003cbr\u003eCet agréable appartement de 35 m², situé à Serre Chevalier, est idéal pour des vacances en famille vivifiantes et il peut accueillir jusqu’à 6 personnes. Au cœur de la nature, c’est le point de départ idéal pour de grandes randonnées. \u003cbr\u003e\u003cstrong\u003eLes petits +\u003c/strong\u003e : Belle terrasse, animaux acceptés et wifi gratuit. \u003cbr\u003eUne semaine du 07 au 14 juillet: 522 €* / Pour deux semaines du 07 au 21 juillet : 889 €* \u003cbr\u003e\u003ca href=\"/FR7503.310.5\"\u003ewww.interhome.fr/FR7503.310.5\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDétente et farniente en Espagne\u003c/strong\u003e \u003cbr\u003eCet appartement de 40 m², situé au sein d’une villa se trouve au centre de Palm Mar, propose un aménagement simple mais fonctionnel pour 2 personnes. Son petit balcon est idéal pour les petits-déjeuners en amoureux. Piscine en commun. \u003cbr\u003e\u003cstrong\u003eLes petits +\u003c/strong\u003e : De nombreuses activités sur place : terrain de golf, tennis et centre sportif. \u003cbr\u003eUne semaine du 07 au 14 juillet : 504 €* / Pour deux semaines du 07 au 21 juillet : 1008 €* \u003cbr\u003e\u003ca href=\"/ES6175.7.1\"\u003ewww.interhome.fr/ES6175.7.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa Costa Blanca pour des vacances inoubliables \u003c/strong\u003e\u003cbr\u003eDans la ville animée de Benidorm, ce bel appartement de 50 m² composé de tous les équipements nécessaires peut accueillir jusqu'à 4 personnes. Clair et spacieux, avec une belle vue, il est très bien situé à seulement 500m de la mer. À ne pas manquer, les soirées festives de la ville. \u003cbr\u003e\u003cstrong\u003eLes petits +\u003c/strong\u003e : Animaux de petites tailles acceptés et beau balcon de 10m² avec vue sur la piscine. \u003cbr\u003eUne semaine du 07 au 14 juillet : 649 €* / Pour deux semaines du 07 au 21 juillet : 1196 €* \u003cbr\u003e\u003ca href=\"/ES9742.115.5\"\u003ewww.interhome.fr/ES9742.115.5\u003c/a\u003e\u003c/p\u003e\u003cp\u003e*Les tarifs sont donnés à titre indicatifs\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/998118-fre-XX/20180302_Petits-budgets-grandes-vacances-france-et-etranger-ete-2018.pdf\"\u003eTélécharger le communiqué de presse complet au format PDF\u003c/a\u003e \u003cbr\u003e\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/998123-fre-XX/20180302_Photos_Petits-budget-grandes-vacances-france-etranger-ete-2018.zip\"\u003eTélécharger les photos au format ZIP\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre location de vacances !",
+                    "link": {
+                        "href": "/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre location vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome ?",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVoulez-vous découvrir de nouvelles destinations ? La meilleure solution est d’opter pour la location vacances. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des \u003ca href=\"https://fr.trustpilot.com/review/www.interhome.fr\"\u003eavis clients positifs\u003c/a\u003e. Faites-nous confiance et optez pour la location saisonnière en toute sécurité.\u003cbr\u003e\u003ca href=\"/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/cavalaire/\"\u003eCavalaire\u003c/a\u003e | \u003ca href=\"/france/charente-maritime/\"\u003eCharente Maritime\u003c/a\u003e | \u003ca href=\"/france/corse/\"\u003eCorse\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/france/normandie/deauville-trouville/\"\u003eDeauville-Trouville\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e | \u003ca href=\"/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/france/finistere/\"\u003eFinistère\u003c/a\u003e | \u003ca href=\"/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/france/les-landes/\"\u003eLes Landes\u003c/a\u003e | \u003ca href=\"/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/france/morbihan/\"\u003eMorbihan\u003c/a\u003e | \u003ca href=\"/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/france/pays-basque/\"\u003ePays Basque\u003c/a\u003e | \u003ca href=\"/france/morbihan/quiberon/\"\u003eQuiberon\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/sainte-maxime/\"\u003eSainte-Maxime\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/\"\u003eSavoie - Haute Savoie\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Réservez dès maintenant votre location vacances.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

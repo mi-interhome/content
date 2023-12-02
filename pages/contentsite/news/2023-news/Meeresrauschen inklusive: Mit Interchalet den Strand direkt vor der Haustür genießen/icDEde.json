@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2023/",
+                            "label": "Pressemitteilungen 2023"
+                        },
+                        {
+                            "href": "/presse/2023/meeresrauschen_inklusive/",
+                            "label": "Meeresrauschen inklusive: Mit Interchalet den Strand direkt vor der Haustür genießen"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Meeresrauschen inklusive: Mit Interchalet den Strand direkt vor der Haustür genießen",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp align=\"justify\"\u003eFreiburg, 24.10.2023 | \u003cstrong\u003eWer jetzt schon den nächsten Urlaub am Meer buchen möchte, findet bei Interchalet, dem Spezialisten für Ferienhäuser und Ferienwohnungen in Europa, eine große Auswahl an sorgfältig ausgewählten Unterkünften, die nur einen Steinwurf vom Wasser entfernt liegen. Vom zertifizierten Angelhaus mit eigenem Motorboot am Fjord über stilvolle Ferienwohnungen inklusive Strand-Shuttle an sonnenverwöhnten Küsten bis hin zu großzügigen Design-Häusern mit direktem Strandzugang – der Ferienhaus-Spezialist bietet Familien, Paaren und Abenteuerlustigen eine Vielzahl an individuellen Urlaubsunterkünften für einen unvergesslichen Traumurlaub.\u003c/strong\u003e\u003c/p\u003e\u003ch3 align=\"justify\"\u003eNorwegen | Sunnfjord: Zertifiziertes Angelhaus mit direktem Zugang zum Fjord\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/231024_1_no1515.606.1_norwegen_f%C3%B8rde/2276357-1-ger-XX/231024_1_NO1515.606.1_Norwegen_F%C3%B8rde.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42659\" data-type=\"image\" data-content=\"\"\u003e\u003cp align=\"justify\"\u003eDas exklusiv ausgestattete Ferienhaus Svortevik, ein zertifiziertes Angelhaus auf zwei Etagen, bietet Naturliebenden mit seiner direkten Lage am Wasser und einem atemberaubenden Panoramablick ein wahres Rundum-sorglos-Paket. Die durchdachte Architektur im skandinavischen Design begeistert auf Anhieb. Wer gerne angelt, findet mit dem eigenem Fischverabeitungsplatz, einem zubuchbaren Motorboot und entsprechenden Kühlmöglichkeiten alles, was das Anglerherz höher schlagen lässt. So kann der Fang des Tages soweit vorbereitet werden, dass in der stilvoll eingerichteten offenen Küche daraus ein köstliches Abendessen wird. Wenn im angrenzenden Wohn- und Esszimmer der Schwedenofen knistert, entsteht nach einem erfolgreichen Angeltag eine gemütliche Atmosphäre. Drei Schlafzimmer bieten zudem genügend Raum für Erholung. Das Haus liegt 35 km vom Zentrum von Naustdal und 45 km von Førde entfernt und eignet sich hervorragend für ausgedehnte Angelausflüge inmitten der unberührten Natur Norwegens.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e\u003c/em\u003e \u003ca href=\"/norwegen/sunnfjord/forde/ferienhaus-svortevik-fjs077-no1515.606.1/\" target=\"_blank\"\u003eFerienhaus „Svortevik“ *****\u003c/a\u003e für bis zu fünf Personen, Norwegen, Sunnfjord, Førde,\u003cbr\u003eObjekt-Nr. NO1515.606.1, vierzehn Nächte ab 2.754,00 €*\u003c/p\u003e\u003ch3 align=\"justify\"\u003eItalien | Sardinien: Dolce Vita und Familienfreuden an der sardischen Küste\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/231024_2_it7180.700.1_italien_sardinien/2276365-1-ger-XX/231024_2_IT7180.700.1_Italien_Sardinien.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42661\" data-type=\"image\" data-content=\"\"\u003e\u003cp align=\"justify\"\u003eEin unvergesslicher Familienurlaub beginnt, sobald Urlaubsgäste die Schwelle der Ferienwohnung La Nina überschreiten. Mit ihrem mediterranen Flair und der gemütlichen, modernen Einrichtung lässt sie keinerlei Wünsche offen. Von der überdachten Terrasse der 3-Zimmer-Wohnung haben Urlaubsgäste einen direkten Blick auf das Meer. Sie ist ein idealer Ort, um an heißen Tagen sonnengeschützt draußen zu essen oder gemeinsam am Tisch zu spielen. Im gepflegten Garten der Unterkunft können Kinder ausgelassen toben, während die Eltern bei einem guten Buch entspannen. Besonderes Highlight: Ein kleiner Pfad führt vom Garten direkt zu einem privaten Steinstrand. Nur 600 Meter von der Ferienwohnung entfernt befindet sich der nächste Sandstrand. Erfrischung an heißen Tagen bietet der großzügige Gemeinschaftspool der Ferienanlage samt Kinderbecken und Außendusche. Lohnenswert ist auch ein Besuch des nahegelegenen Zentrums von Porto Rotondo mit seinen verwinkelten Gässchen, lebhaften Plätzen, einem Hafen und zwei schönen Sandstränden. Wer mag, kann sich mit einem Shuttleservice zu den umliegenden Stränden bringen lassen.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e\u003c/em\u003e \u003ca href=\"/italien/sardinien/porto-rotondo/ferienwohnung-la-nina-it7180.700.1/\" target=\"_blank\"\u003eFerienwohnung „La Nina“ ****\u003c/a\u003e für bis zu vier Personen, Italien, Sardinien, Porto Rotondo, Objekt-Nr. IT7180.700.1, sieben Nächte ab 813,00€*\u003c/p\u003e\u003ch3 align=\"justify\"\u003ePortugal | Algarve: Traumhafter Ausblick auf die Atlantikküste\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/231024_3_pt6800.156.1_portugal_algarve/2276370-1-ger-XX/231024_3_PT6800.156.1_Portugal_Algarve.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42662\" data-type=\"image\" data-content=\"\"\u003e\u003cp align=\"justify\"\u003eBei der Ferienwohnung Dream View ist der Name Programm: Der Blick aus dem lichtdurchfluteten und modern eingerichteten Studio lässt die Grenzen zwischen Wohnung und Meer verschwimmen. Das Traum-Zuhause ist nur 50 Meter vom Strand entfernt und ideal für Pärchen, die eine romantische Auszeit suchen. Die offene Küche, ausgestattet mit modernen Geräten, lädt zum Kochen von fangfrischem Fisch ein – und nach einem schönen Abendessen lässt es sich auf der Loggia mit Meerblick entspannen und träumen. Bei hochsommerlichen Temperaturen sorgt eine Klimaanlage für ein angenehmes Raumklima. Ausgestattet mit stabilem und sicherem Highspeed-Internet eignet sich die Ferienwohnung auch für Workation. Die Urlaubsunterkunft befindet sich in Albufeira, einem ehemaligen Fischerdorf im Westen von Faro. Das Juwel an der portugiesischen Küste erhebt sich über rote Sandsteinklippen und verzaubert seine Besucherinnen und Besucher mit verwinkelten Gassen und weiß getünchten Häusern. Der lebhafte Ort lockt mit einer großen Auswahl an Bars, Diskotheken, Cafés, Souvenirläden und Restaurants. Am Sandstrand direkt vor der Tür lassen sich eindrucksvolle Sandburgen bauen und die schönsten Muscheln finden.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e\u003c/em\u003e \u003ca href=\"/portugal/algarve/albufeira/ferienwohnung-dream-view-50m-from-the-beach-pt6800.156.1/\" target=\"_blank\"\u003eFerienwohnung „Dream View“ ***\u003c/a\u003e für bis zu drei Personen, Portugal, Algarve, Albufeira, Objekt-Nr. PT6800.156.1, sieben Nächte ab 684,00€*\u003c/p\u003e\u003ch3 align=\"justify\"\u003eDänemark | Seeland: Für gemütliche Stunden mit Freunden – Hygge direkt am Strand\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/231024_4_dk4583.616.1_d%C3%A4nemark_seeland/2276375-1-ger-XX/231024_4_DK4583.616.1_D%C3%A4nemark_Seeland.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42663\" data-type=\"image\" data-content=\"\"\u003e\u003cp align=\"justify\"\u003eNur 100 Meter vom Strand entfernt empfängt das Ferienhaus Henrik seine Gäste mit stilvoller Einrichtung und großzügiger Ausstattung. Auf 84 m² bietet es bequem Platz für bis zu acht Personen, so dass sich das 2022 erbaute Urlaubs-Zuhause gut für eine größere Familie oder einen Freundeskreis eignet. Zwei Badezimmer tragen dazu bei, dass alle morgens stressfrei duschen und sich für den Tag zurecht machen können. Der helle Wohn- und Essbereich ist ein Ort der Gemütlichkeit im skandinavischen Stil mit bequemen Sitzgelegenheiten und warmen Holzelementen, die für die berühmte „hyggelige“ Atmosphäre sorgen. Wenn dann noch das Feuer im Ofen knistert, entsteht die perfekte Stimmung für unterhaltsame Spieleabende und geselliges Beisammensein. Auf dem 1.320 m² großen Gartengrundstück haben Kinder genügend Platz, um sich auszutoben. Nach einem Bad im Meer können Urlaubsgäste unter der Außendusche Salzwasser und Sand abbrausen, bevor es dann ins Haus geht. Ausgelassene Grillabende am hauseigenen Grillplatz oder im Sprudelbad sitzend den nächtlichen Sternenhimmel beobachten – das Ferienhaus bietet zahlreiche Annehmlichkeiten für einen unvergesslichen Urlaub.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e \u003c/em\u003e\u003ca href=\"/daenemark/seeland/sjaellands-odde/ferienhaus-henrik-100m-from-the-sea-in-sealand-dk4583.616.1/\" target=\"_blank\"\u003eFerienhaus „Henrik“ *****\u003c/a\u003e für bis zu acht Personen, Dänemark, Seeland, Sjællands Odde, Objekt-Nr. DK4583.616.1, sieben Nächte ab 1.319,00 €*\u003c/p\u003e\u003cp align=\"justify\"\u003e* ggf. zuzüglich Nebenkosten\u003c/p\u003e\u003cp align=\"justify\"\u003e--------------------------------------------------------------------------------------------------------------------------\u003cbr\u003eDas Portfolio von Interhome Group, mit den Brands Interchalet und Interhome, besteht aus rund 40.000 Ferienhäusern und -wohnungen in 28 Ländern und ist Teil der Hotelplan Group mit Sitz in Glattbrugg (CH). Diese wiederum ist zu 100 Prozent in Besitz der Migros, der größten Detailhandelsorganisation der Schweiz mit Sitz in Zürich. Die Nähe zu den Vermietenden und zu den Gästen ist eine der Stärken der Interhome Group. Mit rund 200 lokalen Service-Büros (100 eigene Büros und 100 Partnerbüros) wird ein „Rundum-sorglos-Paket“ vom persönlichen Kundenempfang bis zur vollständigen Verwaltung des Feriendomizils gewährleistet. Interhome Group ist seit über 55 Jahren der ideale Anbieter von individuellen Urlaubsunterkünften. Das vielfältige Angebot reicht vom einfachen Chalet oder Apartment bis hin zur exklusiv ausgestatteten Villa – am Strand, auf dem Land oder in den Bergen. Im Jahr 2022 generierte Interhome Group neun Millionen Übernachtungen und erzielte einen Umsatz in der Höhe von CHF 371.0 Mio.\u003c/p\u003e\u003cp\u003eFür ergänzende Auskünfte:\u003cbr\u003eRoxanna Stock\u003cbr\u003eServiceplan Public Relations \u0026amp; Content GmbH \u0026amp; Co. KG \u003cbr\u003eTel.: +49 89 2050 4104\u003cbr\u003e\u003ca href=\"mailto:r.stock@house-of-communication.com\"\u003er.stock@house-of-communication.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2276465-ger-XX/231024_Medienmitteilung_Interchalet_Meeresbrise_vor_der_Haust%C3%BCre.pdf\" target=\"_blank\"\u003eHier Pressemitteilung herunterladen \u0026gt;\u0026gt;\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

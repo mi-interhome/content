@@ -26,13 +26,26 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/juridisch/",
+                            "label": "Juridisch"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +54,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Juridisch",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003eHHD AG \u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eSägereistrasse 20\u003cbr\u003eCH-8152 Glattbrugg\u003cbr\u003e\u003cstrong\u003eTelefoon: \u003c/strong\u003e+31 70 4141 000\u003cbr\u003e\u003cstrong\u003eE-mail: \u003c/strong\u003e\u003ca href=\"mailto:info@interhome.nl\"\u003einfo@interhome.nl\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAlgemeen directeur:\u003c/strong\u003e Jörg Herrmann\u003cbr\u003e\u003cstrong\u003eHandelsregister:\u003c/strong\u003e CHE-105.847.636\u003cbr\u003e\u003cstrong\u003eBTW-nr.:\u003c/strong\u003e CHE-105.847.636\u003c/p\u003e\u003ch3\u003eData Protection Coordinator van HHD AG\u003c/h3\u003e\u003cp\u003eAndreas Benz\u003cbr\u003e\u003ca href=\"mailto:DSB@interhome.com\"\u003eDSB@interhome.com\u003c/a\u003e of \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003eVertegenwoordiger volgens artikel 27 DSGVO\u003cbr\u003eAdvocaat Prof. Clemens Pustejovsky\u003cbr\u003e\u003ca href=\"mailto:DSB@interchalet.com\"\u003eDSB@interchalet.com\u003c/a\u003e of \u003ca href=\"mailto:DPO@interchalet.com\"\u003eDPO@interchalet.com\u003c/a\u003e\u003cbr\u003eWallstr. 6, D-79098 Freiburg, Tel. +4976172168680\u003c/p\u003e\u003ch3\u003eTouroperator\u003c/h3\u003e\u003cp\u003eDe vakantiehuizen op deze website worden door HHD AG aangeboden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHHD AG\u003c/strong\u003e\u003cbr\u003eSägereistrasse 20\u003cbr\u003eCH 8152 Glattbrugg\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +74,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

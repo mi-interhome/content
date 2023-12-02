@@ -26,48 +26,140 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ueber-uns/",
+                            "label": "Über uns"
+                        },
+                        {
+                            "href": "/ueber-uns/nachhaltigkeit/",
+                            "label": "Love Nature – Umweltschutz geht uns alle an"
+                        },
+                        {
+                            "href": "/ueber-uns/nachhaltigkeit/beesark/",
+                            "label": "Save the bee – save our earth!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Save the bee – save our earth!",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e«Wenn die Biene einmal von der Erde verschwindet, hat der Mensch nur noch vier Jahre zu leben. Keine Bienen mehr, keine Bestäubung mehr, keine Pflanzen mehr, keine Tiere mehr, kein Mensch mehr.» (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group ist ein Vorbild in Sachen Nachhaltigkeit. Wir setzen uns beharrlich für einen nachhaltigen Ferienwohnungstourismus von morgen ein.\u003c/p\u003e\u003cp\u003eWir nehmen unsere Verantwortung ernst und setzen uns für die Erhaltung der Bienenpopulationen ein. Interhome Group verpflichtet sich, das Bienenschutzprogramm von unserem Partner BEESark finanziell zu unterstützen. Insgesamt werden 100’000 m\u003csup\u003e2\u003c/sup\u003e Blühwiesen in Österreich angepflanzt. Pro m\u003csup\u003e2\u003c/sup\u003e werden 87.37g CO\u003csub\u003e2\u003c/sub\u003e in Biomasse einer Wiese gebunden, zusätzlich werden 72.81g/m\u003csup\u003e2\u003c/sup\u003e Sauerstoff freigesetzt.\u003c/p\u003e\u003cp\u003eMehr Infos zu BEESark auf \u003ca href=\"http://www.beesark.com\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eBienen sichern unsere Zukunft\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eDie Blumenwiesen mit regional heimischen Pflanzen beinhalten nur Samen von Wiesenblumen, die in der Region geerntet wurden\u003c/li\u003e\n\u003cli\u003eDiese Pflanzen sind an das Klima, den Boden und andere Faktoren der Region optimal angepasst und unter diesen natürlichen Bedingungen konkurrenzstark\u003c/li\u003e\n\u003cli\u003eMischungen regionaler Herkunft werden für verschiedene Standorte angeboten\u003c/li\u003e\n\u003cli\u003eDauerhafte blühende Begrünung auf Jahrzehnte, bei Mischungen mit Einjährigen auch schneller, reich blühender Blickfang, Erhaltung des regionalen Genpools\u003c/li\u003e\n\u003cli\u003eDer ökologische Wert ist sehr hoch, da die Mischungen oft 20 bis 40 verschiedene Arten enthalten und somit auch Futterpflanzen für Spezialisten und seltene Arten sind\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNeuigkeiten\u003c/h3\u003e\u003ch4\u003e11. September 2023: Schutz der Bienen zum Wohle unseres Planeten!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eZehn engagierte Mitarbeiterinnen der Interhome Group aus sechs verschiedenen Ländern reisten mit dem Zug nach Klagenfurt, Österreich, um unser Verständnis für Biodiversität und unser ehrgeiziges Bienenprojekt zu vertiefen.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSeit zwei Jahren arbeitet die Interhome Group mit der in Kärnten ansässigen Organisation BEESark zusammen, um eine Initiative zur Förderung der Biodiversität zu unterstützen. BEESark wählt jedes Jahr über 35 heimische Blumenarten aus, um die Bienenpopulationen zu unterstützen. Der Landwirt Peter Janezic aus St. Jakob im Rosental hat 100.000 m2 Land für den Anbau dieser Blumen und die Schaffung eines Bienenschutzgebietes zur Verfügung gestellt. Selbst im September schwirrten unzählige Insekten durch die Blüten.\u003c/p\u003e\u003cp\u003eWir nahmen an einer bienenpädagogischen Exkursion unter der Leitung des Moosburger Bienenexperten Peter Lautemann teil, um einen tieferen Einblick in den Lebensraum, das Verhalten und den Lebenszyklus der Bienen zu bekommen. Peter bewirtschaftet einen Biohof mit über 100 Bienenvölkern.\u003c/p\u003e\u003cp\u003eDieses Projekt ist ein bemerkenswertes Beispiel für den Erhalt der regionalen Biodiversität. Nach zwei Jahren hat BEESark Bodentests durchgeführt, die bestätigen, dass unsere 100.000 Quadratmeter blühende Wiesen rund 200 Tonnen CO\u003csub\u003e2\u003c/sub\u003e-Emissionen reduziert haben. Damit sind wir unserem Ziel, die CO\u003csub\u003e2\u003c/sub\u003e-Emissionen bis 2030 um 50% zu reduzieren, einen großen Schritt näher gekommen.\u003c/p\u003e\u003cp\u003eWir sind BEESark sehr dankbar für ihre großartige Unterstützung und Partnerschaft und sehr stolz auf unsere produktive Zusammenarbeit.\u003c/p\u003e\u003cp\u003eNach unserer Bienenerfahrung haben wir uns ehrenamtlich engagiert. Klicken Sie hier, um mehr darüber zu erfahren: \u003ca href=\"/ueber-uns/nachhaltigkeit/freiwilligenarbeit/\"\u003eInterchalet | Freiwilligenarbeit\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11. Juli 2022: Ein Bienenparadies auf den Blühwiesen von Interhome Group\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group hat von seinem Partner BEESark 100'000 m\u003csup\u003e2\u003c/sup\u003e Blühwiesen ansäen lassen, um einen wichtigen Beitrag zur Biodiversität zu leisten. Lena Unterkircher und Saskia Weber haben die Bienenwiesen in Kärnten in Österreich besucht und sind begeistert von der Umsetzung.\u003c/strong\u003e (Text von Saskia Weber, Project \u0026amp; Marketing Manager Interhome Group)\u003c/p\u003e\u003cp\u003eDer Gründer von BEESark, Matthias Breznik, ist ein Original. Sein Werdegang führt über Roboterprogrammierung zu Hypnose-Coach und Umweltberater bis zum Landwirt. BEESark setzt individuelle Klimaschutzprojekte mit regionaler Nachhaltigkeit auf einem neuen Level um. Im Auftrag von Interhome Group hat Beesark den Biobauern Peter Janezic engagiert, der 1/6 seiner Ackerlandfläche in Blühwiesen umgewandelt hat. Nach sorgfältig durchgeführten Bodenproben wurden hier statt Mais oder Kartoffeln unzählige regionale Blumenarten angepflanzt. Die beiden Felder liegen rund ums idyllische Dorf Sankt Jakob im Rosenthal in Kärnten. Hier blüht die im Frühling gepflanzte Blumenpracht und wird rege von Honig- und Wildbienen besucht und bestäubt. Auf den Wiesen hat der lokale Imker Franz Fugger seine Bienenstöcke zur Verfügung gestellt. 75% der hier aktiven Bienen sind angesiedelte Honig- bzw. Hausbienen 25% sind Wildbienen. \u003c/p\u003e\u003cp\u003eDer Imker Franz hat uns mit viel Freude erzählt, dass er für seinen Honig von diesen Felder schon einen Preis gewonnen hat, dafür dass sein Honig 100% Schadstoff frei ist. Vom Bauer Peter über den Imker bis zu den Mitarbeitern von BEESark sind alle mit viel Schweiss und Herzblut dabei, die Blühwiesen anzusäen, zu pflegen und den Bienen ein Paradies zu bieten. Das rege Brummen und Summen in den Feldern ist ein wahre Freude zum Ansehen und Anhören. Die Bienen wie auch viele andere Insekten fühlen sich hier sichtlich sehr wohl und geniessen die Natur in vollen Zügen. Im nächsten Monat wird nun der erste Schnitt vom Bauern durchgeführt, damit die Blumenwiese nochmals in aller Pracht neu aufwächst und die Bienen wieder frische Blumen vorfinden. Im Herbst werden die Honigbienen vom Imker überwintert, bei den Wildbienen wird nur die trächtige Königin im 2023 wieder auf den Blühwiesen summen können. \u003c/p\u003e\u003cp\u003eDamit dieser wichtige Beitrag zur Biodiversität auf den Feldern auch messbar ist, hat BEESark eine eigene Software entwickelt, um die CO\u003csub\u003e2\u003c/sub\u003e Bilanz der Blühwiesen genau zu berechnen. BEESark ist sowohl TÜV geprüft wie auch ISO 9001 zertifiziert. \u003c/p\u003e\u003cp\u003eFür Lena und Saskia war es sehr eindrücklich und wunderschön zu sehen und spüren, dass die Interhome-Investitionen bei BEESark zu 100% in den richtigen Händen gelandet sind. BEESark ist ein Partner, der unsere nachhaltigen Ziele genau so umsetzt, wie wir uns das gewünscht haben. Unser Besuch vor Ort hat eine gute Basis für eine weitere Zusammenarbeit gefestigt. \u003c/p\u003e\u003cp\u003eWir freuen uns jetzt schon auf weitere Berichte über unsere Blühwiesen und ein neues, traumhaft farbiges Feld im 2023.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/ueber-uns/nachhaltigkeit/\"\u003e\u0026gt;\u0026gt; Erfahren Sie mehr über weitere Nachhaltigkeitsthemen der Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

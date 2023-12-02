@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2018/",
+                            "label": "Medienmitteilungen 2018"
+                        },
+                        {
+                            "href": "/presse/2018/grossstadtdschungel/",
+                            "label": "11.10.2018: Ferienwohnung im Grossstadtdschungel"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "11.10.2018: Ferienwohnung im Grossstadtdschungel",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eGlattbrugg, 11. Oktober 2018│\u003cstrong\u003eNicht nur in den Bergen oder am Strand: Ferienwohnungen sind auch in Grossstädten zu finden und eignen sich für einen Städtetrip genauso wie für einen geschäftlichen Aufenthalt in einer der Metropolen. \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWas gibt's schöneres als nach einem erlebnisreichen Arbeitstag oder einem Sightseeing- und Shoppingmarathon in einem Grossstadtdschungel die Füsse hochzulegen oder ein Bad zu nehmen und sich \"daheim\" zu fühlen? Fernab vom richtigen Zuhause, inmitten von Häuserschluchten oder engen Gassen, kann der Erholungsfaktor genau so gross wie in den eigenen vier Wänden sein.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIm Dschungel von Barcelona\u003c/strong\u003e\u003cbr\u003eDie Ferienwohnung \"Eixample Esquerre Gran Via Balmes\" ist die geeignete Wohnung für einen Städte- oder Business-Trip nach Barcelona. Die geräumige und helle 4-Zimmer-Wohnung ist komfortabel eingerichtet und Sehenswürdigkeiten wie zum Beispiel die Plaça de Catalunya, die Rambla oder die Sagrada Família sind zu Fuss zu erreichen. Wer sich nach einem erlebnisreichen Sightseeing- oder Geschäfts-Tag abkühlen will, findet den Sandstrand Barceloneta in nur 3km Entfernung.\u003cbr\u003e1 Woche in der 4-Sterne-Ferienwohnung \"Eixample Esquerre Gran Via Balmes\" in Barcelona in Spanien für maximal 5 Personen ist bei Interhome ab CHF 1'440.- buchbar, inklusive Endreinigung sowie Bett- und Toilettenwäsche. \u003ca href=\"/ES9510.617.1\"\u003ewww.interhome.ch/ES9510.617.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIm Dschungel von New York\u003c/strong\u003e\u003cbr\u003eDie Stadt New York ist sowohl für Shopping als auch für Geschäftsreisen eine der bekanntesten Destinationen. Wer für mehrere Tage im \"Big Apple\" weilt, fühlt sich in der Ferienwohnung \"Central Park\" bestimmt wie zuhause. Wie der Name schon sagt, liegt die stilvoll eingerichtete und geräumige Ferienwohnung direkt neben der bekanntesten Grünfläche der \"Stadt, die niemals schläft\".\u003cbr\u003e1 Woche in der 4-Sterne-Ferienwohnung \"Central Park\" in New York in den USA für maximal 4 Personen ist bei Interhome ab CHF 3'653.- buchbar, inklusive Endreinigung sowie Bett- und Toilettenwäsche. \u003ca href=\"/US1000.50.1\"\u003ewww.interhome.ch/US1000.50.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIm Dschungel von Rom\u003c/strong\u003e\u003cbr\u003eKaiserliche Paläste, Schätze erlesener Kunst und Kultur oder der Vatikanstaat: Kulturell interessierte Personen kommen in Rom auf ihre Kosten. Im Zentrum der Stadt, im Bezirk Campo dei Fiori, liegt die Ferienwohnung \"Giulia Penthouse\". Trotz guter Lage im Herzen der \"ewigen Stadt\" kann man hier nach einem anstrengenden Tag zur Ruhe kommen: Die hell, komfortabel und gemütlich eingerichtete Wohnung bietet nebst zwei Schlafzimmern und einem Wohnzimmer auch eine Terasse für das \"Dolce far niente\".\u003cbr\u003e1 Woche in der 4-Sterne-Ferienwohnung \"Giulia Penthouse\" in Rom in Italien für maximal 6 Personen ist bei Interhome ab CHF 1'481.- buchbar, inklusive Bett- und Toilettenwäsche. \u003ca href=\"/IT5700.730.1\"\u003ewww.interhome.ch/IT5700.730.1 \u003c/a\u003e\u003cbr\u003e   \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1396624-ger-CH/2018-10-11_Ferienwohnung-im-Grossstadtdschungel.pdf\"\u003eDie vollständige Medienmitteilung im PDF-Format herunterladen \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1396629-ger-CH/Photos.zip\"\u003eDie Bilder im ZIP-Format herunterladen \u0026gt;\u0026gt;.\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

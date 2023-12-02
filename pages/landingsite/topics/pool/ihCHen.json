@@ -26,43 +26,110 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_pool_2023/2239638-2-eng-XX/Header_1200x410_IH_Pool_2023.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/villa-with-pool/",
+                            "label": "Book a holiday villa with pool"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Book a holiday villa with pool",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 5,
-                "component": "",
-                "content": null
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eBooking villas with pools can take all the stress out of your family break by providing the kids with a ready-made source of entertainment. When it comes to destinations, you can choose from Luxury Holiday Villas in countries: such as France, Italy, Portugal, Spain, Croatia. If you are looking for the perfect family villas, then you may want to look into the villas with private pools that are available, giving the kids plenty of space to enjoy the weather without disturbing anyone else.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eVillas with pools sounds like something quite luxurious, and probably expensive, however, we have a full range of villas that cater to all budgets, including value-for-money villas, meaning that you can enjoy the luxury of your own space, and your own pool, your own convenience and your own schedule at some truly unbelievable prices.\u003c/p\u003e\u003cp\u003eMost of our villas with pools also have their own enclosed grounds or gardens, so you really can soak up the sun, relax by the pool, and enjoy your family just as though you were at home, only with more sunshine!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Only selected and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "Guaranteed availability and on-site service",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and insights for your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/en/italy/\"\u003eItaly\u003c/a\u003e, feel the charming lifestyle of the \u003ca href=\"/en/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or the \u003ca href=\"/en/spain/\"\u003eSpanish way of life\u003c/a\u003e. Be inspired by our \u003ca href=\"\"\u003etravel ideas\u003c/a\u003e and book online - quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eYour stay in a holiday house or a holiday apartment offers plenty of advantages: spend your time exactly as you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules. Whether you are looking for a \u003ca href=\"/en/holiday-ideas/citytrips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/en/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Simply enjoy lots of room, flexibility and freedom in your holiday home.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

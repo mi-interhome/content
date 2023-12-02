@@ -26,38 +26,108 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/",
+                            "label": "Skigebieden in Zwitserland"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/klewenalp/",
+                            "label": "Wintersport chalets in Klewenalp"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersport chalets in Klewenalp",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eIn het \u003ca href=\"/zwitserland/berner-oberland/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=edd2ea75-171d-9e06-4842-3e16cbd476b2\"\u003eBerner Oberland\u003c/a\u003e, in kanton Nidwalden, vinden we op een hoogte van 1200 tot 2000 meter een middelgroot skigebied met alle faciliteiten voor een heerlijke wintersportvakantie. Een wintersport chalet in Klewenalp is een alleraardigst startpunt voor een gevarieerde ski- of snowboardvakantie. Wat u ook wilt doen tijdens uw wintersport, het kan in Klewenalp.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome biedt in de volgende dorpen in de Klewenalp vakantiehuisjes aan:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\u003cli\u003e\u003ca href=\"/zwitserland/centraal-zwitserland/emmetten/\"\u003eEmmeten\u003c/a\u003e\u003c/li\u003e\u003c/ul\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Klewenalp\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-in-zwitserland4/1398276-1-dut-NL/Vakantiehuisjes-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24122\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-dichtbij-de-skilift4/1398281-1-dut-NL/Vakantiehuisjes-dichtbij-de-Skilift.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24123\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/skigebieden-in-zwitserland4/1398286-1-dut-NL/Skigebieden-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24124\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/zwitserland-skigebieden/\"\u003e\u0026gt;\u0026gt; Skigebieden in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003ch3\u003eWintersportmogelijkheden bij Klewenalp\u003c/h3\u003e\u003cp\u003eHet skigebied Klewenalp-Stockhütte biedt u zo’n 40 pistekilometers op diverse niveaus. De helft van de pistes is eenvoudig, de helft gemiddeld tot moeilijk. Zowel uit de dorpen Beckenried (met de kabelbaan) als Emmetten (met de gondelbaan) kunt u rechtstreeks in dit gebied komen. De kwaliteit van het gebied blijkt uit het feit dat ook de Zwitsers zelf er in het weekend vaak komen skiën.\u003c/p\u003e\u003cp\u003eBijzonder aan het skigebied zijn niet alleen de prima faciliteiten en de mooie pistes, maar ook het prachtige uitzicht. Vanaf dit gebied kijkt u prachtig uit over de Vierwaldstättersee. Dit Meer van Luzern of het Vierwoudstedenmeer, zoals wij het ook wel kennen, ligt magistraal tussen de steile wanden van het hooggebergte en doet denken aan een fjord.\u003c/p\u003e\u003ch3\u003eAndere wintersportactiviteiten\u003c/h3\u003e\u003cp\u003eWilt u ook wel eens wat anders dan skiën of snowboarden op de pistes? Er is veel meer mogelijk in dit gebied. Uiteraard leent de geweldige natuur zich voor winterwandelen en sneeuwschoenwandelen. Ook freeriders kunnen zich hier vermaken. Daarnaast is er de mogelijkheid om te rodelen, de rodelbaan loopt tot aan Emmetten.\u003c/p\u003e\u003cp\u003eEn als u eens iets heel anders wilt, paragliden behoort tot de mogelijkheden in het fraaie gebied. Airboarden kunt u ook op de Klewenalp-Stockhutte. Deze Zwitserse uitvinding is een alternatief voor rodelen waarbij men met een soort luchtkussen van een piste afglijdt. Snel, spannend en leuk.\u003c/p\u003e\u003ch3\u003eSkidorpen bij Klewenalp\u003c/h3\u003e\u003cp\u003eTwee bekende dorpen in dit gebied zijn Emmetten en Beckenried. Emmetten ligt aan de zuidkant van het meer op een hoogte van ruim 750 meter en een minuut of 20 rijden vanuit \u003ca href=\"/zwitserland/centraal-zwitserland/luzern/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=edd2ea75-171d-9e06-4842-3e16cbd476b2\"\u003eLuzern\u003c/a\u003e. In de omgeving van het dorp zijn prachtige wandelingen te vinden en u kunt met de lift rechtstreeks naar het skigebied. Emmetten heeft prachtig natuurschoon maar tegelijkertijd prima faciliteiten en vooral gezinnen met kinderen hebben het hier goed naar hun zin. Uiteraard zijn er lekkere restaurantjes om na een lange en intensieve dag in de sneeuw nog heerlijk te eten en bij te praten over de dag.\u003c/p\u003e\u003cp\u003eBeckenried is wel een heel mooi en authentiek dorp aan het meer. Bijzonder is dat de kabelbaan naar het skigebied de langste kabelbaan van centraal Zwitserland is. Ook hier geldt dat de ligging aan het meer het extra bijzonder maakt. Omkijken dus tijdens uw tocht omhoog.\u003c/p\u003e\u003ch3\u003eWintersport chalet bij Klewenalp\u003c/h3\u003e\u003cp\u003eKlewenalp is een fraai skigebied met voor ieder wat wils. Een mooie plek om uw komende wintersportvakantie te plannen. Er zijn leuke accommodaties in het gebied te vinden en of u nu een hotel, een appartement of een wintersport chalet voor uw vakantie zoekt, er is voldoende keuze. Voor uzelf, met z’n tweeën of het hele gezin. Maar ook als u met een grotere groep komt, is dit een heerlijk gebied.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

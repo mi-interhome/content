@@ -26,68 +26,142 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienwohnung zu Ostern ",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_easter-holidays/980241-1-ger-XX/Header_1400x480_easter-holidays.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fi/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fi/ideoita-lomalle/",
+                            "label": "Turvallinen, huoleton ja nautinnollinen loma- tutustu ideoihimme"
+                        },
+                        {
+                            "href": "/fi/ideoita-lomalle/paasiaisloma/",
+                            "label": "Varaa loma-asunto pääsiäislomalle"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Varaa loma-asunto pääsiäislomalle",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003e\u003cstrong\u003eNauti pääsiäislomasta rentoutuen\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eOn kyse vain muutamasta päivästä tai pidennetystä pääsiäislomasta - nauti kevään tulosta ja vietä pääsiäinen omassa lomatalossa.\u003cbr\u003eVärikkäät kukkaniityt, lämmittävät kevätauringon säteet ja kotoisa lomahuoneisto tai tilava lomatalo parhaalla hinta-laatusuhteella - mitä muuta enää täydelliseen rentoutumiseen tarvitaan?\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"#kohteita\"\u003ePaljon mielenkiintoisia kohteita\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003eVietä upea perheloma omassa lomatalossa\u003c/h3\u003e\u003cp\u003eArvostatko luonnonläheisyyttä ja pitkiä kävelyjä vuoristomaisemissa vai haaveiletko jo talvella kesälomasta meren äärellä? Haluaisitko yllättää rakkaasi romanttisella irtiotolla omassa loma-asunnossa? Etsitkö pääsiäiseksi isoa lomataloa, jossa koko perhe majoittuu mukavasti? Riippumatta siitä mitkä suunnitelmasi ovat, löydät sopivan majoituksen Interhomen kattavasta valikoimasta loma-asuntoja. Vuokraa siis idyllinen lomahuoneisto merinäköalalla, mukava mökki Alpeilta tai lomatalo kaikilla mukavuuksilla.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Inspiroidu lomaideoistamme:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca id=\"kohteita\"\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Pääsiäisen lomaideoita",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\u003cstrong\u003ePääsiäisloma Italiassa\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003e\u003ca href=\"/fi/italia/gardajaervi/\"\u003eGardajärvi\u003c/a\u003e, \u003ca href=\"/fi/italia/toscana-koko-alue/\"\u003eToscana\u003c/a\u003e, \u003ca href=\"/fi/italia/rome-city/rooma/\"\u003eRooma\u003c/a\u003e tai \u003ca href=\"/fi/italia/veneto/venetsia/\"\u003eVenetsia\u003c/a\u003e. \u003ca href=\"/fi/italia/\"\u003eItalian\u003c/a\u003e huippukohteita yhdistää ainutkertainen kulttuuri, historialliset monumentit ja erinomainen ruoka. Tässä vain muutama syy matkustaa Italiaan, joka on täydellinen yhdistelmä kulttuuria ja rentoutumista.\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003ePääsiäisloma Espanjassa\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003e¡Felices Pascuas! \u003ca href=\"/fi/espanja/\"\u003eEspanja\u003c/a\u003e tarjoaa monia upeita kohteita, joten varaa pääsiäisloma vaikkapa \u003ca href=\"/fi/espanja/mallorca/\"\u003eMallorcalle\u003c/a\u003e. Huhtikuun puolivälissä lämpötila on jo niin miellyttävä, että voit käydä kastautumassa Välimereen. Kesäinen lämpö on omiaan perheille ja ruuhkattomat merenpoukamat kutsuvat rentoutumaan. Erityisesti Espanjan itärannikolla sijaitseva \u003ca href=\"/fi/espanja/costa-blanca/\"\u003eCosta Blancan\u003c/a\u003e alue on erinomainen valinta pääsiäislomalle.\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003ePääsiäisloma Ranskassa\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003ePääsiäismunien etsintää maalauksellisen kauniilla \u003ca href=\"/fi/ranska/cote-d-azur/\"\u003eRanskan Rivieralla\u003c/a\u003e, Atlantin rannalla \u003ca href=\"/fi/ranska/bretagne-koko-alue/\"\u003eBretagnessa\u003c/a\u003e tai vehreissä maisemissa \u003ca href=\"/fi/ranska/normandia/\"\u003eNormandiassa\u003c/a\u003e.\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003ePääsiäisenä kaupunkilomalle\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003ePidennettylle viikonlopulle Euroopan suurkaupunki on erinomainen vaihtoehto. Pääsiäisenä siihen on hyvä mahdollisuus ilman ylimärääisiä lomapäiviä. Vietä \u003ca href=\"https://www.interhome.fi/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e \u003ca href=\"/fi/ranska/cote-d-azur/nizza/\"\u003eNizzassa\u003c/a\u003e, \u003ca href=\"/fi/italia/rome-city/rooma/\"\u003eRoomassa\u003c/a\u003e tai \u003ca href=\"/fi/espanja/barcelona/barcelona/\"\u003eBarcelonassa\u003c/a\u003e. Interhomelta löydät juuri teille sopivan kaupunkihuoneiston.\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eÄkkilähtö pääsiäiseksi\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eOnko suunnitelmat pääsiäislomalle vielä auki? Tutustu äkkilähtötarjouksiimme. Kun varaat enintään 8 päivää ennen loman alkua, saat 33% alennuksen valikoiduista lomataloista ja –huoneistoista. Ole spontaani, \u003ca href=\"/fi/ideoita-lomalle/akkilahdot/\"\u003evaraa\u003c/a\u003e ja säästä!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/fi/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkein prioriteetti.",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 13,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/fi/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/fi/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/fi/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/fi/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/fi/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/fi/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/fi/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/fi/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/fi/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/fi/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen – vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

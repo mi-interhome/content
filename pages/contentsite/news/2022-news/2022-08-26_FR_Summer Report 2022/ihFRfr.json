@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2022/",
+                            "label": "Presse 2022"
+                        },
+                        {
+                            "href": "/presse/2022/20220826-bilan-ete-2022/",
+                            "label": "Bilan estival : la France, destination phare des vacanciers européens et français"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Bilan estival : la France, destination phare des vacanciers européens et français",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eInterhome France dévoile les tendances des réservations de sa clientèle pour juillet et août 2022 : la France reste largement en tête, mais les choix de destinations sont redevenus similaires à ceux d’avant la pandémie, que ce soit en France ou au niveau des destinations étrangères populaires l’été, à savoir l’Espagne, l’Italie, la Suisse et le Portugal.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSelon les chiffres de réservations estivales enregistrées par Interhome France, \u003cstrong\u003e66% de ses clients français ont réservé une location de vacances dans l’Hexagone\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eL’Espagne arrive en deuxième position, loin derrière, avec 20% des séjours réservés\u003c/strong\u003e suivie par l\u003cstrong\u003e’Italie\u003c/strong\u003e, avec\u003cstrong\u003e 8% des réservations\u003c/strong\u003e, la Suisse et le Portugal.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLe littoral français et la Costa Brava toujours aussi prisés\u003c/strong\u003e\u003cbr\u003eComme chaque été, les Français ont majoritairement choisi de louer un appartement ou une maison proche de la mer.\u003cbr\u003eLa\u003cstrong\u003e Côte d’Azur (15%\u003c/strong\u003e des séjours) a été la région la plus demandée. Suivent le \u003cstrong\u003eLanguedoc-Roussillon (12%\u003c/strong\u003e), l’Aquitaine (12%), la\u003cstrong\u003e Bretagne\u003c/strong\u003e (\u003cstrong\u003e9%\u003c/strong\u003e), et la \u003cstrong\u003eCosta Brava\u003c/strong\u003e, qui a retrouvé ses niveaux de clientèle française cet été.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eExplosion des séjours de la clientèle étrangère en France\u003c/strong\u003e\u003cbr\u003eLa \u003cstrong\u003eclientèle étrangère\u003c/strong\u003e est venue essentiellement d’\u003cstrong\u003eAllemagne\u003c/strong\u003e (près d’une réservation sur 2), suivie de la \u003cstrong\u003eBelgique\u003c/strong\u003e, de la \u003cstrong\u003eSuisse\u003c/strong\u003e, des \u003cstrong\u003ePays-Bas\u003c/strong\u003e et du \u003cstrong\u003eRoyaume-Uni\u003c/strong\u003e. Leurs régions de prédilection ont été la \u003cstrong\u003eCôte d’Azur\u003c/strong\u003e (27%), la \u003cstrong\u003eBretagne\u003c/strong\u003e (20%), l’\u003cstrong\u003eAquitaine\u003c/strong\u003e (14%), le \u003cstrong\u003eLanguedoc-Roussillon\u003c/strong\u003e (9%) et la\u003cstrong\u003e Normandie\u003c/strong\u003e (8%).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDes séjours un peu plus longs et un budget légèrement en hausse pour la clientèle française\u003c/strong\u003e \u003cbr\u003eLa \u003cstrong\u003edurée moyenne des séjours\u003c/strong\u003e a été de \u003cstrong\u003e8,5 nuits\u003c/strong\u003e pour les clients français (contre 8,2 nuits pour l’été 2021), avec un\u003cstrong\u003e panier moyen de 1 352 €\u003c/strong\u003e (contre 1 260 € pour l’été 2021).\u003c/p\u003e\u003cp\u003eLes \u003cstrong\u003eAllemands\u003c/strong\u003e qui ont séjourné \u003cstrong\u003een France\u003c/strong\u003e sont restés \u003cstrong\u003e11,1 nuitées\u003c/strong\u003e en moyenne (\u003cstrong\u003e+47,3%\u003c/strong\u003e par rapport à l’été 2021), les \u003cstrong\u003eBelges 8,8 nuitée\u003c/strong\u003es en moyenne (+14,7% par rapport à l’été 2021), les\u003cstrong\u003e Suisses 9,2 nuitées\u003c/strong\u003e en moyenne (+56,6% par rapport à l’été 2021), les \u003cstrong\u003eNéerlandais 9,2 nuitées\u003c/strong\u003e en moyenne (\u003cstrong\u003e+56,3%\u003c/strong\u003e par rapport à l’été 2021) et les \u003cstrong\u003eBritanniques 8 nuitées\u003c/strong\u003e en moyenne (\u003cstrong\u003e+429,4%\u003c/strong\u003e par rapport à l’été 2021).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLe panier moyen des clients étrangers ayant séjourné en France\u003c/strong\u003e s’est élevé à \u003cstrong\u003e1 706 €\u003c/strong\u003e cet été, contre 1 750€ en 2021.\u003c/p\u003e\u003cp\u003e« Les contraintes de voyage ont été assouplies dans la plupart des pays, mais les Français continuent majoritairement à séjourner en France. Les séjours se sont concentrés, comme d’habitude, sur la Côte d’Azur et le Languedoc-Roussillon. Le retour de la clientèle étrangère en France est un signe très positif et l’arrière-saison s’annonce très belle pour Interhome France », a expliqué Xavier Lelièvre, Directeur Général d’Interhome France.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2174608-fre-FR/2022-08-26_FR_Bilan-%C3%A9t%C3%A9-2022.pdf\"\u003e\u0026gt;\u0026gt;\u0026gt; Télécharger le communiqué de presse au format PDF\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2174613-fre-FR/2022-08-25_FR_Photo_Bilan-%C3%A9t%C3%A9-2022.zip\"\u003e\u0026gt;\u0026gt;\u0026gt; Télécharger la photo au format ZIP\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre location de vacances !",
+                    "link": {
+                        "href": "/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre location vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome ?",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVoulez-vous découvrir de nouvelles destinations ? La meilleure solution est d’opter pour la location vacances. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des \u003ca href=\"https://fr.trustpilot.com/review/www.interhome.fr\"\u003eavis clients positifs\u003c/a\u003e. Faites-nous confiance et optez pour la location saisonnière en toute sécurité.\u003cbr\u003e\u003ca href=\"/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/cavalaire/\"\u003eCavalaire\u003c/a\u003e | \u003ca href=\"/france/charente-maritime/\"\u003eCharente Maritime\u003c/a\u003e | \u003ca href=\"/france/corse/\"\u003eCorse\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/france/normandie/deauville-trouville/\"\u003eDeauville-Trouville\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e | \u003ca href=\"/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/france/finistere/\"\u003eFinistère\u003c/a\u003e | \u003ca href=\"/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/france/les-landes/\"\u003eLes Landes\u003c/a\u003e | \u003ca href=\"/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/france/morbihan/\"\u003eMorbihan\u003c/a\u003e | \u003ca href=\"/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/france/pays-basque/\"\u003ePays Basque\u003c/a\u003e | \u003ca href=\"/france/morbihan/quiberon/\"\u003eQuiberon\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/sainte-maxime/\"\u003eSainte-Maxime\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/\"\u003eSavoie - Haute Savoie\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Réservez dès maintenant votre location vacances.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

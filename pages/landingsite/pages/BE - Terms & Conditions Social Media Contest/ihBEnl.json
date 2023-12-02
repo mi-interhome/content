@@ -26,38 +26,104 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/social-media-contest2/",
+                            "label": "Actievoorwaarden winactie Facebook"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Actievoorwaarden winactie Facebook",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3 align=\"left\"\u003e\u003cstrong\u003eVoorwaarden voor deelname\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eHHD B.V. organiseert van 13/02/2023 om 14:00 CET tot 19/02/2023 om 23:59 CET (uitvoeringsperiode) een wedstrijd onder het motto \"Win een gratis verblijf op Vakantiepark Holiday Hill\".\u003c/p\u003e\u003cp\u003eDoor deel te nemen aan de wedstrijd gaat de deelnemer akkoord met de onderstaande deelnemersvoorwaarden en informatie over gegevensbescherming.\u003c/p\u003e\u003ch3\u003e\n\u003cstrong\u003e1. \u003c/strong\u003e\u003cstrong\u003eDeelname\u003c/strong\u003e\n\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003ea.\u003c/strong\u003e Alle personen die de wettelijke leeftijd hebben bereikt en in Nederland of België wonen komen voor de deelname in aanmerking. Werknemers van de Holiday Home Division en gelieerde bedrijven en hun familieleden zijn uitgesloten van deelname.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eb.\u003c/strong\u003e Elke deelnemer kan zo vaak deelnemen als hij/zij wilt maar kan maar één keer winnen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ec.\u003c/strong\u003e De wedstrijd wordt gespeeld door middel van een post op de Facebookpagina van HHD N.V. (https://www.facebook.com/InterhomeBE). De deelname is compleet als de deelnemer de Facebookpagina van HHD N.V. heeft geliked én een reactie heeft achtergelaten op de desbetreffende Facebook post.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ed.\u003c/strong\u003e Door deel te nemen stemt de deelnemer ermee in dat in het geval van winst zijn/haar naam op Facebook zal worden gepubliceerd.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ee.\u003c/strong\u003e Alle deelnemers van de winactie gaan ermee akkoord geen onwettige inhoud te plaatsen, te delen of anderszins te verspreiden in verband met de winactie.\u003c/p\u003e\u003ch3\u003e\n\u003cstrong\u003e2. \u003c/strong\u003e\u003cstrong\u003eUitvoering\u003c/strong\u003e\n\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003ea.\u003c/strong\u003e De organisator bepaalt de winnaar door een loting onder alle deelnemers. De uiteindelijke winnaar zal binnen 7 dagen na het einde van de wedstrijd op de hoogte gebracht worden middels een persoonlijk bericht op zijn/haar account. De winnaar zal vervolgens worden gevraagd zijn/haar contactgegevens correct en naar waarheid op te sturen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eb.\u003c/strong\u003e Indien de winnaar niet binnen 14 dagen na verzending van de kennisgeving reageert vervalt de aanspraak op de prijs en zal er een nieuwe winnaar worden geloot.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ec.\u003c/strong\u003e HHD N.V. behoudt zich het recht voor om de actie op grond van onvoorziene omstandigheden zonder aankondiging te verlengen, te beëindigen of te annuleren. Dit geldt met name indien software- en/of hardwarefouten optreden en/of om andere technische en/of juridische redenen waardoor een regelmatige en goede uitvoering van het vergelijkend onderzoek niet kan worden gegarandeerd. In een dergelijk geval hebben de deelnemers geen recht op enige vordering tegen de organisator.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ed.\u003c/strong\u003e HHD N.V. behoudt zich het recht om deelnemers van de wedstrijd uit te sluiten wegens overtreding van de deelnamevoorwaarden, valse informatie, manipulatie of gebruik van ongeoorloofde hulpmiddelen.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003e3. De prijs\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eBij een deelname aan de winactie maakt de deelnemer kans op een gratis verblijf voor maximaal 8 personen in objectnummer CZ5434.126.1 in de vastgestelde periode van 09/09/2023 tot 16/09/2023. Bedlinnen, schoonmaak en energie zijn bij de prijs inbegrepen. De prijs is exclusief toeristenbelasting van CZK 21,00 per persoon per dag. Dit bedrag zal de winnaar zelf ter plaatse moeten betalen. De waarborg voor het verblijf is volledig ten laste van de winnaar en moet bij aankomst betaald worden. Dit bedrag krijgt de winnaar terug bij het einde van het verblijf, mits de woning in oorspronkelijke staat terug afgeleverd wordt.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003e4. Overige bepalingen\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003ea.\u003c/strong\u003e De rechtsgang is uitgesloten. De prijs kan niet worden verkocht. Er zal geen contante betaling plaatsvinden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eb.\u003c/strong\u003e De wedstrijd is op geen enkele wijze verbonden met Instagram en wordt op geen enkele wijze gesponsord, georganiseerd of onderschreven door Facebook. Door deel te nemen aan de winactie stemt elke deelnemer ermee in Facebook te vrijwaren van alle claims in verband met deze winactie. Contact voor vragen of opmerkingen over deze actie dienen te worden gericht aan HHD N.V.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ec.\u003c/strong\u003e Indien afzonderlijke bepalingen van deze deelnemingsvoorwaarden ongeldig zijn of worden, blijft de geldigheid van de overige deelnemingsvoorwaarden onverminderd van kracht. De wettelijke bepalingen treden in hun plaats.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ed.\u003c/strong\u003e Technische of andere problemen waarop de organisator geen invloed heeft, vallen niet onder de aansprakelijkheid van de organisator.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003e5. Informatie over gegevensbescherming\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eIn het kader van deelname aan de wedstrijd worden de volgende persoonsgegevens van de deelnemers verzameld: voor het publiek zichtbare naam op Facebook. De naam wordt alleen opgeslagen en gebruikt voor zover dit nodig is voor de uitvoering van de wedstrijd, met name om de prijs op te sturen in het geval van een gewonnen prijs.\u003c/p\u003e\u003cp\u003eDe persoonsgegevens worden uitsluitend verwerkt voor de uitvoering van het vergelijkend onderzoek, geblokkeerd voor verder gebruik na de eindafrekening en gewist na het verstrijken van de in de fiscale en commerciële wetgeving vastgestelde bewaringstermijnen.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

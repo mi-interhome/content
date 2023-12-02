@@ -26,48 +26,140 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om interhome"
+                        },
+                        {
+                            "href": "/om-interhome/bærekraft/",
+                            "label": "Love nature - bevaring angår alle"
+                        },
+                        {
+                            "href": "/om-interhome/bærekraft/beesark/",
+                            "label": "Save the bee – save our earth!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Save the bee – save our earth!",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e«Dersom biene forsvinner fra jorden, har menneskene bare fire år igjen å leve. Ingen flere bier, ingen mer bestøvning, ingen flere planter, ingen flere dyr, ingen flere mennesker.» (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group er et forbilde når det gjelder bærekraft. Vi går målrettet for fremtidens bærekraftige feriehusturisme.\u003c/p\u003e\u003cp\u003eVi tar vårt ansvar på alvor og har forpliktet oss til å bevare biebestanden. Interhome Group forplikter seg til å bidra med 1€ til biebeskyttelsesprogrammet til vår partner BEESark for hver bestilling. For hver bestilling vil det plantes 2.5m\u003csup\u003e2\u003c/sup\u003e bie-eng i Østerrike. Per m\u003csup\u003e2\u003c/sup\u003e blir 87,37g CO\u003csub\u003e2\u003c/sub\u003e bundet i biomasse i engen, i tillegg frigjøres 72,81g/m\u003csup\u003e2\u003c/sup\u003e oksygen.\u003c/p\u003e\u003cp\u003eMer informasjon om BEESark på \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eBiene sikrer vår fremtid\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eBlomsterengene med regionalt innfødte planter inneholder kun frø fra engblomster som ble høstet i regionen\u003c/li\u003e\n\u003cli\u003eDisse plantene er optimalt tilpasset regionens klima, jordsmonn og andre faktorer og er svært overlevelsesdyktige i disse naturlige omgivelsene\u003c/li\u003e\n\u003cli\u003eBlandingene av regional opprinnelse blir tilbudt for forskjellige steder\u003c/li\u003e\n\u003cli\u003ePermanent blomstrende grønne enger i flere tiår, med blandinger av ettårige planter og også raskere, rikt blomstrende blikkfang, bevaring av det regionale genforrådet\u003c/li\u003e\n\u003cli\u003eDen økologiske verdien er svært høy, da blandingene ofte inneholder 20 til 40 forskjellige arter, og derfor også er fôrplanter for spesielle og sjeldne arter\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNyheter\u003c/h3\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003e11. september 2023: Beskyttelse av bier for planetens beste!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eTi engasjerte ansatte i Interhome Group, fra seks forskjellige land reiste med tog til Klagenfurt i Østerrike for å få en dypere forståelse av biologisk mangfold og vårt ambisiøse bieprosjekt.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDe to siste årene har Interhome Group samarbeidet med BEESark i Kärnten for å støtte et initiativ for biologisk mangfold. BEESark velger hvert år ut mer enn 35 lokale blomsterarter for å opprettholde biebestandene. Den lokale bonden Peter Janezic fra St. Jakob i Rosental har avsatt 100 000 m\u003csup\u003e2\u003c/sup\u003e jord til å dyrke disse blomsterartene og på den måten skape et friområde for biene. Til og med i september summet det av utallige insekter rundt blomstene. \u003cbr\u003eVi deltok på en lærerik ekskursjon ledet av Peter Lautemann, en bieekspert fra Moosburg, for å få et dypere innblikk i bienes habitat, atferd og livssyklus. Peter driver en økologisk gård med over 100 biesamfunn.\u003c/p\u003e\u003cp\u003eDette prosjektet er et enestående eksempel på hvordan man kan bevare det biologiske mangfoldet i en region. Allerede etter to år kunne altså BEESark gjennomføre jordprøver som bekreftet at de 100 000 kvadratmeterne med blomsterenger hadde redusert CO\u003csub\u003e2\u003c/sub\u003e-utslippene med ca. 200 tonn. Dette er et stort skritt i retning av målet vårt om å redusere karbonutslippene med 50 % innen 2030.\u003c/p\u003e\u003cp\u003eVi er svært takknemlige for BEESarks enestående støtte og partnerskap, og vi er stolte av det produktive samarbeidet.\u003c/p\u003e\u003cp\u003eEtter opplevelsen med biene deltok vi i litt frivillig arbeid. Du kan lese mer om det ved å klikke her: \u003ca href=\"/om-interhome/bærekraft/frivillig-arbeid/\"\u003eInterhome | Frivillig arbeid\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/om-interhome/bærekraft/\"\u003e\u0026gt;\u0026gt; Lær mer om andre bærekraftprosjekter støttet av Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,43 +26,120 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_swisspeak_autumn_2020/1991269-3-eng-XX/Header_1200x410_SWISSPEAK_Autumn_2020.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410-spr_winter_zinal_22/2060381-1-eng-XX/Header_1200x410-SPR_Winter_Zinal_22.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/fr/pages/spr-zinal-spick-21-22/",
+                            "label": "10% de réduction pour les vacances dans le SWISSPEAK Resorts Zinal"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "10% de réduction pour les vacances dans le SWISSPEAK Resorts Zinal",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003e\u003cstrong\u003eDes expériences de vacances merveilleuses pour toute la famille\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eLe SWISSPEAK Resorts Zinal se situe dans le Valais, au bout du sauvage et romantique Val d'Anniviers, entouré d’impressionnantes montagnes. Profitez du panorama exceptionnel qu’offrent les 97 appartements confortables et élégants avec leurs cuisines entièrement équipées. Au sein du Resort, vous trouverez un restaurant et un bistrot avec une terrasse ensoleillée, un local de ski et de vélo pour nos clients sportifs ainsi qu’un Kids Room pour les petits et un Gaming Room pour les plus grands.\u003c/p\u003e\u003cp\u003eTout autour de Zinal, vous disposez de 490 km de sentiers de randonnée et de 200 km de parcours VTT. Les familles apprécient beaucoup le Foxtrail captivant et le trail de détective récemment inauguré. A seulement 300 m du Resort, la nouvelle télécabine confortable vous amène dans le domaine skiable de Zinal-Sorebois qui se prête tout autant à la randonnée et qui est lié à Grimentz via une autre télécabine. En hiver, profitez de la descente jusqu’au Resort. Un tapis magique est installé pour les débutants de ski et les adeptes de la luge à côté du Resort.\u003c/p\u003e\u003cp\u003eRéjouissez-vous de vacances actives et reposantes en pleine nature dans un cadre magnifique, le tout complété par le confort d’un appartement de vacances haut de gamme privé.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLecteurs de FamilienSPICK, profitez d’une réduction de 10% dans le SWISSPEAK Resorts Zinal ! Réservez à partir du 1/8/21 jusqu’au 31/1/22, pour une arrivée dans cette même période.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIl suffit de saisir le code \"\u003cstrong\u003eSPICK-ZINAL\"\u003c/strong\u003e lors de votre réservation pour profiter de la réduction de 10%. Cette réduction n’est pas cumulable avec d’autres promotions.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003e\u003ca href=\"/fr/suisse/val-d-anniviers/zinal/?swiss_peak=true\"\u003e\u003cstrong\u003eSWISSPEAK Resorts Zinal (Valais)\u003c/strong\u003e\u003c/a\u003e\u003c/h3\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33596/1730735-4-eng-XX/SWISSPEAK-Resorts-Zinal-1_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34183\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33597/1730740-2-eng-XX/SWISSPEAK-Resorts-Zinal-2_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34184\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33598/1730745-2-eng-XX/SWISSPEAK-Resorts-Zinal-3_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34185\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33599/1730750-2-eng-XX/SWISSPEAK-Resorts-Zinal-4_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34186\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"\"\u003e\n\u003ctr\u003e\u003ctd valign=\"top\" style=\"vertical-align: top;\" colspan=\"3\"\u003e\u003cp\u003eLa résidence de 97 appartements confortables et de grande qualité pouvant accueillir jusqu'à 8 personnes impressionne par son emplacement privilégié au milieu du village de montagne idyllique de Zinal. La résidence est située à seulement 300 mètres de la télécabine. \u003cstrong\u003e\u003ca href=\"/fr/suisse/val-d-anniviers/zinal/?swiss_peak=true\"\u003e\u0026gt;\u0026gt; Découvrez maintenant\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr class=\"table__row\"\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cul\u003e\n\u003cli\u003eRéception\u003c/li\u003e\n\u003cli\u003eKids Room\u003c/li\u003e\n\u003cli\u003eLocal à ski et à vélo\u003c/li\u003e\n\u003c/ul\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cul\u003e\n\u003cli\u003eRestaurant \"La Ferme\" \u0026amp; Bistro avec terrasse ensoleillée\u003c/li\u003e\n\u003cli\u003eGaming Room\u003c/li\u003e\n\u003cli\u003eSalle de séminaire\u003c/li\u003e\n\u003c/ul\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cul\u003e\n\u003cli\u003eParking couvert\u003c/li\u003e\n\u003cli\u003eSki-in-Ski-out\u003c/li\u003e\n\u003c/ul\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

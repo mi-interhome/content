@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/nieuws/",
+                            "label": "Nieuws"
+                        },
+                        {
+                            "href": "/nieuws/20130523-vakantiehuizeninscandinavie/",
+                            "label": "Aanbod in Scandinavië"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Aanbod in Scandinavië",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eInterhome groeit in Scandinavië: kies nu uit 10.000 vakantiehuizen!\u003c/h2\u003e\u003cp align=\"justify\"\u003eInterhome is met de Scandinavische specialist DanCenter in zee gegaan. Dankzij deze overeenkomst biedt Interhome nu 10.000 woningen in Noorwegen en Zweden, terwijl het haar productportfolio in Denemarken ook uitbreidt.\u003c/p\u003e\u003cp align=\"justify\"\u003eDankzij de samenwerking met DanCenter, zal Interhome voor het eerst vakantiewoningen in Noorwegen en Zweden aanbieden. Ook groeit het aanbod in Denemarken aanzienlijk. Het portfolio van DanCenter bevat circa 10.000 woningen (inclusief Danland vakantieparken) in 3 Scandinavische landen en Duitsland, die vanaf nu ook te boeken zijn bij Interhome. DanCenter biedt nu ook het volledige aanbod van meer dan 32.000 woningen van Interhome aan.\u003c/p\u003e\u003cp align=\"justify\"\u003eThomas Kirchhofer, hoofd inkoop van interhome zei: \"Deze samenwerking betekent voor ons een win-win situatie. Aan de ene kant kan Interhome een nog aantrekkelijkere keuze aan vakantieaccommodaties (inclusief woonboten en design huizen) voor gezinnen aanbieden. Aan de andere kant zijn we in staat om onze internationale distributie te verbeteren dankzij een sterke Scandinavische partner.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003ca id=\"_GoBack\"\u003e\u003c/a\u003eDanCenter CEO Steen Seitner noemt Interhome een \"uitstekende partner wiens bedrijfsfilosofie vergelijkbaar is met die van DanCenter.\". Beide bedrijven bieden dezelfde hoge kwaliteitsmaatstaven aan voor haar aanbod van vakantiewoningen en voor serviceverlening naar de klant.\u003c/p\u003e\u003cp align=\"justify\"\u003eDanCenter is al meer dan 55 jaar actief in de professionele vakantieverhuur. Het aanbod bestaat uit ruim 10.000 vakantiehuizen in \u003ca href=\"/denemarken/\"\u003eDenemarken\u003c/a\u003e, \u003ca href=\"/noorwegen/\"\u003eNoorwegen\u003c/a\u003e, \u003ca href=\"/zweden/\"\u003eZweden \u003c/a\u003een \u003ca href=\"/duitsland/\"\u003eDuitsland\u003c/a\u003e.\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

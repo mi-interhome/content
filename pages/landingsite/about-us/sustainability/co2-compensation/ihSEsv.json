@@ -26,53 +26,135 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_moor_ch_2023/2276602-1-eng-XX/Header_1200x410_IH_Moor_CH_2023.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om Interhome"
+                        },
+                        {
+                            "href": "/om-interhome/hallbarhet/",
+                            "label": "Love nature – bevarandet gäller alla"
+                        },
+                        {
+                            "href": "/om-interhome/hallbarhet/klimatkompensation/",
+                            "label": "Renaturering av La Gruère högmosse (Schweiz)"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Renaturering av La Gruère högmosse (Schweiz)",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group erbjuder alla gäster att ge ett frivilligt klimatbidrag. Ditt bidrag går till projektet ”Återställning av högmosse i naturskyddsområdet la Gruère”.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch4\u003eVår partner \u003c/h4\u003e\u003cp\u003eI det här projektet samarbetar vi med vår partner myclimate. Den schweiziska stiftelsen ökar mätbart klimatskydd och en hållbar utveckling genom globala projekt av högsta kvalitet.\u003c/p\u003e\u003ch4\u003eVårt projekt\u003c/h4\u003e\u003cp\u003eProjektet ”Återställning av högmosse i naturskyddsområdet la Gruère” bidrar till att återställa en unik högmosse i Jurabergen. Våtmarker reducerar emissionen av växthusgaser, främjar biodiversiteten, förbättrar vattenhushållet och stödjer den lokala byggbranschen. \u003c/p\u003e\u003cp\u003eLa Gruère är en högmosse av nationell betydelse. Klimatskyddsprojektet utgör en ekonomisk räddning och spelar en central roll i det omfattande återställningsinitiativet. Det ambitiösa projektet med en yta på 55 hektar och torvskikt ner till nio meters djup skall förverkligas i flera etapper. Den första etappen avslutades 2018, ytterligare etapper är planerade mellan 2024 och 2028. \u003c/p\u003e\u003cp\u003eHögmossens betydelse för markens kolhalt är enorm. Trots att våtmarkerna bara utgör tre procent av landets yta binder de globalt trettio procent av markens kol. Återställningen har positiva effekter på högvattenskyddet, vattenkvaliteten, mikroklimatet och landskapsgestaltningen. Därutöver ger den rekreationsområden för befolkningen. Dessutom erbjuder de högmossen biosfärer för sällsynta eller hotade djur- och växtarter. \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eAtt återställa dränerade våtmarker är avgörande för att undvika att emissioner av CO2 hamnar i atmosfären. För att ge en uppskattning av insparad CO2 genom återställning använder man beräkningsstandarden \u003ca href=\"https://www.wsl.ch/en/projects/klimaschutz-durch-hochmoorschutz-1/\" target=\"_blank\"\u003emax.moor\u003c/a\u003e. \u003c/p\u003e\u003cp\u003eTrots att högmossens skydd är förankrat i den schweiziska konstitutionen är finansieringen av återställningen ofta svår. Ett bidrag till klimatskyddet erbjuder en lösning för att stödja sådana miljöskyddsprojekt. Med ditt bidrag ger du en viktig del. \u003c/p\u003e\u003cp\u003eYtterligare information om projektet finns här: \u003ca href=\"https://www.myclimate.org/en/get-active/climate-protection-projects/detail-climate-protection-projects/landuse-switzerland-7823-004/\" target=\"_blank\"\u003eRestoration of peatland in the nature reserve La Gruère (myclimate.org)\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"0\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41648/2276639-1-eng-XX/myclimate-7823-004-moor-Schweiz-La_Gruere_BildWiedervernaessung-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42686\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41649/2276644-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42687\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41650/2276649-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_2_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42688\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/om-interhome/hallbarhet/\"\u003e\u0026gt;\u0026gt; Lär dig mer om andra hållbarhetsprojekt som stöds av Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg är du i ditt fritidshus!",
+                    "link": {
+                        "href": "/om-interhome/säkerhet-i-ditt-semesterhus/",
+                        "label": "Mer information"
+                    },
+                    "car": "Individuell ankomstresa",
+                    "cleaning": "Kontrollerad städning",
+                    "independence": "Fri och oberoende",
+                    "key": "Säkert nyckelöverläm nande på plats",
+                    "privacy": "Privatsfär i ditt fritidshus",
+                    "support": "Personlig hjälp på plats under vistelsen"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Endast kvalitetssäkrade semesterbostäder",
+                            "subtitle": "Kvalitet är vår främsta prioritet",
+                            "caption": "Varje fastighet kontrolleras före ankomst för att garantera bästa möjliga vistelse"
+                        },
+                        {
+                            "title": "Garanterad tillgänglighet och service på plats ",
+                            "subtitle": "Få det bästa ut av vår expertis",
+                            "caption": "Nyckelhantering arrangeras av vår hjälpsamma personal. Tillgänglig dygnet runt eller på plats för att hjälpa dig med alla dina frågor, till exempel: med tips och kunskap om ditt semestermål och ditt bokade boende."
+                        },
+                        {
+                            "title": "En minnesvärd semesterupplevelse",
+                            "subtitle": "Privatliv och frihet i ditt eget semesterboende",
+                            "caption": "Var din egen chef, äta när du vill och njut av gott om plats för alla dina vänner och familj"
+                        }
+                    ]
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Varför boka boende med Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig varit lättare att hitta det perfekta huset, stugan eller lägenheten för semestern. Vill du utforska nya resmål? Det finns inget bättre sätt än att göra det i ett semesterhus: \u003ca href=\"/spanien/\"\u003eHyr ett hus i Spanien\u003c/a\u003e, eller en \u003ca href=\"/sverige/\"\u003estuga i Sverige\u003c/a\u003e, eller varför inte \u003ca href=\"/italien/\"\u003ehyra en villa i Italien\u003c/a\u003e. Bli inspirerad av våra \u003ca href=\"\"\u003esemestertips\u003c/a\u003e och boka online - snabbt, enkelt och säkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAtt hyra en stuga, hus eller lägenhet för semestern erbjuder många fördelar: Bland annat kan du spendera din tid precis som du vill. Ingen störning från andra gäster eller hotellpersonal, bara njuta av din semester och följa dina egna regler. Oavsett om du letar efter en \u003ca href=\"/semestertips/storstadssemester/\"\u003estorstadssemester\u003c/a\u003e, en avkopplande semester med \u003ca href=\"/semestertips/semesterboende-barnfamiljer/\"\u003edin familj eller med vänner\u003c/a\u003e. Helt enkelt njut av mycket utrymme, flexibilitet och frihet i ditt eget semesterboende.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

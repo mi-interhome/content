@@ -26,53 +26,147 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v1/2254286-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v1.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v2/2254281-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v2.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_06_september_2023_00007_florianmori_dji_0492-1_header_1200x410/2276347-1-eng-XX/Header_1200x410_06_September_2023_00007_FlorianMori_DJI_0492-1_Header_1200x410.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v3/2254233-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v3.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om interhome"
+                        },
+                        {
+                            "href": "/om-interhome/bærekraft/",
+                            "label": "Love nature - bevaring angår alle"
+                        },
+                        {
+                            "href": "/om-interhome/bærekraft/frivillig-arbeid/",
+                            "label": "Frivillig arbeid"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Frivillig arbeid",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNyheter\u003c/h3\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003e11. september 2023:\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eTi engasjerte ansatte i Interhome Group fra seks forskjellige land reiste med tog til Klagenfurt i Østerrike. Målet var å få en dypere forståelse av biologisk mangfold og å engasjere seg i frivillig arbeid.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSom en del av undervisningsuken vår om biologisk mangfold og bærekraft i Kärnten, besøkte vi familien Hribar i fjellene over Trögen. Der lærte vi hvordan man anlegger en permakulturhage. Vi klargjorde jorden og la grunnlaget for beplantning våren 2024.\u003c/p\u003e\u003cp\u003eDen påfølgende dagen gikk vi opp på fjellet for å plante 50 stiklinger. Vi valgte fem forskjellige arter for å skape et variert og klimarobust skogsområde. I tillegg satte vi opp et gjerde for å beskytte dem mot hjort og rådyr. Selv om det utfordrende terrenget førte til at vi ble ganske så svette, gledet vi oss over det vi hadde oppnådd og at plantene snart skulle begynne å spire.\u003c/p\u003e\u003cp\u003eOppholdet i Kärnten var en inspirerende uke med opplæring i biologisk mangfold og bærekraft. Ti nye kolleger kommer til å være med på å spre kunnskap om bærekraft i Interhome Group etter denne turen, og vi håper at mange flere vil gjøre det samme.\u003c/p\u003e\u003cp\u003eVi fikk også anledning til å besøke bieprosjektet vårt i løpet av turen. Du kan lese mer om det her: \u003ca href=\"/om-interhome/bærekraft/beesark/\"\u003eSave the bee – save our earth! | Interhome\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"11.09.2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41621/2276332-1-eng-XX/Voluntary_2023_07_September_2023_00017_FlorianMori__DSC4242_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42654\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41620/2276327-1-eng-XX/Voluntary_2023_06_September_2023_00012_FlorianMori_DJI_0522-1_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42653\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41623/2276342-1-eng-XX/Voluntary_2023_07_September_2023_00085_FlorianMori__DSC5340-1_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42656\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch4\u003e20.-21. juni 2023: Interhome Group Volunteers hjelper til i Parc Natural dels Aiguamolls de l'Empordà i Spania\u003c/h4\u003e\u003cp\u003eInterhome Group organiserte nylig et frivillig arbeid der våre engasjerte medarbeidere tilbrakte to dager i Parc Natural dels Aiguamolls de l'Empordà i Spania. Denne fantastiske parken, som er det nest største våtmarksområdet i Catalonia, er anerkjent som et av Middelhavsområdets fremste naturreservater og kan skilte med en bemerkelsesverdig flora og fauna.\u003c/p\u003e\u003cp\u003eParc Natural dels Aiguamolls de l'Empordà er kjent for sine mange våtmarksområder med oter, hvit stork og Camargue-hester. Parken lokker til seg trekkfugler, noe som gjør den til et paradis for fugleinteresserte. Parken byr på tur- og sykkelstier samt fugleplattformer hvor man kan observere det mangfoldige fuglelivet.\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41404/2254409-1-eng-XX/Sustainability_Content_picture_550x410_Team.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42415\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eI forbindelse med det frivillige arbeidet tok vi på oss meningsfulle prosjekter for å støtte parkens fasiliteter. Vi bygde et lysthus med bord og benker for å tilrettelegge for barneprogrammer, og vi malte bordene for å sikre at de holder seg fine når de står i parken. I tillegg ryddet vi en 2 kilometer lang tur- og sykkelsti og fjernet ugress, fremmedartede planter og tornefulle greiner som hindret ferdselen. Gjennom disse oppgavene fikk vi mulighet til å bidra aktivt til stell og vedlikehold av parken. I tillegg til det frivillige arbeidet deltok vi på en lærerik omvisning i parken, noe som ga oss en dypere forståelse av parkens økologiske betydning.\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"voluntary-work\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41403/2254404-1-eng-XX/Sustainability_Content_picture_550x410_Putting-up-tent.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42414\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41402/2254399-1-eng-XX/Sustainability_Content_picture_550x410_Pruning.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42413\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41401/2254394-1-eng-XX/Sustainability_Content_picture_550x410_Foreign-species.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42412\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003eVi vil rette en stor takk til parkens dyktige medarbeidere, Glòria, Sònia og Aleix, hvis uvurderlige støtte og samarbeid har spilt en viktig rolle i vårt frivillige arbeid. Vårt engasjement for bevaring og beskyttelse av miljøet er fortsatt sterkt, og vi ser frem til å komme tilbake til Parc Natural dels Aiguamolls de l'Empordà i fremtiden, i tillegg til å utforske andre unike parker.\u003c/p\u003e\u003cp\u003eEttersom parken ligger i umiddelbar nærhet til våre \u003ca href=\"/personlig-service/\"\u003elokale servicekontorer\u003c/a\u003e i \u003ca href=\"/spania/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e og \u003ca href=\"/spania/costa-brava/roses/\"\u003eRoses\u003c/a\u003e, er vi glade for å kunne informere kundene våre om den enestående muligheten de har til å oppleve naturens storslåtte prakt på dette fantastiske stedet. Vi i Interhome Group er opptatt av å tilby bærekraftige opplevelser, og vi vil gjerne dele denne unike \"naturperlen\" med kundene våre.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/om-interhome/bærekraft/\"\u003e\u0026gt;\u0026gt; Lær mer om andre bærekraftprosjekter støttet av Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

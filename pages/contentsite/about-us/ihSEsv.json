@@ -26,13 +26,26 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om Interhome"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +54,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Om Interhome",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eVi erbjuder fler ca. 40 000 kvalitetssäkrade semesterbostäder att hyra online\u003c/h3\u003e\u003cp\u003eEgentligen spelar det ingen roll vad du söker: Interhome kan tillfredsställa i princip alla önskemål ca. 40 000 bokningsbara semesterhus och lägenheter i 28 länder. Vare sig du är ute efter att hyra ett hus i alperna, en villa med pool, en storstadslägenhet, en vingård eller ett slott - hos oss hittar du boendet som är rätt för just dig! Interhomes service omfattar hanteringen av hela bokningsprocessen, nyckelutlämning och slutstädning. Det är Du som har semester! Utnyttja också fördelarna av Interhomes välkända och genomarbetade klassificeringssystem med stjärnor, som du hittar på alla våra hus och lägenheter. \u003ca href=\"\"\u003eHyr ditt drömboende\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eFå tips och råd av vår Kundtjänst i Stockholm\u003c/h3\u003e\u003cp\u003eInterhomes Kundservice finns nära! Bara ett telefonsamtal bort, alla vardagar mellan 09:00-17:00, på svenska förstås! Ring oss om du behöver hjälp på 08-21 65 50 och vi kommer med glädje göra vårt bästa för att ge dig semestertips, hitta just din semesterbostad eller hjälpa dig med själva bokningen! vår globala kundtjänst holder öppet dygnet runt og telefonen vidarekopplas efter kl17 vardagar och under helger. \u003ca href=\"/kontakt/\"\u003eFrågor? Kontakta oss\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eHjälp på plats av våra lokala servicekontor\u003c/h3\u003e\u003cp\u003eUnikt för Interhome är att vi alltid finns där du behöver oss. Interhomes personal, samarbetspartners och nyckelutlämnare hjälper mer än gärna till med en omfattande service på plats. Vår lokala närvaro ger Interhomes gäster enkel incheckning, hjälp med aktivitetsplanering samt personlig kontakt vid alla typer av semestertips och råd. \u003ca href=\"/hjaelp-pa-plats/\"\u003eHjälp på plats av våra lokala servicekontor\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eAlla våra semesterbostäder är kvalitetssäkrade\u003c/h3\u003e\u003cp\u003eInterhome grundades i Schweiz 1965 och vi är stolta över den framgång och erfarenhet inom uthyrning av semesterhus och lägenheter vi byggt upp under alla dessa decennier. Idag är Interhome Europas ledande uthyrare av kvalitetssäkrade semesterhus och lägenheter över hela världen. Interhome har 15 regionala dotterbolag. Moderbolaget Interhome Group (HHD AG), beläget i Glattbrugg, Zûrich, ägs till 100% av MTCH AG (Hotelplan Group). Detta bolag ägs i sin tur av Migros, Schweiz ledande detaljhandelsföretag med huvudkontor i Zurich. Den schweiziska kvalitetsfilosofin omfattar inte bara klockor och knivar, utan i högsta grad även service. Den säkerställer att våra kunder verkligen kan ägna sig åt att njuta av sin semester. \u003ca href=\"/om-interhome/foeretagsprofil/\"\u003eVår företagsprofil\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +74,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg är du i ditt fritidshus!",
+                    "link": {
+                        "href": "/om-interhome/säkerhet-i-ditt-semesterhus/",
+                        "label": "Mer information"
+                    },
+                    "car": "Individuell ankomstresa",
+                    "cleaning": "Kontrollerad städning",
+                    "independence": "Fri och oberoende",
+                    "key": "Säkert nyckelöverläm nande på plats",
+                    "privacy": "Privatsfär i ditt fritidshus",
+                    "support": "Personlig hjälp på plats under vistelsen"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Endast kvalitetssäkrade semesterbostäder",
+                            "subtitle": "Kvalitet är vår främsta prioritet",
+                            "caption": "Varje fastighet kontrolleras före ankomst för att garantera bästa möjliga vistelse"
+                        },
+                        {
+                            "title": "Garanterad tillgänglighet och service på plats ",
+                            "subtitle": "Få det bästa ut av vår expertis",
+                            "caption": "Nyckelhantering arrangeras av vår hjälpsamma personal. Tillgänglig dygnet runt eller på plats för att hjälpa dig med alla dina frågor, till exempel: med tips och kunskap om ditt semestermål och ditt bokade boende."
+                        },
+                        {
+                            "title": "En minnesvärd semesterupplevelse",
+                            "subtitle": "Privatliv och frihet i ditt eget semesterboende",
+                            "caption": "Var din egen chef, äta när du vill och njut av gott om plats för alla dina vänner och familj"
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Varför boka boende med Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig varit lättare att hitta det perfekta huset, stugan eller lägenheten för semestern. Vill du utforska nya resmål? Det finns inget bättre sätt än att göra det i ett semesterhus: \u003ca href=\"/spanien/\"\u003eHyr ett hus i Spanien\u003c/a\u003e, eller en \u003ca href=\"/sverige/\"\u003estuga i Sverige\u003c/a\u003e, eller varför inte \u003ca href=\"/italien/\"\u003ehyra en villa i Italien\u003c/a\u003e. Bli inspirerad av våra \u003ca href=\"\"\u003esemestertips\u003c/a\u003e och boka online - snabbt, enkelt och säkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAtt hyra en stuga, hus eller lägenhet för semestern erbjuder många fördelar: Bland annat kan du spendera din tid precis som du vill. Ingen störning från andra gäster eller hotellpersonal, bara njuta av din semester och följa dina egna regler. Oavsett om du letar efter en \u003ca href=\"/semestertips/storstadssemester/\"\u003estorstadssemester\u003c/a\u003e, en avkopplande semester med \u003ca href=\"/semestertips/semesterboende-barnfamiljer/\"\u003edin familj eller med vänner\u003c/a\u003e. Helt enkelt njut av mycket utrymme, flexibilitet och frihet i ditt eget semesterboende.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

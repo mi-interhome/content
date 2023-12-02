@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/actualites/",
+                            "label": "Actualités"
+                        },
+                        {
+                            "href": "/fr/actualites/fondation-ehha/",
+                            "label": "Interhome s’engage pour le marché des appartements de vacances en Europe"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Interhome s’engage pour le marché des appartements de vacances en Europe",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eInterhome s’engage pour le marché des appartements de vacances en Europe\u003c/h2\u003e\u003cp\u003eHier après-midi à Aix-la-Chapelle, en Allemagne, a eu lieu l’acte de fondation officiel de l’European Holiday Home Association (EHHA). Interhome est, avec les autres leaders du marché européen Novasol, Hoseasons et DanCenter, membre fondateur du nouveau réseau pour l’industrie des appartements de vacances. En unissant ses forces, cette branche en plein essor entend favoriser une meilleure mise en réseau sur le plan international et, avec le concours des organisations centrales, exercer un lobbying plus efficace.\u003c/p\u003e\u003cp\u003eSimon Lehmann CEO InterhomeLe marché des appartements de vacances a pris une dimension importante au sein de l’industrie touristique européenne. D’après une enquête de l’entreprise d’études de marché PhocusWright, 42 millions d’Européens ont passé la nuit dans un appartement de vacances ces deux dernières années. Plus de 20 millions de lits dans des appartements de vacances sont actuellement à disposition des clients en Europe. Avec ces lits, un chiffre d’affaires annuel de plus de 20 milliards d’euros est réalisé. De tels chiffres ainsi que le potentiel de croissance encore énorme ont incité les plus importants prestataires européens d’appartements de vacances de se doter d’une organisation commune. Ils ont ainsi porté l’European Holiday Home Association (EHHA) sur les fonts baptismaux. Les membres fondateurs sont les quatre plus grands acteurs du marché Interhome, Novasol, Hoseasons et DanCenter.\u003c/p\u003e\u003cp\u003eL’acte de fondation officiel de l’EHHA a eu lieu hier après-midi à Aix-la-Chapelle, en Allemagne. Le premier secrétaire général de la nouvelle organisation est Carlos Villaro Lassen, Directeur de l’Association danoise des appartements de vacances. «Les activités commerciales liées à la location des appartements de vacances créent dans de nombreux pays européens des milliers d’emplois et une énorme valeur ajoutée pour le tourisme, la restauration et le commerce de détail. Avec l’European Holiday Home Association, nous entendons rappeler avec encore plus de force cette importance économique aux politiciens européens», a fait savoir Carlos Villaro Lassen lors de son allocution inaugurale.\u003c/p\u003e\u003cp\u003eLe CEO d’Interhome, Simon Lehmann, est également convaincu qu’il est important de mieux organiser le marché des appartements de vacances à l’échelle européenne et de renforcer son ancrage. «Je crois que l’association centrale qui vient d’être créée est le bon instrument pour atteindre cet objectif dans un délai raisonnable», a déclaré Simon Lehmann qui, avec Interhome, va s’engager pour que l’EHHA devienne rapidement une instance puissante.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/fr/-/media/Files/press-releases/2013/20130626_CP_Interhome_EHHA_fr.pdf?la=fr-BE\"\u003eTélécharger le communiqué de presse\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"/fr/idees-vacances/\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité. Qu'importe vos envies...Interhome vous propose 40.000 maisons et appartements de vacances dans 28 pays.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eD'un \u003ca href=\"/fr/chalet/\"\u003echalet à la montagne\u003c/a\u003e à une \u003ca href=\"/fr/villa/piscine/\"\u003evilla avec piscine\u003c/a\u003e ou à un château, nous avons la location qui vous convient. Vous pouvez réserver votre location directement depuis notre site internet. Interhome vous fournit toutes les informations nécessaires avant votre départ et s'occupe du nettoyage dès votre départ. De plus, vous profitez de \u003ca href=\"/fr/a-propos-d-interhome/standards-qualite/\"\u003ela qualité\u003c/a\u003e de nos logements grâce à un système suisse de classification par étoile.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

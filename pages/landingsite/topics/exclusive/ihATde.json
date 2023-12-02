@@ -26,43 +26,110 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Luxus Ferienhäuser",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_luxury-holiday-homes/980256-1-ger-XX/Header_1400x480_luxury-holiday-homes.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Sichere, schöne Urlaubstage - entdecken Sie unsere Urlaubsideen"
+                        },
+                        {
+                            "href": "/urlaubsideen/luxusurlaub/",
+                            "label": "Luxus Ferienhäuser buchen"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Luxus Ferienhäuser buchen",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 5,
-                "component": "",
-                "content": null
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eErleben Sie Urlaub von seiner luxuriösen Seite\u003c/h3\u003e\u003cp\u003eWenn Sie sich einmal so richtig vom Alltagsstress erholen und trotzdem unabhängig bleiben möchten, sollten Sie sich für einen Urlaub in einem Luxus Ferienhaus entscheiden. Charakteristisches Landhaus in der \u003ca href=\"/\"\u003eToskana\u003c/a\u003e, mondäne Villa an der \u003ca href=\"/\"\u003eCosta Brava\u003c/a\u003e oder uriges Reetdachhaus auf Sylt - überall in Europa bietet Ihnen Interhome luxuriös ausgestattete Ferienhäuser und Ferienwohnungen in einmaligen Lagen.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eOftmals befinden sich die Luxus Ferienhäuser in schönen Ferienanlagen, die über zahlreiche Serviceleistungen wie Restaurants, Sportmöglichkeiten oder Pools verfügen. Aber auch wer die Abgeschiedenheit der Natur schätzt, wird bei uns schnell fündig. Gönnen Sie sich und Ihrer Familie eine Auszeit vom bewegten Alltag und buchen Sie online Urlaub in einem Luxus Ferienhaus.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

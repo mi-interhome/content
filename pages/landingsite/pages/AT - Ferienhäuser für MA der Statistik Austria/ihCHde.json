@@ -26,38 +26,109 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/images/header_1400x480_partner/986008-1-ger-XX/Header_1400x480_partner.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/at-statistikaustria/",
+                            "label": "Ferienhäuser für MA der Statistik Austria"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Ferienhäuser für MA der Statistik Austria",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\u003cstrong\u003eAls MitarbeiterIn der Statistik Austria buchen Sie Ihren Ferienhausurlaub bei Interhome mit 5 % Rabatt\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eDieses Angebot gilt für alle \u003cstrong\u003eFerienhäuser und Wohnungen\u003c/strong\u003e von Interhome und ist auch kombinierbar mit anderen Aktionen wie z.B. dem Frühbucher- oder Last Minute-Rabatt und kann sowohl online als auch telefonisch gebucht werden.\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eOnlinebuchung\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eDie auf der Webseite angezeigten Preise sind noch nicht rabattiert. Der Abzug des Rabatts erfolgt erst im Verlauf der Buchung (vor Eingabe der Adressdaten) und wird als „Firmenrabatt“angezeigt. Dann muss ebenfalls der \u003cstrong\u003eAktionscode AT1000852\u003c/strong\u003e eingegeben werden.\u003cbr\u003e\u003ca href=\"https://www.interhome.at/suche/?partnerid=AT1000852\u0026amp;webSyncID=6747eb73-dc0d-7b9d-a482-99210bd0a7de\u0026amp;sessionGUID=28c48a0d-6c8e-25d3-25a4-492006b1c5a9\"\u003eHier geht's zur Onlinebuchung mit 5% Rabatt auf alle Interhome-Ferienobjekte\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e    \u003c/strong\u003e\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eTelefonische Buchung\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eKontaktieren Sie unser Callcenter unter der Telefonnummer (0) 512 34 40 90 und nennen Sie den Aktionscode AT1000852. Unser Serviceteam berät Sie gerne bei der Auswahl Ihres passenden Urlaubsdomizils.\u003c/p\u003e\u003cp\u003e      \u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eZusammenfassung\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eHier noch einmal die Angebotskonditionen im Überblick:\u003cbr\u003e\u003cstrong\u003ePreisreduktion:\u003c/strong\u003e 5% Preisnachlass auf den Mietpreis aller Interhome Ferienobjekte (inklusive aller Aktionen)\u003cbr\u003e\u003cstrong\u003eDestinationen:\u003c/strong\u003e Alle Interhome-Ferienhäuser und Ferienwohnungen, die über www.interhome.at buchbar sind\u003cbr\u003e\u003cstrong\u003eBuchungszeitraum:\u003c/strong\u003e keine Einschränkung\u003cbr\u003e\u003cstrong\u003eReisezeitraum:\u003c/strong\u003e keine Einschränkung\u003cbr\u003e\u003cstrong\u003eAktionscode:\u003c/strong\u003e AT1000852\u003c/p\u003e\u003ch3\u003e     \u003cbr\u003e\u003cstrong\u003eÜber Interhome\u003c/strong\u003e\n\u003c/h3\u003e\u003cp\u003eInterhome besitzt mehr als 50 Jahre Erfahrung in der Vermittlung von Ferien-Unterkünften und vermietet heute rund 33.000 qualitätsgeprüfte Ferienhäuser und Ferienwohnungen in ganz Europa. Jährlich verreisen über 620.000 zufriedene Gäste mit Interhome. Unsere Qualitätsstandards sichern wir unter anderem anhand einer europaweit einheitlichen Sterne-Klassifizierung.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e     \u003c/strong\u003e\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eBuchung und Information\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eInterhome GesmbH\u003cbr\u003eTelefon: +43 (0) 512 34 40 90\u003cbr\u003eEmail: \u003ca href=\"mailto:info@interhome.at\"\u003einfo@interhome.at\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://www.interhome.at/statistikaustria?webSyncID=6747eb73-dc0d-7b9d-a482-99210bd0a7de\u0026amp;sessionGUID=28c48a0d-6c8e-25d3-25a4-492006b1c5a9\"\u003e//www.interhome.at/statistikaustria\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

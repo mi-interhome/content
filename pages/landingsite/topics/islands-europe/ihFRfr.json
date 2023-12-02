@@ -26,48 +26,118 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/images/home/hero-slider/header_1400x480_italy/1146776-1-nor-NO/Header_1400x480_italy.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/idees-vacances/",
+                            "label": "Idées vacances"
+                        },
+                        {
+                            "href": "/idees-vacances/vacances-sur-une-ile/",
+                            "label": "Vacances sur une île"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Vacances sur une île",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 5,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Suggestions pour des vacances sur une île",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eLes avantages d’une location sur une île\u003c/h3\u003e\u003cp\u003eCette année, vous manquez encore d’idées pour partir en vacances ? Laissez-vous tenter par une location sur île et offrez-vous un séjour de rêve en vous évadant pour quelques jours hors du continent. \u003c/p\u003e\u003cp\u003eLes vacances sur une île sont synonymes de dépaysement total dans un cadre idyllique, entouré de magnifiques paysages à la nature préservée et la mer à perte de vue. En réservant votre hébergement, vous aurez l’occasion de vivre au rythme des habitants, dans le calme et la sérénité, car le stress et les tracas du quotidien n’atteignent jamais les rives insulaires. Si vous rêvez d’une destination ensoleillée dans laquelle vous pourrez passer un séjour en toute intimité, réservez une location sur île et vous apprécierez ses plages de sable fin paisibles et peu fréquentées. La plupart d’entre elles regorgent de magnifiques spots pour pratiquer la plongée sous-marine.\u003c/p\u003e\u003cp\u003eEn louant une villa ou un appartement de vacances sur une île paradisiaque, vous aurez l’occasion, entre deux balades sur les sites incontournables, d’aller explorer les fonds marins et de nager avec les espèces qui y habitent.\u003c/p\u003e\u003ch3\u003eD'autres destinations à ne pas manquer !\u003c/h3\u003e\u003cp\u003eSéjourner sur une île ne nécessite pas de devoir effectuer des heures de vol et aller au bout du monde, car il y a en a une multitude à visiter en France et dans nos pays voisins.\u003c/p\u003e\u003cp\u003eLe Poitou-Charentes est une destination riche en culture, incontournable lorsque l’on souhaite visiter la côte Atlantique de la France. Découvrez cette belle région autrement en réservant votre hébergement à l’\u003ca href=\"/france/charente-maritime/île-d-oleron/\"\u003eîle d’Oléron\u003c/a\u003e, où vous profiterez des grandes plages qu’elle offre, et du fameux bassin de Marennes, où l’on y cultive les meilleures huîtres du pays.\u003c/p\u003e\u003cp\u003eL’Espagne regorge d’îles resplendissantes qui méritent aussi d’être d’explorées ; en réservant votre location sur île à \u003ca href=\"/espagne/tenerife/\"\u003eTenerife\u003c/a\u003e sur l’archipel des Canaries dans une villa, vous donnerez vie à vos envies d’évasion sous un climat tropical en plein océan Atlantique, loin des côtes espagnoles.\u003c/p\u003e\u003cp\u003eDu côté de la méditerranée, les côtes italiennes vous promettent également des vacances d’exception dans un cadre paradisiaque, gorgé de soleil et bordé par une mer azur. Réservez votre maison de vacances ou appartement avec vue mer sur l’\u003ca href=\"/italie/île-d-elbe/\"\u003eîle d’Elbe\u003c/a\u003e, superbe destination située sur l’archipel toscan, d’où vous pourrez admirer depuis votre résidence avec piscine des paysages d’une beauté rare, constitués de collines verdoyantes et d’une mer calme.\u003c/p\u003e\u003cp\u003eLes îles grecques, très nombreuses, comptent parmi les plus belles du monde ; en louant votre maison avec piscine ou votre appartement en Crète ou dans les \u003ca href=\"/grece/cyclades/\"\u003eCyclades\u003c/a\u003e, vous pourrez partir pour de belles sorties en bateau pour visiter toutes les îles de l’archipel.\u003c/p\u003e\u003cp\u003eVous avez fait votre choix ? N’attendez plus pour réaliser votre rêve, laissez-vous embarquer pour un séjour paradisiaque.\u003c/p\u003e\u003cp\u003ePartez sur une île au soleil cet été ! Faites simplement votre choix...\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre location de vacances !",
+                    "link": {
+                        "href": "/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre location vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome ?",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVoulez-vous découvrir de nouvelles destinations ? La meilleure solution est d’opter pour la location vacances. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des \u003ca href=\"https://fr.trustpilot.com/review/www.interhome.fr\"\u003eavis clients positifs\u003c/a\u003e. Faites-nous confiance et optez pour la location saisonnière en toute sécurité.\u003cbr\u003e\u003ca href=\"/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/cavalaire/\"\u003eCavalaire\u003c/a\u003e | \u003ca href=\"/france/charente-maritime/\"\u003eCharente Maritime\u003c/a\u003e | \u003ca href=\"/france/corse/\"\u003eCorse\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/france/normandie/deauville-trouville/\"\u003eDeauville-Trouville\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e | \u003ca href=\"/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/france/finistere/\"\u003eFinistère\u003c/a\u003e | \u003ca href=\"/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/france/les-landes/\"\u003eLes Landes\u003c/a\u003e | \u003ca href=\"/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/france/morbihan/\"\u003eMorbihan\u003c/a\u003e | \u003ca href=\"/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/france/pays-basque/\"\u003ePays Basque\u003c/a\u003e | \u003ca href=\"/france/morbihan/quiberon/\"\u003eQuiberon\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/sainte-maxime/\"\u003eSainte-Maxime\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/\"\u003eSavoie - Haute Savoie\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Réservez dès maintenant votre location vacances.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

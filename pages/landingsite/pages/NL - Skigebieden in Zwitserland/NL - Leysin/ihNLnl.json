@@ -26,38 +26,108 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/",
+                            "label": "Skigebieden in Zwitserland"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/leysin/",
+                            "label": "Wintersport chalets in Leysin"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersport chalets in Leysin",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eOp ruim 1200 meter hoogte in de bergen van Waadt (\u003ca href=\"/zwitserland/alpen-vaudoises/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=edd2ea75-171d-9e06-4842-3e16cbd476b2\"\u003eVaud\u003c/a\u003e), ligt Leysin. Een alleraardigst skigebied om uw komende wintersportvakantie door te brengen. \u003c/p\u003e\u003ch3\u003eWintersportmogelijkheden bij Leysin\u003c/h3\u003e\u003cp\u003eLeysin is een erg leuk skigebied, waar je verhoudingsgewijs veel snowboarders tegenkomt. Dus houdt u van snowboarden, dan is Leysin dit jaar misschien wel de perfecte wintersportbestemming.\u003c/p\u003e\u003cp\u003eIn de omgeving van Leysin beschikt u over zo’n 100 kilometer aan pistes. Op welk niveau uw ski- of snowboardkunsten ook zitten, er is altijd een aantal pistes dat perfect bij u past. Voor de beginners is er uiteraard alle gelegenheid om les te nemen, want er zijn voldoende skischolen waar desgewenst ook Nederlands wordt gesproken.\u003c/p\u003e\u003cp\u003eIn de buurt van Leysin vindt u Les Mosses, een dorpje met een eigen skigebied. Ook daar vindt u nog zo’n 40 kilometer aan pistes. U kunt eenvoudig tussen de twee gebieden heen en weer pendelen met de skibus. Die doet er zo’n 10 minuten over om van het ene naar het andere skigebied te rijden.\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Leysin\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-in-zwitserland6/1398360-1-dut-NL/Vakantiehuisjes-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24130\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-dichtbij-de-skilift6/1398365-1-dut-NL/Vakantiehuisjes-dichtbij-de-Skilift.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24131\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/skigebieden-in-zwitserland6/1398370-1-dut-NL/Skigebieden-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24132\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/zwitserland/skien-snowboarden\"\u003e\u0026gt;\u0026gt; Chalets in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/zwitserland-skigebieden/\"\u003e\u0026gt;\u0026gt;Skigebieden in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003ch3\u003eAndere wintersportactiviteiten bij Leysin\u003c/h3\u003e\u003cp\u003eOok buiten de pistes is er van alles te doen voor de actieve wintersporter met een wintersport chalet in Leysin. Er zijn in het gebied mooie off-piste mogelijkheden voor de liefhebbers, ook prachtig tussen de bomen door. Langlaufers hebben ook alle ruimte in de omgeving van Leysin. Er is zelfs een verlichte langlaufloipe. Uiteraard is er ook een mooie rodelbaan.\u003c/p\u003e\u003cp\u003eOok de Freestyle liefhebbers gaan zich absoluut niet vervelen in Leysin en omgeving. Leysin heeft een groot funpark met een groot aantal obstakels en jumps, inclusief een grote halfpipe natuurlijk. Het park wordt regelmatig gebruikt voor grote Freestyle evenementen, zoals GiantX Tour en Champs Open. En als u een keer iets anders wilt, is er natuurlijk ook nog het Tobogganing Park. Daar kunt u op een snowtube allerlei geweldige afdalingen maken.\u003c/p\u003e\u003cp\u003eMaar uiteraard kun je hier ook gewoon wandelend of langlaufend de natuur in en genieten van de fantastische mooie omgeving van Leysin. Vanuit uw wintersport chalet in Leysin zit het allemaal vlakbij.\u003c/p\u003e\u003ch3\u003eHet skidorp Leysin\u003c/h3\u003e\u003cp\u003eOp 1253 meter hoogte ligt het dorpje Leysin. Een wintersport chalet in Leysin is een prachtige plek om ontspannen en actief te genieten van uw ski- of snowboardvakantie. Het is een leuk en gezellig dorp met mooie faciliteiten. U kunt direct vanuit het dorp de skilift nemen naar de pistes en wat erg leuk is, is dat de pistes doorlopen tot aan het dorp. U hoeft aan het eind van een intensieve dag skiën dus niet weer met de lift of op een andere manier terug. U glijdt gewoon terug naar uw chalet, appartement of hotel. En uiteraard heeft Leysin lekkere restaurantjes en andere horeca om nog even ontspannen de dag door te nemen.\u003c/p\u003e\u003cp\u003eHet dorp les Mosses ligt in de buurt van Leysin. In de winter kun je daar ijsduiken. Op 1850 ligt het Lac Lioson. Daar boort men in de winter gaten waar onder begeleiding kan worden gedoken om de onderwaterwereld te bewonderen. Bijkomen gebeurt daarna in het restaurant in de buurt. Heel bijzonder.\u003c/p\u003e\u003ch3\u003eWintersportchalet in Leysin\u003c/h3\u003e\u003cp\u003eLeysin staat synoniem voor een erg leuke en actieve wintersportvakantie. Of u nu komt skiën of snowboarden, Leysin heeft alles in huis om er een fantastische wintersportbelevenis van te maken. Met een appartement of wintersport chalet in Leysin kunt u alle kanten uit in dit mooie gebied en waarschijnlijk wilt u uw volgende wintersport hier gewoon weer terugkomen. U bent meer dan welkom!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,83 +26,149 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_holiday_ideas_2021_22/2276918-1-eng-XX/Header_1200x410_IH_holiday_ideas_2021_22.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/tipo-di-vacanza/",
+                            "label": "Vacanze sicure e divertenti – scoprite cosa possiamo offrirvi  "
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Vacanze sicure e divertenti – scoprite cosa possiamo offrirvi  ",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eLasciatevi ispirare dalle nostre idee per la vostra vacanza e cercate la casa o l'appartamento ideale per le vostre esigenze: trascorrete un soggiorno indimenticabile e senza compromessi, con più spazio e libertà che in un hotel.\u003c/p\u003e\u003cp\u003eLa ricca offerta Interhome nasce per soddisfare tutti i desideri. Potete scegliere tra una spaziosa casa per le vacanze con piscina, una villa sul mare, un accogliente chalet  in montagna, una casa indipendente come rifugio ideale nella natura o un pratico appartamento per le vacanze direttamente nel centro della città.\u003c/p\u003e\u003cp\u003eQui troverete sicuramente l'ispirazione giusta per le vostre prossime vacanze.\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eEcco perché una vacanza in una casa o appartamento è la scelta giusta:\u003c/h4\u003e\u003cp\u003eLe vacanze in una casa sono sinonimo di libertà ed indipendenza a cominciare dall’arrivo, comodo e sicuro con la propria auto.\u003c/p\u003e\u003cp\u003eTotale indipendenza, nessuna condivisione a partire dalla cucina dove preparare pasti in tutta sicurezza.\u003c/p\u003e\u003cp\u003eProgettate la vostra vacanza senza farvi mancare i comfort, la qualità e la sicurezza di casa.\u003c/p\u003e\u003cp\u003eÈ tempo di rilassarvi e godervi la vacanza: siete in buone mani!\u003c/p\u003e\u003cp\u003e\u003ca href=\"/chi-siamo/sicurezza-nella-sua-casa-vacanze/\" target=\"_blank\"\u003e\u0026gt;\u0026gt; Ecco perché siete assolutamente al sicuro nella vostra casa vacanza! Scoprite di più qui\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Vacanze in Italia – la grande bellezza è dietro l’angolo",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eUn viaggio relativamente breve e semplice, oltre a una lingua e una valuta familiari: scegliendo di andare in vacanza in Italia potete risparmiare tempo e budget. Vale la pena, anche solo per un momento, interrompere la routine quotidiana e scappare da qualche parte, per qualche giorno. Con Interhome tutto ciò è possibile, grazie all'offerta di \u003cstrong\u003esoggiorni brevi anche di poche notti\u003c/strong\u003e. Vi consigliamo inoltre di dare un’occhiata alle nostre \u003ca href=\"/italia/last-minute/\"\u003eofferte last minute\u003c/a\u003e o, se preferite pianificare la vostra vacanza in anticipo, di prendere in considerazione le proprietà che offrono uno \u003ca href=\"/italia/early-booking/\"\u003esconto per le prenotazioni anticipate\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eÈ arrivato il momento di prendervi una pausa dalla vita di tutti i giorni e di scoprire le regioni più belle d’Italia, soggiornando in confortevoli appartamenti o case per vacanze!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Vacanze invernali",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 11,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Vacanze estive",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 13,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Ulteriori idee per le vostre vacanze",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 14,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nella tua casa vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "Privacy garantita",
+                    "support": "Assistenza in loco"
+                }
             },
             {
                 "id": 15,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
             },
             {
                 "id": 16,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/actualites/",
+                            "label": "Actualités"
+                        },
+                        {
+                            "href": "/fr/actualites/20160714-objets-perdus/",
+                            "label": "Voici ce qu’on oublie le plus souvent à la maison de vacances"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Voici ce qu’on oublie le plus souvent à la maison de vacances",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eVoici ce qu’on oublie le plus souvent à la maison de vacances\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eVoici ce qu’on oublie le plus souvent à la maison de vacances\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eChaque année, Interhome est confronté à des centaines de réexpéditions après les vacances d’été\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCette année de nombreux vacanciers opteront pour passer leurs vacances dans une maison ou appartement de vacances. Mais contrairement à des vacances à l’hôtel, les vacanciers emportent souvent une grande partie de leurs possessions lorsqu’ils séjournent dans une maison de vacances. De ce fait, ils oublient facilement l’un ou l’autre objet au retour. Ainsi, le loueur de maisons de vacances Interhome est confronté chaque année à des centaines de réexpéditions. Pour aider les vacanciers avec un pense-bête, Interhome a listé les 10 objets le plus souvent oublié. Un outil utile à garder sous la main lorsqu’on part en vacances.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1. Chargeur de GSM\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLe chargeur de GSM est de loin l’objet le plus souvent oublié. Souvent, le chargeur de GSM reste branché dans la prise de courant et on oublie de le retirer lorsqu’on rentre à la maison. Selon le type, un nouveau chargeur de GSM peut coûter rapidement 30 euros.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2. Gel douche/shampoing\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLe gel douche est aussi un objet très souvent oublié. Il reste parfois toute une semaine dans la douche et vous ne le remarquez pas derrière le rideau de douche quand vous faites vos bagages. Certains l’abandonnent même volontairement quand il est largement entamé.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e3. Matériel de cuisine\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eC’est peut-être moins évident, d’autant plus que pratiquement toutes les maisons de vacances sont équipées de matériel de cuisine. Mais de nombreuses personnes emportent quand même souvent leurs propres couverts, un couteau de cuisine ou éplucheur quand elles séjournent dans une maison de vacances. Ceux-ci restent alors dans le tiroir après le départ.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e4. Sèche-cheveux\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eL’objet le plus souvent oublié pour les femmes. Le sèche-cheveux disparait dans une armoire ou dans un tiroir moins souvent utilisé et au dernier contrôle il est souvent oublié. De même pour les rasoirs des hommes. Un nouveau sèche-cheveux coûte facilement 50 euros. N’oubliez donc pas de vérifier doublement les petites commodes de la salle de bain.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e5. Éléments de réfrigération pour glacière\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eQui part en voiture vers une maison de vacances, emporte souvent une glacière. À l’arrivée, les éléments de réfrigération sont souvent remis dans le congélateur. Mais si durant le séjour le congélateur n’est pas utilisé, il arrive qu’on oublie de le contrôler et les éléments de réfrigération sont abandonnés.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e6. Jouets\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eUn classique chez les enfants. L’animal en peluche qui disparait sous les draps et la balle qui traîne autour de la piscine. Ou les voitures miniatures qui atterrissent sous l’armoire et les vêtements pour poupées qui disparaissent derrière le fauteuil. Souvent, ce n’est pas très grave sauf s’il s’agit de la peluche préférée. Le chemin du retour peut alors sembler très long.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e7. Manteau ou verste\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eVous connaissez la situation. Au départ de la Belgique pluvieuse et froide vous portez un manteau ou une veste. Mais arrivé à votre destination estivale, la veste est abandonnée durant toute la semaine sur un porte-manteau. Si ce porte-manteau se trouve par hasard derrière une porte ou une armoire, il est souvent oublié. C’est une chose qu’on ne remarque souvent qu’à l’arrivée en Belgique.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e8. Maillots de bain\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEncore un classique, le maillot de bain, bikini ou serviette de bain qui atterrit sur la chaise du jardin afin de sécher. Quand on part, on vérifie scrupuleusement les armoires mais on oublie de repasser par la terrasse pour récupérer les maillots bien séchés. Heureusement, vous n’en aurez plus tellement besoin en Belgique pendant l’été.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e9. Lunettes de lecture\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eOn n’utilise les lunettes de lecture que quand on en a besoin, notamment lorsqu’on lit le journal ou un livre. Mais le jour du départ, on a souvent trop peu de temps et on a tendance à les oublier sur la table du salon ou de la cuisine. Résultat: votre prochain journal semble être un peu plus difficile à lire.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e10. Cafetière\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIl faut le voir pour le croire, mais de nombreuses personnes sont attachées à leur propre café. À tel point qu’elles emportent même leur propre appareil Senseo ou Nespresso en vacances alors qu’il y a presque toujours une cafetière normale. Mais après une semaine, il semble intrinsèquement faire partie du mobilier de cuisine et lorsqu’on fait ses bagages pour le retour, l’appareil est tout bonnement négligé. De cette façon, le dernier café pris pendant les vacances semble être un évènement inoubliable.\u003c/p\u003e\u003cp\u003eSi vous voulez éviter les mauvaises surprises, imprimez la liste ci-dessus et emportez-la comme liste de contrôle lors de vos vacances. Vous éviterez un tas de désagréments et à Interhome la recherche de vos objets oubliés.\u003c/p\u003e\u003cp\u003eL’offre la plus récente de maisons de vacances peut être consultée sur \u003ca href=\"/fr/\"\u003ewww.interhome.be\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"/fr/-/media/Files/press-releases/2016/FR_Interhome_Objets%20Perdus_FR.pdf?la=fr-BE\"\u003eRapport\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"/fr/idees-vacances/\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité. Qu'importe vos envies...Interhome vous propose 40.000 maisons et appartements de vacances dans 28 pays.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eD'un \u003ca href=\"/fr/chalet/\"\u003echalet à la montagne\u003c/a\u003e à une \u003ca href=\"/fr/villa/piscine/\"\u003evilla avec piscine\u003c/a\u003e ou à un château, nous avons la location qui vous convient. Vous pouvez réserver votre location directement depuis notre site internet. Interhome vous fournit toutes les informations nécessaires avant votre départ et s'occupe du nettoyage dès votre départ. De plus, vous profitez de \u003ca href=\"/fr/a-propos-d-interhome/standards-qualite/\"\u003ela qualité\u003c/a\u003e de nos logements grâce à un système suisse de classification par étoile.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

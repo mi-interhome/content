@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2016/",
+                            "label": "News 2016"
+                        },
+                        {
+                            "href": "/news/2016/20160402promote-the-swiss-alps/",
+                            "label": "A strong partnership to develop and promote the Swiss Alps"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "A strong partnership to develop and promote the Swiss Alps",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eInterhome the Swiss self-catered accommodation specialist, whose head-office is in Glattbrug, Zurich, together with the Swiss investment fund Mountain Resort Real Estate Fund (SICAV), based in Sion, Valais, embark on a new joint-venture. In the next 10 years this partnership will develop at least 10 new holiday residences in the Swiss Alps, financed and managed by the investment fund, while the commercialisation and management on the national and international market of the complete portfolio of holiday residences, comprising approximately 4500 beds, under the brand Swiss Peak Resorts, will be handled exclusively by Interhome.\u003c/p\u003e\u003cp\u003eDemand for high quality, good-value, self-catered accommodation in Swiss resorts is very high. Philippe Lathion’s vision, as catalyst and CEO of \u003cstrong\u003eMountain Resort Real Estate Fund\u003c/strong\u003e (SICAV), is to develop a sustainable portfolio of functional holiday residences, across numerous well-known and up-and-coming Swiss ski resorts, that would be built close to the lifts and ski runs; a vision that has already born fruit. He has managed with the help of institutional investors to raise over 60M CHF for the first two projects which will be built in Vercorin and Morgins in the Valais. \u003cstrong\u003eThe Mountain Resort Real Estate Fund \u003c/strong\u003e(SICAV) will retain ownership of the \u003cstrong\u003eSwiss Peak Resorts\u003c/strong\u003e estate. \u003cstrong\u003eInterhome\u003c/strong\u003e, the Swiss self-catering accommodation specialist has been given the exclusive distribution and management rights across all markets.\u003c/p\u003e\u003cp\u003eThe construction of these first 2 residences in the Valais, in the resorts of Vercorin (470 beds) and Morgins (500 beds), will start in the spring of this year. The delivery of the finished residences comprising 2 to 4 buildings each, and the arrival of first guests, is expected in December 2017.\u003c/p\u003e\u003cp\u003eAll of these holiday residences will be recognizable by their style, blending wood and stonework to create a cosy functional whole. Their implantation in resort will complement the existing offering and in no way compete against existing infrastructures. Building work will be completed by local companies. Supervision of the construction has been delegated by \u003cstrong\u003eMountain Resort Real Estate\u003c/strong\u003e Fund (SICAV), a fund controlled and authorised by the FINMA(Swiss Financial Market Supervisory Authority) in 2014, to the company GEFISWISS SA, from Lausanne.\u003c/p\u003e\u003cp\u003eThese two pilot projects for high-end holiday residences in two Valaisain resorts; Vercorin just above Sierre for the first, and Morgins for the second, in the heart of the Portes du Soleil, a Franco/Swiss ski area that is the largest in the world, mark the start of an innovative collaboration. Eight other \u003cstrong\u003eSwiss Peak Resorts\u003c/strong\u003e projects will follow across the Swiss alpine arc – In the Valais, in the Bernese Oberland, in the Tessin and in the Grisons.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome AG\u003c/strong\u003e is specialised in the rental of holiday apartments, chalets and houses with over 33,000 properties spread across 31 countries. 620,000 holiday makers enjoyed the excellent service in 2015, achieving a turnover of around 180 million Swiss francs. \u003cstrong\u003eInterhome AG\u003c/strong\u003e, whose head office is in Glattbrug, Zurich, is a 100% owned subsidiary of Hotelplan Holding AG, who in turn is 100% owned by the Migros Group, the largest retail organisation in Switzerland, also domiciled in Zurich.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMountain Resort Real Estate Fund \u003c/strong\u003e(SICAV), is a Swiss unit trust investment fund, registered at the Sion chamber of commerce. It is subject to the control of the FINMA, the Swiss Financial Supervisory Authority, that authorised its creation in 2014. It is the first unit trust fund whose investment policy is concentrated exclusively on the construction and ownership of holiday residences across the Swiss Alps. \u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hand-picked and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "In-resort service and a 24/7 helpline",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and information about your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why choose Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it than in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, experience the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or indulge yourself in the luxury of a \u003ca href=\"/spain/#hitlist\"\u003eSpanish Villa\u003c/a\u003e. Be inspired by our \u003ca href=\"/holiday-ideas/\"\u003etravel ideas\u003c/a\u003e and book online with us - it is quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your own holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA stay in a holiday house or apartment offers so many advantages: spend your time exactly the way you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules and pace. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Kick back and enjoy lots of room, flexibility and freedom in your own holiday letting.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,88 +26,152 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/o-nas/",
+                            "label": "O nas"
+                        },
+                        {
+                            "href": "/o-nas/zrownowazony-rozwoj/",
+                            "label": "Love Nature – ochrona dotyczy nas wszystkich"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Love Nature – ochrona dotyczy nas wszystkich",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eJako Interhome Group chcemy być wzorem do naśladowania jeśli chodzi o zrównoważony rozwój. Uważamy, że naszym obowiązkiem jest pozostawienie nienaruszonego środowiska dla przyszłych pokoleń. Tym sposobem, jako nasi Klienci mogą się Państwo przyczynić do ochrony klimatu podczas pobytu wakacyjnego . Wpłata jest w pełni przeznaczona na realizację projektów zrównoważonego rozwoju M Climate Fund za pośrednictwem naszego Partnera myclimate.\u003c/p\u003e\u003cp\u003eZobowiązujemy się do ochrony klimatu nie tylko wobec naszych Klientów i naszej spółki matki Migros, ale także na arenie międzynarodowej. Interhome Group podpisała „Deklarację z Glasgow w sprawie działań klimatycznych w turystyce” Światowej Organizacji Turystyki przy ONZ, a tym samym zobowiązała się do zmniejszenia o połowę emisji gazów cieplarnianych do 2030 roku i ich redukcji do zera najpóźniej do 2050 roku.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eZapraszamy do szerszego zapoznania się z naszymi celami, współpracą z myclimate i naszym programem ochrony pszczół. Nasz Zespół ds. zrównoważonego rozwoju zebrał przydatne wskazówki dotyczące codziennego życia i wakacji specjalnie dla naszych Klientów. Zrównoważony rozwój nie ma daty końcowej, dlatego nieustannie i wytrwale angażujemy się w zrównoważoną turystykę wakacyjną dziś i jutro.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBioróżnorodność\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eZmiany klimatu\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eNasi Klienci\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eNasi Parterzy\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eNasze lokalizacje\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003ePersonel\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eBiura\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38949/2142265-1-eng-XX/Sustainability_2022_wheel_pl_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39866\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBioróżnorodność\u003c/h4\u003e\u003cp\u003eZmiany klimatyczne mają szczególny wpływ na bioróżnorodność, która tym samym wpływa na rozwój turystyki. Bioróżnorodność to zróżnicowane życie na ziemi, wliczając rośliny, zwierzęta i mikroorganizmy. Zmiany klimatyczne powodują zmiany w ekosystemie, co sprawia, że bioróżnorodność jest zagrożona. Może to doprowadzić do utraty ważnych siedlisk, wyginięcia gatunków oraz zmian w czasie i lokalizacji zjawisk naturalnych, takich jak kwitnienie czy migracja.\u003c/p\u003e\u003cp\u003eZmiany te mają bezpośredni wpływ na turystykę, tym bardziej, że wielu turystów pragnie podziwiać naturalne środowisko i dziką przyrodę. Jednym z przykładów są rafy koralowe, których istnienie kluczowe jest dla morskiej bioróżnorodności, a które ulegają degradacji na skutek rosnącej temperatury mórz i oceanów, stając się mniej atrakcyjnymi dla turystów. Podobnie, jak np. zmiany w bytowaniu dzikich zwierząt, mogą utrudnić turystom dostrzeżenie innych, co spowoduje, że poczują się zawiedzeni.\u003c/p\u003e\u003cp\u003eTurystyka także może wpływać na zmiany klimatu, co potęguje problem. Przemysł jest głównym źródłem emisji gazów cieplarnianych, zwłaszcza ten związany z transportem i zużyciem energii. Dlatego też, zrównoważona turystyka zmniejsza emisję dwutelnku węgla redukując jego wpływ na naturalne ekosystemy - jest to niezbędne dla złagodzenia negatywnych skutków zmian klimatu i różnorodności biologicznej.\u003c/p\u003e\u003cp\u003eReasumując, zmiany klimatu i utrata bioróżnorodności mają znaczący wpływ na turystykę, tym samym przemysł musi podjąć działania, aby zminimalizować swój udział w tym procederze i dostosować się do zmian środowiska. Promując zrównoważoną turystykę pomagamy chronić bioróżnorodność, a przyszłym pokoleniom zapewnić radość z obcowania z pięknem natury naszej planety.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eZmiany klimatu\u003c/h4\u003e\u003cp\u003eZmiany klimatu są spowodowane wzrostem gazów cieplarnianych w atmosferze ziemskiej, takich jak dwutlenek węgla, metan i podtlenek azotu. Gazy te zatrzymują ciepło słoneczne powodując wzrost temperatury na naszej planecie, co wpływa na zmiany schematu pogody, poziomu mórz i środowiska naturalnego. Zakwaterowanie jako jeden z sektorów przemysłu turystycznego ma także znaczący wpływa na emisję gazów cieplarnianych z uwagi na wysokie zużycie energii i uzależnienie od paliw kopalnych. Zrównoważona turystyka i praktyki takie jak wykorzystywanie odnawialnych źródeł energii, zmniejszanie zużycia energii i wdrażanie strategii redukcji odpadów, mogą pomóc zminimalizować wpływ sektora jakim jest zakwaterowanie na zmianę klimatu i promować zrównoważony rozwój.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 11,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eNasi Klienci\u003c/h4\u003e\u003cp\u003ePodczas podróży warto pamiętać o odwiedzaniu lokalnych atrakcji, zintegrować się z ludźmi i ich kulturą oraz wspierać ich społeczność robiąc lokalne zakupy. Warto odkrywać ofertę tętniących życiem lokalnych rynków, by wykorzystać bogactwo i ich autentyczność jednocześnie pozostawiając pozytywny ślad na lokalnej gospodarce i społeczności. Tym sposobem tworzymy nie tylko niezapomniane chwile, ale także przyczyniamy się do zrównoważonego rozwoju, chroniąc odwiedzane miejsca aktywnie uczestniczymy w ochronie klimatu.\u003c/p\u003e\u003cp\u003eAngażując się w budowanie lepszej przyszłości wykraczamy poza naszą codzienną działalność. Zdając zaś sobie sprawę, jak ważna jest ochrona środowiska także podczas wakacji jesteśmy zdeterminowani, aby zmotywować naszych Klientów, by dołączyli do nas w tej ważnej misji. Dlatego, mając to na uwadze, przygotowaliśmy kilka cennych wskazówek, które z łatwością pomogą wywierać pozytywny wpływ na środowisko podczas wakacji.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eNasi Parterzy\u003c/h4\u003e\u003cp\u003eBez zaangażowania naszych Parterów i udziałowców, podróżowanie w ramach zrównowazonego rozwoju nie będzie możliwe. Wyzwaniem jest doskonalenie naszej wiedzy oraz inspirowanie się nawzajem, aby wprowadzać zmiany w życie.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eNasze lokalizacje\u003c/h4\u003e\u003cp\u003eW naszej firmie kładziemy duży nacisk na dobro naszych Gości i środowisko. Chcąc spełnić to zobowiązanie, skrupulatnie oceniamy każdy z naszych domów wakacyjnych wg naszej listy kontrolnej dotyczącej zrównoważonego rozwoju. Dbamy także o bliskie relacje z właścicielami oferowanych przez nas domów i apartamentów wakacyjnych nie zapominając o ciągłym ulepszaniu działań dotyczących zrównoważonego rozwoju w tych domach i apartamentach.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 13,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003ePersonel\u003c/h4\u003e\u003cp\u003eW naszej firmie jesteśmy głęboko zaangażowani w promowanie świadomości ekologicznej i zrównoważonego rozwoju. Hołdując tym wartościom naszym pragnieniem jest, aby każdy pracownik aktywnie uczestniczył w inicjatywie Climate Fresk. Projekt Climate Fresk to wspólna inicjatywa mająca na celu podnoszenie świadomości i zrozumienia zmian klimatycznych. Obejmuje interaktywne warsztaty, podczas których uczestnicy, w formie gry, odkrywają przyczyny, skutki i potencjalne rozwiązania dla zmian klimatycznych. Warsztaty te łączą w sobie informacje naukowe i dyskusję w ramach grupy w celu edukowania i motywowania siebie nawzajem do podejmowania działań przeciwko zmianom klimatycznym. Oferując przestrzeń do dialogu i dzielenia się wiedzą, projekt Climate Fresk nie tylko wzmacnia poczucie zaangażowania, ale także inspiruje do wspólnego wysiłku na rzecz rozwiązania tego globalnego problemu. Wierzymy, że aktywnie angażując naszych pracowników w warsztaty Climate Fresk, możemy dać im cenne wskazówki i umożliwić dokonywanie świadomych wyborów w kierunku budowania zrównoważonej i odpornej na zmianę klimatu przyszłości.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 14,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eBiura\u003c/h4\u003e\u003cp\u003eChcąc rozsądnie wpływać na środowisko, dokładnie oceniliśmy także każde biuro w naszej firmie. Objęło to ocenę źródła energii elektrycznej, systemów grzewczych, czy nawet mniejszych szczegółów, takich jak np. papier czy środki czyszczące. Mając odpowiednią wiedzę, tworzymy jasne wytyczne prowadzące do poprawy ochrony środowiska w naszych biurach.\u003c/p\u003e\u003cp\u003eZdając sobie sprawę ze skutków naszej działalności na środowisko, możemy wdrożyć ukierunkowane strategie mające na celu zmniejszenie naszego śladu ekologicznego. Pociąga to za sobą optymalizację źródeł energii, poprawę wydajności systemu grzewczego, zakup ekologicznego papieru czy nawet korzystanie z przyjaznych dla środowiska środków czyszczących. Są to niezbędne działania, aby dostosować nasze biura do zrównoważonych praktyk i zminimalizować nasz ogólny wpływ na środowisko.\u003c/p\u003e\u003cp\u003eDziałając z zaangażowaniem i odpowiedzialnie zarządzając zasobami oraz redukcjąc odpady chcemy dawać pozytywny przykład w naszej branży i inspirować innych do robienia tego samego. Rozumiemy, że nawet niewielkie zmiany mogą mieć znaczący wpływ, jeśli zostaną spotęgowane w całej naszej firmie.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 15,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Wynajem domu wakacyjnego z zachowaniem wszelkich zasad bezpieczeństwa!",
+                    "link": {
+                        "href": "/o-nas/bezpieczenstwo-w-domu-wakacyjnym/",
+                        "label": "Więcej informacji"
+                    },
+                    "car": "Własny dojazd",
+                    "cleaning": "Kontrola czystości",
+                    "independence": "Swoboda i niezależność",
+                    "key": "Odbiór kluczy z zachowaniem zasad bezpieczeństwa",
+                    "privacy": "Prywatność w domu wakacyjnym",
+                    "support": "Pomoc na miejscu"
+                }
             },
             {
                 "id": 16,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Tylko wybrane i sprawdzone oferty ",
+                            "subtitle": "Jakość jest naszym najwyższym priorytetem",
+                            "caption": "Każda nasza oferta jest sprawdzana przez pracowników biur lokalnych, by zagwarantować najwyższy standard i udany urlop. "
+                        },
+                        {
+                            "title": "Gwarantowana dostępność i serwis na miejscu",
+                            "subtitle": "Skorzystaj z naszego doświadczenia ",
+                            "caption": "Wszędzie tam, gdzie znajdują się nasze biura lokalne, odbiór kluczy odbywa się za pośrednictwem naszych pracowników, którzy czekają, by udzielić dodatkowych informacji, polecić najlepszą restaurację czy podzielić się swoim doświadczeniem.  "
+                        },
+                        {
+                            "title": "Niezapomniane wakacje",
+                            "subtitle": "Prywatność i swoboda gwarantowane",
+                            "caption": "Interhome to urlop na własnych zasadach. Żadnych zbiórek i stałych godzin posiłków, w naszych domach i apartamentach wakacyjnych macie nie tylko pełną swobodę, lecz również mnóstwo miejsca dla całej rodziny i przyjaciół. "
+                        }
+                    ]
+                }
             },
             {
                 "id": 17,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Dlaczego Interhome? ",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003ePonieważ od 1965 roku realizujemy marzenia o idealnych wakacjach. Przemawia za nami szwajcarska jakość, przejrzysty system gwiazdek i doskonałe opinie od zadowolonych klientów. Rezerwując dom lub apartament wakacyjny z własnym dojazdem w jednym z 27 krajów z oferty Interhome można odkryć najpiękniejsze turystyczne zakątki. Z nami wyruszycie na rodzinne wakacje do Chorwacji i na Sylwestra w Zakopanem. Rozkoszujcie się więc wakacjami we Włoszech, wybierzcie się z nami na urlop w apartamencie we Francji lub spędźcie wymarzone wczasy z dojazdem własnym w willi w Hiszpanii. Odkrywajcie nowe smaki, obserwujcie podobieństwa i różnice kulturowe. Warto dać się zainspirować, wybrać idealną dla siebie ofertę i zarezerwować ją bez problemu online na stronie Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Swoboda, prywatność i komfort",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eOferujemy sprawdzone, komfortowe mieszkania w miastach Europy na city-break, na rodzinne wakacje nad morzem, domy z prywatnym basenem, domki w górach na narty w Alpach i noclegi nad jeziorami. Zalet takiego indywidualnie zorganizowanego wypoczynku jest wiele. Największą jest jednak niczym nieograniczona swoboda. Żadnych terminów i ściśle wyznaczonych godzin. W pełni wyposażonej kuchni do indywidualnego użytku można swobodnie przygotować posiłki dla wszystkich towarzyszy wyjazdu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

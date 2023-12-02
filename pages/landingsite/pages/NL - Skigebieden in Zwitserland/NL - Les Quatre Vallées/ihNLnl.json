@@ -26,38 +26,108 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/",
+                            "label": "Skigebieden in Zwitserland"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/les-quatre-vallees/",
+                            "label": "Wintersport chalets in Les Quatre Vallées"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersport chalets in Les Quatre Vallées",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eIn een gebied dat loopt van 820 tot 3330 meter hoogte in de Zwitserse Alpen van \u003ca href=\"/zwitserland/wallis/\"\u003eWallis\u003c/a\u003e, vindt u een magnifiek aaneengesloten skigebied. Les Quatre Vallées biedt werkelijk ieder type wintersporter de vakantie van zijn of haar dromen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome biedt in de volgende dorpen in Les Quatre Vallées vakantiehuisjes aan:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/veysonnaz/\"\u003eVeysonnaz\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/nendaz/\"\u003eNendaz\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/verbier/\"\u003eVerbier\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/la-tzoumaz/\"\u003eLa Tzoumaz\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/siviez-nendaz/\"\u003eSiviez\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/4-vallees/thyon-les-collons/\"\u003eThyon 2000-Les Collons\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Les Quatre Vallées\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-in-zwitserland5/1398318-1-dut-NL/Vakantiehuisjes-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24126\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-dichtbij-de-skilift5/1398323-1-dut-NL/Vakantiehuisjes-dichtbij-de-Skilift.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24127\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/skigebieden-in-zwitserland5/1398328-1-dut-NL/Skigebieden-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24128\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/zwitserland/skien-snowboarden\"\u003e\u0026gt;\u0026gt; Chalets in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/zwitserland-skigebieden/\"\u003e\u0026gt;\u0026gt; Skigebieden in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003ch3\u003eWintersporten in Les Quatre Vallées\u003c/h3\u003e\u003cp\u003eAlleen al in cijfers is Les Quatre Vallées indrukwekkend. U vindt hier meer dan 400 kilometer pistes, bijna ideaal verdeeld over de verschillende moeilijkheidsgraden. Een kwart is eenvoudig, een ander kwart is moeilijk en de resterende helft bestaat uit gemiddelde, rode pistes. Dus of u nu beginner bent die het bij de ruim 100 kilometer blauwe pistes houdt, of juist grotere rode of zwarte uitdagingen zoekt, u kunt hier uit de voeten.\u003c/p\u003e\u003cp\u003eDe beginners zullen het met name zoeken in de gebieden dichter bij de dorpen, zoals de berg Tracouet bij Nendaz, of andere lagere gebieden bij La Tzoumaz en Verbier. Maar de meer ervaren skiërs hebben natuurlijk veel meer interesse in bijvoorbeeld de skiroutes van de Chassoure en Gentianes. Zeker als het daar net heeft gesneeuwd, worden dat enorm mooie buckelpistes. En uiteraard gaat u natuurlijk een keer naar het hoogste punt van het gebied. De 3330 meter hoge Mont Fort geeft een adembenemend uitzicht op de Matterhorn en de Mont Blanc.\u003c/p\u003e\u003ch3\u003eAndere wintersport activiteiten\u003c/h3\u003e\u003cp\u003eMet de ‘gewone’ pistes zijn we er natuurlijk nog niet in dit fantastische wintersportgebied. Hoewel het gebied echt als ski- en snowboardgebied bekend staat, vindt u er ook 47 kilometer aan langlaufloipen. De loipe bij Thyon ligt heerlijk hoog op 2000 meter, terwijl de langlaufloipe rondom het meer bij \u003ca href=\"/zwitserland/wallis/champex/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=edd2ea75-171d-9e06-4842-3e16cbd476b2\"\u003eChampex-Lac\u003c/a\u003e verlicht wordt. Voor off-piste skiërs is het gebied bijzonder geschikt.\u003c/p\u003e\u003cp\u003eRodelen kunt u hier vanzelfsprekend ook in Les Quatre Vallées en de freestylers hebben de funparks voor het kiezen. In Thyon vindt u 33 modules, verspreid over 5 hectares terrein. Maar ook het Nendaz Woodpark is een hele leuke optie en het sneeuwpark van La Chaux in Verbier geeft u alle mogelijkheden nieuwe stunts te oefen en veilig te landen op de enorme airbag.\u003c/p\u003e\u003ch3\u003eSkidorpen\u003c/h3\u003e\u003cp\u003eIn Les Quatre Vallées vindt u veel prachtige wintersportplaatsen die allemaal net even anders zijn. Wintersport appartementen of chalets in Les Quatre Vallées zijn er dan ook in alle soorten en maten. Op die manier vindt iedere wintersporters er zijn eigen ideale verblijfplek. Zo is Veysonnaz populair bij veel Nederlandse en Belgische wintersporters. U vindt daar bijvoorbeeld de Piste de l'Ours, bekend van veel internationale wedstrijden. Verbiers is een wat mondainere plaats, maar zeker veel snowboarders willen juist daar naartoe vanwege de ongekende mogelijkheden. Een plaatsen als Nendaz is populair omdat het daar wat nuchterder en gemoedelijker is. Ook La Tzoumaz is een eenvoudig dorp, maar van alle gemakken voorzien, inclusief een cabinelift die u van het dorp rechtstreeks naar een hoogte van 2400 meter vervoert.\u003c/p\u003e\u003ch3\u003eWintersportchalet in Les Quatre Vallées\u003c/h3\u003e\u003cp\u003eEen zeer ruim en gevarieerd wintersportgebied met voor elk wat wils. In Les Quatre Vallées is een ruim aanbod aan accommodaties, van een hotelkamer tot aan wintersportchalets en waarvoor u ook komt, skiën, snowboarden of langlaufen, het gebied zal u meer dan positief verrassen. We wensen u er een heerlijke wintersportvakantie.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

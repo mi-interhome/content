@@ -26,38 +26,104 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/nieuws/",
+                            "label": "Nieuws"
+                        },
+                        {
+                            "href": "/nieuws/de-huwelijksreis-collectie/",
+                            "label": "De Huwelijksreis Collectie van Interhome"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "De Huwelijksreis Collectie van Interhome",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003e\u003cstrong\u003eDe Huwelijksreis Collectie van Interhome\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eInterhome heeft haar eerste product op maat gelanceerd, afgestemd op bruilofts- en huwelijksreisspecialisten: De Huwelijksreis Collectie. Dit is een samengesteld portfolio van vakantiewoningen geschikt voor huwelijksreizen of huwelijkslocaties in 17 landen.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/wedding-diner3/1790399-1-eng-XX/Wedding-diner.jpg\" width=\"5513\" height=\"3075\" data-view=\"embed-inline\" data-offset=\"\" data-limit=\"\" data-align=\"right\" data-id=\"35489\" data-type=\"image\" data-content=\"\"\u003e\u003c/p\u003e\u003cp\u003eDe vakantiewoningen voor uw huwelijk of huwelijksreis variëren van luxe boerderijen tot villa's met privézwembad en budgetappartementen voor maximaal 18 gasten, waardoor ze ideaal zijn voor bruiloftsgroepen. Het merendeel van de vakantiewoningen ligt in de buurt van bekende bruiloftslocaties, terwijl sommige eigendommen zelfs de bruiloft in het pand zelf kunnen organiseren. ‘De Huwelijksreis Collectie’ werd geïntroduceerd door de Business Development Manager van Interhome UK, Danny Waine; voorheen medeoprichter van de buitenlandse bruiloft specialist, ‘Perfect Weddings Abroad’.\u003c/p\u003e\u003ch3 align=\"LEFT\"\u003e\u003cstrong\u003eHuwelijksreis bestemmingen wereldwijd \u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eInterhome, onderdeel van de Hotelplan Groep, beschikt over een aantal vakantiewoningen waar koppels ter plaatse kunnen trouwen, waaronder de \u003cstrong\u003eThalassines Beach Villas in Cyprus\u003c/strong\u003e (te zien in de bovenstaande foto), \u003cstrong\u003eTaymouth Marina\u003c/strong\u003e in Schotland, \u003cstrong\u003eCastello Monticelli\u003c/strong\u003e in Italië en het \u003cstrong\u003eKnightsbrook Estate\u003c/strong\u003e in Ierland. De collectie bevat vele \u003cstrong\u003ehuwelijksreis tips\u003c/strong\u003e, waar u zeker veel inspiratie uit kan halen. Rekening houdend met de afstanden tot top trouwlocaties, sprookjesachtige accommodaties en de behoeftes van de huwelijkskoppels.\u003c/p\u003e\u003cp\u003eDe vakantiewoningen die op korte afstand liggen van top trouwlocaties, zijn onder andere het in de valei van van ‘Borgo Monticelli’ in Italië. In deze middeleeuwse burcht met 18 appartementen, kunt u niet alleen overnachten maar ook trouwen. Maar ook villa Solterra Oaks in Florida bieden een uitgangsbasis om te trouwen op verschillende locaties, zoals Cocoa Beach, Hard Rock Café Orlando, Cypress Grove \u0026amp; Winter Park Chapel. Vakantievilla’s die op een iets langere afstand liggen van top trouwlocaties zijn onder andere de 4-slaapkamer Kaapkloof Manor in Zuid-Afrika, in de buurt van Camps Bay en New York Manhattan Residences'1 in de Verenigde Staten met 2 slaapkamers in de buurt van de vele openluchtceremonies van het Central Park.\u003c/p\u003e\u003cp\u003eOok zijn er mogelijkheden voor een \u003cstrong\u003e‘Winter Honeymoon’\u003c/strong\u003e voor koppels die willen trouwen in de sneeuw en op zoek zijn naar hun ‘Winter Wonderland’. Denk bijvoorbeeld aan:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eDe Solaria Davos appartementen in Davos\u003c/strong\u003e: in Zwitserland liggen slechts op  een korte afstand tot de ‘The Chapel’ van het Hard Rock hotel. \u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eHet vakantiehuis Hiihtogreeni in het Finse Lapland: \u003c/strong\u003eeen ideale villa voor koppels die op zoek zijn naar een sprookjesachtig huwelijksnacht onder het Noorderlicht.\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/wedding-diner4/1790404-1-eng-XX/Wedding-diner.jpg\" width=\"2048\" height=\"1365\" data-view=\"embed-inline\" data-offset=\"\" data-limit=\"\" data-align=\"left\" data-id=\"35490\" data-type=\"image\" data-content=\"\"\u003e\u003c/p\u003e\u003cp\u003eRudolf Verbeek, Commercieel  manager van Intehome Nederland: \u003cem\u003e“Het idee achter ‘De huwelijksreis collectie, van Interhome’ is vergemakkelijken van het vinden van buitenlandse huwelijksreis bestemmingen en locaties waar paren kunnen trouwen in het buitenland. Dit doen wij door hen te verwijzen naar accommodaties die ideaal zijn voor multi-generatie bruiloften en dicht bij enkele van de meest populaire ceremonie locaties voor bruidsparen die in het buitenland willen trouwen\"\u003c/em\u003e.\u003c/p\u003e\u003cp\u003eOngeveer de helft van de landen die in de huwelijksreis collectie zijn opgenomen, staan wettelijke bruiloften toe voor echtparen en de rest kan niet-wettelijke verbintenisceremonies organiseren. Verbeek: \u003cem\u003e\"Een van de grootste veranderingen in de buitenlandse bruiloft markt in de afgelopen jaren is gedreven door sociale media en in het bijzonder de invloed van Instagram. Toen de buitenlandse bruiloft markt nog in zijn start- up fase zat, zouden koppels alleen reizen naar bestemmingen waar ze legaal konden trouwen. Tegenwoordig zijn koppels meer bezorgd over het vastleggen van de perfecte bruiloft foto met een prachtige achtergrond en regelen zij het juridische papierwerk wanneer zij terug komen in Nederland. Dit wordt weerspiegeld in het gevarieerde productassortiment dat we aanbieden in de 17 landen die we in De Huwelijksreis Collectie presenteren\".\u003c/em\u003e\u003c/p\u003e\u003cp\u003eBent u benieuwd naar de voorgestelde trouwlocaties? Bezoek dan het portfolio van de accommodaties uit \u003cu\u003e\u003ca href=\"/vakantie-ideeen/huwelijksreis-collectie/\"\u003eDe Huwelijksreis Collectie\u003c/a\u003e\u003c/u\u003e van Interhome. \u003c/p\u003e\u003cp\u003eAlle accommodaties zijn te boeken door reisbureaus en touroperators via het Interhome UK Partner Portal: \u003ca href=\"/partner/\"\u003ehttps://www.interhome.nl/partner/\u003c/a\u003e , via GDS-reserveringssystemen en telefonisch op + 31 70 41 41 040. Alle boekingen gemaakt vanuit De Huwelijks Collectie, van Interhome, gelden voor afgesproken commissiebasis voor de Nederlandse reisbranche.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

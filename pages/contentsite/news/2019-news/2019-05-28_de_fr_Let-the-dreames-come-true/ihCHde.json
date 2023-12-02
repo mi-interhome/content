@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2019/",
+                            "label": "Medienmitteilungen 2019"
+                        },
+                        {
+                            "href": "/presse/2019/20190528-Let-the-dreames-come-true/",
+                            "label": "28.5.2019: Let the dreames come true"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "28.5.2019: Let the dreames come true",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eEinmal König, Königin, Prinz oder Prinzessin sein… Viele haben bereits als Kind davon geträumt. Ganz nach dem Motto \"Let the dreams come true\" können königliche Ferien in einem Schloss verbracht werden.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEin grosses, pompöses Haus, ein riesiger Garten und vielleicht sogar einen eigenen Swimmingpool: Was für Archie Harrison Mountbatten-Windsor, der vor wenigen Wochen geborene Sohn von Prinz Harry, Realität ist, bleibt für die meisten einfach nur ein Traum. Träume können sich aber verwirklichen lassen, wenn auch nur für einige Tage in den Ferien.  \u003cbr\u003e       \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eKönigliches Schottland\u003c/strong\u003e\u003cbr\u003eBis Anfang des 18. Jahrhunderts war Schottland ein eigenständiges Königreich, ehe es sich mit den weiteren Ländern Grossbritanniens zusammenschloss. Wer einmal wie Anne Stuart, die letzte Königin Schottlands, leben möchte, ist im historischen Herrenhaus \"Ardtornish\" mit der Ferienwohnung \"The Nursery\" richtig. Der grosszügige Garten, ein See in unmittelbarer Nähe sowie das an das Grundstück grenzende Waldstück garantieren Erholung pur.\u003cbr\u003e1 Woche in der 5-Sterne-Ferienwohnung \"The Nursery\" auf der Halbinsel Morvern in Schottland für maximal 6 Personen ist bei Interhome ab CHF 1'045.- buchbar, inklusive Endreinigung sowie Bett- und Toilettenwäsche. \u003ca href=\"/GB8355.300.4\"\u003ewww.interhome.ch/GB8355.300.4\u003c/a\u003e\u003cstrong\u003e      \u003c/strong\u003e\u003cbr\u003e       \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eKönigliches Frankreich\u003c/strong\u003e\u003cbr\u003eLouis XIV, dem bekanntesten König Frankreichs, wäre das \"Château Moindrots\" wahrscheinlich zu klein und zu wenig prunkvoll gewesen. Hat er seine Zeit doch lieber auf Schloss Versailles verbracht. Wollen Herr und Frau Schweizer jedoch königliche Ferien verbringen, sollte das 9-Zimmer umfassende Schloss im Herzen Frankreichs genügend Platz bieten; nicht zuletzt auch wegen des 4'000m² grossen Grundstücks mit Weiden und einem kleinen See.\u003cbr\u003e1 Woche im 3-Sterne-Ferienhaus \"Château Moindrots\" in Luzy in Frankreich für maximal 11 Personen ist bei Interhome ab CHF 840.- buchbar, inklusive Endreinigung. \u003ca href=\"/FR6708.651.1\"\u003ewww.interhome.ch/FR6708.651.1\u003c/a\u003e     \u003cbr\u003e       \u003cbr\u003e\u003cstrong\u003eKönigliches Italien\u003c/strong\u003e\u003cbr\u003eObwohl Italien seit über 70 Jahren nicht mehr durch einen König regiert wird, ist es ein prädestiniertes Land, um königliche Ferien zu erleben. So zum Beispiel in der 20-Zimmer-Villa \"Beatrice\". Die Villa erstreckt sich über mehrere Etagen. Stilvolle Möbel und antike Elemente sorgen für eine authentische Atmosphäre wie im 18. Jahrhundert. Der eingezäunte grosse Garten ist schlossähnlich angelegt und der Swimmingpool sorgt im Sommer für die nötige Erfrischung.\u003cbr\u003e1 Woche im 4-Sterne-Ferienhaus \"Beatrice\" in Borgo San Lorenzo in Italien für maximal 26 Personen ist bei Interhome ab CHF 5'951.- buchbar, inklusive Bett- und Toilettenwäsche. \u003ca href=\"/IT5294.960.1\"\u003ewww.interhome.ch/IT5294.960.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003cbr\u003e     \u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1695678-ger-CH/2019-05-28_Interhome_Let-the-dreams-come-true.pdf\" target=\"_blank\"\u003eDie vollständige Medienmitteilung im PDF-Format herunterladen\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1695683-ger-CH/Let%20the%20dreams%20come%20true.zip\" target=\"_blank\"\u003eDie Bilder im ZIP-Format herunterladen\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

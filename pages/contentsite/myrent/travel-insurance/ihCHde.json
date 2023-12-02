@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/myrent/",
+                            "label": "Myrent legal pages"
+                        },
+                        {
+                            "href": "/myrent/reiseversicherung/",
+                            "label": "Reiseversicherung"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Reiseversicherung",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eWir möchten, dass Ihnen Ihr Urlaub in in bester Erinnerung bleibt. Darum haben wir mit der ERV Rücktrittversicherung bereits für Sie vorgesorgt. Optional können Sie mit dem ERV Reiseschutz Ihre Versicherungsdeckung verbessern.\u003c/p\u003e\u003ch3\u003eIhr Schutz vor der Reise: ERV Rücktrittversicherung\u003c/h3\u003e\u003cp\u003eIn Ihrem Reisepreis ist automatisch \u003cstrong\u003ebereits eine Reiserücktrittversicherung enthalten\u003c/strong\u003e. Der Selbstbehalt beträgt in jedem Schadenfall 20 % des erstattungsfähigen Schadens. Die Details finden Sie in den \u003ca href=\"\"\u003eVersicherungsbedingungen zur ERV Rücktrittversicherung\u003c/a\u003e.\u003c/p\u003e\u003ch3\u003eIhr Schutz während der Reise: ERV Reiseschutz\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eOptimieren Sie Ihren Versicherungsschutz:\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/content/interhome-travel-insurance/730770-1-eng-XX/interhome-travel-insurance.jpg\" width=\"295\" height=\"212\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"right\" data-id=\"10229\" data-type=\"image\" data-content=\"\"\u003e\u003cul\u003e\n\u003cli\u003eErstattung nicht genutzter Reiseleistungen und zusätzlicher Rückreisekosten bei Abbruch\u003c/li\u003e\n\u003cli\u003eErstattung für Heilbehandlungen weltweit\u003c/li\u003e\n\u003cli\u003eÜbernahme von Such-, Rettungs- und Bergungskosten\u003c/li\u003e\n\u003cli\u003eOrganisation und Kostenübernahme für Kranken- und Gepäcktransporte\u003c/li\u003e\n\u003cli\u003eReisegepäck-Versicherung\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e   \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eKosten pro Buchung/Reservierung: EUR 35,–\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWir empfehlen den Abschluss des ERV Reiseschutzes, da Sie hier von weiteren Leistungen profitieren. Die Details finden Sie in den \u003ca href=\"https://images.interhome.group/ezcms/original/987554-ger-CH/ERV_AVB_Reiseschutz_CHde.pdf\" target=\"_blank\"\u003eVersicherungsbedingungen zum ERV Reiseschutz\u003c/a\u003e.\u003c/p\u003e\u003ch4\u003eBuchung\u003c/h4\u003e\u003cp\u003eDie ERV Rücktrittversicherung ist bereits in Ihrem Reisepreis enthalten. Den ERV Reiseschutz können Sie direkt mit Ihrer Unterkunft buchen. Sollten Sie Ihren Urlaub bereits gebucht haben, so können Sie den ERV Reiseschutz auch \u003cstrong\u003enachträglich bis zum Abreisetag über unsere Buchungshotline +49 2421 12 20 abschliessen.\u003c/strong\u003e Reiseschutz Ihre Versicherungsdeckung verbessern.\u003c/p\u003e\u003ch4\u003eSchadenformular (für Buchungen ab dem 01.01.2018)\u003c/h4\u003e\u003cp\u003eIm Schadenfall füllen Sie bitte das entsprechende Schadensformular aus:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699555-ger-XX/Schadenmeldung%20Arzt-%20und%20Spitalkosten%20-%20Krankheit.pdf\" target=\"_blank\"\u003eArzt- und Spitalkosten – Krankheit\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699520-ger-XX/Schadenmeldung%20Arzt-%20und%20Spitalkosten%20-%20Unfall.pdf\" target=\"_blank\"\u003eArzt- und Spitalkosten – Unfall\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699597-ger-XX/Schadenmeldung%20Reisegep%C3%A4ck%20%E2%80%93%20Diebstahl%20-%20Beraubung%20-%20Fehlleitung.pdf\" target=\"_blank\"\u003eReisegepäck – Diebstahl / Beraubung / Fehlleitung\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699680-ger-XX/Schadenmeldung%20SOS-Schutz%20f%C3%BCr%20Reisezwischenf%C3%A4lle.pdf\" target=\"_blank\"\u003eSOS-Schutz für Reisezwischenfälle\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699772-ger-XX/ERV_Schadenmeldung_Annullierungskosten_DE.pdf\" target=\"_blank\"\u003eAnnullierungskosten\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e  \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003e    \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSchadenformular (für Buchungen bis und mit 31.12.2017)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAllianz Rücktrittversicherung:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e• \u003ca href=\"https://images.interhome.group/ezcms/original/1021080-ger-XX/Claim%20advice_cancellation%20insurance_german.pdf\"\u003eAllianz Schadenanzeige Rücktrittversicherung\u003c/a\u003e und \u003ca href=\"https://images.interhome.group/ezcms/original/730680-ger-XX/Doctors%20Report_cancellation%20insurance_german.pdf\"\u003eArztbericht\u003c/a\u003e Allianz Rücktrittversicherung (bei Annullierung einer Buchung)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAllianz Reiseschutz:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e• \u003ca href=\"https://images.interhome.group/ezcms/original/730690-ger-XX/Claim%20advice_baggage%20insurance_german.pdf\"\u003eSchadenanzeige Reisegepäck\u003c/a\u003e\u003cbr\u003e• \u003ca href=\"https://images.interhome.group/ezcms/original/730685-ger-XX/Claim%20advice_travel%20insurance_german.pdf\"\u003eSchadenanzeige Assistance\u003c/a\u003e (bei einem Ereignis während des gebuchten Aufenthalts)\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

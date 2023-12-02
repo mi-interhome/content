@@ -26,53 +26,147 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v1/2254286-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v1.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v2/2254281-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v2.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_06_september_2023_00007_florianmori_dji_0492-1_header_1200x410/2276347-1-eng-XX/Header_1200x410_06_September_2023_00007_FlorianMori_DJI_0492-1_Header_1200x410.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v3/2254233-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v3.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/",
+                            "label": "Sobre a Interhome"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/sustentabilidade/",
+                            "label": "Ame a natureza - a conservação diz respeito a todos"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/sustentabilidade/trabalho-voluntario/",
+                            "label": "Trabalho voluntário"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Trabalho voluntário",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eNotícias\u003c/h4\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003e11 de setembro de 2023:\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eDez membros dedicados da Interhome Group de seis países diferentes embarcaram numa viagem de comboio para Klagenfurt, na Áustria. A sua missão era aprofundar os seus conhecimentos sobre a biodiversidade e participar em ações de voluntariado.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eComo parte da nossa semana educacional sobre biodiversidade e sustentabilidade na Caríntia, visitámos a família Hribar nas montanhas acima do Trögener Kamm para aprender como plantar jardins de permacultura. Preparámos o solo e lançámos as bases para a plantação da nova flora na primavera de 2024.\u003c/p\u003e\u003cp\u003eNo dia seguinte, subimos a montanha para plantar 50 mudas. Escolhemos cinco espécies variadas para criar uma floresta diversificada e resistente ao clima. Além disso, erguemos uma vedação para as proteger da intrusão de veados. Embora o terreno desafiante nos tenha deixado a suar, ficámos contentes com os nossos triunfos e aguardamos com expetativa o rápido crescimento das mudas.\u003c/p\u003e\u003cp\u003eA nossa estadia na Caríntia foi uma semana inspiradora de educação sobre biodiversidade e sustentabilidade. Mais dez colegas juntar-se-ão a nós na divulgação da mensagem de sustentabilidade na Interhome Group após esta viagem, com a esperança de que muitos mais se sigam.\u003c/p\u003e\u003cp\u003eDurante a viagem, também tivemos a oportunidade de visitar o nosso projeto de abelhas. Clique no link para saber mais: \u003ca href=\"/sobre-a-interhome/sustentabilidade/beesark/\"\u003eSalve as abelhas – salve a nossa terra! | Interhome\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"11.09.2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41621/2276332-1-eng-XX/Voluntary_2023_07_September_2023_00017_FlorianMori__DSC4242_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42654\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41620/2276327-1-eng-XX/Voluntary_2023_06_September_2023_00012_FlorianMori_DJI_0522-1_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42653\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41623/2276342-1-eng-XX/Voluntary_2023_07_September_2023_00085_FlorianMori__DSC5340-1_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42656\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eDe 20 a 21 de junho de 2023: Voluntários da Interhome Group ajudam no Parc Natural dels Aiguamolls de l'Empordà em Espanha\u003c/h3\u003e\u003cp\u003eA Interhome Group organizou recentemente uma iniciativa de voluntariado onde os nossos dedicados colaboradores passaram dois dias no Parc Natural dels Aiguamolls de l'Empordà em Espanha. Este parque excecional tem a distinção de ser a segunda maior zona húmida da Catalunha e é considerado uma das principais reservas naturais da região do Mediterrâneo, com uma flora e fauna notáveis.\u003c/p\u003e\u003cp\u003eO Parc Natural dels Aiguamolls de l'Empordà é conhecido pelos seus pântanos, onde vivem lontras, cegonhas brancas e cavalos de Camargue. Além disso, atrai aves migratórias, tornando-se um paraíso para os observadores de aves. O parque oferece trilhos para caminhadas e passeios de bicicleta, bem como postos de observação de aves para observar a diversidade da avifauna.\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41404/2254409-1-eng-XX/Sustainability_Content_picture_550x410_Team.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42415\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eDurante as nossas atividades de voluntariado, realizámos projetos significativos para apoiar as instalações do parque. Construímos um abrigo com mesas e bancos, pensado para acomodar os programas infantis, e também pintámos as mesas para garantir a sua durabilidade no ambiente do parque. Além disso, dedicámo-nos à limpeza de um trilho pedestre e ciclável de 2 quilómetros, removendo ervas daninhas, plantas não nativas e ramos espinhosos que obstruíam o caminho. Estas tarefas permitiram-nos contribuir ativamente para a manutenção e conservação do parque. Paralelamente ao nosso trabalho voluntário, tivemos a oportunidade de participar numa visita informativa pelo parque, que aprofundou a nossa compreensão sobre a sua importância ecológica.\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"voluntary-work\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41403/2254404-1-eng-XX/Sustainability_Content_picture_550x410_Putting-up-tent.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42414\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41402/2254399-1-eng-XX/Sustainability_Content_picture_550x410_Pruning.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42413\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41401/2254394-1-eng-XX/Sustainability_Content_picture_550x410_Foreign-species.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42412\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003eOs nossos sinceros agradecimentos à equipa qualificada do parque, nomeadamente, a Glòria, a Sònia e o Aleix, cujo apoio e colaboração inestimável tiveram um papel fundamental no nosso esforço de voluntariado. O nosso compromisso com a conservação e proteção ambiental continua inabalável, e esperamos ansiosamente voltar ao Parc Natural dels Aiguamolls de l'Empordà no futuro, bem como explorar outros parques excecionais.\u003c/p\u003e\u003cp\u003eDada a proximidade do parque com os nossos \u003ca href=\"/servico-personalizado/\"\u003eescritórios de serviço local\u003c/a\u003e em \u003ca href=\"/spain/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e e \u003ca href=\"/spain/costa-brava/roses/\"\u003eRoses\u003c/a\u003e, temos o prazer de informar os nossos clientes sobre a extraordinária oportunidade de mergulhar no esplendor da natureza deste local excecional. Na Interhome Group, acreditamos na promoção de experiências sustentáveis ​​e estamos empenhados em partilhar esta excecional joia natural com os nossos clientes.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/sobre-a-interhome/sustentabilidade/\"\u003e\u0026gt;\u0026gt; Saiba mais sobre outros projetos de sustentabilidade apoiados pela Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Segurança no seu alojamento de férias!",
+                    "link": {
+                        "href": "/sobre-a-interhome/seguranca-no-seu-alojamento-de-ferias/",
+                        "label": "Mais informações"
+                    },
+                    "car": "Chegadas individuais",
+                    "cleaning": "Limpeza de qualidade controlada",
+                    "independence": "Liberdade e independência",
+                    "key": "Entrega segura das chaves no local",
+                    "privacy": "Privacidade no seu alojamento de férias",
+                    "support": "Assistência pessoal no local"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Apenas alojamento selecionado e testado",
+                            "subtitle": "A qualidade é a nossa principal prioridade ",
+                            "caption": "Todas as propriedades são verificadas antes da sua chegada, de forma a garantir a melhor estadia possível."
+                        },
+                        {
+                            "title": "Disponibilidade garantida e serviço no local",
+                            "subtitle": "Aproveite ao máximo a nossa experiência",
+                            "caption": "A entrega das chaves é organizada pela nossa atenta equipa. Disponível 24 horas por dia, 7 dias por semana, e nos nossos serviços locais, para ajudar a solucionar todas as suas questões, como por exemplo: conselhos e informações sobre o seu destino de férias e sobre o alojamento reservado."
+                        },
+                        {
+                            "title": "Uma experiência de férias inesquecível",
+                            "subtitle": "Privacidade e liberdade no seu próprio alojamento de férias",
+                            "caption": "Seja o seu próprio chefe, sem horários para comer e com as suas próprias regras, aproveite ao máximo o espaço com todos os seus amigos e familiares."
+                        }
+                    ]
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por quê a Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca foi tão fácil organizar as suas férias perfeitas. Quer explorar novos destinos? Não há melhor maneira de fazê-lo do que numa casa de férias: aproveite a \"dolce vita\" em \u003ca href=\"/italy/\"\u003eItália\u003c/a\u003e, sinta o charme da vida na \u003ca href=\"/france/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e ou o \u003ca href=\"/spain/\"\u003eestilo de vida espanhol\u003c/a\u003e. Inspire-se nas nossas \u003ca href=\"\"\u003eideias de viagens\u003c/a\u003e e faça a sua reserva on-line - de forma rápida, fácil e segura com a Interhome. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberdade, privacidade e espaço na sua casa de férias",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA sua estadia numa moradia ou num apartamento de férias está repleta de vantagens: use o seu tempo exatamente como quiser. Sem perturbações de outros hóspedes ou de colaboradores do hotel, apenas aproveite as suas férias de acordo com as suas próprias regras. Tanto se procura uma \u003ca href=\"/\"\u003eviagem à cidade\u003c/a\u003e, como umas \u003ca href=\"/\"\u003eférias relaxantes com a família\u003c/a\u003e ou amigos. Aproveite o espaço, flexibilidade e liberdade na sua casa de férias. \u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

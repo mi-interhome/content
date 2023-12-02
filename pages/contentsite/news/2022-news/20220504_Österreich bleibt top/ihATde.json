@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2022/",
+                            "label": "Medienmitteilungen 2022"
+                        },
+                        {
+                            "href": "/news/2022/20220504-oesterreich-bleibt-top/",
+                            "label": "Österreich bleibt top"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Österreich bleibt top",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eInnsbruck, 4. Mai 2022│ \u003cstrong\u003eDer Trend nach Urlaub in Österreich hat sich auch während der vergangenen Wintermonate bestätigt. Dies zeigt der aktuelle Ferienhausreport von Interhome. Während den kommenden Sommermonaten bevorzugen Österreicherinnen und Österreicher jedoch Urlaub in Kroatien oder Italien.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDer Schweizer Ferienhausspezialist Interhome blickt auf eine erfolgreiche Wintersaison (1. November 2021 bis 30. April 2022) am österreichischen Markt zurück. Nachdem Winterurlaub in Österreich im Winter 2020/21 aufgrund verschiedener pandemiebedingter Beschränkungen weniger nachgefragt war, verbrachten im vergangenen Winter wieder mehr Österreicherinnen und Österreicher ihren Urlaub in der Heimat. \"Insbesondere der schöne Winter in Österreich hat dazu geführt, dass die Buchungen in diesem Winter wieder zulegen konnten\", erklärt Erich Mayregger, Country Manager Interhome Österreich. Wie dem neuesten Ferienhausreport von Interhome zu entnehmen ist, waren zudem Aufenthalte zwischen 5-7 Nächte in den Bergen während der letzten Jahre am beliebtesten. Ein Ausblick auf den kommenden Sommer 2022 zeigt, dass Urlaub in der eigene Heimat für österreichische Gäste nach wie vor beliebt sein wird, aber dass es Herrn und Frau Österreicher auch wieder vermehrt ins Ausland ziehen wird.\u003c/p\u003e\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eRückblick Winter Österreich (2017 bis 2022)\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eHeimat äußerst beliebt – vor, während und nach der Corona-Pandemie\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDer Rückblick auf die letzten fünf Wintersaisonen (jeweils 1. November bis 30. April) zeigt, dass Österreich als Winterurlaubs-Destination bei den Österreicherinnen und Österreichern immer äußerst beliebt war. Während der Corona-Pandemie war der Anteil an Österreich-Buchungen zwar immer noch der größte, hat jedoch das Niveau von 2019 (77,5%) nicht mehr erreicht. Im Winter 2021/22 verbrachten aber wieder knapp 59% der Österreicherinnen und Österreicher Urlaub im eigenen Land. Bemerkenswert ist, dass die Steiermark und Kärnten als beliebteste Destinationen stark zulegen konnten. Die beliebtesten Regionen im Westen waren jedoch das Pinzgau und das Zillertal.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWochenaufenthalte bleiben beliebt\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDie Auswertung der letzten Jahre zeigt, dass die Beliebtheit von Aufenthalten zwischen 5 -7 Nächten bei Österreicherinnen und Österreichern nahezu gleich geblieben ist. Kurztrips (1-4 Nächte) waren vor allem im pandemiegeprägten Winter 2020/21 äußerst beliebt (46%), sanken im letzten Winter jedoch wieder auf das Vor-Corona-Niveau (35%). Am beliebtesten waren in diesem Winter wieder Aufenthalte zwischen 5-7 Nächte (53%). «Dies zeigt, dass Erholung groß geschrieben wird», so Erich Mayregger.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSchweiz wird während der Pandemie zur internationalen Top-Destination\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWährend sich vor der Pandemie Österreich und die Schweiz jeweils ein Kopf-an-Kopf-Rennen um die beliebteste Winter-Destination im Interhome-Portfolio lieferten, änderte sich dies in den letzten zwei Jahren deutlich. Im Winter 2020/21 war die Schweiz mit 68,1% aller Interhome-Gäste deutlich die populärste Destination. Dies ist aufgrund der offenen Skigebiete in der Schweiz keine Überraschung, während in den umliegenden Ländern – auch in Österreich – das Skifahren für ausländische Touristen kaum möglich war. Auch im vergangenen Winter konnte sich die Schweiz als Top-Destination halten. 30% aller Gäste verbrachten ihren Winterurlaub in der Schweiz, gefolgt von Frankreich (20,4%) und wieder Österreich (15,3%).\u003c/p\u003e\u003ca name=\"eztoc_2_1\" id=\"eztoc_2_1\"\u003e\u003c/a\u003e\u003ch2\u003eAusblick Österreich – Sommer 2022\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eMittelmeer bei Österreichern im Sommer nach wie vor am Beliebtesten\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWie bereits in den letzten Jahren wird Urlaub am Mittelmeer bei Österreicherinnen und Österreichern auch in den kommenden Sommermonaten (1. Mai 2022 bis 31. Oktober 2022) äußerst beliebt sein. Erste Tendenzen zeigen, dass rund 68% ihren Urlaub in Kroatien (38,3%) oder Italien (29,3%) verbringen möchten. Istrien ist dabei die beliebteste Region, gefolgt von der Kvarner Bucht. Während des Urlaubs in Österreich bleiben möchten diesen Sommer 17,9%, hier ist Kärnten die beliebteste Destination.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAufenthaltsdauer wie im Winter\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAuch im Sommer sind Aufenthalte zwischen 5-7 Nächte am gefragtesten. So machen diese Aufenthalte laut ersten Tendenzen 57 % aus, gefolgt von längeren Aufenthalten von 8 -14 Nächten (24%). 16% aller österreichischen Interhome-Gäste planen außerdem im Sommer einen Kurztrip bis 4 Nächte.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWeltweite Top-Destinationen: Italien und Frankreich\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIm kommenden Sommer sind Italien und Frankreich mit je rund 22% aller Interhome-Buchungen die beiden beliebtesten Destinationen, gefolgt von Spanien, Kroatien und Deutschland. Verglichen zum Sommer 2019 reisen Interhome-Gäste vermehrt an die Côte d'Azur sowie nach Istrien und an die spanischen Küsten Costa Blanca und Costa Brava. Ebenfalls beliebt bleibt Urlaub an der Nordsee.\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; Hier die \u003ca href=\"https://images.interhome.group/ezcms/original/2120810-ger-AT/2022-05-03_%C3%96sterreich%20bleibt%20top.pdf\" target=\"_blank\"\u003eMedienmitteilung \u003c/a\u003eherunterladen.\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; Hier den kompletten \u003ca href=\"https://images.interhome.group/ezcms/original/2120815-ger-AT/Holiday-home-report_2022_winter_at.pdf\" target=\"_blank\"\u003eFerienhausreport 2022\u003c/a\u003e herunterladen.\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/asiakaspalvelu/",
+                            "label": "Asiakaspalvelu"
+                        },
+                        {
+                            "href": "/asiakaspalvelu/vakuutusturva-matkallesi/",
+                            "label": "Vakuutusturva matkallesi"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Vakuutusturva matkallesi",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eHaluamme, että lomastasi jää sinulle aina hyviä muistoja. Siksi olemme sisällyttäneet ERV-peruutusturvavakuutuksen loma-asuntosi vuokraan. Voit myös halutessasi valita lisämaksusta ERV-matkavakuutuksen.\u003c/p\u003e\u003ch3\u003eTurvasi ennen matkaa: ERV-peruutusturvavakuutus\u003c/h3\u003e\u003cp\u003ePeruutusturvavakuutus \u003cstrong\u003esisältyy vuokrahintaan:\u003c/strong\u003e Vakuutuskorvauksen omavastuu kaikissa tapauksissa on 20 %:a. Vakuutuksen tarjoaa AGA International S.A., Paris. Vakuutus kattaa ehtojensa mukaisesti peruutuksen ennen vuokrauksen alkua, vuokraajan, tämän matkaseuran tai lähiomaisen äkillisen sairauden, onnettomuuden tai kuolemantapauksen sattuessa, ja peruutuksen tietyissä muissa ennalta arvaamattomissa tapauksissa. Korvauksen saaminen edellyttää vuokralaiselta sen hakemista itse vakuutuksen tarjoajalta englannin-, saksan- tai ranskankielisillä lomakkeilla. Katso tarkemmat englanninkieliset ehdot: \u003ca href=\"https://images.interhome.group/ezcms/original/1021185-fin-FI/ERV_AVB_peruutusturvavakuutuksen_FN.pdf\" target=\"_blank\"\u003eterms and conditions of ERV cancellation insurance\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTurvasi matkan aikana: ERV-matkavakuutus (valinnainen)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHanki vakuutusturva matkallesi (lisämaksu):\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/content/interhome-travel-insurance/730770-1-eng-XX/interhome-travel-insurance.jpg\" width=\"295\" height=\"212\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"10229\" data-type=\"image\" data-content=\"\"\u003e\u003cul\u003e\n\u003cli\u003eKäyttämättömien matkapalveluiden ja paluumatkakustannusten korvaaminen peruutettaessa\u003c/li\u003e\n\u003cli\u003eLääkärikulujen korvaaminen maailmanlaajuisesti\u003c/li\u003e\n\u003cli\u003eEtsintä-, pelastus- ja palautuskustannusten korvaaminen\u003c/li\u003e\n\u003cli\u003eAmbulanssi- ja matkatavarakuljetuksen järjestäminen ja korvaaminen\u003c/li\u003e\n\u003cli\u003eMatkatavaravakuutus\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eHinta per varaus: \u003c/strong\u003e\u003cstrong\u003eEUR 35,-\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eOttamalla ERV-matkavakuutuksen hyödyt näistä lisäturvista ja –palveluista. Katso tarkemmat englanninkieliset ehdot \u003ca href=\"https://images.interhome.group/ezcms/original/1021230-fin-FI/ERV_AVB_matkaturva_FN.pdf\" target=\"_blank\"\u003eterms and conditions of ERV travel insurance\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVaraus\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eERV-peruutusturvavakuutus sisältyy jo vuokrahintaan. ERV-matkavakuutuksen voit lisätä varaukseesi varausvaiheessa. Mikäli sinulla on jo olemassa oleva varaus, \u003cstrong\u003evoit ottaa ERV-matkavakuutuksen lähtöpäivään mennessä soittamalla toimistoaikana (klo 9-16) puhelinpalveluumme +358 9 819 40 50.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVahinkoilmoitus \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eHakiessasi korvausta vahinkotapauksissa täytä tarvittavat lomakkeet englannin kielellä: \u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699560-fin-FI/Claim%20Reports%20medical%20and%20hospital%20costs%20ILLNESS.pdf\" target=\"_blank\"\u003eMedical and hospital costs ILLNESS\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699525-fin-FI/Claim%20Reports%20medical%20and%20hospital%20costs%20ACCIDENT.pdf\" target=\"_blank\"\u003eMedical and hospital costs ACCIDENT\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699602-fin-FI/Claim%20Reports%20luggage%20%E2%80%93%20theft%20-%20robbery%20-%20miscarriage.pdf\" target=\"_blank\"\u003eLuggage – theft / robbery / miscarriage\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699685-fin-FI/Claim%20Reports%20SOS%20protection%20for%20travel%20incidents.pdf\" target=\"_blank\"\u003eSOS protection for travel incidents\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699757-fin-FI/ERV_Claim-reports_Cancellation-costs_EN.pdf\" target=\"_blank\"\u003eCancellation costs\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e  \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e   \u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkeintä",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen - vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

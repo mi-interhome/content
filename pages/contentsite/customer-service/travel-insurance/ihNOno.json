@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/kundeservice/",
+                            "label": "Kundeservice"
+                        },
+                        {
+                            "href": "/kundeservice/travel-insurance/",
+                            "label": "Travel insurance"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Travel insurance",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eWe believe that you should always have fond memories of your holidays. That’s why we offer you ERV cancellation insurance. You may also choose an optional upgrade of your insurance cover with ERV travel cover.\u003c/p\u003e\u003ch3\u003eYour cover before travelling: ERV cancellation insurance\u003c/h3\u003e\u003cp\u003eCancellation insurance is already \u003cstrong\u003eincluded in your booking price.\u003c/strong\u003e The deductible for each claim amounts to 20% of the reimbursable loss. You can find further details in the \u003ca href=\"https://images.interhome.group/ezcms/original/1021000-nor-NO/ERV_AVB_avbestillingsforsikring_NO.pdf\" target=\"_blank\"\u003eterms and conditions of ERV cancellation insurance\u003c/a\u003e.\u003c/p\u003e\u003ch3\u003eYour cover when travelling: ERV travel insurance\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eGet the most out of your insurance cover:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\n\u003cimg src=\"https://images.interhome.group/ezcms/media/images/content/interhome-travel-insurance/730770-1-eng-XX/interhome-travel-insurance.jpg\" width=\"295\" height=\"212\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"10229\" data-type=\"image\" data-content=\"\"\u003eReimbursement of unused travel services and additional return travel costs if cancelled\u003c/li\u003e\n\u003cli\u003eReimbursement for medical treatment worldwide\u003c/li\u003e\n\u003cli\u003eReimbursement of search, rescue and recovery costs\u003c/li\u003e\n\u003cli\u003eOrganization and reimbursement of ambulance and luggage transport\u003c/li\u003e\n\u003cli\u003eLuggage insurance\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e    \u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePremium per reservation: EUR 35,-\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWe recommend that you also consider the ERV travel insurance, in order to benefit from additional cover and services. You can find further details in the \u003ca href=\"https://images.interhome.group/ezcms/original/1020985-nor-NO/ERV_AVB_reisebeskyttelse_NO.pdf\" target=\"_blank\"\u003eterms and conditions of ERV travel insurance\u003c/a\u003e.\u003c/p\u003e\u003ch4\u003eBooking\u003c/h4\u003e\u003cp\u003eERV cancellation insurance is already included in your booking price. ERV travel insurance can be added to your accommodation booking directly during the booking process. If you have already booked your holiday you can book ERV travel insurance subsequently up until your day of arrival by calling our hotline on 0840 84 88 88. \u003c/p\u003e\u003ch4\u003eClaim documents \u003c/h4\u003e\u003cp\u003eIn the case of loss a claim can be made by filling out the corresponding form:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699560-nor-NO/Claim%20Reports%20medical%20and%20hospital%20costs%20ILLNESS.pdf\" target=\"_blank\"\u003eMedical and hospital costs ILLNESS\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699525-nor-NO/Claim%20Reports%20medical%20and%20hospital%20costs%20ACCIDENT.pdf\" target=\"_blank\"\u003eMedical and hospital costs ACCIDENT\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699602-nor-NO/Claim%20Reports%20luggage%20%E2%80%93%20theft%20-%20robbery%20-%20miscarriage.pdf\" target=\"_blank\"\u003eLuggage – theft / robbery / miscarriage\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699685-nor-NO/Claim%20Reports%20SOS%20protection%20for%20travel%20incidents.pdf\" target=\"_blank\"\u003eSOS protection for travel incidents\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699757-nor-NO/ERV_Claim-reports_Cancellation-costs_EN.pdf\" target=\"_blank\"\u003eCancellation costs\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e  \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e   \u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

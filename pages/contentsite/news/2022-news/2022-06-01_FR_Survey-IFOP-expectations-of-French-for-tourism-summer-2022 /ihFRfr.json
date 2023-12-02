@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2022/",
+                            "label": "Presse 2022"
+                        },
+                        {
+                            "href": "/presse/2022/20220601-IFOP-attentes-français-tourisme-été-2022/",
+                            "label": "Etude IFOP pour Interhome France : les usages et attentes des Français en matière de tourisme pour cet été"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Etude IFOP pour Interhome France : les usages et attentes des Français en matière de tourisme pour cet été",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eL’IFOP a réalisé une étude pour le leader européen de la location de vacances qui confirme la recrudescence des intentions de départ en vacances à l’été 2022, mais qui révèle par ailleurs l’impact persistant de la crise du Coronavirus sur les préparatifs. Parallèlement, la crise a permis l’émergence d’une plus forte préoccupation en matière d’environnement chez les voyageurs, qui devrait faire prendre de l’ampleur à l’écotourisme.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUn retour à la normale : plus d’un Français sur deux prévoit de partir en vacances cet été, avec un budget identique à l’année dernière.\u003c/strong\u003e\u003cbr\u003e55% des Français ont l’intention de partir en vacances cet été. Parmi eux, 44% envisagent de séjourner en France et 11% souhaitent partir à l’étranger.\u003cbr\u003eCes chiffres sont significativement plus élevés que ceux enregistrés pour l’été 2020, au coeur de la crise sanitaire, qui s’élevaient à 47%.\u003c/p\u003e\u003cp\u003eNous retrouvons cet engouement pour la France dans le rapport d’Interhome présentant les perspectives pour la saison été 2022, publié début mai, qui indiquait un taux de réservations prévues pour notre pays de 67,1%.\u003c/p\u003e\u003cp\u003eParmi les 21% de Français qui n’ont pas l’intention de partir en vacances cet été, les publics les plus précaires, les ruraux et les familles nombreuses sont ceux les plus représentés.\u003c/p\u003e\u003cp\u003eSigne d’un retour à la normale, seulement un quart des futurs vacanciers prévoient un budget plus bas que celui de l’été dernier. Ils étaient 39% dans cette situation juste avant l’été 2020, tandis que 56% prévoient un budget identique à celui de l’été dernier et 18% un budget supérieur.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCette tendance optimiste doit toutefois être nuancée par l’incidence persistante de la crise du Coronavirus sur les choix de la destination, de l’hébergement et de la durée du séjour.\u003c/strong\u003e\u003cbr\u003eUn Français sur deux qui souhaite partir en vacances indique que la crise du Coronavirus continue d’avoir une incidence sur le choix de la destination (46%).\u003c/p\u003e\u003cp\u003eElle influence également encore cette année le choix de l’hébergement pour 31% des personnes qui partiront en vacances (contre 42% en 2020) et la durée des congés pour 23% d’entre eux (contre 33% en 2020).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCette évolution en matière de destination se fait notamment au détriment des séjours internationaux : désormais seulement 17% des Français indiquent changer de pays régulièrement, contre 28% avant la crise. 29% des répondants affirment avoir tendance à aller toujours au même endroit (contre 22% en 2020) et 54% changent de région en France.\u003c/strong\u003e\u003cbr\u003eDéconnexion du quotidien, prix abordables, environnement sain : la crise n’a pas pour autant révolutionné les pratiques et attentes des Français en matière de choix d’hébergements de vacances.\u003cbr\u003eLes attentes en matière de lieu de vacances demeurent inchangées par rapport à la période pré-\u003cbr\u003eCovid : les Français souhaitent avant tout déconnecter du quotidien, à petit prix.\u003c/p\u003e\u003cp\u003ePar ordre de préférence, ils souhaitent :\u003cbr\u003e• Partir loin de chez eux pour déconnecter du quotidien (57% versus 58% en 2019).\u003cbr\u003e• Partir dans un endroit pas cher (49% versus 47% en 2019).\u003cbr\u003e• Partir dans un endroit sain d’un point de vue environnemental, loin de la pollution (35% versus 36% en 2019).\u003cbr\u003e• Le confort total (36% versus 34% en 2019).\u003cbr\u003e• Trouver un endroit qui leur permet d’être hébergé chez leur famille ou chez des amis (20% versus 21% en 2019).\u003cbr\u003e• Partir dans un endroit où ils peuvent échanger leur propre logement avec une autre famille (4% versus 5% en 2019).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa pratique du télétravail depuis un lieu de vacances demeure minoritaire, même si elle séduit certains publics tels que les cadres.\u003c/strong\u003e\u003cbr\u003e13% des répondants, dont 43% de cadres, ont déjà envisagé de télétravailler depuis un lieu généralement réservé aux vacances ou aux week-ends. Toutefois, seuls 6% sont passés à l’acte.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa location de vacances reste le mode d’hébergement privilégié par les Français.\u003c/strong\u003e\u003cbr\u003ePour 36% des personnes interrogées, la location d’un appartement ou d’une maison est le type d’hébergement privilégié pour les vacances estivales, en hausse par rapport à 2020 où elle représentait 30%.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLes sites d’annonces et les agences de voyages demeurent les principaux modes de recherche pour les locations de vacances.\u003c/strong\u003e\u003cbr\u003e44% des répondants privilégient les sites d’annonces pour rechercher leur location de vacances. A noter l’importance des agences de voyages et de leurs sites internet, qui arrivent en deuxième position, avec 23% des personnes sondées. Suivent le bouche-à-oreille (15%), les offices du tourisme (11%), les réseaux sociaux (6%) et les agences immobilières (1%).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLe prix, la localisation et le type d’hébergement sont les critères les plus largement jugés déterminants dans le choix d’une location de vacances.\u003c/strong\u003e\u003cbr\u003eEn cette période où le pouvoir d’achat est au coeur des préoccupations, \u003cstrong\u003ele prix de la location\u003c/strong\u003e constitue le premier critère (73%) pour le choix d’un hébergement pour les vacances d’été 2022.\u003cbr\u003eSont cités ensuite \u003cstrong\u003ela localisation\u003c/strong\u003e \u003cstrong\u003edu logement\u003c/strong\u003e (55%), tandis que moins d’un répondant sur deux (49%) indique le type de logement. \u003cstrong\u003eLes équipements\u003c/strong\u003e à disposition sont déterminants pour 40% des répondants.\u003c/p\u003e\u003cp\u003eL\u003cstrong\u003ea flexibilité de la réservation, la taille et l’esthétique du logement, l’offre innovante de services\u003c/strong\u003e, ou encore l\u003cstrong\u003ea possibilité d’y amener des animaux\u003c/strong\u003e restent secondaires. L’étude révèle aussi que, si seulement 10% des répondants considèrent qu’un \u003cstrong\u003ehébergement construit dans une démarche écoresponsable\u003c/strong\u003e constitue un critère déterminant, ils sont néanmoins 39% à le considérer comme important.\u003cbr\u003eLa crise a permis l’émergence de plus fortes préoccupations en matière d’environnement chez les voyageurs, qui pourraient faire prendre de l’ampleur à l’écotourisme.\u003cbr\u003ePour une majorité de Français, la crise a contribué à renforcer les préoccupations environnementales en matière de tourisme. Toujours dans le cadre d’un prochain voyage, la préservation de la nature et de l’environnement constitue une préoccupation plus forte qu’avant le début de la crise sanitaire pour 58% des répondants.\u003c/p\u003e\u003cp\u003e44% des personnes interrogées seraient \u003cstrong\u003eprêtes à payer plus cher\u003c/strong\u003e pour un séjour écoresponsable. Pour deux tiers d’entre elles, ce montant \u003cstrong\u003ene devrait pas dépasser 10% du prix d’un séjour traditionnel\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003eIl est intéressant de noter que les Français sont surtout prêts à payer plus cher les produits locaux (63% en 2022 versus 61% en 2021).\u003cbr\u003eDans le cadre d’un prochain voyage, 47% des Français sont prêts à dépenser plus pour leur séjour dans sa globalité (contre 44% en 2021), 43% sont prêts à payer plus cher leur hébergement (contre 40% en 2021) et 40% pour leur moyen de transport (identique à 2021).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa poubelle de tri et les fenêtres double vitrage sont les principaux équipements jugés prioritaires pour un séjour respectueux de l’environnement dans une location de vacances.\u003c/strong\u003e\u003cbr\u003eL’étude révèle que les poubelles de tri (60%) et fenêtres double-vitrage (55%) sont les critères les plus importants pour plus de la moitié des répondants. La présence d’un équipement favorisant l’économie d’eau arrive en troisième position (38%), suivie de loin par celle de filtres pour purifier l’eau (16%), d’un bac à compost (12%), d’un garage à vélo (12%) et d’une borne de recharge pour voiture électrique (7%).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLe ménage de fin de séjour et la location de draps : les services souhaités par la majorité des vacanciers dans une location de vacances.\u003c/strong\u003e\u003cbr\u003eParmi les services attendus dans une location de vacances, les Français mettent le ménage de fin de séjour (67%) et la location des draps (47%) en priorité, ce qui rejoint les prestations proposées par Interhome, notamment par le biais de ses 41 agences dans les plus belles destinations françaises. Viennent ensuite la location du linge de toilette (18%), la location d’équipement pour bébé/enfant (10%) et enfin la location du linge de table (6%).\u003cbr\u003e* Echantillon : l’enquête a été menée auprès d’un échantillon de 1 004 personnes, représentatif de la population française âgée de 18 ans et plus.\u003cbr\u003eMéthodologie : la représentativité de l’échantillon a été assurée par la méthode des quotas (sexe, âge, profession de la personne interrogée) après stratification par région et catégorie d'agglomération.\u003cbr\u003eMode de recueil : les interviews ont été réalisées par questionnaire auto-administré en ligne du 11 au 15 avril 2022.\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/2140892-fre-FR/2022-06-01_FR_IFOP-attentes-fran%C3%A7ais-tourisme-%C3%A9t%C3%A9-022.pdf\"\u003eTélécharger le communiqué de presse au format PDF\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre location de vacances !",
+                    "link": {
+                        "href": "/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre location vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome ?",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVoulez-vous découvrir de nouvelles destinations ? La meilleure solution est d’opter pour la location vacances. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des \u003ca href=\"https://fr.trustpilot.com/review/www.interhome.fr\"\u003eavis clients positifs\u003c/a\u003e. Faites-nous confiance et optez pour la location saisonnière en toute sécurité.\u003cbr\u003e\u003ca href=\"/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/cavalaire/\"\u003eCavalaire\u003c/a\u003e | \u003ca href=\"/france/charente-maritime/\"\u003eCharente Maritime\u003c/a\u003e | \u003ca href=\"/france/corse/\"\u003eCorse\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/france/normandie/deauville-trouville/\"\u003eDeauville-Trouville\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e | \u003ca href=\"/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/france/finistere/\"\u003eFinistère\u003c/a\u003e | \u003ca href=\"/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/france/les-landes/\"\u003eLes Landes\u003c/a\u003e | \u003ca href=\"/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/france/morbihan/\"\u003eMorbihan\u003c/a\u003e | \u003ca href=\"/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/france/pays-basque/\"\u003ePays Basque\u003c/a\u003e | \u003ca href=\"/france/morbihan/quiberon/\"\u003eQuiberon\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/sainte-maxime/\"\u003eSainte-Maxime\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/\"\u003eSavoie - Haute Savoie\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Réservez dès maintenant votre location vacances.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

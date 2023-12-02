@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/news/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/fr/news/2018/",
+                            "label": "Presse 2018"
+                        },
+                        {
+                            "href": "/fr/news/2018/Ferienhausreport-Sommer-2018/",
+                            "label": "18.9.2018: Un été record depuis 2011 pour les réservations en Suisse"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "18.9.2018: Un été record depuis 2011 pour les réservations en Suisse",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp align=\"justify\"\u003eGlattbrugg, le 18 septembre 2018\u003cstrong\u003e│\u003cstrong\u003ePour Interhome, l’été 2018 est le meilleur depuis celui de 2011. L’automne s’annonce tout aussi prometteur cette année. Cela s’explique notamment par la présence d’Interhome sur les plateformes de réservation les plus diverses, comme le montre le rapport actuel sur les locations de vacances.\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eLes quatre derniers mois ont été un véritable succès pour Interhome, le spécialiste suisse des locations de vacances. Les appartements et maisons de vacances suisses ont eu plus la cote cet été (du 1er mai au 31 août 2018) qu’au cours des sept dernières années. «Par rapport à l’an dernier, nous avons enregistré une hausse de 12% des réservations cet été en Suisse, notamment avec les hôtes suisses qui ont fortement influencé l’activité», déclare Roger Müller, Country Manager Interhome Suisse. En plus des hôtes autochtones, ce sont surtout les Allemands qui ont effectué un séjour dans les appartements de vacances suisses. «Nous avions déjà remarqué l’hiver dernier que nos voisins du nord avaient repris l’habitude de passer des vacances dans notre pays. Mais que cette tendance se soit également confirmée pour l’été, c’est encore plus réjouissant», ajoute-t-il .\u003c/p\u003e\u003cp align=\"justify\"\u003eLes réservations du loueur suisse de maisons de vacances pour cet automne s’annoncent également très positives. On observe une tendance à la hausse. «Pour le moment, on enregistre une hausse des réservations de l’ordre de 6% par rapport à l’an dernier. Plus l’automne sera long, plus la saison sera importante pour nous», confie Roger Müller. Le fait que les appartements et maisons de vacances puissent être réservés aussi à court terme, de manière plus flexible (arrivée possible n’importe quel jour), et de plus en plus pour de courts séjours (à partir de 2 jours), joue aussi un rôle dans la croissance de ces dernières années.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eLes plateformes de réservation complètent la vente directe\u003c/strong\u003e\u003cbr\u003eDifférentes plateformes de réservation pour les logements de vacances, telles qu’Airbnb ou booking.com, ont gagné en popularité ces dernières années. Cela profite aussi à Interhome, comme le montre le rapport actuel sur les locations de vacances. Ainsi, pour l’exercice en cours, 30% des réservations Interhome pour des appartements et des maisons de vacances ont été effectuées sur ces plateformes de réservation externes. Il y a cinq ans, cela ne représentait que 17% des réservations. Un fait tout aussi frappant, c’est que la majorité des vacances plus longues sont réservées par le biais de la vente directe, et les courts séjours par la vente externe. «Pour nous, les plateformes de réservation externes constituent le partenaire idéal: nous nous complétons mutuellement et couvrons ainsi les différents comportements de réservation des clients», déclare Roger Müller.\u003c/p\u003e\u003ch3 align=\"justify\"\u003eRétrospective Suisse – Été 2018\u003c/h3\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eLe Tessin, région favorit\u003c/strong\u003e\u003cbr\u003e56% des hôtes suisses d'Interhome (l’an dernier: 54%) ont passé leurs vacances estivales dans un appartement de vacances de leur pays. Le Tessin, le Valais et les Grisons ont figuré au palmarès des régions de prédilection. La Suisse était suivie de la France et l’Italie comme destinations favorites pour les vacances d’été.  \u003cbr\u003e\u003cstrong\u003eUne durée de séjour plus longue\u003c/strong\u003e\u003cbr\u003eDurant les mois d’été, les hôtes suisses sont restés en moyenne entre 5 et 7 jours dans leur location de vacances. Les réservations de courts séjours ont cependant été moins nombreuses que l’année précédente. Ainsi, 21% des hôtes (l’an dernier: 34%) ont loué une maison ou un appartement de vacances pour un séjour entre 1 et 4 nuits.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDes normes de qualité supérieures\u003c/strong\u003e\u003cbr\u003eCet été encore, les appartements de vacances 4 étoiles ont connu un engouement croissant. 24% des hôtes suisses d’Interhome (l’an dernier: 22%) ont opté pour une location 4 étoiles.  \u003cbr\u003e\u003cstrong\u003eLes hôtes internationaux sont séduits par la Suisse\u003c/strong\u003e\u003cbr\u003eLa Suisse est aussi très appréciée des hôtes internationaux. Près de 13% des hôtes d’Interhome (l’an dernier: 14%) ont passé l’été dans un appartement ou une maison de vacances en Suisse. Comme l’an dernier, la destination favorite de l’été pour l’ensemble des hôtes d’Interhome a été la France, suivie de l’Espagne et de l’Italie. \u003c/p\u003e\u003ch3\u003ePerspective Suisse – Été 2018\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eLe Tessin, région favorite\u003c/strong\u003e\u003cbr\u003e47% (l’an dernier: 58%) des Suisses restent en Suisse pour leurs vacances d’automne cette année. Les régions favorites sont le Tessin (15%), le Valais (13%) et les Grisons (10%). Les hôtes suisses d’Interhome aiment aussi voyager en Italie, en France, en Espagne et en Autriche à l’automne.  \u003cbr\u003e\u003cstrong\u003eLa formule préférée: un séjour d’une semaine\u003c/strong\u003e\u003cbr\u003eLes Suisses optent généralement pour un séjour d’une semaine en automne. 53% (l’an dernier: 49%) louent un appartement de vacances entre 5 et 7 jours. Près d’un tiers des hôtes restent entre 8 et 14 jours dans leur logement de vacances. 15% (l’an dernier: 39%) prévoient un court séjour entre 1 et 4 nuits pour les vacances d’automne.   \u003cbr\u003e\u003cstrong\u003eDes normes de qualité supérieures\u003c/strong\u003e\u003cbr\u003eEn automne, les hôtes suisses préfèrent un appartement de vacances 3 étoiles. Au total, 55% (l’an dernier: 57%) passent leurs vacances dans un appartement de vacances de cette catégorie. À la deuxième place, 27% (l’an dernier: 24%) occupent des logements 4 étoiles.   \u003cbr\u003e\u003cstrong\u003eLes hôtes internationaux sont séduits par l’Italie\u003c/strong\u003e\u003cbr\u003eEn automne, les hôtes internationaux d’Interhome aiment en majorité passer des vacances en Italie, suivie de l’Espagne et de la France. Avec près de 13% (l’an dernier: 14%), la Suisse occupe encore la 4e place, comme l’an dernier, au palmarès de tous les hôtes d’Interhome. \u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1395372-fre-CH/20180918_Un-ete-record-depuis-2011-pour-les-reservations-en-Suisse.pdf\" target=\"_blank\"\u003eTélécharger le communiqué de presse complet au format PDF \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1395377-fre-CH/20180918_Interhome_Rapport-sur-les-locations-de-vacances_suisse.pdf\" target=\"_blank\"\u003eTélécharger le rapport sur les locations de vacances suisse \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"\"\u003eTélécharger le rapport sur les locations de vacances international (en anglais) \u0026gt;\u0026gt;. \u003c/a\u003e\u003cbr\u003e\u003ca href=\"\"\u003eTélécharger les photos au format ZIP \u0026gt;\u0026gt;. \u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

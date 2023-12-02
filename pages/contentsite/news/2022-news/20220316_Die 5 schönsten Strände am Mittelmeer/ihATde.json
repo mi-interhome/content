@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2022/",
+                            "label": "Medienmitteilungen 2022"
+                        },
+                        {
+                            "href": "/news/2022/20220316-die-fuenf-schoensten-straende-am-mittelmeer/",
+                            "label": "Urlaub in Sicht: Die 5 schönsten Strände am Mittelmeer"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Urlaub in Sicht: Die 5 schönsten Strände am Mittelmeer",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eInnsbruck, 16. März 2022 │\u003cstrong\u003eWer endlich wieder in der Sonne baden oder die Unterwasserwelt erkunden möchte, muss dafür nicht lange reisen, denn die Strände des Mittelmeers stehen der Karibik in Nichts nach. Türkisblaues Wasser, feinster Sand, milde Temperaturen und exotisches Flair: Interhome präsentiert die fünf schönsten Strände am Mittelmeer und gibt Inspiration für den lang ersehnten Strandurlaub im Ferienhaus.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1. Plage de Pampelonne, Côte d’Azur, Frankreich\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDie azurblaue Küste Frankreichs zieht Reisende seit jeher in ihren Bann. Kein Wunder, dass sich an der Französischen Riviera viele Ruhesuchende und Prominente niederlassen. Nahe Saint-Tropez wartet die Plage de Pampelonne auf sonnenhungrige Gäste. Mit 4,5 Kilometern Länge und seiner pittoresken Umgebung lädt der beliebte Strand zum Spazieren und Verweilen ein. Auch kulinarisch werden Urlauber hier verwöhnt. Exklusive Restaurants locken mit fang-frischem Fisch und köstlichem Wein. Wer sich schon früh morgens an einem der fünf Abschnitte des Pampelonne einen Platz sichert, hat den idyllischen Sandstrand fast für sich allein.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp\u003c/strong\u003e:\u003ca href=\"/frankreich/cote-d-azur/saint-tropez/ferienwohnung-la-tramontane-fr8450.180.3/\" target=\"_blank\"\u003e Ferienwohnung „La Tramontane“ \u003c/a\u003e*** für bis zu 4 Personen, Saint Tropez | Côte d’Azur | Frankreich, Objekt-Nr. FR8450.180.3; 21.-28.05.2022, EUR 870,-.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2. Playa es Trenc, Mallorca, Spanien\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEtwa 45 Autominuten von Palma de Mallorca entfernt liegt die Playa es Trenc, ein Strand wie aus dem Bilderbuch. Kristallklares Wasser, sanfte Wellen und weicher, glitzernder Sand machen ihn zu einem wahren Erlebnis für Bade- und Schnorchelfans. Besonders reizvoll ist die landschaftliche Lage innerhalb eines Naturschutzgebiets. Wanderlustige können den Sandweg kurz vor Colònia de Sant Jordi nehmen und entlang faszinierender Salzfelder und Buchten in Richtung Strand spazieren. Bei spanischem Wein und leckeren Tapas lässt sich der Tag entspannt in einem der umliegenden Restaurants ausklingen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp:\u003c/strong\u003e \u003ca href=\"/spanien/mallorca/sa-rapita/ferienhaus-es-trenc-beach-house-es8124.101.1/\" target=\"_blank\"\u003eFerienhaus „Es Trenc Beach House“ \u003c/a\u003e**** für bis zu 8 Personen, Sa Rápita | Mallorca | Spanien, Objekt-Nr. ES8124.101.1; 14.-21.05,2022, EUR 1.113,-.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e3. Cala Brandinchi, Sardinien, Italien\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWeiter geht es nach Sardinien, wo die Cala Brandinchi mit ihrem feinen, hellen Sand und dem grün-blauen Meer einen Hauch Exotik verspricht. Der flache Einstieg eignet sich ideal für Kinder, weshalb die 700 Meter lange Cala Brandinchi ein beliebter Badestrand für Familien ist. Neben zahlreichen Angeboten, wie einem Bootsverleih oder Beachvolleyball, finden sich in dem Naturschutzgebiet auch tierische Attraktionen. Mit etwas Glück lassen sich Flamingos, Reiher und der seltene Cavaliere d’Italia, ein dem Storch nicht ganz unähnlicher Stelzenläufer, beobachten. In weiter Ferne ragen die imposanten Berge Sardiniens gen Himmel. Einfach nur traumhaft!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp\u003c/strong\u003e: \u003ca href=\"/italien/sardinien/san-teodoro/ferienhaus-house-boat-teo097-it7230.733.3/\" target=\"_blank\"\u003eFerienhaus „House Boat“ \u003c/a\u003e**** für bis zu 8 Personen; San Teodoro | Sardinien | Italien, Objekt-Nr. IT7230.733.3; 17.-24.09.2022, EUR 2.146,-.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e4. Zlatni Rat, Dalmatien, Kroatien\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eZlatni Rat – auch „Goldenes Horn von Bol“ genannt - liegt auf der Insel Brač und ragt in der Form eines schmalen Dreiecks etwa 500 Meter ins Mittelmeer. Der malerische Kieselstrand bietet perfekten Badespaß für Groß und Klein: Das flache Wasser ist ideal für Kinder, die üppigen Bäume im Inneren spenden wohltuenden Schatten und mit zahlreichen Freizeitangeboten, wie Kitesurfen und Drachenfliegen, kommen auch Abenteuerlustige auf ihre Kosten. Wer die etwa 1.000 Meter lange Spitze zu Fuß abläuft, kann sich im Anschluss im westlichen Teil des Strands mit Leckereien stärken.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp:\u003c/strong\u003e \u003ca href=\"/kroatien/mitteldalmatien/brac-splitska/ferienhaus-lucije-brc630-hr5345.624.1/\" target=\"_blank\"\u003eFerienhaus „Lucije“ \u003c/a\u003e*** für bis zu 7 Personen; Brač | Mitteldalmatien | Kroatien, Objekt-Nr. HR5345.624.1; 12.-19.09. 2022, ab EUR 772,-.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e5. Plage de Santa Giulia, Korsika, Frankreich\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eKristallklares Wasser, weißer Sand, magische Felsen: Die Plage de Santa Giulia versprüht wahrhaftig karibisches Flair. Südlich von der Hafenstadt Porto Vecchio gelegen lässt sich der 2,3 Kilometer lange Traumstrand einfach erreichen. Das Meer ist an dieser Bucht Korsikas besonders ruhig, was die Plage de Santa Giulia zu einem perfekten Badeort für junge Familien macht. Wer sich ein Boot für den Tag mietet, kann ungestört baden und ein romantisches Picknick zu zweit genießen. Gourmets schlemmen derweil in den nahegelegenen Restaurants gegrillten Krebs und korsischen Käse mit Feigenmarmelade.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp:\u003c/strong\u003e \u003ca href=\"/frankreich/korsika/sainte-lucie-porto-vecchio/ferienwohnung-cote-plage-fr9214.300.1/\" target=\"_blank\"\u003eFerienwohnung „Côté Plage“ \u003c/a\u003e**** für bis zu 6 Personen; Sainte Lucie | Porto Vecchio | Korsika | Frankreich; Objekt-Nr. FR9214.300.1, 10.-17.09.2022, EUR 1.547,-.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2098875-ger-AT/2022-03-16_Die%20f%C3%BCnf%20sch%C3%B6nsten%20Str%C3%A4nde%20in%20Europa.pdf\" target=\"_blank\"\u003eDie vollständige Medienmitteilung herunterladen \u0026gt;\u0026gt;\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

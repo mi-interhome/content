@@ -26,58 +26,133 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_mountains_autumn_2020/1991724-1-eng-XX/Header_1200x410_IH_Mountains_Autumn_2020.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/",
+                            "label": "Veilige en fijne vakanties - ontdek onze vakantie ideeën"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/vakantiehuizen-bergen/",
+                            "label": "Actieve vakantie in de bergen"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Actieve vakantie in de bergen",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eSteile kliffen, rustige meren en idyllische dorpjes – de bergen zijn niet alleen een populaire winterbestemming. Het hele jaar kun je genieten van het prachtige panoramazicht in de bergen.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eKom tot rust in \u003ca href=\"/zwitserland/?ski=1000\u0026season=summer\"\u003eZwitserland\u003c/a\u003e, \u003ca href=\"/oostenrijk/?ski=1000\u0026season=summer\"\u003eOostenrijk\u003c/a\u003e, \u003ca href=\"/frankrijk/?ski=1000\u0026season=summer\"\u003eFrankrijk\u003c/a\u003e of \u003ca href=\"/duitsland/?ski=1000\u0026season=summer\"\u003eDuitsland\u003c/a\u003e: Na een lange wandeling door de bergen is er niets fijner dan te ontspannen in uw vakantiehuis of appartement. Ga lekker bij de openhaard zitten met een glas wijn en kijk uit naar uw volgende avontuur in de bergen. \u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eTijd doorbrengen in de bergen is altijd fijn. Kies de volgende opties voor uw volgende actieve vakantie:\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Heerlijke frisse lucht wanneer u de deur open doet – onze aanbevelingen:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eVoor welke bestemming in de bergen u ook kiest, u vindt het bij Interhome. Wij bieden de ruimste keuze aan exclusieve vakantiehuizen en appartementen in deze vier landen. De schoonheid van de bergen is overal hetzelfde. Er is één voordeel wat deze vier landen gemeen hebben: een korte reistijd en de mogelijkheid om één te worden met de natuur. Een vakantie in de bergen is meer dan alleen rust en ontspanning: het is wat iedere reiziger nodig heeft. \u003cbr\u003eOf u nu reist met het gezin of als koppel. Of u nu reist met 20 of 70 personen Of u uw hond meeneemt of niet: Een traditionele vakantie in de bergen is voor vele toeristen ieder jaar dé plek om tot rust te komen. Naast de mogelijkheid om één te worden met de natuur, kunt u uw vakantie in de bergen zo luxueus maken als u wilt! \u003c/p\u003e\u003cp\u003eWij heten u van harte welkom in de bergen.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

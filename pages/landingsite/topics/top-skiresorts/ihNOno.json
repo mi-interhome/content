@@ -26,58 +26,128 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_winter_1_top_ski_resorts_20202/1789557-1-eng-XX/Header_1200x410_Winter_1_Top_ski_resorts_2020.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspirasjonskilder/",
+                            "label": "Ferieideer"
+                        },
+                        {
+                            "href": "/inspirasjonskilder/top-skianlegg/",
+                            "label": "Ferier ved populære skiresorter"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Ferier ved populære skiresorter",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003eNyt Europas mest populær skiresorter og opplev en uforglemmelig skiferie med Interhome.\u003c/strong\u003e\u003cbr\u003eVåre koselige chalets, fantastiske feriehus, skihytter rett ved bakkene og unike ferieleiligheter sikrer oss av vi har noe for enhver smak, og ethvert budsjett. Uansett om du tilbringer ferien som et par, med en liten gruppe, med familien eller med hele vennegjengen så vil våre plasser i\u003ca href=\"/osterrike/tyrol/?sesaon=winter\"\u003eTyrol\u003c/a\u003e, \u003ca href=\"/osterrike/gasteinertal/\"\u003eGasteinertal\u003c/a\u003e \u003ca href=\"/frankrike/savoie-haute-savoie/chamonix/?season=winter\"\u003eChamonix\u003c/a\u003e, \u003ca href=\"/frankrike/savoie-haute-savoie/val-thorens/?season=winter\"\u003eVal Thorens\u003c/a\u003e, \u003ca href=\"/frankrike/savoie-haute-savoie/tignes/?season=winter\"\u003eTignes\u003c/a\u003e, \u003ca href=\"/sveits/bernese-oberland/grindelwald/?season=winter\"\u003eGrindelwald\u003c/a\u003e, \u003ca href=\"/sveits/valais/zermatt/?season=winter\"\u003eZermatt\u003c/a\u003e, \u003ca href=\"/sveits/engadin/sankt-moritz/?season=winter\"\u003eSt. Moritz\u003c/a\u003e, \u003ca href=\"/sveits/valais/saas-fee/?season=winter\"\u003eSaas Fee\u003c/a\u003e, \u003ca href=\"/sveits/praettigau-landwassertal/davos/?season=winter\"\u003eDavos\u003c/a\u003e, \u003ca href=\"/sveits/valais/nendaz/?season=winter\"\u003eNendaz\u003c/a\u003e eller \u003ca href=\"/sveits/valais/verbier/?season=winter\"\u003eVerbier\u003c/a\u003e kunne oppfylle dine ønsker. Det spiller ingen rolle om du er på jakt etter et sted å stå på ski, snowboard, langrennsløyper eller legge ut på turer, du vil få mer ut av ferien om du velger et skiresort med lange og brede bakker, fersk puddersnø og uendelige muligheter for variasjon. \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eI din feriebolig kan du tilbringe kveldene totalt avslappet i en privat koselig stue med en god sofa, og, avhengig av hvilken innkvartering du velger, kanskje venter det også en varm og beroligende åpen peis på deg. Det er også en mulighet å tilbringe kvelden på et av de mange after ski partyene.\u003c/p\u003e\u003cp\u003eSom vår gjest vil du har fordelen av \u003ca href=\"/personlig-service/\"\u003evåre lokale servicekontor\u003c/a\u003e på mange av våre destinasjoner. Våre lokale medarbeidere vil kunne hjelpe deg med eventuelle problemer som skulle oppstå, ta seg av dine bekymringer og gi deg massevis av tips for området. \u003cbr\u003eDu kan finne våre lokale servicekontor her:\u003cbr\u003e\u003ca href=\"/personlig-service/\"\u003ehttps://www.interhome.no/personlig-service/\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Det er her vi tilbyr vinterens moro:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 8,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Tilbyr vi andre fordeler til våre vintersportsgjester:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

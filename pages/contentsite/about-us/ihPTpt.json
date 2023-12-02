@@ -26,13 +26,26 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/",
+                            "label": "Sobre a Interhome"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +54,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Sobre a Interhome",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eEscolha entre aproximadamente 40.000 alojamentos de férias de qualidade para fazer a sua reserva on-line\u003c/h3\u003e\u003cp\u003eSeja qual for a sua preferência, com a Interhome encontrará o alojamento perfeito para si. Escolha entre aproximadamente 40.000 alojamentos localizados em mais de 28 países. Quer seja um chalé de montanha, uma vila com piscina, um apartamento na cidade, uma casa ou um castelo – de certeza que vai encontrar o imóvel certo para si! O serviço da Interhome inclui o tratamento completo do processo de reserva, a entrega das chaves e a limpeza final. Além disso, pode beneficiar dos padrões de qualidade da Interhome, com base na nossa classificação de estrelas padronizada e amplamente reconhecida.\u003cbr\u003e\u003ca href=\"\"\u003eEncontre o seu lugar perfeito\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eO nosso centro de apoio ao cliente está pronto para responder às suas perguntas no prazo de 24 horas \u003c/h3\u003e\u003cp\u003eA Interhome está disponível para dar resposta a todas as suas questões. O nosso centro de apoio ao cliente está à sua disposição, 24 horas por dia, 7 dias por semana e em vários idiomas. Entre em contacto a qualquer hora através do número +41 (0) 43 810 91 26 e teremos todo o prazer em ajudar e responder a todas as suas questões, ou dar conselhos sobre onde e quando reservar a sua casa de férias.\u003cbr\u003e\u003ca href=\"/contact/\"\u003ePerguntas? Entre em contacto connosco\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eServiço de aconselhamento personalizado nos seus destinos de férias\u003c/h3\u003e\u003cp\u003eUm dos principais pontos fortes da Interhome é que estamos sempre lá para quando necessitar de nós. A equipa da Interhome, as agências parceiras e os responsáveis de chaves recebem e ajudam os hóspedes no local e oferecem um amplo serviço. A presença da Interhome no local permite que os hóspedes possam desfrutar de uma entrega simplificada de chaves, apoio em todas as atividades e um contacto pessoal para qualquer tipo de ajuda e conselhos.\u003cbr\u003e\u003ca href=\"/servico-personalizado/\"\u003eServiços Locais\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eAlojamentos de férias com qualidade suíça desde 1965\u003c/h3\u003e\u003cp\u003eA Interhome foi fundada em 1965 na Suíça, e é com muito orgulho que olhamos para trás e vemos várias décadas de experiência e sucesso no negócio do aluguer de alojamentos de férias. Atualmente, a Interhome é o maior fornecedor europeu de casas e apartamentos turísticos em todo o mundo. A Interhome tem 15 filiais regionais. A empresa-mãe, Interhome Group (HHD AG), com sede em Glattbrugg, Zurique, é detida a 100% pela MTCH AG (Hotelplan Group). Esta empresa, por sua vez é detida a 100% pela Migros, maior empresa Suíça de retalho com sede em Zurique. A nossa mentalidade de serviço de qualidade suíça proporciona e garante aos nossos clientes uma fantástica experiência de férias.\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +74,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Segurança no seu alojamento de férias!",
+                    "link": {
+                        "href": "/sobre-a-interhome/seguranca-no-seu-alojamento-de-ferias/",
+                        "label": "Mais informações"
+                    },
+                    "car": "Chegadas individuais",
+                    "cleaning": "Limpeza de qualidade controlada",
+                    "independence": "Liberdade e independência",
+                    "key": "Entrega segura das chaves no local",
+                    "privacy": "Privacidade no seu alojamento de férias",
+                    "support": "Assistência pessoal no local"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Apenas alojamento selecionado e testado",
+                            "subtitle": "A qualidade é a nossa principal prioridade ",
+                            "caption": "Todas as propriedades são verificadas antes da sua chegada, de forma a garantir a melhor estadia possível."
+                        },
+                        {
+                            "title": "Disponibilidade garantida e serviço no local",
+                            "subtitle": "Aproveite ao máximo a nossa experiência",
+                            "caption": "A entrega das chaves é organizada pela nossa atenta equipa. Disponível 24 horas por dia, 7 dias por semana, e nos nossos serviços locais, para ajudar a solucionar todas as suas questões, como por exemplo: conselhos e informações sobre o seu destino de férias e sobre o alojamento reservado."
+                        },
+                        {
+                            "title": "Uma experiência de férias inesquecível",
+                            "subtitle": "Privacidade e liberdade no seu próprio alojamento de férias",
+                            "caption": "Seja o seu próprio chefe, sem horários para comer e com as suas próprias regras, aproveite ao máximo o espaço com todos os seus amigos e familiares."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por quê a Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca foi tão fácil organizar as suas férias perfeitas. Quer explorar novos destinos? Não há melhor maneira de fazê-lo do que numa casa de férias: aproveite a \"dolce vita\" em \u003ca href=\"/italy/\"\u003eItália\u003c/a\u003e, sinta o charme da vida na \u003ca href=\"/france/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e ou o \u003ca href=\"/spain/\"\u003eestilo de vida espanhol\u003c/a\u003e. Inspire-se nas nossas \u003ca href=\"\"\u003eideias de viagens\u003c/a\u003e e faça a sua reserva on-line - de forma rápida, fácil e segura com a Interhome. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberdade, privacidade e espaço na sua casa de férias",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA sua estadia numa moradia ou num apartamento de férias está repleta de vantagens: use o seu tempo exatamente como quiser. Sem perturbações de outros hóspedes ou de colaboradores do hotel, apenas aproveite as suas férias de acordo com as suas próprias regras. Tanto se procura uma \u003ca href=\"/\"\u003eviagem à cidade\u003c/a\u003e, como umas \u003ca href=\"/\"\u003eférias relaxantes com a família\u003c/a\u003e ou amigos. Aproveite o espaço, flexibilidade e liberdade na sua casa de férias. \u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

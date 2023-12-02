@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/news/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/fr/news/2018/",
+                            "label": "Presse 2018"
+                        },
+                        {
+                            "href": "/fr/news/2018/20180123-interhome-hier-trifft-amor-mitten-ins-herz/",
+                            "label": "23.1.2018: Ici, Cupidon touche en plein cœur"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "23.1.2018: Ici, Cupidon touche en plein cœur",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eGlattbrugg, le 23 janvier 2018\u003cstrong\u003e│\u003c/strong\u003e\u003cstrong\u003eJohn Paul Young nous chantait déjà «Love is in the air...». Pourquoi ne pas surprendre son amour le jour de la Saint-Valentin avec un long week-end? Dans un appartement de vacances, les heures romantiques sont garanties.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eOffrir des fleurs et du chocolat pour la Saint-Valentin, c’est facile. Ce 14 février 2018, au lieu des habituels présents, on peut aussi surprendre son /(sa) bien-aimé(e) avec un court voyage: dans un appartement de vacances, les tourtereaux auront tout loisir de passer des heures romantiques sans être dérangé. Avec un tel cadeau, Cupidon touche certainement en plein cœur.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e«Schatzerl, auf geht's nach Wien»\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eUne escapade à Vienne pour la Saint-Valentin de cette année réchauffera le cœur de tout couple d'amoureux: en calèche – comme l'impératrice Sissi et son Franzl à leur époque – la capitale de l'Autriche peut être explorée de manière optimale. Moderne et aménagé avec goût, l'appartement de vacances «Johanna» dans le 3e arrondissement permet de passer des heures agréables à deux et le salon spacieux offre suffisamment d'espace pour flotter au-dessus du parquet sur la musique de Johann Strauss.\u003cbr\u003e4 nuits dans l’appartement de vacances 3 étoiles «Johanna» à Vienne en Autriche pour max. 4 personnes sont proposées chez Interhome à partir de CHF 506.-, comprenant nettoyage final et linge de lit et de toilettes. \u003ca href=\"/fr/AT1030.380.1\" target=\"_blank\"\u003ewww.interhome.ch/AT1030.380.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e«Amore, andiamo in Ticino»\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eDans la maison de vacances à 2 chambres «Vignaccia» à Lottigna au Tessin, l’atmosphère est déjà romantique en soi grâce à la cheminée ouverte de ce petit rustico accueillant. Lors d’un week-end prolongé, les amoureux pourront se détendre dans leur bain à remous privé après de longues promenades dans la neige ou des descentes rapides sur les pistes du proche domaine skiable Nara – à la lumière de bougies, bien évidemment.\u003cbr\u003e4 nuits dans la maison de vacances 3 étoiles «Vignaccia» à Lottigna près de Biasca dans le canton du Tessin pour maximum 3 personnes sont proposées chez Interhome à partir de CHF 493.-, comprenant le nettoyage final. \u003ca href=\"/fr/CH6716.50.1\" target=\"_blank\"\u003ewww.interhome.ch/CH6716.50.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e«Mon amour, on va en Valais»\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eDes journées de détente à deux dans un décor de montagnes enneigés du Valais, programme de bien-être compris, voilà la promesse de l'appartement confortablement meublé «Thermes Parc» à Val-d'Illiez dans le domaine skiable des Portes du Soleil. En plus de la piscine couverte, de celle en plein air chauffée et des bains à remous, la résidence comprend un sauna et un hammam assurant un week-end prolongé de la Saint-Valentin en toute détente.\u003cbr\u003e4 nuits dans l’appartement de vacances 3 étoiles «Thermes Parc» à Val-d'Illiez dans le canton du Valais pour max. 4 personnes sont proposées chez Interhome à partir de CHF 1'428.-, comprenant nettoyage final et linge de lit et de toilettes. \u003ca href=\"/fr/CH1873.200.6\" target=\"_blank\"\u003ewww.interhome.ch/CH1873.200.6\u003c/a\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003e \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1395438-fre-CH/2018-01-23_Ici-Cupidon-touch-en-plein-c%C5%93ur.pdf\" target=\"_blank\"\u003eTélécharger le communiqué de presse complet au format PDF \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"\"\u003eTélécharger les photos au format ZIP \u0026gt;\u0026gt;.  \u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

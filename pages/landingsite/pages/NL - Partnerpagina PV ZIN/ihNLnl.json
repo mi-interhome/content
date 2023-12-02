@@ -26,43 +26,111 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/pvzin/",
+                            "label": "Profiteer van 10% korting op uw boeking bij Interhome!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Profiteer van 10% korting op uw boeking bij Interhome!",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/zin-logo/2100976-1-dut-NL/ZIN-logo.jpg\" width=\"292\" height=\"151\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39553\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eOf u nu op zoek bent naar een villa met zwembad in Spanje, een wintersport chalet in Oostenrijk of een stadsappartement voor een citytrip, bij Interhome vindt u altijd de ideale accommodatie. Met bijna 35.000 vakantiewoningen in 27 landen is er altijd een woning die voldoet aan uw wensen.\u003c/p\u003e\u003cp\u003eInterhome is opgericht in 1965 in Zwitserland en is momenteel Europa’s grootste aanbieder van gecontroleerde vakantiehuizen. Dankzij onze lokale servicekantoren in heel Europa en 24/7 klantenservice huurt u bij Interhome authentieke, particuliere vakantiewoningen met de service en het gemak van een touroperator. Daarnaast geniet u als lid van PV ZIN van 10% korting op ons volledige aanbod.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDeze korting is het hele jaar geldig voor alle bestemmingen en is ook te gebruiken in combinatie met onze andere kortingen zoals Last minute – en vroegboekkortingen. Dubbel voordeel dus.\u003c/strong\u003e\u003c/p\u003e\u003ch4\u003eHoe werkt het?\u003c/h4\u003e\u003cp\u003e1. Zoek via \u003ca href=\"/?partnerid=NL1000284\"\u003edeze link\u003c/a\u003e uw ideale vakantiewoning. (boeken met korting kan alleen via deze link)\u003cbr\u003e2. Gevonden? Klik op boek nu.\u003cbr\u003e3. Na het invullen van uw naam en adres gegevens vult u bij het veld ‘bedrijfsactiecode’ de code “\u003cstrong\u003e1000284\u003c/strong\u003e” in.\u003cbr\u003e4. Uw korting van 10% wordt direct op uw factuur in mindering gebracht.\u003c/p\u003e\u003ch4\u003eSpreekt u liever met een medewerker?\u003c/h4\u003e\u003cp\u003eOnze klantenservice is 24/7 bereikbaar op telefoonnummer 070 41 41 000, na kantooruren Engelstalig.\u003cbr\u003eVermeld erbij dat u lid bent van PV ZIN en de bedrijfsactiecode “1000284”. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAlgemene gegevens:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eHHD B.V. | Interhome Group\u003cbr\u003eJ.C. van Markenlaan 3\u003cbr\u003e2285 VL, Rijswijk\u003cbr\u003eTel: 070 4141000\u003cbr\u003eE-Mail: \u003ca href=\"mailto:info.nl@interhome.group\"\u003einfo.nl@interhome.group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

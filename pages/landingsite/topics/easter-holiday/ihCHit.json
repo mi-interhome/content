@@ -26,68 +26,142 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienwohnung zu Ostern ",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_easter-holidays/980241-1-ger-XX/Header_1400x480_easter-holidays.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/it/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/it/tipo-di-vacanza/",
+                            "label": "Vacanze sicure e divertenti – scoprite cosa possiamo offrirvi"
+                        },
+                        {
+                            "href": "/it/tipo-di-vacanza/pasqua/",
+                            "label": "Festeggia la Pasqua in una casa vacanze!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Festeggia la Pasqua in una casa vacanze!",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eApprofitta di Pasqua e Ponti per concederti una breve vacanza!\u003c/p\u003e\u003cp\u003eLa primavera offre innumerevoli occasioni per organizzare una bella vacanza senza dover utilizzare troppi giorni di ferie. Non lasciarti sfuggire quest'occasione!\u003cbr\u003e\u0026gt;\u0026gt; \u003ca href=\"#suggerimenti\"\u003eI nostri suggerimenti\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003eVacanze di Pasqua in famiglia\u003c/h3\u003e\u003cp\u003e\u003ca id=\"I nostri suggerimenti\"\u003e\u003c/a\u003eDove preferiresti trascorrere le prossime vacanze di Pasqua in compagnia della famiglia? In un casale immerso nel verde, in una villa con piscina in una mite località di mare o in un appartamento nel cuore di una delle città europee più di tendenza? Con Interhome troverai soluzioni per tutte le esigenze e per tutti i budget. Case vacanza spaziose con tante camere per ospitare tutta la famiglia, amici a 4 zampe compresi! Cerca subito la villa, l'appartamento o il casale che fa per te!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Alcuni spunti e suggerimenti:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e   \u003ca id=\"suggerimenti\"\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Le destinazioni più richieste:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003cstrong\u003eVacanze di Pasqua in Svizzera\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePreferisci concederti le ultime sciate sulle montagne svizzere o goderti il clima più mite del Ticino? In ogni caso la Svizzera è la destinazione ideale per una breve vacanza pasquale senza lunghi tempi di viaggio.\u003cbr\u003e\u003ca href=\"/it/svizzera/\"\u003eSvizzera\u003c/a\u003e | \u003ca href=\"/it/svizzera/vallese/\"\u003eVallese\u003c/a\u003e | \u003ca href=\"/it/svizzera/grigioni/\"\u003eGrigioni\u003c/a\u003e | \u003ca href=\"/it/svizzera/oberland-bernese/\"\u003eOberland Bernese\u003c/a\u003e | \u003ca href=\"/it/svizzera/alpi-vodesi/\"\u003eAlpi Vodesi\u003c/a\u003e | \u003ca href=\"/it/svizzera/ticino/\"\u003eTicino\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVacanze di Pasqua in Italia\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLa nostra \"\u003cstrong\u003ebella Italia\"\u003c/strong\u003e rimane sempre la meta più gettonata per le vacanze di Primavera. Costiera amalfitana, campagna Toscana, e le tre città  d'arte Roma, Firenze e Venezia tra le località  più prenotate. All'interno della nostra programmazione troverai splendide case vacanza in queste destinazioni e in tutte le principali località  turistiche del Belpaese!\u003cbr\u003e\u003ca href=\"/it/italia/\"\u003eItalia\u003c/a\u003e | \u003ca href=\"/it/italia/toscana/\"\u003eToscana\u003c/a\u003e | \u003ca href=\"/it/italia/lago-di-garda/\"\u003eLago di Garda\u003c/a\u003e | \u003ca href=\"/it/italia/veneto/\"\u003eAdria/Veneto\u003c/a\u003e | \u003ca href=\"/it/italia/roma-citta/roma/\"\u003eRoma\u003c/a\u003e | \u003ca href=\"/it/italia/firenze-citta-e-dintorni/firenze/\"\u003eFirenze\u003c/a\u003e | \u003ca href=\"/it/italia/veneto/venezia/\"\u003eVenezia\u003c/a\u003e | \u003ca href=\"/it/italia/sardegna/\"\u003eSardegna\u003c/a\u003e | \u003ca href=\"/it/italia/sicilia/\"\u003eSicilia\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVacanze di Pasqua in Francia\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAnche la \u003cstrong\u003eFrancia\u003c/strong\u003e offre soluzioni adatte a soddisfare le esigenze della clientela più disparata: ville e casali immersi negli incontaminati paesaggi della Provenza; case vacanza nei pressi delle soleggiate spiagge della Costa Azzurra; moderni appartamenti nella sempre vivace Parigi!\u003cbr\u003e\u003ca href=\"/it/francia/\"\u003eFrancia\u003c/a\u003e | \u003ca href=\"/it/francia/costa-azzurra/\"\u003eCosta Azzurra\u003c/a\u003e | \u003ca href=\"/it/francia/provenza/\"\u003eProvenza\u003c/a\u003e | \u003ca href=\"/it/francia/bretagna/\"\u003eBretagna\u003c/a\u003e | \u003ca href=\"/it/francia/parigi-ile-de-france/\"\u003eParigi\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVacanze di Pasqua in Spagna\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLa \u003cstrong\u003eSpagna \u003c/strong\u003eè la destinazione ideale per chi vuole trascorrere una vacanza baciata dal sole. A questo proposito consigliamo la Costa Blanca, ad est, o l'isola di Maiorca. Grazie alle temperature miti, a metà  aprile potrai già goderti la vita da spiaggia. \u003cbr\u003e\u003ca href=\"/it/spagna/\"\u003eSpagna\u003c/a\u003e | \u003ca href=\"/it/spagna/maiorca/\"\u003eMaiorca\u003c/a\u003e | \u003ca href=\"/it/spagna/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/it/spagna/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/it/spagna/canarie/\"\u003eCanarie\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePasqua nelle città \u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePer Pasqua non potrai concederti lunghe vacanze, ma solo qualche giorno di relax? Organizza un bel weekend in una capitale o \u003ca href=\"https://www.interhome.it/tipo-di-vacanza/vacanza-in-citta/\"\u003ecittà d'arte europea\u003c/a\u003e! Roma, Praga, Barcellona, e tante altre ancora... in tutte le più suggestive città troverai ad accoglierti gli appartamenti Interhome! Le nostre soluzioni sono situate nel cuore della città o in posizioni strategiche, vicine alle fermate dei mezzi pubblici. Vivi un soggiorno da vero residente e non da semplice turista!\u003cbr\u003e\u003ca href=\"/it/italia/roma-citta/roma/\"\u003eRoma\u003c/a\u003e | \u003ca href=\"/it/spagna/barcellona/barcellona/\"\u003eBarcellona\u003c/a\u003e | \u003ca href=\"/it/repubblica-ceca/praga-e-dintorni/\"\u003ePraga\u003c/a\u003e | \u003ca href=\"/it/italia/firenze-citta-e-dintorni/firenze/\"\u003eFirenze\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOfferte Last Minute per Pasqua\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eOrganizzi le vacanze sempre all'ultimo momento?\u003cbr\u003eLe nostre \u003ca href=\"/it/tipo-di-vacanza/last-minute/\"\u003eofferte Last Minute\u003c/a\u003e sono ciò che fa per te! Prenotando con massimo 8 giorni di anticipo rispetto alla data di partenza, potrai risparmiare il 33% sul prezzo d'affitto di una selezione di case vacanza! La scelta ovviamente sarà più limitata, ma a fronte di un bel risparmio.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nelle Sua casa per Vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/it/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello garantita",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "In una casa per vacanze la privacy è garantita",
+                    "support": "Assistenza in loco"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna delle chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
             },
             {
                 "id": 13,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/it/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/it/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"https://www.interhome.it/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"https://www.interhome.it/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

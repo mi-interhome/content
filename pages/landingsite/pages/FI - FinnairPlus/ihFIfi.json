@@ -26,38 +26,105 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/finnairplus/",
+                            "label": "Finnair Plus"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Finnair Plus",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/unknown-images/fi_finnair/1630437-1-fin-FI/FI_Finnair.jpg\" width=\"500\" height=\"125\" data-view=\"line\" data-offset=\"\" data-limit=\"\" data-align=\"center\" data-id=\"27773\" data-type=\"image\" data-content=\"\"\u003e\n",
+                    "textRight": "\u003cp\u003eAnsaitse Finnair Plus -pisteitä Interhomen loma-asuntojen vuokrauksesta. Yksi käytetty euro vastaa kolmea Finnair Plus –pistettä. Etuus koskee koko valikoimaamme, yli 50000 laatutarkastettua loma-asuntoa 31 eri maassa. Pisteitä kerrytät myös nettisivujemme tarjoushinnoista!\u003cbr\u003e\u003cstrong\u003eNäin ansaitset Finnair Plus -pisteitä Interhome-varauksesta:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e1. Löydä unelmiesi loma-asunto \u003ca href=\"/\"\u003einterhome.fi\u003c/a\u003e-sivustolta ja varaa se.\u003cbr\u003e2. Kun täytät varaustietoja, lisää Finnair Plus -korttisi numero tekstikenttään ”lisätietoja”.\u003cbr\u003e3. Voit myös varata loma-asunnon suoraan Interhomen asiakaspalvelusta. Kerro varauksen yhteydessä Finnair Plus -jäsenyydestä sekä ilmoita Finnair Plus -kortin numero.\u003cbr\u003e4. Finnair Plus –pisteet kirjautuvat lomasi jälkeen.\u003c/p\u003e\u003cp\u003eHuom! Etua ei voi yhdistää muihin henkilökohtaisiin alennuksiin. Saat Finnair Plus -pisteet vuokrahinnasta - ennakkoon maksetut lisäpalvelut ja mahdolliset paikalliset lisämaksut eivät kerrytä pisteitä.\u003c/p\u003e\u003cp\u003eAutamme mielellämme lomasuunnittelussa! \u003ca href=\"/pages/lomaehdotus/\"\u003eKerro lomatoiveesi\u003c/a\u003e ja saat sähköpostitse lomaehdotuksemme - \u003cstrong\u003etäysin veloituksetta!\u003c/strong\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkeintä",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen - vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

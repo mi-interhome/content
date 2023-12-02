@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/news/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/fr/news/2018/",
+                            "label": "Presse 2018"
+                        },
+                        {
+                            "href": "/fr/news/2018/20180606-Duck-House-neu-bei-Interhome/",
+                            "label": "6.6.2018: Nouveauté chez Interhome: «Duck House»"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "6.6.2018: Nouveauté chez Interhome: «Duck House»",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eGlattbrugg, le 6 juin 2018│\u003cstrong\u003eDe la fin des années 1970 jusqu’à sa mort en 1991, Freddie Mercury venait régulièrement en visite à Montreux. La «Duck House», devenue célèbre grâce à lui, est située au bord du Lac Léman et est désormais proposée à la location par Interhome.\u003c/strong\u003e\u003cbr\u003eLe loueur suisse d’appartements de vacances est désormais le loueur exclusif de la fameuse «Duck House» à Montreux. Cette maison construite dans les années 1970 est étroitement liée à l’histoire des studios d’enregistrement de la Riviera vaudoise depuis que des groupes de musique tels qu’Emerson, Lake \u0026amp; Palmer, Boy George ou Freddie Mercury (l’ancien chanteur de Queen) ont utilisé cette villa comme lieu de retraite et d’inspiration.\u003c/p\u003e\u003cp\u003eLa villa «Duck House» compte 5 pièces (1 séjour de 60 m\u003csup\u003e2\u003c/sup\u003e, 4 chambres et 2 salles de bain) et est située dans un grand parc de 1'800m\u003csup\u003e2\u003c/sup\u003e. Le hangar à bateau de cette maison de vacances est connu dans le monde entier puisqu’il figure sur la pochette du dernier album de Queen. Une grande partie des meubles haut de gamme date des années 1970 et remonte même au premier séjour de Queen.\u003c/p\u003e\u003cp\u003e«La maison a contribué à un grand morceau de l’histoire de la musique – \u0026lt;It’s a kind of magic\u0026gt;! Nous sommes, ô combien, ravis de pouvoir de proposer ce joyau à nos clients du monde entier», déclare Roger Müller, Country Manager Interhome Suisse. «Nous souhaitons que la maison de vacances, tout comme par le passé, soit un lieu de repos et de joie de vivre», ajoute Roger Müller.\u003c/p\u003e\u003cp\u003e1 semaine dans la maison de vacances 4 étoiles «Duck House» à Montreux au bord du Lac Léman pour maximum 7 personnes est proposée chez Interhome à partir de CHF 4'604.-, comprenant taxe de séjour, nettoyage final, linge de lit et de toilettes. www.interhome.ch/CH1820.5.1\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1395405-fre-CH/2018-06-06_Nouveaute-chez-Interhome-Duck-House.pdf\" target=\"_blank\"\u003eTélécharger le communiqué de presse complet au format PDF \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"\"\u003eTélécharger l'image au format ZIP \u0026gt;\u0026gt;.\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

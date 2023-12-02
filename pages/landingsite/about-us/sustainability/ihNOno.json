@@ -26,88 +26,152 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om interhome"
+                        },
+                        {
+                            "href": "/om-interhome/bærekraft/",
+                            "label": "Love nature - bevaring angår alle"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Love nature - bevaring angår alle",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group ønsker å være et forbilde når det gjelder bærekraft. Vi ser det som vår plikt å etterlate et velstående miljø for fremtidige generasjoner. På denne måten kan du som kunde hos oss bidra til å beskytte miljøet under ditt opphold i ferieboligen. Hele beløpet går til bærekraftprosjekter som ledes av M Cimate Fund via vår partner myclimate.\u003c/p\u003e\u003cp\u003eVi er forpliktet til å beskytte klimaet, ikke bare overfor våre kunder og vårt morselskap Migros, men også internasjonalt. Interhome Group har signert FNs verdensturismeorganisasjons “Glasgow Declaration on Climate Action in Tourism” og dermed forpliktet seg til å halvere klimagassutslippene forårsaket innen 2030 og oppnå netto null innen 2050.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eLes mer om våre mål og vårt samarbeid med Myclimate og vårt bi-beskyttelsesprogram. Vårt bærekraftsteam har også samlet nyttige tips for din hverdag og høytider spesielt for deg. Bærekraft har ingen sluttdato, og det er grunnen til at vi kontinuerlig og vedvarende forplikter oss til bærekraftig feriehusturisme både i dag og i morgen.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBiologisk mangfold\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eKlimaendring\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eVåre kunder\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eVåre partnere\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eVåre steder\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003ePersonale\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eKontor\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38948/2142260-1-eng-XX/Sustainability_2022_wheel_no_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39865\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBiologisk mangfold\u003c/h4\u003e\u003cp\u003eKlimaendringene har en betydelig innvirkning på det biologiske mangfoldet, som igjen påvirker turismen. Biologisk mangfold er mangfoldet av liv på jorden, inkludert planter, dyr og mikroorganismer. Når klimaet endrer seg, endres økosystemene, og det biologiske mangfoldet trues. Dette kan føre til tap av viktige habitater, utryddelse av arter og endringer i tid og sted for naturlige hendelser, for eksempel blomstring eller forflytning.\u003c/p\u003e\u003cp\u003eDisse endringene har en direkte innvirkning på reiselivet, ettersom mange reisende tiltrekkes av naturlige områder og dyreliv. Korallrev, for eksempel, som er avgjørende for det biologiske mangfoldet i havet, blir skadet av stigende havtemperaturer og forsuring av havet, noe som gjør områdene mindre attraktive for turister. På samme måte kan endringer i utbredelsen av ville dyr og planter gjøre det vanskeligere for turister å observere visse arter, noe som påvirker helhetsopplevelsen.\u003c/p\u003e\u003cp\u003eTurisme kan også bidra til klimaendringer, noe som forsterker problemet. Næringen er en stor produsent av klimagasser, særlig gjennom transport og energibruk. Bærekraftig turisme minimerer derfor karbonutslippene og reduserer påvirkningen på naturlige økosystemer - noe som er avgjørende for å redusere de negative effektene av klimaendringene for det biologiske mangfoldet.\u003c/p\u003e\u003cp\u003eKonklusjonen er at klimaendringer og tap av biologisk mangfold har betydelig innvirkning på reiselivet, og bransjen må iverksette tiltak for å minimere sitt eget bidrag til problemet og tilpasse seg endringene i miljøet. Ved å fremme bærekraftig reiseliv, kan vi bidra til å beskytte det biologiske mangfoldet og sikre at fremtidige generasjoner kan fortsette å nyte den vakre naturen på planeten vår.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eKlimaendring\u003c/h4\u003e\u003cp\u003eKlimaendringene skyldes økningen av drivhusgasser i jordens atmosfære, som karbondioksid, metan og lystgass. Disse gassene holder på varmen fra solen og får temperaturen på planeten til å stige, noe som fører til endringer i værforhold, havnivå og det naturlige miljøet. Turistnæringens overnattingsvirksomhet er en betydelig kilde til klimagassutslipp som følge av et høyt energiforbruk og stor avhengighet av fossilt brensel. Bærekraftig reiselivspraksis, for eksempel ved bruk av fornybare energikilder, redusert energiforbruk og avfallsreduksjon, kan bidra til å minimere overnattingsnæringens innvirkning på klimaendringene og fremme bærekraftig forvaltning av miljøet.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 11,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eVåre kunder\u003c/h4\u003e\u003cp\u003eNår du er ute og reiser, bør du besøke lokale severdigheter, fordyp deg i den lokale befolkningen og kulturen og støtt lokalsamfunnet ved å handle lokalt. Utforsk det spennende tilbudet på de lokale markedene og ta del i de frodige og autentiske opplevelsene, samtidig som du setter et positivt fotavtrykk i det lokale næringslivet og lokalsamfunnet. På den måten skaper du ikke bare minneverdige øyeblikk, men bidrar også til bærekraftig utvikling, bevarer destinasjonene du besøker og bidrar aktivt til å beskytte miljøet.\u003c/p\u003e\u003cp\u003eVårt engasjement for å skape en bedre fremtid omfatter mer enn bare den daglige driften. Vi er klar over hvor viktig det er å beskytte miljøet når man er på ferie, og vi er fast bestemt på å motivere kundene våre til å bli med på dette viktige oppdraget. Med dette i tankene har vi laget en oversikt over anbefalinger som gjør det enkelt for deg å bidra positivt til miljøet mens du er på ferie.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eVåre partnere\u003c/h4\u003e\u003cp\u003eReiser kan ikke være bærekraftige uten at vår aksjonær, partnere og leverandørkjede er engasjert og støttende. Vi er på en felles reise for å lære av og inspirere hverandre til handling.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eVåre steder\u003c/h4\u003e\u003cp\u003eI virksomheten vår legger vi stor vekt på både gjestenes og miljøets ve og vel. For å overholde denne målsettingen, vurderer vi hver enkelt feriebolig nøye opp mot vår egen sjekkliste med hensyn til bærekraft. I tillegg har vi et nært samarbeid med huseierne, og vi samarbeider kontinuerlig for å forbedre bærekraften i ferieboligene våre.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 13,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003ePersonale\u003c/h4\u003e\u003cp\u003eI virksomheten vår er vi svært opptatt av å fremme miljøbevissthet og bærekraft. Som en del av vår satsing på disse verdiene ønsker vi å sikre at alle ansatte deltar aktivt i Climate Fresk. Climate Fresk-prosjektet er et samarbeidsprosjekt som har som mål å øke bevisstheten om og forståelsen av klimaendringene. Prosjektet består av interaktive workshoper der deltakerne deltar i et spill-lignende opplegg for å utforske årsakene til, konsekvensene av og mulige løsninger på klimaendringene. Disse workshopene kombinerer vitenskapelig informasjon og gruppediskusjoner for å informere og motivere deltakerne til å gjøre noe med klimaendringene.\u003cbr\u003eVed å etablere en plattform for dialog og deling av kunnskap skaper Climate Fresk-prosjektet ikke bare en forståelse av at det haster, men inspirerer også til felles innsats for å løse dette globale problemet. Vi tror at ved aktivt å engasjere de ansatte i Climate Fresk-workshopene kan vi gi dem verdifull innsikt og sette dem i stand til å ta veloverveide valg for å skape en bærekraftig og klimarobust fremtid.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 14,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eKontor\u003c/h4\u003e\u003cp\u003eMed tanke på å forbedre den påvirkningen virksomheten vår har på miljøet, har vi gjort en grundig vurdering av alle våre kontorlokaler. Dette inkluderer en evaluering av energikilder, oppvarmingssystem og til og med mindre detaljer som f.eks. papir og rengjøringsmidler. Med utgangspunkt i denne viktige informasjonen utarbeider vi klare retningslinjer for hvordan vi kan oppnå miljømessige forbedringer ved kontorene våre.\u003c/p\u003e\u003cp\u003eNår vi har kunnskap om konsekvensene vår virksomhet har på miljøet, kan vi iverksette målrettede tiltak for å redusere vårt økologiske fotavtrykk. Dette innebærer blant annet å optimalisere energikildene, gjøre oppvarmingssystemet mer effektivt, ta i bruk bærekraftige alternativer til papir og å bruke miljøvennlige rengjøringsmidler. Disse tiltakene er helt avgjørende for å gjøre kontorene våre mer bærekraftige og minimere den samlede miljøpåvirkningen.\u003c/p\u003e\u003cp\u003eMed et kontinuerlige arbeid for en ansvarlig håndtering av ressurser og reduksjon av avfall, ønsker vi å gå foran som et godt eksempel i denne bransjen og inspirere andre til å gjøre det samme. Vi er klar over at selv små endringer kan ha stor effekt når de gjennomføres i hele vår virksomhet.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 15,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
             },
             {
                 "id": 16,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
             },
             {
                 "id": 17,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

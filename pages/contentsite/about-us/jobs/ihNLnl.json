@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/over-interhome/",
+                            "label": "Over Interhome"
+                        },
+                        {
+                            "href": "/over-interhome/vacatures/",
+                            "label": "Vacatures"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Vacatures",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eStage Digital Advertising\u003c/h3\u003e\u003cp\u003eHeb jij een enorme passie voor reizen en heb je er altijd al van gedroomd om van deze passie je werk te maken? Kom dan stagelopen bij Interhome Group, een toonaangevende internationale organisatie in de reisbranche. Wij zijn de marktleider in de verhuur van bijna 40.000 exclusieve vakantiehuizen en appartementen in 28 landen. \u003c/p\u003e\u003ch4\u003eZo ziet jouw stage bij ons er uit ...\u003c/h4\u003e\u003cp\u003eGa jij er voor zorgen dat al onze bestemmingen en vakantiehuizen optimaal te vinden zijn via Google, Bing en andere online kanalen? Dan zoeken wij jou! Voor onze afdeling Channel Marketing zijn wij op zoek naar een enthousiaste en leergierige stagiair(e). Je komt te werken in een team van 8 specialisten verspreid door Europa waarbij je vanuit ons kantoor in Rijswijk begeleid zal worden door de Head of Channel Marketing en de Paid Advertising Specialist. \u003c/p\u003e\u003ch3\u003eWat ga je doen? \u003c/h3\u003e\u003cp\u003eZoals je al hebt kunnen lezen zal je tijdens je stage alles leren over de verschillende facetten van Performance Marketing. Gebaseerd op jouw ervaring zullen we samen een takenpakket opstellen waarbij we jou uiteindelijk gedurende de stage steeds meer (internationale) verantwoordelijkheid willen geven met als uiteindelijke doel je mee laten draaien als een volwaardige en zelfstandige kracht binnen ons team. Om je wat inzicht te geven over eventuele werkzaamheden die je op kan gaan pakken zijn hieronder een aantal taken toegevoegd: \u003c/p\u003e\u003cul\u003e\n\u003cli\u003eOndersteunen bij het managen \u0026amp; bijsturen van de verschillende internationale accounts in Google Ads \u0026amp; Microsoft Ads met als doel het behalen van de vooraf opgestelde doelen\u003c/li\u003e\n\u003cli\u003eOndersteunen bij de beheer en optimalisatie van de verschillende internationale accounts in Google Ads \u0026amp; Microsoft Ads\u003c/li\u003e\n\u003cli\u003eMeedenken over en het opzetten van nieuwe Google Ads \u0026amp; Microsoft Advertising campagnes in SA360\u003c/li\u003e\n\u003cli\u003eHet zoeken- en opzetten van nieuwe campagnes op Cost per Click basis\u003c/li\u003e\n\u003cli\u003eHet creëren en analyseren van verschillende rapportages in o.a. Google Analytics \u0026amp; Google Data Studio\u003c/li\u003e\n\u003c/ul\u003e\u003ch4\u003eGevraagd profiel:\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eJe zit in het derde of vierde jaar van een opleiding op minimaal HBO niveau in een commerciële en/of communicatie richting\u003c/li\u003e\n\u003cli\u003eAffiniteit met de reisbranche\u003c/li\u003e\n\u003cli\u003ePerfecte beheersing van de Nederlandse taal en goede beheersing van de Engelse taal in woord \u0026amp; geschrift\u003c/li\u003e\n\u003cli\u003eHands-on mentaliteit\u003c/li\u003e\n\u003cli\u003eJe bent analytisch ingesteld\u003c/li\u003e\n\u003cli\u003eErvaring met Google Ads, Microsoft Ads en/of Google Analytics is een pré\u003c/li\u003e\n\u003cli\u003eZelfstandige werkhouding\u003c/li\u003e\n\u003c/ul\u003e\u003ch4\u003eWat bieden wij jou? \u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eEen marktconforme stagevergoeding van €400,00 per maand;\u003c/li\u003e\n\u003cli\u003eEen uitstekende leeromgeving met goede begeleiding;\u003c/li\u003e\n\u003cli\u003eEen informele en internationale werksfeer in een jong en gezellig team;\u003c/li\u003e\n\u003cli\u003eEen afwisselende en uitdagende stage bij een van 's werelds grootste aanbieders van vakantiehuizen en appartementen\u003c/li\u003e\n\u003cli\u003eBij wederzijdse interesse is een Traineeship na afloop van de stage bespreekbaar\u003c/li\u003e\n\u003c/ul\u003e\u003ch4\u003eOver Interhome Group: \u003c/h4\u003e\u003cp\u003eWaar je ook naar op zoek bent, bij Interhome ben je altijd aan het juiste adres. Met bijna 35.000 online boekbare vakantiewoningen en appartementen in 27 landen is er voor ieder wat wils. Of je nu kiest voor een chalet in de bergen, een villa met zwembad, een stadsappartement of een kasteel, Interhome heeft de juiste accommodatie voor jouw volgende vakantie. De service van Interhome gaat net een stapje verder. We verzorgen de gehele boeking, de sleuteloverdracht en de eindschoonmaak. Daarnaast profiteer je van de kwaliteitstandaarden van Interhome, gebaseerd op onze Zwitserse en wereldwijd erkende waarderingen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInteresse? Stuur je CV en motivatie naar:\u003c/strong\u003e \u003cbr\u003eE: \u003ca href=\"mailto:olav.hoedemakers@interhome.group\"\u003eolav.hoedemakers@interhome.group\u003c/a\u003e \u003c/p\u003e\u003cp\u003e___\u003c/p\u003e\u003ch3\u003eStage Marketing \u0026amp; Sales\u003c/h3\u003e\u003cp\u003eHeb jij een enorme passie voor reizen en heb je er altijd al van gedroomd om van deze passie je werk te maken? Kom dan stagelopen bij Interhome Group, een toonaangevende internationale organisatie in de reisbranche. Wij zijn de marktleider in de verhuur van bijna 40.000 exclusieve vakantiehuizen en appartementen in 28 landen. \u003c/p\u003e\u003ch4\u003eZo ziet jouw stage bij ons er uit ...\u003c/h4\u003e\u003cp\u003eAls je er voor kiest om bij ons stage te lopen kom je terecht in een klein en hecht lokaal team waardoor je van alle eventuele ontwikkelingen op de werkvloer op de hoogte wordt gehouden. Naast deze lokale collega's zal je ook veelvoudig in contact staan met de internationale collega's die we uitkiezen gebaseerd op het takenpakket wat we met jou samen opstellen. Er zijn binnen deze vacature verschillende richtingen die je op kunt gaan en we ontdekken graag samen met jou welke richting het meeste aansluit op jouw wensen zodat je na je stage een goed beeld hebt gekregen van hetgeen wat je wel/niet wilt gaan doen.\u003c/p\u003e\u003ch4\u003eWat ga je doen? \u003c/h4\u003e\u003cp\u003eZoals je al hebt kunnen lezen willen we, naast dat er uiteraard een aantal dingen zijn die we je sowieso graag willen leren, verschillende richtingen die we op kunnen gaan. Ga jij er bijvoorbeeld voor zorgen dat onze Social Media kanalen een boost krijgen óf wil je juist alles leren over hoe je kunt groeien in Google, zowel betaald als niet betaald? Het kan allemaal! Om je wat inzicht te geven over eventuele taken die je op kan pakken zijn hieronder een aantal taken toegevoegd: \u003c/p\u003e\u003cul\u003e\n\u003cli\u003eDe creatie van inspirerende en/of informatieve blogs;\u003c/li\u003e\n\u003cli\u003eDe creatie van nieuwsbrieven voor partners en klanten;\u003c/li\u003e\n\u003cli\u003eOndersteuning bij de planning \u0026amp; organisatie van diverse evenementen en beurzen;\u003c/li\u003e\n\u003cli\u003eBeheer van verschillende Social Media kanalen;\u003c/li\u003e\n\u003cli\u003eOndersteuning bij het uitrollen van de PR-strategie;\u003c/li\u003e\n\u003cli\u003eOndersteuning bij het uitrollen van de internationale SEO strategie;\u003c/li\u003e\n\u003cli\u003eDe creatie van verschillende rapporten in Google Analytics.\u003c/li\u003e\n\u003c/ul\u003e\u003ch4\u003eGevraagd profiel:\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eJe zit in het derde of vierde jaar van een relevante HBO studie;\u003c/li\u003e\n\u003cli\u003eAffiniteit met de reisbranche;\u003c/li\u003e\n\u003cli\u003eInteresse in marketing en E-Commerce;\u003c/li\u003e\n\u003cli\u003ePerfecte beheersing van de Nederlandse taal in woord \u0026amp; geschrift;\u003c/li\u003e\n\u003cli\u003eHands-on mentaliteit;\u003c/li\u003e\n\u003cli\u003eCommerciële en proactieve instelling;\u003c/li\u003e\n\u003cli\u003eGoede kennis van Microsoft Office\u003c/li\u003e\n\u003cli\u003eGoede beheersing van de Engelse taal in woord \u0026amp; geschrift;\u003c/li\u003e\n\u003cli\u003eBeheersing van de Duitse en/of Franse taal is een pré.\u003c/li\u003e\n\u003c/ul\u003e\u003ch4\u003eWat bieden wij jou?\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003e;\u003c/li\u003e\n\u003cli\u003eEen uitstekende leeromgeving met goede begeleiding;\u003c/li\u003e\n\u003cli\u003eEen informele en internationale werksfeer in een jong en gezellig team;\u003c/li\u003e\n\u003cli\u003eEen afwisselende en uitdagende stage bij een van 's werelds grootste aanbieders van vakantiehuizen en appartement\u003c/li\u003e\n\u003c/ul\u003e\u003ch4\u003eOver Interhome Group\u003c/h4\u003e\u003cp\u003eWaar je ook naar op zoek bent, bij Interhome ben je altijd aan het juiste adres. Met bijna 35.000 online boekbare vakantiewoningen en appartementen in 27 landen is er voor ieder wat wils. Of je nu kiest voor een chalet in de bergen, een villa met zwembad, een stadsappartement of een kasteel, Interhome heeft de juiste accommodatie voor jouw volgende vakantie. De service van Interhome gaat net een stapje verder. We verzorgen de gehele boeking, de sleuteloverdracht en de eindschoonmaak. Daarnaast profiteer je van de kwaliteitstandaarden van Interhome, gebaseerd op onze Zwitserse en wereldwijd erkende waarderingen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInteresse? Stuur je CV \u0026amp; motivatie naar: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eE: \u003ca href=\"mailto:marketing.nl@interhome.group\"\u003emarketing.nl@interhome.group\u003c/a\u003e\u003cbr\u003eT: 070 4141040\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

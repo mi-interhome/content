@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/",
+                            "label": "Sobre a Interhome"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/perfil-da-empresa/",
+                            "label": "Perfil da empresa"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Perfil da empresa",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eConselho de Administração\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eJörg Herrmann, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eSylvia Epaillard, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eThomas Buschta, Chief Financial Officer (CFO)\u003c/li\u003e\n\u003cli\u003eRoger Müller, Chief Procurement Officer (CPO)\u003c/li\u003e\n\u003cli\u003eMichael Figlestahler, Chief Revenue \u0026amp; Innovation Officer (CRIO)\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e    \u003c/p\u003e\u003ch3\u003eHistória corporativa da Interhome\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003e2022\u003c/strong\u003e\u003cbr\u003eO ano de 2022 ficará na história como um ano recorde nos 57 anos de existência da Interhome Group – com 9 milhões de dormidas e um volume de negócio de 371 milhões de francos suíços (CHF). A ênfase está na expansão contínua da rede de escritórios de serviços locais, que garantem um apoio de qualidade e serviços completos diretamente no destino, tanto para hóspedes como para proprietários. Workation, a combinação de trabalho e de férias, será integrado como um novo recurso e os alojamentos de férias adequados para este fim serão classificados em conformidade. Outros temas centrais são a digitalização e a transição para o turismo sustentável em casas de férias. São lançados vários projetos de proteção climática, são criadas equipas internacionais de sustentabilidade e é assinada a “Declaração de Glasgow sobre Ação Climática no Turismo” da Organização Mundial de Turismo da ONU.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2021\u003c/strong\u003e\u003cbr\u003eO ano de 2021 ficou marcado pela uniformização e racionalização dos processos internos com vista ao futuro. Como parte dessa mudança, a HHD AG decidiu operar sob o nome de Interhome Group. Para clientes diretos, a Interhome Group continuará a estar presente na Alemanha com a marca Interchalet e na Suíça e nos restantes países europeus com a marca Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e2020\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eDepois de um início bem-sucedido na temporada de inverno, o início da temporada de verão foi fortemente afetado pela pandemia do Coronavírus. Os maiores desafios operacionais foram as atualizações diárias sobre as restrições de viagens, não só em relação aos 27 destinos com diferentes regulamentos individuais, em função das regiões, mas também no que diz respeito aos mercados emissores globais.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003cbr\u003eA Interhome, como a outra empresa do grupo, a Interchalet agora é gerenciada em conjunto como ʺHHD AGʺ. Os nomes Interhome e Interchalet continuarão a atuar como marcas no setor de viagens. Além disso, Jörg Herrmann assumirá a direção da HHD AG como CEO.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eA Interhome conseguiu mais um aumento no número de visitantes: ao todo, 730.000 pessoas ficaram hospedadas num apartamento ou moradia de férias Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eA Interhome e a subsidiária do grupo, Interchalet, aproximam-se ao nível de gestão, aproveitando as sinergias para continuarem a crescer. Koni Iten reforma-se e Thomas Stirnimann, CEO do Hotelplan Group, assume o cargo de CEO por um período indeterminado. O número de clientes da Interhome cresce 5%, chegando a 695.000.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003cbr\u003eA Interhome mantém o seu percurso de sucesso. Pela primeira vez na sua história, a empresa consegue encontrar o alojamento ideal para 660.000 pessoas. O valor facturado sobe para 186,6 milhões de francos suíços.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003cbr\u003eA Interhome comemora o seu 50º aniversário. Mais um ano de sucesso confirma o novo rumo de 2014.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003cbr\u003eKoni Iten assume o cargo de CEO. Sob a sua liderança, a empresa alcança os melhores resultados. A ilha das Maurícias começa a fazer parta da oferta de destinos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2013\u003c/strong\u003e\u003cbr\u003eO novo portal de reservas ganha o primeiro prémio na categoria \"Usabilidade\" e o segundo prémio na categoria de \"Eficiência\" no Best of Swiss Web Awards.\u003cbr\u003eA Interhome torna-se a vencedora do teste de portal on-line no Stiftung Warentest. Entre outras coisas, a sua função de pesquisa clara e detalhada é um fator decisivo.\u003cbr\u003eConvertemo-nos no primeiro fornecedor de alojamentos de férias no mundo em língua alemã com uma aplicação para iPad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2012\u003c/strong\u003e\u003cbr\u003eParceria exclusiva com o TripAdvisor, o maior site de viagens do mundo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2011\u003c/strong\u003e\u003cbr\u003eAquisição do líder do mercado alemão Interchalet. São adicionados novos destinos: Israel e Chipre.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2010\u003c/strong\u003e\u003cbr\u003eA página Web é totalmente redesenhada. Novos destinos: Marrocos e El Gouna / Egipto.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2009\u003c/strong\u003e \u003cbr\u003eAbertura de um escritório de vendas na Índia.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008\u003c/strong\u003e\u003cbr\u003eRealização de acordos comerciais nos EUA e na Finlândia.\u003cbr\u003eCriação da VACANDO - plataforma dirigida ao mercado de aluguer de férias não organizado.\u003cbr\u003eRedesenho da Identidade Corporativa e do Design Corporativo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e\u003cbr\u003eA página Web é completamente renovada para facilitar o acesso e aumentar a rapidez na localização das férias dos seus sonhos. Além disso, somos capazes de oferecer ainda mais informações e conselhos. \u003cbr\u003eA Interhome está atualmente presente em quase todos os países europeus, incluindo a Rússia e a Croácia em 2007. Também são estabelecidos acordos comerciais na Dinamarca, Bélgica e Holanda.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e \u003cbr\u003eCom o novo sistema 1to1, a Interhome oferece um serviço ainda melhor, fornecendo aos clientes uma seleção personalizada de propriedades. Todos os clientes são considerados como um convidado.\u003cbr\u003eA Interhome compra os especialistas em férias Casa Club, France Villas e Solemar, com o objetivo de dispor de ofertas exclusivas de moradias na Provença e Toscana.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e \u003cbr\u003eSimon Lehmann, novo presidente da Interhome, assume as rédeas da empresa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2003\u003c/strong\u003e \u003cbr\u003eA Interhome muda-se para os escritórios da Hotelplan para beneficiar de uma infraestrutura partilhada.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2000\u003c/strong\u003e \u003cbr\u003eO sistema de reservas da Interhome liga 75 escritórios locais e 30 parceiros para oferecer um serviço aos clientes mais completo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1998\u003c/strong\u003e \u003cbr\u003eA Interhome é uma das primeiras empresas a tornar-se \"on-line\". Os clientes procuram informações e solicitam folhetos. A reserva on-line será possível a partir de 1999.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1995\u003c/strong\u003e \u003cbr\u003eO produto da Interhome inclui, a partir deste ponto, de 75.000 camas em 11 países - incluindo Alemanha, República Tcheca e Polónia.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1989\u003c/strong\u003e \u003cbr\u003eA Hotelplan, segunda empresa de viagens suíça e subsidiária da Migros, compra a Interhome AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1986\u003c/strong\u003e \u003cbr\u003eSão impressas 2 milhões de cópias dos folhetos, que são distribuídos em 12 países e traduzidos a 8 idiomas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1984\u003c/strong\u003e \u003cbr\u003eO novo logotipo é um pássaro pequeno, que simboliza férias e liberdade. Todos os escritórios da Interhome possuem a mesma identidade corporativa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1980\u003c/strong\u003e \u003cbr\u003eA Interhome é a primeira empresa na área do turismo a implementar um sistema de informação que interliga todas as agências e permite reservas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1977\u003c/strong\u003e \u003cbr\u003eA empresa é renomeada como Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1975-77\u003c/strong\u003e \u003cbr\u003eAs empresas unem-se para formar a Swiss Chalet - Interhome: 105 pessoas em 16 escritórios.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1965\u003c/strong\u003e \u003cbr\u003eA Swiss Chalets foi fundada por dois pioneiros do turismo suíço: Bruno Franzen e Werner Frey.                \u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Segurança no seu alojamento de férias!",
+                    "link": {
+                        "href": "/sobre-a-interhome/seguranca-no-seu-alojamento-de-ferias/",
+                        "label": "Mais informações"
+                    },
+                    "car": "Chegadas individuais",
+                    "cleaning": "Limpeza de qualidade controlada",
+                    "independence": "Liberdade e independência",
+                    "key": "Entrega segura das chaves no local",
+                    "privacy": "Privacidade no seu alojamento de férias",
+                    "support": "Assistência pessoal no local"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Apenas alojamento selecionado e testado",
+                            "subtitle": "A qualidade é a nossa principal prioridade ",
+                            "caption": "Todas as propriedades são verificadas antes da sua chegada, de forma a garantir a melhor estadia possível."
+                        },
+                        {
+                            "title": "Disponibilidade garantida e serviço no local",
+                            "subtitle": "Aproveite ao máximo a nossa experiência",
+                            "caption": "A entrega das chaves é organizada pela nossa atenta equipa. Disponível 24 horas por dia, 7 dias por semana, e nos nossos serviços locais, para ajudar a solucionar todas as suas questões, como por exemplo: conselhos e informações sobre o seu destino de férias e sobre o alojamento reservado."
+                        },
+                        {
+                            "title": "Uma experiência de férias inesquecível",
+                            "subtitle": "Privacidade e liberdade no seu próprio alojamento de férias",
+                            "caption": "Seja o seu próprio chefe, sem horários para comer e com as suas próprias regras, aproveite ao máximo o espaço com todos os seus amigos e familiares."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por quê a Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca foi tão fácil organizar as suas férias perfeitas. Quer explorar novos destinos? Não há melhor maneira de fazê-lo do que numa casa de férias: aproveite a \"dolce vita\" em \u003ca href=\"/italy/\"\u003eItália\u003c/a\u003e, sinta o charme da vida na \u003ca href=\"/france/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e ou o \u003ca href=\"/spain/\"\u003eestilo de vida espanhol\u003c/a\u003e. Inspire-se nas nossas \u003ca href=\"\"\u003eideias de viagens\u003c/a\u003e e faça a sua reserva on-line - de forma rápida, fácil e segura com a Interhome. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberdade, privacidade e espaço na sua casa de férias",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA sua estadia numa moradia ou num apartamento de férias está repleta de vantagens: use o seu tempo exatamente como quiser. Sem perturbações de outros hóspedes ou de colaboradores do hotel, apenas aproveite as suas férias de acordo com as suas próprias regras. Tanto se procura uma \u003ca href=\"/\"\u003eviagem à cidade\u003c/a\u003e, como umas \u003ca href=\"/\"\u003eférias relaxantes com a família\u003c/a\u003e ou amigos. Aproveite o espaço, flexibilidade e liberdade na sua casa de férias. \u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

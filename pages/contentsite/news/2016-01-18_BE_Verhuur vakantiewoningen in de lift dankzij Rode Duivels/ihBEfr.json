@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/actualites/",
+                            "label": "Actualités"
+                        },
+                        {
+                            "href": "/fr/actualites/20160118-befr-interhome-ek2015/",
+                            "label": "La location de maisons de vacances a le vent en poupe grâce aux Diables Rouges"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "La location de maisons de vacances a le vent en poupe grâce aux Diables Rouges",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eLa location de maisons de vacances a le vent en poupe grâce aux Diables Rouges\u003c/h2\u003e\u003cp\u003eAujourd’hui, déjà 26% de réservations de plus et la région de Lyon est complète\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBruxelles, le 18 janvier 2016 – Le Championnat d’Europe de football approche et la passion pour les Diables Rouges est donc relancée. Cela se manifeste clairement dans le nombre de réservations de maisons de vacances à proximité des villes hôtes de l’équipe belge comme Bordeaux, Lyon et Nice. Depuis l’annonce des villes, les réservations des maisons de vacances dans ces régions pour le mois de juin ont augmenté de 26%. C’est ce que révèlent les chiffres d’Interhome, le plus grand offreur de maisons de vacances en Europe. “Les clients ont certainement remarqué que, contrairement aux hôtels dans les régions concernées, nous n’avons pas modifié nos prix pour le Championnat d’Europe”, déclare Thibault Van Look, Manager Commercial pour la Belgique auprès d’Interhome. En plus du prix avantageux, ce sont aussi la convivialité et la sécurité qui rendent les maisons de vacances plus intéressantes. Si vous voulez commencer un été diablement réussi, il faudra se dépêcher car les réservations à Lyon sont déjà complètes et Interhome s’attend à ce que Bordeaux et Nice suivent rapidement cette tendance.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLes Diables Rouges ont la cote et à l’approche du Championnat d’Europe nous nous attendons à ce que de nombreux Belges aillent rendre visite à nos voisins du sud. Depuis l’annonce du calendrier et des villes hôtes, Interhome a enregistré une hausse d’un quart des réservations belges dans les régions autour de Bordeaux, Lyon et Nice, “Les choses sont allées très vite”, selon Thibault Van Look. “Les maisons de vacances à Lyon et dans ses environs ont été réservées en un temps record, de même à Bordeaux et à Nice. Dans ces deux dernières villes, nous disposons d’une offre un peu plus large et il reste donc encore quelques bonnes affaires. Mais il est clair qu’il va falloir se dépêcher”. De plus, les villes hôtes offrent l’avantage qu’elles sont situées dans de magnifiques régions. Après leur match, les supporters à Bordeaux pourront profiter d’un climat doux, d’une gastronomie excellente et une vie nocturne bouillonnante. Lyon se profile plutôt comme une destination de choix pour un Citytrip avec de nombreuses occasions pour faire du shopping et à Nice vous pourrez profiter des températures tropicales dans un centre-ville authentique ainsi que de la merveilleuse Côte d’azur.\u003c/p\u003e\u003cp\u003eSoutenir son équipe en groupe\u003c/p\u003e\u003cp\u003eInterhome constate également que le nombre de personnes par réservation a augmenté depuis l’annonce des villes hôtes de l’Euro 2016. C’est que beaucoup de vacanciers se déplacent en groupe. Le plus grand distributeur de maisons de vacances en Europe constate que ce sont surtout les grandes maisons (8 personnes et plus) qui voient leur popularité augmenter. Pour Thibault Van Look, “Il est évident que la plupart des réservations viennent de groupes d’amis supporters qui souhaitent assister à la folie des Diables depuis les premiers rangs. C’est logique car une maison de vacances est idéale pour séjourner en groupe. Vous pourrez regarder ensemble et en toute convivialité, les autres match du Championnat d’Europe, tous les équipements et services sont à portée de main et coûtent beaucoup moins cher que dans les hôtels(bars) coûteux ”.\u003c/p\u003e\u003cp\u003eMaison de vacances vs hôtel\u003c/p\u003e\u003cp\u003eCe dernier élément ne doit pas être sous-estimé. Contrairement à la plupart des hôtels, Interhome n’augmente pas ses prix pendant le Championnat d’Europe. Cela vous fait économiser de nombreux euros. En effet, en moyenne vous payez 150€ par personne / par semaine pour une maison de vacances dans la région de Bordeaux. C’est le prix que vous auriez payé à l’hôtel pour une seule nuit. Ceux qui souhaitent donc passer un séjour en France pour encourager les Diables Rouges ont tout intérêt à se dépêcher, car dans la région de Lyon, l’offre de maisons de vacances est déjà épuisée et on s’attend à ce que Bordeaux et Nice soient rapidement complets aussi.\u003c/p\u003e\u003cp\u003eL’offre actualisée des maisons de vacances d’Interhome peut être consultée sur ce site.\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"/fr/-/media/Files/press-releases/PB_Interhome_EK2015_FR.pdf?la=fr-BE\"\u003eCommuniqué de presse\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"/fr/idees-vacances/\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité. Qu'importe vos envies...Interhome vous propose 40.000 maisons et appartements de vacances dans 28 pays.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eD'un \u003ca href=\"/fr/chalet/\"\u003echalet à la montagne\u003c/a\u003e à une \u003ca href=\"/fr/villa/piscine/\"\u003evilla avec piscine\u003c/a\u003e ou à un château, nous avons la location qui vous convient. Vous pouvez réserver votre location directement depuis notre site internet. Interhome vous fournit toutes les informations nécessaires avant votre départ et s'occupe du nettoyage dès votre départ. De plus, vous profitez de \u003ca href=\"/fr/a-propos-d-interhome/standards-qualite/\"\u003ela qualité\u003c/a\u003e de nos logements grâce à un système suisse de classification par étoile.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

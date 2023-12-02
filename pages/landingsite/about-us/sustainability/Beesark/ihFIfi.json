@@ -26,48 +26,140 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/mika-on-interhome/",
+                            "label": "Meistä"
+                        },
+                        {
+                            "href": "/mika-on-interhome/kestavyys/",
+                            "label": "Rakasta luontoa- sen suojelu koskee kaikkia"
+                        },
+                        {
+                            "href": "/mika-on-interhome/kestavyys/beesark/",
+                            "label": "Save the bee – save our earth!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Save the bee – save our earth!",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e\"If the bee disappeared off the face of the Earth, man would only have four years left to live. No more bees, no more pollination, no more plants, no more animals, no more man.\" (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group haluaa ottaa johtavaa roolia kestävässä kehityksessä. Olemme sitoutuneet kestävään tulevaisuuden loma-asuntomatkailuun.\u003c/p\u003e\u003cp\u003eOtamme vastuumme vakavasti ja sitoudumme mehiläiskannan suojeluun. Interhome Group on sitoutunut osallistumaan taloudellisesti partnerimme BEESarkin mehiläisten suojeluohjelmaan. Itävaltaan istutetaan 100000m\u003csup\u003e2\u003c/sup\u003e kukkapeltoa. 87.37g CO\u003csub\u003e2\u003c/sub\u003e per m\u003csup\u003e2\u003c/sup\u003e sitoutuu pellon biomassaan ja 72.81g/m\u003csup\u003e2\u003c/sup\u003e happea vapautuu. \u003c/p\u003e\u003cp\u003eLue lisää BEESarkista osoitteessa \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eMehiläisten suojelu suojelee tulevaisuuttamme\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eKukkapellot sisältävät vain alueen kotoperäisten villikukkien siemeniä\u003c/li\u003e\n\u003cli\u003eKasvit on erityisesti valittu alueen ilmastoa, maaperää ja muita kasvutekijöitä huomioiden ja ne ovat erittäin menestyviä luonnollisissa kasvuympäristöissään\u003c/li\u003e\n\u003cli\u003eAlueellista alkuperää olevia sekoituksia tarjotaan eri paikkakunnille\u003c/li\u003e\n\u003cli\u003ePitkäkestoista kukintaa vuosikymmeniksi ja nopeampi kukinta yhdistettynä vuosittaisiin kukintajaksoihin, todellisia katseenvangitsijoita säilyttäen samalla alueellista kasvien geenistöä\u003c/li\u003e\n\u003cli\u003eSuuri ekologinen arvo: sekoitukset sisältävät 20–40 erilaista lajia, jotka toimivat erityisten ja harvinaisten rotujen rehukasveina\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eUutiset\u003c/h3\u003e\u003ch4\u003e11. syyskuuta 2023: Suojele mehiläisiä maapallon tähden!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Groupin kymmenen motivoitunutta jäsentä kuudesta eri maasta lähti junamatkalle Klagenfurtiin, Itävaltaan  päämääränään syventää ymmärrystä luonnon moninaisuudesta ja kunnianhimoisesta mehiläisohjelmastamme.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eKahden viime vuoden ajan Interhome Group on osallistunut BEESark -ohjelmaan Kärtnenissa tukeakseen luonnon moninaisuutta. BEESark valitsee vuosittain yli 35 alkuperäistä kukkalajia tukemaan mehiläispopulaatioita. Paikallinen maanviljelijä Peter Janezic St. Jakob im Rosentalissa valjasti 100 000 m\u003csup\u003e2\u003c/sup\u003e maata näiden monimuotoisten kukkien viljelyyn ja loi mehiläissuojelualueen. Vielä syyskuussa kukkakedot surisivat lukemattomista hyönteisistä.\u003c/p\u003e\u003cp\u003eLiityimme mehiläiskasvatusretkelle, jota ohjasi mehiläisasiantuntija Peter Lautemann Moosburgista saadaksemme syvempää näkemystä mehiläisten elinympäristöstä, käyttäytymisestä ja elinkaaresta. Peter johtaa luomutilaa, jossa on yli 100 mehiläisyhdyskuntaa.\u003c/p\u003e\u003cp\u003eTämä hanke on merkittävä osoitus alueellisen biologisen monimuotoisuuden suojelusta. Kahden vuoden kuluttua BEESark teki maaperätestejä, jotka vahvistivat, että 100 000 neliömetriä kukkivat niityt vähensivät noin 200 tonnia CO\u003csub\u003e2\u003c/sub\u003e-päästöjä. Tämä saavutus on merkittävä askel kohti tavoitettamme vähentää hiilidioksidipäästöjä 50 % vuoteen 2030 mennessä.\u003c/p\u003e\u003cp\u003eOlemme äärettömän kiitollisia BEESarkille heidän erinomaisesta tuestaan ja kumppanuudestaan, ja olemme erittäin ylpeitä tuottavasta yhteistyöstämme.\u003c/p\u003e\u003cp\u003eMehiläiskokemuksemme jälkeen osallistuimme vapaaehtoistyöhön. Voit lukea siitä lisää klikkaamalla täältä: \u003ca href=\"/mika-on-interhome/kestavyys/vapaaehtoistyoe/\"\u003eInterhome | vapaaehtoistyö\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ch4\u003e     \u003c/h4\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003e11 heinäkuuta 2022: Mehiläisparatiisi Interhome Group kukkivilla niityillä\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group on kylvänyt yhteistyökumppaninsa BEESarkin toimesta 100 000 m\u003csup\u003e2\u003c/sup\u003e kukkaniittyjä, jotka edistävät merkittävästi luonnon monimuotoisuutta. Lena Unterkircher ja Saskia Weber vierailivat mehiläisniityillä Kärntenissä Itävallassa ja ovat innostuneita toteutuksesta.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBEESarkin perustaja Matthias Breznik on omaperäinen. Hänen uransa kulkee robottiohjelmoinnin kautta hypnoosivalmentajasta ympäristökonsulttina maanviljelijäksi. BEESark toteuttaa yksilöllisiä ilmastonsuojeluhankkeita, joissa alueellinen kestävyys nousee uudelle tasolle. Interhome Group puolesta BEESark palkkasi luomuviljelijä Peter Janezicin, joka muutti 1/6 peltoalastaan kukkaniityiksi. Huolellisen maaperän testauksen jälkeen tänne istutettiin maissin tai perunoiden sijaan lukemattomia alueellisia kukkalajeja. Nämä kaksi peltoa sijaitsevat idyllisen Sankt Jakob im Rosenthalin kylän ympärillä Kärntenissä. Täällä keväällä istutetut kukat kukkivat, ja mehiläiset ja luonnonvaraiset mehiläiset vierailevat ja pölyttävät niitä aktiivisesti. Paikallinen mehiläishoitaja Franz Fugger on antanut pesänsä käyttöön niityillä. Täällä aktiivisista mehiläisistä 75 % on vakiintuneita hunaja- tai kotilomehiläisiä 25 % on luonnonvaraisia mehiläisiä.\u003c/p\u003e\u003cp\u003eMehiläishoitaja Franz kertoi meille iloisena, että hän on jo voittanut palkinnon näiltä niityiltä peräisin olevasta hunajastaan, sillä hänen hunajansa on 100-prosenttisesti vapaa saasteista. Maanviljelijä Peteristä mehiläistarhaajaan ja BEESarkin työntekijöihin, kaikki tekevät hiki- ja sydäntyötä kylvääkseen ja ylläpitääkseen kukkivia niittyjä ja tarjotakseen mehiläisille paratiisin. Pelloilla tapahtuvaa vilkasta huminaa ja surinaa on ilo katsella ja kuunnella. Mehiläiset ja monet muut hyönteiset tuntevat olonsa täällä hyvin kotoisaksi ja nauttivat luonnosta täysillä. Ensi kuussa maanviljelijä tekee ensimmäisen leikkauksen, jotta kukkaniitty kasvaa jälleen kaikessa komeudessaan ja mehiläiset löytävät jälleen tuoreita kukkia. Syksyllä mehiläistarhaaja talvehtii mehiläiset; luonnonvaraisten mehiläisten kohdalla vain kantava kuningatar voi surista jälleen kukkaniityillä vuonna 2023.\u003c/p\u003e\u003cp\u003eVarmistaakseen, että tämä tärkeä panos peltojen biologiseen monimuotoisuuteen on mitattavissa, BEESark on kehittänyt oman ohjelmistonsa, jolla voidaan laskea tarkasti kukkivien niittyjen hiilidioksiditase. BEESarkilla on sekä TÜV-auditointi että ISO 9001 -sertifikaatti.\u003c/p\u003e\u003cp\u003eLenalle ja Saskialle oli erittäin vaikuttavaa ja hienoa nähdä ja tuntea, että Interhomen investoinnit ovat päätyneet 100-prosenttisesti oikeisiin käsiin BEESarkissa. BEESark on kumppani, joka toteuttaa kestävät tavoitteemme juuri haluamallamme tavalla. Vierailumme paikan päällä on lujittanut hyvää pohjaa tulevalle yhteistyölle.\u003c/p\u003e\u003cp\u003eOdotamme jo innolla lisää raportteja kukkivista niityistämme ja uutta, fantastisen värikästä kenttää vuonna 2023.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/mika-on-interhome/kestavyys/\"\u003e\u0026gt;\u0026gt; Lue lisää vastuullisuuden projekteistamme, joita Interhome Group tukee\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkeintä",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen - vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

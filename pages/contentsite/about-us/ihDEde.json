@@ -26,13 +26,26 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ueber-interhome/",
+                            "label": "Über uns"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +54,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Über uns",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eBuchen Sie rund 40.000 qualitätsgeprüfte Ferienhäuser und Ferienwohnungen online\u003c/h3\u003e\u003cp\u003eInterhome bietet rund 40.000 individuelle Ferienhäuser und Ferienwohnungen in 28 Ländern. Dabei übernimmt Interhome sowohl für den Eigentümer der Ferienunterkunft als auch für den Feriengast die komplette Organisation und sichert zuverlässige Qualitätsstandards anhand eines europaweit einheitlichen Sterne-Systems. Das umfassende Angebot deckt alle Ferienhaus-Wünsche ab: ob Meer oder Berge, Stadt oder Land, Appartement oder Villa. Bei Interhome finden Sie ganz sicher Ihr nächstes Urlaubs-Zuhause! \u003cbr\u003e\u003ca href=\"/\"\u003eJetzt Ihr perfektes Ferienhaus finden\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eInterhome Mitarbeiter mit Know-How: Unser Team berät Sie gerne.\u003c/h3\u003e\u003cp\u003eUnser Team berät Sie gerne 24 Stunden am Tag, 7 Tage die Woche: bei der Buchung, bei Fragen unterwegs oder im Urlaub. Rufen Sie uns unverbindlich an. Unsere Ferienberater helfen Ihnen gerne, die perfekten Ferien für Sie zu finden. \u003cbr\u003e\u003ca href=\"/kontakt/\"\u003eFragen? Kontaktieren Sie uns\u003c/a\u003e\u003c/p\u003e\u003ch3\u003ePersönlicher Service vor Ort in der Feriendestination\u003c/h3\u003e\u003cp\u003eDie Nähe zum Gast ist eine Stärke von Interhome. Vor Ort empfangen und betreuen Interhome-Mitarbeiter, Partneragenturen und private Schlüsselhalter die Feriengäste und bieten Ihnen einen umfangreichen Service. Dank der lokalen Präsenz genießen Interhome-Gäste vor Ort einfache Prozesse, Unterstützung bei der Organisation von Aktivitäten sowie eine Ansprechperson in allen gängigen Sprachen. \u003cbr\u003e\u003ca href=\"/service-vor-ort/\"\u003eService vor Ort\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eQualitätsanbieter von Ferienwohnungen und Ferienhäusern seit 1965\u003c/h3\u003e\u003cp\u003eInterhome wurde 1965 von den beiden Tourismuspionieren Bruno Franzen und Werner Frey gegründet, blickt auf viele Jahre Erfahrung in der Ferienhaus-Vermittlung zurück und ist heute führender Qualitätsanbieter von Ferienwohnungen und Ferienhäusern weltweit. Interhome besteht aus 15 Ländergesellschaften. Die Dachgesellschaft Interhome Group (HHD AG), domiziliert in Glattbrugg/Zürich, wird zu 100% von der MTCH AG (Hotelplan Group) gehalten. Diese wiederum ist zu 100% im Besitz der Migros, der grössten Detailhandelsorganisation der Schweiz mit Sitz in Zürich. \u003cbr\u003e\u003ca href=\"/ueber-interhome/company-profile/\"\u003eZum Unternehmensprofil\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +74,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

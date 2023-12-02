@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2023/",
+                            "label": "Medienmitteilungen 2023"
+                        },
+                        {
+                            "href": "/news/2023/2023_09_22_Winterwunderland/",
+                            "label": "22.09.2023: Bei Interhome die passende Urlaubsunterkunft für eine entspannte Winterauszeit buchen "
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "22.09.2023: Bei Interhome die passende Urlaubsunterkunft für eine entspannte Winterauszeit buchen ",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eInnsbruck, 22.09.2023 | \u003cstrong\u003eEine Ferienwohnung mitten im Schigebiet für passionierte Schifahrerinnen und Schifahrer, ein modernes Komfortchalet mit Frühstücksservice für Genussurlaubende oder ein familienfreundliches Ferienhaus in Alleinlage? Bei Interhome ist alles möglich. Aus einem umfangreichen Portfolio können Urlaubsgäste ihre persönliche Traumunterkunft für die nächste Winterauszeit im Schnee wählen. Denn der Spezialist für Urlaub im Ferienhaus hat für die unterschiedlichsten individuellen Bedürfnisse und Wünsche das ideale Urlaubs-Zuhause, um vor Ort den Zauber der Wintertage zu genießen.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eItalien | Dolomiten: Winterdomizil im Fassatal\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41511/2259624-1-ger-AT/Interhome_IT3885.647.3.jpg\" width=\"2048\" height=\"1536\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"42542\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDie 3-Zimmer-Wohnung \u003cem\u003eCecilia\u003c/em\u003e bietet mit 58 m\u003csup\u003e2\u003c/sup\u003e auf zwei Etagen Komfort für die gesamte Familie. Bis zu vier Personen finden in der Wohnung Platz, die mit allem ausgestattet ist, was das Herz begehrt: So sorgt nicht nur die gemütliche Einrichtung mit vielen Holzelementen, sondern auch eine voll ausgestattete Wohnküche mit Blick auf die schneebedeckten Berggipfel für die richtige Wohlfühlatmosphäre und Winterfeeling pur. Das lebhafte und nur 4 km entfernte Canazei ist ein idealer Ausgangspunkt für Wanderungen und Skitouren. Bekannte Skigebiete wie Col Rodella und Belvedere liegen in unmittelbarer Nähe. Der hauseigene Skiraum verfügt über genügend Platz, um nach einem Tag an der frischen Winterluft die Ausrüstung sicher unterzubringen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp:\u003c/strong\u003e \u003ca href=\"/italien/dolomiten/campitello/ferienwohnung-cecilia-cpo396-it3885.647.3/?season=winter\" target=\"_blank\"\u003e\u003cstrong\u003e\u003cem\u003eFerienwohnung „Cecilia“ ***\u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e für bis zu vier Personen, Italien, Dolomiten, Campitello, Objekt-Nr. IT3885.647.3, sieben Nächte ab 768,00 €*\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eÖsterreich | Salzburg: Modernes Chalet mit Bergblick\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41510/2259619-1-ger-AT/Interhome_AT5453.630.4.jpg\" width=\"2048\" height=\"1536\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42541\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDas geschmackvoll und modern eingerichtete Ferienhaus \u003cem\u003eWaldkauz\u003c/em\u003e im beliebten Skigebiet Werfenweng versprüht mit liebevoll gewählten Einrichtungsdetails den urigen Charme eines Bergchalets, ohne auf moderne Annehmlichkeiten zu verzichten. Jedes der beiden Schlafzimmer verfügt über ein eigenes Badezimmer, sodass sich alle vier Gäste in Ruhe und ohne Hektik frisch machen können. Die hochwertige Küche und der große Essbereich laden zum ausgiebigen Verweilen ein. Die hauseigene Sauna, der Holzboden mit Fußbodenheizung und ein Schwedenofen sorgen für kuschelig-warme Gemütlichkeit an winterlichen Tagen. Besonderes Highlight: Zur morgendlichen Stärkung gibt es täglich einen reich gefüllten Frühstückskorb für die gebuchte Personenanzahl dazu. Und wer beim gemeinsamen Frühstück die perfekte Aussicht auf die Berge sucht, findet diese dank des Panoramablicks auf verschneite Almwiesen, schroffe Felsen und schneebedeckte Hänge. Diesen Anblick darf auch der vierbeinige Gast genießen, der hier herzlich willkommen ist.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp: \u003c/strong\u003e\u003ca href=\"/oesterreich/pongau/werfenweng/ferienhaus-waldkauz-at5453.630.4/?season=winter\" target=\"_blank\"\u003e\u003cstrong\u003e\u003cem\u003eFerienhaus „Waldkauz“ ****\u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e für bis zu vier Personen, Österreich, Pongau, Werfenweng, Objekt-Nr. AT5453.630.4, sieben Nächte ab 2.192,00 €*\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eÖsterreich | Tirol:  Ruhe und Entspannung zwischen Tälern und Bergen\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41509/2259614-1-ger-AT/Interhome_AT6272.626.2.jpg\" width=\"215\" height=\"164\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"42540\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDie Ferienwohnung Luxner befindet sich in ruhiger, sonniger Lage am Hang hoch über dem Zillertal. Mit 65 m\u003csup\u003e2\u003c/sup\u003e im dritten Stock des Hauses bietet die Ferienwohnung eine wunderbare Aussicht und Erholung pur. Die Lage nahe der Mittelstation des Schigebietes Kaltenbach ist idealer Ausgangspunkt für herrliche Tage auf den Pisten des Schigebietes. Außerdem kann man bei guter Schneelage direkt bis zum Haus mit den Schiern fahren. Genießen Sie in der verschneiten Umgebung, nur 300 m von den Pisten entfernt, einen tollen Urlaub bei der Gastgeberfamilie.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp: \u003c/strong\u003e\u003ca href=\"/oesterreich/zillertal/kaltenbach/ferienwohnung-luxner-kab133-at6272.626.2/?season=winter\" target=\"_blank\"\u003e\u003cstrong\u003e\u003cem\u003eFerienwohnung „Luxner“***\u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e für bis zu sechs Personen, Österreich, Tirol, Zillertal, Objekt-Nr. AT6272.626.2, sieben Nächte ab 633,00 €*\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSchweiz | Wallis: Urlaub wie auf Wolken\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41508/2259609-1-ger-AT/Interhome_CH1961.686.1.jpg\" width=\"2048\" height=\"1536\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42539\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDas 80 m\u003csup\u003e2\u003c/sup\u003e große Chalet mit drei Zimmern macht seinem Namen \u003cem\u003ePapillon\u003c/em\u003e alle Ehre, denn dank des Panoramafensters im Wohn- und Essbereich hat man das Gefühl, wie ein Schmetterling über den Bergen zu schweben. Auf zwei Etagen befindet sich ein geschmackvoll eingerichteter Wohlfühlort für bis zu fünf Personen, der mit einer eigenen Sauna abgerundet wird. Die große Terrasse Richtung Süden und Osten eignet sich hervorragend, um die winterliche Sonne mit einem wärmenden Getränk in der Hand zu genießen. Der Naturgarten des Zuhauses auf Zeit lädt nicht nur Zwei-, sondern auch Vierbeiner zum Toben im Schnee ein. Die Lage im sympathischen Bergdorf auf 1.365 m Höhe sowie ein ausführliches Sport- und Freizeitangebot in der direkten Umgebung sorgen zudem für Winterfreude pur.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome-Tipp: \u003c/strong\u003e\u003ca href=\"/schweiz/wallis/nendaz/ferienhaus-papillon-ch1961.686.1/?season=winter\" target=\"_blank\"\u003e\u003cstrong\u003e\u003cem\u003eFerienhaus „Papillon“ ****\u003c/em\u003e\u003c/strong\u003e\u003c/a\u003e für bis zu fünf Personen, Schweiz, Wallis, Nendaz, Objekt-Nr. CH1961.686.1, sieben Nächte ab 1.785,00 €*\u003c/p\u003e\u003cp\u003e\u003cem\u003e* \u003c/em\u003e\u003cem\u003eggf. zuzüglich Nebenkosten\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2259639-ger-AT/230922_Medienmitteilung_Interhome_Winterkatalog%2023_24.pdf\" target=\"_blank\"\u003e\u003cem\u003eVollständige Medienmitteilung als PDF herunterladen \u0026gt;\u0026gt;\u003c/em\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e \u003c/em\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/news/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/fr/news/2022/",
+                            "label": "Presse 2022"
+                        },
+                        {
+                            "href": "/fr/news/2022/20220929-Nouvel-été-record-pour-Interhome-en-Suisse/",
+                            "label": "29.9.2022: Nouvel été record pour Interhome en Suisse"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "29.9.2022: Nouvel été record pour Interhome en Suisse",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eInterhome dépasse une nouvelle fois les chiffres record de 2021 pour les réservations d’appartements et de maisons de vacances en Suisse. Le dernier rapport publié par le loueur suisse de logements de vacances montre par ailleurs que la Suisse reste toujours une destination de vacances plébiscitée, que les petits séjours ont la cote et que la clientèle étrangère est de retour.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNouvel été record pour Interhome en Suisse. Après une saison estivale 2021 (1\u003csup\u003eer\u003c/sup\u003e mai au 31 août) des superlatifs dans l’histoire d’Interhome, le nombre de réservations a, une nouvelle fois, explosé cet été en Suisse. Jamais autant de clientes et de clients n’avaient passé leurs vacances dans un appartement ou une maison de location en Suisse comme cet été. «D’une part, notre clientèle suisse a préféré malgré tout passer ses vacances d’été dans le pays. Et ce, même si aucune restriction de voyage ne touchait les pays gérés sous portefeuille Interhome. D’autre part, la clientèle étrangère est revenue en Suisse», explique Roger Müller, Country Manager Interhome Suisse. Notons que la saison d’automne semble suivre cette tendance (1\u003csup\u003eer\u003c/sup\u003e septembre au 31 octobre 2022), montrant ainsi que les séjours d’agrément en Suisse sont prisés et que les hôtes étrangers apprécient beaucoup notre pays comme destination de vacances.\u003c/p\u003e\u003cp\u003eUn séjour en appartement ou en maison de vacances est également très apprécié dans le reste de l’Europe. Selon les estimations actuelles, Interhome Group pourra clôturer l’exercice en cours (1\u003csup\u003eer\u003c/sup\u003e novembre 2021 au 31 octobre 2022) à un niveau comparable à celui de 2021.\u003c/p\u003e\u003cp\u003e    \u003c/p\u003e\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eRétrospective Suisse – Été 2022\u003c/h2\u003e\u003cp\u003eRemarque: le rapport sur les logements de vacances établit un comparatif entre les chiffres de 2019 (pré-pandémie) et ceux de 2022, dans la mesure où le dernier rapport a été publié en 2019.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa Suisse a la cote suite à la pandémie\u003c/strong\u003e\u003cbr\u003eSi l’on compare les 3 destinations les plus plébiscitées par la clientèle suisse d’Interhome avant et après la pandémie, on obtient un résultat quasiment identique. La Suisse est largement gagnante, grappillant même quelques points supplémentaires avec 62,4% d’opinions favorables comme destination de vacances dans un logement en location cet été (2019: 49,5%). L’Italie (14,2%) et la France (12%) occupent les deuxième et troisième places comme destinations préférées pour les vacances d’été de la clientèle helvétique.\u003c/p\u003e\u003cp\u003eCet été, le Valais était la destination de prédilection pour les vacances, avec 19,7%, tout comme en 2019 (17,8%). Mais le Tessin a gagné du terrain et, à 19,3%, est presque aussi populaire que son voisin cantonal (2019: 14,6%). Une hausse qui s’explique notamment par les 20 nouveaux appartements sis dans les LocTowers, à Locarno. On notera un changement à la troisième place: avec 9,1%, l’Oberland bernois rejoint le podium (il ne faisait pas partie des 5 premiers en 2019). Cette année-là, la place était occupée par le canton des Grisons. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRetour de la clientèle américaine\u003c/strong\u003e\u003cbr\u003eEn tête de la liste des 3 premiers pays de provenance de la clientèle Interhome, on trouve la Suisse (45,3%), l’Allemagne (13,7%) et la Hollande (7,4%). Alors que la crise sanitaire avait tenu éloignée la clientèle américaine, elle a fait son grand retour cet été en venant passer ses vacances en Suisse (2022: 4,2%, 2019: 5,7%). Cependant, un nombre accru de Français (5%) a loué un appartement de vacances en Suisse, dépassant celui des Américains.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHausse des courts séjours\u003c/strong\u003e\u003cbr\u003eCet été, 48% des clients suisses (contre 51% en 2019) ont loué un logement de vacances pour un séjour de 5 à 7 jours. 27,5% d’entre eux (soit plus qu’avant la pandémie, 21% en 2019) ont séjourné entre 1 et 4 jours dans une maison ou un appartement de vacances. Ce chiffre traduit la popularité croissante des courts séjours en été. Les longs séjours (entre 8 et 14 jours) accusent un fléchissement de -3,8%.\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLégère hausse des exigences de qualité\u003c/strong\u003e\u003cbr\u003eDurant cette saison estivale, nos compatriotes ont opté pour davantage de qualité. Plus de la moitié des clientes et clients suisses ont loué un hébergement 3 étoiles, soit 52,7%, contre 55,3% en 2019. Qui plus est, la moyenne des appartements de vacances 4 étoiles a grimpé à 30,5% (contre 25,8% l’an dernier).\u003c/p\u003e\u003ca name=\"eztoc_2_1\" id=\"eztoc_2_1\"\u003e\u003c/a\u003e\u003ch2\u003ePerspective Suisse – Automne 2022\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eVoyants au vert pour l’automne suisse\u003c/strong\u003e\u003cbr\u003eLa majorité de la clientèle helvétique (59,1%) compte passer ses congés d’automne dans un appartement ou une maison de vacances en Suisse. Tout comme cet été, le Valais (16,7%), le Tessin (15,8%) et l’Oberland bernois (14,6%) ont les faveurs du public. La Suisse est suivie par l’Italie (18,1%) ou la France (10,3%) en deuxième et troisième place. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa semaine de congé fait ses preuves\u003c/strong\u003e\u003cbr\u003eLa durée des séjours cet automne sera comparable à cet été. En effet, près de la moitié des clientes et clients suisses (48,8%) d’Interhome Group compte passer entre 5 et 7 nuits dans le logement loué. Environ un quart d’entre eux fera un court séjour de 1 à 4 nuits (25,5%), suivis par 22,6% ayant opté pour un séjour de 8 à 14 jours.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrimauté de la qualité cet automne\u003c/strong\u003e\u003cbr\u003eLa clientèle suisse mise davantage sur la qualité qu’en été: 39,5% ont réservé un hébergement 4 étoiles. Mais ce sont toujours les maisons de vacances 3 étoiles qui sont les plus appréciées avec 46,1%.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLes étrangers aiment la Suisse\u003c/strong\u003e\u003cbr\u003eCet automne, les maisons et appartements de vacances en Suisse accueilleront principalement une clientèle indigène (52,2%), mais aussi allemande (13,4%) et hollandaise (5,5%). Quant à nos voisins français, ils préfèrent passer l’été (5%) que l’automne (3,2%) en Suisse. Autre note réjouissante: les Américains restent fidèles à notre pays en automne, avec 4,6% de réservations.   \u003c/p\u003e\u003cp\u003e     \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2182491-fre-CH/2022-09-29_Nouvel%20%C3%A9t%C3%A9%20record%20pour%20Interhome%20en%20Suisse.pdf\" target=\"_blank\"\u003eTélécharger le communiqué de presse complet au format PDF \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2182481-fre-CH/2022-09-29_Ferienhausreport_F.pdf\" target=\"_blank\"\u003eTélécharger le rapport sur les locations de vacances suisse \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"\"\u003eTélécharger le rapport sur les locations de vacances international (en anglais) \u0026gt;\u0026gt;\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,13 +26,26 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/o-interhome/",
+                            "label": "O Interhome"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +54,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "O Interhome",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eRezervujte si některý z více než 40 000 prověřených rekreačních domů a apartmánů online\u003c/h3\u003e\u003cp\u003eInterhome pronajímá více než 40.000 rekreačních domů a apartmánů ve 28 zemích, které uspokojí prakticky každé individuální přání: dovolená na horách i u moře, pobyt ve městě či na venkově, ubytování v moderním apartmánu, historickém zámku nebo v luxusní vile s bazénem. Služby Interhome zahrnují zpracování celého rezervačního procesu - od objednávky přes platbu, předání klíčů, až po závěrečný úklid. Díky přísnému systému hodnocení hvězdičkami si navíc můžete být jisti, že rezervované ubytování bude dosahovat standardu, který očekáváte. \u003cbr\u003e\u003ca href=\"\"\u003eNajděte svůj ideální rekreační dům či apartmán\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eNaše zákaznické centrum je Vám k dispozici 24 hodin denně, 7 dní v týdnu\u003c/h3\u003e\u003cp\u003eInterhome je Vám nepřetržitě k dispozici, tým našich cestovních poradců hovořících mnoha jazyky zastihnete telefonicky 24 hodin denně, 7 dní v týdnu. Zavolejte nám kdykoli a my Vám rádi zodpovíme Vaše dotazy nebo pomůžeme s rezervací rekreačního objektu. \u003cbr\u003e\u003ca href=\"/kontakty/\"\u003eMáte dotazy? Kontaktujte nás\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eOsobní poradenství a servis ve Vaší prázdninové destinaci\u003c/h3\u003e\u003cp\u003eJednou z hlavních předností Interhome je, že jsme vždy tam, kde nás potřebujete. Zaměstnanci Interhome, partnerské agentury nebo soukromí držitelé klíčů Vás přivítají na místě, díky znalosti prostředí Vám mohou pomoci při plánování aktivit v dané lokalitě a zároveň jsou Vám k dispozici po celou dobu Vašeho pobytu.\u003cbr\u003e\u003ca href=\"/servis-na-miste/\"\u003eOsobní servis v místě\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eŠvýcarská kvalita rekreačních domů a apartmánů již od roku 1965\u003c/h3\u003e\u003cp\u003eSpolečnost Interhome byla založena roku 1965 ve Švýcarsku a s hrdostí se ohlíží za mnoha úspěšnými dekádami a zkušenostmi získanými v oblasti rekreačního pronájmu. V současné době je Interhome předním evropským poskytovatelem kvalitních rekreačních domů a apartmánů. Skládá se z 15 regionálních společností. Mateřskou společnost Interhome Group (HHD AG), se sídlem ve švýcarském Curychu/Glattbrugg, vlastní ze 100 % společnost MTCH AG (Hotelplan Group) a 100% vlastníkem této společnosti je Migros – největší švýcarská maloobchodní společnost se sídlem v Curychu. Švýcarská kvalita je zárukou Vaší spokojenosti s našimi službami. \u003cbr\u003e\u003ca href=\"/o-interhome/profil-firmy/\"\u003eO společnosti\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +74,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

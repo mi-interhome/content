@@ -26,83 +26,149 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_holiday_ideas_2021_22/2276918-1-eng-XX/Header_1200x410_IH_holiday_ideas_2021_22.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspirace/",
+                            "label": "Bezpečná a příjemná dovolená – objevte naše prázdninové nápady"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Bezpečná a příjemná dovolená – objevte naše prázdninové nápady",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eNechte se inspirovat našimi tipy a nápady pro Vaši dovolenou a objevte perfektní rekreační dům nebo apartmán dle Vašich představ. Jednoduše zvolte dovolenou bez kompromisů, s větším prostorem a volností než v hotelu.\u003c/p\u003e\u003cp\u003eNabídka Interhome pokrývá všechna osobní přání a potřeby. Na výběr máte mezi prostorným rekreačním domem s bazénem, vilou u moře, útulnou chatou na horách, samostatným rekreačním domem jako ideálním útočištěm v přírodě nebo praktickým rekreačním apartmánem přímo v centru města.\u003c/p\u003e\u003cp\u003eZde určitě najdete tu správnou inspiraci pro Vaši příští dovolenou.\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eProto je pro Vás dovolená v rekreačním domě nebo apartmánu tou správnou volbou:\u003c/h4\u003e\u003cp\u003eDovolená v rekreačním domě znamená svobodu a nezávislost začínající Vaším individuálním příjezdem vlastním autem.\u003c/p\u003e\u003cp\u003eBuďte svým vlastním pánem a užijte si nerušeně soukromí.\u003c/p\u003e\u003cp\u003eNemusíte sdílet ubytování a máte možnost se o sebe postarat sami.\u003c/p\u003e\u003cp\u003eVytvořte si svou vlastní dovolenou, aniž byste postrádali veškerý komfort, kvalitu a bezpečí domova.\u003c/p\u003e\u003cp\u003eNa dovolené relaxujte: jste v dobrých rukou.\u003c/p\u003e\u003cp\u003eVyužijte na maximum osobní asistenci a bezpečné a bezproblémové předání klíčů.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/\" target=\"_blank\"\u003e\u0026gt;\u0026gt; Takto jste ve svém rekreačním domě v bezpečí. Více informací zde\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Dovolená v České republice – relaxace v okamžiku",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eKratší a méně komlikovaná cesta, stejně jako známý jazyk a měna – o to více času a prázdninového rozpočtu budete mít na to, abyste si užili dovolenou v České republice. Odpočiňte si od každodenního života i třeba jen na kratší čas, s Interhome \u003cstrong\u003ejsou možné pobyty i na pár nocí\u003c/strong\u003e. Rovněž stojí za to podívat se na naše \u003ca href=\"/ceska-republika/last-minute/\"\u003elast minute nabídky\u003c/a\u003e, nebo, pokud plánujete dlouhodoběji dopředu, projít si nabídku rekreačního ubytování se \u003ca href=\"/ceska-republika/vcasna-rezervace/\"\u003eslevou za včasnou rezervaci\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eNyní je čas dát si pauzu od každodenního života a objevovat  ty nejkrásnější regiony naší země z bezpečného zázemí rekreační chaty, chalupy nebo apartmánu!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Zimní dovolená",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 11,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Letní dovolená",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 13,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Další nápady na dovolenou",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 14,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
             },
             {
                 "id": 15,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
             },
             {
                 "id": 16,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

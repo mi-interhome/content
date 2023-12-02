@@ -26,13 +26,26 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/kontakt/",
+                            "label": "Kontakt "
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +54,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Kontakt ",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eFür weitere Fragen, eine Beratung oder Buchung stehen wir Ihnen gerne zur Verfügung. Wenn Sie unseren Kundenservice kontaktieren oder eine Beanstandung melden möchten, finden Sie alle relevanten Informationen unter \u003ca href=\"/kundenservice/\"\u003eKundenservice\u003c/a\u003e.\u003c/p\u003e\u003ch3\u003eHotline: 24h / 7 Tage\u003c/h3\u003e\u003cp\u003eBuchung / Information \u003cbr\u003e\u003cstrong\u003eTelefon:\u003c/strong\u003e +49 2421 12 20\u003c/p\u003e\u003cp\u003eFür alle anderen Anfragen informieren Sie sich bitte auf unserer Webseite \u003ca href=\"/\"\u003ewww.interhome.de\u003c/a\u003e oder schreiben uns einmalig eine Email an \u003ca href=\"mailto:info.de@interhome.group\"\u003einfo@interhome.de\u003c/a\u003e, welche wir so schnell wie möglich bearbeiten werden. Eventuelle Verzögerungen bitten wir zu entschuldigen. \u003c/p\u003e\u003cp\u003eWir danken Ihnen für Ihr Verständnis und Ihre Geduld. \u003c/p\u003e\u003cp\u003eDieser Internetauftritt wird von der HHD GmbH betrieben. Bei Fragen zum Internetauftritt können Sie sich unter den folgenden Kontaktmöglichkeiten an die HHD GmbH wenden:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003eHHD GmbH\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eHeinrich-von-Stephan-Str. 25\u003cbr\u003eD-79100 Freiburg\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003eTelefon:\u003c/strong\u003e\u003c/strong\u003e +49 2421 12 20\u003cbr\u003e\u003cstrong\u003e\u003cstrong\u003eE-Mail:\u003c/strong\u003e \u003c/strong\u003e\u003ca href=\"mailto:info.de@interhome.group\"\u003einfo@interhome.de\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eGeschäftsführung:\u003c/strong\u003e Jörg Herrmann, Michael Figlestahler\u003cbr\u003e\u003cstrong\u003eHandelsregister:\u003c/strong\u003e HRB 1149 Freiburg\u003cbr\u003e\u003cstrong\u003eSteuernummer:\u003c/strong\u003e DE 194005474\u003c/p\u003e\u003cp\u003e********************************\u003c/p\u003e\u003ch3\u003eAnsprechpartner für Reisebüros und Vertriebspartner\u003c/h3\u003e\u003cp\u003eUnsere Serviceline für alle Fragen rund um die Buchung unserer Produkte:\u003cbr\u003eTel: +49 (0)761 2100 100\u003cbr\u003eMontag - Freitag: 10:00 - 12:00 Uhr und 14:00 - 17:00 Uhr\u003cbr\u003eE-Mail: \u003ca href=\"mailto:reisebuero@interhome.group\"\u003ereisebuero@interhome.group\u003c/a\u003e\u003c/p\u003e\u003cp\u003eFür alle Fragen zur Zusammenarbeit:\u003cbr\u003eTel: +49 (0)761 2100 750\u003cbr\u003eE-Mail: \u003ca href=\"mailto:partnercare@interhome.group\"\u003epartnercare@interhome.group\u003c/a\u003e\u003c/p\u003e\u003cp\u003e********************************\u003c/p\u003e\u003ch3\u003eSie möchten mit uns in die erfolgreiche Vermietung Ihrer Ferienimmobilie starten?\u003c/h3\u003e\u003cp\u003eBesuchen Sie unser \u003ca href=\"https://www.interhome.group/de-de/myhome\" target=\"_blank\"\u003eEigentümerportal \u0026gt;\u0026gt;\u003c/a\u003e.\u003c/p\u003e\u003cp\u003e********************************\u003c/p\u003e\u003ch3\u003eDatenschutzkoordinator für HHD AG\u003c/h3\u003e\u003cp\u003eAndreas Benz\u003cbr\u003e\u003ca href=\"mailto:DSB@interhome.com\"\u003eDSB@interhome.com\u003c/a\u003e oder \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003eVertreter gem. Art. 27 DSGVO\u003cbr\u003eRechtsanwalt Prof. Clemens Pustejovsky\u003cbr\u003e\u003ca href=\"mailto:DSB@interchalet.com\"\u003eDSB@interchalet.com\u003c/a\u003e oder \u003ca href=\"mailto:DPO@interchalet.com\"\u003eDPO@interchalet.com\u003c/a\u003e\u003cbr\u003eWallstr. 6, D-79098 Freiburg, Tel. +4976172168680\u003c/p\u003e\u003cp\u003e********************************\u003c/p\u003e\u003ch3\u003eReiseveranstalter\u003c/h3\u003e\u003cp\u003eDie hier angebotenen Ferienobjekte werden von der HHD AG vermietet:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHHD AG\u003c/strong\u003e\u003cbr\u003eSägereistrasse 20 \u003cbr\u003eCH 8152 Glattbrugg\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +74,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

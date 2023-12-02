@@ -26,48 +26,140 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/aboutus/",
+                            "label": "About us"
+                        },
+                        {
+                            "href": "/aboutus/sustainability/",
+                            "label": "Love nature – conservation concerns all"
+                        },
+                        {
+                            "href": "/aboutus/sustainability/beesark/",
+                            "label": "Save the bee – save our earth!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Save the bee – save our earth!",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e\"If the bee disappeared off the face of the Earth, man would only have four years left to live. No more bees, no more pollination, no more plants, no more animals, no more man.\" (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group is a leading example in sustainability. We are continuously committed to a sustainable holiday home tourism for the future.\u003c/p\u003e\u003cp\u003eWe take our responsibility seriously and are committed to the conservation of bee populations. Interhome Group is committed to contributing financially to the bee conservation programme of our partner BEESark. 100’000 m\u003csup\u003e2\u003c/sup\u003e flowering fields will be planted in Austria. Per m\u003csup\u003e2\u003c/sup\u003e 87.37g of CO\u003csub\u003e2\u003c/sub\u003e are captured in a field and 72.81g/m\u003csup\u003e2\u003c/sup\u003e of oxygen are released.\u003c/p\u003e\u003cp\u003eFind more information on BEESark at \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eProtecting bees preserves our future\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eThe flower fields with regionally native plants contain only seeds of wild flowers harvested in the region\u003c/li\u003e\n\u003cli\u003eThese plants are optimally adjusted to the climate, soil and other factors in the region and are competitive in their natural conditions\u003c/li\u003e\n\u003cli\u003eAssorted mixtures of regional origin are offered for various locations\u003c/li\u003e\n\u003cli\u003eLong-lasting bloom for decades and an even faster bloom in combination with annual flowering periods, richly blooming eye catchers while preserving the regional gene pool\u003c/li\u003e\n\u003cli\u003eHigh ecological value: the assortments often contain between 20 and 40 different species which serve as forage crops for special and rare breeds\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNews\u003c/h3\u003e\u003ch4\u003e11 September 2023: Preserving the Bees for the Sake of Our Planet!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eTen dedicated members of the Interhome Group from six different countries embarked on a train journey to Klagenfurt, Austria, with a mission to deepen our understanding of biodiversity and our ambitious bee project.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eFor the past two years, Interhome Group has collaborated with BEESark, located in Carinthia, to support a biodiversity initiative. BEESark selects over 35 indigenous flower species annually to support bee populations. Local farmer Peter Janezic in St. Jakob im Rosental devoted 100,000 m\u003csup\u003e2\u003c/sup\u003e of land to cultivate these diverse flowers, creating a bee sanctuary. Even in September, the blooms buzzed with countless insects.\u003c/p\u003e\u003cp\u003eWe joined a bee education excursion guided by bee expert Peter Lautemann from Moosburg to gain deeper insights into bee habitat, behaviour, and life cycle. Peter manages an organic farm with more than 100 bee colonies.\u003c/p\u003e\u003cp\u003eThis project is a remarkable testament to regional biodiversity conservation. After two years, BEESark conducted soil tests confirming that our 100,000 square meters of flowering meadows reduced approximately 200 tons of CO\u003csub\u003e2\u003c/sub\u003e emissions. This achievement marks a significant stride towards our goal of reducing carbon emissions by 50% by 2030.\u003c/p\u003e\u003cp\u003eWe are immensely grateful to BEESark for their outstanding support and partnership, and we take great pride in our productive collaboration.\u003c/p\u003e\u003cp\u003eFollowing our bee experience, we took part in some volunteering work. You can learn more about it by clicking here: \u003ca href=\"/aboutus/sustainability/voluntary-work/\"\u003eInterhome | Voluntary work\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003e    \u003c/p\u003e\u003ch4\u003e11 July 2022: A bee paradise on the flowering meadows of Interhome Group\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group has had 100,000 m\u003csup\u003e2\u003c/sup\u003e of flowering meadows sown by its partner BEESark to make an important contribution to biodiversity. Lena Unterkircher and Saskia Weber visited the bee meadows in Carinthia in Austria and are enthusiastic about the implementation.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eThe founder of BEESark, Matthias Breznik, is an original. His career leads via robot programming to hypnosis coach and environmental consultant to farmer. BEESark implements individual climate protection projects with regional sustainability on a new level. On behalf of Interhome Group, BEESark engaged organic farmer Peter Janezic, who converted 1/6 of his arable land into flowering meadows. After careful soil testing, countless regional flower species were planted here instead of corn or potatoes. The two fields are located around the idyllic village of Sankt Jakob im Rosenthal in Carinthia. Here, the flowers planted in spring are in bloom and are actively visited and pollinated by honeybees and wild bees. In the meadows, local beekeeper Franz Fugger has made his hives available. 75% of the bees active here are settled honey bees or house bees 25% are wild bees. \u003c/p\u003e\u003cp\u003eThe beekeeper Franz told us with much joy that he has already won a prize for his honey from these fields, for the fact that his honey is 100% free of pollutants. From the farmer Peter to the beekeeper to the employees of BEESark, everyone is working with a lot of sweat and heart to sow and maintain the flowering meadows and to offer the bees a paradise. The busy humming and buzzing in the fields is a joy to watch and listen to. The bees, as well as many other insects, obviously feel very much at home here and enjoy nature to the fullest. Next month the first cutting will be done by the farmer, so that the flower meadow will grow up again in all its splendor and the bees will find fresh flowers again. In the fall, the honey bees will be overwintered by the beekeeper; in the case of the wild bees, only the pregnant queen will be able to buzz again in the flowering meadows in 2023.\u003c/p\u003e\u003cp\u003eTo ensure that this important contribution to biodiversity in the fields is measurable, BEESark has developed its own software to accurately calculate the CO\u003csub\u003e2\u003c/sub\u003e balance of the flowering meadows. BEESark is both TÜV audited and ISO 9001 certified. \u003c/p\u003e\u003cp\u003eFor Lena and Saskia it was very impressive and wonderful to see and feel that the Interhome investments have landed 100% in the right hands with BEESark. BEESark is a partner that implements our sustainable goals exactly the way we wanted. Our on-site visit has solidified a good basis for further cooperation.\u003c/p\u003e\u003cp\u003eWe are already looking forward to more reports on our flowering meadows and a new, fantastically colorful field in 2023.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/aboutus/sustainability/\"\u003e\u0026gt;\u0026gt; Learn more about other sustainability projects supported by the Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Only selected and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "Guaranteed availability and on-site service",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and insights for your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, feel the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or the \u003ca href=\"/spain/\"\u003eSpanish way of life\u003c/a\u003e. Be inspired by our \u003ca href=\"\"\u003etravel ideas\u003c/a\u003e and book online - quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eYour stay in a holiday house or a holiday apartment offers plenty of advantages: spend your time exactly as you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Simply enjoy lots of room, flexibility and freedom in your holiday home.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

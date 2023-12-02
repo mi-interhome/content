@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2021/",
+                            "label": "Medienmitteilungen 2021"
+                        },
+                        {
+                            "href": "/presse/2021/20210909-Rekordsommer-bei-Interhome-in-der-Schweiz/",
+                            "label": "9.9.2021: Rekordsommer bei Interhome in der Schweiz"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "9.9.2021: Rekordsommer bei Interhome in der Schweiz",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eInterhome blickt auf die beste Sommersaison in der Schweiz seit seinem 56-jährigen Bestehen zurück. Die Buchungen für die Herbstmonate sehen ebenfalls äusserst vielversprechend aus, so dass das laufende Geschäftsjahr als Rekordjahr in die Geschichte des Schweizer Ferienwohnungsvermittlers eingehen wird.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIn den vergangenen Sommermonaten haben sich so viele Schweizerinnen und Schweizer für Ferien in einer Schweizer Ferienwohnung oder einem Ferienhaus von Interhome entschieden wie noch nie. Gegenüber Vorjahr verzeichnet der Schweizer Ferienwohnungsvermittler in den Monaten April 2021 bis August 2021 ein Buchungsplus von Schweizer Gästen von 81%. \"Die volatilen Einreisebestimmungen der verschiedenen europäischen Länder haben viele unserer Schweizer Gäste dazu bewegt, ihre diesjährigen Sommerferien 'zu Hause' zu verbringen\", erklärt Roger Müller, Country Manager Interhome Schweiz. Der überdurchschnittlich gute Buchungseingang von Schweizer Gästen konnte auch das Fehlen ausländischer Gäste kompensieren. Die beliebtesten Regionen bei Herr und Frau Schweizer waren das Tessin, gefolgt vom Bündnerland und dem Wallis. \"Das Tessin ist bei unseren Gästen ein Dauerbrenner. Seit April sind unsere Ferienunterkünfte durchgehend zwischen 80% und 100% ausgelastet. Gegenüber Vorjahr verzeichnen wir im Süden der Schweiz ein Buchungsplus von 125%, gegenüber 2019 gar eine Verdreifachung der Buchungen von Schweizer Gästen\", so Roger Müller.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLangfristiger Trend für Ferien in einem Ferienhaus\u003c/strong\u003e\u003cbr\u003eDie sehr gute Buchungslage bei Interhome hält nach wie vor an. Für die Monate September und Oktober 2021 kann in der Schweiz zum aktuellen Zeitpunkt ein Buchungsplus von 29% gegenüber Vorjahr verzeichnet werden. Vergleicht man den aktuellen Buchungsstand mit dem Jahr 2019, sind es sogar 2,5 Mal mehr Buchungen. Und auch die Aussichten für die bevorstehende Wintersaison 2021/22 sind vielversprechend. So liegen die Buchungen für den Winter in der Schweiz momentan bei +23% gegenüber Vorjahr und +15% gegenüber der Wintersaison 2019/20. \"Unsere Schweizer Gäste haben ihre Heimat während der Corona-Pandemie wieder neu entdeckt. Wir sind überzeugt, dass der Trend nach Ferien in der Schweiz auch längerfristig anhalten wird. Dies nicht zuletzt auch, weil man bei Ferien mit Interhome nicht auf den gewohnten Komfort und die Sicherheit in den eigenen vier Wänden verzichten muss\", sagt Roger Müller.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBinnentourismus so gefragt wie noch nie\u003c/strong\u003e\u003cbr\u003eNicht nur in der Schweiz, sondern auch in den weiteren von Interhome angebotenen europäischen Ländern, war der Binnentourismus diesen Sommer so gefragt wie noch nie. So verbrachten zum Beispiel 44% mehr französische Gäste ihre Sommerferien in Frankreich als im Sommer vor der Pandemie. In Italien konnte ein Plus von 58% an einheimischen Gästen verzeichnet werden.      \u003cbr\u003e     \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2074557-ger-CH/2021-09-09_Rekordsommer%20bei%20Interhome%20in%20der%20Schweiz.pdf\" target=\"_blank\"\u003eDie vollständige Medienmitteilung im PDF-Format herunterladen \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2074572-ger-CH/Interhome_Ferienhaus%20Villetta%20Irma.zip\" target=\"_blank\"\u003eDas Bild im ZIP-Format herunterladen \u0026gt;\u0026gt;.\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

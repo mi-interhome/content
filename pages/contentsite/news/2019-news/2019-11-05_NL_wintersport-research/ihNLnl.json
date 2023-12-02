@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/nieuws/",
+                            "label": "Nieuws"
+                        },
+                        {
+                            "href": "/nieuws/2019/",
+                            "label": "Nieuws 2019"
+                        },
+                        {
+                            "href": "/nieuws/2019/wintersport-research/",
+                            "label": "Wintersport boeken? Dit is de beste timing!"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Wintersport boeken? Dit is de beste timing!",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eDe bladeren vallen van de bomen en het kwik duikt naar beneden. Naast wind en regen zijn er gelukkig ook mooie herfstdagen waarop de zon volop schijnt tegen een felblauwe hemel, terwijl het toch flink koud is. Liefhebbers van wintersport krijgen op zulke dagen meteen die ene associatie: het is wintersportweer! Kijk jij ook al uit naar die ene week waarin je je kantoortenue verruilt voor een skipak? Juist, het wordt dus hoog tijd om die wintersport te boeken. Of had je dat allang gedaan? Wij van Interhome onderzochten wanneer Nederlanders hun wintersport boeken en op wintersport vertrekken. Deze kennis delen we graag met je, zodat je er je voordeel mee kunt doen. \u003c/strong\u003e\u003c/p\u003e\u003ch3\u003eHoe vroeg wordt er geboekt?\u003c/h3\u003e\u003cp\u003eHet wintersportseizoen loopt van december tot en met maart. Het eerste wat opvalt als je kijkt naar hoe ver van tevoren Nederlanders hun wintersport boeken, is dat de meeste mensen hun skivakantie een jaar of een half jaar van tevoren boeken. Over het hele jaar genomen is maart de maand waarin de meest wintersportvakanties worden geboekt. Dit zijn boekingen voor het volgende jaar, voornamelijk voor de maand februari. De datum waarop dit jaar het grootste aantal boekingen is gedaan, is 27 maart 2019. Naast maart zijn ook september en oktober maanden waarin veel wintersportvakanties worden geboekt, vaak voor december of februari. Daaruit kun je afleiden dat die boekingen gedaan worden door mensen die op vakantie gaan in het hoogseizoen.   \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/infographic-2-edit/1761780-1-dut-NL/Infographic-2-edit.jpg\" width=\"850\" height=\"378\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"center\" data-id=\"34730\" data-type=\"image\" data-content=\"\"\u003e\u003ch4\u003eVroegboekers\u003c/h4\u003e\u003cp\u003eVroeg je wintersport boeken blijkt onder Nederlanders dus populair. Waarom? Het heeft zo zijn voordelen. Vaak krijg je een zogenaamde ‘vroegboekkorting’: hotels en appartement eigenaren zijn bereid om mooie kortingen te geven aan vroegboekers. Als vroegboeker heb je op jouw beurt het voordeel dat er nog volop keuze is wat betreft accommodaties, ook in de schoolvakanties. Wat vroegboekers verder fijn vinden, is dat ze zich een jaar lang kunnen verheugen op de volgende wintersport. Ten slotte vindt deze groep het prettig om zeker te weten dat ze er volgend seizoen weer bij zijn.\u003c/p\u003e\u003ch4\u003eLaatboekers\u003c/h4\u003e\u003cp\u003eNatuurlijk zitten er ook nadelen aan heel vroeg je wintersport vastleggen. Zo neem je een risico wat betreft sneeuwzekerheid, je kunt er daarom voor kiezen om juist op het laatste moment je wintersport te boeken. Naast het voordeel van last-minute een gebied kiezen waarvan je weet dat er sneeuw ligt, kan je ook enorme kortingen krijgen voor last-minute boekingen. Die korting kan oplopen tot 30 procent. Ook loop je minder kans dat je moet annuleren vanwege onverwachte omstandigheden. Niet iedereen heeft de luxe om last-minute te boeken, gezinnen met kinderen zitten nu eenmaal vast aan schoolvakanties. Maar ben je flexibel, dan is last-minute boeken zeker een slimme optie.\u003c/p\u003e\u003ch3\u003ePopulairste wintersportweken\u003c/h3\u003e\u003cp\u003eWe hebben ook op basis van cijfers van de afgelopen drie jaar onderzocht wanneer Nederlanders precies op wintersport gaan. Daarnaast hebben we gekeken hoe zich dit verhoudt tot andere Europese landen. De meeste Nederlanders blijken te kiezen voor skiën in februari. Maar liefst 50% van alle wintersportende Nederlanders staat in februari op de pistes. December komt op de tweede plek met 19%, maart volgt daarna met 17%.\u003c/p\u003e\u003cp\u003eWat betreft drukte op de pistes, zijn week 8 en 9 en week 52 het drukst: de voorjaarsvakantie en kerstvakantie. Daarna volgen week 10, week 51 en week 1. Dat heeft ook met de rest van Europa te maken, de kerstvakantie valt uiteraard overal hetzelfde en ook de voorjaarsvakantie komt grotendeels overeen. In februari is 36% van alle skiënde Europeanen op de pistes te vinden, gevolgd door 22% in december.\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/infographic-1-edit/1761785-1-dut-NL/Infographic-1-edit.jpg\" width=\"850\" height=\"897\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"center\" data-id=\"34731\" data-type=\"image\" data-content=\"\"\u003e\u003ch3\u003eHet beste advies\u003c/h3\u003e\u003cp\u003eWat kunnen we concluderen? Tijdens de schoolvakanties in Europa is het erg druk op de pistes en in de accommodaties. Als je niet gebonden bent aan deze vakanties, kun je die drukte beter omzeilen en voor januari of maart kiezen. Je kunt dan uit meer accommodaties kiezen en betaalt lagere prijzen. De prijzen zijn in maart nog lager dan in januari, omdat het wintersportseizoen tegen zijn einde loopt. Maart is niet alleen aantrekkelijk omdat het goedkoop is, je hebt ook meer kans op zonnig weer en de dagen zijn langer. Een risico van maart is dat de sneeuw in laaggeleden gebieden minder goed kan zijn. Kies daarom in maart voor hoger gelegen gebieden, zodat je eventueel kunt uitwijken naar de gletscher.\u003c/p\u003e\u003cp\u003eIn gebieden die echt hoog liggen, kan ook april een hele aantrekkelijke maand zijn om te skiën: prima sneeuw, en vaak mooi weer! De mooi-weer skiër zonder kinderen zou april dan ook serieus moeten overwegen. Toch blijft ook januari een aantrekkelijke maand. Doordat het hartje winter is, is er over het algemeen veel sneeuwzekerheid. De sneeuw kan wat harder zijn door lagere temperaturen, maar de betere skiër heeft daar geen last van.\u003c/p\u003e\u003ch3\u003eConclusie\u003c/h3\u003e\u003cp\u003eKortom: kun je zelf bepalen wanneer je op wintersport gaat, dan zijn week 2 tot en met 6, en week 11 tot en met week 14 de mooiste weken. Je kunt veel accommodaties kiezen en het is niet druk. De prijzen zijn laag en de sneeuwzekerheid goed. Rekening houdend met de beste omstandigheden, is maart de beste maand om op wintersport te gaan. Maart is ook de beste maand om een wintersport te boeken. Bijna alle accommodaties zijn nog beschikbaar, je profiteert van vroegboekkorting en je weet zeker dat je volgend jaar weer lekker op de piste staat.\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

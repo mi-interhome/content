@@ -26,58 +26,128 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_winter_1_top_ski_resorts_20202/1789557-1-eng-XX/Header_1200x410_Winter_1_Top_ski_resorts_2020.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/vakantie-ideeen/",
+                            "label": "Vakantie ideeën"
+                        },
+                        {
+                            "href": "/vakantie-ideeen/top-skigebieden/",
+                            "label": "Populaire skigebieden"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Populaire skigebieden",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eGeniet van de mooiste skigebieden en ervaar een onvergetelijke wintersport bij Interhome.\u003c/p\u003e\u003cp\u003eEr is voor iedereen wat wils dankzij ons ruime aanbod in gezellige vakantiehuizen, comfortabele chalets aan de piste en unieke appartementen. Of u nou reist als stel, met een kleine groep, met een familie of met een grote vriendengroep, onze locaties in \u003ca href=\"/oostenrijk/tirol/skien-snowboarden/?season=winter\"\u003eTirol\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/oostenrijk/gasteinertal/skien-snowboarden/?season=winter\"\u003eGasteinertal\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/frankrijk/haute-savoie/chamonix/?skiing=true\u0026season=winter\"\u003eChamonix\u003c/a\u003e, \u003ca href=\"/frankrijk/haute-savoie/val-thorens/?skiing=true\u0026season=winter\"\u003eVal Thorens\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/frankrijk/haute-savoie/tignes/?skiing=true\u0026season=winter\"\u003eTignes\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/zwitserland/berner-oberland/grindelwald/?skiing=true\u0026season=winter\"\u003eGrindelwald\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/zwitserland/wallis/zermatt/?skiing=true\u0026season=winter\"\u003eZermatt\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/zwitserland/engadin/st-moritz/?skiing=true\u0026season=winter\"\u003eSt. Moritz\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/zwitserland/wallis/saas-fee/?skiing=true\u0026season=winter\"\u003eSaas Fee\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/zwitserland/praettigau/davos/?skiing=true\u0026season=winter\"\u003eDavos\u003c/a\u003e\u003ca href=\"/oostenrijk/oetztal/soelden/\"\u003e,\u003c/a\u003e \u003ca href=\"/zwitserland/wallis/nendaz/?skiing=true\u0026season=winter\"\u003eNendaz\u003c/a\u003e of \u003ca href=\"/zwitserland/wallis/verbier/?skiing=true\u0026season=winter\"\u003eVerbier\u003c/a\u003e zullen aan uw verrassen.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eGeniet tijdens uw wintersportvakantie van het skiën, snowboarden en langlaufen. Kies één van de prachtige afdalingen in de grootste skigebieden met steile of brede pistes die voorzien zijn van verse sneeuw! Ontspan in uw wintersport chalet in een gezellige woonkamer. Misschien staat er, afhankelijk van uw accommodatie een heerlijk knisperend haardvuurtje op u te wachten. Of u kunt natuurlijk kiezen voor een avondje op stap, er zijn immers vele après ski feestjes waar u zich kunt vermaken.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Onze tips: ",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 8,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Nog meer voordelen voor onze wintersport gasten:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

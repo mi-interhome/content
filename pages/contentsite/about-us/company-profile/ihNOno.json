@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om interhome"
+                        },
+                        {
+                            "href": "/om-interhome/firmaprofil/",
+                            "label": "Firmaprofil"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Firmaprofil",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eBedriftsledelse\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eJörg Herrmann, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eSylvia Epaillard, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eThomas Buschta, Chief Financial Officer (CFO)\u003c/li\u003e\n\u003cli\u003eRoger Müller, Chief Procurement Officer (CPO)\u003c/li\u003e\n\u003cli\u003eMichael Figlestahler, Chief Revenue \u0026amp; Innovation Officer (CRIO)\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e   \u003c/p\u003e\u003ch3\u003eInterhomes bedriftshistorie\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003e1965\u003c/strong\u003e\u003cbr\u003eSwiss Chalets ble grunnlagt av to sveitsiske pionerer innen turisme: Bruno Franzen og Werner Frey.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1975-1977\u003c/strong\u003e\u003cbr\u003eSwiss Chalet - Interhome blir slått sammen: 105 personer i 16 kontorer.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1977\u003c/strong\u003e\u003cbr\u003eInterhome blir selskapets nye navn,\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1980\u003c/strong\u003e\u003cbr\u003eInterhome er den første i bransjen til å opprette et informasjonssystem som knytter alle byråene til ett bestillingssystem.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1984\u003c/strong\u003e\u003cbr\u003eDen nye logoen er en liten fugl. Den symboliserer ferie og frihet. Alle Interhome kontorer innfører samme bedriftskultur.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1986\u003c/strong\u003e\u003cbr\u003e2 millioner kopier av Interhome brosjyrer blir trykt. De er oversatt til 8 språk og blir utdelt i 12 land.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1989\u003c/strong\u003e\u003cbr\u003eHotelplan, det nest største sveitsiske reisebyrået og datterselskap av Migros kjøper Interhome AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1995\u003c/strong\u003e\u003cbr\u003ePå denne tiden består Interhome sitt produkt av 75 000 sengeplasser i 11 land – inkludert Tyskland, Tsjekkia og Polen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1998\u003c/strong\u003e\u003cbr\u003eInterhome er et av de første selskapene som går \"online\". Kunder kan nå søke etter informasjon og be om brosjyrer. Bestillinger \"online\" er mulig fra 1999.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2000\u003c/strong\u003e\u003cbr\u003eInterhome bestillingssystem knytter sammen 75 lokale kontorer og 30 partnere for å kunne tilby kundene bedre service.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2003\u003c/strong\u003e\u003cbr\u003eInterhome flytter inn i Hotelplan sine kontorer for å skape en felles infrastruktur.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e\u003cbr\u003eSimon Lehman blir ny styreleder i Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e\u003cbr\u003eMed det nye 1-til-1-systemet blir kundene tilbudt enda bedre service med personlige tilbud og med håndplukkede overnattinger.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e\u003cbr\u003eInterhome kjøper reisearrangøren Casa Club, France Villas og Solemar og kan dermed tilby eksklusive villaer i Provence og Toscana.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e\u003cbr\u003eHjemmesiden forbedres for å gjøre det enda enklere og raskere å finne den perfekte ferieboligen. Videre kan det tilbys bedre service og mer informasjon.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e\u003cbr\u003eInterhome er for tiden representert i nesten alle europeiske land, inkludert Russland og Kroatia. Samarbeid er styrket for utleie i Danmark, Belgia og Holland.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008\u003c/strong\u003e\u003cbr\u003ePartnerskap ble startet i USA og Finland.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008\u003c/strong\u003e\u003cbr\u003eAnnonsetorget og den nye distribusjonskanalen Vacando ble lansert.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008\u003c/strong\u003e\u003cbr\u003eOmprofilering av selskapets identitet og design.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2009\u003c/strong\u003e\u003cbr\u003eSamarbeid ble startet med salgsrepresentant i India.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2010\u003c/strong\u003e\u003cbr\u003eHelt ny design av nettsiden hvor det kan søkes vha. navigering. Nye reisemål: Maroko og El Gouna, Egypt.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2011\u003c/strong\u003e\u003cbr\u003eOppkjøp av den tyske markedslederen Interchalet innen 2013. Nye reisemål: Israel og Kypros.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2012\u003c/strong\u003e\u003cbr\u003eEksklusivt samarbeid med TripAdvisor, verdens største nettsted for reiser.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2013\u003c/strong\u003e\u003cbr\u003eDen nye bookingsportalen får gull i kategorien ”Brukervennlighet” og sølv i ” Foretningseffektivitet” i Best of Swiss Web Awards. Interhome blir testvinner som onlineportal i Stiftung Warentest. Blant annet for den tydelige og detaljerte søkefunksjonen. Den første ferieboligleverandøren i den tyskspråklige verden med en iPad App som har en omfattende søkefunksjon.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003cbr\u003eKoni Iten tar over roret som CEO. Under hans ledelse oppnår firmaet toppresultater. Øyen Mauritius tilbys nå som en destinasjon.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003cbr\u003eInterhome feirer sitt 50års jubileum. Et nytt vellykket år bekrefter at kursen vi satte år 2014 holder mål.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003cbr\u003eInterhome fortsetter sin suksess. For første gang i historien matcher firmaet mer enn 666.000 feriehus-reisende med deres ideale feriebostad. Den fakturerede omsetningen stiger til 186,6 milioner sveitsiske franc (CHF)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003cbr\u003eInterhome og søsterselskapet Inter Chalet har kommet nærmere sammen på ledelsesnivå og synergieffekten vil utnyttes. Koni Iten har gått av med pensjon og Thomas Stirnimann, CEO Hotelplan Group, tar over hans arbeidsoppgaver inn til videre. Interhome hadde en 5% økning av gjester med 695,000.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003cbr\u003eInterhome oppnådde en ytterligere økning i gjestetall: totalt 730 000 gjester bodde på en Interhome ferieleilighet eller feriehus.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003cbr\u003eInterhome og søsterselskapet Interchalet forvaltes nå i fellesskap som \"HHD AG\". Navnene Interhome og Interchalet vil fortsette å fungere som merkevarer i reiselivsbransjen. I tillegg vil Jörg Herrmann overta ledelsen av HHD AG som administrerende direktør.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2020\u003c/strong\u003e\u003cbr\u003eEtter en vellykket start på vintersesongen ble starten på sommersesongen spesielt påvirket av koronapandemien. De viktigste operasjonelle utfordringene var de daglige oppdateringene av reiserestriksjoner, ikke bare for de 27 destinasjonene som, avhengig av regionen, hadde forskjellige spesielle regler, men også for de verdensomspennende markedene for turister.  \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2021\u003c/strong\u003e\u003cbr\u003eÅret 2021 er preget av fremtidsrettet standardisering og effektivisering av interne prosesser. Som en del av dette bestemmer HHD AG seg for i fremtiden å operere under navnet Interhome Group. På det tyske markedet fortsetter Interhome Group å bruke merket Interchalet, i Sveits og de andre europeiske landene markføres ferieboligene under Interhome-merket.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2022\u003c/strong\u003e\u003cbr\u003eÅret 2022 går inn som et rekordår i Interhome Groups 57-årige historie – med 9 millioner overnattinger og en omsetning på 371,0 millioner sveitsiske Franc. Fokuset ligger på kontinuerlig utvidelse av nettverket av lokale servicekontorer, som sikrer optimal oppfølging og omfattende service for kunder og huseiere direkte i destinasjonene. Workation, en kombinasjonen av arbeid og ferie, blir integrert som et nytt tilbud, og kundene kan fra nå av søke direkte etter passende ferieboliger. Andre sentrale temaer er digitalisering og målet om å bli en pioner innen bærekraftig fritidsboligturisme. Ulike klimabeskyttelsesprosjekter starter, et internasjonalt bærekraftsteam opprettes og \"Glasgow-erklæringen om klimatiltak i turisme\" fra FNs verdens turismeorganisasjon signeres.\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

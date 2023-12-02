@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2020/",
+                            "label": "Medienmitteilungen 2020"
+                        },
+                        {
+                            "href": "/presse/2020/20200707_Last-Minute-ans-Meer-oder-in-die-Berge/",
+                            "label": "7.7.2020: Last Minute ans Meer oder in die Berge"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "7.7.2020: Last Minute ans Meer oder in die Berge",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eGlattbrugg, 7. Juli 2020│\u003cstrong\u003eGenug von den eigenen vier Wänden, dem Balkon oder Garten? Wer seine diesjährigen Sommerferien nicht zuhause verbringen will, profitiert bei Interhome von Rabatten bis zu 33 Prozent auf ausgewählte Ferienwohnungen und Ferienhäuser in ganz Europa. \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e73 Prozent der Schweizer Interhome-Gäste werden die diesjährigen Sommerferien in einem Ferienhaus oder einer Ferienwohnung in der Schweiz verbringen. Das sind 89 Prozent mehr gegenüber Vorjahr. Nach dem Tessin erfreut sich das Wallis oder das Berner Oberland grosser Beliebtheit.\u003c/p\u003e\u003cp\u003eAll diejenigen, die bis anhin noch unentschlossen waren, ob sie ihre Ferien in den eigenen vier Wänden verbringen sollen, nun aber doch vom Fernweh gepackt werden, bietet der Schweizer Ferienwohnungsvermittler eine Entscheidungshilfe: Ob am Meer oder in den Schweizer Bergen finden sich attraktive Last-Minute-Angebote mit bis zu 33 Prozent Rabatt auf ausgewählte Ferienwohnungen oder Ferienhäuser, die ab acht Tagen vor Abreise gebucht werden können. Sämtliche Angebote sind unter \u003ca href=\"/last-minute\" target=\"_blank\"\u003ewww.interhome.ch/last-minute\u003c/a\u003e ersichtlich.\u003c/p\u003e\u003cp\u003eÜbrigens sind Ferien in einer Ferienwohnung oder einem Ferienhaus optimal, um den Empfehlungen des Bundesrates zu folgen. Zudem bieten Ferien in einer Interhome-Unterkunft Sicherheit:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eDie Buchung der \"Wohnung auf Zeit\" kann unkompliziert im Internet, per Telefon oder per E-Mail getätigt werden.\u003c/li\u003e\n\u003cli\u003eDie Anreise erfolgt individuell, meist im eigenen Auto.\u003c/li\u003e\n\u003cli\u003eDem Thema \"Social Distancing\" kann vollumfänglich Rechnung getragen werden ohne auf den gewohnten Komfort und die Sicherheit in den eigenen vier Wänden verzichten zu müssen.\u003c/li\u003e\n\u003cli\u003eDie Privatsphäre kann jederzeit ungestört genossen werden.\u003c/li\u003e\n\u003cli\u003eDie Schlüsselübergabe zum Traumferienhaus erfolgt sicher und unkompliziert vor Ort.\u003c/li\u003e\n\u003cli\u003eAlle Ferienunterkünfte werden vor Anreise der Gäste kontrolliert gereinigt, so dass sämtliche Hygienemassnahmen eingehalten werden können.    \u003cbr\u003e   \u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1955775-ger-CH/2020-07-07_Interhome_Last%20Minute%20ans%20Meer%20oder%20in%20die%20Berge.pdf\" target=\"_blank\"\u003eDie vollständige Medienmitteilung im PDF-Format herunterladen \u0026gt;\u0026gt;.\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2018/",
+                            "label": "Pressemitteilungen 2018"
+                        },
+                        {
+                            "href": "/presse/2018/ferienhäuser-für-jedes-sternzeichen/",
+                            "label": "Ferienhäuser für jedes Sternzeichen"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Ferienhäuser für jedes Sternzeichen",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003e(Deutschland, 18. Dezember 2018) Das Jahr 2018 neigt sich dem Ende zu. Höchste Zeit, sich um den Urlaub für 2019 zu kümmern. Die Holiday Home Division, bestehend aus den Ferienhaus-Spezialisten Interhome und Interchalet, hat einen Blick in die Sterne gewagt und weiß, welches Urlaubsdomizil zu welchem Sternzeichen passt.\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2018/181218_ferienh%C3%A4user-f%C3%BCr-jedes-sternzeichen_2018/1646556-1-ger-XX/181218_Ferienh%C3%A4user-f%C3%BCr-jedes-Sternzeichen_2018.jpg\" width=\"250\" height=\"167\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"right\" data-id=\"28599\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDer treue Steinbock, die ordnungsliebende Jungfrau oder der actionhungrige Widder: Sie alle haben ungleiche Ansprüche an ihren Urlaub. Ob einfach oder stilvoll eingerichtete Unterkünfte, Urlaubsdestinationen mit abwechslungsreichen Erlebnis- und Ausflugsmöglichkeiten oder Ruheoasen – so unterschiedlich die Ansprüche sind, so verschieden ist das Angebot an Ferienhäusern.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Steinbock\u003c/h3\u003e\u003cp\u003eDie im Sternzeichen Steinbock geborenen Menschen sind sehr treu und kehren jedes Jahr gerne an den gleichen, vertrauten Ort zurück. Das Urlaubsparadies sollte einfach sein, klare Züge haben und vor allem nicht allzu verspielte Elemente aufweisen. Eine Woche im Steinbock-Ferienhaus „\u003ca href=\"/CH1631.120.1/\" target=\"_blank\"\u003eLa Poya\u003c/a\u003e“ in der Schweiz ist bei Interhome ab 874,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Wassermann\u003c/h3\u003e\u003cp\u003eWo viel Platz, Luft und Raum ist, sowohl im Blickfeld, als auch beim Einrichtungsstil, fühlt sich der Wassermann am wohlsten. Die Anbindung zu Strand, Shopping-Möglichkeiten und Restaurants sind ebenso wichtig wie die unglaubliche Weite, die er dort in vollen Zügen genießen kann. Eine Woche im Wassermann-Ferienhaus „\u003ca href=\"/ES9738.509.1/\" target=\"_blank\"\u003eVilla Buenavista\u003c/a\u003e“ in Spanien ist bei Interhome ab 1.678,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Fisch\u003c/h3\u003e\u003cp\u003eSicherheit ist das Schlagwort des friedlichen Fisches. Die in diesem Sternzeichen Geborenen reisen gern, allerdings nur, wenn sie sich geborgen fühlen. Fische verbringen ihren Urlaub demnach am besten im freistehenden Strandhaus mit großer Terrasse, um alles im sicheren Blickfeld zu haben. Eine Woche in der Fisch-Ferienanlage „\u003ca href=\"/DE9574.601.2/\" target=\"_blank\"\u003eLAGOVIDA\u003c/a\u003e“ am Störmthaler See in Deutschland ist bei Interchalet ab 751,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Widder\u003c/h3\u003e\u003cp\u003eMit Rucksack in der Steilwand, der Angelrute am Wildbach, dem Mountainbike im Gelände oder mit der Familie beim Sandburgbauen am Mittelmeer: Der Widder braucht im Urlaub viel Action. Nicht zuletzt deswegen ist er während der kalten Jahreszeit oft beim Skifahren, Langlaufen oder Schneeschuhwandern anzutreffen. Eine Woche in der Widder-Ferienwohnung „\u003ca href=\"/AT6290.733.1/\" target=\"_blank\"\u003eMRH622\u003c/a\u003e“ im österreichischen Mayrhofen ist bei Interchalet ab 624,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Stier\u003c/h3\u003e\u003cp\u003eDie Gelassenheit, neue Dinge im Urlaub zu entdecken und sich dabei so richtig verwöhnen zu lassen, wurde dem Stier in die Wiege gelegt. In einem Ferienhaus liebt er kuschelige Ecken und eine gemütliche Atmosphäre, besonders aber dunkles Holz und andere Naturmaterialien. Eine Woche in der Stier-Ferienhütte „\u003ca href=\"/IT3420.618.1/\"\u003eBaita Fochin\u003c/a\u003e“ in Italien ist bei Interchalet ab 553,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Zwilling\u003c/h3\u003e\u003cp\u003eKein anderer badet so gerne in der Partymenge und lässt fast kein kulturelles Fest aus wie der „eine“ Zwilling. Seine andere Seite liebt einsame Plätze unter Palmen und weit weg von jedem Touristen-Trubel. Eine Woche im Zwilling-Ferienhaus „\u003ca href=\"/HR5370.103.1/\" target=\"_blank\"\u003eVilla Kalista\u003c/a\u003e“ in Kroatien ist bei Interhome ab 1.241,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Krebs\u003c/h3\u003e\u003cp\u003eZu kleine und enge Räume mag der Krebs nicht. Aber auch zu groß und üppig soll das Ferienhaus nicht sein. Das familienfreundliche Sternbild liebt die Freiheit, das Meer und die weiten Ausblicke. Eine Woche im Krebs-Ferienhaus „\u003ca href=\"/HR4260.300.1/\" target=\"_blank\"\u003eJure\u003c/a\u003e“ in Kroatien ist bei Interhome ab 927,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Löwen\u003c/h3\u003e\u003cp\u003eElegant, bequem und immer ein wenig extravagant – so soll die Einrichtung eines Ferienhauses für den Löwen sein. Er sitzt gerne mit Freunden und einem dicken Buch am offenen Kamin und blickt über ein prachtvolles Bergpanorama oder das Meer und gilt als wahrer Genießer unter den Sternzeichen. Eine Woche im Löwen-Ferienhaus „Borda Del Pi“ in Andorra ist bei Interchalet ab 5.320,00 €* buchbar.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eDas Ferienhaus für die Jungfrau\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eAls Jungfrau Geborene leben auch im Urlaub gerne stilvoll, aufgeräumt und organisiert mit geradlinigen Formen und klaren Strukturen. Ein Feriendomizil sollte ebenfalls übersichtlich und nicht allzu verspielt sein sowie einen schönen Balkon mit viel Schatten anbieten. Eine Woche im Jungfrau-Ferienhaus „\u003ca href=\"/IT5388.100.2/\" target=\"_blank\"\u003eChiusa Grande\u003c/a\u003e“ in Italien ist bei Interhome ab 438,00 €* buchbar. \u003c/p\u003e\u003ch3\u003eDas Ferienhaus für die Waage\u003c/h3\u003e\u003cp\u003eDie im Sternzeichen Waage geborenen Personen fühlen sich überall schnell wohl, lernen Land und Leute kennen und überlegen nicht lange, wenn ihnen eine Urlaubsdestination zusagt. Sie verstehen es, sich im Ferienhaus im Nu wohlzufühlen und genauso wie zuhause muss auch im Urlaub alles auf seinem Platz stehen. Eine Woche in der Waage-Ferienwohnung „\u003ca href=\"/FR8420.211.1/\" target=\"_blank\"\u003eLa Galiote\u003c/a\u003e“ in Frankreich ist bei Interhome ab 390,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Skorpion\u003c/h3\u003e\u003cp\u003eDer Skorpion will in seinem Urlaub etwas erleben und das am liebsten allein. Der Besuch bei ihm im Ferienhaus zeigt, wie eigenwillig die Einrichtung sein kann: Gerne wohnt er mit modernster Ausstattung, dann wieder ganz schlicht, ja fast spartanisch. Eine Woche im Skorpion-Ferienhaus „\u003ca href=\"/SE8400.602.1/\" target=\"_blank\"\u003eSee Havern\u003c/a\u003e“ in Schweden ist bei Interchalet ab 226,00 €* buchbar.\u003c/p\u003e\u003ch3\u003eDas Ferienhaus für den Schützen\u003c/h3\u003e\u003cp\u003eDer Schütze liebt ein gepflegtes Umfeld, sowohl im eigenen Heim als auch im Urlaub. Mit Freunden und Familie wird alles geteilt, am liebsten der Urlaub auf einem Bauernhof, im Chalet oder im Ferienhaus direkt am Strand. Eine Woche in der Schütze-Ferienwohnung auf dem „\u003ca href=\"/IT3500.610.3/\" target=\"_blank\"\u003eBio-Bauernhof Maurer\u003c/a\u003e\" in Italien ist bei Interchalet ab 1.232,00 €* buchbar.\u003c/p\u003e\u003cp\u003e*ggf. zuzüglich Nebenkosten\u003c/p\u003e\u003cp\u003eDas Portfolio der \u003cstrong\u003eHoliday Home Division\u003c/strong\u003e, mit den Marken Interhome und Interchalet, besteht aus rund 60'000 Ferienhäusern und -wohnungen in 32 Ländern und ist Teil von Hotelplan Group mit Sitz in Glattbrugg (CH). Diese wiederum ist zu 100% in Besitz von Migros, der grössten Detailhandelsorganisation der Schweiz mit Sitz in Zürich. Das vielfältige Angebot reicht vom einfachen Chalet oder Appartement bis hin zur exklusiv ausgestatteten Villa – ob im Sommer oder Winter, am Strand, auf dem Land oder in der Stadt. Die Holiday Home Division erzielte im Jahr 2017 einen verrechneten Umsatz von CHF 332,6 Mio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterchalet\u003c/strong\u003e ist mit 26'000 Ferienhäusern und -wohnungen in 16 Ländern Europas und Florida/USA einer der grössten deutschen Ferienhausvermittler. Das in Freiburg im Breisgau (D) ansässige Unternehmen beherbergte im Jahr 2017 790'000 Feriengäste.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome\u003c/strong\u003e ist europäischer Spezialist in der Vermittlung von weltweit mehr als 34‘000 Ferienwohnungen, Ferienhäusern und Chalets in 32 Ländern. Der Qualitätsanbieter vermittelte im Jahr 2017 695‘000 Feriengäste.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1646919-ger-XX/181218_Holiday%20Home%20Division_Ferienh%C3%A4user%20f%C3%BCr%20jedes%20Sternzeichen.pdf\"\u003eHier Pressemitteilung herunterladen\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

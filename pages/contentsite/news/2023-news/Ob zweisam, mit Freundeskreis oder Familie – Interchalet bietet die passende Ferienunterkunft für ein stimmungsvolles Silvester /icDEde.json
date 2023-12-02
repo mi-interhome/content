@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2023/",
+                            "label": "Pressemitteilungen 2023"
+                        },
+                        {
+                            "href": "/presse/2023/unterkunft_silvester/",
+                            "label": "Ob zweisam, mit Freundeskreis oder Familie – Interchalet bietet die passende Ferienunterkunft für ein stimmungsvolles Silvester "
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Ob zweisam, mit Freundeskreis oder Familie – Interchalet bietet die passende Ferienunterkunft für ein stimmungsvolles Silvester ",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eFreiburg, 01.08.2023 | \u003cstrong\u003eBei der Frage, was einen perfekten Jahreswechsel ausmacht, scheiden sich die Geister: Die einen verbringen Silvester gerne nur mit ihrem Lieblingsmenschen, abgeschieden und in trauter Zweisamkeit. Für andere gehören gemeinsame Stunden mit der ganzen Familie inklusive Haustier zu einem gelungenen Jahresausklang. Und wiederum andere nutzen die Feiertage, um eine neue Metropole zu entdecken. Interchalet, der Spezialist für Ferienhäuser und -wohnungen, bietet für die unterschiedlichsten Bedürfnisse und Vorstellungen die passende Unterkunft. Ist das individuelle Silvester-Setting gebucht, kann die Vorfreude auf einen ganz besonderen Jahreswechsel beginnen.\u003c/strong\u003e\u003c/p\u003e\u003ch3\u003eSchweiz | Wallis: Gemütliches Ambiente für Groß und Klein\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/230801_1_ch1912.712.1_schweiz_wallis/2254065-1-ger-XX/230801_1_CH1912.712.1_Schweiz_Wallis.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42387\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDas hochwertig ausgestattete Ferienchalet Voltaire im Schweizer Kanton Wallis bietet bis zu sechs Personen mit drei Schlafzimmern, zwei Bädern und gemütlichem Schwedenofen Komfort auf 140 m2. Vom Kinderhochstuhl bis zum Tischkicker steht in der großzügigen Unterkunft alles bereit, was es für den perfekten Familienurlaub braucht. Und wer noch unschlüssig ist, was es an Silvester zu Essen geben soll: Im Chalet gibt es sowohl einen Raclette-Ofen als auch zwei Fondue-Sets. Die holzverkleideten Wände, der Dielenboden und das ökologische Heizsystem sorgen für ein behagliches Ambiente, während sich draußen der Schnee türmt. Von der Terrasse geht der Blick Richtung Südwesten über die Dächer im Tal zu den majestätischen Berggipfeln.\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e\u003c/em\u003e \u003ca href=\"/schweiz/wallis/ovronnaz/ferienhaus-voltaire-ch1912.712.1/?checkin=2023-12-30\u0026amp;checkout=2024-01-06\u0026amp;duration=7\" target=\"_blank\"\u003eFerienhaus „Voltaire“ *****\u003c/a\u003e für bis zu 6 Personen, Schweiz, Wallis, Ovronnaz,\u003cbr\u003eObjekt-Nr. CH1912.712.1, sieben Nächte vom 30.12.2023 bis 06.01.2024, 3.709,00 €*\u003c/p\u003e\u003ch3\u003eÖsterreich | Tirol: Rückzugsort für Zwei mit Panoramablick\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/230801_2_-at6460.500.1_%C3%B6sterreich_tirol/2254070-4-ger-XX/230801_2_-AT6460.500.1_%C3%96sterreich_Tirol.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42388\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eIn der PANORAMA Lodge in Tirol können Paare die Silvesternacht in trauter Zweisamkeit und mit einer Aussicht der Extraklasse verbringen. Denn die umlaufende Fensterfront des Ferienhauses bietet eine fantastische Aussicht auf das Bergpanorama. Tagsüber schützen die komplett verspiegelten Glasscheiben vor fremden Blicken, nachts sorgt ein Vorhang für die notwendige Verdunkelung. Das 20 m2 große Studio in Südwestlage lässt keine Wünsche offen: Natursteinböden, elegante Möblierung und ein minimalistisches Farbkonzept vermitteln Ruhe und Gelassenheit. Die großzügige Terrasse lädt um Mitternacht zum Anstoßen unter Sternen ein. Am nächsten Morgen dann ein Frühstück im Bett mit Blick auf die Berge – der erste Tag des neuen Jahres könnte kaum schöner beginnen! Wen es an die frische Luft zieht, der findet in Imst und Umgebung viele Ausflugsziele. Vom bekannten Aqua Dom in Längenfeld über beliebte Skigebiete bis zu Winterwanderwegen mit Almhütten zum gemütlichen Einkehren ist das Freizeitangebot mehr als üppig.\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e \u003c/em\u003e\u003ca href=\"/oesterreich/tirol/imst/ferienhaus-panorama-lodge-at6460.500.1/?checkin=2023-12-30\u0026amp;duration=7\u0026amp;checkout=2024-01-06\u0026amp;pax=2\" target=\"_blank\"\u003eFerienhaus „PANORAMA Lodge\" ****\u003c/a\u003e für bis zu 2 Personen, Österreich, Tirol, Imst,\u003cbr\u003eObjekt-Nr. AT6460.500.1, sieben Nächte vom 30.12.2023 bis 06.01.2024, 1.602,00*\u003c/p\u003e\u003ch3\u003eDänemark | Südostjütland: Das neue Jahr an der Küste einläuten\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/230801_3_dk6430.668.1_d%C3%A4nemark_sojuetland/2254075-3-ger-XX/230801_3_DK6430.668.1_D%C3%A4nemark_SOJuetland.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42389\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eHell, freundlich und stilvoll präsentiert sich das Ferienhaus Alexis im dänischen Nordborg. In der 92 m2 großen Ferienunterkunft haben bis zu acht Personen Platz – perfekt für ein Silvester mit Freundinnen und Freunden oder der gesamten Familie. Mit einer voll ausgestatteten Wohnküche, einem gemütlichen Wohnbereich, Kamin und Multimedia-Angebot lässt es sich hier im Winter gut aushalten. Und spätestens beim Besuch der hauseigenen Sauna oder des Sprudelbads stellen sich Erholung und Wohlbefinden ein. Auch ausgeprägtes Meerweh kann hier gestillt werden, denn vom Ferienhaus haben Urlaubsgäste einen direkten Blick auf die nur 250 m entfernte Ostsee. Kinder und Vierbeiner, die hier mit der Familie in das neue Jahr starten, können sich auf dem weitläufigen Privatgrundstück austoben. Darüber hinaus eignet sich das Naturgebiet Skamlingsbanken hervorragend für einen kleinen Ausflug.\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e\u003c/em\u003e \u003ca href=\"/daenemark/suedostjuetland/nordborg/ferienhaus-alexis-250m-from-the-sea-in-se-jutland-dk6430.668.1/?checkin=2023-12-30\u0026amp;checkout=2024-01-06\u0026amp;duration=7\u0026amp;pax=8\" target=\"_blank\"\u003eFerienhaus „Alexis\" ****\u003c/a\u003e für bis zu 8 Personen, Dänemark, Südostjütland, Nordborg,\u003cbr\u003eObjekt-Nr. DK6430.668.1, sieben Nächte vom 30.12.2023 bis 06.01.2024, 1.830,00 €*\u003c/p\u003e\u003ch3\u003eFrankreich | Côte d‘Azur: Silvesterurlaub par excellence\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2023/230801_4_fr8145.651.1_frankreich_marseille/2254080-1-ger-XX/230801_4_FR8145.651.1_Frankreich_Marseille.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"42390\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDie im achten Stock gelegene Ferienwohnung La Maison de Protis bietet einen traumhaften Blick auf den Hafen von Marseille und die Stadt und ist somit perfekt für eine erinnerungswürdige Silvesternacht mit Crémant und feinen Häppchen. Wird es auf dem möblierten Balkon zu kalt, lässt sich das alljährliche Feuerwerk im Hafen auch durch die großen Fensterfronten des modern eingerichteten Wohnzimmers verfolgen. Im nahegelegenen Zentrum von Marseille warten indes zahlreiche Möglichkeiten zum Schlemmen und Feiern. Tagsüber können Urlaubsgäste die vielen Relikte aus der Antike, den Porte d’Aix, das Château d’If und natürlich die Basilika Notre Dame de la Garde, das Wahrzeichen Marseilles, besichtigen. Ein großes Kulturangebot mit allem, was das Herz begehrt, rundet den winterlichen Kurztrip an die Côte d’Azur ab.\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eInterchalet-Tipp:\u003c/strong\u003e \u003c/em\u003e\u003ca href=\"/frankreich/cote-d-azur/marseille/ferienwohnung-la-maison-de-protis-mse100-fr8145.651.1/?checkin=2023-12-30\u0026amp;checkout=2024-01-02\u0026amp;duration=3\u0026amp;pax=4\" target=\"_blank\"\u003eFerienwohnung „La Maison de Protis“ ****\u003c/a\u003e für bis zu 4 Personen, Frankreich, Côte d‘Azur, Marseille,\u003cbr\u003eObjekt-Nr. FR8145.651.1, drei Nächte vom 30.12.2023 bis 02.01.2024, 567,00 €*\u003c/p\u003e\u003cp\u003e* ggf. zuzüglich Nebenkosten\u003c/p\u003e\u003cp\u003e---------------------------------------------------------------------------------------------\u003cbr\u003eDas Portfolio von Interhome Group, mit den Brands Interchalet und Interhome, besteht aus rund 40.000 Ferienhäusern und -wohnungen in 28 Ländern und ist Teil von Hotelplan Group mit Sitz in Glattbrugg (CH). Diese wiederum ist zu 100 Prozent in Besitz der Migros, der größten Detailhandelsorganisation der Schweiz mit Sitz in Zürich. Die Nähe zum Vermieter und zu den Gästen ist eine der Stärken der Interhome Group. Mit rund 200 lokalen Service-Büros (100 eigene Büros und 100 Partnerbüros) wird ein \"Rundum-sorglos-Paket\" vom persönlichen Kundenempfang bis zur vollständigen Verwaltung des Feriendomizils gewährleistet. Interhome Group ist seit über 55 Jahren der ideale Anbieter von individuellen Urlaubsunterkünften. Das vielfältige Angebot reicht vom einfachen Chalet oder Apartment bis hin zur exklusiv ausgestatteten Villa – am Strand, auf dem Land oder in den Bergen. Im Jahr 2022 generierte Interhome Group 9 Millionen Übernachtungen und erzielte einen Umsatz in der Höhe von CHF 371.0 Mio..\u003c/p\u003e\u003cp\u003eFür ergänzende Auskünfte:\u003cbr\u003eRoxanna Stock\u003cbr\u003eServiceplan Public Relations GmbH \u0026amp; Co. KG \u003cbr\u003eTel.: +49 89 20 50 4104\u003cbr\u003e\u003ca href=\"mailto:r.stock@house-of-communication.com\"\u003er.stock@house-of-communication.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2254060-ger-XX/230801_Medienmitteilung_Interchalet_Silvester.pdf\"\u003eHier Pressemitteilung herunterladen \u0026gt;\u0026gt;\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2022/",
+                            "label": "Medienmitteilungen 2022"
+                        },
+                        {
+                            "href": "/presse/2022/20220929-Erneuter-Rekordsommer-bei-Interhome-in-der-Schweiz/",
+                            "label": "29.9.2022: Erneuter Rekordsommer bei Interhome in der Schweiz"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "29.9.2022: Erneuter Rekordsommer bei Interhome in der Schweiz",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eInterhome übertrumpft die Rekordzahlen von 2021 für Buchungen von Ferienwohnungen und Ferienhäusern in der Schweiz noch einmal. Der neuste Ferienhausreport des Schweizer Ferienwohnungsvermittlers zeigt zudem, dass die Schweiz als Ferienland top bleibt, Kurztrips beliebt und Gäste aus dem Ausland zurück sind.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome blickt in der Schweiz erneut auf einen Rekordsommer zurück. Nachdem bereits letztes Jahr die Sommersaison (1. Mai bis 31. August) als die beste in der Geschichte des Ferienwohnungsvermittlers verbucht werden konnte, überstiegen die Anzahl Buchungen diesen Sommer erneut sämtliche Rekorde. Noch nie haben so viele Gäste ihre Ferien in einer Schweizer Ferienwohnung oder einem Schweizer Ferienhaus verbracht wie in diesem Sommer. \"Zum einen verbrachten unsere Schweizer Gäste ihre Sommerferien doch immer noch am liebsten im Heimatland. Dies obwohl alle Länder des Interhome-Portfolios wieder bereist werden konnten. Zum andern fanden auch die ausländischen Gäste den Weg wieder zurück in die Schweiz\", erklärt Roger Müller, Country Manager Interhome Schweiz. Auch der Blick auf die Herbstsaison (1. September bis 31. Oktober 2022) zeigt, dass der Trend nach Ferien in der Schweiz nicht abreisst und auch die ausländischen Gäste ihre Herbstferien sehr gerne in der Schweiz verbringen.\u003c/p\u003e\u003cp\u003eWie auch in der Schweiz liegen Ferien in einer Ferienwohnung oder einem Ferienhaus in ganz Europa im Trend. Gemäss den jetzigen Einschätzungen wird Interhome Group das laufende Geschäftsjahr (1. November 2021 bis 31. Oktober 2022) auf dem Niveau von 2021 abschliessen.   \u003c/p\u003e\u003cp\u003e    \u003c/p\u003e\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eRückblick Schweiz – Sommer 2022\u003c/h2\u003e\u003cp\u003eHinweis: Für den Ferienhausreport werden die Zahlen von 2019 (vor der Corona-Pandemie) mit den Zahlen von 2022 verglichen, da der letzte Ferienhausreport 2019 verschickt wurde.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePandemie macht Schweiz etwas beliebter \u003c/strong\u003e\u003cbr\u003eVergleicht man die Top 3 der beliebtesten Destinationen der Schweizer Gäste von Interhome vor und nach der Corona-Pandemie, zeigt sich ein sehr ähnliches Bild. Die Schweiz ist klare Siegerin und konnte mit 62.4% als Destination für Ferien in einer Ferienwohnung in diesem Sommer verglichen zu vor der Corona-Pandemie sogar noch etwas zulegen (2019: 49.5%). Italien (14.2%) und Frankreich (12%) folgen als zweit- und drittbeliebteste Destination für die Sommerferien der Schweizer Gäste.\u003c/p\u003e\u003cp\u003eDas Wallis war diesen Sommer mit 19.7% wie bereits 2019 (17.8%) die beliebteste Ferienregion . Das Tessin holte jedoch auf und ist mit 19.3% (2019: 14.6%) fast so beliebt wie sein südlicher Nachbarkanton. Dies sicherlich nicht zuletzt auch aufgrund der 20 neuen Wohnungen in den LocTowers in Locarno. Ein Ablösung gab es auf Platz 3: Das Berner Oberland ist mit 9.1% (2019: noch nicht unter den Top 5) neu auf dem Treppchen zu finden. 2019 war dieser Platz noch vom Kanton Graubünden besetzt. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eGäste aus den USA kehren zurück\u003c/strong\u003e\u003cbr\u003eDie Top 3 Herkunftsländer der Interhome Gäste in der Schweiz sind weiterhin die Schweizerinnen und Schweizer selbst (45.3%), gefolgt von Gästen aus Deutschland (13.7%) und Holland (7.4%). Nachdem während der Corona-Pandemie Gäste aus den USA ausblieben, sind die Gäste aus Übersee diesen Sommer nun wieder vermehrt in die Schweiz zurückgekehrt (2022: 4.2%, 2019: 5.7%). Es mieteten diesen Sommer jedoch noch immer mehr französische (5%) als amerikanische Gäste in der Schweiz eine Ferienwohnung.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eKurztrips etwas beliebter\u003c/strong\u003e\u003cbr\u003e48% der Schweizer Gäste (2019: 51%) haben ihre Ferienunterkunft während des Sommers für einen Aufenthalt zwischen 5 und 7 Tagen gemietet. 27.5% – etwas mehr Schweizerinnen und Schweizer als vor Corona (2019: 21%) sind für 1 bis 4 Tage in ein Ferienhaus oder eine Ferienwohnung gezogen. Die Beliebtheit von Kurztrips ist damit auch im Sommer leicht gestiegen. Eingebüsst (-3.8%) haben die längeren Aufenthalte von 8 bis 14 Tage.\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLeicht gestiegene Qualitätsansprüche\u003c/strong\u003e\u003cbr\u003eHerr und Frau Schweizer gönnten sich gerne etwas mehr Qualität in dieser Sommersaison. So haben im Sommer mehr als die Hälfte aller Gäste eine 3-Sterne-Unterkunft gebucht (52.7%, 2019: 55.3%). Zudem stieg der Durchschnitt der 4-Sterne-Ferienwohnungen an auf 30.5% (Vorjahr: 25.9%).   \u003c/p\u003e\u003cp\u003e     \u003c/p\u003e\u003ca name=\"eztoc_2_1\" id=\"eztoc_2_1\"\u003e\u003c/a\u003e\u003ch2\u003eAusblick Schweiz – Herbst 2022\u003c/h2\u003e\u003cp\u003e\u003cstrong\u003eSchweizer Herbst im Trend\u003c/strong\u003e\u003cbr\u003eDie Mehrheit der Schweizer Gäste (59.1%) wird auch ihre Herbstferien in einer Ferienwohnung oder einem Ferienhaus in der Schweiz verbringen. Wie im Sommer, sind die Regionen Wallis (16.7%), Tessin (15.8%) sowie das Berner Oberland (14.6%) die beliebtesten. Die Nachbarländer Italien (18.1%) oder Frankreich (10.3%) folgen auf dem zweiten und dritten Platz. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDie Ferienwoche hat sich bewährt\u003c/strong\u003e\u003cbr\u003eEin ähnliches Bild wie im Sommer, zeigt sich auch bezüglich der Aufenthaltsdauer im Herbst. Fast die Hälfte der Schweizer Gäste (48.8%) von Interhome Group verbringen 5-7 Nächte in ihrer gewählten Unterkunft. Rund ein Viertel bevorzugen einen Kurztrip von 1 bis 4 Nächten (25.5%), gefolgt von 22.6% für eine Aufenthaltsdauer von 8 bis 14 Tagen. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQualität im Herbst noch gefragter\u003c/strong\u003e\u003cbr\u003eIm Herbst setzen Herr und Frau Schweizer noch mehr auf Qualität als im Sommer: 39.5% buchten eine 4-Sterne Unterkunft. Weiterhin sind aber die 3-Sterne-Ferienhäuser am beliebtesten (46.1%).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSwiss love – auch aus dem Ausland\u003c/strong\u003e\u003cbr\u003eIm Herbst erwartet Schweizer Ferienhäuser und Ferienwohnungen vorwiegend Gäste aus dem Heimatland (52.2%), gefolgt von deutschen (13.4%) sowie holländischen (5.5%) Kundinnen und Kunden. Französische Gäste verbringen eher den Sommer (5%) in der Schweiz als den Herbst (3.2%). Erfreulich ist, dass auch Gäste aus den USA der Schweiz im Herbst (4.6%) treu bleiben.   \u003c/p\u003e\u003cp\u003e     \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2182486-ger-CH/2022-09-29_Erneuter%20Rekordsommer%20bei%20Interhome%20in%20der%20Schweiz.pdf\" target=\"_blank\"\u003eDie vollständige Medienmitteilung im PDF-Format herunterladen \u0026gt;\u0026gt;\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2182471-ger-CH/2022-09-29_Ferienhausreport_D.pdf\" target=\"_blank\"\u003eDen Schweizer Ferienhausreport im PDF-Format herunterladen \u0026gt;\u0026gt;\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2182476-ger-CH/2022-09-29_Ferienhausreport_Global.pdf\" target=\"_blank\"\u003eDen internationalen Ferienhausreport im PDF-Format herunterladen (Englisch) \u0026gt;\u0026gt;\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

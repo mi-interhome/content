@@ -26,63 +26,142 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/mika-on-interhome/",
+                            "label": "Meistä"
+                        },
+                        {
+                            "href": "/mika-on-interhome/kestavyys/",
+                            "label": "Rakasta luontoa- sen suojelu koskee kaikkia"
+                        },
+                        {
+                            "href": "/mika-on-interhome/kestavyys/vastuullinen-majoitus/",
+                            "label": "Vastuullinen majoitus"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Vastuullinen majoitus",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eVoit säästää ympäristöä myös lomalla\u003c/h4\u003e\u003cp\u003eInterhome Group on sitoutunut ympäristöä säästävään vuokrattavien loma-asuntojen turismiin. Tämän vuoksi yksi tärkeimmistä tavoitteistamme on tarkastaa kaikki 40 000 lomatalon ja –huoneiston soveltuvuus kestävään matkailuun. Tätä varten olemme määritelleet 12 kriteeriä, jotka ovat meille erityisen tärkeitä ympäristön suojelun ja resurssien säilyttämisen kannalta:\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cul\u003e\n\u003cli\u003e100% uusiutuva sähkö\u003c/li\u003e\n\u003cli\u003eAurinkopaneelit tai aurinkosähköjärjestelmä\u003c/li\u003e\n\u003cli\u003e100% ekologinen lämmitysjärjestelmä\u003c/li\u003e\n\u003cli\u003eSähköautojen latausasema loma-asunnolla\u003c/li\u003e\n\u003cli\u003eKierrätysastiat ja –asema paikan päällä\u003c/li\u003e\n\u003cli\u003eVähintään 80% led-valaistusaste\u003c/li\u003e\n\u003cli\u003eKaikki ikkunat ovat vähintään kaksilasisia\u003c/li\u003e\n\u003cli\u003eVettäsäästävät wc-kalusteet\u003c/li\u003e\n\u003cli\u003eVettäsäästävät suihkut\u003c/li\u003e\n\u003cli\u003eEi kertakäyttöisiä astioita\u003c/li\u003e\n\u003cli\u003eViheralueita käytettävissä puutarhassa tai kattopuutarhassa\u003c/li\u003e\n\u003cli\u003eJulkinen liikenne kävelyetäisyydellä enintään 1km päässä\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/embedded-images/sustainability_pictos_2023_420x420.jpg/2228416-1-eng-XX/Sustainability_Pictos_2023_420x420.jpg.jpg\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"41634\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eMikäli loma-asunto täyttää vähintään 7 edellä mainituista 12 kriteeristä, merkitään se vihreän puun –merkillä. Löydät tärkeimmät loma-asunnon täyttämät kriteerit kuvaustekstistä.\u003c/p\u003e\u003ch4\u003eLöydä ympäristöä säästävät loma-asunnot uudella suodattimella\u003c/h4\u003e\u003cp\u003eMikäli kestävä matkailu on sinulle tärkeää kun suunnittelet lomaasi tai mikäli haluat löytää loma-asunnon sähköauton latausasemalla, voit käyttää suodattimia ”\u003ca href=\"/etsinta/?sustainable=true\"\u003eEkologinen majoitus\u003c/a\u003e” ja ”\u003ca href=\"/etsinta/?charging_station=true\"\u003esähköauton latausasema\u003c/a\u003e” sivustollamme loma-asuntoja etsiessäsi.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eToivotamme sinulle mukavaa ja ympäristöystävällistä aikaa loma-asunnoissamme!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/mika-on-interhome/kestavyys/\"\u003e\u0026gt;\u0026gt; Lue lisää vastuullisuuden projekteistamme, joita Interhome Group tukee\u003c/a\u003e\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkeintä",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen - vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

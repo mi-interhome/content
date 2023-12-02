@@ -26,38 +26,104 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "height": 600,
+                            "src": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254163-35-cro-HR/Test-Image-for-Release.jpg",
+                            "width": 1440
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/osobni-savjeti/",
+                            "label": "Lokalni uredi"
+                        },
+                        {
+                            "href": "/osobni-savjeti/interhome-pego-es012/",
+                            "label": "Local Interhome office: Pego"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 4,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Adresa lokalnog ureda: Pego",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Sigurnost u vašoj kući za odmor!",
+                    "link": {
+                        "href": "/o-interhomeu/sigurnost-u-kuci-za-odmor/",
+                        "label": "Više informacija"
+                    },
+                    "car": "Pojedinačni dolasci",
+                    "cleaning": "Kvalitetno kontrolirano čišćenje",
+                    "independence": "Sloboda i neovisnost",
+                    "key": "Sigurna predaja ključa na licu mjesta",
+                    "privacy": "Privatnost u vašoj kući za odmor",
+                    "support": "Uslužnost na licu mjesta"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Samo odabrane i provjerene kuće za odmor",
+                            "subtitle": "Kvaliteta je naš apsolutni prioritet",
+                            "caption": "Svaka kuća za odmor je provjerena od strane naših stručnjaka kako bismo Vam omogućili bezbrižan odmor."
+                        },
+                        {
+                            "title": "Garancija raspoloživosti i usluga na licu mjesta",
+                            "subtitle": "Uz nas se možete opustiti",
+                            "caption": "Ključeve preuzimate od domaćina ili u jednom od naših lokalnih ureda koji su Vam na raspolaganju za sva Vaša pitanja i želje tijekom boravka. A tu je i naša 24/7 služba za korisnike."
+                        },
+                        {
+                            "title": "Potpuni užitak i opuštanje",
+                            "subtitle": "Privatnost i sloboda vlastite kuće za odmor",
+                            "caption": "Bez prilagođavanja satnicama i rasporedima, u kući za odmor uživajte u danu prema svojim željama. Uz dovoljno prostora za cijelu obitelj ili prijatelje."
+                        }
+                    ]
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Odaberite Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNikad nije bilo lakše pronaći savršenu kuću za Vaš odmor. Želite li otkriti nove destinacije? Otkrijte nova mjesta ili otoke u \u003ca href=\"/hrvatska/\"\u003eHrvatskoj\u003c/a\u003e, iskusite što znači \"la dolce vita\" u \u003ca href=\"/italija/\"\u003eItaliji\u003c/a\u003e ili posjetite šarmantnu \u003ca href=\"/francuska/azurna-obala/\"\u003eFrancusku rivijeru\u003c/a\u003e. Neka Vas inspirira naša široka ponuda kuća za odmor i apartmana, a uz Interhome rezervirajte brzo, jednostavno i sigurno.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Sloboda, privatnost i dovoljno prostora za cijelu obitelj",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBoravak u kući za odmor ima broje prednosti: provodite vrijeme prema svojem rasporedu. Bez smetnji hotelskog osoblja ili drugih gostiju možete se potpuno opustiti. Neovisno tražlite li novu \u003ca href=\"/inspiracije/gradske-avanture/\"\u003egradsku avanturu\u003c/a\u003e ili opuštajući \u003ca href=\"/inspiracije/odmor-obitelji/\"\u003eodmor s obitelji\u003c/a\u003e, imamo nešto za svaki ukus i svaki džep.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

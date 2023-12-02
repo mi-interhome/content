@@ -26,43 +26,110 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/images/home/hero-slider/header_1400x480_italy/1146776-1-nor-NO/Header_1400x480_italy.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/holiday-ideas/",
+                            "label": "Safe, enjoyable holidays – take a look at our holiday ideas"
+                        },
+                        {
+                            "href": "/holiday-ideas/islands/",
+                            "label": "Idyllic island breaks"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Idyllic island breaks",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 5,
-                "component": "",
-                "content": null
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eMallorca, Sardinia, Corsica, Cran Canaria – all fantastic destinations for wonderfully relaxed holidays and all with that special charm and character that can only be found on an island. Beautiful beaches, crystal-clear turquoise waters and charming villages all make up the idyllic break far away from everyday life. So where is your dream island? \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eGet some inspiration from our varied selection and if you are looking to travel within the next week or so explore our whole \u003ca href=\"https://www.interhome.com/travel-ideas/last-minute/\"\u003eLast Minute offer\u003c/a\u003e and save money.\u003c/p\u003e\u003cp\u003eWhether you’re looking for a compact holiday apartment or an exclusive villa with pool, there is something for every holiday budget:\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hand-picked and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "In-resort service and a 24/7 helpline",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and information about your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why choose Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it than in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, experience the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or indulge yourself in the luxury of a \u003ca href=\"/spain/#hitlist\"\u003eSpanish Villa\u003c/a\u003e. Be inspired by our \u003ca href=\"/holiday-ideas/\"\u003etravel ideas\u003c/a\u003e and book online with us - it is quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your own holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA stay in a holiday house or apartment offers so many advantages: spend your time exactly the way you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules and pace. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Kick back and enjoy lots of room, flexibility and freedom in your own holiday letting.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

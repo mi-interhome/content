@@ -26,88 +26,152 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/o-interhome/",
+                            "label": "O Interhome"
+                        },
+                        {
+                            "href": "/o-interhome/udrzitelnost/",
+                            "label": "Love Nature – ochrana životního prostředí se týká nás všech"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Love Nature – ochrana životního prostředí se týká nás všech",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group patří k předním společnostem v oblasti trvalé udržitelnosti cestovního ruchu. Považujeme za svou povinnost minimalizovat dopady na životní prostředí a zanechat ho v co nejlepším stavu pro budoucí generace. Takto můžete jako náš zákazník při svém pobytu v rekreačním domě přispět k ochraně životního prostředí. Celá částka putuje na projekty udržitelnosti vedené fondem M Cimate prostřednictvím našeho partnera myclimate.\u003c/p\u003e\u003cp\u003eZavázali jsme se k ochraně životního prostředí nejen vůči našim klientům a mateřské společnosti Migros, ale také v mezinárodním měřítku. Interhome Group podepsala „Glasgowskou deklaraci pro opatření v oblasti klimatu v cestovním ruchu“ pod záštitou Světové organizace cestovního ruchu. Z podpisu deklarace plyne aktivní zapojení do snižování emisí skleníkových plynů na polovinu do roku 2030 a nejpozději do roku 2050 pak dosažení čisté nuly.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003ePřečtěte si více o našich cílech, spolupráci s myclimate a našem programu ochrany včelstev. Náš tým trvalé udržitelnosti speciálně pro Vás sestavil užitečné tipy pro každodenní život i pro pobyt v rekreačním objektu. Téma udržitelnosti nemá stanoveno žádné konečné datum, což nás dnes i do budoucna zavazuje k pevnému úsilí o dlouhodobě udržitelný cestovní ruch.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBiodiverzita\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eZměna klimatu\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eNaši klienti\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eNaši partneři\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eNaše místa\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003eZaměstnanci\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eKancelář\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38940/2142220-1-eng-XX/Sustainability_2022_wheel_cz_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39857\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBiodiverzita\u003c/h4\u003e\u003cp\u003eZměna klimatu má významný dopad na biologickou rozmanitost, která následně ovlivňuje cestovní ruch. Biodiverzita je rozmanitost života na Zemi, včetně rostlin, živočichů a mikroorganismů. Se změnou klimatu dochází ke změnám v ekosystémech a k ohrožení biologické rozmanitosti. To může vést ke ztrátě důležitých přirozených prostředí pro určité druhy, k vymírání druhů a ke změnám průběhu přírodních událostí, jako je vykvétání nebo migrace.\u003c/p\u003e\u003cp\u003eTyto změny mají přímý dopad na cestovní ruch, protože mnoho cestovatelů lákají přírodní oblasti a divoká příroda. Například korálové útesy, které jsou životně důležité pro mořskou biologickou rozmanitost, poškozuje zvyšující se teplota moře a okyselování oceánů, což je činí méně atraktivními pro turisty. Stejně tak změny v rozšíření volně žijících živočichů mohou turistům ztížit pozorování některých druhů a ovlivnit tak jejich celkový zážitek.\u003c/p\u003e\u003cp\u003eCestovní ruch může také přispívat ke změně klimatu, což tento problém ještě zhoršuje. Průmysl je významným producentem skleníkových plynů, zejména vlivem dopravy a spotřeby energie. Udržitelný cestovní ruch proto minimalizuje emise oxidu uhličitého a snižuje dopad na přírodní ekosystémy, což je nezbytné pro zmírnění negativních dopadů změny klimatu na biologickou rozmanitost.\u003c/p\u003e\u003cp\u003eZávěrem lze říci, že změna klimatu a úbytek biologické rozmanitosti mají významný dopad na cestovní ruch a že toto odvětví musí přijmout opatření, aby minimalizovalo svůj podíl na tomto problému a přizpůsobilo se měnícímu se prostředí. Podporováním udržitelných postupů v cestovním ruchu můžeme přispět k ochraně biologické rozmanitosti a zajistit, aby se i budoucí generace mohly těšit z přírodních krás naší planety.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eZměna klimatu\u003c/h4\u003e\u003cp\u003eZměna klimatu je způsobena nárůstem skleníkových plynů (oxid uhličitý, metan a oxid dusný) v zemské atmosféře. Tyto plyny zadržují sluneční teplo a způsobují zvyšování teploty planety, což vede ke změnám počasí, přírodního prostředí a výše hladiny moří. Ubytovací sektor cestovního ruchu významně přispívá k emisím skleníkových plynů kvůli vysoké spotřebě energie a závislosti na fosilních palivech. Udržitelné postupy v cestovním ruchu, například využívání obnovitelných zdrojů energie, snižování spotřeby energie a zavedení různých strategií snižování množství odpadu, mohou pomoci minimalizovat dopad ubytovacího sektoru na změnu klimatu a podpořit udržitelnost životního prostředí.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 11,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eNaši klienti\u003c/h4\u003e\u003cp\u003ePři cestování se zaměřte na okolní památky, seznamte se s místními lidmi a kulturou a podpořte komunitu lokálními nákupy. Prozkoumejte pestrou nabídku místních trhů, abyste poznali bohatství a autenticitu svého okolí a zároveň zanechali pozitivní stopu v regionální ekonomice a komunitě. Tímto způsobem nejen vytvoříte nezapomenutelné okamžiky pro sebe, ale také přispějete k udržitelnému rozvoji, ochráníte navštívené destinace a aktivně se zapojíte do ochrany klimatu.\u003c/p\u003e\u003cp\u003eNáš závazek budovat lepší budoucnost přesahuje rámec naší každodenní činnosti. Uvědomujeme si důležitost ochrany životního prostředí během dovolené a jsme odhodláni motivovat naše zákazníky, aby se k nám v tomto důležitém poslání připojili. S ohledem na to jsme pro Vás sestavili sadu doporučení, která Vám pomohou bez námahy pozitivně ovlivnit životní prostředí během Vaší dovolené.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eNaši partneři\u003c/h4\u003e\u003cp\u003eCestovní ruch nemůže být udržitelný bez angažovanosti a podpory našich akcionářů, partnerů a dodavatelských řetězců. Naším cílem je přivést je na tuto cestu, vzájemně se učit, inspirovat a vyžadovat změny.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eNaše místa\u003c/h4\u003e\u003cp\u003eV naší společnosti klademe velký důraz na blaho našich hostů a na životní prostředí. Abychom tento závazek naplnili, pečlivě posuzujeme každý z našich rekreačních domů dle našeho seznamu udržitelnosti. Kromě toho udržujeme úzké pracovní vztahy s majiteli domů a dále rozvíjíme spolupráci, abychom mohli neustále zlepšovat udržovatelnost našich rekreačních domů.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 13,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003eZaměstnanci\u003c/h4\u003e\u003cp\u003eV naší společnosti jsme hluboce odhodláni podporovat ekologické uvědomění a udržitelnost. Jedním z našich cílů je zajistit, aby se každý zaměstnanec aktivně zapojil do společné iniciativy Climate Fresk, zaměřenou na zvyšování povědomí a porozumění problematice změny klimatu. Její součástí jsou interaktivní workshopy, kde se účastníci formou hry zabývají příčinami, dopady a možnými řešeními změny klimatu. Tyto workshopy využívají kombinaci vědeckých informací a skupinových diskusí s cílem vzdělávat a posilovat jednotlivce, aby podnikli kroky proti změně klimatu. Díky tomu, že projekt Climate Fresk poskytuje platformu pro dialog a sdílení znalostí, nejenže podporuje pocit, že musíme neodkladně něco podniknout, ale také podněcuje kolektivní úsilí při řešení tohoto celosvětového problému. Věříme, že aktivním zapojením našich zaměstnanců do workshopů projektu Climate Fresk jim poskytneme cenné poznatky a umožníme jim činit informovaná rozhodnutí směřující k budování udržitelné, klimaticky odolné budoucnosti.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 14,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eKancelář\u003c/h4\u003e\u003cp\u003eAbychom zlepšili náš dopad na životní prostředí, důkladně jsme prověřili všechny kanceláře v rámci naší organizace. Patří sem hodnocení zdrojů elektřiny, topných systémů a dokonce i menších detailů, jako je papír a čisticí prostředky. Na základě těchto cenných informací vytváříme jasné pokyny, které povedou ke zlepšení životního prostředí v našich kancelářích.\u003c/p\u003e\u003cp\u003ePorozumíme-li ekologickým dopadům našeho působení, můžeme zavést cílené strategie ke snížení naší ekologické stopy. To zahrnuje optimalizaci zdrojů energie, zlepšení účinnosti topných systémů, přijetí udržitelných alternativ papíru a používání ekologických čisticích prostředků. Tyto kroky jsou nezbytné pro přizpůsobení našich kanceláří udržitelným postupům a minimalizaci našeho celkového dopadu na životní prostředí.\u003c/p\u003e\u003cp\u003eProstřednictvím našeho trvalého závazku k odpovědnému nakládání se zdroji a snižování množství odpadu se snažíme být pozitivním příkladem v rámci našeho odvětví a inspirovat ostatní, aby činili totéž. Chápeme, že i malé změny mohou mít významný dopad, pokud se znásobí v rámci celé naší organizace.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 15,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
             },
             {
                 "id": 16,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
             },
             {
                 "id": 17,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

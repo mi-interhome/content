@@ -26,48 +26,118 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_ic_casa_selection_2023/2274370-2-eng-XX/Header_1200x410_IH_IC_Casa_Selection_2023.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ideas-vacaciones/",
+                            "label": "Descubra nuestras ideas de vacaciones – Vacaciones divertidas y seguras"
+                        },
+                        {
+                            "href": "/ideas-vacaciones/casa-selection/",
+                            "label": "Casa Selection, unas vacaciones especiales"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Casa Selection, unas vacaciones especiales",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eDeje la rutina a un lado cuando empiece sus vacaciones y sumérjase de lleno en momentos de relax, consígalo alojándose en una de las casas y apartamentos de vacaciones de nuestra \u003ca href=\"/busqueda/?casa=true\" target=\"_blank\"\u003ecolección Casa Selection\u003c/a\u003e. Si quiere darse un capricho para sus merecidas vacaciones, en Casa Selection encontrará alojamientos vacacionales cuidadosamente seleccionados, la mayoría de 5 estrellas, con excelentes servicios y ubicaciones únicas. Algunas con piscina, otras con otro tipo de instalaciones, estas casas y apartamentos de vacaciones le ofrecen el marco perfecto para disfrutar sin límites de sus vacaciones. Aquí podrá relajarse en un ambiente único y, al mismo tiempo, disfrutar de la independencia, privacidad y flexibilidad que le ofrecen unas vacaciones en una casa o apartamento de vacaciones.\u003c/p\u003e\u003cp\u003e¿Qué le parece una magnífica \u003ca href=\"/italia/toscana/?casa=true\" target=\"_blank\"\u003ecasa de campo en la Toscana\u003c/a\u003e, una moderna \u003ca href=\"/croacia/?casa=true\" target=\"_blank\"\u003evilla en Croacia\u003c/a\u003e o una extraordinaria \u003ca href=\"/espana/mallorca/?casa=true\" target=\"_blank\"\u003efinca en la isla de Mallorca\u003c/a\u003e? \u003cbr\u003e¡Déjese inspirar y reserve una escapada inolvidable en el alojamiento de sus sueños!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Nuestras recomendaciones:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Siéntase seguro en su casa de vacaciones!",
+                    "link": {
+                        "href": "/sobre-interhome/seguridad-en-su-casa-de-vacaciones/",
+                        "label": "Más información"
+                    },
+                    "car": "Desplazamiento particular",
+                    "cleaning": "Protocolo específico de limpieza",
+                    "independence": "Libertad y flexibilidad",
+                    "key": "Entrega de llaves segura",
+                    "privacy": "Privacidad en su casa de vacaciones",
+                    "support": "Atención personal en destino"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Alojamientos verificados y de calidad",
+                            "subtitle": "La calidad nuestra prioridad",
+                            "caption": "Cada una de nuestras propiedades es revisada antes de su llegada para asegurar la mejor estancia posible."
+                        },
+                        {
+                            "title": "Disponibilidad garantizada y servicio in-situ",
+                            "subtitle": "Aproveche al máximo nuestra experiencia",
+                            "caption": "La recogida de llaves está organizada por nuestro atento personal. Disponible las 24 horas del día, los 7 días de la semana y en nuestras oficinas locales para ayudarlo con todas sus preguntas, por ejemplo: consejos, preguntas sobre su destino de vacaciones..."
+                        },
+                        {
+                            "title": "Una experencia inolvidable",
+                            "subtitle": "Privacidad y libertad en su propia casa de vacaciones",
+                            "caption": "Sin horarios para comer y con sus propias reglas, disfrute de su tiempo en familia o con amigos."
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por qué Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca ha sido fácil organizar las vacaciones perfectas. ¿Quieres explorar nuevos destinos? No hay mejor manera de hacerlo que desde un apartamento de vacaciones. Disfruta de la dolce vita en \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, descubre el encanto de \u003ca href=\"/francia/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e o empápate del \u003ca href=\"/espana/\"\u003eestilo de vida español\u003c/a\u003e. Inspírate con nuestras ideas para viajar y haz tu reserva online: con Interhome es fácil y seguro. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Libertad, privacidad y espacio en su casa de vacaciones",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSu estancia en una casa o apartamento de vacaciones está llena de ventajas: invierta su tiempo como quiera. Sin molestias de otros clientes o personal del hotel, simplemente disfrute de sus vacaciones marcándose sus propias reglas. Tanto como si busca una escapada a una ciudad, como unas relajantes vacaciones en familia o con amigos. Simplemente disfrute de la estancia, flexibilidad y libertad que le ofrece su casa de vacaciones.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

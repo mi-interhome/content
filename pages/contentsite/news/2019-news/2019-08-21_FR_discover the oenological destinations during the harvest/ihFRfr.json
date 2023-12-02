@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2019/",
+                            "label": "Presse 2019"
+                        },
+                        {
+                            "href": "/presse/2019/20190821-destinations-oenologiques/",
+                            "label": "Découvrez les destinations oenologiques pendant les vendanges"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Découvrez les destinations oenologiques pendant les vendanges",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp align=\"justify\"\u003e\u003cstrong\u003eDans le sud de la France, les vendanges peuvent commencer dès mi-août alors que dans les régions plus septentrionales comme la Bourgogne ou l’Alsace, elles peuvent débuter fin septembre. Interhome vous offre une sélection de belles demeures où la passion viticole, la nature et la détente s’allient à la perfection.\u003c/strong\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003eLe vignoble du Médoc est le plus célèbre du monde car cette région produit les vins rouges les plus fins. Les vignobles abritent de splendides bâtisses qui caractérisent l’identité de ces domaines, que vous pourrez découvrir en parcourant la route des châteaux.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eUne maison en plein cœur du Médoc\u003c/strong\u003e\u003cbr\u003eCette belle maison individuelle d’environ 85 m2, construite sur un seul niveau, est composée de 4 pièces, dont 3 chambres (capacité pour 6 personnes), deux sanitaires indépendants et une salle de bains avec bain à remous. Son aménagement rustique et accueillant vous fera vous sentir comme chez vous. La maison est complètement équipée (télévision satellite, Wi-Fi, lave-linge, chauffage électrique, …).\u003cbr\u003eA 2 km environ se trouve la ville de Gaillan-en-Médoc, d’où vous pourrez partir à la découverte des somptueux domaines viticoles et déguster les meilleurs vins de Bordeaux*.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003e1 semaine à partir de 500€. \u003c/strong\u003e\u003cstrong\u003e\u003ca href=\"/fr3348.606.1\"\u003ewww.interhome.fr/fr3348.606.1\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003eLa géologie a façonné la région d'Agde pour lui donner un destin viticole. Ce sont les Grecs qui importèrent en premier la culture de la vigne, mais il faudra attendre l'époque romaine pour voir de grands domaines viticoles se développer. Depuis lors, les vins du Pays d’Agde Méditerranée ont acquis une renommée internationale et s’exportent dans le monde entier.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eUne maison de rêve au Cap d’Agde\u003c/strong\u003e\u003cbr\u003eAu cœur du port de plaisance, située dans une résidence privée, cette maison mitoyenne de 4 pièces a une superficie de 138 m2 sur 2 niveaux. Avec ses 3 chambres, elle a une capacité d’accueil pour 6 personnes. À l'étage inférieur se trouve le grand séjour avec une cheminée. Le jardin est aménagé avec une terrasse, un barbecue et un bain à remous. La maison offre une superbe vue sur le port, et la plage de sable se trouve à 1 km environ.\u003cbr\u003eDepuis la ville du Cap d’Agde vous pourrez visiter les nombreux vignobles réputés de cette région. Sur les marchés ou directement chez les producteurs, en suivant la Route des Vignerons et des Pêcheurs, découvrez ces vins uniques* !\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003e1 semaine à partir de 1 275€. \u003c/strong\u003e\u003ca href=\"/fr6630.181.1\"\u003e\u003cstrong\u003ewww.interhome.fr/fr6630.181.1\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003eRécompensés par neuf AOCreconnues depuis 1975, les vignerons corses ont développé au fil du temps desvins de qualité. Le climat méditerranéen garantit chaleur et soleil, et la\u003cbr\u003eforte pluviosité des zones plus montagnardes apporte une humidité agissant favorablement sur le développement de la vigne.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eEntre la plage et les vignobles corses\u003c/strong\u003e\u003cbr\u003eLa route des vins de « l’Île de Beauté » vous emmènera des coteaux du Cap Corse au nord jusqu'aux vins de Porto-Vecchio et de Figari au sud, en passant par Calvi et Ajaccio. Il vous suffit de longer le littoral pour faire le tour des vignobles ! L'AOC Vin-de-Corse-Porto-Vecchio se situe autour de la ville de Porto-Vecchio, une jolie petite cité fondée en 383 avant JC.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eInterhome \u003c/strong\u003evous propose de séjourner dans cette belle maison mitoyenne de 94 m2 construite sur 2 niveaux, située à San Ciprianu, à 8 km de Porto-Vecchio et à 300 m de la plage. Elle dispose de 4 pièces (dont 3 chambres), avec une capacité pour 8 personnes, d’un balcon de 12 m2 et d’une belle terrasse de 45 m2 avec un barbecue\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eUne semaine à partir de 779€.  \u003c/strong\u003e\u003ca href=\"/fr9210.121.2\"\u003e\u003cstrong\u003ewww.interhome.fr/fr9210.121.2\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003eLa meilleure période de l’année pour visiter la Toscane est celle des vendanges, au mois de septembre, ou juste avant que les raisins soient récoltés. Depuis ses douces collines et ses vignes parsemées de cyprès, vous pourrez déguster les excellents Chianti* et les produits locaux.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eSous le soleil de Toscane\u003c/strong\u003e\u003cbr\u003eCette villa de 3 pièces et d’une superficie de 80 m2 offre un lieu de retraite luxueux et paisible, entouré de vert et immergée dans les collines du Chianti Classico, parmi les vignobles et les oliveraies. Elle dispose d’un grand séjour ainsi que deux chambres, permettant accueillir 6 personnes au total. Vous pourrez profiter de son beau jardin équipé d'une piscine, de meubles de jardin et d'un barbecue.\u003cbr\u003eLa ville de Roccastrada est à 5 km, avec tous les services : restaurants, supermarchés… Une maison pour les amoureux de la nature, du bon vin* et de la détente.\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cstrong\u003eUne semaine à partir de 721€. \u003c/strong\u003e\u003ca href=\"/it5370.200.1\"\u003e\u003cstrong\u003ewww.interhome.fr/it5370.200.1\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003cem\u003e*L'alcool est dangereux pour la santé, à consommer avec modération.\u003c/em\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1729575-fre-FR/2019-08-21_FR_Destinations_oenologiques.pdf\"\u003e\u003cstrong\u003e\u0026gt;\u0026gt; Télécharger le communiqué de presse au format PDF\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\u003cp align=\"justify\"\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1729630-fre-FR/2019-08-21_FR_Photos_Destinations_oenologiques.zip\"\u003e\u003cstrong\u003e\u0026gt;\u0026gt; Télécharger les photos au format zip\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre location de vacances !",
+                    "link": {
+                        "href": "/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre location vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome ?",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVoulez-vous découvrir de nouvelles destinations ? La meilleure solution est d’opter pour la location vacances. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des \u003ca href=\"https://fr.trustpilot.com/review/www.interhome.fr\"\u003eavis clients positifs\u003c/a\u003e. Faites-nous confiance et optez pour la location saisonnière en toute sécurité.\u003cbr\u003e\u003ca href=\"/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/cavalaire/\"\u003eCavalaire\u003c/a\u003e | \u003ca href=\"/france/charente-maritime/\"\u003eCharente Maritime\u003c/a\u003e | \u003ca href=\"/france/corse/\"\u003eCorse\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/france/normandie/deauville-trouville/\"\u003eDeauville-Trouville\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e | \u003ca href=\"/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/france/finistere/\"\u003eFinistère\u003c/a\u003e | \u003ca href=\"/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/france/les-landes/\"\u003eLes Landes\u003c/a\u003e | \u003ca href=\"/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/france/morbihan/\"\u003eMorbihan\u003c/a\u003e | \u003ca href=\"/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/france/pays-basque/\"\u003ePays Basque\u003c/a\u003e | \u003ca href=\"/france/morbihan/quiberon/\"\u003eQuiberon\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/sainte-maxime/\"\u003eSainte-Maxime\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/\"\u003eSavoie - Haute Savoie\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Réservez dès maintenant votre location vacances.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

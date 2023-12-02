@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2017/",
+                            "label": "Medienmitteilungen 2017"
+                        },
+                        {
+                            "href": "/news/2017/20170710-at-der-berg-ruft/",
+                            "label": "Der Berg ruft"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Der Berg ruft",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eRaus in die Natur und rein ins Wandervergnügen: Über Stock und Stein, frische Bergluft einatmen, grandiose Aussichten genießen und sich vom stressigen Alltag erholen. Das Wandern ist des Österreichers Lust!\u003c/p\u003e\u003cp\u003eIns Wandervergnügen stürzen können sich Herr und Frau Österreicher in ihrem Heimatland genauso gut wie zum Beispiel in der Schweizer Bergwelt oder entlang der italienischen Riviera. Besonders im Herbst laden unzählige Regionen zum Wanderspaß ein. Wanderschuhe montieren, Rucksack packen und los geht’s! Der Berg ruft…\u003c/p\u003e\u003cp\u003e     \u003cbr\u003e\u003cstrong\u003e…in Tirol! \u003c/strong\u003e\u003cbr\u003eSeefeld in Tirol ist vor allem wegen der dreimaligen Austragung der Olympischen Winterspiele bekannt. Aber auch im Sommer entfacht in Seefeld das Feuer bei Sportbegeisterten. Unzählige Wanderwege für Groß und Klein laden ein, die Olympiaregion zu Fuß zu entdecken. Ein besonderes Highlight ist der Blick auf die beiden Skisprungschanzen. \u003c/p\u003e\u003cp\u003e1 Woche in der 3-Sterne-Ferienwohnung \"Am Birkenhain\" in Seefeld für maximal 4 Personen ist bei Interhome ab EUR 443.- buchbar, inklusive Endreinigung sowie Bett- und Toilettenwäsche. \u003ca href=\"http://www2.interhome.at/news/20170710-at-der-berg-ruft/www.interhome.at/AT6100.100.3\"\u003ewww.interhome.at/AT6100.100.3\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e…im Wallis!\u003c/strong\u003e\u003cbr\u003eSaftig grüne Wiesen, weidende Kühe und zahlreiche Wanderwege durch die Alpen – das alles findet man auf der Bettmeralp im Wallis. Ob entlang des großen Aletschgletschers, hoch hinauf auf das Bettmerhorn oder gemütlich durch den Aletschwald – Wanderfreunde kommen in der imposanten Naturlandschaft bestimmt auf ihre Kosten. Und nach einer anstrengenden Wanderung ist ein Sprung in den kühlen Bettmersee genau das Richtige!\u003c/p\u003e\u003cp\u003e1 Woche in der 3-Sterne-Ferienwohnung \"Adler\" auf der Bettmeralp im Kanton Wallis für maximal 4 Personen ist bei Interhome ab EUR 706.- buchbar, inklusive Endreinigung und Bettwäsche. \u003ca href=\"http://www2.interhome.at/news/20170710-at-der-berg-ruft/www.interhome.at/CH3992.400.4\"\u003ewww.interhome.at/CH3992.400.4\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e…in Cinque Terre!\u003c/strong\u003e\u003cbr\u003eAn der Küste der italienischen Riviera kann man nicht nur gut baden, sondern auch wandern! Ob ein eher anspruchsvoller Marsch durch Rebberge und Olivenhaine oder gemütlich über die Via dell'Amore – für jeden Wandertyp findet sich in der Region Cinque Terre die passende Route. Lohnenswert ist zudem ein Abstecher in den Nationalpark, der mit seinen Wanderrouten von einer Gesamtlänge von über 120 Kilometern besonders geübten Wanderern große Freude bereiten wird.\u003c/p\u003e\u003cp\u003e1 Woche im 3-Sterne-Ferienhaus \"Laura\" in Santa Margherita Ligure in Italien für maximal 6 Personen ist bei Interhome ab EUR 1.533.- buchbar, inklusive Bett- und Toilettenwäsche.\u003ca href=\"http://www2.interhome.at/news/20170710-at-der-berg-ruft/www.interhome.at/IT5048.300.1\"\u003ewww.interhome.at/IT5048.300.1\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/989728-ger-XX/2017-07-11_Interhome_Der-Berg-ruft_AT.pdf\"\u003ePressebericht herunterladen\u003c/a\u003e\u003cbr\u003e\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/989854-ger-XX/20170711_AT%20Der%20Berg%20ruft.zip\"\u003eDie Bilder im Zip-Format herunterladen\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

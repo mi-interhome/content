@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/news/2019/",
+                            "label": "Pressemitteilungen 2019"
+                        },
+                        {
+                            "href": "/news/2019/13.03.2019-_Blütenfeuerwerk/",
+                            "label": "13.03.2019: Blütenfeuerwerk in den Niederlanden"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "13.03.2019: Blütenfeuerwerk in den Niederlanden",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003e13.03.2019: Blütenfeuerwerk in den Niederlanden\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSchwimmende Märkte zählen für viele Touristen in Asien zu den absoluten „Must-Sees“.  Dass es mit dem Bloemenmarkt aber auch in Amsterdam einen der schönsten Märkte zu Wasser gibt, ist vielen noch unbekannt. Für Blumenliebhaber gibt es aber auch noch weitere Ecken in den Niederlanden zu entdecken: Neben dem bekannten Keukenhof mit seinen Millionen Tulpen bieten auch das ursprüngliche Kop van Noord-Holland oder der stimmungsvolle Blumenkorso von Eelde seinen Besuchern ein beeindruckendes Meer aus Farben und Düften. Interhome, der Qualitätsanbieter für Ferienhäuser und -wohnungen, hat in den Niederlanden die passenden Unterkünfte für Blumenfans im Programm – von familiär bis stylisch, von kuschelig bis geräumig.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTulpen und Meer\u003c/strong\u003e\u003cbr\u003eSich morgens am Sandstrand die Meeresbrise um die Nase wehen lassen und nachmittags das Duft- und Farbenspektakel im Keukenhof von Lisse bewundern: Nur elf Kilometer vom berühmten Blumenpark mit den mehr als 7 Millionen Tulpen, Hyazinthen und Narzissen entfernt liegt die moderne Villa „Tapuit 8“. Das großzügige Haus ist geschmackvoll und hell eingerichtet und bietet Platz für bis zu acht Personen. Für Urlauber, die neben Blumen und Meer noch ein bisschen Kultur genießen möchten, bietet sich ein Ausflug in die malerische Universitätsstadt Leiden mit ihren vielen Grachten an.\u003cbr\u003e\u003cem\u003eProduktbeispiel: \u003c/em\u003e\u003ca href=\"/niederlande/suedholland/noordwijk/ferienhaus-de-witte-raaf-nl2204.810.2/\"\u003eVilla „Tapuit 8“\u003c/a\u003e\u003cem\u003e, bis 8 Personen, Noordwijk, Niederlande, Objekt-Nr. NL2204.810.2, 08.04.2019 - 12.04.2019, 917,00 €*\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSchwimmender Blumenmarkt in Amsterdam\u003c/strong\u003e\u003cbr\u003eTulpen aus Amsterdam - seit sie vor 400 Jahren erstmals importiert wurden, sind sie das Wahrzeichen Hollands. Auf eine lange Tradition kann auch der schwimmende Blumenmarkt, der „Bloemenmarkt“ auf der Singel-Gracht von Amsterdam, zurückblicken. Seit 1862 werden hier Blumenzwiebeln und Blumen verkauft. Heute können Einheimische und Urlauber das ganze Jahr über auf fünf Frachtschiffen Samen, Kräuter und Blumen kaufen. Ein guter Ausgangspunkt für einen Amsterdam-Aufenthalt ist das Vier-Zimmer-Chalet „Cub6“ knapp 15 Kilometer vor den Toren der Metropole. Auf 65 stilvoll eingerichteten Quadratmetern finden hier bis zu sechs Personen Platz.\u003cbr\u003e\u003cem\u003eProduktbeispiel: \u003c/em\u003e\u003ca href=\"/niederlande/nordholland/halfweg/ferienhaus-droompark-spaarnwoude-nl1165.100.17/?arrivalDate=2019-04-04\"\u003eFerienhaus „CUB6“\u003c/a\u003e\u003cem\u003e, bis 6 Personen, Halfweg, Niederlande, Objekt-Nr. NL1165.100.17, \u003c/em\u003e\u003cem\u003e13.05.2019 - 16.05.2019, \u003c/em\u003e\u003cem\u003e499,00 €*\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eZwischen Tulpen, Dünen und Windmühlen\u003c/strong\u003e \u003cbr\u003eDas echte Holland kennenlernen – mit Tulpenfeldern, Windmühlen und Dünen: Kaum woanders ist das so entspannt möglich wie am Kop van Noord-Holland. In der Region zwischen Ijsselmeer und Nordsee liegt unter anderem das größte Blumenzwiebelfeld der Welt. Im Frühjahr kann man dort Millionen farbenprächtige Blüten bestaunen, Wandern und Radfahren. Im kleinen Städchen Wieringen inmitten einer grünen Landschaft, steht das Ferienhaus „Wiringhervilla 4“. In dem hellen und im maritimen Stil eingerichteten Ferienhaus können sich bis zu sechs Personen wohlfühlen. Nur 250 Meter vom Meer entfernt lädt ein Sprudelbad im Garten zu entspannten Stunden in der freien Natur ein.\u003cbr\u003e\u003cem\u003eProduktbeispiel: \u003c/em\u003e\u003ca href=\"/niederlande/nordholland/wieringen/ferienhaus-wiringhervilla-4-nl1777.100.7/?arrivalDate=2019-05-17\u0026amp;pax=1\u0026amp;duration=7\"\u003eFerienhaus „Wiringhervilla 4“\u003c/a\u003e\u003cem\u003e, bis 6 Personen, \u003c/em\u003e\u003cbr\u003e\u003cem\u003eWieringen, Niederlande, Objekt-Nr. NL1777.100.7, \u003c/em\u003e\u003cbr\u003e\u003cem\u003e17.05.2019 - 24.05.2019, 576,00 €*\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eZum Blumenkorso nach Eelde\u003c/strong\u003e\u003cbr\u003eWenn am 31. August und 1. September die prächtig geschmückten Prunkwagen beim Blumenkorso von Eelde durch die Straßen ziehen, werden sie von Begeisterungsrufen zehntausender Zuschauer begleitet. Das ganze Jahr über befindet sich mit der „Watervilla“ ein Highlight direkt am Paterswoldsemeer. Das modern eingerichtete Ferienhaus verfügt über eine private Bootsanlegestelle und eine Fensterfront im Wohnbereich, die das Domizil sehr hell wirken lässt. Sportboot fahren, surfen, segeln – Wassersportfans kommen hier im Sommer voll auf ihre Kosten, zumal weitere Seen wie der Hoornse Plas in der Nähe liegen.\u003cbr\u003e\u003cem\u003eProduktbeispiel: \u003c/em\u003e\u003ca href=\"/niederlande/groningen-provinz/eelderwolde/ferienhaus-watervilla-nl9766.100.3/?duration=7\u0026amp;arrivalDate=2019-08-29\u0026amp;pax=1\"\u003eFerienhaus „Watervilla“\u003c/a\u003e\u003cem\u003e, bis 6 Personen, \u003c/em\u003e\u003cbr\u003e\u003cem\u003eEelderwolde, Niederlande, Objekt-Nr. NL9766.100.3, \u003c/em\u003e\u003cbr\u003e\u003cem\u003e29.08.2019 - 02.09.2019, 921,00 €*\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e*ggf. zuzüglich Nebenkosten\u003c/em\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

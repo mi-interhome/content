@@ -26,88 +26,152 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/o-interhomeu/",
+                            "label": "O nama"
+                        },
+                        {
+                            "href": "/o-interhomeu/odrzivost/",
+                            "label": "Volite prirodu – zaštita okoliša se tiče svih nas"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Volite prirodu – zaštita okoliša se tiče svih nas",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group je uzor kada je riječ o održivosti. Smatramo da je naša dužnost sačuvati okoliš za buduće generacije. Na ovaj način, Vi kao naš gost, možete dati doprinos zaštiti klime za svoj boravak u kući za odmor. Puni iznos primjenjuje se na projekte održivosti kojima upravlja M Cimate Fund putem našeg partnera myclimate.\u003c/p\u003e\u003cp\u003eObvezali smo se zaštiti klime, ne samo prema našim korisnicima i matičnoj tvrtki Migros, nego i na međunarodnoj razini. Interhome Grupa potpisala je \"Glasgowsku deklaraciju o klimatskim akcijama u turizmu\" Svjetske turističke organizacije UN-a i time se obvezala na prepolovljenje emisija stakleničkih plinova uzrokovanih do 2030. godine i postizanje neto nule najkasnije do 2050. godine.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003ePročitajte više o našim ciljevima, našoj suradnji s myclimate-om i našem programu zaštite pčela. Naš tim za održivost sakupio je korisne savjete za svakodnevni život i praznike posebno za vas. Održivost nema datum završetka, zbog čega smo kontinuirano i ustrajno predani održivom turizmu za odmor današnjice i budućnosti.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBioraznolikost\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eKlimatske promjene\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eNaši korisnici\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eNaši partneri\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eNaše destinacije\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003eOsoblje\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eUred\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38945/2142245-1-eng-XX/Sustainability_2022_wheel_hr_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39862\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBioraznolikost\u003c/h4\u003e\u003cp\u003eKlimatske promjene imaju značajan utjecaj na bioraznolikost, što posljednično utječe i na turizam. Bioraznolikost života na Zemlji uključuje biljke, životinje i mikroorganizme. Kako se klima mijenja, ekosustavi se mijenjaju, a bioraznolikost je ugrožena. To može dovesti do gubitka važnih staništa, izumiranja vrsta i promjena u vremenu i mjestu prirodnih događaja, poput cvjetanja ili migracije.\u003c/p\u003e\u003cp\u003eOve promjene imaju izravan utjecaj na turizam jer mnoge putnike privlače prirodna područja i divlje životinje. Na primjer, koraljni grebeni, koji su ključni za morsku bioraznolikost, oštećeni su porastom temperature mora i zakiseljavanjem oceana, što ih čini manje privlačnima za turiste. Slično tome, promjene u rasprostranjenosti divljih životinja mogu turistima otežati uočavanje određenih vrsta, što utječe na njihovo cjelokupno iskustvo.\u003c/p\u003e\u003cp\u003eTurizam također može pridonijeti klimatskim promjenama, što pogoršava problem. Industrija je veliki proizvođač stakleničkih plinova, posebno kroz transport i korištenje energije. Stoga održivi turizam smanjuje emisije ugljičnog dioksida i smanjuje utjecaj na prirodne ekosustave – sve neophodno za ublažavanje negativnih učinaka klimatskih promjena na biološku raznolikost.\u003c/p\u003e\u003cp\u003eZaključno, klimatske promjene i gubitak bioraznolikosti imaju značajan utjecaj na turizam, a industrija mora poduzeti mjere kako bi smanjila svoj doprinos problemu i prilagodila se promjenjivom okruženju. Promicanjem prakse održivog turizma možemo pomoći u zaštiti bioraznolikosti i osigurati da buduće generacije mogu nastaviti uživati ​​u prirodnim ljepotama našeg planeta.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eKlimatske promjene\u003c/h4\u003e\u003cp\u003eKlimatske promjene uzrokovane su porastom stakleničkih plinova u Zemljinoj atmosferi, poput ugljičnog dioksida, metana i dušikovog oksida. Ovi plinovi zadržavaju toplinu od sunca i uzrokuju porast temperature planeta, što rezultira promjenama u vremenskim obrascima, razinama mora i prirodnom okolišu. Sektor smještaja u turističkoj industriji značajno pridonosi emisijama stakleničkih plinova zbog velike potrošnje energije i ovisnosti o fosilnim gorivima. Prakse održivog turizma, kao što je korištenje obnovljivih izvora energije, smanjenje potrošnje energije i provedba strategija za smanjenje otpada, mogu pomoći u smanjenju utjecaja smještajnog sektora na klimatske promjene i promicanju održivosti okoliša.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 11,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eNaši korisnici\u003c/h4\u003e\u003cp\u003eDok putujete, posjećujte lokalne znamenitosti, upoznajte lokalne ljude i kulturu te podržite zajednicu kupovinok lokalnih proizvoda. Istražite živahnu ponudu lokalnih tržnica kako biste prihvatili bogatstvo i autentičnost svog okruženja, ostavljajući pozitivan trag na lokalno gospodarstvo i zajednicu. Time ćete ne samo stvoriti nezaboravne trenutke, već i pridonijeti održivom razvoju, očuvati destinacije koje posjećujete i aktivno sudjelovati u zaštiti klime.\u003c/p\u003e\u003cp\u003eNaša predanost izgradnji bolje budućnosti nadilazi naše svakodnevne aktivnosti. Prepoznajemo važnost zaštite okoliša tijekom odmora i odlučni smo motivirati naše kupce da nam se pridruže u ovoj važnoj misiji. Imajući to na umu, pripremili smo zbirku preporuka koje će vam pomoći da bez napora pozitivno utječete na okoliš dok ste na odmoru.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eNaši partneri\u003c/h4\u003e\u003cp\u003ePutovanja ne mogu biti održiva bez angažiranja i podrške naših dioničara, partnera i lanca opskrbe. Dovodeći ih na ovo putovanje, učeći i nadahnjujući jedni druge i zahtijevajući promjenu.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eNaše destinacije\u003c/h4\u003e\u003cp\u003eU našoj tvrtki veliki naglasak stavljamo na dobrobit naših gostiju i okoliša. Kako bismo ispunili ovu obvezu, pažljivo procjenjujemo svaku našu kuću za odmor prema našem popisu za provjeru održivosti. Osim toga, njegujemo blizak radni odnos s vlasnicima kuća, potičući suradnju kako bismo kontinuirano poboljšavali prakse održivosti naših kuća za odmor.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 13,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003eOsoblje\u003c/h4\u003e\u003cp\u003eU našoj tvrtki duboko smo posvećeni promicanju ekološke svijesti i održivog razvoja. Kao dio naše posvećenosti ovim vrijednostima, cilj nam je osigurati da svaki zaposlenik aktivno sudjeluje u inicijativi Climate Fresk. Projekt Climate Fresk je suradnička inicijativa usmjerena na podizanje svijesti i razumijevanja klimatskih promjena. Uključuje interaktivne radionice u kojima sudionici sudjeluju u obliku igre kako bi istražili uzroke, utjecaje i potencijalna rješenja klimatskih promjena. Ove radionice koriste kombinaciju znanstvenih informacija i grupnih rasprava kako bi obrazovale i osnažile pojedince da poduzmu mjere protiv klimatskih promjena. Pružanjem platforme za dijalog i razmjenu znanja, projekt Climate Fresk ne samo da potiče osjećaj hitnosti, već i nadahnjuje zajedničke napore u rješavanju ovog globalnog problema. Vjerujemo da aktivnim uključivanjem naših zaposlenika u radionice Climate Fresk, možemo pružiti vrijedne uvide i osnažiti ih da donose informirane odluke za izgradnju održive budućnosti te budućnosti otporne na klimatske promjene.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 14,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eUred\u003c/h4\u003e\u003cp\u003eKako bismo poboljšali naš utjecaj na okoliš, temeljito smo procijenili svaki ured unutar naše organizacije. To uključuje procjenu izvora električne energije, sustava grijanja, pa čak i manjih detalja poput papira i sredstava za čišćenje. Naoružani ovim vrijednim informacijama, stvaramo jasne smjernice za poticanje poboljšanja okoliša u našim uredima.\u003c/p\u003e\u003cp\u003eRazumijevanjem ekoloških implikacija našeg poslovanja, možemo implementirati ciljane strategije za smanjenje našeg ekološkog otiska. To uključuje optimizaciju izvora energije, poboljšanje učinkovitosti sustava grijanja, usvajanje održivih alternativa papiru i korištenje ekološki prihvatljivih sredstava za čišćenje. Ovi su koraci ključni za usklađivanje naših ureda s održivom praksom i smanjenje našeg ukupnog utjecaja na okoliš.\u003c/p\u003e\u003cp\u003eKroz našu stalnu predanost odgovornom upravljanju resursima i smanjenju otpada, cilj nam je postaviti pozitivan primjer u našoj industriji i nadahnuti druge da učine isto. Shvaćamo da čak i male promjene mogu imati značajan utjecaj kada se pomnože u cijeloj našoj organizaciji.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 15,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Sigurnost u vašoj kući za odmor!",
+                    "link": {
+                        "href": "/o-interhomeu/sigurnost-u-kuci-za-odmor/",
+                        "label": "Više informacija"
+                    },
+                    "car": "Pojedinačni dolasci",
+                    "cleaning": "Kvalitetno kontrolirano čišćenje",
+                    "independence": "Sloboda i neovisnost",
+                    "key": "Sigurna predaja ključa na licu mjesta",
+                    "privacy": "Privatnost u vašoj kući za odmor",
+                    "support": "Uslužnost na licu mjesta"
+                }
             },
             {
                 "id": 16,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Samo odabrane i provjerene kuće za odmor",
+                            "subtitle": "Kvaliteta je naš apsolutni prioritet",
+                            "caption": "Svaka kuća za odmor je provjerena od strane naših stručnjaka kako bismo Vam omogućili bezbrižan odmor."
+                        },
+                        {
+                            "title": "Garancija raspoloživosti i usluga na licu mjesta",
+                            "subtitle": "Uz nas se možete opustiti",
+                            "caption": "Ključeve preuzimate od domaćina ili u jednom od naših lokalnih ureda koji su Vam na raspolaganju za sva Vaša pitanja i želje tijekom boravka. A tu je i naša 24/7 služba za korisnike."
+                        },
+                        {
+                            "title": "Potpuni užitak i opuštanje",
+                            "subtitle": "Privatnost i sloboda vlastite kuće za odmor",
+                            "caption": "Bez prilagođavanja satnicama i rasporedima, u kući za odmor uživajte u danu prema svojim željama. Uz dovoljno prostora za cijelu obitelj ili prijatelje."
+                        }
+                    ]
+                }
             },
             {
                 "id": 17,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Odaberite Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNikad nije bilo lakše pronaći savršenu kuću za Vaš odmor. Želite li otkriti nove destinacije? Otkrijte nova mjesta ili otoke u \u003ca href=\"/hrvatska/\"\u003eHrvatskoj\u003c/a\u003e, iskusite što znači \"la dolce vita\" u \u003ca href=\"/italija/\"\u003eItaliji\u003c/a\u003e ili posjetite šarmantnu \u003ca href=\"/francuska/azurna-obala/\"\u003eFrancusku rivijeru\u003c/a\u003e. Neka Vas inspirira naša široka ponuda kuća za odmor i apartmana, a uz Interhome rezervirajte brzo, jednostavno i sigurno.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Sloboda, privatnost i dovoljno prostora za cijelu obitelj",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBoravak u kući za odmor ima broje prednosti: provodite vrijeme prema svojem rasporedu. Bez smetnji hotelskog osoblja ili drugih gostiju možete se potpuno opustiti. Neovisno tražlite li novu \u003ca href=\"/inspiracije/gradske-avanture/\"\u003egradsku avanturu\u003c/a\u003e ili opuštajući \u003ca href=\"/inspiracije/odmor-obitelji/\"\u003eodmor s obitelji\u003c/a\u003e, imamo nešto za svaki ukus i svaki džep.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

@@ -26,48 +26,118 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_ic_casa_selection_2023/2274370-2-eng-XX/Header_1200x410_IH_IC_Casa_Selection_2023.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/temaer/",
+                            "label": "Rejseidéer"
+                        },
+                        {
+                            "href": "/temaer/casa-selection/",
+                            "label": "Casa Selection – Til særlige ferieøjeblikke"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Casa Selection – Til særlige ferieøjeblikke",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eLæg hverdagen bag dig når du starter din ferie og fordyb dig i øjeblikke med afslapning - det er fuldt ud muligt når du bor i et af feriehusene eller i en af ferielejlighederne i vores \u003ca href=\"/sogning/?casa=true\" target=\"_blank\"\u003eCasa Selection-ferieboliger\u003c/a\u003e. Hvis du vil forkæle dig selv med noget særligt i din velfortjente ferie, finder du udvalgte ferieboliger, hvoraf de fleste er 5-stjernede, hos Casa Selection, inklusiv fremragende faciliteter og unikke beliggenheder. Nogle med pool, nogle med andre faciliteter - disse feriehuse og lejligheder tilbyder dig de perfekte rammer for grænseløs ferieglæde. Her kan du slappe af i en unik atmosfære og samtidig nyde den uafhængighed, privatliv og fleksibilitet, som en ferie i en feriebolig byder på.\u003c/p\u003e\u003cp\u003eHvad med et storslået \u003ca href=\"/italien/toscana/?casa=true\" target=\"_blank\"\u003elandsted i Toscana\u003c/a\u003e, en moderne \u003ca href=\"/kroatien/?casa=true\" target=\"_blank\"\u003evilla i Kroatien\u003c/a\u003e eller en ektraordinær \u003ca href=\"/spanien/mallorca/?casa=true\" target=\"_blank\"\u003efinca på Mallorca\u003c/a\u003e?\u003cbr\u003eBliv inspireret og book en uforglemmelig ferie i din personlige drømmeferiebolig!\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 6,
-                "component": "",
-                "content": null
+                "component": "Heading",
+                "content": {
+                    "title": "Vores anbefalinger:",
+                    "level": 3,
+                    "size": "md"
+                }
             },
             {
                 "id": 7,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så sikker er du i ferieboligen!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhed-i-dit-feriehus/",
+                        "label": "Yderligere information"
+                    },
+                    "car": "Individuel ankomst",
+                    "cleaning": "Kvalitetskontrolleret rengøring",
+                    "independence": "Frihed og uafhængighed",
+                    "key": "Sikker nøgleudlevering på stedet",
+                    "privacy": "Privatliv i din feriebolig",
+                    "support": "Personlig assistance på stedet"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Kun kvalitetssikrede sommerhuse",
+                            "subtitle": "Kvalitet er vores primære prioritet ",
+                            "caption": "Hver ejendom kontrolleres før ankomst for at sikre det bedst mulige ophold"
+                        },
+                        {
+                            "title": "Garanteret tilgængelighed og service på stedet ",
+                            "subtitle": "Få mest muligt ud af vores ekspertise ",
+                            "caption": "Nøgle-administration er arrangeret af vores hjælpsomme personale. Tilgængelig døgnet rundt eller på stedet for at hjælpe dig med alle dine spørgsmål, såsom: med tips og viden om dit feriemål og din reserverede bolig. "
+                        },
+                        {
+                            "title": "En mindeværdig ferie oplevelse ",
+                            "subtitle": "Privatliv og frihed i dit eget feriehus ",
+                            "caption": "Vær din egen chef, spis når du vil og har masser af plads til alle dine venner og familie "
+                        }
+                    ]
+                }
             },
             {
                 "id": 9,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig været nemmere at finde den perfekte ferie. Vil du opleve nye feriedestinationer? Der er ingen bedre måde at gøre det på end ved at have sin egen feriebolig: Nyd \"la dolce vita\" i \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e, oplev den charmerende livsstil på den \u003ca href=\"/frankrig/cote-d-azur/\"\u003eFranske Riviera\u003c/a\u003e eller nyd den måde at leve på. Find inspiration i vores \u003ca href=\"\"\u003eferie tips\u003c/a\u003e og book online - det er hurtigt, let og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihed, integritet og plads i dit eget feriehus",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAt have sit eget feriehus eller lejlighed giver masser af fordele: Du kan bruge tiden præcis som du vil. Der er ikke forstyrrelser fra andre gæster eller hotelpersonalet - du kan holde ferie efter dine helt egne regler. Uanset om du leder efter en \u003ca href=\"/temaer/storbyferie/\"\u003ebyferie\u003c/a\u003e, en afslappende ferie med \u003ca href=\"/temaer/family/\"\u003efamilie\u003c/a\u003e eller med dine venner. Nyd at have masser af plads, fleksibilitet og frihed i din egen feriebolig.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

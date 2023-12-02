@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2023/",
+                            "label": "Medienmitteilungen 2023"
+                        },
+                        {
+                            "href": "/news/2023/20240424-auf-nach-Dänemark/",
+                            "label": "Die Schönheit Dänemarks entdecken: Rund 6.000 individuelle Ferienhäuser und -wohnungen neu bei Interhome buchbar"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Die Schönheit Dänemarks entdecken: Rund 6.000 individuelle Ferienhäuser und -wohnungen neu bei Interhome buchbar",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eInnsbruck, 24.04.2023 | \u003cstrong\u003eMehr als 7.300 Kilometer Küste mit weitläufigen Stränden an Nord- und Ostsee, historische kleine Städte, kulturelle Sehenswürdigkeiten und zahlreiche Freizeitparks – Dänemark entwickelt sich immer mehr zu einem wahren Sehnsuchtsreiseziel. Sein gemäßigtes Klima macht das kleine skandinavische Land ganzjährig zu einer attraktiven Urlaubsdestination. Dänemarkfans können bei Interhome aus rund 6.000 Ferienhäusern und Ferienwohnungen ihr persönliches Urlaubs-Zuhause wählen. Die Unterkünfte mit dem typisch dänischen Hygge-Faktor finden Interessierte auf \u003ca href=\"/\"\u003ewww.interhome.at\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDänemark für die ganze Familie\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eTraumhafte Strände, verschiedene Freizeitparks und Ausflugsziele machen Dänemark zum idealen Urlaubsland für die ganze Familie. Egal, ob Urlaub mit dem Baby, mit Kleinkindern, Teenagern oder mit mehreren Generationen: Interhome bietet für jede Familie das passende Urlaubs-Zuhause. Vom eher pur und minimalistisch ausgestatteten Ferienhaus bis hin zur exklusiven Variante in skandinavischem Design mit Pool, Sauna und Spielzimmer mit Billardtisch: Die Auswahl an individuellen Unterkünften ist groß. Durch seine unmittelbare Nähe zum flach abfallenden Sandstrand ist das \u003cem\u003eFerienhaus Alyssa\u003c/em\u003e im beliebten Urlaubsort Løkken in Nordwestjütland perfekt geeignet für einen Urlaub mit der ganzen Familie. Es verfügt über Annehmlichkeiten wie Sauna, überdachte Terrasse mit Meerblick und Elektroauto-Ladestation. Viel Platz zum Spielen und Herumtollen bietet das 2.500 Quadratmeter große naturbelassene Grundstück. Bonbon-Manufaktur, Family Farm Fun Park oder die Wanderdüne Rubjerg Knude sind nur ein paar der zahlreichen Attraktionen in der näheren Umgebung.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eInterhome-Tipp:\u003c/em\u003e\u003c/strong\u003e \u003ca href=\"/daenemark/nordwestjuetland/lokken/ferienhaus-alyssa-300m-from-the-sea-in-nw-jutland-dk9480.705.1/\" target=\"_blank\"\u003e\u003cem\u003eFerienhaus „Alyssa“ *****\u003c/em\u003e\u003c/a\u003e für bis zu 6 Personen, Dänemark, Nordwestjütland, Løkken, Objekt-Nr. DK9480.705.1, sieben Nächte ab 2.332,00 €*\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePurer Strandgenuss an Dänemarks Küste\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDänemarks endlos lange Küste hat zu jeder Jahreszeit eine ganz besondere Anziehungskraft. Das flachere und damit wärmere Wasser der Ostsee bietet insbesondere Familien mit kleineren Kindern im Sommer sicheren Badespaß. Wer es rauer und wilder mag, wählt ein Ferienhaus oder eine Ferienwohnung an der Nordseeküste. Hier locken Freizeitaktivitäten wie Surfen, Kitesurfen oder Strandsegeln. Über 200 dänischen Stränden attestiert das internationale Umweltsymbol „Blaue Flagge“ eine ausgezeichnete Wasserqualität und sehr saubere Strandabschnitte.\u003c/p\u003e\u003cp\u003eIm Norden von Seeland, Dänemarks größter Insel, liegt das \u003cem\u003eFerienhaus Dorthie\u003c/em\u003e. Erbaut im Jahr 2016 bietet es Platz für bis zu 8 Personen und lässt keine Wünsche offen: 2 Bäder, traumhaftes Interior sowie eine großzügige Sonnenterrasse mit Außendusche und Grill Und selbst bei unbeständigem Wetter können die Gäste auf der überdachten Terrasse entspannen und z.B. wind- und wettergeschützt grillen. Im Urlaubsort Hornbæk schlägt das Herz von Wassersportfans höher. Die Strände mit ihrem feinkörnigen Sand gehören zu den kinderfreundlichsten Europas. Aber auch Schlösser, Kunstmuseen und die Hauptstadt Kopenhagen lassen sich von hier aus in kurzer Zeit erreichen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eInterhome-Tipp\u003c/em\u003e\u003c/strong\u003e: \u003ca href=\"/daenemark/seeland/hornbaek/ferienhaus-dorthie-800m-from-the-sea-in-sealand-dk3100.609.1/\" target=\"_blank\"\u003e\u003cem\u003eFerienhaus „Dorthie“ *****\u003c/em\u003e\u003c/a\u003e für bis zu 8 Personen, Dänemark, Seeland, Hornbæk,\u003cbr\u003eObjekt-Nr. DK3100.609.1, sieben Nächte ab 1.797,00 €*\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHaustiere herzlich willkommen: Ferienhäuser für Urlaub mit Hund\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eFür die meisten Hundehaltenden sind die schönsten Wochen im Jahr erst dann perfekt, wenn der Familienhund mit auf Reisen geht. Weitläufige Hundestrände an Nord- und Ostsee sowie ein auch im Hochsommer gemäßigtes Klima machen Dänemark zu einem attraktiven Reiseland für Urlaub mit dem geliebten Vierbeiner. Interhome bietet hier eine große Auswahl an individuellen Ferienhäusern und Ferienwohnungen für Mensch und Hund. Ob Ferienhaus mit großem Dünengrundstück oder Ferienwohnung direkt am Hundestrand: Bei ausgedehnten Spaziergängen kann der Hund durch Sand und Heide toben oder sich im Meer abkühlen. Nur 150 Meter vom Strand entfernt liegt das gemütliche \u003cem\u003eFerienhaus Elva\u003c/em\u003e in Idestrup auf der Insel Falster. Es bietet Platz für bis zu 5 Personen und verfügt über einen eigenen Garten. Hier können Mensch und Vierbeiner nach gemeinsamen Ausflügen in der Sonne entspannen. Denn es gibt viel zu sehen auf Falster: Im Wald von Halskov Vænge befinden sich beispielsweise prähistorische Grabhügel, Hünengräber und Dolmen und im Naturschutzgebiet Bøtøskoven können Urlauberinnen und Urlauber wilde Pferde und schottische Hochlandrinder sowie zahlreiche Vogelarten beobachten.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eInterhome-Tipp:\u003c/em\u003e\u003c/strong\u003e \u003cem\u003eFerienhaus „Elva“ ***\u003c/em\u003e für bis zu 5 Personen, Dänemark, Falster, Idestrup, Objekt-Nr. DK4872.622.1, sieben Nächte ab 905,00 €*\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWellness-Auszeit im Ferienhaus\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eFrische Meeresbrise, weitläufige Strände und geschwungene Dünenlandschaften – Dänemark bietet das perfekte Setting für eine erholsame Wellness-Auszeit. Zahlreiche Ferienhäuser im nördlichen Nachbarland verfügen über Sauna und Sprudelbad bis hin zum eigenen Indoor-Pool. So können Urlaubsgäste nach einem Tag am Strand, einem Bootsausflug oder einem ausgedehnten Spaziergang ihr persönliches Wellnessprogramm im Ferienhaus fortsetzen. So richtig „hygge“ wird es dann eingekuschelt im Sessel vor dem lodernden Feuer des Kamins oder Schwedenofens. Das \u003cem\u003eFerienhaus Nikan\u003c/em\u003e gehört zu einem kleinen Feriendorf und bietet Platz für bis zu 6 Personen und einen Hund. Die Nähe zum Strand, die hauseigene Sauna, Sprudelbad, Kaminofen sowie die gemütliche Inneneinrichtung sind ideale Voraussetzung, um die Seele baumeln zu lassen. Von Brenderup Fyn aus lassen sich zahlreiche Schlösser und Herrenhäuser, Gärten und Parks sowie Kunstwerkstätten und Galerien auf der Insel erkunden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cem\u003eInterhome-Tipp: \u003c/em\u003e\u003c/strong\u003e\u003ca href=\"/daenemark/fuenen-inseln/brenderup-fyn/ferienhaus-nikan-300m-from-the-sea-in-funen-dk5464.614.1/\" target=\"_blank\"\u003e\u003cem\u003eFerienhaus „Nikan“ ****\u003c/em\u003e\u003c/a\u003e für bis zu 6 Personen, Dänemark, Fünen, Brenderup Fyn, Objekt-Nr. DK5464.614.1, sieben Nächte ab 890,00 €*\u003c/p\u003e\u003cp\u003e\u003cem\u003e* ggf. zuzüglich Nebenkosten\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2229286-ger-AT/230424_Medienmitteilung_Auf%20nach%20D%C3%A4nemark.docx.pdf\" target=\"_blank\"\u003e\u003cem\u003eDie vollständige Medienmitteilung im PDF-Format herunterladen \u0026gt;\u0026gt;\u003c/em\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/2229291-ger-AT/2023_04_24_Auf%20nach%20D%C3%A4nemark_Bilder.zip\" target=\"_blank\"\u003e\u003cem\u003eDie Bilder im ZIP-Format herunterladen \u0026gt;\u0026gt;\u003c/em\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

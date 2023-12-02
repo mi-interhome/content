@@ -26,13 +26,30 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/om-interhome/",
+                            "label": "Om Interhome"
+                        },
+                        {
+                            "href": "/om-interhome/var-kvalitetstandard/",
+                            "label": "Vår kvalitetstandard"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +58,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "Vår kvalitetstandard",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cimg src=\"https://images.interhome.group/ezcms/media/images/content/qualitycheck_logo_s/730750-1-eng-XX/qualitycheck_logo_s.jpg\" width=\"60\" height=\"61\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"10225\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eVi på Interhome arbetar efter en officiell stjärnklassificering, vilket gör att du kan vara säker på att standarden på den semesterbostad du har bokat motsvarar det du förväntar dig.  Vår lokala personal besöker regelbundet semesterbostäderna och tar hänsyn till varje eventuell förändring. Stjärnsystemet gör att du tryggt kan boka våra semesterhus och lägenheter, oavsett vilken typ av semesterboende eller semesterort du väljer.\u003c/p\u003e\u003cp\u003e★★★★★ Exklusiva och noggrant utvalda semesterbostäder av högsta standard. Belägna i vackra omgivningar. Påkostad inredning och utrustning. För dig som är finsmakare och söker det allra bästa. \u003ca href=\"/soek/?stars=5\"\u003eVisa allt\u003c/a\u003e\u003c/p\u003e\u003cp\u003e★★★★ Inredning och utrustning av hög klass, ofta med extra lyxig och påkostad utrustning. För gäster som söker hög komfort och kvalitet. \u003ca href=\"/soek/?stars=4\"\u003eVisa allt\u003c/a\u003e\u003c/p\u003e\u003cp\u003e★★★ Bekväm och smakfull inredning. Mellanklass-standard. För den som söker ett trevligt och komfortabelt semesterboende. \u003ca href=\"/soek/?stars=3\"\u003eVisa allt\u003c/a\u003e\u003c/p\u003e\u003cp\u003e★★ Enkelt och praktiskt inredda semesterbostäder, oftast inredda i lokal stil. För alla som söker ett enkelt semesterboende. \u003ca href=\"/soek/?stars=2\"\u003eVisa allt\u003c/a\u003e\u003c/p\u003e\u003cp\u003e★ Mycket enkelt inredda semesterbostäder, med blygsam komfort. Oftast äldre inredning. För gäster med liten budget och låga krav på bekvämligheter. \u003ca href=\"/soek/?stars=1\"\u003eVisa allt\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +78,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg är du i ditt fritidshus!",
+                    "link": {
+                        "href": "/om-interhome/säkerhet-i-ditt-semesterhus/",
+                        "label": "Mer information"
+                    },
+                    "car": "Individuell ankomstresa",
+                    "cleaning": "Kontrollerad städning",
+                    "independence": "Fri och oberoende",
+                    "key": "Säkert nyckelöverläm nande på plats",
+                    "privacy": "Privatsfär i ditt fritidshus",
+                    "support": "Personlig hjälp på plats under vistelsen"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Endast kvalitetssäkrade semesterbostäder",
+                            "subtitle": "Kvalitet är vår främsta prioritet",
+                            "caption": "Varje fastighet kontrolleras före ankomst för att garantera bästa möjliga vistelse"
+                        },
+                        {
+                            "title": "Garanterad tillgänglighet och service på plats ",
+                            "subtitle": "Få det bästa ut av vår expertis",
+                            "caption": "Nyckelhantering arrangeras av vår hjälpsamma personal. Tillgänglig dygnet runt eller på plats för att hjälpa dig med alla dina frågor, till exempel: med tips och kunskap om ditt semestermål och ditt bokade boende."
+                        },
+                        {
+                            "title": "En minnesvärd semesterupplevelse",
+                            "subtitle": "Privatliv och frihet i ditt eget semesterboende",
+                            "caption": "Var din egen chef, äta när du vill och njut av gott om plats för alla dina vänner och familj"
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Varför boka boende med Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig varit lättare att hitta det perfekta huset, stugan eller lägenheten för semestern. Vill du utforska nya resmål? Det finns inget bättre sätt än att göra det i ett semesterhus: \u003ca href=\"/spanien/\"\u003eHyr ett hus i Spanien\u003c/a\u003e, eller en \u003ca href=\"/sverige/\"\u003estuga i Sverige\u003c/a\u003e, eller varför inte \u003ca href=\"/italien/\"\u003ehyra en villa i Italien\u003c/a\u003e. Bli inspirerad av våra \u003ca href=\"\"\u003esemestertips\u003c/a\u003e och boka online - snabbt, enkelt och säkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAtt hyra en stuga, hus eller lägenhet för semestern erbjuder många fördelar: Bland annat kan du spendera din tid precis som du vill. Ingen störning från andra gäster eller hotellpersonal, bara njuta av din semester och följa dina egna regler. Oavsett om du letar efter en \u003ca href=\"/semestertips/storstadssemester/\"\u003estorstadssemester\u003c/a\u003e, en avkopplande semester med \u003ca href=\"/semestertips/semesterboende-barnfamiljer/\"\u003edin familj eller med vänner\u003c/a\u003e. Helt enkelt njut av mycket utrymme, flexibilitet och frihet i ditt eget semesterboende.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

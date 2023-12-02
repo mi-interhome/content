@@ -26,63 +26,123 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_winter_2023/2204539-2-eng-XX/Header_1200x410_IH_Winter_2023.jpg"
+                        }
+                    ]
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspirace/",
+                            "label": "Bezpečná a příjemná dovolená – objevte naše prázdninové nápady"
+                        },
+                        {
+                            "href": "/inspirace/zima-horach/",
+                            "label": "Zimní dovolená na horách"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
-                "component": "",
-                "content": {}
+                "component": "Heading",
+                "content": {
+                    "title": "Zimní dovolená na horách",
+                    "level": 1,
+                    "size": "xl"
+                }
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 5,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003cstrong\u003eRezervujte si rekreační dům pro zimní dovolenou již dnes a využijte široké nabídky!\u003c/strong\u003e\u003cbr\u003eÚtulné chaty a okouzlující apartmány na vás čekají v těch nejkrásnějších evropských ski regionech. Rezervujte si pro svoji příští zimní dovolenou rekreační objekt v Alpách ve \u003ca href=\"/svycarsko/lyzovani-snowboarding/?season=winter\"\u003eŠvýcarsku\u003c/a\u003e, \u003ca href=\"/rakousko/lyzovani-snowboarding/?season=winter\"\u003eRakousku\u003c/a\u003e nebo \u003ca href=\"/francie/lyzovani-snowboarding/?season=winter\"\u003eFrancii\u003c/a\u003e. Je zde spousta možností vyžití pro mladé (i mladé srdcem), pro ty, co vyhledávají dobrodružství, i pro milovníky après ski. Objevte špičkové regiony jako \u003ca href=\"/svycarsko/graubuenden/lyzovani-snowboarding/\"\u003eGraubünden\u003c/a\u003e, \u003ca href=\"/svycarsko/valais-wallis/lyzovani-snowboarding/?season=winter\"\u003eValais\u003c/a\u003e, \u003ca href=\"/rakousko/tyrolsko/lyzovani-snowboarding/?season=winter\"\u003eTyrolsko\u003c/a\u003e nebo \u003ca href=\"/francie/savojsko-horni-savojsko/val-thorens/?skiing=true\u0026season=winter\"\u003eVal Thorens\u003c/a\u003e.\u003cbr\u003e    \u003cbr\u003eRezervace rekreačního domu nebo apartmánu je perfektní způsob, jak začít plánovat dovolenou. Po skvělém dni na sněhu a slunci přijdete do své útulné chaty či apartmánu, zahřejete se a osušíte u krbu a pak vyrazíte ven na après ski.\u003c/p\u003e\u003ch3\u003eTipy na zimní dovolenou\u003c/h3\u003e\u003cp\u003eNechte se inspirovat našimi nejatraktivnějšími a nejoblíbenějšími rekreačními domy a apartmány. Co třeba pro tuto zimu ubytování v blízkosti sjezdovek? Ať už hledáte útulnou chatu pro celou rodinu nebo okouzlující apartmán pro dva, v naší široké nabídce jistě najdete to, co hledáte.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 7,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003ePerfektní destinace pro vaši zimní dovolenou\u003c/h3\u003e\u003cp\u003eUžijte si zimní dovolenou v těch nejkrásnějších zimních regionech ve \u003ca href=\"/svycarsko/\"\u003eŠvýcarsku\u003c/a\u003e, \u003ca href=\"/rakousko/\"\u003eRakousku\u003c/a\u003e, \u003ca href=\"/francie/\"\u003eFrancii\u003c/a\u003e, \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e nebo \u003ca href=\"/nemecko/\"\u003eNěmecku\u003c/a\u003e. Objevte dechberoucí výhledy na hory, populární lyžařské resorty a malebné zimní světy nebo si užijte útulné “kota” ve \u003ca href=\"/finsko/\"\u003eSkandinávii\u003c/a\u003e a polární záři v \u003ca href=\"/finsko/laponsko/\"\u003eLaponsku\u003c/a\u003e. Všude tam, kde toužíte strávit dovolenou, v těch nejkrásnějších zimních regionech Evropy, váš vysněný rekreační objekt najdete v naší nabídce.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 8,
-                "component": "",
-                "content": {}
-            },
-            {
-                "id": 9,
-                "component": "",
-                "content": null
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eVaše výhody u Interhome\u003c/h3\u003e\u003cp\u003eNabízíme nejen krásné rekreační domy a útulné chaty v nejkrásnějších zimních regionech Evropy, ale dovolená s Interhome jde i ruku v ruce s exkluzivními výhodami a slevami, abychom tak zajistili, že naši klienti prožijí nezapomenutelnou zimní dovolenou za tu nejlepší možnou cenu.\u003c/p\u003e\n"
+                }
             },
             {
                 "id": 10,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
             },
             {
                 "id": 11,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
             },
             {
                 "id": 12,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }

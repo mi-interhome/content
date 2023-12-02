@@ -26,13 +26,34 @@
         "body": [
             {
                 "id": 1,
-                "component": "",
-                "content": {}
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
             },
             {
                 "id": 2,
-                "component": "",
-                "content": {}
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/news/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/fr/news/2019/",
+                            "label": "Presse 2019"
+                        },
+                        {
+                            "href": "/fr/news/2019/20190528-Let-the-dreames-come-true/",
+                            "label": "28.5.2019: Let the dreames come true"
+                        }
+                    ]
+                }
             },
             {
                 "id": 3,
@@ -41,13 +62,19 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "",
-                            "content": {}
+                            "component": "Heading",
+                            "content": {
+                                "title": "28.5.2019: Let the dreames come true",
+                                "level": 1,
+                                "size": "xl"
+                            }
                         },
                         {
                             "id": 2,
-                            "component": "",
-                            "content": {}
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eQui n’a pas déjà rêvé, quand il était enfant, de mener rien qu’une fois la vie de château? Fidèle à la devise «Let the dreams come true», il est possible de passer des vacances royales dans un château.\u003c/strong\u003e\u003cbr\u003e    \u003cbr\u003eUne demeure majestueuse, un immense parc, voire même une piscine: ce qui est réalité pour Archie Harrison Mountbatten Windsor, le fils du prince Harry né il y a quelques semaines, reste pour la plupart des gens un simple rêve. Mais les rêves peuvent devenir réalité, ne serait-ce que pour quelques jours pendant les vacances.\u003cbr\u003e    \u003cbr\u003e\u003cstrong\u003eL’Écosse royale\u003c/strong\u003e\u003cbr\u003eL'Écosse était un royaume indépendant jusqu'au début du XVIII\u003csup\u003ee\u003c/sup\u003e siècle, avant de s’unir avec les autres pays de Grande-Bretagne. Que diriez-vous de vivre une fois à la manière d’Anne Stuart, la dernière reine d'Écosse? Le manoir historique «Ardtornish» et l'appartement de vacances «The Nursery» sont l’endroit idéal pour une telle expérience. Le parc, à proximité d’un lac, et le bois qui borde la propriété sont parfaits pour un séjour sous le signe de la détente pure.    \u003cbr\u003e1 semaine dans l’appartement de vacances 5 étoiles «The Nursery» sur la presqu’île de Morvern en Écosse pour max. 6 personnes est proposée chez Interhome à partir de CHF 1'045.-, y compris nettoyage final et linge de lit et de toilette. \u003ca href=\"/fr/GB8355.300.4\"\u003ewww.interhome.ch/GB8355.300.4\u003c/a\u003e\u003cbr\u003e    \u003cbr\u003e\u003cstrong\u003eLa France royale\u003c/strong\u003e\u003cbr\u003ePour Louis XIV, illustre roi de France, le château des Moindrots aurait sûrement été trop petit et trop peu luxueux. Il préférait passer son temps au château de Versailles. Mais si Monsieur et Madame Tout-le-Monde veulent passer des vacances royales, ce château de 9 pièces, situé au cœur de la France, a suffisamment d'espace à offrir avec un terrain de 4000m², des pâturages et un petit lac.     \u003cbr\u003e1 semaine dans la maison de vacances 3 étoiles «Château des Moindrots» à Luzy en France pour max. 11 personnes est proposée chez Interhome à partir de CHF 840.-, y compris le nettoyage final. \u003ca href=\"/fr/FR6708.651.1\"\u003ewww.interhome.ch/FR6708.651.1\u003c/a\u003e\u003cbr\u003e    \u003cbr\u003e\u003cstrong\u003eL’Italie royale\u003c/strong\u003e\u003cbr\u003eMême si l’Italie n’est plus gouvernée par un roi depuis plus de 70 ans, c'est un pays prédestiné à des vacances royales. Par exemple, dans la villa de 20 pièces «Beatrice». Elle s'étend sur plusieurs étages. Des meubles de style et des éléments anciens lui confèrent une atmosphère authentique du XVIII\u003csup\u003ee\u003c/sup\u003e siècle. Le grand jardin clos, semblable à celui d’un château, abrite même une piscine, idéale pour se rafraîchir en été.\u003cbr\u003e1 semaine dans la maison de vacances 4 étoiles «Beatrice» à Borgo San Lorenzo en Italie pour max. 26 personnes est proposée chez Interhome à partir de CHF 5'951.-, y compris nettoyage final et linge de lit et de toilette. \u003ca href=\"/fr/IT5294.960.1\"\u003ewww.interhome.ch/IT5294.960.1 \u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003cbr\u003e     \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1695780-fre-CH/2019-05-28_Interhome_Let-the-dreams-come-true_F.pdf\" target=\"_blank\"\u003eTélécharger le communiqué de presse complet au format PDF \u0026gt;\u0026gt;.\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1695683-fre-CH/Let%20the%20dreams%20come%20true.zip\" target=\"_blank\"\u003eTélécharger les photos au format ZIP \u0026gt;\u0026gt;.\u003c/a\u003e\u003c/p\u003e\n"
+                            }
                         }
                     ],
                     "menu": null
@@ -55,18 +82,61 @@
             },
             {
                 "id": 4,
-                "component": "",
-                "content": {}
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
             },
             {
                 "id": 5,
-                "component": "",
-                "content": {}
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
             },
             {
                 "id": 6,
-                "component": "",
-                "content": {}
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
             }
         ]
     }
