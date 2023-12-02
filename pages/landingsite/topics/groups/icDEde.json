@@ -1,0 +1,225 @@
+{
+    "id": "28414",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/urlaubsideen/fuer-gruppen/",
+            "title": "Gruppenhäuser - große Ferienhäuser für Gruppenreisen | Interchalet",
+            "description": "Gruppenhäuser: Sie suchen ein großes Ferienhaus für 10 Personen und mehr? Hier finden Sie die ideale Unterkunft für den Urlaub mit vielen Freunden oder der Großfamilie - bei Interchalet.",
+            "keywords": null,
+            "robots": "noindex, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/groups/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienhaus fuer Gruppen - Gruppenhaus",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-ferienhaus-fuer-gruppen.jpg/1638369-2-eng-XX/Hero-1200x410-ferienhaus-fuer-gruppen.jpg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
+                        },
+                        {
+                            "href": "/urlaubsideen/fuer-gruppen/",
+                            "label": "Gruppenhäuser - große Ferienhäuser für Gruppenreisen"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Unsere Empfehlungen",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\u003cstrong\u003eGruppenhäuser für Gruppenreisen ab 10 Personen\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eGemeinsam macht Urlaub im Ferienhaus noch mehr Spaß: Zusammen kochen und grillen, spielen und im eigenem Pool baden - hier finden Sie Gruppenhäuser für mehrere Familien und Gruppen von 10 bis zu 40 Personen.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Unsere Empfehlungen",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-italy-group-accommodations/1638017-1-eng-XX/Predefined-Search-Italy-Group-accommodations.jpg",
+                            "Title": "Italien - Gruppenhäuser",
+                            "URL": "/italien/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-austria-group-accommodations/1638034-1-eng-XX/Predefined-Search-Austria-Group-accommodations.jpg",
+                            "Title": "Österreich - Gruppenhäuser",
+                            "URL": "/oesterreich/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-france-group-accommodations/1638049-1-eng-XX/Predefined-Search-France-Group-accommodations.jpg",
+                            "Title": "Frankreich - Gruppenhäuser",
+                            "URL": "/frankreich/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-croatia-group-accommodations/1638064-1-eng-XX/Predefined-Search-Croatia-Group-accommodations.jpg",
+                            "Title": "Kroatien - Gruppenhäuser",
+                            "URL": "/kroatien/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-spain-group-accommodations/1638084-1-eng-XX/Predefined-Search-Spain-Group-accommodations.jpg",
+                            "Title": "Spanien - Gruppenhäuser",
+                            "URL": "/spanien/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-germany-group-accommodations/1638099-1-eng-XX/Predefined-Search-Germany-Group-accommodations.jpg",
+                            "Title": "Deutschland - Gruppenhäuser",
+                            "URL": "/deutschland/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-switzerland-group-accommodations/1638114-1-eng-XX/Predefined-Search-Switzerland-Group-accommodations.jpg",
+                            "Title": "Schweiz - Gruppenhäuser",
+                            "URL": "/schweiz/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-norway-group-accommodations/1638129-1-eng-XX/Predefined-Search-Norway-Group-accommodations.jpg",
+                            "Title": "Norwegen - Gruppenhäuser",
+                            "URL": "/norwegen/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-portugal-group-accommodations/1638139-1-eng-XX/Predefined-Search-Portugal-Group-accommodations.jpg",
+                            "Title": "Portugal - Gruppenhäuser",
+                            "URL": "/portugal/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-czech-republic-group-accommodations/1638154-1-eng-XX/Predefined-Search-Czech-Republic-Group-accommodations.jpg",
+                            "Title": "Tschechien - Gruppenhäuser",
+                            "URL": "/tschechien/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-hungary-group-accommodations/1638169-1-eng-XX/Predefined-Search-Hungary-Group-accommodations.jpg",
+                            "Title": "Ungarn - Gruppenhäuser",
+                            "URL": "/ungarn/fuer-gruppen/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-all-group-accommodations/1638252-1-eng-XX/Predefined-Search-All-group-accommodations.jpg",
+                            "Title": "Alle Gruppenhäuser",
+                            "URL": "/fuer-gruppen/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

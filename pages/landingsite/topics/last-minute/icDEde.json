@@ -1,0 +1,221 @@
+{
+    "id": "28419",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/urlaubsideen/last-minute/",
+            "title": "Last Minute Ferienwohnungen und Ferienhäuser | Interchalet",
+            "description": "Ferienhaus und Ferienwohnung zu reduzierten Preisen: Last Minute \u0026 Schnäppchen - buchen Sie Ihren Ferienhausurlaub zum kleinen Preis!",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/last-minute/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero_1200x410-last-minute-sommer-2020/1807365-1-eng-XX/Hero_1200x410-last-minute-sommer-2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
+                        },
+                        {
+                            "href": "/urlaubsideen/last-minute/",
+                            "label": "Last Minute Ferienhaus und Ferienwohnung"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Unsere Empfehlungen für Last Minute Schnäppchen:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {
+                    "component": "TextColumns",
+                    "textLeft": "\u003ch4\u003e\u003cstrong\u003eLast Minute und Schnäppchen\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eSie wollen kurzfristig und besonders günstig verreisen? Hier finden Sie attraktive Last Minute Ferienhäuser und Ferienwohnungen zu reduzierten Preisen. Greifen Sie zu!\u003c/p\u003e\u003cp\u003eHeute buchen, innerhalb von 8 Tagen verreisen und vom Last Minute Preis profitieren. So schnell kann's gehen!\u003c/p\u003e\n",
+                    "textRight": "\u003ch5\u003eInfo zu Last Minute Urlaub\u003c/h5\u003e\u003cp\u003eOnline Buchungen sind bis zwei Tage vor Anreise möglich. Kurzfristigere Buchungen nimmt unsere Service Hotline unter der Nummer 0761 2100 77 jederzeit (365 Tagen im Jahr – rund um die Uhr) gerne entgegen – rufen Sie am besten gleich an!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Unsere Empfehlungen für Last Minute Schnäppchen:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-deutschland-last-minute-ferienhäuser/1637241-1-ger-XX/Predefined-Search-Deutschland-Last-Minute-Ferienhäuser.jpg",
+                            "Title": "Deutschland - Last Minute Ferienhäuser",
+                            "URL": "/deutschland/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-frankreich-last-minute-ferienhäuser/1637251-1-ger-XX/Predefined-Search-Frankreich-Last-Minute-Ferienhäuser.jpg",
+                            "Title": "Frankreich - Last Minute Ferienhäuser",
+                            "URL": "/frankreich/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-italy-last-minute-holiday-homes/1637261-1-ger-XX/Predefined-Search-Italy-Last-minute-holiday-homes.jpg",
+                            "Title": "Italien - Last Minute Ferienhäuser",
+                            "URL": "/italien/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-croatia-last-minute-holiday-homes/1637290-1-eng-XX/Predefined-Search-Croatia-Last-minute-holiday-homes.jpg",
+                            "Title": "Kroatien - Last Minute Ferienhäuser",
+                            "URL": "/kroatien/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-netherlands-last-minute-holiday-homes/1637307-1-eng-XX/Predefined-Search-Netherlands-Last-minute-holiday-homes.jpg",
+                            "Title": "Niederlande - Last Minute Ferienhäuser",
+                            "URL": "/niederlande/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-austria-last-minute-ferienhäuser/1637351-1-eng-XX/Predefined-Search-Austria-Last-Minute-Ferienhäuser.jpg",
+                            "Title": "Österreich - Last Minute Ferienhäuser",
+                            "URL": "/oesterreich/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-portugal-last-minute-holiday-homes/1637371-1-eng-XX/Predefined-Search-Portugal-Last-minute-holiday-homes.jpg",
+                            "Title": "Portugal - Last Minute Ferienhäuser",
+                            "URL": "/portugal/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-switzerland-last-minute-holiday-homes/1637406-1-eng-XX/Predefined-Search-Switzerland-Last-minute-holiday-homes.jpg",
+                            "Title": "Schweiz - Last Minute Ferienhäuser",
+                            "URL": "/schweiz/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-spain-last-minute-holiday-homes/1637426-1-eng-XX/Predefined-Search-Spain-Last-minute-holiday-homes.jpg",
+                            "Title": "Spanien - Last Minute Ferienhäuser",
+                            "URL": "/spanien/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-czech-republic-last-minute-holiday-homes/1637445-1-eng-XX/Predefined-Search-Czech-Republic-Last-minute-holiday-homes.jpg",
+                            "Title": "Tschechien - Last Minute Ferienhäuser",
+                            "URL": "/tschechien/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/last-minute/predefined-search-all-last-minute-holiday-homes/1637464-1-eng-XX/Predefined-Search-All-last-minute-holiday-homes.jpg",
+                            "Title": "Alle Last Minute Ferienhäuser",
+                            "URL": "/last-minute/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

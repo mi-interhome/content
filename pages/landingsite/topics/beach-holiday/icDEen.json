@@ -1,0 +1,201 @@
+{
+    "id": "27853",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/holiday-ideas/at-the-beach/",
+            "title": "Holiday homes and holiday cottages by the sea | Interchalet",
+            "description": "Beach Houses: A stone’s throw from the beach! Find your holiday cottage directly by the sea – often only a few steps from your favourite beach.",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/beach-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_eb_summer_2023/2207275-1-eng-XX/Header_1200x410_IC_EB_Summer_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/at-the-beach/",
+                            "label": "Beach houses"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Holiday homes and cottages by the sea:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\u003cstrong\u003eA stone’s throw from the beach\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eFind your holiday cottage directly by the sea, lake or river – often only a few steps from your favourite beach. Soak up the sun and enjoy swimming in the sea can be so easy: it’s a step out of the house and into the water!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Holiday homes and cottages by the sea:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-germany-holiday-homes-by-the-sea/1631647-1-eng-XX/Predefined-Search-Germany-Holiday-homes-by-the-sea.jpg",
+                            "Title": "Germany - Holiday homes by the sea",
+                            "URL": "/en/germany/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-france-holiday-homes-by-the-sea/1631657-1-eng-XX/Predefined-Search-France-Holiday-homes-by-the-sea.jpg",
+                            "Title": "France - Holiday homes by the sea",
+                            "URL": "/en/france/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-italy-holiday-homes-by-the-sea/1631667-1-eng-XX/Predefined-Search-Italy-Holiday-homes-by-the-sea.jpg",
+                            "Title": "Italy - Holiday homes by the sea",
+                            "URL": "/en/italy/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-croatia-holiday-homes-by-the-sea/1631677-1-eng-XX/Predefined-Search-Croatia-Holiday-homes-by-the-sea.jpg",
+                            "Title": "Croatia - Holiday homes by the sea",
+                            "URL": "/en/croatia/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-portugal-holiday-homes-by-the-sea/1631687-1-eng-XX/Predefined-Search-Portugal-Holiday-homes-by-the-sea.jpg",
+                            "Title": "Portugal - Holiday homes by the sea",
+                            "URL": "/en/portugal/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-spain-holiday-homes-by-the-sea/1631697-1-eng-XX/Predefined-Search-Spain-Holiday-homes-by-the-sea.jpg",
+                            "Title": "Spain - Holiday homes by the sea",
+                            "URL": "/en/spain/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-usa-holiday-homes-by-the-sea/1631712-1-eng-XX/Predefined-Search-USA-Holiday-homes-by-the-sea.jpg",
+                            "Title": "USA - Holiday homes by the sea",
+                            "URL": "/en/usa/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/beach-holiday/predefined-search-all-countries-holiday-homes-by-the-sea/1631722-1-eng-XX/Predefined-Search-All-countries-Holiday-homes-by-the-sea.jpg",
+                            "Title": "All holiday homes by the sea",
+                            "URL": "/en/beach-sea/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

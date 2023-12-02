@@ -1,0 +1,215 @@
+{
+    "id": "28374",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/holiday-ideas/holiday-with-dog/",
+            "title": "Holidays with your dog - holiday homes and apartments | Interchalet",
+            "description": "Go on holiday with your dog: a wide range of holiday homes and apartments where pets are welcome!",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/pets/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Urlaub mit Hund Ferienhaus Ferienwohnung",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-urlaub-mit-hund-ferienhaus.jpg/1637491-2-eng-XX/Hero-1200x410-urlaub-mit-hund-ferienhaus.jpg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/holiday-with-dog/",
+                            "label": "Holidays with dog"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Take your dog with you:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {
+                    "component": "TextColumns",
+                    "textLeft": "\u003ch4\u003e\u003cstrong\u003eTake your dog with you\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eYou don't want to leave your pet at home during the best weeks of the year? No problem: about a quarter of our 35,000 holiday homes are suitable for \"holidays with dogs\". No matter whether it's a holiday home for the summer or a chalet for your next skiing holiday.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003e\u003cstrong\u003ePlease note\u003c/strong\u003e the specific remarks about taking dogs with you can be found in the detailed description of a holiday home. Thank you very much!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Take your dog with you:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-italy-summer-holidays-with-dog/1637497-1-eng-XX/Predefined-Search-Italy-summer-holidays-with-dog.jpg",
+                            "Title": "Italy - summer holidays with dog",
+                            "URL": "/en/italy/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-france-summer-holidays-with-dog/1637569-1-eng-XX/Predefined-Search-France-summer-holidays-with-dog.jpg",
+                            "Title": "France - summer holidays with dog",
+                            "URL": "/en/france/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-croatia-summer-holidays-with-dog/1637593-1-eng-XX/Predefined-Search-Croatia-summer-holidays-with-dog.jpg",
+                            "Title": "Croatia - summer holidays with dog",
+                            "URL": "/en/croatia/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-germany-summer-holidays-with-dog/1637608-1-eng-XX/Predefined-Search-Germany-summer-holidays-with-dog.jpg",
+                            "Title": "Germany - summer holidays with dog",
+                            "URL": "/en/germany/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-family-holidays-with-dog-in-summer/1637630-1-eng-XX/Predefined-Search-Family-holidays-with-dog-in-summer.jpg",
+                            "Title": "Family holidays with dog in summer",
+                            "URL": "/en/family-children/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-holidays-with-dog-beach-houses/1637655-1-eng-XX/Predefined-Search-Holidays-with-dog-beach-houses.jpg",
+                            "Title": "Holidays with dog - beach houses",
+                            "URL": "/en/with-dog/beach-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-holidays-with-dog-special-offers/1637692-1-eng-XX/Predefined-Search-Holidays-with-dog-special-offers.jpg",
+                            "Title": "Holidays with dog - special offers",
+                            "URL": "/en/special-offers/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-summer-holidays-with-dog-all-holiday-homes-and-cottages/1637733-1-eng-XX/Predefined-Search-Summer-holidays-with-dog-all-holiday-homes-and-cottages.jpg",
+                            "Title": "Summer holidays with dog - all holiday homes and cottages",
+                            "URL": "/en/with-dog/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-holidays-with-dog-on-the-slopes/1637760-1-eng-XX/Predefined-Search-Holidays-with-dog-on-the-slopes.jpg",
+                            "Title": "Holidays with dog on the slopes",
+                            "URL": "/en/with-dog/near-slopes/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/pets/predefined-search-all-holiday-homes-and-cottages-for-ski-holidays-with-dog/1637797-1-eng-XX/Predefined-Search-All-holiday-homes-and-cottages-for-ski-holidays-with-dog.jpg",
+                            "Title": "All holiday homes and cottages for ski holidays with dog",
+                            "URL": "/en/ski-holiday/with-dog/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

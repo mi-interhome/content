@@ -1,0 +1,219 @@
+{
+    "id": "28418",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/urlaubsideen/an-der-piste/",
+            "title": "Ferienhaus an der Piste Ferienwohnungen Skihütten Ferienhäuser | Interchalet",
+            "description": "Ferienhäuser, Ferienwohnungen, Chalets und Skihütten direkt an den schönsten Skipisten der Alpen!",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/slope/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienhaus an der Piste Ferienwohnungen Ski",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-ferienhaus-an-der-piste.jpg/1637991-3-eng-XX/Hero-1200x410-ferienhaus-an-der-piste.jpg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
+                        },
+                        {
+                            "href": "/urlaubsideen/an-der-piste/",
+                            "label": "Pistenhäuser - für perfektes Skivergnügen"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Winterausrüstung vor Ort leihen – bequem und zu vergünstigten Preisen",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003cstrong\u003eWohnen Sie an der Piste!\u003c/strong\u003e\u003cbr\u003eFür das perfekte Skivergnügen: Ferienhäuser, Chalets und Skihütten direkt an den schönsten Skipisten der Alpen. Frühstücken, Skischuhe an, rauf auf die Bretter! Bis zur letzten Abfahrt vor die Haustür…\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Winterausrüstung vor Ort leihen – bequem und zu vergünstigten Preisen",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-germany-houses-on-the-slopes/1638278-1-eng-XX/Predefined-Search-Germany-houses-on-the-slopes.jpg",
+                            "Title": "Deutschland - Ferienhäuser an der Piste",
+                            "URL": "/deutschland/an-der-piste/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-france-houses-on-the-slopes/1638350-1-eng-XX/Predefined-Search-France-houses-on-the-slopes.jpg",
+                            "Title": "Frankreich - Ferienhäuser an der Piste",
+                            "URL": "/frankreich/an-der-piste/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-italy-houses-on-the-slopes/1638365-1-eng-XX/Predefined-Search-Italy-houses-on-the-slopes.jpg",
+                            "Title": "Italien - Ferienhäuser an der Piste",
+                            "URL": "/italien/an-der-piste/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-austria-houses-on-the-slopes/1638380-1-eng-XX/Predefined-Search-Austria-houses-on-the-slopes.jpg",
+                            "Title": "Österreich - Ferienhäuser an der Piste",
+                            "URL": "/oesterreich/an-der-piste/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-switzerland-houses-on-the-slopes/1638407-1-eng-XX/Predefined-Search-Switzerland-houses-on-the-slopes.jpg",
+                            "Title": "Schweiz - Ferienhäuser an der Piste",
+                            "URL": "/schweiz/an-der-piste/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-czech-republic-houses-on-the-slopes/1638422-1-eng-XX/Predefined-Search-Czech-Republic-houses-on-the-slopes.jpg",
+                            "Title": "Tschechien - Ferienhäuser an der Piste",
+                            "URL": "/tschechien/an-der-piste/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/slope/predefined-search-all-houses-on-the-slopes/1638437-1-eng-XX/Predefined-Search-All-houses-on-the-slopes.jpg",
+                            "Title": "Alle Ferienhäuser an der Piste",
+                            "URL": "/an-der-piste/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "Heading",
+                "content": {
+                    "title": "Winterausrüstung vor Ort leihen – bequem und zu vergünstigten Preisen",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 8,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/travel-extras/skiset/1701948-59-ger-XX/skiset.jpg",
+                            "Title": "Ski- und Snowboardverleih von SKISET",
+                            "URL": "/reiseservice/skiset/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

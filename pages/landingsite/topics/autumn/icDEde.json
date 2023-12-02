@@ -1,0 +1,218 @@
+{
+    "id": "41567",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/urlaubsideen/herbsturlaub/",
+            "title": "Herbsturlaub",
+            "description": "Den goldenen Herbst genießen mit Urlaub im Ferienhaus",
+            "keywords": null,
+            "robots": "noindex, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/autumn/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_golden_autumn_2023/2258259-1-eng-XX/Header_1200x410_IC_Golden_Autumn_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
+                        },
+                        {
+                            "href": "/urlaubsideen/herbsturlaub/",
+                            "label": "Herbsturlaub"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Herbsturlaub",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {
+                    "component": "TextColumns",
+                    "textLeft": "\u003cp\u003eNach den heißen Sommermonaten ist der Herbst die perfekte Jahreszeit, um die Koffer zu packen und zu verreisen. Sie möchten das Sommergefühl noch einmal wiederaufleben lassen? Dann buchen Sie beispielsweise ein Ferienhaus oder eine Ferienwohnung in einem südeuropäischen Urlaubsland. Ein Wanderurlaub ist ideal für alle, die aktiv die herbstlich-farbenfrohe Landschaft entdecken möchten. Von ihrer kulinarischen Seite kennenlernen können Sie die Urlaubsregion dann bei einer zünftigen Einkehr. Auch ein Herbsturlaub an Nord- oder Ostsee hat seinen ganz eigenen Charme. Im Oktober legen dort  Zehntausende von Zugvögeln auf ihrer Reise gen Süden eine Rast ein. Für inspirierende Städte- und Kulturtrips bietet sich ein Urlaub im Herbst ebenfalls an. Wenn es draußen ungemütlich und kalt ist, stehen Urlaubsunterkünfte mit Sauna und Sprudelbad hoch im Kurs. Hier können Sie Ihre ganz individuelle Wellness-Auszeit gestalten.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eEgal für welches Land und welche Region Sie sich entscheiden, maßgeblich zur Erholung trägt die Wahl Ihres Urlaubs-Zuhauses bei. Minimalistisch, gemütlich oder modern  – Sie wissen am besten, wo Sie sich während Ihres Urlaubs so richtig zu Hause fühlen können. Denn Ihre Ferienwohnung oder Ihr Ferienhaus ist sowohl Ausgangspunkt für verschiedene Freizeitaktivitäten als auch Rückzugsort für Sie und Ihre Familie oder Ihre Freunde.\u003c/p\u003e\u003cp\u003eAllein, zu zweit, mit Familie samt Haustier oder mit dem Freundeskreis - Entdecken Sie jetzt das perfekte Urlaubs-Zuhause für Ihren Herbsturlaub.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-ticino-hiking/2223052-26-ger-XX/Predefined-Search-Autumn-holidays-in-Ticino-hiking.jpg",
+                            "Title": "Tessin: traumhafte Seen und vielfältige Wanderrouten",
+                            "URL": "/schweiz/tessin/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-valais-wine/2223072-28-ger-XX/Predefined-Search-Autumn-holidays-in-Valais-wine.jpg",
+                            "Title": "Wallis: zwischen bunten Wäldern und Weinbergen",
+                            "URL": "/schweiz/wallis/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-graubunden-2020/2223097-7-ger-XX/Predefined-Search-Autumn-holidays-in-Graubunden-2020.jpg",
+                            "Title": "Herbstidylle in Graubünden: durchatmen und entspannen",
+                            "URL": "/schweiz/graubuenden/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-the-bernese-oberland/2223117-5-ger-XX/Predefined-Search-Autumn-holidays-in-the-Bernese-Oberland.jpg",
+                            "Title": "Berner Oberland: Naturparadies mit herrlichen Bergpanoramen",
+                            "URL": "/schweiz/berner-oberland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-on-the-costa-blanca/2223162-23-ger-XX/Predefined-Search-Autumn-holidays-on-the-Costa-Blanca.jpg",
+                            "Title": "Urlaub an der Costa Blanca - Strand geniessen und Sonne tanken",
+                            "URL": "/spanien/costa-blanca/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-tuscany/2223252-31-ger-XX/Predefined-Search-Autumn-holidays-in-Tuscany.jpg",
+                            "Title": "Urlaub in der Toskana - Wandern und Radfahren durch Weingärten",
+                            "URL": "/italien/toskana-chianti/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-on-the-côte-d'azur/2223332-21-ger-XX/Predefined-Search-Autumn-holidays-on-the-Côte-d'Azur.jpg",
+                            "Title": "Urlaub an der Côte d'Azur - azurblaues Meer und mildes Klima warten auf Sie",
+                            "URL": "/frankreich/cote-d-azur/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-sardinia/2223372-2-ger-XX/Predefined-Search-Autumn-holidays-in-Sardinia.jpg",
+                            "Title": "Urlaub in Sardinien - dort, wo das Meer am schönsten ist",
+                            "URL": "/italien/sardinien/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-greece/2223517-22-ger-XX/Predefined-Search-Autumn-holidays-in-Greece.jpg",
+                            "Title": "Herbstferien in Griechenland -  Sonne und warmes Wasser",
+                            "URL": "/griechenland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-the-bretagne/2223550-70-ger-XX/Predefined-Search-Autumn-holidays-in-the-Bretagne.jpg",
+                            "Title": "Herbstferien in der Bretagne: eine zauberhaft wilde Region",
+                            "URL": "/frankreich/bretagne/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-tyrol/2223605-28-ger-XX/Predefined-Search-Autumn-holidays-in-Tyrol.jpg",
+                            "Title": "Urlaub in Tirol - Indian Summer mit vielen Freizeitmöglichkeiten",
+                            "URL": "/oesterreich/tirol/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-the-city/2223685-13-ger-XX/Predefined-Search-Autumn-holidays-in-the-city.jpg",
+                            "Title": "Herbstferien Citytrip - die perfekte Jahreszeit für Trend-Metropolen",
+                            "URL": "/staedtereisen/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

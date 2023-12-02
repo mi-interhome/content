@@ -1,0 +1,139 @@
+{
+    "id": "25136",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/reiseservice/faehren/",
+            "title": "Interchalet - Fähren",
+            "description": "Hier finden Sie die passende Fährverbindung für Ihren Urlaub in Skandinavien und am Mittelmeer.",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/travel-extras/ferries/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/reiseservice/",
+                            "label": "Reiseservice"
+                        },
+                        {
+                            "href": "/reiseservice/faehren/",
+                            "label": "Fähren"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Fähren",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch4\u003eFährverbindungen für Ihren Urlaub im Ferienhaus\u003c/h4\u003e\u003cp\u003eDamit Sie Ihren Urlaub perfekt planen können:\u003cbr\u003eHier erhalten Sie einen Überblick über Fährverbindungen nach \u003ca href=\"#Skandinavien\"\u003eSkandinavien\u003c/a\u003e bzw. im \u003ca href=\"#Mittelmeer\"\u003eMittelmeer\u003c/a\u003e.\u003ca id=\"Skandinavien\"\u003e\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003ca id=\"Skandinavien\"\u003e\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Skandinavien\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Dänemark\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_scandlines_dk/1415312-5-eng-XX/ferry_Scandlines_DK.jpg\" width=\"213\" height=\"59\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25140\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eScandlines Strecken:\u003c/strong\u003e\u003cbr\u003ePuttgarden – Rødby\u003cbr\u003eRostock – Gedser\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Norwegen\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_colorline_no/1415302-2-eng-XX/ferry_ColorLine_NO.jpg\" width=\"213\" height=\"119\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25138\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eColor Line Strecken:\u003c/strong\u003e\u003cbr\u003eKiel - Oslo\u003cbr\u003eHirtshals - Kristiansand\u003cbr\u003eHirtshals - Larvik\u003cbr\u003eStrömstad - Sandefjord\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_stenaline_no_se/1415317-3-eng-XX/ferry_StenaLine_NO_SE.jpg\" width=\"213\" height=\"94\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25141\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eStena Line Strecken:\u003c/strong\u003e\u003cbr\u003eFredrikshavn - Oslo\u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_fiordline_no/1415307-4-eng-XX/ferry_Fiordline_NO.jpg\" width=\"213\" height=\"119\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25139\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003efjordline Strecken:\u003c/strong\u003e\u003cbr\u003eHirtshals - Kristiansand\u003cbr\u003eHirtshals - Stavanger\u003cbr\u003eHirtshals - Bergen\u003cbr\u003eHirtshals - Langesund\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDFDS Strecken:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eKopenhagen-Oslo\u003cbr\u003eFredrikshavn-Oslo\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Schweden\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_tt-line_se/1415337-1-eng-XX/ferry_TT-Line_SE.jpg\" width=\"213\" height=\"82\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25145\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eTT-Line Strecken:\u003c/strong\u003e\u003cbr\u003eTravemünde - Trelleborg\u003cbr\u003eRostock - Trelleborg\u003cbr\u003e \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_stenaline_no_se/1415317-3-eng-XX/ferry_StenaLine_NO_SE.jpg\" width=\"213\" height=\"94\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25141\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eStena Line Strecken:\u003c/strong\u003e\u003cbr\u003eSassnitz - Trelleborg\u003cbr\u003eRostock - Trelleborg\u003cbr\u003eKiel - Göteborg\u003cbr\u003eFredrikshavn-Göteborg\u003cbr\u003eGrenå-Halmstad\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_scandlines_se/1415342-1-eng-XX/ferry_Scandlines_SE.jpg\" width=\"213\" height=\"200\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25146\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eScandlines Strecken:\u003c/strong\u003e\u003cbr\u003ePuttgarden - Rødby\u003cbr\u003eHelsingør - Helsingborg\u003cbr\u003e\u0026gt; Kombiticket: Puttgarden - Rødby - Öresundbrücke \u003cbr\u003e\u0026gt; Kombiticket: Rostock - Gedser - Helsingør - Helsingborg\u003cbr\u003e\u0026gt; Kombiticket: Rostock - Gedser - Öresundbrücke\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFinnlines Strecke:\u003c/strong\u003e\u003cbr\u003eTravemünde-Malmö\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFRS Baltic Strecke:\u003c/strong\u003e\u003cbr\u003eSassnitz – Ystad\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHansa Destinations Strecke:\u003c/strong\u003e\u003cbr\u003eRostock – Nynäshamn\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003e\u003ca id=\"Mittelmeer\"\u003e\u003c/a\u003e\u003c/strong\u003e\u003c/h3\u003e\u003ch3\u003e\u003cstrong\u003eFähren im Mittelmeer\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Korsika\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_moby_fr_it_s/1415347-2-eng-XX/ferry_Moby_FR_IT_s.jpg\" width=\"213\" height=\"149\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25147\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eMoby Strecken:\u003c/strong\u003e\u003cbr\u003eLivorno - Bastia\u003cbr\u003eGenua - Bastia\u003cbr\u003eSanta Teresa - Bonifacio\u003cbr\u003e \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_corsica-ferries_fr_it/1415352-1-eng-XX/ferry_Corsica-Ferries_FR_IT.jpg\" width=\"213\" height=\"64\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25148\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003ecorsica ferries Strecken:\u003c/strong\u003e\u003cbr\u003eLivorno - Bastia\u003cbr\u003eSavona - Bastia\u003cbr\u003eSanta Teresa - Bonifacio\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e  \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e  \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Sardinien\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_moby_fr_it_s/1415347-2-eng-XX/ferry_Moby_FR_IT_s.jpg\" width=\"213\" height=\"149\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25147\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eMoby Strecken:\u003c/strong\u003e\u003cbr\u003eLivorno - Olbia\u003cbr\u003eGenua - Olbia\u003cbr\u003ePiombino - Olbia\u003cbr\u003eGenua - Porto Torres\u003cbr\u003eGenua - Arbatax\u003cbr\u003eCivitavecchia - Cagliari\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_corsica-ferries_fr_it/1415352-1-eng-XX/ferry_Corsica-Ferries_FR_IT.jpg\" width=\"213\" height=\"64\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25148\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003ecorsica ferries Strecken:\u003c/strong\u003e\u003cbr\u003eLivorno - Golfo Aranci\u003cbr\u003eBonifacio - Santa Teresa\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e  \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFähren nach Elba\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_moby_fr_it_s/1415347-2-eng-XX/ferry_Moby_FR_IT_s.jpg\" width=\"213\" height=\"149\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25147\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003eMoby Strecken:\u003c/strong\u003e\u003cbr\u003ePiombino - Portoferraio\u003cbr\u003ePiombino - Cavo\u003cbr\u003ePiombino - Rio Marina\u003cbr\u003e \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/ferry_corsica-ferries_fr_it/1415352-1-eng-XX/ferry_Corsica-Ferries_FR_IT.jpg\" width=\"213\" height=\"64\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"25148\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cstrong\u003ecorsica ferries Strecken:\u003c/strong\u003e\u003cbr\u003ePiombino - Portoferraio\u003cbr\u003e \u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

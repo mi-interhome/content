@@ -1,0 +1,218 @@
+{
+    "id": "41567",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/holiday-ideas/autumn-holidays/",
+            "title": "Autumn holidays | Interhome",
+            "description": "Enjoy your autumn holiday in a holiday house or apartment. Affordable holidays in the most beautiful autumn destinations | Interhome",
+            "keywords": null,
+            "robots": "noindex, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/autumn/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_golden_autumn_2023/2258259-1-eng-XX/Header_1200x410_IC_Golden_Autumn_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/autumn-holidays/",
+                            "label": "Autumn holidays"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Autumn holidays",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {
+                    "component": "TextColumns",
+                    "textLeft": "\u003cp\u003eWhen the days get shorter, the temperatures milder, and the colourful leaves fall from deciduous trees, that’s when you know it’s autumn. A season which is happy to show the full richness of its colours and a season which inspires many to travel once again and go on an autumn holiday.\u003c/p\u003e\u003cp\u003eTake advantage of the rich colours seen in the transition from summer to winter and go for long autumn walks or hiking tours. Devote yourself to regional delicacies and seasonal specialities. Spend a relaxing time on holiday with family in a lovely country house or as a couple in a charming rustico. Visit delightful autumn and wine festivals.   \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eHead off on a mushroom hunt. Lend a helping hand at some point in the grape harvest or just simply enjoy this incredibly romantic and diverse time of year. The golden autumn: the perfect time for a holiday centred around pleasure, culture and action.  \u003c/p\u003e\u003cp\u003eAnd those who wish to further indulge in summer “escape” somewhere south to beaches devoid of people where they can extend their summer tan in a typical finca or in a holiday house by the sea.\u003c/p\u003e\u003ch3\u003eA holiday in the autumn at your holiday house\u003c/h3\u003e\u003cp\u003eDuring your holiday in the autumn, enjoy the benefits of a holiday house or a holiday apartment. Your holiday accommodation is the starting point for autumn excursions as well as a place to retreat to for you, your family and your friends. Relax in a cosy rustico or chalet, or enjoy the privacy of a finca. With Interhome, you’ll be sure to find the right holiday house for your holiday in the autumn.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "",
+                "content": {
+                    "component": "TeaserGrid",
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-ticino-hiking/2223037-27-eng-XX/Predefined-Search-Autumn-holidays-in-Ticino-hiking.jpg",
+                            "Title": "Holidays in Ticino - Chestnut festival and grotto visits in Ticino ",
+                            "URL": "/en/switzerland/ticino/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-valais-wine/2223057-29-eng-XX/Predefined-Search-Autumn-holidays-in-Valais-wine.jpg",
+                            "Title": "Holidays in Valais - Valais fascinates with breathtaking panoramas",
+                            "URL": "/en/switzerland/valais/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-graubunden-2020/2223077-8-eng-XX/Predefined-Search-Autumn-holidays-in-Graubunden-2020.jpg",
+                            "Title": "Autumn idyll in Graubünden: take a deep breath and relax",
+                            "URL": "/en/switzerland/graubunden/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-the-bernese-oberland/2223102-6-eng-XX/Predefined-Search-Autumn-holidays-in-the-Bernese-Oberland.jpg",
+                            "Title": "Bernese Oberland: Natural paradise with wonderful mountain panoramas",
+                            "URL": "/en/switzerland/bernese-oberland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-on-the-costa-blanca/2223142-24-eng-XX/Predefined-Search-Autumn-holidays-on-the-Costa-Blanca.jpg",
+                            "Title": "Holidays on the Costa Blanca - Enjoy the beach and soak up the sun",
+                            "URL": "/en/spain/costa-blanca/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-tuscany/2223227-32-eng-XX/Predefined-Search-Autumn-holidays-in-Tuscany.jpg",
+                            "Title": "Holiday in Tuscany - Hiking and bicycling through vineyards",
+                            "URL": "/en/italy/tuscany-chianti/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-on-the-côte-d'azur/2223312-22-eng-XX/Predefined-Search-Autumn-holidays-on-the-Côte-d'Azur.jpg",
+                            "Title": "Holidays on the Côte d'Azur – Azure blue water and mild climate are waiting for you",
+                            "URL": "/en/france/cote-d-azur/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-sardinia/2223397-22-eng-XX/Predefined-Search-Autumn-holidays-in-Sardinia.jpg",
+                            "Title": "Holidays in Sardinia - Where you find the most beautiful beaches ",
+                            "URL": "/en/italy/sardinia/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-greece/2223462-23-eng-XX/Predefined-Search-Autumn-holidays-in-Greece.jpg",
+                            "Title": "Holidays in Greece - With sea warm temperature autumn in Greece is stil ideal for seaside holidays",
+                            "URL": "/en/greece/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-the-bretagne/2223540-71-eng-XX/Predefined-Search-Autumn-holidays-in-the-Bretagne.jpg",
+                            "Title": "Brittany: an invigorating region",
+                            "URL": "/en/france/brittany/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-tyrol/2223585-29-eng-XX/Predefined-Search-Autumn-holidays-in-Tyrol.jpg",
+                            "Title": "Holiday in Tyrol - An Indian summer in Tyrol with many leisure options",
+                            "URL": "/en/austria/tyrol/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/autumn/predefined-search-autumn-holidays-in-the-city/2223675-14-eng-XX/Predefined-Search-Autumn-holidays-in-the-city.jpg",
+                            "Title": "Autumn holiday city trip - the perfect season for trendy metropolises",
+                            "URL": "/en/city/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
