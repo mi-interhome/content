@@ -26,105 +26,38 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "Ferienhäuser und Ferienwohnungen mit Pool",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/hero-slider/hero-1200x410-ferienhaus-pool-ferienwohnung.jpg/1640372-3-eng-XX/Hero-1200x410-ferienhaus-pool-ferienwohnung.jpg.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/en/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/en/dataprotectioninformation/",
-                            "label": "Information on data protection"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Information on data protection",
-                    "level": 1,
-                    "size": "xl"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003eIn the following we inform you about the processing of your personal information in carrying out advertising measures and on the transfer of your personal information by HHD GmbH to HHD AG for advertising purposes.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1.    Controller and data protection officer\u003c/strong\u003e\u003cbr\u003eHHD AG, with its business address at Sägereistrasse 27, CH 8152 Glattbrugg, telephone: +41438109191, e-mail: info@interhome.com, hereafter “\u003cstrong\u003eHHD\u003c/strong\u003e” or “\u003cstrong\u003ewe\u003c/strong\u003e”, is the controller in processing your personal information.\u003c/p\u003e\u003cp\u003eWe have appointed the lawyer Prof. Clemens Pustejovsky as data protection officer. You can contract our data protection officer at the following address: Wallstr. 6, DE 79098 Freiburg, e-mail: DPO@interhome.com or by telephone: +497612168680\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2.    Processing of personal data\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ea.    Processing of your personal data due to a predominant legitimate interest\u003c/strong\u003e\u003cbr\u003eWe process your personal data partly due to a predominant legitimate interest in accordance with article 6 para. 1 clause 1.f GDPR. Our predominant legitimate interest lies in carrying out direct advertising and in obtaining customers.\u003cbr\u003eThe following table explains the purpose for which we process which of your data categories on the basis of our predominant legitimate interest.\u003c/p\u003e\u003ctable class=\"\" border=\"1\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eProcessing purpose\u003c/strong\u003e\u003cbr\u003eDistribution of newsletter by post, catalogue\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eData category\u003c/strong\u003e\u003cbr\u003eName and address, details of past bookings (travel destination and time)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003e\u003cstrong\u003eb.    Processing of your personal data on the basis of your consent\u003c/strong\u003e\u003cbr\u003eProvided you have given us your consent in accordance with article 6 para. 1 clause 1.a, 7 GDPR, we record and process your personal data. You may revoke your consent at any time. In order to revoke your consent, please refer in writing to HHD AG, Sägereistrasse 27, CH 8152 Glattbrugg or by e-mail to DPO@interhome.com. Please note that your revocation does not affect the legality of processing of personal data carried out up to the time of the revocation.\u003c/p\u003e\u003cp\u003eThe following table explains the purpose for which we process which of your data categories on the basis your consent.\u003c/p\u003e\u003ctable class=\"\" border=\"1\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eProcessing purpose\u003c/strong\u003e\u003cbr\u003eDistribution of an e-mail newsletter\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eData category\u003c/strong\u003e\u003cbr\u003eName and e-mail address, details of past bookings (travel destination and time)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003e\u003cstrong\u003e3.    No obligation to provide personal data\u003c/strong\u003e\u003cbr\u003eNeither the law nor any contract stipulates that you must provide personal data, nor is this required in order to conclude a contract. You are not obliged to provide us with your personal data for the processing purpose referred to under 2. We are unable to send you any newsletter or advertising material based on your interests and past bookings should you not provide us with your personal data.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e4.    Processing your personal data from the time you had a contractual relationship with HHD GmbH (previously Interchalet Ferienhaus-Gesellschaft mbH)\u003c/strong\u003e\u003cbr\u003eThe following will apply additionally should you have been a customer of HHD GmbH until now:\u003cbr\u003eShould you have given your consent in accordance with article 6 para. 1 clause 1.a 7 GDPR, we record your historic personal data (details of past bookings, travel destination and time) with HHD GmbH, Heinrich-von-Stephan-Straße 25, 79100 Freiburg. HHD GmbH processed this personal data in the past in order to implement the present contract between HHD GmbH and yourself for the reservation of holiday homes and will provide us with this data on the basis of the consent you have given. We process this data in order to send you advertising, based on your interests and reservations you have made in the past, in accordance with the types of processing referred to under 2.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e5.    Duration of storage and erasure of personal data\u003c/strong\u003e \u003cbr\u003eYour personal data processed by us on the basis of your consent will be erased on the same day that you revoke your consent to this data processing, unless there is a legal obligation to continue retention of your personal data.\u003cbr\u003eYour personal data processed by us in order to safeguard our legitimate interests will be erased as soon as our legitimate interest in processing the data ceases to exist, at the latest however after ten years, provided that this is not contrary to your or our interests worthy of protection. Interests worthy of protection are for example the assertion or defence of legal claims.\u003cbr\u003e \u003cbr\u003e\u003cstrong\u003e6.    Your rights\u003c/strong\u003e\u003cbr\u003eShould we process your personal data, you may contact us either in writing (HHD AG, Sägereistrasse 27, CH 8152 Glattbrugg) or by e-mail DPO@interhome.com in order to exercise the following rights:\u003cbr\u003ea. You have the right in accordance with the relevant provisions of the law to demand \u003cstrong\u003einformation\u003c/strong\u003e on the processing of such personal information as relates to yourself. You are entitled to a copy of the data which is processed.\u003c/p\u003e\u003cp\u003eb. You have the right in accordance with the relevant provisions of the law to demand that incorrect or incomplete information concerning yourself should be \u003cstrong\u003erectified\u003c/strong\u003e immediately.\u003c/p\u003e\u003cp\u003ec. You are entitled to demand the immediate \u003cstrong\u003eerasure\u003c/strong\u003e of personal data concerning yourself should the erasure not infringe legal obligations, such as retention deadlines stipulated in law, or our predominant interest.\u003c/p\u003e\u003cp\u003ed. You have the right in accordance with the relevant provisions of the law to demand the \u003cstrong\u003erestriction of processing\u003c/strong\u003e of your personal data.\u003c/p\u003e\u003cp\u003ee. Should we have obtained separate consent to process your data, you are entitled to \u003cstrong\u003erevoke\u003c/strong\u003e this consent at any time \u003cstrong\u003ewith regard to the future\u003c/strong\u003e. Any processing which has taken place up to the time you revoke your consent will however remain legal.\u003c/p\u003e\u003cp\u003ef. Should your personal data be processed as part of an automated process, you are entitled to receive personal data concerning yourself, in a \u003cstrong\u003estructured, standardised, machine-readable\u003c/strong\u003e format, provided to us on the basis of your consent in accordance with article 6 para. 1.a GDPR and to transmit this data to third parties. This right will not apply should this transfer affect the rights and liberties of other individuals. You are also entitled to demand that we transfer your personal data to third parties, provided this is technically feasible.\u003c/p\u003e\u003cp\u003eg. Should we process your personal data on grounds of our own legitimate interest or in the public interest in accordance with article 6 para. 1.f GDPR, you are entitled to object to the processing of your personal data based on our legitimate interests or the public interest for reasons arising from your personal situation.\u003c/p\u003e\u003cp\u003eWe will cease to process personal data relating to yourself should you object, unless we are able to to prove compelling reasons worthy of protection which have precedence over your interests, rights and liberties or should processing serve to assert, exercise or defend legal claims.\u003cbr\u003eThe objection may be submitted to HHD AG, Sägereistrasse 27, CH 8152 Glattbrugg or DPO@interhome.com  free of any deadlines and formalities.\u003c/p\u003e\u003cp\u003eh. Finally, should you be of the opinion that the processing of data relating to yourself infringes provisions of the law, you have the right to \u003cstrong\u003ecomplain\u003c/strong\u003e to any regulatory authority, particularly in the EU member-state where your place of residence or work is located or in the place where the alleged infringement occurred. This will not affect any additional legal remedies you might possibly have in administrative law or through the courts.\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "USPBar",
-                "content": {
-                    "headline": "Safety in your holiday home!",
-                    "link": {
-                        "href": "/en/about-us/safety-in-your-holiday-home/",
-                        "label": "More info"
-                    },
-                    "car": "Individual arrivals",
-                    "cleaning": "Quality controlled cleaning",
-                    "independence": "Freedom and independence",
-                    "key": "Safe hand-over of the key on-site",
-                    "privacy": "Privacy in your holiday home",
-                    "support": "Personal assistance on-site"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Good quality guaranteed!",
-                            "subtitle": "",
-                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
-                        },
-                        {
-                            "title": "Personally there for you!",
-                            "subtitle": "",
-                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
-                        },
-                        {
-                            "title": "49 years of experience!",
-                            "subtitle": "",
-                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 7,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Why Interchalet?",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

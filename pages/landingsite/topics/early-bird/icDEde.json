@@ -26,187 +26,48 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "Early Bird Ferienhaus Fruehbucher-Rabatt Ferienwohnung",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-frühbucher-rabatte-ferienhaus.jpg/1635655-4-eng-XX/Hero-1200x410-frühbucher-rabatte-ferienhaus.jpg.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/urlaubsideen/",
-                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
-                        },
-                        {
-                            "href": "/urlaubsideen/fruehbucher-rabatt/",
-                            "label": "Frühbucherrabatte sichern"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Ferienhäuser und Ferienwohnungen zum Frühbucherrabatt:",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "Text",
-                "content": {
-                    "text": "\u003ch4\u003eFrüh buchen = clever buchen\u003c/h4\u003e\u003cp\u003eWenn Sie jetzt hier buchen, können Sie sich attraktive Frühbucherrabatte sichern!\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Heading",
-                "content": {
-                    "title": "Ferienhäuser und Ferienwohnungen zum Frühbucherrabatt:",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-germany-holiday-homes-for-early-bookers/1635764-1-eng-XX/Predefined-Search-Germany-Holiday-homes-for-early-bookers.jpg",
-                            "Title": "Deutschland - Ferienhäuser für Frühbucher",
-                            "URL": "/deutschland/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-france-holiday-homes-with-early-bird-discount/1635774-1-eng-XX/Predefined-Search-France-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Frankreich - Ferienhäuser für Frühbucher",
-                            "URL": "/frankreich/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-italy-holiday-homes-with-early-bird-discount/1635784-1-eng-XX/Predefined-Search-Italy-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Italien - Ferienhäuser für Frühbucher",
-                            "URL": "/italien/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-croatia-holiday-homes-with-early-bird-discount/1635789-1-eng-XX/Predefined-Search-Croatia-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Kroatien - Ferienhäuser für Frühbucher",
-                            "URL": "/kroatien/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-austria-holiday-homes-with-early-bird-discount/1635804-1-eng-XX/Predefined-Search-Austria-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Österreich - Ferienhäuser für Frühbucher",
-                            "URL": "/oesterreich/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-portugal-holiday-homes-with-early-bird-discount/1635814-1-eng-XX/Predefined-Search-Portugal-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Portugal - Ferienhäuser für Frühbucher",
-                            "URL": "/portugal/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-switzerland-holiday-homes-with-early-bird-discount/1635824-1-eng-XX/Predefined-Search-Switzerland-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Schweiz - Ferienhäuser für Frühbucher",
-                            "URL": "/schweiz/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-spain-holiday-homes-with-early-bird-discount/1635834-1-eng-XX/Predefined-Search-Spain-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Spanien - Ferienhäuser für Frühbucher",
-                            "URL": "/spanien/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-hungary-holiday-homes-with-early-bird-discount/1635844-1-eng-XX/Predefined-Search-Hungary-Holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Ungarn - Ferienhäuser für Frühbucher",
-                            "URL": "/ungarn/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/early-bird/predefined-search-all-holiday-homes-with-early-bird-discount/1635854-1-eng-XX/Predefined-Search-All-holiday-homes-with-early-bird-discount.jpg",
-                            "Title": "Alle Ferienhäuser für Frühbucher",
-                            "URL": "/fruehbucher-rabatt/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 7,
-                "component": "USPBar",
-                "content": {
-                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
-                    "link": {
-                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
-                        "label": "Mehr Info"
-                    },
-                    "car": "Individuelle Anreise",
-                    "cleaning": "Kontrollierte Reinigung",
-                    "independence": "Freiheit und Unabhängigkeit",
-                    "key": "Sichere Schlüssel-Übergabe vor Ort",
-                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
-                    "support": "Persönliche Betreuung vor Ort"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Gute Qualität garantiert!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
-                        },
-                        {
-                            "title": "Persönlich für Sie da!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
-                        },
-                        {
-                            "title": "50 Jahre Erfahrung!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Die beliebtesten Urlaubsziele",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

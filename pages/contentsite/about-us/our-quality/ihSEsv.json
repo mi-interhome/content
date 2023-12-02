@@ -1,0 +1,73 @@
+{
+    "id": "10167",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.se/om-interhome/var-kvalitetstandard/",
+            "title": "Vår kvalitetstandard - baserad på en officiell stjärnklassificering | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/our-quality/",
+        "body": [
+            {
+                "id": 1,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 2,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "",
+                            "content": {}
+                        },
+                        {
+                            "id": 2,
+                            "component": "",
+                            "content": {}
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 5,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {}
+            }
+        ]
+    }
+}

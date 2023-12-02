@@ -26,30 +26,13 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": []
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/en/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/en/about-us/",
-                            "label": "About us"
-                        },
-                        {
-                            "href": "/en/about-us/company-profile/",
-                            "label": "Company profile"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
@@ -58,19 +41,13 @@
                     "content": [
                         {
                             "id": 1,
-                            "component": "Heading",
-                            "content": {
-                                "title": "Company profile",
-                                "level": 1,
-                                "size": "xl"
-                            }
+                            "component": "",
+                            "content": {}
                         },
                         {
                             "id": 2,
-                            "component": "Text",
-                            "content": {
-                                "text": "\u003ch3\u003eBusiness Sector\u003c/h3\u003e\u003cp\u003eRental of holiday house, apartments and complexes in Europe and Florida/ USA.\u003c/p\u003e\u003ch3\u003eStaff\u003c/h3\u003e\u003cp\u003eApprox. 650 in Germany and abroad\u003c/p\u003e\u003ch3\u003eGeneral management\u003c/h3\u003e\u003cp\u003eMichael Figlestahler, Jörg Herrmann\u003c/p\u003e\u003ch3\u003eRegistered office\u003c/h3\u003e\u003cp\u003eFreiburg, HRB 1149\u003c/p\u003e\u003ch3\u003eFounded\u003c/h3\u003e\u003cp\u003e1974\u003c/p\u003e\u003ch3\u003eBusiness year\u003c/h3\u003e\u003cp\u003e1 November to 31 October\u003c/p\u003e\u003ch3\u003eShareholders\u003c/h3\u003e\u003cp\u003eHHD AG\u003c/p\u003e\u003ch3\u003eProduct\u003c/h3\u003e\u003cp\u003eApprox. 40,000 holiday houses and apartments displayed on the Internet.\u003c/p\u003e\u003ch3\u003eSales\u003c/h3\u003e\u003cp\u003eApprox. 25% of turnover through over 7,000 travel agencies in Germany, Austria, Switzerland and the Benelux countries.\u003c/p\u003e\u003ch3\u003eInternet\u003c/h3\u003e\u003cp\u003eComplete range of approx. 40,000 holiday house and apartments available to book online.\u003c/p\u003e\u003ch3\u003eTravel cancellation insurance\u003c/h3\u003e\u003cp\u003eIn cooperation with the Europäische Reiseversicherung AG\u003c/p\u003e\u003ch3\u003eContact\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group\u003c/strong\u003e\u003cbr\u003eHHD GmbH\u003c/p\u003e\u003cp\u003ePostfach 5420, 79098 Freiburg, Germany\u003cbr\u003eHeinrich-von-Stephan-Str. 25\u003cbr\u003e79100 Freiburg, Germany\u003c/p\u003e\u003cp\u003eTelephone: + 49 (0)761 – 21 00 77\u003cbr\u003eE-mail: \u003ca href=\"mailto:info.ic@interhome.group\"\u003einfo.ic@interhome.group\u003c/a\u003e\u003cbr\u003eInternet: \u003ca href=\"http://www.interchalet.co.uk\"\u003ewww.interchalet.co.uk\u003c/a\u003e\u003c/p\u003e\n"
-                            }
+                            "component": "",
+                            "content": {}
                         }
                     ],
                     "menu": null
@@ -78,61 +55,18 @@
             },
             {
                 "id": 4,
-                "component": "USPBar",
-                "content": {
-                    "headline": "Safety in your holiday home!",
-                    "link": {
-                        "href": "/en/about-us/safety-in-your-holiday-home/",
-                        "label": "More info"
-                    },
-                    "car": "Individual arrivals",
-                    "cleaning": "Quality controlled cleaning",
-                    "independence": "Freedom and independence",
-                    "key": "Safe hand-over of the key on-site",
-                    "privacy": "Privacy in your holiday home",
-                    "support": "Personal assistance on-site"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Good quality guaranteed!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
-                        },
-                        {
-                            "title": "Personally there for you!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
-                        },
-                        {
-                            "title": "49 years of experience!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Why Interchalet?",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

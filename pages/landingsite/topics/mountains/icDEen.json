@@ -26,174 +26,48 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_urlaub_in_den_bergen_2023/2221600-1-eng-XX/Header_1200x410_IC_Urlaub_in_den_Bergen_2023.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/en/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/en/holiday-ideas/",
-                            "label": "Holiday Ideas"
-                        },
-                        {
-                            "href": "/en/holiday-ideas/holiday-homes-mountains/",
-                            "label": "Holiday homes in the mountains"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Holiday homes in the mountains",
-                    "level": 1,
-                    "size": "xl"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "TextColumns",
-                "content": {
-                    "textLeft": "\u003cp\u003eCraggy cliffs, tranquil mountain lakes and idyllic villages - the mountains are not only a popular destination in winter. Any time of year is perfect for enjoying the magnificent mountain panorama and recharge the batteries far away from everyday life.\u003c/p\u003e\n",
-                    "textRight": "\u003cp\u003eBe it in \u003ca href=\"/en/switzerland/?ski=1000\u0026season=summer\"\u003eSwitzerland\u003c/a\u003e, \u003ca href=\"/en/austria/?ski=1000\u0026season=summer\"\u003eAustria\u003c/a\u003e, \u003ca href=\"/en/france/?ski=1000\u0026season=summer\"\u003eFrance\u003c/a\u003e or \u003ca href=\"/en/germany/?ski=1000\u0026season=summer\"\u003eGermany\u003c/a\u003e: After a long hike through the mountains there is nothing better than retiring to the comfort of your holiday house or holiday apartment where you can see out the day with a glass of wine in front of the fireplace and look forward to the next mountain adventure.\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003eSpending time in the mountains is always a delight. Choose for example from the following options for your next active holiday.\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-pure-nature-welcome-to-the-german-mountains/2221116-24-eng-XX/Predefined-Search-Pure-nature-welcome-to-the-German-mountains.jpg",
-                            "Title": "Pure nature: welcome to the German mountains",
-                            "URL": "/en/germany/?ski=10000\u0026season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-french-alps-from-the-high-alps-to-the-mediterranean/2221196-23-eng-XX/Predefined-Search-French-Alps-from-the-high-Alps-to-the-Mediterranean.jpg",
-                            "Title": "French Alps: from the high Alps to the Mediterranean ",
-                            "URL": "/en/france/?ski=10000\u0026season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-swiss-alps-breathtaking-panoramas-and-hiking-trails/2221276-25-eng-XX/Predefined-Search-Swiss-Alps-breathtaking-panoramas-and-hiking-trails.jpg",
-                            "Title": "Swiss Alps: breathtaking panoramas and hiking trails ",
-                            "URL": "/en/switzerland/?ski=10000\u0026season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-warm-welcome-and-good-food-in-the-austrian-alps/2221356-24-eng-XX/Predefined-Search-Warm-welcome-and-good-food-in-the-Austrian-Alps.jpg",
-                            "Title": "Warm welcome and good food in the Austrian Alps",
-                            "URL": "/en/austria/?ski=10000\u0026season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-italy's-dolomites-unique-landscape-and-pure-relaxation/2221431-22-eng-XX/Predefined-Search-Italy's-Dolomites-unique-landscape-and-pure-relaxation.jpg",
-                            "Title": "Italy's Dolomites: unique landscape and pure relaxation",
-                            "URL": "/en/italy/dolomites/?ski=10000\u0026season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-tatras-in-poland-beautiful-hiking-trails-and-clear-mountain-lakes/2221516-25-eng-XX/Predefined-Search-Tatras-in-Poland-beautiful-hiking-trails-and-clear-mountain-lakes.jpg",
-                            "Title": "Tatras in Poland: beautiful hiking trails and clear mountain lakes",
-                            "URL": "/en/poland/tatras/?season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/mountains/predefined-search-rustic-chalets/2221581-15-eng-XX/Predefined-search-Rustic-chalets.jpg",
-                            "Title": "A rustic chalet",
-                            "URL": "/en/ski-chalet/?season=summer"
-                        },
-                        {
-                            "ImgAlt": "Alps-resorts",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/alps-resorts/2205046-28-ger-XX/alps-resorts.jpg",
-                            "Title": "ALPS RESORTS - My way of holiday",
-                            "URL": "/en/holiday-ideas/alps-resorts/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 7,
-                "component": "USPBar",
-                "content": {
-                    "headline": "Safety in your holiday home!",
-                    "link": {
-                        "href": "/en/about-us/safety-in-your-holiday-home/",
-                        "label": "More info"
-                    },
-                    "car": "Individual arrivals",
-                    "cleaning": "Quality controlled cleaning",
-                    "independence": "Freedom and independence",
-                    "key": "Safe hand-over of the key on-site",
-                    "privacy": "Privacy in your holiday home",
-                    "support": "Personal assistance on-site"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Good quality guaranteed!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
-                        },
-                        {
-                            "title": "Personally there for you!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
-                        },
-                        {
-                            "title": "49 years of experience!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Why Interchalet?",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

@@ -26,175 +26,48 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "Familie Ferienhaus Kinder Ferienwohnung",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-familie-kinder-ferienhaus.jpg/1649048-2-eng-XX/Hero-1200x410-familie-kinder-ferienhaus.jpg.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/urlaubsideen/",
-                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
-                        },
-                        {
-                            "href": "/urlaubsideen/kinder-familie/",
-                            "label": "Urlaub mit Kindern - Ferienhäuser \u0026 Ferienanlagen für Ihren Familienurlaub"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Unsere Empfehlungen für Familienurlaub:",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003e\u003cstrong\u003eWas Familien wollen!\u003c/strong\u003e\u003cbr\u003eIhre Kinder lieben Spaß und Action - und Sie brauchen ab und zu ein wenig Ruhe? Hier finden Sie alle Ferienhäuser, Ferienwohnungen und Ferienanlagen, in denen Ihren Kindern nie langweilig wird.\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Heading",
-                "content": {
-                    "title": "Unsere Empfehlungen für Familienurlaub:",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-deutschland-ferienhäuser-für-familien/1649054-1-ger-XX/Predefined-Search-Deutschland-Ferienhäuser-für-Familien.jpg",
-                            "Title": "Deutschland - Ferienhäuser für Familien",
-                            "URL": "/deutschland/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-france-holiday-homes-for-families/1649064-1-eng-XX/Predefined-Search-France-holiday-homes-for-families.jpg",
-                            "Title": "Frankreich - Ferienhäuser für Familien",
-                            "URL": "/frankreich/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-italy-holiday-homes-for-families/1649074-1-eng-XX/Predefined-Search-Italy-holiday-homes-for-families.jpg",
-                            "Title": "Italien - Ferienhäuser für Familien",
-                            "URL": "/italien/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-croatia-holiday-homes-for-families/1649084-1-eng-XX/Predefined-Search-Croatia-holiday-homes-for-families.jpg",
-                            "Title": "Kroatien - Ferienhäuser für Familien",
-                            "URL": "/kroatien/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-netherlands-holiday-homes-for-families/1649094-1-eng-XX/Predefined-Search-Netherlands-holiday-homes-for-families.jpg",
-                            "Title": "Niederlande - Ferienhäuser für Familien",
-                            "URL": "/niederlande/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-austria-holiday-homes-for-families/1649104-1-eng-XX/Predefined-Search-Austria-holiday-homes-for-families.jpg",
-                            "Title": "Österreich - Ferienhäuser für Familien",
-                            "URL": "/oesterreich/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-hungary-holiday-homes-for-families/1649114-1-eng-XX/Predefined-Search-Hungary-holiday-homes-for-families.jpg",
-                            "Title": "Ungarn - Ferienhäuser für Familien",
-                            "URL": "/ungarn/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/family/predefined-search-all-holiday-homes-for-families/1649124-1-eng-XX/Predefined-Search-All-holiday-homes-for-families.jpg",
-                            "Title": "Alle Ferienhäuser für Familien",
-                            "URL": "/kinder-familie/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 7,
-                "component": "USPBar",
-                "content": {
-                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
-                    "link": {
-                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
-                        "label": "Mehr Info"
-                    },
-                    "car": "Individuelle Anreise",
-                    "cleaning": "Kontrollierte Reinigung",
-                    "independence": "Freiheit und Unabhängigkeit",
-                    "key": "Sichere Schlüssel-Übergabe vor Ort",
-                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
-                    "support": "Persönliche Betreuung vor Ort"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Gute Qualität garantiert!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
-                        },
-                        {
-                            "title": "Persönlich für Sie da!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
-                        },
-                        {
-                            "title": "50 Jahre Erfahrung!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Die beliebtesten Urlaubsziele",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

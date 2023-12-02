@@ -26,347 +26,83 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_holiday_ideas_2021_22/2089719-1-eng-XX/Header_1200x410_IC_holiday_ideas_2021_22.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/urlaubsideen/",
-                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Noch mehr Urlaubsideen... ",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "TextColumns",
-                "content": {
-                    "textLeft": "\u003cp\u003eLassen Sie sich von unseren Ideen für Ihren Ferienhausurlaub inspirieren und entdecken Sie das perfekte Ferienhaus oder die ideale Ferienwohnung: Für einen Urlaub ohne Kompromisse - mit viel mehr Platz und Freiheit als in einem Hotel!\u003c/p\u003e\u003cp\u003eDas Interchalet Angebot deckt alle Ihre Wünsche ab: Sie haben die Wahl zwischen einem großzügigen Ferienhaus mit Pool, einer Villa am Meer und einem gemütlichen Chalet in den Bergen. Oder auch zwischen einem alleinstehenden Ferienhaus in der Natur und einer praktischen Ferienwohnung direkt im Stadtzentrum.\u003c/p\u003e\u003cp\u003eHier finden Sie bestimmt die richtige Idee für Ihren nächsten Urlaub!\u003c/p\u003e\n",
-                    "textRight": "\u003ch4\u003eWarum Urlaub im Ferienhaus?\u003c/h4\u003e\u003cp\u003eUrlaub im Ferienhaus bedeutet Freiheit sowie Unabhängigkeit und das beginnt schon mit der individuellen Anreise im eigenen Auto. Sie sind Ihr eigener Chef und können jederzeit ungestört Ihre Privatsphäre genießen.\u003c/p\u003e\u003cp\u003eSie haben Ihre Unterkunft für sich alleine und die Möglichkeit, sich selbst zu versorgen.\u003c/p\u003e\u003cp\u003eGestalten Sie Ihren Urlaub nach Ihren Vorstellungen, ohne dabei auf den gewohnten Komfort, Qualität und die Sicherheit in den eigenen 4 Wänden verzichten zu müssen.\u003c/p\u003e\u003cp\u003eVerbringen Sie Ihre Reise unbeschwert, denn auch vor Ort sind Sie stets in guten Händen, profitieren von einer persönlichen Betreuung und einer sicheren und unkomplizierten Schlüsselübergabe.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/ueber-uns/sicherheit-im-ferienhaus/\" target=\"_blank\"\u003e\u0026gt;\u0026gt; So sicher sind Sie in Ihrem Ferienhaus\u003c/a\u003e \u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Heading",
-                "content": {
-                    "title": "Noch mehr Urlaubsideen... ",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/regions/predefined-search-de-black-forest-summer/1812764-4-ger-XX/Predefined-Search-DE-Black-Forest-Summer.jpg",
-                            "Title": "Schwarzwald",
-                            "URL": "/deutschland/schwarzwald/?season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/regions/predefined-search-de-bavaria-summer/1812774-4-ger-XX/Predefined-Search-DE-Bavaria-Summer.jpg",
-                            "Title": "Bayern",
-                            "URL": "/deutschland/bayern/?season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/regions/predefined-search-de-hessisches-bergland-summer/1812789-1-eng-XX/Predefined-Search-DE-Hessisches-Bergland-Summer.jpg",
-                            "Title": "Hessisches Bergland",
-                            "URL": "/deutschland/hessisches-bergland/?season=summer"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/regions/predefined-search-de-north-sea/1812744-4-ger-XX/Predefined-Search-DE-North-Sea.jpg",
-                            "Title": "Nordsee",
-                            "URL": "/deutschland/nordsee/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/regions/predefined-search-de-baltic-sea/1812754-6-ger-XX/Predefined-Search-DE-Baltic-Sea.jpg",
-                            "Title": "Ostsee",
-                            "URL": "/deutschland/ostsee/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/regions/predefined-search-de-mecklenburgische-seenplatte-summer/1812784-4-ger-XX/Predefined-Search-DE-Mecklenburgische-Seenplatte-Summer.jpg",
-                            "Title": "Mecklenburgische Seenplatte",
-                            "URL": "/deutschland/mecklenburgische-seenplatte/?season=summer"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 7,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003eVertraute Sprache, vertraute Kultur - und eine kurze Anreise: In Ihrem Heimatland bleibt Ihnen mehr Zeit, um Ihren Urlaub so richtig auszukosten. Es lohnt sich auch schon, nur kurz aus dem Alltag auszubrechen: Mit Interchalet sind Kurzaufenthalte bereits ab wenigen Nächten möglich! Werfen Sie auch einen Blick auf unsere \u003ca href=\"/deutschland/last-minute/\"\u003eLast Minute Angebote\u003c/a\u003e oder - bei längerfristiger Planung - auf unsere \u003ca href=\"/deutschland/fruehbucher-rabatt/\"\u003eFrühbucher-Angebote\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eNichts wie raus aus dem Alltag und die schönsten Regionen des eigenen Landes entdecken! \u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "Heading",
-                "content": {
-                    "title": "Noch mehr Urlaubsideen... ",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "Skiurlaub im Ferienhaus",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/ski-holiday/1651003-58-ger-XX/skiarea.jpg",
-                            "Title": "Skiurlaub im Ferienhaus",
-                            "URL": "/urlaubsideen/skiurlaub/"
-                        },
-                        {
-                            "ImgAlt": "Skihütten Chalets Hütten Urlaub",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/chalet/1650832-13-ger-XX/chalet.jpg",
-                            "Title": "Skihütten und Chalets für Ihren Urlaub",
-                            "URL": "/urlaubsideen/chalet-ski-huette/"
-                        },
-                        {
-                            "ImgAlt": "Skiurlaub mit Familie und Kindern ",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/skivakantie-kinderen-gezinnen/1642407-1-ger-XX/ski-family.jpg",
-                            "Title": "Skiurlaub mit Familie und Kindern ",
-                            "URL": "/urlaubsideen/skiurlaub-kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "Pistenhäuser",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/vakantie-ideeën/aan-de-piste/1642065-42-ger-XX/slope.jpg",
-                            "Title": "Pistenhäuser - für perfektes Skivergnügen",
-                            "URL": "/urlaubsideen/an-der-piste/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 10,
-                "component": "Heading",
-                "content": {
-                    "title": "Noch mehr Urlaubsideen... ",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 11,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/aan-het-strand/1631760-28-ger-XX/beach-holiday.jpg",
-                            "Title": "Ferienhaus am Meer - Ferienwohnung am Strand",
-                            "URL": "/urlaubsideen/am-strand-am-meer/"
-                        },
-                        {
-                            "ImgAlt": "Sommerurlaub im Ferienhaus",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/summer-holidays/2218411-18-ger-XX/summer-holidays.jpg",
-                            "Title": "Für jeden Geschmack und jeden Geldbeutel – Sommerurlaub im Ferienhaus",
-                            "URL": "/urlaubsideen/sommerurlaub/"
-                        },
-                        {
-                            "ImgAlt": "Urlaub mit Kindern Ferienanlagen Familienurlaub",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/vakantie-ideeën/gezin-kinderen/1654145-13-ger-XX/family.jpg",
-                            "Title": "Urlaub mit Kindern - Ferienhäuser \u0026 Ferienanlagen für Ihren Familienurlaub",
-                            "URL": "/urlaubsideen/kinder-familie/"
-                        },
-                        {
-                            "ImgAlt": "Ferienhaus Last Minute Ferienwohnung",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/last-minute/1642231-118-ger-XX/last-minute.jpg",
-                            "Title": "Last Minute Ferienhaus und Ferienwohnung",
-                            "URL": "/urlaubsideen/last-minute/"
-                        },
-                        {
-                            "ImgAlt": "Seen-Sucht stillen im Ferienhaus am See",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/ferienhaus-see/2220687-1-ger-XX/lakes.jpg",
-                            "Title": "Urlaub im Ferienhaus am See",
-                            "URL": "/urlaubsideen/ferienhaus-see/"
-                        },
-                        {
-                            "ImgAlt": "Ferienhaus mit Pool zur Alleinnutzung",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/vakantie-ideeën/met-zwembad/1624406-70-ger-XX/pool.jpg",
-                            "Title": "Ferienhaus mit Pool - viele zur Alleinnutzung",
-                            "URL": "/urlaubsideen/ferienhaus-mit-pool/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 12,
-                "component": "Heading",
-                "content": {
-                    "title": "Noch mehr Urlaubsideen... ",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 13,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "Urlaub im Ferienhaus mit Hund",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/vakanties-met-de-hond/1640061-1-ger-XX/pets.jpg",
-                            "Title": "Urlaub im Ferienhaus mit Hund",
-                            "URL": "/urlaubsideen/urlaub-mit-hund/"
-                        },
-                        {
-                            "ImgAlt": "Gruppenhäuser große Ferienhäuser für Gruppenreisen",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/groep-accommodatie/1641794-2-ger-XX/groups.jpg",
-                            "Title": "Gruppenhäuser - große Ferienhäuser für Gruppenreisen",
-                            "URL": "/urlaubsideen/fuer-gruppen/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/casa-selection/2275882-32-ger-XX/casa-selection.jpg",
-                            "Title": "Casa Selection – Für besondere Urlaubsmomente",
-                            "URL": "/urlaubsideen/casa-selection/"
-                        },
-                        {
-                            "ImgAlt": "Urlaub in den Bergen",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/holiday-homes-mountains/2221607-1-ger-XX/Mountains.jpg",
-                            "Title": "Urlaub in den Bergen",
-                            "URL": "/urlaubsideen/urlaub-in-den-bergen/"
-                        },
-                        {
-                            "ImgAlt": "Alps-resorts",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/alps-resorts/2205046-28-ger-XX/alps-resorts.jpg",
-                            "Title": "ALPS RESORTS - My way of holiday",
-                            "URL": "/urlaubsideen/alps-resorts/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/public-holidays/2205674-145-ger-XX/public-holidays.jpg",
-                            "Title": "Feiertage im Ferienhaus",
-                            "URL": "/urlaubsideen/feiertage/"
-                        },
-                        {
-                            "ImgAlt": "Ferienhäuser mit Rabatt für Frühbucher",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/vroegboekkorting/1635865-22-ger-XX/early-bird.jpg",
-                            "Title": "Frühbucherrabatte sichern",
-                            "URL": "/urlaubsideen/fruehbucher-rabatt/"
-                        },
-                        {
-                            "ImgAlt": "Städtereisen",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/city-trips/2225394-1-ger-XX/citytrips.jpg",
-                            "Title": "Städtereisen",
-                            "URL": "/urlaubsideen/staedtereisen/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/autumn-holidays/2223691-12-ger-XX/autumn.jpg",
-                            "Title": "Herbsturlaub",
-                            "URL": "/urlaubsideen/herbsturlaub/"
-                        },
-                        {
-                            "ImgAlt": "Valentinstag",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/valentinstag/2247855-46-ger-XX/valentines-day.jpg",
-                            "Title": "Valentinstag im Ferienhaus",
-                            "URL": "/urlaubsideen/valentinstag/"
-                        },
-                        {
-                            "ImgAlt": "Sonderangebote - günstige Ferienhäuser und Ferienwohnungen",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/speciale-aanbiedingen/1651062-30-ger-XX/special-offers.jpg",
-                            "Title": "Sonderangebote buchen",
-                            "URL": "/urlaubsideen/sonderangebote/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 14,
-                "component": "USPBar",
-                "content": {
-                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
-                    "link": {
-                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
-                        "label": "Mehr Info"
-                    },
-                    "car": "Individuelle Anreise",
-                    "cleaning": "Kontrollierte Reinigung",
-                    "independence": "Freiheit und Unabhängigkeit",
-                    "key": "Sichere Schlüssel-Übergabe vor Ort",
-                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
-                    "support": "Persönliche Betreuung vor Ort"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 15,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Gute Qualität garantiert!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
-                        },
-                        {
-                            "title": "Persönlich für Sie da!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
-                        },
-                        {
-                            "title": "50 Jahre Erfahrung!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 16,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Die beliebtesten Urlaubsziele",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

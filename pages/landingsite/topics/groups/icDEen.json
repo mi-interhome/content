@@ -26,199 +26,48 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "Ferienhaus fuer Gruppen - Gruppenhaus",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-ferienhaus-fuer-gruppen.jpg/1638369-2-eng-XX/Hero-1200x410-ferienhaus-fuer-gruppen.jpg.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/en/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/en/holiday-ideas/",
-                            "label": "Holiday Ideas"
-                        },
-                        {
-                            "href": "/en/holiday-ideas/group-accommodation/",
-                            "label": "Group accommodations"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Our Recommendations:",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "Text",
-                "content": {
-                    "text": "\u003ch4\u003e\n\u003cstrong\u003eGroup accommodations f\u003c/strong\u003e\u003cstrong\u003erom 10 to 42 persons\u003c/strong\u003e\n\u003c/h4\u003e\u003cp\u003eHolidays with friends are more fun – cook and barbecue together, play games and swim in your own pool – here you will find holiday homes for groups of up to 42 people or several families.\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Heading",
-                "content": {
-                    "title": "Our Recommendations:",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-italy-group-accommodation/1638017-1-eng-XX/Predefined-Search-Italy-Group-accommodation.jpg",
-                            "Title": "Italy - Group accommodation",
-                            "URL": "/en/italy/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-austria-group-accommodation/1638034-1-eng-XX/Predefined-Search-Austria-Group-accommodation.jpg",
-                            "Title": "Austria - Group accommodation",
-                            "URL": "/en/austria/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-france-group-accommodation/1638049-1-eng-XX/Predefined-Search-France-Group-accommodation.jpg",
-                            "Title": "France - Group accommodation",
-                            "URL": "/en/france/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-croatia-group-accommodation/1638064-1-eng-XX/Predefined-Search-Croatia-Group-accommodation.jpg",
-                            "Title": "Croatia - Group accommodation",
-                            "URL": "/en/croatia/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-spain-group-accommodation/1638084-1-eng-XX/Predefined-Search-Spain-Group-accommodation.jpg",
-                            "Title": "Spain - Group accommodation",
-                            "URL": "/en/spain/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-germany-group-accommodation/1638099-1-eng-XX/Predefined-Search-Germany-Group-accommodation.jpg",
-                            "Title": "Germany - Group accommodation",
-                            "URL": "/en/germany/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-switzerland-group-accommodation/1638114-1-eng-XX/Predefined-Search-Switzerland-Group-accommodation.jpg",
-                            "Title": "Switzerland - Group accommodation",
-                            "URL": "/en/switzerland/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-norway-group-accommodation/1638129-1-eng-XX/Predefined-Search-Norway-Group-accommodation.jpg",
-                            "Title": "Norway - Group accommodation",
-                            "URL": "/en/norway/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-portugal-group-accommodation/1638139-1-eng-XX/Predefined-Search-Portugal-Group-accommodation.jpg",
-                            "Title": "Portugal - Group accommodation",
-                            "URL": "/en/portugal/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-czech-republic-group-accommodation/1638154-1-eng-XX/Predefined-Search-Czech-Republic-Group-accommodation.jpg",
-                            "Title": "Czech Republic - Group accommodation",
-                            "URL": "/en/czech-republic/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-hungary-group-accommodation/1638169-1-eng-XX/Predefined-Search-Hungary-Group-accommodation.jpg",
-                            "Title": "Hungary - Group accommodation",
-                            "URL": "/en/hungary/for-groups/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/groups/predefined-search-all-group-accommodation/1638252-1-eng-XX/Predefined-Search-All-group-accommodation.jpg",
-                            "Title": "All group accommodation",
-                            "URL": "/en/for-groups/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 7,
-                "component": "USPBar",
-                "content": {
-                    "headline": "Safety in your holiday home!",
-                    "link": {
-                        "href": "/en/about-us/safety-in-your-holiday-home/",
-                        "label": "More info"
-                    },
-                    "car": "Individual arrivals",
-                    "cleaning": "Quality controlled cleaning",
-                    "independence": "Freedom and independence",
-                    "key": "Safe hand-over of the key on-site",
-                    "privacy": "Privacy in your holiday home",
-                    "support": "Personal assistance on-site"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Good quality guaranteed!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
-                        },
-                        {
-                            "title": "Personally there for you!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
-                        },
-                        {
-                            "title": "49 years of experience!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Why Interchalet?",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

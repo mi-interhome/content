@@ -26,226 +26,68 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_easter_holidays/2242329-1-eng-XX/Header_1200x410_IC_Easter_Holidays.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/urlaubsideen/",
-                            "label": "Urlaubsideen für Ihre schönsten Tage im Jahr"
-                        },
-                        {
-                            "href": "/urlaubsideen/osterurlaub/",
-                            "label": "Ferienwohnung für den Osterurlaub buchen"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Viele Traumziele für Ihren Osterurlaub",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "TextColumns",
-                "content": {
-                    "textLeft": "\u003ch3\u003eOstern genießen und entspannen\u003c/h3\u003e\u003cp\u003eOb nur die freien Feiertage oder ein ausgedehnter Urlaub über Ostern – genießen Sie den Frühlingsanfang im eigenen Ferienhaus.\u003c/p\u003e\u003cp\u003eFarbenfrohe Blumenfelder, wärmende Frühjahrs-Sonnenstrahlen und eine gemütliche, preiswerte Ferienwohnung für den Urlaub zu zweit oder ein geräumiges Ferienhaus für die ganze Familie – was braucht man mehr, um zu Ostern so richtig schön zu entspannen?\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"#traumziele\"\u003eTraumziele zu Ostern\u003c/a\u003e\u003c/p\u003e\n",
-                    "textRight": "\u003ch3\u003eFamilienurlaub im Ferienhaus verbringen\u003c/h3\u003e\u003cp\u003eGenießen Sie lieber die Natur bei einer ausgedehnten Wanderung in den Bergen oder freuen Sie sich schon im Winter auf Ihren nächsten Badeurlaub am See oder am Meer? Möchten Sie Ihren Partner mit einem romantischen Urlaub in einer Ferienwohnung überraschen? Oder wünschen Sie sich zu Ostern einen erlebnisreichen Familienurlaub in einem grossen Ferienhaus? Egal wo und mit wem Sie Ihren Osterurlaub am liebsten verbringen möchten, die passende Unterkunft zum Sparpreis finden Sie bei Interchalet.\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Heading",
-                "content": {
-                    "title": "Viele Traumziele für Ihren Osterurlaub",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/lakes/predifined-search-holidays-by-a-lake/2221105-1-ger-XX/Predifined-Search-Holidays-by-a-lake.jpg",
-                            "Title": "Urlaub am See",
-                            "URL": "/suche/?lake=1000"
-                        },
-                        {
-                            "ImgAlt": "Ferienhaus mit Pool zur Alleinnutzung",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/vakantie-ideeën/met-zwembad/1624406-70-ger-XX/pool.jpg",
-                            "Title": "Ferienhaus mit Pool - viele zur Alleinnutzung",
-                            "URL": "/urlaubsideen/ferienhaus-mit-pool/"
-                        },
-                        {
-                            "ImgAlt": "Urlaub im Ferienhaus mit Hund",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/vakanties-met-de-hond/1640061-1-ger-XX/pets.jpg",
-                            "Title": "Urlaub im Ferienhaus mit Hund",
-                            "URL": "/urlaubsideen/urlaub-mit-hund/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/luxury/predifined-search-luxury-holiday/2242137-5-ger-XX/Predifined-Search-Luxury-holiday.jpg",
-                            "Title": "Luxus Ferienhäuser",
-                            "URL": "/casa/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/cheap/predefined-search-all-special-offers-for-holiday-homes/1650426-1-eng-XX/Predefined-Search-All-special-offers-for-holiday-homes.jpg",
-                            "Title": "Alle Sonderangebote für Ferienhäuser und Ferienwohnungen",
-                            "URL": "/sonderangebote/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/chalet/predefined-search-all-chalets-summer/1649636-23-ger-XX/Predefined-Search-All-Chalets-Summer.jpg",
-                            "Title": "Urlaub im Chalet",
-                            "URL": "/chalet-ski-huette/?season=summer"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 7,
-                "component": "Text",
-                "content": {
-                    "text": "\u003ch4\u003e\u003cstrong\u003eOsterurlaub in Deutschland\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eSie wollten schon immer einmal Ihren Osterurlaub in Deutschland verbringen? Eine grossartige Idee, denn dort gibt es atemberaubende Landschaften und pulsierende Städte zu entdecken. Lassen Sie sich von den blühenden Frühlingslandschaften verzaubern, nehmen Sie ein erfrischendes Bad in der Nordsee oder erleben Sie herausfordernde Wanderungen im Schwarzwald. Egal welche Art von Urlaub Ihnen vorschwebt - im vielseitigen Deutschland finden Sie ganz sicher einen paradiesischen Ort nach Ihrem Geschmack und bei Interchalet die passende Ferienwohnung dazu. Wer es noch geräumiger mag, kann für den Osterurlaub in Deutschland sogar ein ganzes Ferienhaus mieten und es sich so richtig schön gemütlich machen.\u003cbr\u003e\u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/deutschland/schwarzwald/\"\u003eSchwarzwald\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOstern in Holland\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eVerbringen Sie Ostern in Holland und entdecken Sie die farbenfrohen Strassen Amsterdams. Oder entspannen Sie in einer Ferienwohnung an der Nordsee. Ob Noord-Holland oder Zuid-Holland: Die Niederlande sind immer eine Reise wert. \u003cstrong\u003e \u003c/strong\u003e\u003cbr\u003e\u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/niederlande/nordholland/\"\u003eAmsterdam\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/niederlande/nordholland/\"\u003eNoord-Holland\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/niederlande/suedholland/\"\u003eZuid-Holland\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOstern in Italien\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eOb Gardasee, Adria, Toskana, Venedig oder Florenz: Italien beeindruckt durch seine einzigartige Kultur, historischen Bauwerke und kulinarischen Highlights. Die perfekte Mischung aus dolce far niente und Abenteuer!\u003cbr\u003e\u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/italien/venetien/venedig/\"\u003eVenedig\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOsterurlaub in Spanien\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003e¡Felices Pascuas! Spanien hat mindestens genauso viele schöne Urlaubziele zu bieten wie Deutschland, Holland, Frankreich oder Italien. Lassen Sie es sich bei einem Osterurlaub auf Mallorca gut gehen. Mitte April kann man hier in der Regel bereits bei warmen Temperaturen im Meer baden. Ideal zum Toben für die Kinder, aber auch zum Entspannen in einsamen Buchten, zum Wandern oder zum Feiern in den Clubs am Ballermann. Auch die Costa Blanca an der Ostküste Spaniens ist ein tolles Reiseziel für den Osterurlaub. \u003cbr\u003e\u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/spanien/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOsterurlaub in Frankreich\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eWer seine Ostereier lieber in Frankreich suchen möchte, kann den Osterurlaub an der malerischen Côte d'Azur verbringen. Wer nicht so weit fahren will, genießt die westfranzösische Bretagne und taucht für ein erfrischendes Frühjahrsbad in den Atlantik ein. \u003cbr\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur |\u003c/a\u003e \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e  \u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eStädtereise für Ihren Osterurlaub\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eFür all diejenigen, die ihren Jahresurlaub lieber im Sommer planen, aber dennoch über Ostern ein paar Tage verreisen möchten, lohnt sich ein \u003ca href=\"https://www.interhome.de/urlaubsideen/staedtereisen/\"\u003eStädtetrip\u003c/a\u003e in eine spannende Metropole. Verbringen Sie Ihren Osterurlaub in Berlin, Paris, Rom oder einer anderen europäischen Großstadt. Bei Interchalet finden Sie das passende Ferienhaus für Ihren Aufenthalt.\u003cbr\u003e\u003ca href=\"/deutschland/brandenburg/berlin/\"\u003eBerlin\u003c/a\u003e \u003ca href=\"https://www.interhome.at/tschechien/prag-und-umgebung/\"\u003e|\u003c/a\u003e \u003ca href=\"/frankreich/ile-de-france/\"\u003eParis\u003c/a\u003e\u003ca href=\"https://www.interhome.at/tschechien/prag-und-umgebung/\"\u003e | \u003c/a\u003e\u003ca href=\"/italien/rom-stadt/rom/\"\u003eRom\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eLast Minute Osterurlaub\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eOstern naht und Sie haben noch keine Unterkunft für Ihren Osterurlaub gefunden? Dann schauen Sie bei unseren \u003ca href=\"/last-minute/\"\u003eLast Minute Angeboten\u003c/a\u003e vorbei. Bei vielen Ferienhäusern und Ferienwohnungen bekommen Kurzentschlossene satte Rabatte! Wer also spontan alleine, zu zweit oder mit der ganzen Familie verreisen möchte, wird bei uns ganz sicher fündig und spart noch dazu bares Geld. \u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "Heading",
-                "content": {
-                    "title": "Viele Traumziele für Ihren Osterurlaub",
-                    "level": 3,
-                    "size": "md"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
                 "component": "",
-                "content": {
-                    "component": "TeaserGrid",
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/easter/predefined-search-easter-holidays-in-switzerland/2241994-4-ger-XX/Predefined-Search-Easter-Holidays-in-Switzerland.jpg",
-                            "Title": "Osterurlaub in der Schweiz",
-                            "URL": "/schweiz/?checkin=2024-03-29\u0026duration=3"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/easter/predefined-search-easter-holidays-in-france/2242004-3-ger-XX/Predefined-Search-Easter-Holidays-in-France.jpg",
-                            "Title": "Osterurlaub in Frankreich",
-                            "URL": "/frankreich/?checkin=2024-03-29\u0026duration=3"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/configuration/predefined-searches/picture-links/topics/easter/predefined-search-easter-holidays-in-italy/2242121-3-ger-XX/Predefined-Search-Easter-Holidays-in-Italy.jpg",
-                            "Title": "Osterurlaub in Italien",
-                            "URL": "/italien/?checkin=2024-03-29\u0026duration=3"
-                        },
-                        {
-                            "ImgAlt": "Städtereisen",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/city-trips/2225394-1-ger-XX/citytrips.jpg",
-                            "Title": "Städtereisen",
-                            "URL": "/urlaubsideen/staedtereisen/"
-                        },
-                        {
-                            "ImgAlt": "Ferienhaus Last Minute Ferienwohnung",
-                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/content/holiday-ideas/last-minute/1642231-118-ger-XX/last-minute.jpg",
-                            "Title": "Last Minute Ferienhaus und Ferienwohnung",
-                            "URL": "/urlaubsideen/last-minute/"
-                        }
-                    ]
-                }
+                "content": null
             },
             {
                 "id": 10,
-                "component": "Text",
-                "content": {
-                    "text": "\u003ch4\u003e\u003cstrong\u003eOsterurlaub in Deutschland\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eSie wollten schon immer einmal Ihren Osterurlaub in Deutschland verbringen? Eine grossartige Idee, denn dort gibt es atemberaubende Landschaften und pulsierende Städte zu entdecken. Lassen Sie sich von den blühenden Frühlingslandschaften verzaubern, nehmen Sie ein erfrischendes Bad in der Nordsee oder erleben Sie herausfordernde Wanderungen im Schwarzwald. Egal welche Art von Urlaub Ihnen vorschwebt - im vielseitigen Deutschland finden Sie ganz sicher einen paradiesischen Ort nach Ihrem Geschmack und bei Interchalet die passende Ferienwohnung dazu. Wer es noch geräumiger mag, kann für den Osterurlaub in Deutschland sogar ein ganzes Ferienhaus mieten und es sich so richtig schön gemütlich machen.\u003cbr\u003e\u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/deutschland/schwarzwald/\"\u003eSchwarzwald\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOstern in Holland\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eVerbringen Sie Ostern in Holland und entdecken Sie die farbenfrohen Strassen Amsterdams. Oder entspannen Sie in einer Ferienwohnung an der Nordsee. Ob Noord-Holland oder Zuid-Holland: Die Niederlande sind immer eine Reise wert. \u003cstrong\u003e \u003c/strong\u003e\u003cbr\u003e\u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/niederlande/nordholland/\"\u003eAmsterdam\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/niederlande/nordholland/\"\u003eNoord-Holland\u003c/a\u003e\u003ca href=\"/italien/\"\u003e | \u003c/a\u003e\u003ca href=\"/niederlande/suedholland/\"\u003eZuid-Holland\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOstern in Italien\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eOb Gardasee, Adria, Toskana, Venedig oder Florenz: Italien beeindruckt durch seine einzigartige Kultur, historischen Bauwerke und kulinarischen Highlights. Die perfekte Mischung aus dolce far niente und Abenteuer!\u003cbr\u003e\u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/italien/venetien/venedig/\"\u003eVenedig\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOsterurlaub in Spanien\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003e¡Felices Pascuas! Spanien hat mindestens genauso viele schöne Urlaubziele zu bieten wie Deutschland, Holland, Frankreich oder Italien. Lassen Sie es sich bei einem Osterurlaub auf Mallorca gut gehen. Mitte April kann man hier in der Regel bereits bei warmen Temperaturen im Meer baden. Ideal zum Toben für die Kinder, aber auch zum Entspannen in einsamen Buchten, zum Wandern oder zum Feiern in den Clubs am Ballermann. Auch die Costa Blanca an der Ostküste Spaniens ist ein tolles Reiseziel für den Osterurlaub. \u003cbr\u003e\u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/spanien/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eOsterurlaub in Frankreich\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eWer seine Ostereier lieber in Frankreich suchen möchte, kann den Osterurlaub an der malerischen Côte d'Azur verbringen. Wer nicht so weit fahren will, genießt die westfranzösische Bretagne und taucht für ein erfrischendes Frühjahrsbad in den Atlantik ein. \u003cbr\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur |\u003c/a\u003e \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e  \u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eStädtereise für Ihren Osterurlaub\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eFür all diejenigen, die ihren Jahresurlaub lieber im Sommer planen, aber dennoch über Ostern ein paar Tage verreisen möchten, lohnt sich ein \u003ca href=\"https://www.interhome.de/urlaubsideen/staedtereisen/\"\u003eStädtetrip\u003c/a\u003e in eine spannende Metropole. Verbringen Sie Ihren Osterurlaub in Berlin, Paris, Rom oder einer anderen europäischen Großstadt. Bei Interchalet finden Sie das passende Ferienhaus für Ihren Aufenthalt.\u003cbr\u003e\u003ca href=\"/deutschland/brandenburg/berlin/\"\u003eBerlin\u003c/a\u003e \u003ca href=\"https://www.interhome.at/tschechien/prag-und-umgebung/\"\u003e|\u003c/a\u003e \u003ca href=\"/frankreich/ile-de-france/\"\u003eParis\u003c/a\u003e\u003ca href=\"https://www.interhome.at/tschechien/prag-und-umgebung/\"\u003e | \u003c/a\u003e\u003ca href=\"/italien/rom-stadt/rom/\"\u003eRom\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eLast Minute Osterurlaub\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eOstern naht und Sie haben noch keine Unterkunft für Ihren Osterurlaub gefunden? Dann schauen Sie bei unseren \u003ca href=\"/last-minute/\"\u003eLast Minute Angeboten\u003c/a\u003e vorbei. Bei vielen Ferienhäusern und Ferienwohnungen bekommen Kurzentschlossene satte Rabatte! Wer also spontan alleine, zu zweit oder mit der ganzen Familie verreisen möchte, wird bei uns ganz sicher fündig und spart noch dazu bares Geld. \u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 11,
-                "component": "USPBar",
-                "content": {
-                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
-                    "link": {
-                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
-                        "label": "Mehr Info"
-                    },
-                    "car": "Individuelle Anreise",
-                    "cleaning": "Kontrollierte Reinigung",
-                    "independence": "Freiheit und Unabhängigkeit",
-                    "key": "Sichere Schlüssel-Übergabe vor Ort",
-                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
-                    "support": "Persönliche Betreuung vor Ort"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 12,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Gute Qualität garantiert!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
-                        },
-                        {
-                            "title": "Persönlich für Sie da!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
-                        },
-                        {
-                            "title": "50 Jahre Erfahrung!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 13,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Die beliebtesten Urlaubsziele",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

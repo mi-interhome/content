@@ -1,0 +1,73 @@
+{
+    "id": "19526",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.fr/a-propos-d-interhome/adhesion/",
+            "title": "La société Interhome est adhérente à différents organismes",
+            "description": "La société Interhome est adhérente à l'APST, à Atout France, aux Entreprises du Voyage, à l'UNPLV et au SPLM",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/adhesion/",
+        "body": [
+            {
+                "id": 1,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 2,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "",
+                            "content": {}
+                        },
+                        {
+                            "id": 2,
+                            "component": "",
+                            "content": {}
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 5,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {}
+            }
+        ]
+    }
+}

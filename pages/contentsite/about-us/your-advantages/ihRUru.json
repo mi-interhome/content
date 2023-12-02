@@ -1,0 +1,73 @@
+{
+    "id": "20115",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "ContentPage",
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ru/о-компании-interhome/ваши-преимущества/",
+            "title": "Преимущества бронирования с Interhome | Interhome",
+            "description": "При бронировании с Interhome Вы получаете выгоду от специальных предложений и скидок на лыжное оборудование, ски-пассы, туры и многое другое! Просто бронируйте с нами и Вы увидите, как легко воспользоваться этими скидками! Откройте для себя специальные предложения для клиентов здесь",
+            "keywords": null,
+            "robots": "index, follow"
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/your-advantages/",
+        "body": [
+            {
+                "id": 1,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 2,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "",
+                            "content": {}
+                        },
+                        {
+                            "id": 2,
+                            "component": "",
+                            "content": {}
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 5,
+                "component": "",
+                "content": {}
+            },
+            {
+                "id": 6,
+                "component": "",
+                "content": {}
+            }
+        ]
+    }
+}

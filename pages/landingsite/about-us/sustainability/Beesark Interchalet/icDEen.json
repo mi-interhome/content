@@ -26,140 +26,48 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
-                        },
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
-                        },
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
-                        },
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/en/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/en/about-us/",
-                            "label": "About us"
-                        },
-                        {
-                            "href": "/en/about-us/sustainability/",
-                            "label": "Love nature – conservation concerns all"
-                        },
-                        {
-                            "href": "/en/about-us/sustainability/beesark/",
-                            "label": "Save the bee – save our earth!"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Save the bee – save our earth!",
-                    "level": 1,
-                    "size": "xl"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "TextColumns",
-                "content": {
-                    "textLeft": "\u003cp\u003e\u003cstrong\u003e\"If the bee disappeared off the face of the Earth, man would only have four years left to live. No more bees, no more pollination, no more plants, no more animals, no more man.\" (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group is a leading example in sustainability. We are continuously committed to a sustainable holiday home tourism for the future.\u003c/p\u003e\u003cp\u003eWe take our responsibility seriously and are committed to the conservation of bee populations. Interhome Group is committed to contributing financially to the bee conservation programme of our partner BEESark. 100’000 m\u003csup\u003e2\u003c/sup\u003e flowering fields will be planted in Austria. Per m\u003csup\u003e2\u003c/sup\u003e 87.37g of CO\u003csub\u003e2\u003c/sub\u003e are captured in a field and 72.81g/m\u003csup\u003e2\u003c/sup\u003e of oxygen are released.\u003c/p\u003e\u003cp\u003eFind more information on BEESark at \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
-                    "textRight": "\u003ch4\u003eProtecting bees preserves our future\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eThe flower fields with regionally native plants contain only seeds of wild flowers harvested in the region\u003c/li\u003e\n\u003cli\u003eThese plants are optimally adjusted to the climate, soil and other factors in the region and are competitive in their natural conditions\u003c/li\u003e\n\u003cli\u003eAssorted mixtures of regional origin are offered for various locations\u003c/li\u003e\n\u003cli\u003eLong-lasting bloom for decades and an even faster bloom in combination with annual flowering periods, richly blooming eye catchers while preserving the regional gene pool\u003c/li\u003e\n\u003cli\u003eHigh ecological value: the assortments often contain between 20 and 40 different species which serve as forage crops for special and rare breeds\u003c/li\u003e\n\u003c/ul\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003e\u003ca href=\"/en/about-us/sustainability/\"\u003e\u0026gt;\u0026gt; Learn more about other sustainability projects supported by the Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003e\u003ca href=\"/en/about-us/sustainability/\"\u003e\u0026gt;\u0026gt; Learn more about other sustainability projects supported by the Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 7,
-                "component": "USPBar",
-                "content": {
-                    "headline": "Safety in your holiday home!",
-                    "link": {
-                        "href": "/en/about-us/safety-in-your-holiday-home/",
-                        "label": "More info"
-                    },
-                    "car": "Individual arrivals",
-                    "cleaning": "Quality controlled cleaning",
-                    "independence": "Freedom and independence",
-                    "key": "Safe hand-over of the key on-site",
-                    "privacy": "Privacy in your holiday home",
-                    "support": "Personal assistance on-site"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Good quality guaranteed!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
-                        },
-                        {
-                            "title": "Personally there for you!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
-                        },
-                        {
-                            "title": "49 years of experience!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Why Interchalet?",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }

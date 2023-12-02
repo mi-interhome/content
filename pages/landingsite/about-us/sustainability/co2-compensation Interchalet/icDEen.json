@@ -26,135 +26,53 @@
         "body": [
             {
                 "id": 1,
-                "component": "SearchBar",
-                "content": {
-                    "images": [
-                        {
-                            "alt": "",
-                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_moor_ch_2023/2276607-1-eng-XX/Header_1200x410_IC_Moor_CH_2023.jpg"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 2,
-                "component": "Breadcrumbs",
-                "content": {
-                    "links": [
-                        {
-                            "href": "/en/",
-                            "label": "Home"
-                        },
-                        {
-                            "href": "/en/about-us/",
-                            "label": "About us"
-                        },
-                        {
-                            "href": "/en/about-us/sustainability/",
-                            "label": "Love nature – conservation concerns all"
-                        },
-                        {
-                            "href": "/en/about-us/sustainability/co2-compensation/",
-                            "label": "Renaturation of La Gruère peat bog (Switzerland)"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 3,
-                "component": "Heading",
-                "content": {
-                    "title": "Renaturation of La Gruère peat bog (Switzerland)",
-                    "level": 1,
-                    "size": "xl"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 4,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003e\u003ca href=\"/en/about-us/sustainability/\"\u003e\u0026gt;\u0026gt; Learn more about other sustainability projects supported by the Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 5,
-                "component": "TextColumns",
-                "content": {
-                    "textLeft": "\u003ch4\u003eOur partner\u003c/h4\u003e\u003cp\u003eFor this project, we are collaborating with our partner myclimate. With projects of the highest quality, the Swiss foundation is promoting measurable climate protection and sustainable development worldwide.\u003c/p\u003e\u003ch4\u003eOur project\u003c/h4\u003e\u003cp\u003eThe project \"Peat bog restoration in the nature reserve 'La Gruère'\" contributes to the restoration of a unique peat bog in the Jura. It reduces greenhouse gas emissions, promotes biodiversity, improves water management, and supports the local construction industry.\u003c/p\u003e\u003cp\u003eLa Gruère is a nationally significant peat bog. The climate protection project serves as a financial lifeline and plays a central role in the complete restoration initiative. This ambitious project, covering an area of 55 hectares and peat layers up to 9 meters deep, is being implemented in several stages. The first stage was completed in 2018, with further stages planned between 2024 and 2028.\u003c/p\u003e\u003cp\u003eThe importance of peatlands for the carbon balance of the soil is enormous - even though they only make up three percent of the land surface, they store 30 percent of the soil carbon worldwide. Restoration has positive effects on flood protection, water quality, microclimate, and landscape design and provides recreational opportunities for the population. Additionally, peatlands provide habitat for rare or endangered animal and plant species.\u003c/p\u003e\n",
-                    "textRight": "\u003cp\u003eThe rewetting of drained moors is crucial to stop CO2 emissions from entering the atmosphere. The calculation standard \u003ca href=\"https://www.wsl.ch/en/projects/klimaschutz-durch-hochmoorschutz-1/\" target=\"_blank\"\u003emax.moor\u003c/a\u003e is used to estimate the CO2 savings achieved through restoration projects.\u003c/p\u003e\u003cp\u003eAlthough the protection of the high moors is included in the Swiss constitution, financing of renaturation projects is often difficult. A climate protection contribution offers a solution for supporting restoration projects and protect the environment. By making your climate protection contribution, you are making a huge contribution.\u003c/p\u003e\u003cp\u003eYou can find further information about the project here: \u003ca href=\"https://www.myclimate.org/en/get-active/climate-protection-projects/detail-climate-protection-projects/landuse-switzerland-7823-004/\" target=\"_blank\"\u003eMoorland Renaturation in the La Gruère Nature Reserve (myclimate.org)\u003c/a\u003e\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 6,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003e\u003ca href=\"/en/about-us/sustainability/\"\u003e\u0026gt;\u0026gt; Learn more about other sustainability projects supported by the Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 7,
-                "component": "Text",
-                "content": {
-                    "text": "\u003cp\u003e\u003ca href=\"/en/about-us/sustainability/\"\u003e\u0026gt;\u0026gt; Learn more about other sustainability projects supported by the Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 8,
-                "component": "USPBar",
-                "content": {
-                    "headline": "Safety in your holiday home!",
-                    "link": {
-                        "href": "/en/about-us/safety-in-your-holiday-home/",
-                        "label": "More info"
-                    },
-                    "car": "Individual arrivals",
-                    "cleaning": "Quality controlled cleaning",
-                    "independence": "Freedom and independence",
-                    "key": "Safe hand-over of the key on-site",
-                    "privacy": "Privacy in your holiday home",
-                    "support": "Personal assistance on-site"
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 9,
-                "component": "USPCards",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Good quality guaranteed!",
-                            "subtitle": "Qualität steht bei uns an erster Stelle",
-                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
-                        },
-                        {
-                            "title": "Personally there for you!",
-                            "subtitle": "Profitieren Sie von unserer Erfahrung",
-                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
-                        },
-                        {
-                            "title": "49 years of experience!",
-                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
-                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             },
             {
                 "id": 10,
-                "component": "USPColumns",
-                "content": {
-                    "elements": [
-                        {
-                            "title": "Why Interchalet?",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
-                        },
-                        {
-                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
-                            "subtitle": "",
-                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": {}
             }
         ]
     }
