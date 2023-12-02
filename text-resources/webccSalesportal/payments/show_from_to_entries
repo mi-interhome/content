@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccSalesportal.payments.show_from_to_entries",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "",
+                "Einzahl": "Zobrazit položky {LOWER} až {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "",
+                "Einzahl": "Viser bookinger {LOWER} til {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "",
+                "Einzahl": "Zeige {LOWER} bis {UPPER} Einträge",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "",
+                "Einzahl": "Zeige {LOWER} bis {UPPER} Einträge",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Zeige {LOWER} bis {UPPER} Einträge",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "",
+                "Einzahl": "Zeige {LOWER} bis {UPPER} Einträge",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "",
+                "Einzahl": "Showing entries {LOWER} to {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "",
+                "Einzahl": "Showing entries {LOWER} to {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Showing entries {LOWER} to {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "",
+                "Einzahl": "Showing entries {LOWER} to {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "",
+                "Einzahl": "Showing entries {LOWER} to {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "",
+                "Einzahl": "Showing entries {LOWER} to {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "",
+                "Einzahl": "Mostrando de {LOWER} a {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "",
+                "Einzahl": "Näyttää merkinnät {LOWER} - {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "",
+                "Einzahl": "Näyttää merkinnät {LOWER} - {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "",
+                "Einzahl": "Näyttää merkinnät {LOWER} - {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "",
+                "Einzahl": "Voir les réservations {LOWER} {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Voir les réservations {LOWER} {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Voir les réservations {LOWER} {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Voir les réservations {LOWER} {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "",
+                "Einzahl": "Voir les réservations {LOWER} {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "",
+                "Einzahl": "Prikaz rezultata od {LOWER} do {UPPER} ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "",
+                "Einzahl": "Mostra risultati da {LOWER} a {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Mostra risultati da {LOWER} a {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "",
+                "Einzahl": "Mostra risultati da {LOWER} a {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "",
+                "Einzahl": "Toon resultaten {LOWER} tot {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Toon resultaten {LOWER} tot {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "",
+                "Einzahl": "Toon resultaten {LOWER} tot {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "",
+                "Einzahl": "Viser bookingene {LOWER} til {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "",
+                "Einzahl": "Pokaż pozycje od {LOWER} do {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "",
+                "Einzahl": "Mostrando entradas {LOWER} a {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "Сортировать бронирования от {LOWER} к {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "",
+                "Einzahl": "Visar bokningar{LOWER} till {UPPER}",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

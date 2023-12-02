@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "booking.summary.total",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "",
+                "Einzahl": "CELKEM (včetně DPH)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "",
+                "Einzahl": "I alt",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "",
+                "Einzahl": "Total an {company} (inkl. MWSt.)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "",
+                "Einzahl": "Total an {company} (inkl. MWSt.)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Total an {company} (inkl. MWSt.)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "",
+                "Einzahl": "Total an {company} (inkl. MWSt.)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (IVA incl.)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "",
+                "Einzahl": "YHTEENSÄ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "",
+                "Einzahl": "YHTEENSÄ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "",
+                "Einzahl": "YHTEENSÄ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "",
+                "Einzahl": "Total (TTC)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Total (TTC)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Total (TTC)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Total (TTC)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "",
+                "Einzahl": "Total (TTC)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "",
+                "Einzahl": "Ukupno",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "",
+                "Einzahl": "TOTALE (IVA compresa)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "",
+                "Einzahl": "TOTALE (IVA compresa)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "",
+                "Einzahl": "TOTALE (IVA compresa)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "",
+                "Einzahl": "Totale prijs",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Totale prijs",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "",
+                "Einzahl": "Totale prijs",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "",
+                "Einzahl": "TOTALT (inkl. moms)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "",
+                "Einzahl": "Cena",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "",
+                "Einzahl": "TOTAL (incl.VAT)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "ИТОГО, вкл. НДС",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "",
+                "Einzahl": "TOTALT (inkl moms)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

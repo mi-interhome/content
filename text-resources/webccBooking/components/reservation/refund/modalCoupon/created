@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalCoupon.created",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "",
+                "Einzahl": "Poukaz na částku {amountWithCurrency} byl úspěšně vytvořen s následujícím číslem: ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "",
+                "Einzahl": "Der blev oprettet en voucher for beløbet {amountWithCurrency} med følgende nummer:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "",
+                "Einzahl": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "",
+                "Einzahl": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "",
+                "Einzahl": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "",
+                "Einzahl": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "",
+                "Einzahl": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "",
+                "Einzahl": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "",
+                "Einzahl": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "",
+                "Einzahl": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "",
+                "Einzahl": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "",
+                "Einzahl": "Se ha creado con éxito un bono por el importe de {amountWithCurrency} con el siguiente número:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "",
+                "Einzahl": "Voucher summaltaan {amountWithCurrency} on onnistuneesti luotu seuraavalla numerolla:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "",
+                "Einzahl": "Voucher summaltaan {amountWithCurrency} on onnistuneesti luotu seuraavalla numerolla:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "",
+                "Einzahl": "Voucher summaltaan {amountWithCurrency} on onnistuneesti luotu seuraavalla numerolla:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "",
+                "Einzahl": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "",
+                "Einzahl": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "",
+                "Einzahl": "Voucher u iznosu {amountWithCurrency} je uspješno generiran pod sljedećim brojem:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "",
+                "Einzahl": "Il voucher per l'importo di {amountWithCurrency} è stato creato con successo. Il numero è: ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Il voucher per l'importo di {amountWithCurrency} è stato creato con successo. Il numero è: ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "",
+                "Einzahl": "Il voucher per l'importo di {amountWithCurrency} è stato creato con successo. Il numero è: ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "",
+                "Einzahl": "Een voucher voor de waarde van {amountWithCurrency} is succesvol gecreëerd met het volgende nummer",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Een voucher voor de waarde van {amountWithCurrency} is succesvol gecreëerd met het volgende nummer",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "",
+                "Einzahl": "Een voucher voor de waarde van {amountWithCurrency} is succesvol gecreëerd met het volgende nummer",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "",
+                "Einzahl": "En voucher for beløpet {amountWithCurrency} ble opprettet med følgende nummer:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "",
+                "Einzahl": "Voucher na kwotę {amountWithCurrency} został wygenerowany, jego numer to:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "",
+                "Einzahl": "Um voucher no valor de {amountWithCurrency} foi criado com sucesso com o seguinte número:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "Ваучер на сумму {amountWithCurrency} был успешно создан со следующим номером:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "",
+                "Einzahl": "En voucher över beloppet {amountWithCurrency} har upprättats med följande nummer:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

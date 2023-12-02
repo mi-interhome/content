@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.search.content.WeatherInfo.hr_s",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "{count} hod.",
+                "Einzahl": "{count} hod.",
+                "Mehrzahl": "{count} hod.",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "{count} timer",
+                "Einzahl": "{count} time",
+                "Mehrzahl": "{count} timer",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "{count} Std.",
+                "Einzahl": "{count} Std.",
+                "Mehrzahl": "{count} Std.",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "{count} Std.",
+                "Einzahl": "{count} Std.",
+                "Mehrzahl": "{count} Std.",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "{count} Std.",
+                "Einzahl": "{count} Std.",
+                "Mehrzahl": "{count} Std.",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "{count} Std.",
+                "Einzahl": "{count} Std.",
+                "Mehrzahl": "{count} Std.",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "{count} tuntia",
+                "Einzahl": "{count} tunti",
+                "Mehrzahl": "{count} tuntia",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "{count} tuntia",
+                "Einzahl": "{count} tunti",
+                "Mehrzahl": "{count} tuntia",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "{count} h ",
+                "Einzahl": "{count} h ",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "{count} h",
+                "Einzahl": "{count} h",
+                "Mehrzahl": "{count} h",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "{count} uur",
+                "Einzahl": "{count} uur",
+                "Mehrzahl": "{count} uur",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "{count} uur",
+                "Einzahl": "{count} uur",
+                "Mehrzahl": "{count} uur",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "{count} uur",
+                "Einzahl": "{count} uur",
+                "Mehrzahl": "{count} uur",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "{count} timer",
+                "Einzahl": "{count} time",
+                "Mehrzahl": "{count} timer",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "{count} godz.",
+                "Einzahl": "{count} godz.",
+                "Mehrzahl": "{count} godz.",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "{count} hrs",
+                "Einzahl": "{count} hr",
+                "Mehrzahl": "{count} hrs",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "currently no Russian translations",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "{count} timmar",
+                "Einzahl": "{count} timme",
+                "Mehrzahl": "{count} timmar",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

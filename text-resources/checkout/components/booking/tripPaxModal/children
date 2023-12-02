@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "checkout.components.booking.tripPaxModal.children",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "žádné děti",
+                "Einzahl": "jedno dítě",
+                "Mehrzahl": "děti: {count} ",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "ingen børn",
+                "Einzahl": "et barn",
+                "Mehrzahl": "{count} børn",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "keine Kinder",
+                "Einzahl": "ein Kind",
+                "Mehrzahl": "{count} Kinder",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "keine Kinder",
+                "Einzahl": "ein Kind",
+                "Mehrzahl": "{count} Kinder",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "keine Kinder",
+                "Einzahl": "ein Kind",
+                "Mehrzahl": "{count} Kinder",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "keine Kinder",
+                "Einzahl": "ein Kind",
+                "Mehrzahl": "{count} Kinder",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "no children",
+                "Einzahl": "one child",
+                "Mehrzahl": "{count} children",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "no children",
+                "Einzahl": "one child",
+                "Mehrzahl": "{count} children",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "no children",
+                "Einzahl": "one child",
+                "Mehrzahl": "{count} children",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "no children",
+                "Einzahl": "one child",
+                "Mehrzahl": "{count} children",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "no children",
+                "Einzahl": "one child",
+                "Mehrzahl": "{count} children",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "no children",
+                "Einzahl": "one child",
+                "Mehrzahl": "{count} children",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "ningún niño",
+                "Einzahl": "un niño",
+                "Mehrzahl": "{count} niños",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "ei lapsia",
+                "Einzahl": "yksi lapsi",
+                "Mehrzahl": "{count} lasta",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "ei lapsia",
+                "Einzahl": "yksi lapsi",
+                "Mehrzahl": "{count} lasta",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "ei lapsia",
+                "Einzahl": "yksi lapsi",
+                "Mehrzahl": "{count} lasta",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "pas d'enfants",
+                "Einzahl": "un enfant",
+                "Mehrzahl": "{count} enfants",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "pas d'enfants",
+                "Einzahl": "un enfant",
+                "Mehrzahl": "{count} enfants",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "pas d'enfants",
+                "Einzahl": "un enfant",
+                "Mehrzahl": "{count} enfants",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "pas d'enfants",
+                "Einzahl": "un enfant",
+                "Mehrzahl": "{count} enfants",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "pas d'enfants",
+                "Einzahl": "un enfant",
+                "Mehrzahl": "{count} enfants",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "nema djece",
+                "Einzahl": "jedno dijete",
+                "Mehrzahl": "{count} djece",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "nessun bambino",
+                "Einzahl": "un bambino",
+                "Mehrzahl": "{count} bambini",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "nessun bambino",
+                "Einzahl": "un bambino",
+                "Mehrzahl": "{count} bambini",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "nessun bambino",
+                "Einzahl": "un bambino",
+                "Mehrzahl": "{count} bambini",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "geen kinderen",
+                "Einzahl": "één kind",
+                "Mehrzahl": "{count} kinderen",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "geen kinderen",
+                "Einzahl": "één kind",
+                "Mehrzahl": "{count} kinderen",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "geen kinderen",
+                "Einzahl": "één kind",
+                "Mehrzahl": "{count} kinderen",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "ingen barn",
+                "Einzahl": "et barn",
+                "Mehrzahl": "{count} barn",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "Brak dzieci",
+                "Einzahl": "jedno dziecko",
+                "Mehrzahl": "{count} dzieci",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "nenhuma criança",
+                "Einzahl": "uma criança",
+                "Mehrzahl": "{count} crianças",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "нет детей",
+                "Einzahl": "один ребенок",
+                "Mehrzahl": "{count} детей",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "inga barn",
+                "Einzahl": "ett barn",
+                "Mehrzahl": "{count} barn",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

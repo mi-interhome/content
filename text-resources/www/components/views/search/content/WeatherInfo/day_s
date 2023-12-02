@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.search.content.WeatherInfo.day_s",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "{count} dní",
+                "Einzahl": "{count} den",
+                "Mehrzahl": "{count} dny",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "{count} dage",
+                "Einzahl": "{count} dag",
+                "Mehrzahl": "{count} dage",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "{count} Tage",
+                "Einzahl": "{count} Tag",
+                "Mehrzahl": "{count} Tage",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "{count} Tage",
+                "Einzahl": "{count} Tag",
+                "Mehrzahl": "{count} Tage",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "{count} Tage",
+                "Einzahl": "{count} Tag",
+                "Mehrzahl": "{count} Tage",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "{count} Tage",
+                "Einzahl": "{count} Tag",
+                "Mehrzahl": "{count} Tage",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "{count} días",
+                "Einzahl": "{count} día",
+                "Mehrzahl": "{count} días",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "{count} päivää",
+                "Einzahl": "{count} päivä",
+                "Mehrzahl": "{count} päivää",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "{count} päivää",
+                "Einzahl": "{count} päivä",
+                "Mehrzahl": "{count} päivää",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "{count} jours",
+                "Einzahl": "{count} jour",
+                "Mehrzahl": "{count} jours",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "{count} jours",
+                "Einzahl": "{count} jour",
+                "Mehrzahl": "{count} jours",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "{count} jours",
+                "Einzahl": "{count} jour",
+                "Mehrzahl": "{count} jours",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "{count} jours",
+                "Einzahl": "{count} jour",
+                "Mehrzahl": "{count} jours",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "{count} jours",
+                "Einzahl": "{count} jour",
+                "Mehrzahl": "{count} jours",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "{count} dana",
+                "Einzahl": "{count} dan",
+                "Mehrzahl": "{count} dana",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "{count} giorni",
+                "Einzahl": "{count} giorno",
+                "Mehrzahl": "{count} giorni",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "{count} giorni",
+                "Einzahl": "{count} giorno",
+                "Mehrzahl": "{count} giorni",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "{count} giorni",
+                "Einzahl": "{count} giorno",
+                "Mehrzahl": "{count} giorni",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "{count} dagen",
+                "Einzahl": "{count} dag",
+                "Mehrzahl": "{count} dagen",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "{count} dagen",
+                "Einzahl": "{count} dag",
+                "Mehrzahl": "{count} dagen",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "{count} dagen",
+                "Einzahl": "{count} dag",
+                "Mehrzahl": "{count} dagen",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "{count} dager",
+                "Einzahl": "{count} dag",
+                "Mehrzahl": "{count} dager",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "{count} dni",
+                "Einzahl": "{count} dzień",
+                "Mehrzahl": "{count} dni",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "{count} dias",
+                "Einzahl": "{count} dia",
+                "Mehrzahl": "{count} dias",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "{count} days",
+                "Einzahl": "{count} day",
+                "Mehrzahl": "{count} days",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "{count} dagar",
+                "Einzahl": "{count} dag",
+                "Mehrzahl": "{count} dagar",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

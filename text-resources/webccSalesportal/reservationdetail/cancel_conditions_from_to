@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccSalesportal.reservationdetail.cancel_conditions_from_to",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} dní před začátkem doby pronájmu:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "",
+                "Einzahl": "FRA} - {TO} dage inden lejeperioden starter:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} Tage vor Anreise:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} Tage vor Anreise:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} Tage vor Anreise:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} Tage vor Anreise:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} days before the start of the rental period:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} days before the start of the rental period:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} days before the start of the rental period:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} days before the start of the rental period:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} days before the start of the rental period:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} days before the start of the rental period:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} días antes del inicio de la reserva:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} päivää ennen vuokrauksen alkua:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} päivää ennen vuokrauksen alkua:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} päivää ennen vuokrauksen alkua:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} – {TO} jours avant la date de début du séjour:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} – {TO} jours avant la date de début du séjour:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} – {TO} jours avant la date de début du séjour:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} – {TO} jours avant la date de début du séjour:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} – {TO} jours avant la date de début du séjour:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} dana prije dolaska:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} giorni prima dell'inizio della locazione:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} giorni prima dell'inizio della locazione:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} giorni prima dell'inizio della locazione:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} dagen voor de huuraanvang:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} dagen voor de start van de verhuring:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} dagen voor de huuraanvang:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "",
+                "Einzahl": "FRA} - {TO} dager før leieperioden starter:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "",
+                "Einzahl": "{FROM} - {TO} dni przed rozpoczęciem pobytu:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "",
+                "Einzahl": "{DE} - {ATÉ} dias antes do início do período de locação:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "{ОТ} - {ДО} дней до прибытия:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "",
+                "Einzahl": "FROM} - {TO} dagar före hyresperiodens början:",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

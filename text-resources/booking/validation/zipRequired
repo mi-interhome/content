@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "booking.validation.zipRequired",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "",
+                "Einzahl": "Zadejte prosím PSČ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "",
+                "Einzahl": "Oplys venligst postnummer",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "",
+                "Einzahl": "Bitte geben Sie die Postleitzahl an",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "",
+                "Einzahl": "Bitte geben Sie die Postleitzahl an",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Bitte geben Sie die Postleitzahl an",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "",
+                "Einzahl": "Bitte geben Sie die Postleitzahl an",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "",
+                "Einzahl": "Please enter zip code",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "",
+                "Einzahl": "Please enter zip code",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Please enter zip code",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "",
+                "Einzahl": "Please enter zip code",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "",
+                "Einzahl": "Please enter zip code",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "",
+                "Einzahl": "Please enter zip code",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "",
+                "Einzahl": "Por favor indique su código postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "",
+                "Einzahl": "Lisää postinumero",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "",
+                "Einzahl": "Lisää postinumero",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "",
+                "Einzahl": "Lisää postinumero",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "",
+                "Einzahl": "Merci d'indiquer votre code postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Merci d'indiquer votre code postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Merci d'indiquer votre code postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Merci d'indiquer votre code postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "",
+                "Einzahl": "Merci d'indiquer votre code postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "",
+                "Einzahl": "Molimo unesite Vaš poštanski broj",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "",
+                "Einzahl": "Ti preghiamo di inserire il CAP",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Ti preghiamo di inserire il CAP",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "",
+                "Einzahl": "Ti preghiamo di inserire il CAP",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "",
+                "Einzahl": "Gelieve uw postcode invoeren",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Gelieve uw postcode invoeren",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "",
+                "Einzahl": "Gelieve uw postcode invoeren",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "",
+                "Einzahl": "\"\nVennligst skriv inn postnummer",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "",
+                "Einzahl": "Prosimy wprowadzić kod pocztowy",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "",
+                "Einzahl": "Por favor, insira o seu código postal",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "Пожалуйста, введите почтовый индекс",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "",
+                "Einzahl": "Vänligen ange postnummer",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}

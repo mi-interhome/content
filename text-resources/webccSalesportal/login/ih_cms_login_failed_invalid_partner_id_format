@@ -1,0 +1,216 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "",
+    "folder": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccSalesportal.login.ih_cms_login_failed_invalid_partner_id_format",
+        "Pluralization": 0,
+        "Markdown": false,
+        "Placeholders": null,
+        "Translations": {
+            "cs": {
+                "Keinzahl": "",
+                "Einzahl": "Neplatné ID partnera: Zadejte prosím své ID včetně dvoumístné předpony kódu země, např. CZ201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "da": {
+                "Keinzahl": "",
+                "Einzahl": "Ugyldig partner-ID: Indtast dit ID, inklusive præfikset til tocifret landekode, f.eks. DK1000022",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de": {
+                "Keinzahl": "",
+                "Einzahl": "Ungültige Partner ID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. DE590012 bzw. Interchalet Agenturen IC590012)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-AT": {
+                "Keinzahl": "",
+                "Einzahl": "Ungültige Partner ID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. DE590012 bzw. Interchalet Agenturen IC590012)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Ungültige PartnerID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. CH0201234)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "de-DE": {
+                "Keinzahl": "",
+                "Einzahl": "Ungültige Partner ID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. DE590012 bzw. Interchalet Agenturen IC590012)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en": {
+                "Keinzahl": "",
+                "Einzahl": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-AU": {
+                "Keinzahl": "",
+                "Einzahl": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-GB": {
+                "Keinzahl": "",
+                "Einzahl": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-IE": {
+                "Keinzahl": "",
+                "Einzahl": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "en-US": {
+                "Keinzahl": "",
+                "Einzahl": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "es": {
+                "Keinzahl": "",
+                "Einzahl": "Partner ID inválido: Por favor, introduzca su ID con el código país de 2 letras (ES1234567)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi": {
+                "Keinzahl": "",
+                "Einzahl": "Väärä Partner ID. Syötä tunnuksesi sisältäen 2-merkkisen maakoodin, esim. FI123456",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-EE": {
+                "Keinzahl": "",
+                "Einzahl": "Väärä Partner ID. Syötä tunnuksesi sisältäen 2-merkkisen maakoodin, esim. FI123456",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fi-FI": {
+                "Keinzahl": "",
+                "Einzahl": "Väärä Partner ID. Syötä tunnuksesi sisältäen 2-merkkisen maakoodin, esim. FI123456",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr": {
+                "Keinzahl": "",
+                "Einzahl": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. FR123456)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. BE123456)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CA": {
+                "Keinzahl": "",
+                "Einzahl": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. FR123456)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Erreur d'identifiant: merci d'insérer votre code partenaire (ex. CH0201234)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "fr-FR": {
+                "Keinzahl": "",
+                "Einzahl": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. FR123456)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "hr": {
+                "Keinzahl": "",
+                "Einzahl": "Neispravna šifra partnera: molimo unesite svoju šifru s uključenom oznakom države, npr. HR201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it": {
+                "Keinzahl": "",
+                "Einzahl": "Codice partner non valido: ti preghiamo di inserire nuovamente il codice, incluse le due lettere iniziali indicanti il paese di appartenenza (carattere maiuscolo), es: IT123456",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-CH": {
+                "Keinzahl": "",
+                "Einzahl": "Codice partner non valido: ti preghiamo di inserire nuovamente il codice, incluse le due lettere iniziali indicanti il paese di appartenenza (carattere maiuscolo), es: IT123456",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "it-IT": {
+                "Keinzahl": "",
+                "Einzahl": "Codice partner non valido: ti preghiamo di inserire nuovamente il codice, incluse le due lettere iniziali indicanti il paese di appartenenza (carattere maiuscolo), es: IT123456",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl": {
+                "Keinzahl": "",
+                "Einzahl": "Ongeldig Partner ID: Gelieve uw ID in te geven met inbegrip van de tweedelige landcode. Voorbeeld: NL3101120",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-BE": {
+                "Keinzahl": "",
+                "Einzahl": "Ongeldig Partner ID: Gelieve uw ID in te geven met inbegrip van de tweedelige landcode. Voorbeeld: BE3101120",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "nl-NL": {
+                "Keinzahl": "",
+                "Einzahl": "Ongeldig Partner ID: Gelieve uw ID in te geven met inbegrip van de tweedelige landcode. Voorbeeld: NL3101120",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "no": {
+                "Keinzahl": "",
+                "Einzahl": "Ugyldig partner-ID: Angi ID-en din, inkludert prefikset for to-sifret landskode, f.eks. NO1000022 ",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pl": {
+                "Keinzahl": "",
+                "Einzahl": "Nieprawidłowy Partner ID: Wprowadź swój ID uwzględniając kod kraju, np. PL201234",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "pt": {
+                "Keinzahl": "",
+                "Einzahl": "Inválida Parceiro ID: Digite seu ID, incluindo o indicativo de país de 2 dígitos, por exemplo, PT201234\n",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "ru": {
+                "Keinzahl": "",
+                "Einzahl": "Неверный идентификатор партнера: пожалуйста, введите номер вашего агентства с ведущим кодом страны (например, RU490039)",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            },
+            "sv": {
+                "Keinzahl": "",
+                "Einzahl": "Ogiltigt partner-ID: Ange ditt ID inklusive prefixet för tvåsiffriga landskoder, t.ex. SE1000022",
+                "Mehrzahl": "",
+                "SlawischeMehrzahl": ""
+            }
+        }
+    }
+}
