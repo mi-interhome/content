@@ -101,48 +101,56 @@
             },
             {
                 "id": 0,
-                "component": "InspirationTeaser",
+                "component": "TopRegions",
                 "content": {
                     "elements": [
                         {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/987087-135-ger-XX/Inspiration-teaser-autumn.jpg",
-                            "Slug": "/urlaubsideen/herbsturlaub/",
-                            "anchor": false,
-                            "Title": "Genussvolles Reisen abseits der Hauptsaison - verbringen Sie Ihren Herbsturlaub im Ferienhaus",
-                            "VirtPath": "/landingsite/topics/autumn/"
+                            "ImgAlt": "Skifahren im Zillertal - Ferienwohnungen und Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-winter/1395120-68-ger-XX/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/oesterreich/zillertal/"
+                        },
+                        {
+                            "ImgAlt": "Skifahren im Wallis - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362743-152-ger-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Wallis",
+                            "URL": "/schweiz/wallis/"
+                        },
+                        {
+                            "ImgAlt": "Paznaun - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-paznaun-43-winter/2277371-1-ger-XX/Austria-AT-Paznaun-43-Winter.jpg",
+                            "Title": "Paznaun",
+                            "URL": "/oesterreich/paznaun/"
+                        },
+                        {
+                            "ImgAlt": "Ötztal - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-ötztal-42-winter/2277359-1-ger-XX/Austria-AT-Ötztal-42-Winter.jpg",
+                            "Title": "Ötztal",
+                            "URL": "/oesterreich/oetztal/"
                         },
                         {
                             "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/986954-419-ger-XX/Inspiration-teaser-last-minute-Autumn.jpg",
-                            "Slug": "/urlaubsideen/last-minute/",
-                            "anchor": false,
-                            "Title": "Kurzentschlossene buchen zum Last Minute Preis",
-                            "VirtPath": "/landingsite/topics/last-minute/"
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1759575-57-ger-XX/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomiten",
+                            "URL": "/italien/dolomiten/"
                         },
                         {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/397192-126-ger-XX/Inspiration-teaser-top-skiresorts.jpg",
-                            "Slug": "/urlaubsideen/top-skigebiete/",
-                            "anchor": false,
-                            "Title": "Geniessen Sie Europas Top-Skigebiete und verbringen Sie unvergesslichen Skiurlaub mit Interhome.",
-                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                            "ImgAlt": "Nordsee - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/germany-de-north-sea-02/1052845-56-ger-XX/Germany-DE-North-Sea-02.jpg",
+                            "Title": "Nordsee",
+                            "URL": "/deutschland/nordsee/"
                         },
                         {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-pool/985817-86-ger-XX/Inspiration-teaser-pool.jpg",
-                            "Slug": "/urlaubsideen/ferienhaus-pool/",
-                            "anchor": false,
-                            "Title": "Im Traumhaus mit eigenem Pool entspannen",
-                            "VirtPath": "/landingsite/topics/pool/"
+                            "ImgAlt": "Lappland - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/finland-fi-lapland-03-winter/2277375-1-ger-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lappland",
+                            "URL": "/finnland/lappland/"
                         },
                         {
-                            "ImgAlt": "Ferienhaus direkt am Meer",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-beach-holiday/985792-111-ger-XX/Inspiration-teaser-beach-holiday.jpg",
-                            "Slug": "/urlaubsideen/ferienhaus-strand/",
-                            "anchor": false,
-                            "Title": "Genießen Sie traumhafte Strände und die direkte Nähe zum Meer",
-                            "VirtPath": "/landingsite/topics/beach-holiday/"
+                            "ImgAlt": "Hochsavoyen - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1392951-72-ger-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoyen - Hochsavoyen",
+                            "URL": "/frankreich/savoyen-hochsavoyen/"
                         }
                     ]
                 }
