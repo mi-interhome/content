@@ -98,6 +98,69 @@
                         }
                     ]
                 }
+            },
+            {
+                "id": 0,
+                "component": "inspirations",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/987087-135-ger-XX/Inspiration-teaser-autumn.jpg",
+                            "Link": {
+                                "slug": "",
+                                "anchor": false
+                            },
+                            "Position": "",
+                            "Title": "Genussvolles Reisen abseits der Hauptsaison - verbringen Sie Ihren Herbsturlaub im Ferienhaus",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/986954-419-ger-XX/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Link": {
+                                "slug": "",
+                                "anchor": false
+                            },
+                            "Position": "",
+                            "Title": "Kurzentschlossene buchen zum Last Minute Preis",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/397192-126-ger-XX/Inspiration-teaser-top-skiresorts.jpg",
+                            "Link": {
+                                "slug": "",
+                                "anchor": false
+                            },
+                            "Position": "",
+                            "Title": "Geniessen Sie Europas Top-Skigebiete und verbringen Sie unvergesslichen Skiurlaub mit Interhome.",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-pool/985817-86-ger-XX/Inspiration-teaser-pool.jpg",
+                            "Link": {
+                                "slug": "",
+                                "anchor": false
+                            },
+                            "Position": "",
+                            "Title": "Im Traumhaus mit eigenem Pool entspannen",
+                            "VirtPath": "/landingsite/topics/pool/"
+                        },
+                        {
+                            "ImgAlt": "Ferienhaus direkt am Meer",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-beach-holiday/985792-111-ger-XX/Inspiration-teaser-beach-holiday.jpg",
+                            "Link": {
+                                "slug": "",
+                                "anchor": false
+                            },
+                            "Position": "",
+                            "Title": "Genießen Sie traumhafte Strände und die direkte Nähe zum Meer",
+                            "VirtPath": "/landingsite/topics/beach-holiday/"
+                        }
+                    ]
+                }
             }
         ]
     }
