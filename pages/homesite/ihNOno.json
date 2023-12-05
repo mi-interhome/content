@@ -1,0 +1,284 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "Page",
+    "content": {
+        "IsInMenu": false,
+        "Title": "",
+        "Meta": null,
+        "Body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254172-58-nor-NO/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Finn den perfekte ferieboligen!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41461/2255858-1-eng-XX/Facetted_Header_Slider_IH_Winter_2023.jpg",
+                            "Link": {
+                                "slug": "/inspirasjonskilder/skiferie/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Nyt vinteren i et feriehus",
+                            "VirtPath": "/landingsite/topics/winter-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41460/2255853-1-eng-XX/Facetted_Header_Slider_IH_Sustainability_2022.jpg",
+                            "Link": {
+                                "slug": "/om-interhome/bærekraft/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Love nature - bærekraft angår oss alle",
+                            "VirtPath": "/landingsite/about-us/sustainability/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41539/2263670-1-eng-XX/Facetted_Header_Slider_IH_Late_Summer_2023.jpg",
+                            "Link": {
+                                "slug": "/inspirasjonskilder/sommer-ferie/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Nyt av sommeren i et feriehus",
+                            "VirtPath": "/landingsite/topics/summer-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41459/2255848-2-eng-XX/Facetted_Header_Slider_IH_Summer4_Beach_Holidays_2020.jpg",
+                            "Link": {
+                                "slug": "/inspirasjonskilder/solferie/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Av til stranden!",
+                            "VirtPath": "/landingsite/topics/beach-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41542/2263685-1-eng-XX/Facetted_Header_Slider_IH_holidays_with_dog.jpg",
+                            "Link": {
+                                "slug": "/inspirasjonskilder/kjaeledyr-tillatt/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Ferie med din hund",
+                            "VirtPath": "/landingsite/topics/pets/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41545/2263700-1-eng-XX/Facetted_Header_Slider_IH_City.jpg",
+                            "Link": {
+                                "slug": "/inspirasjonskilder/storbyferie/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Storbyferie",
+                            "VirtPath": "/landingsite/topics/citytrips/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1112120-241-nor-NO/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/inspirasjonskilder/Feriehus-i-fjellene/",
+                            "anchor": false,
+                            "Title": "Frisk fjellluft rett utenfor døren",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1022257-422-nor-NO/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/inspirasjonskilder/last-minute/",
+                            "anchor": false,
+                            "Title": "Har du mulighet til å ta en ukes ferie med kort varsel? Se på våre sjenerøse Last Minute tilbud!",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/1022265-155-nor-NO/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/inspirasjonskilder/hostferie/",
+                            "anchor": false,
+                            "Title": "Nyt høstferien i et feriehus",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1024381-128-nor-NO/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/inspirasjonskilder/top-skianlegg/",
+                            "anchor": false,
+                            "Title": "Ferier ved populære skisteder",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus for familier",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1022269-95-nor-NO/Inspiration-teaser-family.jpg",
+                            "Slug": "/inspirasjonskilder/familievennlig/",
+                            "anchor": false,
+                            "Title": "Feriehus for familier",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Feriehus Spania",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1024228-101-nor-NO/Spain-ES.jpg",
+                            "Title": "Spania",
+                            "URL": "/spania/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Sveits",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362988-214-nor-NO/Switzerland-CH-Winter.jpg",
+                            "Title": "Sveits",
+                            "URL": "/sveits/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Finland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362865-149-eng-XX/Finland-FI-Winter.jpg",
+                            "Title": "Finland",
+                            "URL": "/finland/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Østerike",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389183-218-nor-NO/Austria-AT-Winter.jpg",
+                            "Title": "Østerrike",
+                            "URL": "/osterrike/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392835-217-nor-NO/Italy-IT-Winter.jpg",
+                            "Title": "Italia",
+                            "URL": "/italia/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Frankrike",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362928-222-nor-NO/France-FR-Winter.jpg",
+                            "Title": "Frankrike",
+                            "URL": "/frankrike/"
+                        },
+                        {
+                            "ImgAlt": "Holiday house Norway",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-2-eng-XX/Norway-NO-Winter.jpg",
+                            "Title": "Norge",
+                            "URL": "/norge/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111716-45-nor-NO/Denmark-DK.jpg",
+                            "Title": "Danmark",
+                            "URL": "/danmark/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Feriehus Lappland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/finland-fi-lapland-03-winter/2277440-25-eng-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lappland",
+                            "URL": "/finland/lappland/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Valais",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362749-161-nor-NO/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/sveits/valais/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Costa Blanca",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-blanca-40/1024156-99-nor-NO/Spain-ES-Costa-Blanca-40.jpg",
+                            "Title": "Costa Blanca",
+                            "URL": "/spania/costa-blanca/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Kanariøyene / Gran Canaria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-gran-canaria-81/2277412-3-eng-XX/Spain-ES-Gran-Canaria-81.jpg",
+                            "Title": "Kanariøyene / Gran Canaria",
+                            "URL": "/spania/kanarioyene-gran-canaria/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Costa del Sol",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-del-sol-51/1052755-62-eng-XX/Spain-ES-Costa-del-Sol-51.jpg",
+                            "Title": "Costa del Sol",
+                            "URL": "/spania/costa-del-sol/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Savoie - Haute Savoie",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389263-101-eng-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoie - Haute Savoie",
+                            "URL": "/frankrike/savoie-haute-savoie/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Arlberg",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-arlberg-mountain-52-winter/2277416-3-eng-XX/Austria-AT-Arlberg-mountain-52-Winter.jpg",
+                            "Title": "Arlberg",
+                            "URL": "/osterrike/arlberg/"
+                        },
+                        {
+                            "ImgAlt": "Feriehus Zillertal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-winter/1395116-90-eng-XX/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/osterrike/zillertal/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Annonsér ferieboligen din nå",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Utleie gjennom spesialistene",
+                    "subtitle": "Interhome Group tar seg av den profesjonelle forvaltningen av ferieboligen din."
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Spesialist på utleie av ferieboliger siden 1965",
+                    "text": "\u003cp\u003eI mer enn 50 år har Interhome vært den europeiske spesialisten innen utleie av ferieleiligheter og hus.\u003cbr\u003eVi er stolte av å kunne tilby 40 000 ferieleiligheter og hus i 28 land. Enten du er ute etter et feriehus i Frankrike, en villa i Spania eller kanskje en fjellhytte i Sveits, har vi den perfekte ferieboligen for deg.\u003cbr\u003eNår du benytter Interhome, får du en pålitelig samarbeidspartner ved valg av feriested. Vi legger stor vekt på kvalitet og velger nøye ut våre ferieboliger. Derfor kan vi garantere uforglemmelige øyeblikk for våre kunder.\u003cbr\u003eDet brede utvalget vi har av feriehus og leiligheter vil kunne imøtekomme enhver smak og lommebok.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}
