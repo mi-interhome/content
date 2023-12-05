@@ -1,0 +1,281 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "Page",
+    "content": {
+        "IsInMenu": false,
+        "Title": "",
+        "Meta": null,
+        "Body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/heroimage-on-startpage/2254139-33-eng-XX/Heroimage-on-startpage.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Find your perfect holiday home!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41461/2255858-1-eng-XX/Facetted_Header_Slider_IH_Winter_2023.jpg",
+                            "Link": {
+                                "slug": "/fi/ideoita-lomalle/talviloma-alpeilla/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Nauti talvesta loma-asunnossa",
+                            "VirtPath": "/landingsite/topics/winter-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41460/2255853-1-eng-XX/Facetted_Header_Slider_IH_Sustainability_2022.jpg",
+                            "Link": {
+                                "slug": "/fi/mika-on-interhome/kestavyys/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Love nature - suojelu on yhteinen asiamme",
+                            "VirtPath": "/landingsite/about-us/sustainability/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41539/2263670-1-eng-XX/Facetted_Header_Slider_IH_Late_Summer_2023.jpg",
+                            "Link": {
+                                "slug": "/fi/ideoita-lomalle/kesalomat/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Nauti kesästä omassa lomatalossa",
+                            "VirtPath": "/landingsite/topics/summer-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41459/2255848-2-eng-XX/Facetted_Header_Slider_IH_Summer4_Beach_Holidays_2020.jpg",
+                            "Link": {
+                                "slug": "/fi/ideoita-lomalle/rantalomat/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Rannalle!",
+                            "VirtPath": "/landingsite/topics/beach-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41542/2263685-1-eng-XX/Facetted_Header_Slider_IH_holidays_with_dog.jpg",
+                            "Link": {
+                                "slug": "/fi/ideoita-lomalle/lemmikkit/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Lemmikki mukaan lomalle",
+                            "VirtPath": "/landingsite/topics/pets/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41545/2263700-1-eng-XX/Facetted_Header_Slider_IH_City.jpg",
+                            "Link": {
+                                "slug": "/fi/ideoita-lomalle/kaupunkilomat/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Oma huoneisto kaupunkilomalla",
+                            "VirtPath": "/landingsite/topics/citytrips/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1147947-233-fin-EE/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/fi/ideoita-lomalle/vuoristoloma-alpeilla/",
+                            "anchor": false,
+                            "Title": "Vuoristomaisemiin lomakodin ovelta",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1147942-415-fin-EE/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/fi/ideoita-lomalle/akkilahdot/",
+                            "anchor": false,
+                            "Title": "Katso Last Minute -äkkilähtötarjouksemme",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/1147907-150-fin-EE/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/fi/ideoita-lomalle/syysloma/",
+                            "anchor": false,
+                            "Title": "Koe syksyn väriloisto omassa loma-asunnossa",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1147972-123-fin-EE/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/fi/ideoita-lomalle/parhaat-hiihtoalueet/",
+                            "anchor": false,
+                            "Title": "Lähde talvilomalle Alpeille - katso edulliset ja mukavat lomahuoneistomme tai varaa oma mökki vuoristosta",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Perheloma omassa loma-asunnossa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1147937-90-fin-EE/Inspiration-teaser-family.jpg",
+                            "Slug": "/fi/ideoita-lomalle/loma-perheen-kanssa/",
+                            "anchor": false,
+                            "Title": "Varaa perheellesi oma lomatalo",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362865-134-eng-XX/Finland-FI-Winter.jpg",
+                            "Title": "Suomi",
+                            "URL": "/fi/suomi/"
+                        },
+                        {
+                            "ImgAlt": "Loma-asunnot Itävallassa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389207-76-fin-EE/Austria-AT-Winter.jpg",
+                            "Title": "Itävalta",
+                            "URL": "/fi/itaevalta/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392863-199-fin-EE/Italy-IT-Winter.jpg",
+                            "Title": "Italia",
+                            "URL": "/fi/italia/"
+                        },
+                        {
+                            "ImgAlt": "Loma-asunnot Espanjassa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1147985-83-fin-EE/Spain-ES.jpg",
+                            "Title": "Espanja",
+                            "URL": "/fi/espanja/"
+                        },
+                        {
+                            "ImgAlt": "Lomatalo Sveitsi",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1363009-193-fin-EE/Switzerland-CH-Winter.jpg",
+                            "Title": "Sveitsi",
+                            "URL": "/fi/sveitsi/"
+                        },
+                        {
+                            "ImgAlt": "Loma-asunnot Ranskassa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362946-204-fin-EE/France-FR-Winter.jpg",
+                            "Title": "Ranska",
+                            "URL": "/fi/ranska/"
+                        },
+                        {
+                            "ImgAlt": "Lomatalot ja -huoneistot Portugalissa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1147982-51-fin-EE/Portugal-PT.jpg",
+                            "Title": "Portugali",
+                            "URL": "/fi/portugali/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-62-eng-XX/Denmark-DK.jpg",
+                            "Title": "Tanska",
+                            "URL": "/fi/tanska/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Pohjois-Lappi",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/finland-fi-lapland-03-winter/2277520-18-fin-FI/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lappi",
+                            "URL": "/fi/suomi/lappi/"
+                        },
+                        {
+                            "ImgAlt": "Loma-asunnot Zillertalissa, Itävallassa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-winter/1400314-62-fin-EE/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/fi/itaevalta/zillertal/"
+                        },
+                        {
+                            "ImgAlt": "Pohjois-Dolomiitit",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1393253-69-eng-XX/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomiitit",
+                            "URL": "/fi/italia/dolomiitit/"
+                        },
+                        {
+                            "ImgAlt": "Valais",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362773-140-fin-EE/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/fi/sveitsi/valais/"
+                        },
+                        {
+                            "ImgAlt": "Mökki tai lomahuoneisto Tirolissa Alpeilta",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-tyrol-40-winter/1392939-188-fin-EE/Austria-AT-Tyrol-40-Winter.jpg",
+                            "Title": "Tiroli",
+                            "URL": "/fi/itaevalta/tiroli/"
+                        },
+                        {
+                            "ImgAlt": "Pohjois-Alpit /Savoie - Haute Savoie",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389263-92-eng-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Alpit /Savoie - Haute Savoie",
+                            "URL": "/fi/ranska/alpit-savoie-haute-savoie/"
+                        },
+                        {
+                            "ImgAlt": "Pohjois-Teneriffa",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-tenerife-85/2277408-2-eng-XX/Spain-ES-Tenerife-85.jpg",
+                            "Title": "Teneriffa",
+                            "URL": "/fi/espanja/teneriffa/"
+                        },
+                        {
+                            "ImgAlt": "Costa Daurada",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-daurada-16/1148009-35-fin-EE/Spain-ES-Costa-Daurada-16.jpg",
+                            "Title": "Costa Daurada",
+                            "URL": "/fi/espanja/costa-daurada/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Vuokraa loma-asuntosi nyt",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Vuokraa ammattilaisten kanssa",
+                    "subtitle": "Interhome Group huolehtii ammattimaisesta kiinteistösi hallinnasta."
+                }
+            },
+            {
+                "id": 0,
+                "component": "",
+                "content": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "Page",
+    "content": {
+        "IsInMenu": false,
+        "Title": "",
+        "Meta": null,
+        "Body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254157-64-esl-ES/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "¡Encuentre su casa de vacaciones ideal!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41461/2255858-1-eng-XX/Facetted_Header_Slider_IH_Winter_2023.jpg",
+                            "Link": {
+                                "slug": "/ideas-vacaciones/vacaciones-invierno/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Disfruta del invierno en una casa de vacaciones",
+                            "VirtPath": "/landingsite/topics/winter-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41460/2255853-1-eng-XX/Facetted_Header_Slider_IH_Sustainability_2022.jpg",
+                            "Link": {
+                                "slug": "/sobre-interhome/sostenibilidad/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Love nature - la conservación nos concierne a todos",
+                            "VirtPath": "/landingsite/about-us/sustainability/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41536/2263655-1-eng-XX/Facetted_Header_Slider_IH_Workation_winter.jpg",
+                            "Link": {
+                                "slug": "/travelguide/todas-las-ideas-para-sus-vacaciones/workation",
+                                "anchor": true
+                            },
+                            "Position": "bottom",
+                            "Title": "¡Teletrabaje desde una de nuestras casas!",
+                            "VirtPath": ""
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41539/2263670-1-eng-XX/Facetted_Header_Slider_IH_Late_Summer_2023.jpg",
+                            "Link": {
+                                "slug": "/ideas-vacaciones/vacaciones-de-verano/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Disfrute del verano en una casa de vacaciones",
+                            "VirtPath": "/landingsite/topics/summer-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41459/2255848-2-eng-XX/Facetted_Header_Slider_IH_Summer4_Beach_Holidays_2020.jpg",
+                            "Link": {
+                                "slug": "/ideas-vacaciones/sol-playa/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "¡Dirección a la playa!",
+                            "VirtPath": "/landingsite/topics/beach-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/content/view/full/41542/2263685-1-eng-XX/Facetted_Header_Slider_IH_holidays_with_dog.jpg",
+                            "Link": {
+                                "slug": "/ideas-vacaciones/casas-vacaciones-mascotas/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Vacaciones con tu mascota",
+                            "VirtPath": "/landingsite/topics/pets/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1055260-245-esl-ES/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/ideas-vacaciones/casas-vacaciones-montanas/",
+                            "anchor": false,
+                            "Title": "Aire fresco de montaña a la puerta de su casa",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1055280-426-esl-ES/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/ideas-vacaciones/ultima-hora/",
+                            "anchor": false,
+                            "Title": "Descubra nuestras ofertas de última hora ",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/1055248-158-esl-ES/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/ideas-vacaciones/vacaciones-otono/",
+                            "anchor": false,
+                            "Title": "Disfrute del otoño y sus coloridos paisajes",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1055292-132-esl-ES/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/ideas-vacaciones/estaciones-de-esqui/",
+                            "anchor": false,
+                            "Title": "Donde quiera que desee esquiar, reserve nuestros apartamentos o encuentre su propio chalet en las montañas",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Vacaciones en familia en una casa de vacaciones",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1055252-99-esl-ES/Inspiration-teaser-family.jpg",
+                            "Slug": "/ideas-vacaciones/vacaciones-familias/",
+                            "anchor": false,
+                            "Title": "Vacaciones en familia en una casa de vacaciones",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Casas de vacaciones en España",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1055061-113-esl-ES/Spain-ES.jpg",
+                            "Title": "España",
+                            "URL": "/espana/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Francia",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362907-234-esl-ES/France-FR-Winter.jpg",
+                            "Title": "Francia",
+                            "URL": "/francia/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Suiza",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362967-226-esl-ES/Switzerland-CH-Winter.jpg",
+                            "Title": "Suiza",
+                            "URL": "/suiza/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392807-232-esl-ES/Italy-IT-Winter.jpg",
+                            "Title": "Italia",
+                            "URL": "/italia/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362871-124-esl-ES/Finland-FI-Winter.jpg",
+                            "Title": "Finlandia",
+                            "URL": "/finlandia/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Austria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389155-224-esl-ES/Austria-AT-Winter.jpg",
+                            "Title": "Austria",
+                            "URL": "/austria/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Alemania",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363030-271-esl-ES/Germany-DE-Winter.jpg",
+                            "Title": "Alemania",
+                            "URL": "/alemania/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Portugal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1055058-72-esl-ES/Portugal-PT.jpg",
+                            "Title": "Portugal",
+                            "URL": "/portugal/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Casas de vacaciones en Costa Blanca",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-blanca-40/1055327-111-esl-ES/Spain-ES-Costa-Blanca-40.jpg",
+                            "Title": "Costa Blanca",
+                            "URL": "/espana/costa-blanca/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Costa Daurada",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-daurada-16/1055333-50-esl-ES/Spain-ES-Costa-Daurada-16.jpg",
+                            "Title": "Costa Dorada",
+                            "URL": "/espana/costa-dorada/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Saboya y Alta Saboya",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389267-87-esl-ES/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Saboya-Alta Saboya",
+                            "URL": "/francia/saboya-alta-saboya/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Valais",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362731-173-esl-ES/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/suiza/valais/"
+                        },
+                        {
+                            "ImgAlt": "Mallorca",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-mallorca-91/1055306-89-esl-ES/Spain-ES-Mallorca-91.jpg",
+                            "Title": "Mallorca",
+                            "URL": "/espana/mallorca/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Lapland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/finland-fi-lapland-03-winter/2277440-21-eng-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lapland",
+                            "URL": "/finlandia/lapland/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Costa del Azahar",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-del-azahar-39/2277379-3-eng-XX/Spain-ES-Costa-del-Azahar-39.jpg",
+                            "Title": "Costa del Azahar",
+                            "URL": "/espana/costa-del-azahar/"
+                        },
+                        {
+                            "ImgAlt": "Casas de vacaciones en Costa Brava",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-brava-12/1055342-72-esl-ES/Spain-ES-Costa-Brava-12.jpg",
+                            "Title": "Costa Brava",
+                            "URL": "/espana/costa-brava/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Colabore con nosotros",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "¡Alquile con expertos!",
+                    "subtitle": "Interhome Group se encarga de la gestión profesional de su propiedad."
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Especialistas en alquileres turísticos desde 1965",
+                    "text": "\u003cp\u003eDesde hace más de 50 años, Interhome ha sido el especialista europeo en alquiler de apartamentos y casas de vacaciones. Estamos orgullosos de ofrecer 40.000 viviendas vacacionales en 28 países. Tanto si busca alquilar una casa de vacaciones en Francia como si prefiere una villa en España o incluso un chalet en Suiza, tenemos el alojamiento ideal para usted.\u003c/p\u003e\u003cp\u003eCon Interhome, está eligiendo un socio de confianza para su casa de vacaciones. La calidad es nuestra prioridad: seleccionamos cuidadosamente nuestros alojamientos para garantizar a nuestros clientes momentos inolvidables. Nuestra amplia selección de casas y apartamentos de vacaciones satisface todos los gustos y bolsillos.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}

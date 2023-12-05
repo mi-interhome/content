@@ -1,0 +1,284 @@
+{
+    "id": "",
+    "name": "",
+    "slug": "",
+    "path": "",
+    "Suffix": "",
+    "MIME": "application/json",
+    "folder": "",
+    "type": "Page",
+    "content": {
+        "IsInMenu": false,
+        "Title": "",
+        "Meta": null,
+        "Body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254142-51-ger-XX/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Finden Sie Ihr Traum-Ferienhaus!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/facetted-header/slider-responsive-size/facetted_header_slider_ic_skiurlaub_2023/2257400-3-eng-XX/Facetted_Header_Slider_IC_Skiurlaub_2023.jpg",
+                            "Link": {
+                                "slug": "/urlaubsideen/skiurlaub/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Skiurlaub im Ferienhaus",
+                            "VirtPath": "/landingsite/topics/skiarea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/facetted-header/slider-responsive-size/facetted_header_slider_ic_sustainability_2022/2257405-1-eng-XX/Facetted_Header_Slider_IC_Sustainability_2022.jpg",
+                            "Link": {
+                                "slug": "/ueber-uns/nachhaltigkeit/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Love nature - Umweltschutz geht uns alle an",
+                            "VirtPath": "/landingsite/about-us/sustainability/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/facetted-header/slider-responsive-size/facetted_header_slider_ic_workation_winter/2273244-1-eng-XX/Facetted_Header_Slider_IC_Workation_winter.jpg",
+                            "Link": {
+                                "slug": "/reisetipps/workation-im-ferienhaus-holiday-homeoffice/",
+                                "anchor": true
+                            },
+                            "Position": "bottom",
+                            "Title": "Workation: Arbeit und Auszeit clever kombiniert!",
+                            "VirtPath": ""
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/facetted-header/slider-responsive-size/facetted_header_slider_ic_eb_summer_2023/2257385-1-eng-XX/Facetted_Header_Slider_IC_EB_summer_2023.jpg",
+                            "Link": {
+                                "slug": "/urlaubsideen/am-strand-am-meer/",
+                                "anchor": false
+                            },
+                            "Position": "top",
+                            "Title": "Das Meer vor der Haustür",
+                            "VirtPath": "/landingsite/topics/beach-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/facetted-header/slider-responsive-size/facetted_header_slider_ic_pool_sommer/2260372-1-eng-XX/Facetted_Header_Slider_IC_Pool_Sommer.jpg",
+                            "Link": {
+                                "slug": "/mit-pool/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Mein Haus, mein Pool, mein Wunschurlaub!",
+                            "VirtPath": ""
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/facetted-header/slider-responsive-size/facetted_header_slider_ic_pets/2273184-1-eng-XX/Facetted_Header_Slider_IC_Pets.jpg",
+                            "Link": {
+                                "slug": "/urlaub-mit-hund/",
+                                "anchor": false
+                            },
+                            "Position": "bottom",
+                            "Title": "Hunde willkommen",
+                            "VirtPath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-autumn/2223800-14-ger-XX/Inspiration-Teaser-Autumn.jpg",
+                            "Slug": "/urlaubsideen/herbsturlaub/",
+                            "anchor": false,
+                            "Title": "Genießen Sie die Herbstidylle in entspannter Atmosphäre",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-last-minute/1643922-68-ger-XX/Inspiration-Teaser-last-minute.jpg",
+                            "Slug": "/urlaubsideen/last-minute/",
+                            "anchor": false,
+                            "Title": "Greifen Sie zu: attraktive Ferienhäuser und Ferienwohnungen Last Minute zu reduzierten Preisen. ",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "Skiurlaub mit Familie und Kindern",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-ski-family/1643952-15-ger-XX/Inspiration-Teaser-ski-family.jpg",
+                            "Slug": "/urlaubsideen/skiurlaub-kinder-familie/",
+                            "anchor": false,
+                            "Title": "Ferienhäuser und Ferienwohnungen für den Familien-Skiurlaub in kinderfreundlichen Skigebieten",
+                            "VirtPath": "/landingsite/topics/ski-family/"
+                        },
+                        {
+                            "ImgAlt": "Skihütten und Chalets für Winterurlaub ",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-chalet/1651457-19-ger-XX/Inspiration-Teaser-chalet.jpg",
+                            "Slug": "/urlaubsideen/chalet-ski-huette/",
+                            "anchor": false,
+                            "Title": "Von urig bis komfortabel: Große Auswahl an Skihütten und Chalets in den schönsten Skigebieten der Alpen",
+                            "VirtPath": "/landingsite/topics/chalet/"
+                        },
+                        {
+                            "ImgAlt": "Urlaub mit Kindern - familienfreundliche Ferienhäuser und Ferienwohnungen",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-family/1654215-12-ger-XX/Inspiration-Teaser-family.jpg",
+                            "Slug": "/urlaubsideen/kinder-familie/",
+                            "anchor": false,
+                            "Title": "Sommerurlaub in familienfreundlichen Ferienhäusern und Ferienwohnungen",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Österreich - Ferienwohnung und Ferienhaus mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/austria-at-winter/1759676-28-ger-XX/Austria-AT-Winter.jpg",
+                            "Title": "Österreich",
+                            "URL": "/oesterreich/"
+                        },
+                        {
+                            "ImgAlt": "Schweiz - Ferienwohnung und Ferienhaus mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/switzerland-ch-winter/1759760-28-ger-XX/Switzerland-CH-Winter.jpg",
+                            "Title": "Schweiz",
+                            "URL": "/schweiz/"
+                        },
+                        {
+                            "ImgAlt": "Deutschland - Ferienwohnung und Ferienhaus mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/germany-de-winter/1759732-32-ger-XX/Germany-DE-Winter.jpg",
+                            "Title": "Deutschland",
+                            "URL": "/deutschland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/italy-it-winter/2239678-2-eng-XX/Italy-IT-Winter.jpg",
+                            "Title": "Italien",
+                            "URL": "/italien/"
+                        },
+                        {
+                            "ImgAlt": "Frankreich - Ferienwohnung und Ferienhaus mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/france-fr-winter/1759704-31-ger-XX/France-FR-Winter.jpg",
+                            "Title": "Frankreich",
+                            "URL": "/frankreich/"
+                        },
+                        {
+                            "ImgAlt": "Spanien - Ferienhaus und Ferienwohnung mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/spain-es/1643047-43-ger-XX/Spain-ES.jpg",
+                            "Title": "Spanien",
+                            "URL": "/spanien/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/finland-fi-winter/2239698-3-eng-XX/Finland-FI-Winter.jpg",
+                            "Title": "Finnland",
+                            "URL": "/finnland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/netherlands-nl/2278011-2-eng-XX/Netherlands-NL.jpg",
+                            "Title": "Niederlande",
+                            "URL": "/niederlande/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/austria-at-zillertal-41-winter/2239152-11-eng-XX/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/oesterreich/zillertal/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/austria-at-paznaun-43-winter/2277964-2-eng-XX/Austria-AT-Paznaun-43-Winter.jpg",
+                            "Title": "Paznaun",
+                            "URL": "/oesterreich/paznaun/"
+                        },
+                        {
+                            "ImgAlt": "Wallis - Ferienhäuser und Ferienwohnungen",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/switzerland-ch-valais-10-winter/2185806-65-ger-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Wallis",
+                            "URL": "/schweiz/wallis/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/austria-at-ötztal-42-winter/2239156-2-eng-XX/Austria-AT-Ötztal-42-Winter.jpg",
+                            "Title": "Ötztal",
+                            "URL": "/oesterreich/oetztal/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/germany-de-north-sea-02-winter/2239184-2-eng-XX/Germany-DE-North-Sea-02-Winter.jpg",
+                            "Title": "Nordsee",
+                            "URL": "/deutschland/nordsee/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/switzerland-ch-bernese-oberland-35-winter/2239272-2-eng-XX/Switzerland-CH-Bernese-Oberland-35-Winter.jpg",
+                            "Title": "Berner Oberland",
+                            "URL": "/schweiz/berner-oberland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/finland-fi-lapland-03-winter/2278015-2-eng-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lappland",
+                            "URL": "/finnland/lappland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/france-fr-savoie-haute-savoie-96-winter/2278023-2-eng-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoyen - Hochsavoyen",
+                            "URL": "/frankreich/savoyen-hochsavoyen/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Jetzt eigenes Ferienhaus listen lassen",
+                    "imgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/rent-out-with-the-experts/2259846-5-ger-XX/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Ferienhausvermietung leicht gemacht",
+                    "subtitle": "Interhome Group übernimmt die professionelle Betreuung Ihrer Ferienimmobilie."
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Ferienwohnung und Ferienhaus mieten bei Interchalet",
+                    "text": "\u003ch4\u003eWarum sollten Sie ein Ferienhaus oder eine Ferienwohnung bei Interchalet mieten?\u003c/h4\u003e\u003col\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003cstrong\u003eQualität: \u003c/strong\u003e\u003c/strong\u003eUnser Team besichtigt alle Ferienhäuser und Ferienwohnungen regelmäßig persönlich!\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eVertrauen: \u003c/strong\u003eDetaillierte Beschreibungen der Unterkünfte und garantiert echte Kundenbewertungen.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003ePreise: \u003c/strong\u003eFair \u0026amp; günstig - Top-Kundenbewertungen auch aufgrund unseres bekannt guten Preis-/Leistungsverhältnisses!\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eErfahrung: \u003c/strong\u003eDeutscher Ferienhausanbieter seit 1974 - 50 Jahre glückliche Reisende :-).\u003c/li\u003e\n\u003c/ol\u003e\u003ch4\u003eEgal, welche Urlaubsart Sie bevorzugen - hier finden Sie die richtige Unterkunft! Eine kleine Auswahl:\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003ca href=\"/urlaubsideen/ferienhaus-mit-pool/\"\u003eFerienhäuser mit Pool\u003c/a\u003e: \u003c/strong\u003eÜber 10.000 Ferienhäuser und Ferienwohnungen mit Pool - viele zur Alleinnutzung.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003ca href=\"/urlaubsideen/kinder-familie/\"\u003eFerienanlagen\u003c/a\u003e: \u003c/strong\u003eEine große Auswahl besonders familienfreundlicher Ferienunterkünfte.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003ca href=\"/spanien/\"\u003eFincas in Spanien\u003c/a\u003e \u003c/strong\u003e\u003cstrong\u003e| \u003c/strong\u003e\u003cstrong\u003e\u003ca href=\"/italien/urlaub-mit-hund/\"\u003eUrlaub mit Hund in Italien\u003c/a\u003e | \u003c/strong\u003e\u003cstrong\u003e\u003ca href=\"/italien/toskana/am-strand-am-meer/\"\u003eUrlaub am Meer in der Toskana\u003c/a\u003e | \u003c/strong\u003e\u003cstrong\u003e\u003ca href=\"/italien/toskana/mit-pool/\"\u003eFerienhäuser mit Pool in der Toskana\u003c/a\u003e | \u003c/strong\u003e\u003cstrong\u003e\u003ca href=\"/oesterreich/mit-pool/\"\u003eFerienhäuser mit Pool in Österreich\u003c/a\u003e \u003c/strong\u003eund vieles mehr - bei Interchalet finden Sie immer die passende Unterkunft in Ihrer Lieblingsregion.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003ca href=\"/urlaubsideen/skiurlaub/\"\u003eFerienhäuser im Skigebiet\u003c/a\u003e: \u003c/strong\u003eAlle 6.000 Ferienwohnungen und Ferienhäuser für Wintersportler.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003ca href=\"/urlaubsideen/an-der-piste/\"\u003eFerienwohnungen an der Piste\u003c/a\u003e: \u003c/strong\u003eFür das perfekte Skivergnügen - raus aus der Tür, rauf auf die Piste!\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e\u003ca href=\"/urlaubsideen/chalet-ski-huette/\"\u003eSkihütten\u003c/a\u003e: \u003c/strong\u003e500 besonders urige Unterkünfte für Ihren Winterurlaub - z.B. unsere \u003cstrong\u003e\u003ca href=\"/oesterreich/chalet-ski-huette/\"\u003eSkihütten in Österreich\u003c/a\u003e.\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
+            }
+        ]
+    }
+}
