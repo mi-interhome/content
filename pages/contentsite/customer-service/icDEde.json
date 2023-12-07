@@ -31,6 +31,15 @@
                     "images": []
                 },
                 "schema": {
+                    "properties": {
+                        "images": {
+                            "items": {},
+                            "type": [
+                                "array",
+                                "null"
+                            ]
+                        }
+                    },
                     "type": "object"
                 }
             },
@@ -50,6 +59,30 @@
                     ]
                 },
                 "schema": {
+                    "definitions": {
+                        "ContentEzLink": {
+                            "properties": {
+                                "href": {
+                                    "type": "string"
+                                },
+                                "label": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "properties": {
+                        "links": {
+                            "items": {
+                                "$ref": "#/definitions/ContentEzLink"
+                            },
+                            "type": [
+                                "array",
+                                "null"
+                            ]
+                        }
+                    },
                     "type": "object"
                 }
             },
@@ -67,6 +100,17 @@
                                 "size": "xl"
                             },
                             "schema": {
+                                "properties": {
+                                    "level": {
+                                        "type": "integer"
+                                    },
+                                    "size": {
+                                        "type": "string"
+                                    },
+                                    "title": {
+                                        "type": "string"
+                                    }
+                                },
                                 "type": "object"
                             }
                         },
@@ -77,6 +121,11 @@
                                 "text": "\u003ch3\u003eWir sind persönlich für Sie da!\u003c/h3\u003e\u003ch4\u003eHotline: 24h / 7 Tage\u003c/h4\u003e\u003cp\u003eBuchung / Information\u003cbr\u003e\u003cstrong\u003eTelefon:\u003c/strong\u003e +49 (0)761 2100 77\u003c/p\u003e\u003cp\u003eFür alle anderen Anfragen informieren Sie sich bitte auf unserer Webseite \u003ca href=\"/\"\u003ewww.interchalet.de\u003c/a\u003e oder schreiben uns einmalig eine Email an \u003ca href=\"mailto:info.ic@interhome.group\"\u003einfo@interchalet.de\u003c/a\u003e, welche wir so schnell wie möglich bearbeiten werden. Eventuelle Verzögerungen bitten wir zu entschuldigen. \u003c/p\u003e\u003cp\u003eWir danken Ihnen für Ihr Verständnis und Ihre Geduld. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eHHD GmbH\u003cbr\u003eHeinrich-von-Stephan-Str. 25\u003cbr\u003eD-79100 Freiburg\u003cbr\u003eTel: +49 (0)761/21 00 77\u003cbr\u003eE-Mail: \u003ca href=\"mailto:info.ic@interhome.group\"\u003einfo@interchalet.de\u003c/a\u003e\u003cbr\u003eInternet: \u003ca href=\"/\"\u003ewww.interchalet.de\u003c/a\u003e\u003c/p\u003e\n"
                             },
                             "schema": {
+                                "properties": {
+                                    "text": {
+                                        "type": "string"
+                                    }
+                                },
                                 "type": "object"
                             }
                         }
@@ -84,6 +133,76 @@
                     "menu": null
                 },
                 "schema": {
+                    "definitions": {
+                        "ContentBlok": {
+                            "properties": {
+                                "content": {
+                                    "$ref": "#/definitions/ContentEzHeading"
+                                },
+                                "id": {
+                                    "type": "integer"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "ContentBloks": {
+                            "items": {
+                                "$ref": "#/definitions/ContentBlok"
+                            },
+                            "type": [
+                                "array",
+                                "null"
+                            ]
+                        },
+                        "ContentEzHeading": {
+                            "properties": {
+                                "level": {
+                                    "type": "integer"
+                                },
+                                "size": {
+                                    "type": "string"
+                                },
+                                "title": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        },
+                        "ContentMenuEntry": {
+                            "properties": {
+                                "children": {
+                                    "items": {
+                                        "$ref": "#/definitions/ContentMenuEntry"
+                                    },
+                                    "type": [
+                                        "array",
+                                        "null"
+                                    ]
+                                },
+                                "name": {
+                                    "type": "string"
+                                },
+                                "url": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "properties": {
+                        "content": {
+                            "$ref": "#/definitions/ContentBloks"
+                        },
+                        "menu": {
+                            "items": {
+                                "$ref": "#/definitions/ContentMenuEntry"
+                            },
+                            "type": [
+                                "array",
+                                "null"
+                            ]
+                        }
+                    },
                     "type": "object"
                 }
             },
@@ -104,6 +223,45 @@
                     "support": "Persönliche Betreuung vor Ort"
                 },
                 "schema": {
+                    "definitions": {
+                        "ContentEzLink": {
+                            "properties": {
+                                "href": {
+                                    "type": "string"
+                                },
+                                "label": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "properties": {
+                        "car": {
+                            "type": "string"
+                        },
+                        "cleaning": {
+                            "type": "string"
+                        },
+                        "headline": {
+                            "type": "string"
+                        },
+                        "independence": {
+                            "type": "string"
+                        },
+                        "key": {
+                            "type": "string"
+                        },
+                        "link": {
+                            "$ref": "#/definitions/ContentEzLink"
+                        },
+                        "privacy": {
+                            "type": "string"
+                        },
+                        "support": {
+                            "type": "string"
+                        }
+                    },
                     "type": "object"
                 }
             },
@@ -130,6 +288,33 @@
                     ]
                 },
                 "schema": {
+                    "definitions": {
+                        "ContentEzUSP": {
+                            "properties": {
+                                "caption": {
+                                    "type": "string"
+                                },
+                                "subtitle": {
+                                    "type": "string"
+                                },
+                                "title": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "properties": {
+                        "elements": {
+                            "items": {
+                                "$ref": "#/definitions/ContentEzUSP"
+                            },
+                            "type": [
+                                "array",
+                                "null"
+                            ]
+                        }
+                    },
                     "type": "object"
                 }
             },
@@ -151,6 +336,33 @@
                     ]
                 },
                 "schema": {
+                    "definitions": {
+                        "ContentEzUSP": {
+                            "properties": {
+                                "caption": {
+                                    "type": "string"
+                                },
+                                "subtitle": {
+                                    "type": "string"
+                                },
+                                "title": {
+                                    "type": "string"
+                                }
+                            },
+                            "type": "object"
+                        }
+                    },
+                    "properties": {
+                        "elements": {
+                            "items": {
+                                "$ref": "#/definitions/ContentEzUSP"
+                            },
+                            "type": [
+                                "array",
+                                "null"
+                            ]
+                        }
+                    },
                     "type": "object"
                 }
             }
