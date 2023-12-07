@@ -8,8 +8,14 @@
     "folder": "",
     "type": "",
     "content": {
-        "Image": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-1-eng-XX/Norway-NO-Winter.jpg",
-        "ImgAlt": "Holiday house Norway",
+        "Image": {
+            "ihNOen": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-1-eng-XX/Norway-NO-Winter.jpg",
+            "ihNOno": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-2-eng-XX/Norway-NO-Winter.jpg"
+        },
+        "ImgAlt": {
+            "ihNOen": "Holiday house Norway",
+            "ihNOno": "Holiday house Norway"
+        },
         "Name": {
             "ihNOen": "Norway",
             "ihNOno": "Norge"

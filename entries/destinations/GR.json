@@ -8,8 +8,14 @@
     "folder": "",
     "type": "",
     "content": {
-        "Image": "https://images.interhome.group/ezcms/interhome/features/top-countries/greece-gr/1002354-67-fre-XX/Greece-GR.jpg",
-        "ImgAlt": "location vacances Grèce",
+        "Image": {
+            "ihFRfr": "https://images.interhome.group/ezcms/interhome/features/top-countries/greece-gr/1002354-67-fre-XX/Greece-GR.jpg",
+            "ihRUru": "https://images.interhome.group/ezcms/interhome/features/top-countries/greece-gr/1109235-88-rus-RU/Greece-GR.jpg"
+        },
+        "ImgAlt": {
+            "ihFRfr": "location vacances Grèce",
+            "ihRUru": "Аренда вилл и апартаментов в Греции"
+        },
         "Name": {
             "ihFRfr": "Grèce",
             "ihRUru": "Греция"

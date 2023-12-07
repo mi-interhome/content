@@ -8,8 +8,12 @@
     "folder": "",
     "type": "",
     "content": {
-        "Image": "https://images.interhome.group/ezcms/interhome/features/top-countries/slovenia-si-winter/2277319-2-eng-XX/Slovenia-SI-Winter.jpg",
-        "ImgAlt": "Holiday house Slovenia",
+        "Image": {
+            "ihHRhr": "https://images.interhome.group/ezcms/interhome/features/top-countries/slovenia-si-winter/2277319-2-eng-XX/Slovenia-SI-Winter.jpg"
+        },
+        "ImgAlt": {
+            "ihHRhr": "Holiday house Slovenia"
+        },
         "Name": {
             "ihHRhr": "Slovenija"
         },
