@@ -1,0 +1,26 @@
+{
+    "id": "CH",
+    "name": "Schweiz",
+    "path": "top-countries/CH.json",
+    "folder": "top-countries",
+    "full_slug": "CH",
+    "slug": "CH",
+    "locale": "",
+    "Suffix": ".json",
+    "MIME": "application/json",
+    "type": "Destination",
+    "content": {
+        "Image": {
+            "ihDEde": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362982-205-ger-XX/Switzerland-CH-Winter.jpg"
+        },
+        "ImgAlt": {
+            "ihDEde": "Skifahren in der Schweiz - Ferienhaus und Ferienwohnung mieten"
+        },
+        "Name": {
+            "ihDEde": "Schweiz"
+        },
+        "URL": {
+            "ihDEde": "/schweiz/"
+        }
+    }
+}

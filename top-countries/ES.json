@@ -1,0 +1,26 @@
+{
+    "id": "ES",
+    "name": "Spanien",
+    "path": "top-countries/ES.json",
+    "folder": "top-countries",
+    "full_slug": "ES",
+    "slug": "ES",
+    "locale": "",
+    "Suffix": ".json",
+    "MIME": "application/json",
+    "type": "Destination",
+    "content": {
+        "Image": {
+            "ihDEde": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/396808-92-ger-XX/Spain-ES.jpg"
+        },
+        "ImgAlt": {
+            "ihDEde": "Spanien - Ferienhaus und Ferienwohnung mieten"
+        },
+        "Name": {
+            "ihDEde": "Spanien"
+        },
+        "URL": {
+            "ihDEde": "/spanien/"
+        }
+    }
+}
