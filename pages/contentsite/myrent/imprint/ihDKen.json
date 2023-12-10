@@ -1,11 +1,13 @@
 {
     "id": "37437",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.dk/en/37437",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "en",
+    "locale": "en-DK",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Imprint | Interhome",
             "description": "",
             "keywords": null,
-            "robots": "noindex, nofollow"
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

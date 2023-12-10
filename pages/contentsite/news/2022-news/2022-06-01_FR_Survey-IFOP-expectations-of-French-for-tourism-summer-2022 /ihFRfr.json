@@ -1,11 +1,13 @@
 {
     "id": "39823",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/39823",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "01.06.2022 : Etude IFOP pour Interhome France : les usages et attentes des Français en matière de tourisme pour cet été",
             "description": "  L’IFOP a réalisé une étude pour le leader européen de la location de vacances qui confirme la recrudescence des intentions de départ en vacances à l’été 2022, mais qui révèle par ailleurs l’impact persistant de la crise du Coronavirus sur les préparatifs. Parallèlement, la crise a permis l’émergence d’une plus forte préoccupation en matière d’environnement chez les voyageurs, qui devrait faire prendre de l’ampleur à l’écotourisme.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

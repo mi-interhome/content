@@ -1,11 +1,13 @@
 {
     "id": "19337",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.in/en/19337",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "en",
+    "locale": "en-IN",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Idyllic island breaks | Interhome",
             "description": "Beautiful beaches, crystal-clear turquoise waters and charming villages all make up the idyllic break far away from everyday life. So where is your dream island?",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

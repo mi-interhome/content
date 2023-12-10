@@ -1,11 +1,13 @@
 {
     "id": "19337",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.cz/cs/19337",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "cs",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Dovolená na ostrově | Interhome",
             "description": "Objevte malebné vesničky, romantické zátoky a krásné pláže. Připravili jsme pro Vás nabídku nejkrásnějších ostrovů a ostrůvků, která uspokojí každé přání i rozpočet – Nechte se inspirovat!",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

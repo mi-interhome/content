@@ -1,11 +1,13 @@
 {
     "id": "22703",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.be/fr/22703",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-BE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Interhome baisse les prix pour des locations de vacances en suisse | Interhome",
             "description": "Interhome baisse les prix pour des locations de vacances en suisse | Interhome",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

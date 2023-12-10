@@ -1,11 +1,13 @@
 {
     "id": "15553",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.pl/pl/15553",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "pl",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Zarezerwuj ferie zimowe  | Interhome",
             "description": "Spędź ferie zimowe na nartach w Alpach. Czekają na ciebie wygodne domki górskie w najlepszych kurortach narciarskich.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

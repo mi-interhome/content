@@ -1,11 +1,13 @@
 {
     "id": "18594",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.at/de/18594",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-AT",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Ferienwohnungen von Interhome für card complete | Interhome",
             "description": "Karteninhaber von card complete buchen Ferienhausurlaub bei Interhome mit 5% Rabatt\" /\u003e\u003cmeta property=\"og:description\" content=\"Karteninhaber von card complete buchen Ferienhausurlaub bei Interhome mit 5% Rabatt",
             "keywords": null,
-            "robots": "noindex, nofollow"
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

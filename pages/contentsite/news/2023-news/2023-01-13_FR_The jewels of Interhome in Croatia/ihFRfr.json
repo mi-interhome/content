@@ -1,11 +1,13 @@
 {
     "id": "40912",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/40912",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "13.01.2023 : Les pépites d’Interhome en Croatie",
             "description": "Entrée dans l’Union européenne en juillet 2013, la Croatie a adopté le 1ᵉʳ janvier dernier l'Euro et intégré l'espace Schengen de libre circulation. Interhome, qui propose plus de 2 100 logements de vacances à la location en Croatie, a sélectionné quelques maisons de grand standing pour des vacances exceptionnelles en famille ou entre amis.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

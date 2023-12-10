@@ -1,11 +1,13 @@
 {
     "id": "10162",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.hr/hr/10162",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "hr",
+    "locale": "hr-HR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "O nama | Interhome",
             "description": "O nama - uz Interhome ćete pronaći nešto za svaki ukus i za svaki džep, uz preko 35.000 kuća za odmor i apartmana.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

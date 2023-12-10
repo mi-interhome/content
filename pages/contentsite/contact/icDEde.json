@@ -1,11 +1,13 @@
 {
     "id": "20496",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/de/20496",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Interchalet - Kontakt",
             "description": "Bei Fragen können Sie uns gerne jederzeit telefonisch oder per E-Mail kontaktieren.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

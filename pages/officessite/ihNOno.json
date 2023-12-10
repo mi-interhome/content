@@ -1,11 +1,13 @@
 {
     "id": "10246",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.no/no/10246",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "no",
+    "locale": "no-NO",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Personlig hjelp \u0026 service på feriedestinasjonene  | Interhome",
             "description": "Interhome-ansatte, partnerbyråer og nøkkelforvaltere ønsker velkommen og hjelper gjestene på plass og gir omfattende service.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

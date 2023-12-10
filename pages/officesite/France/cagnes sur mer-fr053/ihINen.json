@@ -1,11 +1,13 @@
 {
     "id": "35876",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.in/en/35876",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "en",
+    "locale": "en-IN",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Local Interhome office: Cagnes sur Mer | Interhome",
             "description": "Interhome artner Cagnes sur Mer",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "15503",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.pl/pl/15503",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "pl",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Lato w domu wakacyjnym | Interhome",
             "description": "Lato w domu wakacyjnym - żadnego wczesnego wstawania, długie śniadanie na tarasie i poranna kawa z widokiem na morze lub góry, przyjemna lektura w czasie gdy dzieci wesoło bawią się a basenie lub ogrodzie,  a wieczorami długie nocne Polaków rozmowy przy grillu... Odkryjcie przepiękne miejsca, wybierając spośród szerokiej oferty domów i apartamentów Interhome. ",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

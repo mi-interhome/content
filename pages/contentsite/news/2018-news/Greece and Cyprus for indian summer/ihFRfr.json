@@ -1,11 +1,13 @@
 {
     "id": "20201",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/20201",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "24.05.2018 : Destination Grèce et Chypre : profitez de l'été indien",
             "description": "Des côtes paradisiaques où les plages de rêve se succèdent, une cuisine savoureuse où l’huile d’olive s’impose, des hébergements d’exception… la Grèce et Chypre seront sans nul doute les destinations privilégiées pour prolonger l’été",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

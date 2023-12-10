@@ -1,11 +1,13 @@
 {
     "id": "40820",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/de/40820",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Feiertage Urlaub in Ferienhaus oder Ferienwohnung | Interchalet",
             "description": "Überraschen Sie Ihre Liebsten und verbringen Sie die Feiertage in einem gemütlichen Ferienhaus oder in einer tollen Ferienwohnung von Interchalet.",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

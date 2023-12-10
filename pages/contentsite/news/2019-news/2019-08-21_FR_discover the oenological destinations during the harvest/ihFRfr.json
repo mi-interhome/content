@@ -1,11 +1,13 @@
 {
     "id": "34148",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/34148",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "21.08.2019 : Découvrez les destinations oenologiques pendant les vendanges",
             "description": "Dans le sud de la France, les vendanges peuvent commencer dès mi-août alors que dans les régions plus septentrionales comme la Bourgogne ou l’Alsace, elles peuvent débuter fin septembre. Interhome vous offre une sélection de belles demeures où la passion viticole, la nature et la détente s’allient à la perfection.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

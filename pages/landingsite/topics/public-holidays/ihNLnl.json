@@ -1,11 +1,13 @@
 {
     "id": "15499",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.nl/nl/15499",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "nl",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Nationale feestdagen met Interhome | Interhome",
             "description": "Verras degene waar je van houdt en verblijf met de feestdagen in een gezellig vakantiehuis of in een geweldig appartement.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "39959",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/39959",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "08.07.2022 : Interhome Group élargit son modèle commercial : la location d’appartements à long terme dans de nouvelles constructions",
             "description": "Interhome élargit son modèle commercial pour inclure la location à long terme d’appartements de vacances et conclut des baux de plusieurs années pour 20 appartements dans les « LocTowers » à Locarno en Suisse. Le Local Service Office (LSO) déménage également à Locarno et se trouve désormais directement dans les « LocTowers ».",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

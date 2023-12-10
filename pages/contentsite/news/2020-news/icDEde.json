@@ -1,11 +1,13 @@
 {
     "id": "36465",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/de/36465",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Interchalet - Pressemitteilungen 2020",
             "description": "Hier finden Sie alle aktuellen Pressemitteilungen von Interchalet aus dem Jahr 2020.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

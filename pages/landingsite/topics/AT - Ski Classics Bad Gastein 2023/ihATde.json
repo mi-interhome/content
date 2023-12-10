@@ -1,11 +1,13 @@
 {
     "id": "42771",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.at/de/42771",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-AT",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Ski Classics Bad Gastein | Interhome",
             "description": "",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "15559",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ee/fi/15559",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fi",
+    "locale": "fi-EE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Kaupunkilomat - Vuokraa oma huoneisto viikoksi tai viikonlopuksi  | Interhome",
             "description": "Kaupunkilomat - Vuokraa oma huoneisto viikoksi tai viikonlopuksi",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

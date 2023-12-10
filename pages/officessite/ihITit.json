@@ -1,11 +1,13 @@
 {
     "id": "10246",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.it/it/10246",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "it",
+    "locale": "it-IT",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Servizi di accoglienza ed assistenza nelle destinazioni di vacanza",
             "description": "A completa disposizione dei clienti Interhome",
             "keywords": null,
-            "robots": "noindex, nofollow"
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

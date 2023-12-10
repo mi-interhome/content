@@ -1,11 +1,13 @@
 {
     "id": "15509",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fi/fi/15509",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fi",
+    "locale": "fi-FI",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Ainutlaatuisia loma-asuntoja | Interhome",
             "description": "Oletko koskaan haaveillut majoittuvasi lomataloon, jossa on jokin erityinen, hauska piirre? Interhome toteuttaa unelmasi ja tarjoaa pysäyttävän upeita loma-asuntoja ympäri maailman.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

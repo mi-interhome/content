@@ -1,11 +1,13 @@
 {
     "id": "15509",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.es/es/15509",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "es",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Alquilar villas y vacaciones de lujo | Interhome",
             "description": "Bríndese unas vacaciones de lujo en pareja o con toda la familia. En Interhome encontrará la exclusiva casa de vacaciones que está buscando.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

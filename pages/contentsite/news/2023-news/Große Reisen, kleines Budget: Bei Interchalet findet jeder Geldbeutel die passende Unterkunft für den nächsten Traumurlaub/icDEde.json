@@ -1,11 +1,13 @@
 {
     "id": "40805",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/de/40805",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Große Reisen, kleines Budget: Bei Interchalet findet jeder Geldbeutel die passende Unterkunft für den nächsten Traumurlaub",
             "description": "Große Reisen, kleines Budget: Bei Interchalet findet jeder Geldbeutel die passende Unterkunft für den nächsten Traumurlaub",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

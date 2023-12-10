@@ -1,11 +1,13 @@
 {
     "id": "37433",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/37433",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Direction la Suisse ! Bons plans d’été avec Interhome",
             "description": "Interhome dispose d’une large offre en Suisse, avec plus de 3 600 maisons et appartements proposés à la location. Une bonne idée pour les amoureux des grands espaces qui n’ont pas encore réservé leurs vacances pour août et septembre.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

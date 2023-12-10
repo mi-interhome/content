@@ -1,11 +1,13 @@
 {
     "id": "19202",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.no/no/19202",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "no",
+    "locale": "no-NO",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Vintersportsutstyr fra SKISET | Interhome",
             "description": "",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

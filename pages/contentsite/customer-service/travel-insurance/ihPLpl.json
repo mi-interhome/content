@@ -1,11 +1,13 @@
 {
     "id": "10184",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.pl/pl/10184",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "pl",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Ubezpieczenia na czas podróży",
             "description": "Wierzymy, że okres wakacji powinien być czasem prawdziwej beztroski. Zadbajcie Państwo o niepowtarzalne wspomnienia i wykupcie ubezpieczenia na czas podróży. ",
             "keywords": null,
-            "robots": "noindex, nofollow"
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

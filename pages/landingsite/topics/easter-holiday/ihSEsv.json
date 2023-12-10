@@ -1,11 +1,13 @@
 {
     "id": "18394",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.se/sv/18394",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "sv",
+    "locale": "sv-SE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Spendera påsk i ett semesterhus!  | Interhome",
             "description": "Gör din påsk oförglömlig i en av Interhomes semesterlägenheter eller i ett stort semesterhus med gott om plats för hela familjen!",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

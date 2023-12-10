@@ -1,11 +1,13 @@
 {
     "id": "15559",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.nl/nl/15559",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "nl",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Beleef een stedentrip met een appartement | Interhome",
             "description": "Geniet van een ontspannende stedentrip door een appartement of vakantiehuis te huren in een van de vele interessante steden van Barcelona tot Krakau.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

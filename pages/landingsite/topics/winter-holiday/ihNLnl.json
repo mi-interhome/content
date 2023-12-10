@@ -1,11 +1,13 @@
 {
     "id": "15553",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.nl/nl/15553",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "nl",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Wintersport chalet voor de skivakantie boeken | Interhome",
             "description": "Bij Interhome Vakantiewoningen vindt u wat u zoekt voor een onvergetelijke wintersportvakantie in de mooiste winter regio’s in Zwitserland, Oostenrijk, Frankrijk of Italië.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

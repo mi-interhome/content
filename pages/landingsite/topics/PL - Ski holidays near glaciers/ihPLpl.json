@@ -1,11 +1,13 @@
 {
     "id": "22848",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.pl/pl/22848",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "pl",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Narty na lodowcu | Interhome",
             "description": "",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "15514",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ch/it/15514",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "it",
+    "locale": "it-CH",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Case vacanza Last Minute - imperdibili sconti | Interhome",
             "description": "Non hai ancora organizzato le tue vacanze e vuoi partire nei prossimi giorni? Prenota una delle nostre offerte Last Minute e approfitta di imperdibili sconti!",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

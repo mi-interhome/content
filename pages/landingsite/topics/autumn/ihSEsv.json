@@ -1,11 +1,13 @@
 {
     "id": "15507",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.se/sv/15507",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "sv",
+    "locale": "sv-SE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Höstresor | Interhome",
             "description": "När dagarna blir kortare, temperaturen mildare och de färgglada löven faller från träden, det är i den stunden man vet att hösten är kommen. En årstid som tar naturen med storm med sina starka färger, men också en årstid som inspirerar många till att nyttja höstlovet till att resa igen. ",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

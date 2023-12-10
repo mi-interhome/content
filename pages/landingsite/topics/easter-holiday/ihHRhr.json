@@ -1,11 +1,13 @@
 {
     "id": "18394",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.hr/hr/18394",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "hr",
+    "locale": "hr-HR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Uskršnji praznici u kući za odmor | Interhome",
             "description": "Provedite nezaboravne Uskršnje praznike s obitelji u udobnosti Interhome kuće za odmor ili apartmana",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

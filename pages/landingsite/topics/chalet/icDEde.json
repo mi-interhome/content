@@ -1,11 +1,13 @@
 {
     "id": "28837",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/de/28837",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Skihütten Chalets Hütten Almen | Interchalet",
             "description": "Skihütten \u0026 Chalets: Große Auswahl an Skihütten und Chalets in den schönsten Skigebieten der Alpen - hier direkt buchen!",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

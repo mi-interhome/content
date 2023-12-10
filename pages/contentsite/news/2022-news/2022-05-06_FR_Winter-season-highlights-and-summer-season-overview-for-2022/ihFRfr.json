@@ -1,11 +1,13 @@
 {
     "id": "39689",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/39689",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "06.05.2022 : Interhome en France : les points forts de la saison hiver 2021/22 et les perspectives pour la saison été 2022",
             "description": "La France a été largement plébiscitée par les Français au cours de l’hiver dernier (78,3%), dépassant même les niveaux des hivers 2017/18*** et 2018/19****. La Savoie et la Haute-Savoie ont représenté 37,2% de l’ensemble des réservations. Les Français ont privilégié les séjours de 5-7 nuits dans des hébergements de 2 et 3 étoiles.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

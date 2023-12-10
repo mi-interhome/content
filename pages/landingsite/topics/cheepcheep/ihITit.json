@@ -1,11 +1,13 @@
 {
     "id": "15508",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.it/it/15508",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "it",
+    "locale": "it-IT",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Case e appartamenti di vacanza convenienti | Interhome",
             "description": "Hai voglia di un nuovo viaggio ma il salvadanaio piange? Prenota uno dei nostri appartamenti più convenienti senza dover rinunciare alla qualità!",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

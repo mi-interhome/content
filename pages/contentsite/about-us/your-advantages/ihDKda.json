@@ -1,11 +1,13 @@
 {
     "id": "20115",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.dk/da/20115",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "da",
+    "locale": "da-DK",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Fordelene ved at bestille hos os",
             "description": "Med Interhome kan du nyde en række særlige tilbud og rabatter på ski udstyr, liftkort og meget mere! Se disse specialtilbud til kunder.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

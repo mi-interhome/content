@@ -1,11 +1,13 @@
 {
     "id": "15559",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.cz/cs/15559",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "cs",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Rezervujte si rekreační apartmán pro Vaši příští dovolenou ve městě | Interhome",
             "description": "Vyberte si pro svoji příští dovolenou ve městě některý z našich perfektně umístěných rekreačních apartmánů a buďte v centru dění.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

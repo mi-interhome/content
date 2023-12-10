@@ -1,11 +1,13 @@
 {
     "id": "41145",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/en/41145",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "en",
+    "locale": "en-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Interchalet | ALPS RESORTS",
             "description": "",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

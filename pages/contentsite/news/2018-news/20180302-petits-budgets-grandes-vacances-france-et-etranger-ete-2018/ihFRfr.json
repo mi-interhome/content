@@ -1,11 +1,13 @@
 {
     "id": "19113",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/19113",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "02.03.2018 : Petits budgets grandes vacances France et étranger cet été | Interhome",
             "description": "Interhome, spécialiste de la location de maisons et appartements de vacances propose pour les vacances d’été, une sélection de bons plans pour profiter des vacances avec sérénité. Focus sur 5 logements à petits prix, qui permettent de partir 15 jours d’affilée !",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

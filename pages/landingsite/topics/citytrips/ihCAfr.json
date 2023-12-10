@@ -1,11 +1,13 @@
 {
     "id": "15559",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.bookinterhome.ca/fr/15559",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-CA",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Location de vacances ville: séjournez dans un appartement de vacances au coeur de la ville | Interhome",
             "description": "Faites une pause découverte dans les plus belles villes d'Europe. Choisissez une location de vacances en ville pour vous loger et vivre comme un citadin.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

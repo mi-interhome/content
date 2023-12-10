@@ -1,11 +1,13 @@
 {
     "id": "15509",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.in/en/15509",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "en",
+    "locale": "en-IN",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "\tPick from only the best of luxury holiday homes for your vacation | Interhome",
             "description": "Treat yourself to a relaxed luxury holiday as a couple or with the whole family. With Interhome’s wide range you’ll find an exclusive luxury holiday house that’s just what you're looking for.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

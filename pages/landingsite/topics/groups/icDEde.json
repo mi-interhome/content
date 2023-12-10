@@ -1,11 +1,13 @@
 {
     "id": "28414",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interchalet.de/de/28414",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Gruppenhäuser - große Ferienhäuser für Gruppenreisen | Interchalet",
             "description": "Gruppenhäuser: Sie suchen ein großes Ferienhaus für 10 Personen und mehr? Hier finden Sie die ideale Unterkunft für den Urlaub mit vielen Freunden oder der Großfamilie - bei Interchalet.",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

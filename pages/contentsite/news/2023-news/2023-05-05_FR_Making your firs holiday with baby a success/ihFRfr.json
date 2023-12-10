@@ -1,11 +1,13 @@
 {
     "id": "42264",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/42264",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "05.06.2023 : Réussir ses premières vacances avec bébé",
             "description": "Emmener son bébé en voyage pour la première fois constitue une étape importante. Le choix de la bonne destination et d’un logement pratique est essentiel pour passer de belles vacances. La location d’une maison ou d’un appartement est une excellente solution pour la souplesse, le confort et la liberté qu’elle offre.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

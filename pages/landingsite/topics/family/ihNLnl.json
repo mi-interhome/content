@@ -1,11 +1,13 @@
 {
     "id": "15502",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.nl/nl/15502",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "nl",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Familie vakantiehuis ideaal voor uw gezinsvakantie  | Interhome",
             "description": "Kies voor uw komende familievakantie voor een ruim vakantiewoning of vakantiehuis voor vermaak en ontspanning voor het hele gezin.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

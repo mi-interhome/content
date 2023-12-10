@@ -1,11 +1,13 @@
 {
     "id": "20204",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/20204",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "09.07.2018 : Canicule - Interhome propose ses astuces pour des vacances en toute sérénité",
             "description": "Pour éviter le coup de chaud pendant les vacances et profiter du soleil en toute sérénité, Interhome met à la disposition des vacanciers des locations 100% fraîcheur.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

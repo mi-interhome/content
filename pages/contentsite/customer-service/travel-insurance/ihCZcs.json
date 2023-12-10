@@ -1,11 +1,13 @@
 {
     "id": "10184",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.cz/cs/10184",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "cs",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Cestovní pojištění",
             "description": "Chceme, abyste na dovolenou měli jen ty nejlepší vzpomínky. Storno pojištění pro případ odstoupení od smlouvy je již zahrnuto v ceně.",
             "keywords": null,
-            "robots": "noindex, nofollow"
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "15504",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ch/it/15504",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "it",
+    "locale": "it-CH",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Prenota la tua casa vacanze al mare | Interhome",
             "description": "Preferisci un appartamento a pochi passi dal mare o una villa con piscina privata? Soggiorna in una delle nostre case al mare, ti offriamo un'ampia scelta di ville e appartamenti. Sabbia e mare saranno alla tua portata per godere le ferie in serenità.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

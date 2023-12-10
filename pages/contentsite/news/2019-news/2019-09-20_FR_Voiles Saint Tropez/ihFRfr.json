@@ -1,11 +1,13 @@
 {
     "id": "34339",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/34339",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "20.09.2019 : Interhome présent sur la 20e édition des Voiles de Saint-Tropez",
             "description": "Interhome, le spécialiste de la location de maisons et appartements de vacances, s’apprête à accueillir les passionnés de voile au village de la 20e édition des Voiles de Saint-Tropez, du 26 septembre au 6 octobre 2019.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

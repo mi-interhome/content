@@ -1,11 +1,13 @@
 {
     "id": "10167",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ru/ru/10167",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "ru",
+    "locale": "ru-RU",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Наше качество - мы используем строгую систему оценки звёздности| Interhome",
             "description": "Одна из сильных сторон компании Interhome заключается в том, что мы всегда там, где нужны Вам. Сотрудники Interhome, партнерские агентства и держатели ключей встречают и помогают гостям на месте, обеспечивая комплексное обслуживание. Наше присутствие означает, что у гостей Interhome есть прямой контакт для получения любой необходимой поддержки и консультации.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

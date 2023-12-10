@@ -1,11 +1,13 @@
 {
     "id": "15502",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ch/fr/15502",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-CH",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Vacances en famille dans un appartement ou une maison de vacances | Interhome",
             "description": "Les familles, ça a besoin de beaucoup d’espace et les enfants d’occupations – ça nous le savons bien. Une résidence dans l’un de nos superbes camps de vacances vous fait profiter de toutes les libertés. Jeux et distractions garantis pour petits et grands.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

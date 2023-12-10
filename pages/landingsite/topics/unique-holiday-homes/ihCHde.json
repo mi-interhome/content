@@ -1,11 +1,13 @@
 {
     "id": "23771",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ch/de/23771",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-CH",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Besondere und ausgefallene Ferienhäuser | Interhome",
             "description": "Einmal in einem wirklich ausgefallenen Ferienhaus übernachten? Interhome macht Ihre Träume wahr und schickt Sie in atemberaubende Unterkünfte überall auf der Welt.",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

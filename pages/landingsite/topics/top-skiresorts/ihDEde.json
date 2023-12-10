@@ -1,11 +1,13 @@
 {
     "id": "18404",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.de/de/18404",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-DE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Ferienhäuser, Ferienwohnungen und Chalets in top Skigebieten | Interhome",
             "description": "Urlaub in Top Skigebieten - mit Interhome im eigenen Chalet, Ferienhaus oder der eigenen Ferienwohnung",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

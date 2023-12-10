@@ -1,11 +1,13 @@
 {
     "id": "18667",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.nl/nl/18667",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "nl",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Vakantiehuizen in de bergen | Interhome",
             "description": "Zomer in de Bergen Vakantie in de Bergen Actieve vakantie in de bergen Vakantieappartement in de bergen Wandelen in de bergen Vakantiehuis in de bergen Vakantieappartement in de Alpen zomer Vakantiehuis Alpen zomer Zomer in de Alpen",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

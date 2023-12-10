@@ -1,11 +1,13 @@
 {
     "id": "15553",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.at/de/15553",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-AT",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Winterurlaub in den Bergen | Interhome",
             "description": "Finden Sie bei uns Ihre gemütliche Ferienwohnung oder ein privates Chalet für unvergesslichen Winterurlaub in den schönsten Wintersportregionen und Ski-Resorts Europas.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "19121",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/19121",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "05.04.2018 : La Valette - capitale européenne de la culture en 2018 | Interhome",
             "description": "Cette année en 2018, la Valette a été désignée capitale européenne de la culture. Découvrez la cité chaleureuse de Malte, qui propose à cette occasion un programme riche.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

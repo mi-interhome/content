@@ -1,11 +1,13 @@
 {
     "id": "15514",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.cz/cs/15514",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "cs",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "S naší Last minute nabídkou rekreačních domů a apartmánů ušetříte | Interhome",
             "description": "Více než 35.000 rekreačních apartmánů, domů, vil, chat, chalup, u moře, na horách, ve městě i na venkově.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

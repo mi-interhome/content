@@ -1,11 +1,13 @@
 {
     "id": "20010",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ru/ru/20010",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "ru",
+    "locale": "ru-RU",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Раннее бронирование недвижимости онлайн. Скидки | Interhome",
             "description": "Большой выбор выгодных предложений аренды недвижимости. Поиск и бронирование объектов онлайн, услуги онлайн-бронирования недвижимости в Европе, США, на островах. Скидки при раннем бронировании объекта.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

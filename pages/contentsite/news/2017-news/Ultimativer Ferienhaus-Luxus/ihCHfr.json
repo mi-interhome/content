@@ -1,11 +1,13 @@
 {
     "id": "10219",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.ch/fr/10219",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-CH",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "22.8.2017: Le nec plus ultra du luxe en maison de vacances",
             "description": "Ein Ferienhaus kann so einiges an Luxus bieten. Ob ein eigener Pool, der Strand vor der Haustür oder ein Privatkoch. Vieles ist möglich.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

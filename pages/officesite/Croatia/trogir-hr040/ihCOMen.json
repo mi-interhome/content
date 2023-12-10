@@ -1,11 +1,13 @@
 {
     "id": "42276",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.com/en/42276",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "en",
+    "locale": "Me-CO",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Local Interhome office: Trogir | Interhome",
             "description": "Interhome artner Trogir",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

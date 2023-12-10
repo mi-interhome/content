@@ -1,11 +1,13 @@
 {
     "id": "15509",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.hr/hr/15509",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "hr",
+    "locale": "hr-HR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Luksuzne kuće za odmor i apartmani - Selection | Interhome",
             "description": "Opustite se u luksuznoj kući za odmor u dvoje ili s cijelom obitelji. U Interhome ponudi ćete pronaći savršenu kuću za odmor za Vas.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

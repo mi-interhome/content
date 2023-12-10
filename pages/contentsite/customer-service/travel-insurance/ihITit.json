@@ -1,11 +1,13 @@
 {
     "id": "10184",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.it/it/10184",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "it",
+    "locale": "it-IT",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Assicurazione di viaggio",
             "description": "L'assicurazione annullamento viaggio è già inclusa nel prezzo d'affitto. ",
             "keywords": null,
-            "robots": "noindex, nofollow"
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "15507",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.es/es/15507",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "es",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Casas de vacaciones para sus vacaciones de otoño | Interhome",
             "description": "Disfrute en una casa o apartamento de vacaciones sus vacaciones este otoño. Vacaciones para todos los bolsillos en los destinos más bonitos para el Otoño | Interhome",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

@@ -1,11 +1,13 @@
 {
     "id": "37182",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/37182",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "24.06.2020 : Offres Dernière Minute : un bon plan pour les vacances d’été !",
             "description": "La majorité des personnes qui comptent partir en vacances cet été n’ont pas encore réservé leur séjour. Interhome propose une offre Dernière Minute, qui permet de bénéficier jusqu’à 30% de réduction sur une sélection de maisons et appartements de vacances pour les personnes qui réservent à partir de 8 jours avant leur départ.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

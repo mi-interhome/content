@@ -1,11 +1,13 @@
 {
     "id": "40674",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/40674",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "13.12.2022 : Nouvelle tendance du travail : Interhome adapte son offre au workation",
             "description": "Interhome vient de lancer un nouveau filtre sur son site, qui permet de rechercher des logements se prêtant au télétravail et aux loisirs. Plus de 500 appartements et maisons de vacances à travers toute l’Europe sont déjà recensés.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

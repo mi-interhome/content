@@ -1,11 +1,13 @@
 {
     "id": "42256",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/42256",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "17.04.2023 : Des vacances balnéaires en Allemagne avec Interhome",
             "description": "On a tendance à oublier que l'Allemagne possède de charmantes stations balnéaires le long de la mer Baltique et de la mer du Nord. Le leader européen des locations de vacances Interhome a déniché des appartements et maisons dans des stations renommées, parmi les quelque 1300 biens de son portefeuille en Allemagne.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

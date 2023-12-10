@@ -1,11 +1,13 @@
 {
     "id": "15506",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.de/de/15506",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-DE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Urlaub mit Hund im Ferienhaus oder in der Ferienwohnung | Interhome",
             "description": "Urlaub mit Hund im Ferienhaus, in der Ferienwohnung oder im Chalet. Bei Interhome können Sie Ihre Haustiere in über 13.000 Ferienhäuser mitnehmen.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

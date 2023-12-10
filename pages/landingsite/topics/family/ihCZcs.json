@@ -1,11 +1,13 @@
 {
     "id": "15502",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.cz/cs/15502",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "cs",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Vyhledejte si svůj rekreační dům nebo apartmán na stránkách Interhome a zarezervujte on-line! Dovolená u moře, na horách, u jezera...\u003cbr/\u003eLéto ve Francii, Itálii, Španělsku nebo Chorvatsku. Lyžování v Alpách v Rakousku nebo ve Švýcarsku. | Interhome",
             "description": "Více než 33.000 rekreačních apartmánů, domů, vil, chat, chalup, u moře,  Španělsko,na horách, ve městě, na venkově, ve 27 zemích Evropy a USA. Itálie, Francie, Švýcarsko, Rakousko, Chorvatsko...",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

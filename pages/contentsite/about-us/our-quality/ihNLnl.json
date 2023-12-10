@@ -1,11 +1,13 @@
 {
     "id": "10167",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.nl/nl/10167",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "nl",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Onze kwaliteit - we hanteren een strict sterren classificatiesysteem | Interhome",
             "description": "Bij Interhome werken we met een duidelijk sterrenclassificatiesysteem, wat betekent dat u erop kunt vertrouwen dat de accommodatie die u boekt aan de verwachte standaard voldoet.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

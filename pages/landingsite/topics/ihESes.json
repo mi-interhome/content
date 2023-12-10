@@ -1,11 +1,13 @@
 {
     "id": "36476",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.es/es/36476",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "es",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Nuevas ideas para vacaciones",
             "description": "Si está aburrido de hacer siempre las mismas cosas durante su periodo de descanso, aquí podrá encontrar algunas ideas para unas vacaciones distintas.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

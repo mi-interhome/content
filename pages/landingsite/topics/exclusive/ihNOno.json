@@ -1,11 +1,13 @@
 {
     "id": "15509",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.no/no/15509",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "no",
+    "locale": "no-NO",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Feriebolig Europa - leie eksklusive hus og leiligheter her | Interhome",
             "description": "Unn dere en avslappende luksusferie som par, eller ta med hele familien. Blant Interhomes utvalg vil du finne eksklusive luksus feriehus som er akkurat slik du drømmer om.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

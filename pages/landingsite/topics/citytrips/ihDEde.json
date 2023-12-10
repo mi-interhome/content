@@ -1,11 +1,13 @@
 {
     "id": "15559",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.de/de/15559",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "de",
+    "locale": "de-DE",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "Ferienwohnungen, Apartments in der Stadt, Städtereisen | Interhome",
             "description": "Eine Ferienwohnung oder ein Apartment für Ihren nächsten Städtetrip? Interhome bietet Hunderte von Ferienwohnungen in den Metropolen Europas zur Auswahl an. Die meisten dieser Wohnungen sind schon für Aufenthalte von 3 Nächten buchbar. Eine günstige Alternative zum Hotel.",
             "keywords": null,
-            "robots": "noindex, follow"
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",

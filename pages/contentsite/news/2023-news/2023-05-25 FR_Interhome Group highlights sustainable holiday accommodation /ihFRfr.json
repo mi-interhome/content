@@ -1,11 +1,13 @@
 {
     "id": "42261",
     "name": "",
-    "slug": "",
-    "path": "",
-    "Suffix": "",
-    "MIME": "application/json",
-    "folder": "",
+    "path": "www.interhome.fr/fr/42261",
+    "folder": "pages",
+    "full_slug": "pages",
+    "slug": "fr",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "ContentPage",
     "content": {
         "head": {
@@ -13,7 +15,14 @@
             "title": "25.05.2023 Interhome Group intègre des critères de durabilité dans son offre d’hébergements de vacances",
             "description": "Les sites Internet d’Interhome Group permettent à présent de rechercher des hébergements pour séjour durable. Le spécialiste suisse de la location de vacances répond ainsi à la demande croissante d’appartements et de maisons de vacances durables.",
             "keywords": null,
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
         },
         "og": {
             "title": "",
