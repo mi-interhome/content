@@ -28,11 +28,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/lastminute",
+                    "domainpath": "/чехия/adlergebirge",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/в-последнюю-минуту/",
+                            "target": "/чехия/orlicke-mountains/",
                             "targettokens": []
                         }
                     ]
@@ -41,11 +41,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/политика-конфиденциальности",
+                    "domainpath": "/италия/fassatal",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/сервис/политика-конфиденциальности/",
+                            "target": "/италия/fassa-valley/",
                             "targettokens": []
                         }
                     ]
@@ -54,11 +54,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/италия/fleimstal",
+                    "domainpath": "/италия/пьемонт-ланге-монферрато/sanico",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/италия/fiemme-valley/",
+                            "target": "/италия/пьемонт-ланге-монферрато/moncalvo/",
                             "targettokens": []
                         }
                     ]
@@ -67,24 +67,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/skiset",
+                    "domainpath": "/норвегия/-aeusserer-sogneford",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/дополнительные-услуги/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/nachhaltigkeit",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
+                            "target": "/норвегия/-outer-sognefjord/",
                             "targettokens": []
                         }
                     ]
@@ -106,24 +93,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/pages/herbsturlaub",
+                    "domainpath": "/partners",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/виды-отдыха/Осенние-каникулы/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
+                            "target": "https://partners.interhome.group/portal",
                             "targettokens": []
                         }
                     ]
@@ -145,11 +119,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/about-us",
+                    "domainpath": "/швейцария/энгадин/la-puntchamues-ch",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/о-компании-interhome/",
+                            "target": "/швейцария/энгадин/la-punt-chamues-ch/",
                             "targettokens": []
                         }
                     ]
@@ -158,11 +132,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/сервис/cookies",
+                    "domainpath": "/destinations/sicily",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/сервис/политика-конфиденциальности/",
+                            "target": "/италия/сицилия",
                             "targettokens": []
                         }
                     ]
@@ -171,11 +145,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/италия/пьемонт/valsesia",
+                    "domainpath": "/destinations/rimini",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/италия/пьемонт/alagna-valsesia/",
+                            "target": "/италия/эмилия-романья/rimini",
                             "targettokens": []
                         }
                     ]
@@ -184,24 +158,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/сервис/юридическая-информация",
+                    "domainpath": "/австрия/neusiedler-see",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/Юридическая-информация",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/норвегия/-innerer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/норвегия/-inner-sognefjord/",
+                            "target": "/австрия/lake-neusiedl/",
                             "targettokens": []
                         }
                     ]
@@ -223,11 +184,167 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/хорватия/dalmatien",
+                    "domainpath": "/чехия/boehmerwald",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/хорватия/далма́ция/",
+                            "target": "/чехия/bohemian-forest/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/сервис/юридическая-информация",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/Юридическая-информация",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/италия/fleimstal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/италия/fiemme-valley/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/австрия/grossarltal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/австрия/grossarl-valley/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/destinations/sardinia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/италия/сардиния",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/destinations/carinthia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/австрия/каринтия",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/норвегия/-innerer-sogneford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/норвегия/-inner-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/сервис/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/сервис/политика-конфиденциальности/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/destinations/bernese-oberland",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/швейцария/бернский-оберланд",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/destinations/northsea",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/германия/северное-море",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/франция/восточные-пиренеи/llauro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/франция/восточные-пиренеи/torderes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/чехия/riesengebirge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/чехия/krkonose/",
                             "targettokens": []
                         }
                     ]
@@ -241,6 +358,71 @@
                         {
                             "query": null,
                             "target": "/швейцария/центральный-граубюнден/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/страхование-путешествии",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/сервис/страхование-путешествии/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/destinations/croatia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/хорватия",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/италия/пьемонт/valsesia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/италия/пьемонт/alagna-valsesia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/nachhaltigkeit",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -275,71 +457,6 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/виды-отдыха/в-последнюю-минуту/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/rimini",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/италия/эмилия-романья/rimini",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/чехия/boehmerwald",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/чехия/bohemian-forest/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/bernese-oberland",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/швейцария/бернский-оберланд",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/black-forest",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/германия/шварцвальд",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
                     "domainpath": "/pages/skiset",
                     "querymaps": [
                         {
@@ -353,11 +470,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/страхование-путешествии",
+                    "domainpath": "/хорватия/dalmatien",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/сервис/страхование-путешествии/",
+                            "target": "/хорватия/далма́ция/",
                             "targettokens": []
                         }
                     ]
@@ -366,89 +483,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/destinations/tignes",
+                    "domainpath": "/pages/herbsturlaub",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/франция/савойя-верхняя-савойя/tignes",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/carinthia",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/австрия/каринтия",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/sardinia",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/италия/сардиния",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/австрия/grossarltal",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/австрия/grossarl-valley/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/австрия/neusiedler-see",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/австрия/lake-neusiedl/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/sicily",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/италия/сицилия",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/destinations/northsea",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/германия/северное-море",
+                            "target": "/виды-отдыха/Осенние-каникулы/",
                             "targettokens": []
                         }
                     ]
@@ -470,59 +509,7 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/франция/восточные-пиренеи/llauro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/франция/восточные-пиренеи/torderes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/италия/fassatal",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/италия/fassa-valley/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/швейцария/энгадин/la-puntchamues-ch",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/швейцария/энгадин/la-punt-chamues-ch/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/чехия/adlergebirge",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/чехия/orlicke-mountains/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/all-destinations",
+                    "domainpath": "/holiday-ideas/swisspeakresorts",
                     "querymaps": [
                         {
                             "query": null,
@@ -535,50 +522,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/destinations/saint-tropez",
+                    "domainpath": "/skiset",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/франция/лазурный-берег/saint-tropez",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/норвегия/-aeusserer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/норвегия/-outer-sognefjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ru",
-                "matchdef": {
-                    "domainpath": "/италия/пьемонт-ланге-монферрато/sanico",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/италия/пьемонт-ланге-монферрато/moncalvo/",
+                            "target": "/дополнительные-услуги/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -600,11 +548,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/чехия/riesengebirge",
+                    "domainpath": "/about-us",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/чехия/krkonose/",
+                            "target": "/о-компании-interhome/",
                             "targettokens": []
                         }
                     ]
@@ -613,11 +561,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/destinations/croatia",
+                    "domainpath": "/destinations/black-forest",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/хорватия",
+                            "target": "/германия/шварцвальд",
                             "targettokens": []
                         }
                     ]
@@ -626,11 +574,11 @@
             {
                 "domain": "www.interhome.ru",
                 "matchdef": {
-                    "domainpath": "/partner",
+                    "domainpath": "/destinations/tignes",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "https://partners.interhome.group/portal",
+                            "target": "/франция/савойя-верхняя-савойя/tignes",
                             "targettokens": []
                         }
                     ]
@@ -644,6 +592,58 @@
                         {
                             "query": null,
                             "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/политика-конфиденциальности",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/сервис/политика-конфиденциальности/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/виды-отдыха/в-последнюю-минуту/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/destinations/saint-tropez",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/франция/лазурный-берег/saint-tropez",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ru",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/в-последнюю-минуту/",
                             "targettokens": []
                         }
                     ]
