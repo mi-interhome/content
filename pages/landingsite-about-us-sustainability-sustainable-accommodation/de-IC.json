@@ -1,0 +1,192 @@
+{
+    "id": "41633",
+    "name": "",
+    "path": "www.interchalet.de/de/41633",
+    "folder": "pages",
+    "full_slug": "landingsite-about-us-sustainability-sustainable-accommodation",
+    "slug": "",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "",
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "sustainable-accommodation",
+        ""
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/ueber-uns/nachhaltigkeit/nachhaltige-unterkuenfte/",
+            "title": "Interchalet | Nachhaltige Unterkünfte",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/sustainable-accommodation/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ueber-uns/",
+                            "label": "Über uns"
+                        },
+                        {
+                            "href": "/ueber-uns/nachhaltigkeit/",
+                            "label": "Love Nature – Umweltschutz geht uns alle an"
+                        },
+                        {
+                            "href": "/ueber-uns/nachhaltigkeit/nachhaltige-unterkuenfte/",
+                            "label": "Nachhaltige Unterkünfte"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Nachhaltige Unterkünfte",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eNachhaltig leben – auch während des Urlaubs\u003c/h4\u003e\u003cp\u003eInterhome Group setzt sich konsequent für nachhaltigen Ferienhaustourismus ein. Deshalb haben wir es uns zur Aufgabe gemacht, unsere rund 40.000 Ferienhäuser und Ferienwohnungen auf ihre Nachhaltigkeit hin zu überprüfen. Dafür haben wir 12 eigene Kriterien definiert, welche uns in puncto Umweltschutz und Schonung von Ressourcen besonders wichtig sind:\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cul\u003e\n\u003cli\u003e100% erneuerbarer Strom\u003c/li\u003e\n\u003cli\u003eSolarzellen oder eine Photovoltaic-Anlage\u003c/li\u003e\n\u003cli\u003e100% ökologisches Heizsystem\u003c/li\u003e\n\u003cli\u003eE-Ladestation auf dem Grundstück verfügbar\u003c/li\u003e\n\u003cli\u003eRecycling-Behälter vorhanden und Recycling-Station im Ort\u003c/li\u003e\n\u003cli\u003eMindestens 80% der Beleuchtung sind LED-Lampen\u003c/li\u003e\n\u003cli\u003eAlle Fenster sind mindestens doppelt verglast\u003c/li\u003e\n\u003cli\u003eWassersparende Toiletten\u003c/li\u003e\n\u003cli\u003eWassersparende Duschen\u003c/li\u003e\n\u003cli\u003eVerzicht auf Einweggeschirr\u003c/li\u003e\n\u003cli\u003eGrünflächen in Form von Garten oder Dachterrasse vorhanden\u003c/li\u003e\n\u003cli\u003eEntfernung zum öffentlichen Verkehr maximal 1 Kilometer\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/embedded-images/sustainability_pictos_2023_420x420.jpg/2228416-1-eng-XX/Sustainability_Pictos_2023_420x420.jpg.jpg\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"41634\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eSobald 7 unserer 12 Kriterien in einem Ferienhaus oder einer Ferienwohnung erfüllt sind, wird die Unterkunft mit einem eigenen Symbol, einem grünen Baum, gekennzeichnet. Die wichtigsten Kriterien, die Ihr nachhaltiges Ferien-Zuhause erfüllt, finden Sie jeweils bei der Beschreibung der Unterkunft.\u003c/p\u003e\u003ch4\u003eMit neuer Filterfunktion nachhaltige Ferienunterkunft finden\u003c/h4\u003e\u003cp\u003eWenn Sie Wert auf Urlaub in einem nachhaltigen Ferien-Zuhause legen oder eine Unterkunft mit E-Ladestation wünschen, können Sie bereits in den Suchkriterien auf unserer Webseite nach «\u003ca href=\"/suche/?sustainable=true\"\u003enachhaltiger Unterkunft\u003c/a\u003e» und «\u003ca href=\"/suche/?charging_station=true\"\u003eE-Ladestation\u003c/a\u003e» filtern.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eWir wünschen Ihnen schon heute einen schönen und «nachhaltigen» Aufenthalt in einer unserer Ferienwohnungen oder Ferienhäuser!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 9,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNeuigkeiten\u003c/h3\u003e\u003ch4\u003e11. September 2023\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eZehn engagierte Mitarbeiterinnen der Interhome Group aus sechs verschiedenen Ländern machten sich mit dem Zug auf den Weg nach Klagenfurt in Österreich. Ihr Ziel war es, ihr Verständnis von Biodiversität zu vertiefen und sich ehrenamtlich zu engagieren.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIm Rahmen unserer Bildungswoche zu Biodiversität und Nachhaltigkeit in Kärnten besuchten wir die Familie Hribar in den Bergen über dem Trögener Kamm. Dort lernten wir, wie man einen Permakultur-Garten anlegt. Wir bereiteten den Boden vor und legten den Grundstein für die Bepflanzung im Frühjahr 2024.\u003c/p\u003e\u003cp\u003eAm nächsten Tag wanderten wir auf den Berg, um 50 Setzlinge zu pflanzen. Wir wählten fünf verschiedene Arten aus, um einen vielfältigen und klimaresistenten Wald zu schaffen. Außerdem errichteten wir einen Zaun, um sie vor Rehen und Hirschen zu schützen. Obwohl uns das schwierige Gelände ganz schön ins Schwitzen brachte, freuten wir uns über unsere Erfolge und das baldige Wachstum der Setzlinge.\u003c/p\u003e\u003cp\u003eUnsere Zeit in Kärnten war eine inspirierende Woche der Biodiversitäts- und Nachhaltigkeitsbildung. Zehn weitere Kolleginnen werden sich uns nach dieser Reise anschließen, um die Botschaft der Nachhaltigkeit innerhalb der Interhome Gruppe zu verbreiten, in der Hoffnung, dass viele weitere folgen werden.\u003c/p\u003e\u003cp\u003eWährend der Reise hatten wir auch die Gelegenheit, unser Bienenprojekt zu besuchen. Mehr dazu lesen Sie hier: \u003ca href=\"/ueber-uns/nachhaltigkeit/beesark/\"\u003eSave the bee – save our earth! | Interchalet\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/ueber-uns/nachhaltigkeit/\"\u003e\u0026gt;\u0026gt; Erfahren Sie mehr über weitere Nachhaltigkeitsthemen der Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

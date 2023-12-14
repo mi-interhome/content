@@ -1,0 +1,159 @@
+{
+    "id": "41238",
+    "name": "",
+    "path": "www.interchalet.de/en/41238",
+    "folder": "pages",
+    "full_slug": "landingsite-topics-mountains",
+    "slug": "",
+    "locale": "en-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "",
+        "landingsite",
+        "topics",
+        "mountains",
+        ""
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/holiday-ideas/holiday-homes-mountains/",
+            "title": "Holiday homes in the mountains | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/mountains/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_urlaub_in_den_bergen_2023/2221600-1-eng-XX/Header_1200x410_IC_Urlaub_in_den_Bergen_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/holiday-homes-mountains/",
+                            "label": "Holiday homes in the mountains"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Holiday homes in the mountains",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eCraggy cliffs, tranquil mountain lakes and idyllic villages - the mountains are not only a popular destination in winter. Any time of year is perfect for enjoying the magnificent mountain panorama and recharge the batteries far away from everyday life.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eBe it in \u003ca href=\"/en/switzerland/?ski=1000\u0026season=summer\"\u003eSwitzerland\u003c/a\u003e, \u003ca href=\"/en/austria/?ski=1000\u0026season=summer\"\u003eAustria\u003c/a\u003e, \u003ca href=\"/en/france/?ski=1000\u0026season=summer\"\u003eFrance\u003c/a\u003e or \u003ca href=\"/en/germany/?ski=1000\u0026season=summer\"\u003eGermany\u003c/a\u003e: After a long hike through the mountains there is nothing better than retiring to the comfort of your holiday house or holiday apartment where you can see out the day with a glass of wine in front of the fireplace and look forward to the next mountain adventure.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eSpending time in the mountains is always a delight. Choose for example from the following options for your next active holiday.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "id": "37439",
+    "name": "",
+    "path": "www.interchalet.de/en/37439",
+    "folder": "pages",
+    "full_slug": "contentsite-myrent-imprint",
+    "slug": "",
+    "locale": "en-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "",
+        "contentsite",
+        "myrent",
+        "imprint",
+        ""
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/myrent/imprint/",
+            "title": "Interchalet - Imprint",
+            "description": "The imprint of HHD GmbH (Interchalet) based in Freiburg, Germany contains important legal information. ",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/myrent/imprint/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/myrent/",
+                            "label": "Myrent legal pages"
+                        },
+                        {
+                            "href": "/en/myrent/imprint/",
+                            "label": "Imprint"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Imprint",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eHHD AG\u003c/strong\u003e\u003cbr\u003eSägereistrasse 27\u003cbr\u003eCH-8152 Glattbrugg\u003c/p\u003e\u003cp\u003eTelephone: + 49 (0)761 - 2100 77\u003cbr\u003eE-mail: \u003ca href=\"mailto:info@interchalet.com\"\u003einfo@interchalet.com\u003c/a\u003e\u003cbr\u003eInternet: \u003ca href=\"http://www.interchalet.co.uk\"\u003ewww.interchalet.co.uk\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eManaging director:\u003c/strong\u003e Jörg Herrmann\u003cbr\u003e\u003cstrong\u003eCommercial Register:\u003c/strong\u003e CHE-105.847.636\u003cbr\u003e\u003cstrong\u003eTax number:\u003c/strong\u003e CHE-105.847.636\u003c/p\u003e\u003cp\u003eHHD GmbH, based in Freiburg / Germany, provides services for HHD AG (Glattbrugg / Switzerland). HHD AG (Glattbrugg / Switzerland) is the contracting partner for vacation rentals.\u003c/p\u003e\u003ch3\u003eInformation on how to contact the data protection officer:\u003c/h3\u003e\u003cp\u003eOur data protection officer is the lawyer Professor Clemens Pustejovsky.\u003cbr\u003e\u003ca href=\"mailto:DSB@interchalet.com\"\u003eDSB@interchalet.com\u003c/a\u003e or \u003ca href=\"mailto:DPO@interchalet.com\"\u003eDPO@interchalet.com\u003c/a\u003e\u003cbr\u003eWallstr. 6, D-79098 Freiburg, Germany, Tel. -49 (0)761/2168680\u003c/p\u003e\u003cp\u003eInformation on \u003ca href=\"/en/important-notes/data-protection/\"\u003edata protection\u003c/a\u003e and \u003ca href=\"/en/important-notes/terms-of-use/\"\u003eterms of use\u003c/a\u003e.\u003c/p\u003e\u003cp\u003ePlatform of the EU Commission regarding online dispute resolution: \u003ca href=\"https://ec.europa.eu/consumers/odr\" target=\"_blank\"\u003ehttps://ec.europa.eu/consumers/odr\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eComments and suggestions to the Internet representative\u003c/h3\u003e\u003cp\u003eDear customer,\u003cbr\u003eIf you have  any questions on how to use our website, please do not hesitate to contact me. Should you have any \u003cstrong\u003etechnical problems\u003c/strong\u003e, I would be glad to hear from you. We need your help in order to rectify these problems. Please let us know which \u003cstrong\u003ebrowser \u003c/strong\u003e(e.g. Internet Explorer 8 or Mozilla Firefox) you use, which \u003cstrong\u003eoperating system\u003c/strong\u003e (e.g. Windows 7) you work with and which \u003cstrong\u003eprovider \u003c/strong\u003e(e.g. Tiscali, AOL etc.) you used to view our webpages.\u003c/p\u003e\u003cp\u003eThank you for your assistance.\u003c/p\u003e\u003cp\u003eDr Bernd Müller\u003cbr\u003eEmail: \u003ca href=\"mailto:webmaster@interchalet.com\"\u003ewebmaster@interchalet.com\u003c/a\u003e\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eAll used pictures and graphics are protected by copyright and may only be copied and reused with the permission of the respective author!\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eMedia sources used:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eShutterstock\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIn detail:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e© stefan sio - Fotolia.com\u003cbr\u003e© lucianofochi - Fotolia.com\u003cbr\u003e© VRD - Fotolia.com\u003cbr\u003e© Style-Photography - Fotolia.com\u003cbr\u003e© stockWERK - Fotolia.com\u003cbr\u003e© John Smith - Fotolia.com\u003cbr\u003e© drubig-photo - Fotolia.com\u003cbr\u003e© Lukas Gojda - Fotolia.com\u003cbr\u003e© JFL Photography - Fotolia.com\u003cbr\u003e© contrastwerkstatt - Fotolia.com\u003cbr\u003e© WavebreakmediaMicro - Fotolia.com\u003cbr\u003e© cromary - Fotolia.com\u003cbr\u003e© Manuel Schönfeld - Fotolia.com\u003cbr\u003e© lovemask - Fotolia.com\u003cbr\u003e© Syda Productions - Fotolia.com\u003cbr\u003e© C. Auburtin - Fotolia.com\u003cbr\u003e© sborisov - Fotolia.com\u003cbr\u003e© crin - Fotolia.com\u003cbr\u003e© Coloures-pic - Fotolia.com\u003cbr\u003e© spiritofamerica - Fotolia.com\u003cbr\u003e© EyeMark - Fotolia.com\u003cbr\u003e© kmiragaya - Fotolia.com\u003cbr\u003e© babelsberger - Fotolia.com\u003cbr\u003e© FloridaStock - Fotolia.com\u003cbr\u003e© rcaucino - Fotolia.com\u003cbr\u003e© Buffy1982 - Fotolia.com\u003cbr\u003e© Fabio Lotti - Fotolia.com\u003cbr\u003e© vli86 - Fotolia.com\u003cbr\u003e© Floydine – Fotolia.com\u003cbr\u003e© alexandre zveiger – Fotolia.com\u003cbr\u003e© harvepino – Fotolia.com\u003cbr\u003e© siempreverde22 - Fotolia.com\u003cbr\u003e© HuHu Lin - Fotolia.com\u003cbr\u003e© Andreas P - Fotolia.com\u003cbr\u003e© Stefan Körber - Fotolia.com\u003cbr\u003e© Jens Klingebiel - Fotolia.com\u003cbr\u003e© Dreef - Fotolia.com\u003cbr\u003e© izzog - Fotolia.com\u003cbr\u003e© Galyna Andrushko - Fotolia.com\u003cbr\u003e© Lamarinx - Fotolia.com\u003cbr\u003e© francescodemarco - Fotolia.com\u003cbr\u003e© A.Jedynak - Fotolia.com\u003cbr\u003e© HappyAlex - Fotolia.com\u003cbr\u003e© by-studio - Fotolia.com\u003cbr\u003e© by paul - Fotolia.com\u003cbr\u003e© Jenny Sturm - Fotolia.com\u003cbr\u003e© Katja Xenikis - Fotolia.com\u003cbr\u003e© kirill_makarov - Fotolia.com\u003cbr\u003e© momius - Fotolia.com\u003cbr\u003e© vetkit - Fotolia.com\u003cbr\u003e© rolf_52 - Fotolia.com\u003cbr\u003e© a2l - Fotolia.com\u003cbr\u003e© Pixeltheater - Fotolia.com\u003cbr\u003e© autofocus67 - Fotolia.com\u003cbr\u003e© Sunny studio - Fotolia.com\u003cbr\u003e© TTstudio - Fotolia.com\u003cbr\u003e© Silvano Rebai - Fotolia.com\u003cbr\u003e© goodluz - Fotolia.com\u003cbr\u003e© Thaut Images - Fotolia.com\u003cbr\u003e© Irina Schmidt - Fotolia.com\u003cbr\u003e© Oleg Znamenskiy - Fotolia.com\u003cbr\u003e© Marco Saracco - Fotolia.com\u003cbr\u003e© Gina Sanders - Fotolia.com\u003cbr\u003e© GiZGRAPHICS - Fotolia.com\u003cbr\u003e© Carmen Steiner - Fotolia.com\u003cbr\u003e© Netzer Johannes - Fotolia.com\u003cbr\u003e© Delphotostock - Fotolia.com\u003cbr\u003e© Tanja - Fotolia.com\u003cbr\u003e© Carsten Kykal - Fotolia.com\u003cbr\u003e© Nejron Photo - Fotolia.com\u003cbr\u003e© Patryk Kosmider - Fotolia.com\u003cbr\u003e© Dmitrijs Dmitrijevs - Fotolia.com\u003cbr\u003e© Gorilla - Fotolia.com\u003cbr\u003e© mysweetbear - Fotolia.com\u003cbr\u003e© yanlev - Fotolia.com\u003cbr\u003e© mparratt - Fotolia.com\u003cbr\u003e© MK-Photo - Fotolia.com\u003cbr\u003e© SOMATUSCANI - Fotolia.com\u003cbr\u003e© tomispin - Fotolia.com\u003cbr\u003e© herraez - Fotolia.com\u003cbr\u003e© Markus Mainka - Fotolia.com\u003cbr\u003e© S.H.exclusiv - Fotolia.com\u003cbr\u003e© drubig-photo - Fotolia.com\u003cbr\u003e© lily - Fotolia.com\u003cbr\u003e© Jan Engel - Fotolia.com\u003cbr\u003e© sablin - Fotolia.com\u003cbr\u003e© vouvraysan - Fotolia.com\u003cbr\u003e© Gina Sanders - Fotolia.com\u003cbr\u003e© Tobias Arhelger - Fotolia.com\u003cbr\u003e© Jean Kobben - Fotolia.com\u003cbr\u003e© Jules_Kitano - Fotolia.com\u003cbr\u003e© lodos - Fotolia.com\u003cbr\u003e© Britta Laser - Fotolia.com\u003cbr\u003e© M. Schuppich - Fotolia.com\u003cbr\u003e© bettina sampl - Fotolia.com\u003cbr\u003e© Tom Bayer - Fotolia.com\u003cbr\u003e© Xaver Klaussner - Fotolia.com\u003cbr\u003e© ChristArt - Fotolia.com\u003cbr\u003e© luciano mortula - Fotolia.com\u003cbr\u003e© Frank - Fotolia.com\u003cbr\u003e© Mario Savoia - Fotolia.com\u003cbr\u003e© bonline - Fotolia.com\u003cbr\u003e© LianeM - Fotolia.com\u003cbr\u003e© Jeanne Provost - Fotolia.com\u003cbr\u003e© Nailia Schwarz - Fotolia.com\u003cbr\u003e© Teemu Tretjakov - Fotolia.com\u003cbr\u003e© pitrs - Fotolia.com\u003cbr\u003e© stevanzz - Fotolia.com\u003cbr\u003e© maurosessanta - Fotolia.com\u003cbr\u003e© ronnybas - Fotolia.com\u003cbr\u003e© travelpeter - Fotolia.com\u003cbr\u003e© LianeM - Fotolia.com\u003cbr\u003e© pictarena - Fotolia.com\u003cbr\u003e© iPics - Fotolia.com\u003cbr\u003e© Felix Horstmann - Fotolia.com\u003cbr\u003e© Mario Webhofer - Fotolia.com\u003cbr\u003e© momesso - Fotolia.com\u003cbr\u003e© Herby ( Herbert ) Me - Fotolia.com\u003cbr\u003e© sledge74 - Fotolia.com\u003cbr\u003e© Konstanze Gruber - Fotolia.com\u003cbr\u003e© Rossi - Fotolia.com\u003cbr\u003e© Georgsteph - Fotolia.com\u003cbr\u003e© anshar73 - Fotolia.com\u003cbr\u003e© Steeve ROCHE - Fotolia.com\u003cbr\u003e© pics - Fotolia.com\u003cbr\u003e© LianeM - Fotolia.com\u003cbr\u003e© Michael Fritzen - Fotolia.com\u003cbr\u003e© mma23 - Fotolia.com\u003cbr\u003e© Dmitry Naumov - Fotolia.com\u003cbr\u003e© blende64 - Fotolia.com\u003cbr\u003e© Marco Scisetti - Fotolia.com\u003cbr\u003e© Patrizia Tilly - Fotolia.com\u003cbr\u003e© Patrizia Tilly - Fotolia.com\u003cbr\u003e© lettas - Fotolia.com\u003cbr\u003e© Ralf Kabelitz - Fotolia.com\u003cbr\u003e© M.Bacher - Fotolia.com\u003cbr\u003e© Antaria - Fotolia.com\u003cbr\u003e© Jan Schuler - Fotolia.com\u003cbr\u003e© Chief Mendez - Fotolia.com\u003cbr\u003e© Torsten Krüger - Fotolia.com\u003cbr\u003e© lavizzara - Fotolia.com\u003cbr\u003e© Ars Ulrikusch - Fotolia.com\u003cbr\u003e© kamilpetran - Fotolia.com\u003cbr\u003e© eugen_z - Fotolia.com\u003cbr\u003e© bietau - Fotolia.com\u003cbr\u003e© Rossi - Fotolia.com\u003cbr\u003e© Pedro Quelhas - Fotolia.com\u003cbr\u003e© Steffen Eichner - Fotolia.com\u003cbr\u003e© maranso - Fotolia.com\u003cbr\u003e© BildPix.de - Fotolia.com\u003cbr\u003e© Philipp Bear - Fotolia.com\u003cbr\u003e© ArtHdesign - Fotolia.com\u003cbr\u003e© ARochau - Fotolia.com\u003cbr\u003e© GHotz - Fotolia.com\u003cbr\u003e© Jérôme SALORT - Fotolia.com\u003cbr\u003e© olivier harand  - Fotolia.com\u003cbr\u003e© kebox - Fotolia.com\u003cbr\u003e© iofoto - Fotolia.com\u003cbr\u003e© Eric Gavaert - Fotolia.com\u003cbr\u003e© Johnny Lye - Fotolia.com\u003cbr\u003e© Falko Matte - Fotolia.com\u003cbr\u003e© Ewald Fröch - Fotolia.com\u003cbr\u003e© freezing_time - Fotolia.com\u003cbr\u003e© Teri Wiss - Fotolia.com\u003cbr\u003e© Child of nature - Fotolia.com\u003cbr\u003e© Martin Mullen - Fotolia.com\u003cbr\u003e© philippe Devanne - Fotolia.com\u003cbr\u003e© Franz Pfluegl - Fotolia.com\u003cbr\u003e© Yvonne Bogdanski - Fotolia.com\u003cbr\u003e© SyB - Fotolia.com\u003cbr\u003e© ArtmannWitte - Fotolia.com\u003cbr\u003e© Udo Kroener - Fotolia.com\u003cbr\u003e© Christoph Hähnel - Fotolia.com\u003cbr\u003e© H.Brauer - Fotolia.com\u003cbr\u003e© PIXMatex - Fotolia.com\u003cbr\u003e© Michele Campini - Fotolia.com\u003cbr\u003e© celest clochard - Fotolia.com\u003cbr\u003e© Belle-Isle - Fotolia.com\u003cbr\u003e© Thomas Maiwald - Fotolia.com\u003cbr\u003e© jean-michel baud - Fotolia.com\u003cbr\u003e© Claus Mikosch - Fotolia.com\u003cbr\u003e© Basil123 - Fotolia.com\u003cbr\u003e© Peter Walenzyk - Fotolia.com\u003cbr\u003e© C.Bimminger - Fotolia.com\u003cbr\u003e© Christian Behling - Fotolia.com\u003cbr\u003e© Aurélien Antoine - Fotolia.com\u003cbr\u003e© Andreas Haertle - Fotolia.com\u003cbr\u003e© Lulu Berlu - Fotolia.com\u003cbr\u003e© foto.fritz - Fotolia.com\u003cbr\u003e© mweber67 - Fotolia.com\u003cbr\u003e© Bedridin Avdyli - Fotolia.com\u003cbr\u003e© Cool Graphics - Fotolia.com\u003cbr\u003e© carson - Fotolia.com\u003cbr\u003e© Rémy MASSEGLIA - Fotolia.com\u003cbr\u003e© Sven Bähren - Fotolia.com\u003cbr\u003e© Friedrich-W. Gärtner - Fotolia.com\u003cbr\u003e© Image Source - Fotolia.com\u003cbr\u003e© Norman Pogson - Fotolia.com\u003cbr\u003e© tomtitom - Fotolia.com\u003cbr\u003e© PCmi - Fotolia.com\u003cbr\u003e© Monkey Business - Fotolia.com\u003cbr\u003e© einstein - Fotolia.com\u003cbr\u003e© Martin Valigursky - Fotolia.com\u003cbr\u003e© sonya etchison - Fotolia.com\u003cbr\u003e© Gabriela - Fotolia.com\u003cbr\u003e© Stéphane SYN - Fotolia.com\u003cbr\u003e© imaro - Fotolia.com\u003cbr\u003e© tstockphoto - Fotolia.com\u003cbr\u003e© Jose Ignacio Soto - Fotolia.com\u003cbr\u003e© neno - Fotolia.com\u003cbr\u003e© Christian Wheatley - Fotolia.com\u003cbr\u003e© Gild - Fotolia.com\u003cbr\u003e© EvG - Fotolia.com\u003cbr\u003e© ant236 - Fotolia.com\u003cbr\u003e© Julia Britvich - Fotolia.com\u003cbr\u003e© flucas - Fotolia.com\u003cbr\u003e© Maksym Gorpenyuk - Fotolia.com\u003cbr\u003e© Andrey Kiselev - Fotolia.com\u003cbr\u003e© Elenathewise - Fotolia.com\u003cbr\u003e© Anthony Leopold - Fotolia.com\u003cbr\u003e© DS-Visionen - Fotolia.com\u003cbr\u003e© Friedberg - Fotolia.com\u003cbr\u003e© Digitalpress - Fotolia.com\u003cbr\u003e© slop - Fotolia.com\u003cbr\u003e© Svenni - Fotolia.com\u003cbr\u003e© Mammut Vision - Fotolia.com\u003cbr\u003e© Monia - Fotolia.com\u003cbr\u003e© pressmaster - Fotolia.com\u003cbr\u003e© Kurhan - Fotolia.com\u003cbr\u003e© Sergey Nivens - Fotolia.com\u003cbr\u003e© BlueOrange Studio - Fotolia.com\u003cbr\u003e© Yarek Gora - Fotolia.com\u003cbr\u003e© Alexandr Timofeev - Fotolia.com\u003cbr\u003e© Julien Rousset - Fotolia.com\u003cbr\u003e© AlcelVision - Fotolia.com\u003cbr\u003e© grafikplusfoto - Fotolia.com\u003cbr\u003e© djdarkflower - Fotolia.com\u003cbr\u003e© PictureP. - Fotolia.com\u003cbr\u003e© Christophe Schmid - Fotolia.com\u003cbr\u003e© Huefbert - Fotolia.com\u003cbr\u003e© Tilio \u0026amp; Paolo - Fotolia.com\u003cbr\u003e© Peter Atkins - Fotolia.com\u003cbr\u003e© Henry Czauderna - Fotolia.com\u003cbr\u003e© benik.at - Fotolia.com\u003cbr\u003e© krimar- Fotolia.com\u003cbr\u003e© mipan - Fotolia.com\u003cbr\u003e© Robert Kneschke - Fotolia.com\u003cbr\u003e© askaja - Fotolia.com\u003cbr\u003e© Peter Kirillov - Fotolia.com\u003cbr\u003e© guukaa - Fotolia.com\u003cbr\u003e© Pavel Losevsky - Fotolia.com\u003cbr\u003e© Karen Roach - Fotolia.com\u003cbr\u003e© kikkerdirk - Fotolia.com\u003cbr\u003e© industrieblick - Fotolia.com\u003cbr\u003e© Avanne Troar - Fotolia.com\u003cbr\u003e© benik.at - Fotolia.com\u003cbr\u003e© EF-EL - Fotolia.com\u003cbr\u003e© senoldo - Fotolia.com\u003cbr\u003e© Stefan Körber - Fotolia.com\u003cbr\u003e© Marta - Fotolia.com\u003cbr\u003e© Luciano Mortula-LGM - Fotolia.com\u003cbr\u003e© PAO joke - Fotolia.com\u003cbr\u003e© hartphotography - Fotolia.com\u003cbr\u003e© vencav - Fotolia.com\u003cbr\u003e© Thierry GUIMBERT - Fotolia.com\u003cbr\u003e© neirfy - Fotolia.com\u003cbr\u003e© xiongxunqiang - Fotolia.com\u003cbr\u003e© Chad McDermott - Fotolia.com\u003cbr\u003e© asteri - Fotolia.com\u003cbr\u003e© Philippe LERIDON - Fotolia.com\u003cbr\u003e© bouleguenni - Fotolia.com\u003cbr\u003e© Ulrich Müller - Fotolia.com\u003cbr\u003e© Ant Clausen- Fotolia.com\u003cbr\u003e© PANORAMO - Fotolia.com\u003cbr\u003e© Claudia Paulussen - Fotolia.com\u003cbr\u003e© Ben Burger - Fotolia.com\u003cbr\u003e© Klaus Rose - Fotolia.com\u003cbr\u003e© Grischa Georgiew - Fotolia.com\u003cbr\u003e© Alban Egger - Fotolia.com\u003cbr\u003e© chaoss - Fotolia.com\u003cbr\u003e© FUJI - Fotolia.com\u003cbr\u003e© Alaska-Tom - Fotolia.com\u003cbr\u003e© Sandra Cunningham - Fotolia.com\u003cbr\u003e© Brocreative - Fotolia.com\u003cbr\u003e© detailblick-foto - Fotolia.com\u003cbr\u003e© swisshippo - Fotolia.com\u003cbr\u003e© Kenike Mana'o - Fotolia.com\u003cbr\u003e© Jürgen Fälchle - Fotolia.com\u003cbr\u003e© Horváth Botond - Fotolia.com\u003cbr\u003e© MarcelS - Fotolia.com\u003cbr\u003e© Günter Menzl - Fotolia.com\u003cbr\u003e© Marco2811 - Fotolia.com\u003cbr\u003e© jamdesign - Fotolia.com\u003cbr\u003e© lichtmeister - Fotolia.com\u003cbr\u003e© Fabrizio Sana - Fotolia.com\u003cbr\u003e© Romolo Tavani - Fotolia.com\u003cbr\u003e© claer - Fotolia.com\u003cbr\u003e© Mellimage - Fotolia.com\u003cbr\u003e© moonrun - Fotolia.com\u003cbr\u003e© Franjo - Fotolia.com\u003cbr\u003e© mmphotographie.de - Fotolia.com\u003cbr\u003e© Tobboo - Fotolia.com\u003cbr\u003e© lassedesignen - Fotolia.com\u003cbr\u003e© Wilm Ihlenfeld - Fotolia.com\u003cbr\u003e© Hans-Jörg Nisch - Fotolia.com\u003cbr\u003e© rob3000 - Fotolia.com\u003cbr\u003e© fotos4u - Fotolia.com\u003cbr\u003e© Taras Livyy - Fotolia.com\u003cbr\u003e© M.studio - Fotolia.com\u003cbr\u003e© M.Bacher - Fotolia.com\u003cbr\u003e© noesigfoto - Fotolia.com\u003cbr\u003e© kilhan - Fotolia.com\u003cbr\u003e© Westend61 - Fotolia.com\u003cbr\u003e© gevisions - Fotolia.com\u003cbr\u003e© Barbara-Maria Damrau - Fotolia.com\u003cbr\u003e© Kavita - Fotolia.com\u003cbr\u003e© Alexi Tauzin - Fotolia.com\u003cbr\u003e© Taiga - Fotolia.com\u003cbr\u003e© Visions-AD - Fotolia.com\u003cbr\u003e© Stefan Demetz - Fotolia.com\u003cbr\u003e© anrymos - Fotolia.com\u003cbr\u003e© machiavel007 - Fotolia.com\u003cbr\u003e© Marina Karkalicheva - Fotolia.com\u003cbr\u003e© ipq7 - Fotolia.com\u003cbr\u003e© Andrea Vonblon - Fotolia.com\u003cbr\u003e© Nikolai Korzhov - Fotolia.com\u003cbr\u003e© Jürgen Zellmann - Fotolia.com\u003cbr\u003e© Rico Döffinger - Fotolia.com\u003cbr\u003e© Adam Smith - Fotolia.com\u003cbr\u003e© savoieleysse - Fotolia.com\u003cbr\u003e© tinzabo - Fotolia.com\u003cbr\u003e© mRGB - Fotolia.com\u003cbr\u003e© topshots - Fotolia.com\u003cbr\u003e© haveseen - Fotolia.com\u003cbr\u003e© pics - Fotolia.com\u003cbr\u003e© laux6 - Fotolia.com\u003cbr\u003e© Patrick Poendl - Fotolia.com\u003cbr\u003e© AndiPu - Fotolia.com\u003cbr\u003e© frenk58 - Fotolia.com\u003cbr\u003e© Felix - Fotolia.com\u003cbr\u003e© Heidi Schmieder - Fotolia.com\u003cbr\u003e© lulu - Fotolia.com\u003cbr\u003e© phoenixpix - Fotolia.com\u003cbr\u003e© Hendrik Schwartz - Fotolia.com\u003cbr\u003e© Dominic Steinmann - Fotolia.com\u003cbr\u003e© pipil7385 - Fotolia.com\u003cbr\u003e© wave - Fotolia.com\u003cbr\u003e© ericd78 - Fotolia.com\u003cbr\u003e© lisalucia - Fotolia.com\u003cbr\u003e© lamio - Fotolia.com\u003cbr\u003e© Nikolai Sorokin - Fotolia.com\u003cbr\u003e© JEANNE - Fotolia.com\u003cbr\u003e© Stockwerk-Fotodesign - Fotolia.com\u003cbr\u003e© lunamaria - Fotolia.com\u003cbr\u003e© nuzza11 - Fotolia.com\u003cbr\u003e© Freesurf - Fotolia.com\u003cbr\u003e© monropic - Fotolia.com\u003cbr\u003e© Allan - Fotolia.com\u003cbr\u003e© Sergey Novikov - Fotolia.com\u003cbr\u003e© kab-vision - Fotolia.com\u003cbr\u003e© stokkete - Fotolia.com\u003cbr\u003e© exclusive-design - Fotolia.com\u003cbr\u003e© Bernhard Jaeger - Fotolia.com\u003cbr\u003e© Balate Dorin - Fotolia.com\u003cbr\u003e© Zerbor - Fotolia.com\u003cbr\u003e© REDPIXEL - Fotolia.com\u003cbr\u003e© Bojan - Fotolia.com\u003cbr\u003e© pixelkorn - Fotolia.com\u003cbr\u003e© VeeRazma - Fotolia.com\u003cbr\u003e© fotomaster - Fotolia.com\u003cbr\u003e© fotogestoeber - Fotolia.com\u003cbr\u003e© MH - Fotolia.com\u003cbr\u003e© bluedesign - Fotolia.com\u003cbr\u003e© fotomek - Fotolia.com\u003cbr\u003e© imfotograf - Fotolia.com\u003cbr\u003e© raland - Fotolia.com\u003cbr\u003e© wsf-f - Fotolia.com\u003cbr\u003e© Gajus - Fotolia.com\u003cbr\u003e© BillionPhotos.com - Fotolia.com\u003cbr\u003e© VadimGuzhva - Fotolia.com\u003cbr\u003e© Ivan Kurmyshov - Fotolia.com\u003cbr\u003e© Sikov - Fotolia.com\u003cbr\u003e© Karin \u0026amp; Uwe Annas - Fotolia.com\u003cbr\u003e© frenta - Fotolia.com\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

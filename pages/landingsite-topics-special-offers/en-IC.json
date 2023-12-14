@@ -1,0 +1,160 @@
+{
+    "id": "28840",
+    "name": "",
+    "path": "www.interchalet.de/en/28840",
+    "folder": "pages",
+    "full_slug": "landingsite-topics-special-offers",
+    "slug": "",
+    "locale": "en-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "",
+        "landingsite",
+        "topics",
+        "special-offers",
+        ""
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/holiday-ideas/special-offers/",
+            "title": "Special offers holiday homes holiday cottages | Interchalet",
+            "description": "Special offers for holiday homes and holiday cottages: Rent a holiday cottage or holiday home – unbeatable prices!",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/special-offers/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienhaus Sonderangebote Ferienwohnungen",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/hero-1200x410-sonderangebote-ferienhaus.jpg/1638261-3-eng-XX/Hero-1200x410-sonderangebote-ferienhaus.jpg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/special-offers/",
+                            "label": "Special offers - holiday homes and cottages"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Special offers - holiday homes and cottages",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\u003cstrong\u003eSpecial offers for bargain hunters!\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eYou will find exciting holiday offers here, holiday homes and flats often reduced by up to 25%!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Our Recommendations:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

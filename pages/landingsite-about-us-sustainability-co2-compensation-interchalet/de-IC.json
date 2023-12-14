@@ -1,0 +1,178 @@
+{
+    "id": "39872",
+    "name": "",
+    "path": "www.interchalet.de/de/39872",
+    "folder": "pages",
+    "full_slug": "landingsite-about-us-sustainability-co2-compensation-interchalet",
+    "slug": "",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "",
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "co2-compensation Interchalet",
+        ""
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/ueber-uns/nachhaltigkeit/co2-kompensation/",
+            "title": "CO2-Kompensation mit Interhome Group",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/co2-compensation Interchalet/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_moor_ch_2023/2276607-1-eng-XX/Header_1200x410_IC_Moor_CH_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ueber-uns/",
+                            "label": "Über uns"
+                        },
+                        {
+                            "href": "/ueber-uns/nachhaltigkeit/",
+                            "label": "Love Nature – Umweltschutz geht uns alle an"
+                        },
+                        {
+                            "href": "/ueber-uns/nachhaltigkeit/co2-kompensation/",
+                            "label": "Renaturierung Hochmoor La Gruère (Schweiz)"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Renaturierung Hochmoor La Gruère (Schweiz)",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group bietet allen Gästen die Möglichkeit, einen freiwilligen Klimaschutzbeitrag zu leisten. Ihr freiwilliger Klimaschutzbeitrag fliesst in das Projekt «Hochmoor-Renaturierung im Naturschutzgebiet la Gruère».\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch4\u003eUnser Partner\u003c/h4\u003e\u003cp\u003eFür dieses Projekt arbeiten wir mit unserem Partner myclimate zusammen. Mit Projekten höchster Qualität treibt die Schweizer Stiftung weltweit messbaren Klimaschutz und eine nachhaltige Entwicklung voran.\u003c/p\u003e\u003ch4\u003eUnser Projekt\u003c/h4\u003e\u003cp\u003eDas Projekt «Hochmoor-Renaturierung im Naturschutzgebiet «La Gruère» trägt zur Renaturierung eines einzigartigen Hochmoores im Jura bei. Es reduziert Treibhausgasemissionen, fördert die Biovidersität, verbessert den Wasserhaushalt und unterstützt die lokale Bauwirtschaft.\u003c/p\u003e\u003cp\u003eLa Gruère ist ein Hochmoor von nationaler Bedeutung. Das Klimaschutzprojekt dient als finanzieller Rettungsanker und spielt eine zentrale Rolle in der umfassenden Renaturierungsinitiative. Das ehrgeizige Renaturierungsprojekt mit einer Fläche von 55 Hektaren und Torfschichten von bis zu 9 Metern Tiefe wird in mehreren Etappen umgesetzt. Die erste Etappe wurde 2018 abgeschlossen, weitere Etappen sind zwischen 2024 und 2028 geplant.\u003c/p\u003e\u003cp\u003eDie Bedeutung der Hochmoore für den Bodenkohlenstoffhaushalt ist enorm - obwohl sie nur drei Prozent der Landfläche ausmachen, speichern sie weltweit 30 Prozent des Bodenkohlenstoffs. Die Renaturierung hat positive Auswirkungen auf den Hochwasserschutz, die Wasserqualität, das Mikroklima und die Landschaftsgestaltung und bietet der Bevölkerung Erholungsmöglichkeiten. Zusätzlich bieten Hochmoore Lebensraum für seltene oder bedrohte Tier- und Pflanzenarten.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eDie Wiedervernässung von entwässerten Mooren ist entscheidend, um das Gelangen von CO2-Emissionen in die Atmosphäre zu stoppen. Um die CO2 Einsparungen durch Renaturierungsprojekte abzuschätzen wird der Berechnungsstandard \u003ca href=\"https://www.wsl.ch/de/projekte/klimaschutz-durch-hochmoorschutz-1/\" target=\"_blank\"\u003emax.moor\u003c/a\u003e verwendet.\u003c/p\u003e\u003cp\u003eObwohl der Schutz der Hochmoore in der Schweizer Verfassung verankert ist, ist die Finanzierung von Renaturierungen oft schwierig. Ein Klimaschutzbeitrag bietet eine Lösung zur Unterstützung von Renaturierungsprojekten und zum Schutz der Umwelt. Sie leisten mit Ihrem Klimaschutzbeitrag einen wichtigen Anteil.\u003c/p\u003e\u003cp\u003eWeitere Informationen zum Projekt finden Sie hier: \u003ca href=\"https://www.myclimate.org/de-de/aktiv-werden/klimaschutzprojekte/detail-klimaschutzprojekte/landnutzung-schweiz-7823-004/\" target=\"_blank\"\u003eHochmoor-Renaturierung im Naturschutzgebiet La Gruère (myclimate.org)\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"0\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41648/2276639-1-eng-XX/myclimate-7823-004-moor-Schweiz-La_Gruere_BildWiedervernaessung-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42686\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41649/2276644-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42687\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41650/2276649-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_2_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42688\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/ueber-uns/nachhaltigkeit/\"\u003e\u0026gt;\u0026gt; Erfahren Sie mehr über weitere Nachhaltigkeitsthemen der Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
