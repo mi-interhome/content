@@ -1,0 +1,182 @@
+{
+    "id": "42165",
+    "name": "easter-holiday",
+    "path": "pages/landingsite/topics/easter-holiday/en-IC.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/easter-holiday",
+    "slug": "easter-holiday",
+    "locale": "en-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "easter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/en/holiday-ideas/easter-holiday/",
+            "title": "Spend your Easter break in a holiday home",
+            "description": "Spend an unforgettable Easter break in a cosy Interchalet holiday apartment or in a spacious villa with room for the whole family.",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/easter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/teaser-images-header,-hero-images/header_1200x410_ic_easter_holidays/2242329-1-eng-XX/Header_1200x410_IC_Easter_Holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/",
+                            "label": "Holiday Ideas"
+                        },
+                        {
+                            "href": "/en/holiday-ideas/easter-holiday/",
+                            "label": "Book a holiday apartment for Easter"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Book a holiday apartment for Easter",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eEnjoy some relaxation time at Easter\u003c/h3\u003e\u003cp\u003eWhether it's only a few days or an extended holiday over Easter - enjoy Easter and the arrival of Spring in your own holiday house. Colourful fields of flowers, the warming rays of spring sunshine and a cosy, good value holiday apartment or a spacious holiday house for the whole family - what more do you need for proper relaxation?\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"#destinations\"\u003eLots of attractive destinations\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003eSpend your family holiday in self-catering accommodation\u003c/h3\u003e\u003cp\u003eDo you prefer a long walk through stunning mountain scenery or is winter when you start looking forward to your next holiday by the sea? Would you like to surprise your partner with a romantic stay in a holiday apartment? Or is Easter when you are looking to have an adventure-filled family holiday in a spacious villa or cottage? Irrespective of where you’d most like to spend your Easter holiday and the people you’d like to spend it with, you’ll find the right accommodation at excellent rates with Interchalet.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Filter our wide range according to your requirements:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eWhy not book an idyllic holiday apartment with sea views, a cosy cabin in the mountains or a holiday villa with lots of bedrooms and enough space for the extended family for your Easter break? You’ll find the right accommodation to meet all your needs with Interchalet.\u003c/p\u003e\u003cp\u003e\u003ca id=\"destinations\"\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Heading",
+                "content": {
+                    "title": "Lots of attractive destinations",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\u003cstrong\u003eEaster in Germany\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eHave you thought about spending the Easter holidays in Germany for a change? It’s a great idea as you’ll discover breathtaking landscapes and vibrant cities there. Be amazed by the blooming spring landscapes, have a refreshing swim in the North Sea or enjoy a challenging hike in the Black Forest. Regardless of the type of holiday you have in mind, you’re sure to find an idyllic location in this diverse country... And with Interchalet you’ll find the right holiday apartment for your needst. And those who prefer a bit more space can book an entire holiday house for the Easter holidays in Germany - that way you can make it really cosy.\u003cbr\u003e\u003ca href=\"/en/germany/\"\u003eGermany\u003c/a\u003e\u003ca href=\"/en/italy/\"\u003e | \u003c/a\u003e\u003ca href=\"/en/germany/north-sea/\"\u003eNorth Sea\u003c/a\u003e\u003ca href=\"/en/italy/\"\u003e | \u003c/a\u003e\u003ca href=\"/en/germany/black-forest/\"\u003eBlack Forest\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eEaster in Holland\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eSpend Easter in Holland and enjoy the colourful streets of Amsterdam. Or relax in a holiday apartment by the North Sea. Be it Noord-Holland or Zuid-Holland: a trip to the Netherlands is always worthwhile. \u003cbr\u003e\u003ca href=\"/en/netherlands/\"\u003eHolland\u003c/a\u003e\u003ca href=\"/en/italy/\"\u003e | \u003c/a\u003e\u003ca href=\"/en/netherlands/noord-holland/\"\u003eAmsterdam\u003c/a\u003e\u003ca href=\"/en/italy/\"\u003e | \u003c/a\u003e\u003ca href=\"/en/netherlands/noord-holland/\"\u003eNoord-Holland\u003c/a\u003e\u003ca href=\"/en/italy/\"\u003e | \u003c/a\u003e\u003ca href=\"/en/netherlands/zuid-holland/\"\u003eZuid-Holland\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eEaster in Italy\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eBe it Lake Garda, Tuscany or Venice: the unique culture, historical buildings and excellent food are just some of the reasons to be impressed by Italy. The perfect mix of relaxation and adventure!\u003cbr\u003e\u003ca href=\"/en/italy/\"\u003eItaly\u003c/a\u003e | \u003ca href=\"/en/italy/lake-garda/\"\u003eLake Garda\u003c/a\u003e | \u003ca href=\"/en/italy/veneto/\"\u003eAdria/Veneto\u003c/a\u003e | \u003ca href=\"/en/italy/tuscany/\"\u003eTuscany\u003c/a\u003e | \u003ca href=\"/en/italy/veneto/venice/\"\u003eVenice\u003c/a\u003e | \u003ca href=\"/en/italy/firenze-citta-and-surroundings/florence/\"\u003eFlorence\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eAn Easter break to France\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eThose who prefer to hunt for their Easter eggs in France can spend their Easter holiday on the picturesque Côte d'Azur. Those not wanting to travel that far can enjoy Brittany in the west of France and dive into the Atlantic for a refreshing spring swim. \u003cbr\u003e\u003ca href=\"/en/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/en/france/cote-d-azur/beach-sea/\"\u003eCôte d'Azur\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eEaster holidays in Austria: hiking and wellness\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eThe Easter holidays are perfect to visit the regions of Austria away from the crowds. Depending on the weather and your preferences, you can plan beautiful hiking trips, e.g in the Salzkammergut, Gasteinertal, Lungau, in Tyrol, Carinthia, Vorarlberg or Styria. Be enchanted by the blossoming spring landscapes and enjoy the culinary delights of the region. And after your hiking tour, you may enjoy the in-house sauna or spa offered in some of our holiday homes. No matter what kind of holidays you are looking for, in Austria you are sure to find a heavenly place to suit your taste ... and the perfect holiday apartment with Interchalet. And if you like it more spacious, you can also book one of the many holiday houses that we offer in Tyrol where you can make yourself comfortable and feel right at home.\u003cbr\u003e\u003ca href=\"/en/austria/\"\u003eAustria\u003c/a\u003e | \u003ca href=\"/en/\"\u003eSalzburg\u003c/a\u003e | \u003ca href=\"/en/austria/tyrol/\"\u003eTyrol\u003c/a\u003e | \u003ca href=\"/en/austria/carinthia/\"\u003eCarinthia\u003c/a\u003e | \u003ca href=\"/en/austria/vorarlberg/\"\u003eVorarlberg\u003c/a\u003e | \u003ca href=\"/en/austria/styria/\"\u003eStyria\u003c/a\u003e\u003cstrong\u003e   \u003c/strong\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eEaster holidays in Spain\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003e¡Felices Pascuas! Spain offers some wonderful locations for your Easter break. Have a great time on an Easter trip to Mallorca. In mid-April you’ll generally be able to enjoy a dip in the sea in some lovely warm temperatures. Perfect for the kids to play around in, as well as for relaxing in secluded bays, hiking or for letting your hair down in the clubs along the beachfront. The Costa Blanca on Spain’s east coast is also a great place to spend the Easter holidays.\u003cbr\u003e\u003ca href=\"/en/spain/\"\u003eSpain\u003c/a\u003e | \u003ca href=\"/en/spain/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/en/spain/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eCity breaks in the Easter holidays\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003e\u003ca href=\"/en/holiday-ideas/city-trips/\"\u003eA city break\u003c/a\u003e to a fascinating big city is a great idea for all those who prefer to take their annual leave in summer but who would nevertheless like to get away for a couple of days over Easter. Spend your Easter holidays in Berlin, Paris, Rome or in another major city in Europe. With Interchalet, you’ll be able to find the right holiday accommodation for your stay.\u003cbr\u003e\u003ca href=\"/en/czech-republic/prague-and-surroundings/\"\u003ePrague\u003c/a\u003e | \u003ca href=\"/en/france/ile-de-france/\"\u003eParis\u003c/a\u003e | \u003ca href=\"/en/italy/rome-city/rome/\"\u003eRome\u003c/a\u003e | \u003ca href=\"/en/austria/vienna/vienna/\"\u003eVienna\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eA last minute Easter break\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eEaster is getting ever closer and you still haven’t found any accommodation for your Easter holiday? Then take a look at our \u003ca href=\"/en/last-minute/\"\u003elast minute offers\u003c/a\u003e. Those who book last minute can expect a discount of up to 33 percent on many holiday houses and apartments. So all those who book on the spur of the moment and want to get away with a friend/partner or with the whole family will be sure to find the right accommodation with Interchalet and even save some hard cash along the way!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/about-us/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Good quality guaranteed!",
+                            "subtitle": "",
+                            "caption": "Our team visits the properties in-person.\r\nRegular quality checks.\r\nDetailed, honest descriptions of the accommodation.\r\nGuaranteed authentic customer reviews.\r\nBest rental prices for our customers!"
+                        },
+                        {
+                            "title": "Personally there for you!",
+                            "subtitle": "",
+                            "caption": "Competent \u0026 friendly staff in our in-house Service-Centre.\r\nAll questions regarding your accommodation and surrounding area, happily answered.\r\nOnly you can rate your accommodation after your holiday with us!\r\n"
+                        },
+                        {
+                            "title": "49 years of experience!",
+                            "subtitle": "",
+                            "caption": "You can count on us: More than 49 years of experience in the holiday home industry.\r\nApprox. 40,000 holiday homes and apartments selected for you in Europe and Florida."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interchalet?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA simple apartment or an exclusive villa with private pool. In the mountains and by the sea, in summer and winter. At Interchalet you will find the right accommodation for your dream holiday in a holiday home.\u003cbr\u003eWe currently have approx. 40.000 holiday houses and holiday apartments for your holidays!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Spending time in a holiday home is the ideal solution for everyone!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIf you would like to enjoy a relaxing holiday as a couple or with family and friends, then you will love spending time in a holiday home or holiday apartment.\u003cbr\u003eYou can spend your holiday your way, in typical accommodation for your destination so you can quickly get familiar with the country and its people. An individual and unique holiday experience. Together we can find the ideal destination for your holiday based on your interests and preferences.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

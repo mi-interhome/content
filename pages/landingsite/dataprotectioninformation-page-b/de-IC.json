@@ -1,0 +1,144 @@
+{
+    "id": "33454",
+    "name": "dataprotectioninformation (page B)",
+    "path": "pages/landingsite/dataprotectioninformation-page-b/de-IC.json",
+    "folder": "pages",
+    "full_slug": "landingsite/dataprotectioninformation-page-b",
+    "slug": "dataprotectioninformation-page-b",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "dataprotectioninformation-page-b"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/datenschutzinformation/",
+            "title": "Interchalet | Datenschutzinformation",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/dataprotectioninformation (page B)/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienhäuser und Ferienwohnungen mit Pool",
+                            "src": "https://images.interhome.group/ezcms/media/inter-chalet/images/home/hero-slider/hero-1200x410-ferienhaus-pool-ferienwohnung.jpg/1640372-3-eng-XX/Hero-1200x410-ferienhaus-pool-ferienwohnung.jpg.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/datenschutzinformation/",
+                            "label": "Datenschutzinformation "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Datenschutzinformation ",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eIm Folgenden informieren wir Sie über die Verarbeitung Ihrer personenbezogenen Daten im Rahmen der Durchführung von Werbemaßnahmen sowie der Übermittlung Ihrer personenbezogenen Daten zu Werbezwecken durch die HHD GmbH an die HHD AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1.    \u003c/strong\u003e\u003cstrong\u003eVerantwortlicher und Datenschutzbeauftragter\u003c/strong\u003e\u003cbr\u003eDie HHD AG, geschäftsansässig Sägereistrasse 27, CH 8152 Glattbrugg, Telefon: +41438109191 , Email: \u003ca href=\"mailto:info@interhome.com\"\u003einfo@interhome.com\u003c/a\u003e im Folgenden „\u003cstrong\u003eHHD\u003c/strong\u003e“ oder „\u003cstrong\u003ewir\u003c/strong\u003e“, ist die verantwortliche Stelle für die Verarbeitung Ihrer personenbezogenen Daten.\u003c/p\u003e\u003cp\u003eWir haben Rechtsanwalt Prof. Clemens Pustejovsky zum Datenschutzbeauftragten bestellt. Unseren Datenschutzbeauftragten erreichen Sie unter: Anschrift: Wallstr. 6, DE 79098 Freiburg, Email: \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e oder Telefon: +497612168680\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2.    \u003c/strong\u003e\u003cstrong\u003eVerarbeitung personenbezogener Daten\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ea.    \u003c/strong\u003e\u003cstrong\u003eVerarbeitung Ihrer personenbezogenen Daten aufgrund eines überwiegenden berechtigten Interesses\u003c/strong\u003e\u003cbr\u003eWir verarbeiten Ihre personenbezogenen Daten zum Teil aufgrund eines überwiegenden berechtigten Interesses nach Art. 6 Abs. 1 S. 1 lit. f DS-GVO. Unser überwiegendes berechtigtes Interesse liegt in der Durchführung von Direktwerbung sowie der Kundengewinnung.\u003c/p\u003e\u003cp\u003eDer nachfolgenden Tabelle können Sie entnehmen, für welchen Zweck wir welche Datenkategorien von Ihnen aufgrund unseres überwiegenden berechtigten Interesses verarbeiten.\u003c/p\u003e\u003ctable class=\"\" border=\"1\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eVerarbeitungszweck:\u003c/strong\u003e\u003cbr\u003eZusendung postalischer Newsletter, Katalog\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eDatenkategorie:\u003c/strong\u003e\u003cbr\u003eNamensdaten, Adressdaten, Details zu vergangenen Buchungen (Reiseziel, Reisezeit)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003e\u003cstrong\u003eb.    \u003c/strong\u003e\u003cstrong\u003eVerarbeitung Ihrer personenbezogenen Daten aufgrund einer Einwilligung\u003c/strong\u003e\u003cbr\u003eSoweit Sie uns eine Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a, 7 DS-GVO erteilt haben, erheben und verarbeiten wir Ihre personenbezogenen Daten. Diese Einwilligung können Sie jederzeit widerrufen. Wenden Sie sich zum Widerruf Ihrer Einwilligung bitte schriftlich an die HHD AG, Sägereistrasse 27, CH 8152 Glattbrugg oder per E-Mail an \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e. Bitte beachten Sie, dass der Widerruf die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung Ihrer personenbezogenen Daten nicht berührt.\u003c/p\u003e\u003cp\u003eDer nachfolgenden Tabelle können Sie entnehmen, für welchen Zweck wir welche Datenkategorien von Ihnen aufgrund der von Ihnen erteilten Einwilligung verarbeiten.\u003c/p\u003e\u003ctable class=\"\" border=\"1\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eVerarbeitungszweck:\u003c/strong\u003e\u003cbr\u003eZusendung eines E-Mail-Newsletters\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\" width=\"301\"\u003e\u003cp align=\"left\"\u003e\u003cstrong\u003eDatenkategorie:\u003c/strong\u003e\u003cbr\u003eNamensdaten, E-Maildaten, Details zu vergangenen Buchungen (Reiseziel, Reisezeit)\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003e\u003cstrong\u003e3.    \u003c/strong\u003e\u003cstrong\u003eKeine Pflicht zur Bereitstellung Ihrer personenbezogenen Daten\u003c/strong\u003e\u003cbr\u003eDie Bereitstellung Ihrer personenbezogenen Daten ist weder durch das Gesetz, noch aufgrund eines Vertrages vorgeschrieben und ist nicht zum Abschluss eines Vertrages erforderlich. Sie sind nicht verpflichtet, uns Ihre personenbezogenen Daten für die unter 2. benannten Verarbeitungszwecke bereitzustellen. Sofern Sie uns Ihre personenbezogenen Daten nicht bereitstellen, können wir Ihnen keine Newsletter sowie Werbematerialien basierend auf Ihren Interessen und vergangenen Buchungen zusenden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e4.    \u003c/strong\u003e\u003cstrong\u003eVerarbeitung Ihrer personenbezogenen Daten aus dem Zeitraum mit einem Vertragsverhältnis mit der HHD GmbH (vormals Interchalet Ferienhaus-Gesellschaft mbH)\u003c/strong\u003e\u003cbr\u003eSoweit Sie bisher Kunde bei der HHD GmbH waren, gilt Folgendes ergänzend:\u003c/p\u003e\u003cp\u003eSoweit Sie uns eine Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a, 7 DS-GVO erteilt haben, erheben wir Ihre historischen personenbezogenen Daten (Details zu vergangenen Buchungen, Reiseort, Reisezeitraum) bei der HHD GmbH, Heinrich-von-Stephan-Straße 25, 79100 Freiburg. Die HHD GmbH hat diese personenbezogenen Daten in der Vergangenheit im Rahmen der Durchführung des zwischen der HHD GmbH und Ihnen bestehenden Vertrages zur Buchung von Ferienhäusern verarbeitet und wird uns diese, aufgrund der von Ihnen erteilten Einwilligung, zur Verfügung stellen. Wir verarbeiten diese personenbezogenen Daten, um Ihnen Werbung, nach Maßgabe der unter 2. aufgenommenen Verarbeitungen, basierend auf Ihren Interessen und den von Ihnen in Vergangenheit durchgeführten Buchungen zukommen zu lassen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e5.    \u003c/strong\u003e\u003cstrong\u003eSpeicherdauer und Löschung personenbezogener Daten\u003c/strong\u003e\u003cbr\u003eIhre personenbezogenen Daten, welche aufgrund Ihrer Einwilligung durch uns verarbeitet werden, werden am selben Tag gelöscht, an dem Sie Ihre Einwilligung zu dieser Datenverarbeitung widerrufen haben, sofern keine gesetzliche Pflicht zur weiteren Aufbewahrung Ihrer personenbezogenen Daten besteht.\u003c/p\u003e\u003cp\u003eIhre personenbezogenen Daten, welche zur Wahrung unserer berechtigten Interessen durch uns verarbeitet werden, werden gelöscht, sobald unser berechtigtes Interesse an der Datenverarbeitung nicht mehr besteht und weder Ihre schutzwürdigen Interessen, noch schutzwürdige Interesse von uns entgegenstehen, spätestens jedoch nach 10 Jahren. Schutzwürdige Interessen sind beispielsweise die Geltendmachung oder Abwehr von Rechtsansprüchen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e6.    \u003c/strong\u003e\u003cstrong\u003eIhre Rechte\u003c/strong\u003e\u003cbr\u003eSofern personenbezogene Daten, die Sie betreffen, von uns verarbeitet werden, können Sie uns entweder schriftlich (HHD AG, Sägereistrasse 27, CH 8152 Glattbrugg) oder per Email \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e kontaktieren, um folgende Rechte auszuüben:\u003c/p\u003e\u003cp\u003ea. Sie haben das Recht gemäß den jeweiligen gesetzlichen Bestimmungen eine \u003cstrong\u003eAuskunft\u003c/strong\u003e über die Verarbeitung derjenigen personenbezogenen Daten, die Sie betreffen, zu verlangen. Sie haben das Recht eine Kopie der personenbezogenen Daten, die Gegenstand der Verarbeitung sind, zu erhalten.\u003c/p\u003e\u003cp\u003eb. Sie haben das Recht gemäß den jeweiligen gesetzlichen Bestimmungen unverzüglich die \u003cstrong\u003eBerichtigung\u003c/strong\u003e unrichtiger oder unvollständiger personenbezogener Daten zu Ihrer Person zu verlangen.\u003c/p\u003e\u003cp\u003ec. Sie haben das Recht unverzüglich die \u003cstrong\u003eLöschung\u003c/strong\u003e der personenbezogenen Daten zu Ihrer Person zu verlangen, sofern der Löschung keine gesetzlichen Pflichten, wie gesetzliche Aufbewahrungsfristen oder unser überwiegendes Interesse, entgegenstehen.\u003c/p\u003e\u003cp\u003ed. Sie haben das Recht gemäß den jeweiligen gesetzlichen Bestimmungen die \u003cstrong\u003eEinschränkung \u003c/strong\u003e\u003cstrong\u003eder Verarbeitung\u003c/strong\u003e Ihrer personenbezogenen Daten zu verlangen.\u003c/p\u003e\u003cp\u003ee. Sofern wir für die Verarbeitung Ihrer Daten eine gesonderte Einwilligung einholt haben, haben Sie das Recht, diese Einwilligung jederzeit \u003cstrong\u003efür die Zukunft zu widerrufen\u003c/strong\u003e. Eine bis zu Ihrem Widerruf aufgrund Ihrer Einwilligung erfolgte Verarbeitung bleibt aber auch dann rechtmäßig.\u003c/p\u003e\u003cp\u003ef. Sie haben das Recht, die personenbezogenen Daten zu Ihrer Person, die Sie uns aufgrund einer Einwilligung nach Art. 6 Absatz 1 lit a DSGVO bereitgestellt haben, soweit die Verarbeitung der personenbezogenen Daten in einem automatisierten Verfahren erfolgt, in einem \u003cstrong\u003estrukturierten, gängigen und maschinenlesbaren Format\u003c/strong\u003e zu erhalten und sie Dritten zu übermitteln. Dieses Recht gilt nicht, sofern durch die Übermittlung Rechte und Freiheiten anderer Personen beeinträchtigt werden. Sie haben auch das Recht zu verlangen, dass Ihre personenbezogenen Daten, sofern technisch machbar, durch uns an Dritte übermittelt werden.\u003c/p\u003e\u003cp\u003eg. Soweit wir Ihre personenbezogenen Daten aufgrund unseres berechtigten Interesses oder öffentlichen Interesses nach Art. 6 Absatz 1 lit f DSGVO verarbeiten, haben Sie das Recht, jederzeit gegen die Verarbeitung Ihrer personenbezogenen Daten, die auf unseren berechtigten Interessen oder öffentlichen Interessen beruht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, \u003cstrong\u003eWiderspruch\u003c/strong\u003e einzulegen.\u003c/p\u003e\u003cp\u003eSofern Sie Widerspruch einlegen, werden wir personenbezogene Daten zu Ihrer Person nicht mehr verarbeiten, es sei denn, wir können zwingende schutzwürdige Gründe nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen oder die Verarbeitung der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen dient.\u003c/p\u003e\u003cp\u003eDer Widerspruch kann frist- und formfrei unter HHD AG, Sägereistrasse 27, CH 8152 Glattbrugg oder unter \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e erfolgen.\u003c/p\u003e\u003cp\u003eh. Schließlich haben Sie das Recht, sich bei jeder Aufsichtsbehörde, insbesondere in dem EU-Mitgliedstaat Ihres Aufenthaltsortes, Ihres Arbeitsplatzes oder des Ortes des mutmaßlichen Verstoßes, zu \u003cstrong\u003ebeschweren\u003c/strong\u003e, wenn Sie der Ansicht sind, dass die Verarbeitung der Sie betreffenden Daten gegen die gesetzlichen Bestimmungen verstößt. Weitere verwaltungsrechtliche oder gerichtliche Rechtsbehelfe, die Ihnen möglicherweise zustehen, bleiben hiervon unberührt.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
