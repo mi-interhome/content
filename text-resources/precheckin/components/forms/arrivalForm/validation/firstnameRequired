@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.arrivalForm.validation.firstnameRequired",
+    "name": "firstnameRequired",
+    "path": "text-resources/precheckin/components/forms/arrivalForm/validation/firstnameRequired",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/arrivalForm/validation/firstnameRequired",
+    "slug": "firstnameRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "arrivalForm",
+        "validation",
+        "firstnameRequired"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.arrivalForm.validation.firstnameRequired",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím své jméno"
+            },
+            "da": {
+                "singular": "Oplyst venligst fornavn"
+            },
+            "de": {
+                "singular": "Bitte geben Sie Ihren Vornamen an"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie Ihren Vornamen an"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie Ihren Vornamen an"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie Ihren Vornamen an"
+            },
+            "en": {
+                "singular": "Please enter your first name"
+            },
+            "en-AU": {
+                "singular": "Please enter your first name"
+            },
+            "en-CA": {
+                "singular": "Please enter your first name"
+            },
+            "en-GB": {
+                "singular": "Please enter your first name"
+            },
+            "en-IE": {
+                "singular": "Please enter your first name"
+            },
+            "en-US": {
+                "singular": "Please enter your first name"
+            },
+            "es": {
+                "singular": "Por favor indique su nombre"
+            },
+            "fi": {
+                "singular": "Lisää etunimesi"
+            },
+            "fi-EE": {
+                "singular": "Lisää etunimesi"
+            },
+            "fi-FI": {
+                "singular": "Lisää etunimesi"
+            },
+            "fr": {
+                "singular": "Merci d'indiquer votre prénom"
+            },
+            "fr-BE": {
+                "singular": "Merci d'indiquer votre prénom"
+            },
+            "fr-CA": {
+                "singular": "Merci d'indiquer votre prénom"
+            },
+            "fr-CH": {
+                "singular": "Merci d'indiquer votre prénom"
+            },
+            "fr-FR": {
+                "singular": "Merci d'indiquer votre prénom"
+            },
+            "hr": {
+                "singular": "Molimo unesite Vaše ime"
+            },
+            "it": {
+                "singular": "Ti preghiamo di inserire il tuo nome"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di inserire il tuo nome"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di inserire il tuo nome"
+            },
+            "nl": {
+                "singular": "Gelieve uw eerste naam invoeren"
+            },
+            "nl-BE": {
+                "singular": "Gelieve uw eerste naam invoeren"
+            },
+            "nl-NL": {
+                "singular": "Gelieve uw eerste naam invoeren"
+            },
+            "no": {
+                "singular": "\nVennligst skriv inn ditt fornavn"
+            },
+            "pl": {
+                "singular": "Prosimy podać imię"
+            },
+            "pt": {
+                "singular": "Por favor, insira o seu primeiro nome"
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите Ваше имя"
+            },
+            "sv": {
+                "singular": "Vänligen ange ditt förnamn"
+            }
+        }
+    }
+}

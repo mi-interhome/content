@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.totelRevenueBookings",
+    "name": "totelRevenueBookings",
+    "path": "text-resources/webccSalesportal/pages/reports/webstats/totelRevenueBookings",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/totelRevenueBookings",
+    "slug": "totelRevenueBookings",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "totelRevenueBookings"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.totelRevenueBookings",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Příjmy z rezervací"
+            },
+            "da": {
+                "singular": "Indtægter fra bookinger"
+            },
+            "de": {
+                "singular": "Buchungsumsatz"
+            },
+            "de-AT": {
+                "singular": "Buchungsumsatz"
+            },
+            "de-CH": {
+                "singular": "Buchungsumsatz"
+            },
+            "de-DE": {
+                "singular": "Buchungsumsatz"
+            },
+            "en": {
+                "singular": "Total Revenue of bookings"
+            },
+            "en-AU": {
+                "singular": "Total Revenue of bookings"
+            },
+            "en-CA": {
+                "singular": "Total Revenue of bookings"
+            },
+            "en-GB": {
+                "singular": "Total Revenue of bookings"
+            },
+            "en-IE": {
+                "singular": "Total Revenue of bookings"
+            },
+            "en-US": {
+                "singular": "Total Revenue of bookings"
+            },
+            "es": {
+                "singular": "Ingresos por reservas"
+            },
+            "fi": {
+                "singular": "Varausten kokonaistulo"
+            },
+            "fi-EE": {
+                "singular": "Varausten kokonaistulo"
+            },
+            "fi-FI": {
+                "singular": "Varausten kokonaistulo"
+            },
+            "fr": {
+                "singular": "Revenu des réservations"
+            },
+            "fr-BE": {
+                "singular": "Revenu des réservations"
+            },
+            "fr-CA": {
+                "singular": "Revenu des réservations"
+            },
+            "fr-CH": {
+                "singular": "Revenu des réservations"
+            },
+            "fr-FR": {
+                "singular": "Revenu des réservations"
+            },
+            "hr": {
+                "singular": "Prihod od rezervacija"
+            },
+            "it": {
+                "singular": "Ricavi per prenotazioni"
+            },
+            "it-CH": {
+                "singular": "Ricavi per prenotazioni"
+            },
+            "it-IT": {
+                "singular": "Ricavi per prenotazioni"
+            },
+            "nl": {
+                "singular": "Omzet boekingen"
+            },
+            "nl-BE": {
+                "singular": "Omzet boekingen"
+            },
+            "nl-NL": {
+                "singular": "Omzet boekingen"
+            },
+            "no": {
+                "singular": "Inntekter fra bestillinger"
+            },
+            "pl": {
+                "singular": "Dochody z rezerwacji"
+            },
+            "pt": {
+                "singular": "Receita de reservas"
+            },
+            "ru": {
+                "singular": "Доход от бронирования"
+            },
+            "sv": {
+                "singular": "Inkomster från bokningar"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.forms.customerForm.required",
+    "name": "required",
+    "path": "text-resources/precheckin/components/forms/customerForm/required",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/customerForm/required",
+    "slug": "required",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "customerForm",
+        "required"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.customerForm.required",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "*=Povinné"
+            },
+            "da": {
+                "singular": "* = Obligatorisk"
+            },
+            "de": {
+                "singular": "*=Angabe erforderlich"
+            },
+            "de-AT": {
+                "singular": "*=Angabe erforderlich"
+            },
+            "de-CH": {
+                "singular": "*=Angabe erforderlich"
+            },
+            "de-DE": {
+                "singular": "*=Angabe erforderlich"
+            },
+            "en": {
+                "singular": "*=Required"
+            },
+            "en-AU": {
+                "singular": "*=Required"
+            },
+            "en-CA": {
+                "singular": "*=Required"
+            },
+            "en-GB": {
+                "singular": "*=Required"
+            },
+            "en-IE": {
+                "singular": "*=Required"
+            },
+            "en-US": {
+                "singular": "*=Required"
+            },
+            "es": {
+                "singular": "*=Requerido"
+            },
+            "fi": {
+                "singular": "*=pakollinen tieto"
+            },
+            "fi-EE": {
+                "singular": "*=pakollinen tieto"
+            },
+            "fi-FI": {
+                "singular": "*=pakollinen tieto"
+            },
+            "fr": {
+                "singular": "*=Requis"
+            },
+            "fr-BE": {
+                "singular": "*=Requis"
+            },
+            "fr-CA": {
+                "singular": "*=Requis"
+            },
+            "fr-CH": {
+                "singular": "*=Requis"
+            },
+            "fr-FR": {
+                "singular": "*=Requis"
+            },
+            "hr": {
+                "singular": "* obvezno popuniti"
+            },
+            "it": {
+                "singular": "*=obbligatorio"
+            },
+            "it-CH": {
+                "singular": "*=obbligatorio"
+            },
+            "it-IT": {
+                "singular": "*=obbligatorio"
+            },
+            "nl": {
+                "singular": "* = Vereist"
+            },
+            "nl-BE": {
+                "singular": "* = Vereist"
+            },
+            "nl-NL": {
+                "singular": "* = Vereist"
+            },
+            "no": {
+                "singular": "* = Obligatorisk"
+            },
+            "pl": {
+                "singular": "*=obowiązkowe"
+            },
+            "pt": {
+                "singular": "*=Requerido"
+            },
+            "ru": {
+                "singular": "* = Обязательно"
+            },
+            "sv": {
+                "singular": "*=Obligatoriskt"
+            }
+        }
+    }
+}

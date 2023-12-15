@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.cancellation.costs.balanceNegative",
+    "name": "balanceNegative",
+    "path": "text-resources/reservations/pages/cancellation/costs/balanceNegative",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/costs/balanceNegative",
+    "slug": "balanceNegative",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "costs",
+        "balanceNegative"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.costs.balanceNegative",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ve Váš prospěch"
+            },
+            "da": {
+                "singular": "til din fordel"
+            },
+            "de": {
+                "singular": "zu Ihren Gunsten"
+            },
+            "de-AT": {
+                "singular": "zu Ihren Gunsten"
+            },
+            "de-CH": {
+                "singular": "zu Ihren Gunsten"
+            },
+            "de-DE": {
+                "singular": "zu Ihren Gunsten"
+            },
+            "en": {
+                "singular": "in your favour"
+            },
+            "en-AU": {
+                "singular": "in your favour"
+            },
+            "en-CA": {
+                "singular": "in your favour"
+            },
+            "en-GB": {
+                "singular": "in your favour"
+            },
+            "en-IE": {
+                "singular": "in your favour"
+            },
+            "en-US": {
+                "singular": "in your favour"
+            },
+            "es": {
+                "singular": "a su favor"
+            },
+            "fi": {
+                "singular": "hyväksesi"
+            },
+            "fi-EE": {
+                "singular": "hyväksesi"
+            },
+            "fi-FI": {
+                "singular": "hyväksesi"
+            },
+            "fr": {
+                "singular": "En votre faveur"
+            },
+            "fr-BE": {
+                "singular": "En votre faveur"
+            },
+            "fr-CA": {
+                "singular": "En votre faveur"
+            },
+            "fr-CH": {
+                "singular": "En votre faveur"
+            },
+            "fr-FR": {
+                "singular": "En votre faveur"
+            },
+            "hr": {
+                "singular": "u Vašu korist"
+            },
+            "it": {
+                "singular": "a vostro favore"
+            },
+            "it-CH": {
+                "singular": "a vostro favore"
+            },
+            "it-IT": {
+                "singular": "a vostro favore"
+            },
+            "nl": {
+                "singular": "in uw voordeel"
+            },
+            "nl-BE": {
+                "singular": "in uw voordeel"
+            },
+            "nl-NL": {
+                "singular": "in uw voordeel"
+            },
+            "no": {
+                "singular": "i din favør"
+            },
+            "pl": {
+                "singular": "dla Państwa"
+            },
+            "pt": {
+                "singular": "a seu favor"
+            },
+            "ru": {
+                "singular": "в Вашу пользу"
+            },
+            "sv": {
+                "singular": "i din favör"
+            }
+        }
+    }
+}

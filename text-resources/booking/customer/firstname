@@ -1,0 +1,124 @@
+{
+    "id": "booking.customer.firstname",
+    "name": "firstname",
+    "path": "text-resources/booking/customer/firstname",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/firstname",
+    "slug": "firstname",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "firstname"
+    ],
+    "content": {
+        "key": "booking.customer.firstname",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Jméno"
+            },
+            "da": {
+                "singular": "Fornavn"
+            },
+            "de": {
+                "singular": "Vorname"
+            },
+            "de-AT": {
+                "singular": "Vorname"
+            },
+            "de-CH": {
+                "singular": "Vorname"
+            },
+            "de-DE": {
+                "singular": "Vorname"
+            },
+            "en": {
+                "singular": "First name"
+            },
+            "en-AU": {
+                "singular": "First name"
+            },
+            "en-CA": {
+                "singular": "First name"
+            },
+            "en-GB": {
+                "singular": "First name"
+            },
+            "en-IE": {
+                "singular": "First name"
+            },
+            "en-US": {
+                "singular": "First name"
+            },
+            "es": {
+                "singular": "Nombre"
+            },
+            "fi": {
+                "singular": "Etunimi"
+            },
+            "fi-EE": {
+                "singular": "Etunimi"
+            },
+            "fi-FI": {
+                "singular": "Etunimi"
+            },
+            "fr": {
+                "singular": "Prénom"
+            },
+            "fr-BE": {
+                "singular": "Prénom"
+            },
+            "fr-CA": {
+                "singular": "Prénom"
+            },
+            "fr-CH": {
+                "singular": "Prénom"
+            },
+            "fr-FR": {
+                "singular": "Prénom"
+            },
+            "hr": {
+                "singular": "Ime"
+            },
+            "it": {
+                "singular": "Nome"
+            },
+            "it-CH": {
+                "singular": "Nome"
+            },
+            "it-IT": {
+                "singular": "Nome"
+            },
+            "nl": {
+                "singular": "Voornaam"
+            },
+            "nl-BE": {
+                "singular": "Voornaam"
+            },
+            "nl-NL": {
+                "singular": "Voornaam"
+            },
+            "no": {
+                "singular": "Fornavn"
+            },
+            "pl": {
+                "singular": "Imię"
+            },
+            "pt": {
+                "singular": "Nome"
+            },
+            "ru": {
+                "singular": "Имя"
+            },
+            "sv": {
+                "singular": "Förnamn"
+            }
+        }
+    }
+}

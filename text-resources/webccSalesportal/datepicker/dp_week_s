@@ -1,0 +1,157 @@
+{
+    "id": "webccSalesportal.datepicker.dp_week_s",
+    "name": "dp_week_s",
+    "path": "text-resources/webccSalesportal/datepicker/dp_week_s",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/dp_week_s",
+    "slug": "dp_week_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "dp_week_s"
+    ],
+    "content": {
+        "key": "webccSalesportal.datepicker.dp_week_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "týden ",
+                "plural": " týdny"
+            },
+            "da": {
+                "singular": "uge ",
+                "plural": " uger"
+            },
+            "de": {
+                "singular": "Woche ",
+                "plural": " Wochen"
+            },
+            "de-AT": {
+                "singular": "Woche ",
+                "plural": " Wochen"
+            },
+            "de-CH": {
+                "singular": "Woche ",
+                "plural": " Wochen"
+            },
+            "de-DE": {
+                "singular": "Woche ",
+                "plural": " Wochen"
+            },
+            "en": {
+                "singular": "week ",
+                "plural": " weeks"
+            },
+            "en-AU": {
+                "singular": "week ",
+                "plural": " weeks"
+            },
+            "en-CA": {
+                "singular": "week ",
+                "plural": " weeks"
+            },
+            "en-GB": {
+                "singular": "week ",
+                "plural": " weeks"
+            },
+            "en-IE": {
+                "singular": "week ",
+                "plural": " weeks"
+            },
+            "en-US": {
+                "singular": "week ",
+                "plural": " weeks"
+            },
+            "es": {
+                "singular": "semana ",
+                "plural": " semanas"
+            },
+            "fi": {
+                "singular": "viikko ",
+                "plural": " viikkoa"
+            },
+            "fi-EE": {
+                "singular": "viikko ",
+                "plural": " viikkoa"
+            },
+            "fi-FI": {
+                "singular": "viikko ",
+                "plural": " viikkoa"
+            },
+            "fr": {
+                "singular": "semaine ",
+                "plural": " semaines"
+            },
+            "fr-BE": {
+                "singular": "semaine ",
+                "plural": " semaines"
+            },
+            "fr-CA": {
+                "singular": "semaine ",
+                "plural": " semaines"
+            },
+            "fr-CH": {
+                "singular": "semaine ",
+                "plural": " semaines"
+            },
+            "fr-FR": {
+                "singular": "semaine ",
+                "plural": " semaines"
+            },
+            "hr": {
+                "singular": "tjedan ",
+                "plural": " tjedna"
+            },
+            "it": {
+                "singular": "settimana ",
+                "plural": " settimane"
+            },
+            "it-CH": {
+                "singular": "settimana ",
+                "plural": " settimane"
+            },
+            "it-IT": {
+                "singular": "settimana ",
+                "plural": " settimane"
+            },
+            "nl": {
+                "singular": "week ",
+                "plural": " weken"
+            },
+            "nl-BE": {
+                "singular": "week ",
+                "plural": " weken"
+            },
+            "nl-NL": {
+                "singular": "week ",
+                "plural": " weken"
+            },
+            "no": {
+                "singular": "uke ",
+                "plural": " uker"
+            },
+            "pl": {
+                "singular": "tydzień ",
+                "plural": " tygodnie"
+            },
+            "pt": {
+                "singular": "semana ",
+                "plural": " semanas"
+            },
+            "ru": {
+                "singular": "неделя ",
+                "plural": " недели"
+            },
+            "sv": {
+                "singular": "vecka ",
+                "plural": " veckor"
+            }
+        }
+    }
+}

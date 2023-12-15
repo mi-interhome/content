@@ -1,0 +1,124 @@
+{
+    "id": "travelguide.footer.cookiesSettings",
+    "name": "cookiesSettings",
+    "path": "text-resources/travelguide/footer/cookiesSettings",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/cookiesSettings",
+    "slug": "cookiesSettings",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "cookiesSettings"
+    ],
+    "content": {
+        "key": "travelguide.footer.cookiesSettings",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nastavení cookies"
+            },
+            "da": {
+                "singular": "Cookieindstillinger"
+            },
+            "de": {
+                "singular": "Cookie Einstellungen"
+            },
+            "de-AT": {
+                "singular": "Cookie Einstellungen"
+            },
+            "de-CH": {
+                "singular": "Cookie Einstellungen"
+            },
+            "de-DE": {
+                "singular": "Cookie Einstellungen"
+            },
+            "en": {
+                "singular": "Cookie settings"
+            },
+            "en-AU": {
+                "singular": "Cookie settings"
+            },
+            "en-CA": {
+                "singular": "Cookie settings"
+            },
+            "en-GB": {
+                "singular": "Cookie settings"
+            },
+            "en-IE": {
+                "singular": "Cookie settings"
+            },
+            "en-US": {
+                "singular": "Cookie settings"
+            },
+            "es": {
+                "singular": "Ajuste de cookies "
+            },
+            "fi": {
+                "singular": "Evästeasetukset"
+            },
+            "fi-EE": {
+                "singular": "Evästeasetukset"
+            },
+            "fi-FI": {
+                "singular": "Evästeasetukset"
+            },
+            "fr": {
+                "singular": "Utilisation des cookies"
+            },
+            "fr-BE": {
+                "singular": "Utilisation des cookies"
+            },
+            "fr-CA": {
+                "singular": "Utilisation des cookies"
+            },
+            "fr-CH": {
+                "singular": "Utilisation des cookies"
+            },
+            "fr-FR": {
+                "singular": "Utilisation des cookies"
+            },
+            "hr": {
+                "singular": "Postavke kolačića"
+            },
+            "it": {
+                "singular": "Impostazioni dei cookie"
+            },
+            "it-CH": {
+                "singular": "Impostazioni dei cookie"
+            },
+            "it-IT": {
+                "singular": "Impostazioni dei cookie"
+            },
+            "nl": {
+                "singular": "Cookie instellingen"
+            },
+            "nl-BE": {
+                "singular": "Cookie instellingen"
+            },
+            "nl-NL": {
+                "singular": "Cookie instellingen"
+            },
+            "no": {
+                "singular": "Innstillinger for informasjonskapsler"
+            },
+            "pl": {
+                "singular": "Ustawienia plików cookies"
+            },
+            "pt": {
+                "singular": "Configuração das cookies"
+            },
+            "ru": {
+                "singular": "Настройки файлов cookie"
+            },
+            "sv": {
+                "singular": "Kakor-inställningar"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "webccSalesportal.components.payment.ReservationCard.states.OK",
+    "name": "OK",
+    "path": "text-resources/webccSalesportal/components/payment/ReservationCard/states/OK",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/components/payment/ReservationCard/states/OK",
+    "slug": "OK",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "components",
+        "payment",
+        "ReservationCard",
+        "states",
+        "OK"
+    ],
+    "content": {
+        "key": "webccSalesportal.components.payment.ReservationCard.states.OK",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potvrzená rezervace"
+            },
+            "da": {
+                "singular": "Bekræftet reservation"
+            },
+            "de": {
+                "singular": "Bestätigte Buchung"
+            },
+            "de-AT": {
+                "singular": "Bestätigte Buchung"
+            },
+            "de-CH": {
+                "singular": "Bestätigte Buchung"
+            },
+            "de-DE": {
+                "singular": "Bestätigte Buchung"
+            },
+            "en": {
+                "singular": "Confirmed booking"
+            },
+            "en-AU": {
+                "singular": "Confirmed booking"
+            },
+            "en-CA": {
+                "singular": "Confirmed booking"
+            },
+            "en-GB": {
+                "singular": "Confirmed booking"
+            },
+            "en-IE": {
+                "singular": "Confirmed booking"
+            },
+            "en-US": {
+                "singular": "Confirmed booking"
+            },
+            "es": {
+                "singular": "Reserva confirmada"
+            },
+            "fi": {
+                "singular": "Vahvistettu varaus"
+            },
+            "fi-EE": {
+                "singular": "Vahvistettu varaus"
+            },
+            "fi-FI": {
+                "singular": "Vahvistettu varaus"
+            },
+            "fr": {
+                "singular": "Réservation confirmée"
+            },
+            "fr-BE": {
+                "singular": "Réservation confirmée"
+            },
+            "fr-CA": {
+                "singular": "Réservation confirmée"
+            },
+            "fr-CH": {
+                "singular": "Réservation confirmée"
+            },
+            "fr-FR": {
+                "singular": "Réservation confirmée"
+            },
+            "hr": {
+                "singular": "Potvrđena rezervacija"
+            },
+            "it": {
+                "singular": "Prenotazione confermata"
+            },
+            "it-CH": {
+                "singular": "Prenotazione confermata"
+            },
+            "it-IT": {
+                "singular": "Prenotazione confermata"
+            },
+            "nl": {
+                "singular": "Bevestigde boeking"
+            },
+            "nl-BE": {
+                "singular": "Bevestigde boeking"
+            },
+            "nl-NL": {
+                "singular": "Bevestigde boeking"
+            },
+            "no": {
+                "singular": "Bekreftet bestilling"
+            },
+            "pl": {
+                "singular": "Rezerwacja potwierdzona"
+            },
+            "pt": {
+                "singular": "Reserva confirmada"
+            },
+            "ru": {
+                "singular": "Подтверждённое бронирование"
+            },
+            "sv": {
+                "singular": "Bekräftar bokning"
+            }
+        }
+    }
+}

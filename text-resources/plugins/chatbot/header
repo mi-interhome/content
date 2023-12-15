@@ -1,0 +1,78 @@
+{
+    "id": "plugins.chatbot.header",
+    "name": "header",
+    "path": "text-resources/plugins/chatbot/header",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/header",
+    "slug": "header",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "header"
+    ],
+    "content": {
+        "key": "plugins.chatbot.header",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Wie kann ich Ihnen helfen?"
+            },
+            "de-AT": {
+                "singular": "Wie kann ich Ihnen helfen?"
+            },
+            "de-CH": {
+                "singular": "Wie kann ich Ihnen helfen?"
+            },
+            "de-DE": {
+                "singular": "Wie kann ich Ihnen helfen?"
+            },
+            "en": {
+                "singular": "!PLACEHOLDER!"
+            },
+            "en-AU": {
+                "singular": "!PLACEHOLDER!"
+            },
+            "en-CA": {
+                "singular": "!PLACEHOLDER!"
+            },
+            "en-GB": {
+                "singular": "!PLACEHOLDER!"
+            },
+            "en-IE": {
+                "singular": "!PLACEHOLDER!"
+            },
+            "en-US": {
+                "singular": "!PLACEHOLDER!"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

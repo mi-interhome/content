@@ -1,0 +1,124 @@
+{
+    "id": "snippets.newsletter.upto",
+    "name": "upto",
+    "path": "text-resources/snippets/newsletter/upto",
+    "folder": "text-resources",
+    "full_slug": "snippets/newsletter/upto",
+    "slug": "upto",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "snippets",
+        "newsletter",
+        "upto"
+    ],
+    "content": {
+        "key": "snippets.newsletter.upto",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "do"
+            },
+            "da": {
+                "singular": "Til"
+            },
+            "de": {
+                "singular": "Bis"
+            },
+            "de-AT": {
+                "singular": "Bis"
+            },
+            "de-CH": {
+                "singular": "Bis"
+            },
+            "de-DE": {
+                "singular": "Bis"
+            },
+            "en": {
+                "singular": "To"
+            },
+            "en-AU": {
+                "singular": "To"
+            },
+            "en-CA": {
+                "singular": "To"
+            },
+            "en-GB": {
+                "singular": "To"
+            },
+            "en-IE": {
+                "singular": "To"
+            },
+            "en-US": {
+                "singular": "To"
+            },
+            "es": {
+                "singular": "hasta"
+            },
+            "fi": {
+                "singular": "to"
+            },
+            "fi-EE": {
+                "singular": "saakka"
+            },
+            "fi-FI": {
+                "singular": "to"
+            },
+            "fr": {
+                "singular": " jusqu'à"
+            },
+            "fr-BE": {
+                "singular": " jusqu'à"
+            },
+            "fr-CA": {
+                "singular": " jusqu'à"
+            },
+            "fr-CH": {
+                "singular": " jusqu'à"
+            },
+            "fr-FR": {
+                "singular": " jusqu'à"
+            },
+            "hr": {
+                "singular": "do"
+            },
+            "it": {
+                "singular": "fino a"
+            },
+            "it-CH": {
+                "singular": "fino a"
+            },
+            "it-IT": {
+                "singular": "fino a"
+            },
+            "nl": {
+                "singular": "tot"
+            },
+            "nl-BE": {
+                "singular": "tot"
+            },
+            "nl-NL": {
+                "singular": "tot"
+            },
+            "no": {
+                "singular": "til"
+            },
+            "pl": {
+                "singular": "do"
+            },
+            "pt": {
+                "singular": "Até"
+            },
+            "ru": {
+                "singular": "до"
+            },
+            "sv": {
+                "singular": "till"
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "www.pages.emails._hash.confirm.success.heading",
+    "name": "heading",
+    "path": "text-resources/www/pages/emails/_hash/confirm/success/heading",
+    "folder": "text-resources",
+    "full_slug": "www/pages/emails/_hash/confirm/success/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "emails",
+        "_hash",
+        "confirm",
+        "success",
+        "heading"
+    ],
+    "content": {
+        "key": "www.pages.emails._hash.confirm.success.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše e-mailová adresa byla úspěšně potvrzena"
+            },
+            "da": {
+                "singular": "Din e-mailadresse blev bekræftet"
+            },
+            "de": {
+                "singular": "Ihre E-Mail-Adresse konnte erfolgreich bestätigt werden"
+            },
+            "de-AT": {
+                "singular": "Ihre E-Mail-Adresse konnte erfolgreich bestätigt werden"
+            },
+            "de-CH": {
+                "singular": "Ihre E-Mail-Adresse konnte erfolgreich bestätigt werden"
+            },
+            "de-DE": {
+                "singular": "Ihre E-Mail-Adresse konnte erfolgreich bestätigt werden"
+            },
+            "en": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "en-AU": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "en-CA": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "en-GB": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "en-IE": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "en-US": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "es": {
+                "singular": "Su emaill ha sido confirmado"
+            },
+            "fi": {
+                "singular": "Sähköpostiosoitteesi on vahvistettu onnistuneesti"
+            },
+            "fi-EE": {
+                "singular": "Your e-mail address was successfully confirmed"
+            },
+            "fi-FI": {
+                "singular": "Sähköpostiosoitteesi on vahvistettu onnistuneesti"
+            },
+            "fr": {
+                "singular": "Votre adresse e-mail a été confirmée avec succès"
+            },
+            "fr-BE": {
+                "singular": "Votre adresse e-mail a été confirmée avec succès"
+            },
+            "fr-CA": {
+                "singular": "Votre adresse e-mail a été confirmée avec succès"
+            },
+            "fr-CH": {
+                "singular": "Votre adresse e-mail a été confirmée avec succès"
+            },
+            "fr-FR": {
+                "singular": "Votre adresse e-mail a été confirmée avec succès"
+            },
+            "hr": {
+                "singular": "Vaša e mail adresa je uspješno potvrđena"
+            },
+            "it": {
+                "singular": "Indirizzo e-mail confermato con successo"
+            },
+            "it-CH": {
+                "singular": "Indirizzo e-mail confermato con successo"
+            },
+            "it-IT": {
+                "singular": "Indirizzo e-mail confermato con successo"
+            },
+            "nl": {
+                "singular": "Uw e-mail adres is succesvol bevestigd"
+            },
+            "nl-BE": {
+                "singular": "Uw e-mail adres is succesvol bevestigd"
+            },
+            "nl-NL": {
+                "singular": "Uw e-mail adres is succesvol bevestigd"
+            },
+            "no": {
+                "singular": "E-postadressen din er bekreftet"
+            },
+            "pl": {
+                "singular": "Adres e-mail został pomyślnie potwierdzony."
+            },
+            "pt": {
+                "singular": "E-mail confirmado com sucesso."
+            },
+            "ru": {
+                "singular": "Ваш адрес электронной почты успешно подтвержден"
+            },
+            "sv": {
+                "singular": "Din e-postadress har verifierats"
+            }
+        }
+    }
+}

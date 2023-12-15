@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.services.servicePosition.price.explanations.UH",
+    "name": "UH",
+    "path": "text-resources/webccBooking/components/reservation/services/servicePosition/price/explanations/UH",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/servicePosition/price/explanations/UH",
+    "slug": "UH",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "servicePosition",
+        "price",
+        "explanations",
+        "UH"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.servicePosition.price.explanations.UH",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena za hodinu"
+            },
+            "da": {
+                "singular": "Pris per time"
+            },
+            "de": {
+                "singular": "Preis pro Stunde"
+            },
+            "de-AT": {
+                "singular": "Preis pro Stunde"
+            },
+            "de-CH": {
+                "singular": "Preis pro Stunde"
+            },
+            "de-DE": {
+                "singular": "Preis pro Stunde"
+            },
+            "en": {
+                "singular": "Price per hour"
+            },
+            "en-AU": {
+                "singular": "Price per hour"
+            },
+            "en-CA": {
+                "singular": "Price per hour"
+            },
+            "en-GB": {
+                "singular": "Price per hour"
+            },
+            "en-IE": {
+                "singular": "Price per hour"
+            },
+            "en-US": {
+                "singular": "Price per hour"
+            },
+            "es": {
+                "singular": "Precio por hora"
+            },
+            "fi": {
+                "singular": "Hinta per tunti"
+            },
+            "fi-EE": {
+                "singular": "Hinta per tunti"
+            },
+            "fi-FI": {
+                "singular": "Hinta per tunti"
+            },
+            "fr": {
+                "singular": "Prix par heure"
+            },
+            "fr-BE": {
+                "singular": "Prix par heure"
+            },
+            "fr-CA": {
+                "singular": "Prix par heure"
+            },
+            "fr-CH": {
+                "singular": "Prix par heure"
+            },
+            "fr-FR": {
+                "singular": "Prix par heure"
+            },
+            "hr": {
+                "singular": "Cijena po satu"
+            },
+            "it": {
+                "singular": "Prezzo all'ora "
+            },
+            "it-CH": {
+                "singular": "Prezzo all'ora "
+            },
+            "it-IT": {
+                "singular": "Prezzo all'ora "
+            },
+            "nl": {
+                "singular": "Prijs per uur"
+            },
+            "nl-BE": {
+                "singular": "Prijs per uur"
+            },
+            "nl-NL": {
+                "singular": "Prijs per uur"
+            },
+            "no": {
+                "singular": "pris per time"
+            },
+            "pl": {
+                "singular": "Cena za godzinę"
+            },
+            "pt": {
+                "singular": "Preço por hora"
+            },
+            "ru": {
+                "singular": "Цена за час"
+            },
+            "sv": {
+                "singular": "Pris per timme"
+            }
+        }
+    }
+}

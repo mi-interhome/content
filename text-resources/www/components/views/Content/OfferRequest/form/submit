@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.submit",
+    "name": "submit",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/submit",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/submit",
+    "slug": "submit",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "submit"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.submit",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odeslat"
+            },
+            "da": {
+                "singular": "Send"
+            },
+            "de": {
+                "singular": "Absenden"
+            },
+            "de-AT": {
+                "singular": "Absenden"
+            },
+            "de-CH": {
+                "singular": "Absenden"
+            },
+            "de-DE": {
+                "singular": "Absenden"
+            },
+            "en": {
+                "singular": "Submit"
+            },
+            "en-AU": {
+                "singular": "Submit"
+            },
+            "en-CA": {
+                "singular": "Submit"
+            },
+            "en-GB": {
+                "singular": "Submit"
+            },
+            "en-IE": {
+                "singular": "Submit"
+            },
+            "en-US": {
+                "singular": "Submit"
+            },
+            "es": {
+                "singular": "Enviar"
+            },
+            "fi": {
+                "singular": "Lähetä"
+            },
+            "fi-EE": {
+                "singular": "Lähetä"
+            },
+            "fi-FI": {
+                "singular": "Lähetä"
+            },
+            "fr": {
+                "singular": "Envoyer"
+            },
+            "fr-BE": {
+                "singular": "Envoyer"
+            },
+            "fr-CA": {
+                "singular": "Envoyer"
+            },
+            "fr-CH": {
+                "singular": "Envoyer"
+            },
+            "fr-FR": {
+                "singular": "Envoyer"
+            },
+            "hr": {
+                "singular": "Pošalji"
+            },
+            "it": {
+                "singular": "Inviare"
+            },
+            "it-CH": {
+                "singular": "Inviare"
+            },
+            "it-IT": {
+                "singular": "Invia"
+            },
+            "nl": {
+                "singular": "Verzenden"
+            },
+            "nl-BE": {
+                "singular": "Verzenden"
+            },
+            "nl-NL": {
+                "singular": "Verzenden"
+            },
+            "no": {
+                "singular": "Send"
+            },
+            "pl": {
+                "singular": "Wyślij"
+            },
+            "pt": {
+                "singular": "Enviar"
+            },
+            "ru": {
+                "singular": "Отправить"
+            },
+            "sv": {
+                "singular": "Skicka"
+            }
+        }
+    }
+}

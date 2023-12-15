@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.filter.citytrips",
+    "name": "citytrips",
+    "path": "text-resources/www/components/views/search/filter/citytrips",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/filter/citytrips",
+    "slug": "citytrips",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "filter",
+        "citytrips"
+    ],
+    "content": {
+        "key": "www.components.views.search.filter.citytrips",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Města"
+            },
+            "da": {
+                "singular": "Storbyferie"
+            },
+            "de": {
+                "singular": "Städtereise"
+            },
+            "de-AT": {
+                "singular": "Städtereise"
+            },
+            "de-CH": {
+                "singular": "Städtereise"
+            },
+            "de-DE": {
+                "singular": "Städtereise"
+            },
+            "en": {
+                "singular": "City trips"
+            },
+            "en-AU": {
+                "singular": "City trips"
+            },
+            "en-CA": {
+                "singular": "City trips"
+            },
+            "en-GB": {
+                "singular": "City trips"
+            },
+            "en-IE": {
+                "singular": "City trips"
+            },
+            "en-US": {
+                "singular": "City trips"
+            },
+            "es": {
+                "singular": "Ciudades"
+            },
+            "fi": {
+                "singular": "Kaupunkilomat"
+            },
+            "fi-EE": {
+                "singular": "Kaupunkilomat"
+            },
+            "fi-FI": {
+                "singular": "Kaupunkilomat"
+            },
+            "fr": {
+                "singular": "Séjours en ville"
+            },
+            "fr-BE": {
+                "singular": "Séjours en ville"
+            },
+            "fr-CA": {
+                "singular": "Séjours en ville"
+            },
+            "fr-CH": {
+                "singular": "Séjours en ville"
+            },
+            "fr-FR": {
+                "singular": "Séjours en ville"
+            },
+            "hr": {
+                "singular": "Gradske avanture"
+            },
+            "it": {
+                "singular": "Vacanze nelle città"
+            },
+            "it-CH": {
+                "singular": "Vacanze nelle città"
+            },
+            "it-IT": {
+                "singular": "Vacanze nelle città"
+            },
+            "nl": {
+                "singular": "Stedentrips"
+            },
+            "nl-BE": {
+                "singular": "Stedentrips"
+            },
+            "nl-NL": {
+                "singular": "Stedentrips"
+            },
+            "no": {
+                "singular": "Storbyferie"
+            },
+            "pl": {
+                "singular": "Zwiedzanie miast"
+            },
+            "pt": {
+                "singular": "Visitas à cidade"
+            },
+            "ru": {
+                "singular": "Городские путешествия"
+            },
+            "sv": {
+                "singular": "Storstadssemester"
+            }
+        }
+    }
+}

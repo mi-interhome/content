@@ -1,0 +1,106 @@
+{
+    "id": "www.components.footer.newsletter.teaser",
+    "name": "teaser",
+    "path": "text-resources/www/components/footer/newsletter/teaser",
+    "folder": "text-resources",
+    "full_slug": "www/components/footer/newsletter/teaser",
+    "slug": "teaser",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "footer",
+        "newsletter",
+        "teaser"
+    ],
+    "content": {
+        "key": "www.components.footer.newsletter.teaser",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Ab sofort nichts mehr verpassen!"
+            },
+            "de-AT": {
+                "singular": "Ab sofort nichts mehr verpassen!"
+            },
+            "de-CH": {
+                "singular": "Ab sofort nichts mehr verpassen!"
+            },
+            "de-DE": {
+                "singular": "Ab sofort nichts mehr verpassen!"
+            },
+            "en": {
+                "singular": "Sign-up now for our latest news and offers!"
+            },
+            "en-AU": {
+                "singular": "Sign-up now for our latest news and offers!"
+            },
+            "en-CA": {
+                "singular": "Sign-up now for our latest news and offers!"
+            },
+            "en-GB": {
+                "singular": "Sign-up now for our latest news and offers!"
+            },
+            "en-IE": {
+                "singular": "Sign-up now for our latest news and offers!"
+            },
+            "en-US": {
+                "singular": "Sign-up now for our latest news and offers!"
+            },
+            "es": {
+                "singular": "¡Registrese para recibir nuestras últimas noticias y ofertas!"
+            },
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {
+                "singular": "Abonnez-vous pour recevoir nos dernières offres et nouveautés!"
+            },
+            "fr-BE": {
+                "singular": "Abonnez-vous pour recevoir nos dernières offres et nouveautés!"
+            },
+            "fr-CA": {
+                "singular": "Abonnez-vous pour recevoir nos dernières offres et nouveautés!"
+            },
+            "fr-CH": {
+                "singular": "Abonnez-vous pour recevoir nos dernières offres et nouveautés!"
+            },
+            "fr-FR": {
+                "singular": "Abonnez-vous pour recevoir nos dernières offres et nouveautés!"
+            },
+            "hr": {},
+            "it": {
+                "singular": "Iscriviti per aggiornamenti sulle nostre offerte e novità!"
+            },
+            "it-CH": {
+                "singular": "Iscriviti per aggiornamenti sulle nostre offerte e novità!"
+            },
+            "it-IT": {
+                "singular": "Iscriviti per aggiornamenti sulle nostre offerte e novità!"
+            },
+            "nl": {
+                "singular": "Schrijf u nu in en ontvang ons laatste nieuws en aanbiedingen!\r\n"
+            },
+            "nl-BE": {
+                "singular": "Schrijf u nu in en ontvang ons laatste nieuws en aanbiedingen!\r\n"
+            },
+            "nl-NL": {
+                "singular": "Schrijf u nu in en ontvang ons laatste nieuws en aanbiedingen!\r\n"
+            },
+            "no": {},
+            "pl": {
+                "singular": "Bądź na bieżąco z najnowszymi informacjami i promocjami!"
+            },
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

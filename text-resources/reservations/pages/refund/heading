@@ -1,0 +1,125 @@
+{
+    "id": "reservations.pages.refund.heading",
+    "name": "heading",
+    "path": "text-resources/reservations/pages/refund/heading",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/refund/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "refund",
+        "heading"
+    ],
+    "content": {
+        "key": "reservations.pages.refund.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vrácení peněz"
+            },
+            "da": {
+                "singular": "Refusjon"
+            },
+            "de": {
+                "singular": "Rückerstattung"
+            },
+            "de-AT": {
+                "singular": "Rückerstattung"
+            },
+            "de-CH": {
+                "singular": "Rückerstattung"
+            },
+            "de-DE": {
+                "singular": "Rückerstattung"
+            },
+            "en": {
+                "singular": "Refund"
+            },
+            "en-AU": {
+                "singular": "Refund"
+            },
+            "en-CA": {
+                "singular": "Refund"
+            },
+            "en-GB": {
+                "singular": "Refund"
+            },
+            "en-IE": {
+                "singular": "Refund"
+            },
+            "en-US": {
+                "singular": "Refund"
+            },
+            "es": {
+                "singular": "Reembolso"
+            },
+            "fi": {
+                "singular": "Hyvitys"
+            },
+            "fi-EE": {
+                "singular": "Hyvitys"
+            },
+            "fi-FI": {
+                "singular": "Hyvitys"
+            },
+            "fr": {
+                "singular": "Remboursement"
+            },
+            "fr-BE": {
+                "singular": "Remboursement"
+            },
+            "fr-CA": {
+                "singular": "Remboursement"
+            },
+            "fr-CH": {
+                "singular": "Remboursement"
+            },
+            "fr-FR": {
+                "singular": "Remboursement"
+            },
+            "hr": {
+                "singular": "Povrat sredstava"
+            },
+            "it": {
+                "singular": "Rimborso"
+            },
+            "it-CH": {
+                "singular": "Rimborso"
+            },
+            "it-IT": {
+                "singular": "Rimborso"
+            },
+            "nl": {
+                "singular": "Terugbetaling"
+            },
+            "nl-BE": {
+                "singular": "Terugbetaling"
+            },
+            "nl-NL": {
+                "singular": "Terugbetaling"
+            },
+            "no": {
+                "singular": "Refusjon"
+            },
+            "pl": {
+                "singular": "Zwrot"
+            },
+            "pt": {
+                "singular": "Reembolso"
+            },
+            "ru": {
+                "singular": "Возврат"
+            },
+            "sv": {
+                "singular": "Återbetalning"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "components.searchbar.travel_dates",
+    "name": "travel_dates",
+    "path": "text-resources/components/searchbar/travel_dates",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/travel_dates",
+    "slug": "travel_dates",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "travel_dates"
+    ],
+    "content": {
+        "key": "components.searchbar.travel_dates",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "příjezd - odjezd"
+            },
+            "da": {
+                "singular": "ankomst - afrejse"
+            },
+            "de": {
+                "singular": "Anreise - Abreise"
+            },
+            "de-AT": {
+                "singular": "Anreise - Abreise"
+            },
+            "de-CH": {
+                "singular": "Anreise - Abreise"
+            },
+            "de-DE": {
+                "singular": "Anreise - Abreise"
+            },
+            "en": {
+                "singular": "Arrival - departure"
+            },
+            "en-AU": {
+                "singular": "Arrival - departure"
+            },
+            "en-CA": {
+                "singular": "Arrival - departure"
+            },
+            "en-GB": {
+                "singular": "Arrival - departure"
+            },
+            "en-IE": {
+                "singular": "Arrival - departure"
+            },
+            "en-US": {
+                "singular": "Arrival - departure"
+            },
+            "es": {
+                "singular": "Llegada - Salida"
+            },
+            "fi": {
+                "singular": "Saapumispäivä - lähtöpäivä"
+            },
+            "fi-EE": {
+                "singular": "Saapumispäivä - lähtöpäivä"
+            },
+            "fi-FI": {
+                "singular": "Saapumispäivä - lähtöpäivä"
+            },
+            "fr": {
+                "singular": "Dates de séjour"
+            },
+            "fr-BE": {
+                "singular": "Dates de séjour"
+            },
+            "fr-CA": {
+                "singular": "Dates de séjour"
+            },
+            "fr-CH": {
+                "singular": "Dates de séjour"
+            },
+            "fr-FR": {
+                "singular": "Dates de séjour"
+            },
+            "hr": {
+                "singular": "Dolazak - odlazak"
+            },
+            "it": {
+                "singular": "Arrivo - partenza"
+            },
+            "it-CH": {
+                "singular": "Arrivo - partenza"
+            },
+            "it-IT": {
+                "singular": "Arrivo - partenza"
+            },
+            "nl": {
+                "singular": "Aankomst - Vertrek"
+            },
+            "nl-BE": {
+                "singular": "Aankomst - Vertrek"
+            },
+            "nl-NL": {
+                "singular": "Aankomst - Vertrek"
+            },
+            "no": {
+                "singular": "ankomst - avgang"
+            },
+            "pl": {
+                "singular": "data przyjazdu-data wyjazdu"
+            },
+            "pt": {
+                "singular": "Chegada - partida"
+            },
+            "ru": {
+                "singular": "Заезд-выезд"
+            },
+            "sv": {
+                "singular": "ankomst - avresa"
+            }
+        }
+    }
+}

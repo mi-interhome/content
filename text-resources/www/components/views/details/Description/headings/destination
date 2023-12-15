@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Description.headings.destination",
+    "name": "destination",
+    "path": "text-resources/www/components/views/details/Description/headings/destination",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Description/headings/destination",
+    "slug": "destination",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Description",
+        "headings",
+        "destination"
+    ],
+    "content": {
+        "key": "www.components.views.details.Description.headings.destination",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Popis místa"
+            },
+            "da": {
+                "singular": "Beskrivelse af byen"
+            },
+            "de": {
+                "singular": "Ortsbeschreibung"
+            },
+            "de-AT": {
+                "singular": "Ortsbeschreibung"
+            },
+            "de-CH": {
+                "singular": "Ortsbeschreibung"
+            },
+            "de-DE": {
+                "singular": "Ortsbeschreibung"
+            },
+            "en": {
+                "singular": "Location Description"
+            },
+            "en-AU": {
+                "singular": "Location Description"
+            },
+            "en-CA": {
+                "singular": "Location Description"
+            },
+            "en-GB": {
+                "singular": "Location Description"
+            },
+            "en-IE": {
+                "singular": "Location Description"
+            },
+            "en-US": {
+                "singular": "Location Description"
+            },
+            "es": {
+                "singular": "Descripción de la localidad"
+            },
+            "fi": {
+                "singular": "Paikkakuntakuvaus"
+            },
+            "fi-EE": {
+                "singular": "Paikkakuntakuvaus"
+            },
+            "fi-FI": {
+                "singular": "Paikkakuntakuvaus"
+            },
+            "fr": {
+                "singular": "Description de la localité"
+            },
+            "fr-BE": {
+                "singular": "Description de la localité"
+            },
+            "fr-CA": {
+                "singular": "Description de la localité"
+            },
+            "fr-CH": {
+                "singular": "Description de la localité"
+            },
+            "fr-FR": {
+                "singular": "Description de la localité"
+            },
+            "hr": {
+                "singular": "Opis mjesta"
+            },
+            "it": {
+                "singular": "Descrizione della località"
+            },
+            "it-CH": {
+                "singular": "Descrizione della località"
+            },
+            "it-IT": {
+                "singular": "Località"
+            },
+            "nl": {
+                "singular": "Plaatsbeschrijving"
+            },
+            "nl-BE": {
+                "singular": "Plaatsbeschrijving"
+            },
+            "nl-NL": {
+                "singular": "Plaatsbeschrijving"
+            },
+            "no": {
+                "singular": "Stedsbeskrivelse"
+            },
+            "pl": {
+                "singular": "Opis miejscowości"
+            },
+            "pt": {
+                "singular": "Resort descrição"
+            },
+            "ru": {
+                "singular": "Описание курорта"
+            },
+            "sv": {
+                "singular": "Beskrivning av resmålet"
+            }
+        }
+    }
+}

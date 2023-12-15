@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.home.your_office",
+    "name": "your_office",
+    "path": "text-resources/webccSalesportal/home/your_office",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/home/your_office",
+    "slug": "your_office",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "home",
+        "your_office"
+    ],
+    "content": {
+        "key": "webccSalesportal.home.your_office",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše Interhome Group kancelář"
+            },
+            "da": {
+                "singular": "Dit Interhome Group-kontor"
+            },
+            "de": {
+                "singular": "Ihr Interhome Group Büro"
+            },
+            "de-AT": {
+                "singular": "Ihr Interhome Group Büro"
+            },
+            "de-CH": {
+                "singular": "Ihr Interhome Group Kontakt"
+            },
+            "de-DE": {
+                "singular": "Ihr Interhome Group Büro"
+            },
+            "en": {
+                "singular": "Your Interhome Group office"
+            },
+            "en-AU": {
+                "singular": "Your Interhome Group office"
+            },
+            "en-CA": {
+                "singular": "Your Interhome Group office"
+            },
+            "en-GB": {
+                "singular": "Your Interhome Group office"
+            },
+            "en-IE": {
+                "singular": "Your Interhome Group office"
+            },
+            "en-US": {
+                "singular": "Your Interhome Group office"
+            },
+            "es": {
+                "singular": "Su oficina Interhome Group"
+            },
+            "fi": {
+                "singular": "Interhome Group toimistosi"
+            },
+            "fi-EE": {
+                "singular": "Interhome Group toimistosi"
+            },
+            "fi-FI": {
+                "singular": "Interhome Group toimistosi"
+            },
+            "fr": {
+                "singular": "Votre bureau Interhome Group"
+            },
+            "fr-BE": {
+                "singular": "Votre bureau Interhome Group"
+            },
+            "fr-CA": {
+                "singular": "Votre bureau Interhome Group"
+            },
+            "fr-CH": {
+                "singular": "Votre bureau Interhome Group"
+            },
+            "fr-FR": {
+                "singular": "Votre bureau Interhome Group"
+            },
+            "hr": {
+                "singular": "Vaš Interhome Group ured"
+            },
+            "it": {
+                "singular": "Il tuo ufficio Interhome Group"
+            },
+            "it-CH": {
+                "singular": "Il tuo ufficio Interhome Group"
+            },
+            "it-IT": {
+                "singular": "Il tuo ufficio Interhome Group"
+            },
+            "nl": {
+                "singular": "Uw Interhome Group kantoor"
+            },
+            "nl-BE": {
+                "singular": "Uw Interhome Group kantoor"
+            },
+            "nl-NL": {
+                "singular": "Uw Interhome Group kantoor"
+            },
+            "no": {
+                "singular": "Interhome Group-kontoret ditt"
+            },
+            "pl": {
+                "singular": "Twoje biuro Interhome Group"
+            },
+            "pt": {
+                "singular": "O seu escritório Interhome Group"
+            },
+            "ru": {
+                "singular": "Ваш Interhome Group офис"
+            },
+            "sv": {
+                "singular": "Ditt Interhome Group-kontor"
+            }
+        }
+    }
+}

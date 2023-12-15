@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.duringStay.furniture",
+    "name": "furniture",
+    "path": "text-resources/reservations/pages/review/duringStay/furniture",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/duringStay/furniture",
+    "slug": "furniture",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "duringStay",
+        "furniture"
+    ],
+    "content": {
+        "key": "reservations.pages.review.duringStay.furniture",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Stav nábytku"
+            },
+            "da": {
+                "singular": "Møblernes tilstand"
+            },
+            "de": {
+                "singular": "Zustand der Möbel"
+            },
+            "de-AT": {
+                "singular": "Zustand der Möbel"
+            },
+            "de-CH": {
+                "singular": "Zustand der Möbel"
+            },
+            "de-DE": {
+                "singular": "Zustand der Möbel"
+            },
+            "en": {
+                "singular": "Condition of the furniture"
+            },
+            "en-AU": {
+                "singular": "Condition of the furniture"
+            },
+            "en-CA": {
+                "singular": "Condition of the furniture"
+            },
+            "en-GB": {
+                "singular": "Condition of the furniture"
+            },
+            "en-IE": {
+                "singular": "Condition of the furniture"
+            },
+            "en-US": {
+                "singular": "Condition of the furniture"
+            },
+            "es": {
+                "singular": "Estado del mobiliario"
+            },
+            "fi": {
+                "singular": "Huonekalujen kunto"
+            },
+            "fi-EE": {
+                "singular": "Huonekalujen kunto"
+            },
+            "fi-FI": {
+                "singular": "Huonekalujen kunto"
+            },
+            "fr": {
+                "singular": "État des meubles"
+            },
+            "fr-BE": {
+                "singular": "État des meubles"
+            },
+            "fr-CA": {
+                "singular": "État des meubles"
+            },
+            "fr-CH": {
+                "singular": "État des meubles"
+            },
+            "fr-FR": {
+                "singular": "État des meubles"
+            },
+            "hr": {
+                "singular": "Stanje namještaja"
+            },
+            "it": {
+                "singular": "Condizioni dell'arredamento"
+            },
+            "it-CH": {
+                "singular": "Condizioni dell'arredamento"
+            },
+            "it-IT": {
+                "singular": "Condizioni dell'arredamento"
+            },
+            "nl": {
+                "singular": "Staat van het meubilair"
+            },
+            "nl-BE": {
+                "singular": "Staat van het meubilair"
+            },
+            "nl-NL": {
+                "singular": "Staat van het meubilair"
+            },
+            "no": {
+                "singular": "Møbeltilstand"
+            },
+            "pl": {
+                "singular": "Stan mebli"
+            },
+            "pt": {
+                "singular": "Condições dos móveis"
+            },
+            "ru": {
+                "singular": "Состояние мебели"
+            },
+            "sv": {
+                "singular": "Möblernas skick"
+            }
+        }
+    }
+}

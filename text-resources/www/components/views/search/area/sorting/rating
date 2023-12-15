@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.area.sorting.rating",
+    "name": "rating",
+    "path": "text-resources/www/components/views/search/area/sorting/rating",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/area/sorting/rating",
+    "slug": "rating",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "area",
+        "sorting",
+        "rating"
+    ],
+    "content": {
+        "key": "www.components.views.search.area.sorting.rating",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zákaznické recenze"
+            },
+            "da": {
+                "singular": "Kundeanmeldelser"
+            },
+            "de": {
+                "singular": "Kundenbewertungen"
+            },
+            "de-AT": {
+                "singular": "Kundenbewertungen"
+            },
+            "de-CH": {
+                "singular": "Kundenbewertungen"
+            },
+            "de-DE": {
+                "singular": "Kundenbewertungen"
+            },
+            "en": {
+                "singular": "Customer Reviews"
+            },
+            "en-AU": {
+                "singular": "Customer Reviews"
+            },
+            "en-CA": {
+                "singular": "Customer Reviews"
+            },
+            "en-GB": {
+                "singular": "Customer Reviews"
+            },
+            "en-IE": {
+                "singular": "Customer Reviews"
+            },
+            "en-US": {
+                "singular": "Customer Reviews"
+            },
+            "es": {
+                "singular": "Opiniones de clientes"
+            },
+            "fi": {
+                "singular": "Asiakkaiden arvioinnit"
+            },
+            "fi-EE": {
+                "singular": "Asiakkaiden arvioinnit"
+            },
+            "fi-FI": {
+                "singular": "Asiakkaiden arvioinnit"
+            },
+            "fr": {
+                "singular": "Avis Clients"
+            },
+            "fr-BE": {
+                "singular": "Avis Clients"
+            },
+            "fr-CA": {
+                "singular": "Avis Clients"
+            },
+            "fr-CH": {
+                "singular": "Avis Clients"
+            },
+            "fr-FR": {
+                "singular": "Avis Clients"
+            },
+            "hr": {
+                "singular": "Ocjene gostiju"
+            },
+            "it": {
+                "singular": "Recensioni dei clienti"
+            },
+            "it-CH": {
+                "singular": "Recensioni dei clienti"
+            },
+            "it-IT": {
+                "singular": "Recensioni dei clienti"
+            },
+            "nl": {
+                "singular": "Klantbeoordelingen"
+            },
+            "nl-BE": {
+                "singular": "Klantbeoordelingen"
+            },
+            "nl-NL": {
+                "singular": "Klantbeoordelingen"
+            },
+            "no": {
+                "singular": "Kundeanmeldelser"
+            },
+            "pl": {
+                "singular": "Opinie Klientów"
+            },
+            "pt": {
+                "singular": "Avaliações de Clientes"
+            },
+            "ru": {
+                "singular": "Отзывы туристов"
+            },
+            "sv": {
+                "singular": "Recensioner"
+            }
+        }
+    }
+}

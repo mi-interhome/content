@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.area.addFilters",
+    "name": "addFilters",
+    "path": "text-resources/www/components/views/search/area/addFilters",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/area/addFilters",
+    "slug": "addFilters",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "area",
+        "addFilters"
+    ],
+    "content": {
+        "key": "www.components.views.search.area.addFilters",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přidat filtr"
+            },
+            "da": {
+                "singular": "Anvend filter"
+            },
+            "de": {
+                "singular": "Filter hinzufügen"
+            },
+            "de-AT": {
+                "singular": "Filter hinzufügen"
+            },
+            "de-CH": {
+                "singular": "Filter hinzufügen"
+            },
+            "de-DE": {
+                "singular": "Filter hinzufügen"
+            },
+            "en": {
+                "singular": "Add filter"
+            },
+            "en-AU": {
+                "singular": "Add filter"
+            },
+            "en-CA": {
+                "singular": "Add filter"
+            },
+            "en-GB": {
+                "singular": "Add filter"
+            },
+            "en-IE": {
+                "singular": "Add filter"
+            },
+            "en-US": {
+                "singular": "Add filter"
+            },
+            "es": {
+                "singular": "Añadir filtro"
+            },
+            "fi": {
+                "singular": "Lisää suodatin"
+            },
+            "fi-EE": {
+                "singular": "Add filter"
+            },
+            "fi-FI": {
+                "singular": "Lisää suodatin"
+            },
+            "fr": {
+                "singular": "Ajouter des filtres"
+            },
+            "fr-BE": {
+                "singular": "Ajouter des filtres"
+            },
+            "fr-CA": {
+                "singular": "Ajouter des filtres"
+            },
+            "fr-CH": {
+                "singular": "Ajouter des filtres"
+            },
+            "fr-FR": {
+                "singular": "Ajouter des filtres"
+            },
+            "hr": {
+                "singular": "Dodaj filter"
+            },
+            "it": {
+                "singular": "Aggiungere filltro"
+            },
+            "it-CH": {
+                "singular": "Aggiungere filltro"
+            },
+            "it-IT": {
+                "singular": "Aggiungere filltro"
+            },
+            "nl": {
+                "singular": "Filter toevoegen"
+            },
+            "nl-BE": {
+                "singular": "Filter toevoegen"
+            },
+            "nl-NL": {
+                "singular": "Filter toevoegen"
+            },
+            "no": {
+                "singular": "Bruk filter"
+            },
+            "pl": {
+                "singular": "Dodatkowe filtry"
+            },
+            "pt": {
+                "singular": "Adicionar filtro"
+            },
+            "ru": {
+                "singular": "Добавить фильтр"
+            },
+            "sv": {
+                "singular": "Använd filter"
+            }
+        }
+    }
+}

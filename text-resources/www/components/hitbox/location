@@ -1,0 +1,125 @@
+{
+    "id": "www.components.hitbox.location",
+    "name": "location",
+    "path": "text-resources/www/components/hitbox/location",
+    "folder": "text-resources",
+    "full_slug": "www/components/hitbox/location",
+    "slug": "location",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "hitbox",
+        "location"
+    ],
+    "content": {
+        "key": "www.components.hitbox.location",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Mapa"
+            },
+            "da": {
+                "singular": "Kort"
+            },
+            "de": {
+                "singular": "Karte"
+            },
+            "de-AT": {
+                "singular": "Karte"
+            },
+            "de-CH": {
+                "singular": "Karte"
+            },
+            "de-DE": {
+                "singular": "Karte"
+            },
+            "en": {
+                "singular": "Map"
+            },
+            "en-AU": {
+                "singular": "Map"
+            },
+            "en-CA": {
+                "singular": "Map"
+            },
+            "en-GB": {
+                "singular": "Map"
+            },
+            "en-IE": {
+                "singular": "Map"
+            },
+            "en-US": {
+                "singular": "Map"
+            },
+            "es": {
+                "singular": "Mapa"
+            },
+            "fi": {
+                "singular": "Kartta"
+            },
+            "fi-EE": {
+                "singular": "Kartta"
+            },
+            "fi-FI": {
+                "singular": "Kartta"
+            },
+            "fr": {
+                "singular": "Carte"
+            },
+            "fr-BE": {
+                "singular": "Carte"
+            },
+            "fr-CA": {
+                "singular": "Carte"
+            },
+            "fr-CH": {
+                "singular": "Carte"
+            },
+            "fr-FR": {
+                "singular": "Carte"
+            },
+            "hr": {
+                "singular": "Karta"
+            },
+            "it": {
+                "singular": "Mappa"
+            },
+            "it-CH": {
+                "singular": "Mappa"
+            },
+            "it-IT": {
+                "singular": "Mappa"
+            },
+            "nl": {
+                "singular": "Kaart"
+            },
+            "nl-BE": {
+                "singular": "Kaart"
+            },
+            "nl-NL": {
+                "singular": "Kaart"
+            },
+            "no": {
+                "singular": "Kart"
+            },
+            "pl": {
+                "singular": "Mapa"
+            },
+            "pt": {
+                "singular": "Mapa"
+            },
+            "ru": {
+                "singular": "Карта"
+            },
+            "sv": {
+                "singular": "Karta"
+            }
+        }
+    }
+}

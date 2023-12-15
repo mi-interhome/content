@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.reviews.Item.friends",
+    "name": "friends",
+    "path": "text-resources/www/components/views/reviews/Item/friends",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Item/friends",
+    "slug": "friends",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Item",
+        "friends"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Item.friends",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přátelé"
+            },
+            "da": {
+                "singular": "Med venner"
+            },
+            "de": {
+                "singular": "Freunden"
+            },
+            "de-AT": {
+                "singular": "Freunden"
+            },
+            "de-CH": {
+                "singular": "Freunden"
+            },
+            "de-DE": {
+                "singular": "Freunden"
+            },
+            "en": {
+                "singular": "Friends"
+            },
+            "en-AU": {
+                "singular": "Friends"
+            },
+            "en-CA": {
+                "singular": "Friends"
+            },
+            "en-GB": {
+                "singular": "Friends"
+            },
+            "en-IE": {
+                "singular": "Friends"
+            },
+            "en-US": {
+                "singular": "Friends"
+            },
+            "es": {
+                "singular": "Con amigos"
+            },
+            "fi": {
+                "singular": "Kaverit"
+            },
+            "fi-EE": {
+                "singular": "Kaverit"
+            },
+            "fi-FI": {
+                "singular": "Kaverit"
+            },
+            "fr": {
+                "singular": "Avec mes amis"
+            },
+            "fr-BE": {
+                "singular": "Avec mes amis"
+            },
+            "fr-CA": {
+                "singular": "Avec mes amis"
+            },
+            "fr-CH": {
+                "singular": "Avec mes amis"
+            },
+            "fr-FR": {
+                "singular": "Avec mes amis"
+            },
+            "hr": {
+                "singular": "Prijatelji"
+            },
+            "it": {
+                "singular": "Amici"
+            },
+            "it-CH": {
+                "singular": "Amici"
+            },
+            "it-IT": {
+                "singular": "Amici"
+            },
+            "nl": {
+                "singular": "Vrienden"
+            },
+            "nl-BE": {
+                "singular": "Vrienden"
+            },
+            "nl-NL": {
+                "singular": "Vrienden"
+            },
+            "no": {
+                "singular": "Med venner"
+            },
+            "pl": {
+                "singular": "Ze znajomymi"
+            },
+            "pt": {
+                "singular": "Com amigos"
+            },
+            "ru": {
+                "singular": "С друзьями"
+            },
+            "sv": {
+                "singular": "Med vänner"
+            }
+        }
+    }
+}

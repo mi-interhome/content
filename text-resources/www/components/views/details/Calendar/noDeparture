@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Calendar.noDeparture",
+    "name": "noDeparture",
+    "path": "text-resources/www/components/views/details/Calendar/noDeparture",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Calendar/noDeparture",
+    "slug": "noDeparture",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Calendar",
+        "noDeparture"
+    ],
+    "content": {
+        "key": "www.components.views.details.Calendar.noDeparture",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odjezd není možný"
+            },
+            "da": {
+                "singular": "Afrejse ikke muligt"
+            },
+            "de": {
+                "singular": "Keine Abreise möglich"
+            },
+            "de-AT": {
+                "singular": "Keine Abreise möglich"
+            },
+            "de-CH": {
+                "singular": "Keine Abreise möglich"
+            },
+            "de-DE": {
+                "singular": "Keine Abreise möglich"
+            },
+            "en": {
+                "singular": "Departure not possible"
+            },
+            "en-AU": {
+                "singular": "Departure not possible"
+            },
+            "en-CA": {
+                "singular": "Departure not possible"
+            },
+            "en-GB": {
+                "singular": "Departure not possible"
+            },
+            "en-IE": {
+                "singular": "Departure not possible"
+            },
+            "en-US": {
+                "singular": "Departure not possible"
+            },
+            "es": {
+                "singular": "La salida no es posible"
+            },
+            "fi": {
+                "singular": "Lähtöpäivä ei ole mahdollinen"
+            },
+            "fi-EE": {
+                "singular": "Lähtöpäivä ei ole mahdollinen"
+            },
+            "fi-FI": {
+                "singular": "Lähtöpäivä ei ole mahdollinen"
+            },
+            "fr": {
+                "singular": "Départ non possible"
+            },
+            "fr-BE": {
+                "singular": "Départ non possible"
+            },
+            "fr-CA": {
+                "singular": "Départ non possible"
+            },
+            "fr-CH": {
+                "singular": "Départ non possible"
+            },
+            "fr-FR": {
+                "singular": "Départ non possible"
+            },
+            "hr": {
+                "singular": "Odlazak nije moguć"
+            },
+            "it": {
+                "singular": "Partenza non possibile"
+            },
+            "it-CH": {
+                "singular": "Partenza non possibile"
+            },
+            "it-IT": {
+                "singular": "Partenza non possibile"
+            },
+            "nl": {
+                "singular": "Geen vertrek mogelijk "
+            },
+            "nl-BE": {
+                "singular": "Geen vertrek mogelijk "
+            },
+            "nl-NL": {
+                "singular": "Geen vertrek mogelijk "
+            },
+            "no": {
+                "singular": "Avreise ikke mulig"
+            },
+            "pl": {
+                "singular": "Nie ma możliwości wyjazdu"
+            },
+            "pt": {
+                "singular": "Partida não possível"
+            },
+            "ru": {
+                "singular": "Выезд невозможен"
+            },
+            "sv": {
+                "singular": "Avresa ej möjlig"
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.hobbies.diving",
+    "name": "diving",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/hobbies/diving",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/hobbies/diving",
+    "slug": "diving",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "hobbies",
+        "diving"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.hobbies.diving",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potápění"
+            },
+            "da": {
+                "singular": "Dykning"
+            },
+            "de": {
+                "singular": "Tauchen"
+            },
+            "de-AT": {
+                "singular": "Tauchen"
+            },
+            "de-CH": {
+                "singular": "Tauchen"
+            },
+            "de-DE": {
+                "singular": "Tauchen"
+            },
+            "en": {
+                "singular": "Diving"
+            },
+            "en-AU": {
+                "singular": "Diving"
+            },
+            "en-CA": {
+                "singular": "Diving"
+            },
+            "en-GB": {
+                "singular": "Diving"
+            },
+            "en-IE": {
+                "singular": "Diving"
+            },
+            "en-US": {
+                "singular": "Diving"
+            },
+            "es": {
+                "singular": "Buceo"
+            },
+            "fi": {
+                "singular": "Sukeltaminen"
+            },
+            "fi-EE": {
+                "singular": "Sukeltaminen"
+            },
+            "fi-FI": {
+                "singular": "Sukeltaminen"
+            },
+            "fr": {
+                "singular": "Plongée"
+            },
+            "fr-BE": {
+                "singular": "Plongée"
+            },
+            "fr-CA": {
+                "singular": "Plongée"
+            },
+            "fr-CH": {
+                "singular": "Plongée"
+            },
+            "fr-FR": {
+                "singular": "Plongée"
+            },
+            "hr": {
+                "singular": "Ronjenje"
+            },
+            "it": {
+                "singular": "Immersioni"
+            },
+            "it-CH": {
+                "singular": "Immersioni"
+            },
+            "it-IT": {
+                "singular": "Immersioni"
+            },
+            "nl": {
+                "singular": "Duiken"
+            },
+            "nl-BE": {
+                "singular": "Duiken"
+            },
+            "nl-NL": {
+                "singular": "Duiken"
+            },
+            "no": {
+                "singular": "Dykking"
+            },
+            "pl": {
+                "singular": "Nurkowanie"
+            },
+            "pt": {
+                "singular": "Mergulho"
+            },
+            "ru": {
+                "singular": "Дайвинг"
+            },
+            "sv": {
+                "singular": "Dykning"
+            }
+        }
+    }
+}

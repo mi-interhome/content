@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.overview.cancellation.message",
+    "name": "message",
+    "path": "text-resources/reservations/pages/overview/cancellation/message",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/overview/cancellation/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "overview",
+        "cancellation",
+        "message"
+    ],
+    "content": {
+        "key": "reservations.pages.overview.cancellation.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zde můžete zrušit svou rezervaci"
+            },
+            "da": {
+                "singular": "Her kan du annullere din ordre"
+            },
+            "de": {
+                "singular": "Hier haben Sie die Möglichkeit, Ihre Buchung zu stornieren."
+            },
+            "de-AT": {
+                "singular": "Hier haben Sie die Möglichkeit, Ihre Buchung zu stornieren."
+            },
+            "de-CH": {
+                "singular": "Hier haben Sie die Möglichkeit, Ihre Buchung zu stornieren."
+            },
+            "de-DE": {
+                "singular": "Hier haben Sie die Möglichkeit, Ihre Buchung zu stornieren."
+            },
+            "en": {
+                "singular": "Here you have the possibility to cancel your booking."
+            },
+            "en-AU": {
+                "singular": "Here you have the possibility to cancel your booking."
+            },
+            "en-CA": {
+                "singular": "Here you have the possibility to cancel your booking."
+            },
+            "en-GB": {
+                "singular": "Here you have the possibility to cancel your booking."
+            },
+            "en-IE": {
+                "singular": "Here you have the possibility to cancel your booking."
+            },
+            "en-US": {
+                "singular": "Here you have the possibility to cancel your booking."
+            },
+            "es": {
+                "singular": "Puede cancelar su reserva aquí"
+            },
+            "fi": {
+                "singular": "Voit peruuttaa varauksesi tästä"
+            },
+            "fi-EE": {
+                "singular": "Voit peruuttaa varauksesi tästä"
+            },
+            "fi-FI": {
+                "singular": "Voit peruuttaa varauksesi tästä"
+            },
+            "fr": {
+                "singular": "Vous pouvez annuler votre réservation ici"
+            },
+            "fr-BE": {
+                "singular": "Vous pouvez annuler votre réservation ici"
+            },
+            "fr-CA": {
+                "singular": "Vous pouvez annuler votre réservation ici"
+            },
+            "fr-CH": {
+                "singular": "Vous pouvez annuler votre réservation ici"
+            },
+            "fr-FR": {
+                "singular": "Vous pouvez annuler votre réservation ici"
+            },
+            "hr": {
+                "singular": "Ovdje možete otkazati svoju rezervaciju"
+            },
+            "it": {
+                "singular": "Può cancellare la Sua prenotazione qui"
+            },
+            "it-CH": {
+                "singular": "Può cancellare la Sua prenotazione qui"
+            },
+            "it-IT": {
+                "singular": "Può cancellare la Sua prenotazione qui"
+            },
+            "nl": {
+                "singular": "U kunt uw boeking hier annuleren"
+            },
+            "nl-BE": {
+                "singular": "U kunt uw boeking hier annuleren"
+            },
+            "nl-NL": {
+                "singular": "U kunt uw boeking hier annuleren"
+            },
+            "no": {
+                "singular": "Her kan du kansellere din bestilling"
+            },
+            "pl": {
+                "singular": "Anulacja rezerwacji"
+            },
+            "pt": {
+                "singular": "Pode cancelar a sua reserva aqui"
+            },
+            "ru": {
+                "singular": "Вы можете отменить бронирование здесь"
+            },
+            "sv": {
+                "singular": "Här kan du avbeställa din bokning"
+            }
+        }
+    }
+}

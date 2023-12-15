@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.retailer.reference",
+    "name": "reference",
+    "path": "text-resources/checkout/components/booking/retailer/reference",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/retailer/reference",
+    "slug": "reference",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "retailer",
+        "reference"
+    ],
+    "content": {
+        "key": "checkout.components.booking.retailer.reference",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše číslo rezervace"
+            },
+            "da": {
+                "singular": "Din henvisning"
+            },
+            "de": {
+                "singular": "Ihre Referenz"
+            },
+            "de-AT": {
+                "singular": "Ihre Referenz"
+            },
+            "de-CH": {
+                "singular": "Ihre Referenz"
+            },
+            "de-DE": {
+                "singular": "Ihre Referenz"
+            },
+            "en": {
+                "singular": "Your reference"
+            },
+            "en-AU": {
+                "singular": "Your reference"
+            },
+            "en-CA": {
+                "singular": "Your reference"
+            },
+            "en-GB": {
+                "singular": "Your reference"
+            },
+            "en-IE": {
+                "singular": "Your reference"
+            },
+            "en-US": {
+                "singular": "Your reference"
+            },
+            "es": {
+                "singular": "Su localizador"
+            },
+            "fi": {
+                "singular": "Viitteenne"
+            },
+            "fi-EE": {
+                "singular": "Viitteenne"
+            },
+            "fi-FI": {
+                "singular": "Viitteenne"
+            },
+            "fr": {
+                "singular": "Votre référence"
+            },
+            "fr-BE": {
+                "singular": "Votre référence"
+            },
+            "fr-CA": {
+                "singular": "Votre référence"
+            },
+            "fr-CH": {
+                "singular": "Votre référence"
+            },
+            "fr-FR": {
+                "singular": "Votre référence"
+            },
+            "hr": {
+                "singular": "Vaš identifikacijski broj"
+            },
+            "it": {
+                "singular": "Il tuo riferimento"
+            },
+            "it-CH": {
+                "singular": "Il tuo riferimento"
+            },
+            "it-IT": {
+                "singular": "Il tuo riferimento"
+            },
+            "nl": {
+                "singular": "Uw referentie"
+            },
+            "nl-BE": {
+                "singular": "Uw referentie"
+            },
+            "nl-NL": {
+                "singular": "Uw referentie"
+            },
+            "no": {
+                "singular": "Din referanse"
+            },
+            "pl": {
+                "singular": "Twój nr dokumentu"
+            },
+            "pt": {
+                "singular": "A sua referência"
+            },
+            "ru": {
+                "singular": "Ваш референс"
+            },
+            "sv": {
+                "singular": "Er referens"
+            }
+        }
+    }
+}

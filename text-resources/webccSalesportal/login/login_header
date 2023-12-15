@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.login.login_header",
+    "name": "login_header",
+    "path": "text-resources/webccSalesportal/login/login_header",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/login_header",
+    "slug": "login_header",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "login_header"
+    ],
+    "content": {
+        "key": "webccSalesportal.login.login_header",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přihlášení do partnerského portálu"
+            },
+            "da": {
+                "singular": "Login Partnerportal"
+            },
+            "de": {
+                "singular": "Login Partner Portal"
+            },
+            "de-AT": {
+                "singular": "Login Partner Portal"
+            },
+            "de-CH": {
+                "singular": "Login Partner Portal"
+            },
+            "de-DE": {
+                "singular": "Login Partner Portal"
+            },
+            "en": {
+                "singular": "Partner Portal Login"
+            },
+            "en-AU": {
+                "singular": "Partner Portal Login"
+            },
+            "en-CA": {
+                "singular": "Partner Portal Login"
+            },
+            "en-GB": {
+                "singular": "Partner Portal Login"
+            },
+            "en-IE": {
+                "singular": "Partner Portal Login"
+            },
+            "en-US": {
+                "singular": "Partner Portal Login"
+            },
+            "es": {
+                "singular": "Login Portal Partner"
+            },
+            "fi": {
+                "singular": "Partner Portal Login"
+            },
+            "fi-EE": {
+                "singular": "Partner Portal Login"
+            },
+            "fi-FI": {
+                "singular": "Partner Portal Login"
+            },
+            "fr": {
+                "singular": "Identifiant"
+            },
+            "fr-BE": {
+                "singular": "Identifiant"
+            },
+            "fr-CA": {
+                "singular": "Identifiant"
+            },
+            "fr-CH": {
+                "singular": "Identifiant"
+            },
+            "fr-FR": {
+                "singular": "Identifiant"
+            },
+            "hr": {
+                "singular": "Portal za partnere - prijava"
+            },
+            "it": {
+                "singular": "Login al sito agenzie viaggi/partner web"
+            },
+            "it-CH": {
+                "singular": "Login al sito agenzie viaggi/partner web"
+            },
+            "it-IT": {
+                "singular": "Login al sito agenzie viaggi/partner web"
+            },
+            "nl": {
+                "singular": "Partner Portal Login"
+            },
+            "nl-BE": {
+                "singular": "Partner Portal Login"
+            },
+            "nl-NL": {
+                "singular": "Partner Portal Login"
+            },
+            "no": {
+                "singular": "Login Partnerportal"
+            },
+            "pl": {
+                "singular": "Logowanie do Portalu dla Partnerów"
+            },
+            "pt": {
+                "singular": "Acesso ao Portal do Parceiro"
+            },
+            "ru": {
+                "singular": "Вход на партнерский портал"
+            },
+            "sv": {
+                "singular": "Login Partnerportal\n"
+            }
+        }
+    }
+}

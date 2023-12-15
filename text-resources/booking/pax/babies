@@ -1,0 +1,124 @@
+{
+    "id": "booking.pax.babies",
+    "name": "babies",
+    "path": "text-resources/booking/pax/babies",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/babies",
+    "slug": "babies",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "babies"
+    ],
+    "content": {
+        "key": "booking.pax.babies",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Batole"
+            },
+            "da": {
+                "singular": "Spædbørn"
+            },
+            "de": {
+                "singular": "Babies"
+            },
+            "de-AT": {
+                "singular": "Babies"
+            },
+            "de-CH": {
+                "singular": "Babies"
+            },
+            "de-DE": {
+                "singular": "Babies"
+            },
+            "en": {
+                "singular": "Babies"
+            },
+            "en-AU": {
+                "singular": "Babies"
+            },
+            "en-CA": {
+                "singular": "Babies"
+            },
+            "en-GB": {
+                "singular": "Babies"
+            },
+            "en-IE": {
+                "singular": "Babies"
+            },
+            "en-US": {
+                "singular": "Babies"
+            },
+            "es": {
+                "singular": "Bebés"
+            },
+            "fi": {
+                "singular": "Lapset"
+            },
+            "fi-EE": {
+                "singular": "Lapset"
+            },
+            "fi-FI": {
+                "singular": "Lapset"
+            },
+            "fr": {
+                "singular": "Bébés"
+            },
+            "fr-BE": {
+                "singular": "Bébés"
+            },
+            "fr-CA": {
+                "singular": "Bébés"
+            },
+            "fr-CH": {
+                "singular": "Bébés"
+            },
+            "fr-FR": {
+                "singular": "Bébés"
+            },
+            "hr": {
+                "singular": "Bebe"
+            },
+            "it": {
+                "singular": "Neonati"
+            },
+            "it-CH": {
+                "singular": "Neonati"
+            },
+            "it-IT": {
+                "singular": "Neonati"
+            },
+            "nl": {
+                "singular": "Baby's"
+            },
+            "nl-BE": {
+                "singular": "Baby's"
+            },
+            "nl-NL": {
+                "singular": "Baby's"
+            },
+            "no": {
+                "singular": "Babyer"
+            },
+            "pl": {
+                "singular": "Niemowlęta"
+            },
+            "pt": {
+                "singular": "Bebês"
+            },
+            "ru": {
+                "singular": "Младенцы"
+            },
+            "sv": {
+                "singular": "Småbarn"
+            }
+        }
+    }
+}

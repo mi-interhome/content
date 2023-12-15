@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.conversionRate",
+    "name": "conversionRate",
+    "path": "text-resources/webccSalesportal/pages/reports/webstats/conversionRate",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/conversionRate",
+    "slug": "conversionRate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "conversionRate"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.conversionRate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Konverzní poměr"
+            },
+            "da": {
+                "singular": "Konverteringsrate"
+            },
+            "de": {
+                "singular": "Konversionsrate"
+            },
+            "de-AT": {
+                "singular": "Konversionsrate"
+            },
+            "de-CH": {
+                "singular": "Konversionsrate"
+            },
+            "de-DE": {
+                "singular": "Konversionsrate"
+            },
+            "en": {
+                "singular": "Conversionrate"
+            },
+            "en-AU": {
+                "singular": "Conversionrate"
+            },
+            "en-CA": {
+                "singular": "Conversionrate"
+            },
+            "en-GB": {
+                "singular": "Conversionrate"
+            },
+            "en-IE": {
+                "singular": "Conversionrate"
+            },
+            "en-US": {
+                "singular": "Conversionrate"
+            },
+            "es": {
+                "singular": "Tasa de conversión"
+            },
+            "fi": {
+                "singular": "Konversioaste"
+            },
+            "fi-EE": {
+                "singular": "Konversioaste"
+            },
+            "fi-FI": {
+                "singular": "Konversioaste"
+            },
+            "fr": {
+                "singular": "Taux de conversion"
+            },
+            "fr-BE": {
+                "singular": "Taux de conversion"
+            },
+            "fr-CA": {
+                "singular": "Taux de conversion"
+            },
+            "fr-CH": {
+                "singular": "Taux de conversion"
+            },
+            "fr-FR": {
+                "singular": "Taux de conversion"
+            },
+            "hr": {
+                "singular": "Stopa konverzije"
+            },
+            "it": {
+                "singular": "Tasso di conversione"
+            },
+            "it-CH": {
+                "singular": "Tasso di conversione"
+            },
+            "it-IT": {
+                "singular": "Tasso di conversione"
+            },
+            "nl": {
+                "singular": "Conversieratio"
+            },
+            "nl-BE": {
+                "singular": "Conversieratio"
+            },
+            "nl-NL": {
+                "singular": "Conversieratio"
+            },
+            "no": {
+                "singular": "Konverteringsrate"
+            },
+            "pl": {
+                "singular": "Wskaźnik konwersji"
+            },
+            "pt": {
+                "singular": "Taxa de conversão"
+            },
+            "ru": {
+                "singular": "Коэффициент конверсии"
+            },
+            "sv": {
+                "singular": "Konverteringsgrad"
+            }
+        }
+    }
+}

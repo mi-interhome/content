@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.paymentMethod.IDpartialInfo",
+    "name": "IDpartialInfo",
+    "path": "text-resources/checkout/components/booking/paymentMethod/IDpartialInfo",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/paymentMethod/IDpartialInfo",
+    "slug": "IDpartialInfo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "paymentMethod",
+        "IDpartialInfo"
+    ],
+    "content": {
+        "key": "checkout.components.booking.paymentMethod.IDpartialInfo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokud se nyní rozhodnete zaplatit jen zálohu, uhraďte prosím doplatek nejpozději 42 dní před odjezdem. "
+            },
+            "da": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "de": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, zahlen Sie den Restbetrag bitte bis spätestens 42 Tage vor der Abreise."
+            },
+            "de-AT": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, zahlen Sie den Restbetrag bitte bis spätestens 42 Tage vor der Abreise."
+            },
+            "de-CH": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, zahlen Sie den Restbetrag bitte bis spätestens 42 Tage vor der Abreise."
+            },
+            "de-DE": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, zahlen Sie den Restbetrag bitte bis spätestens 42 Tage vor der Abreise."
+            },
+            "en": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "en-AU": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "en-CA": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "en-GB": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "en-IE": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "en-US": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "es": {
+                "singular": "Si elige pagar ahora la primera parte, por favor haga el resto del pago antes de 42 días previos a la llegada."
+            },
+            "fi": {
+                "singular": "Mikäli maksat vain varausmaksun tässä vaiheessa, ole hyvä ja suorita loppumaksu viimeistään 42 päivää ennen vuokrauksen alkua."
+            },
+            "fi-EE": {
+                "singular": "Mikäli maksat vain varausmaksun tässä vaiheessa, ole hyvä ja suorita loppumaksu viimeistään 42 päivää ennen vuokrauksen alkua."
+            },
+            "fi-FI": {
+                "singular": "Mikäli maksat vain varausmaksun tässä vaiheessa, ole hyvä ja suorita loppumaksu viimeistään 42 päivää ennen vuokrauksen alkua."
+            },
+            "fr": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, merci de payer le solde au plus tard 42 jours avant votre départ."
+            },
+            "fr-BE": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, merci de payer le solde au plus tard 42 jours avant votre départ."
+            },
+            "fr-CA": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, merci de payer le solde au plus tard 42 jours avant votre départ."
+            },
+            "fr-CH": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, merci de payer le solde au plus tard 42 jours avant votre départ."
+            },
+            "fr-FR": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, merci de payer le solde au plus tard 42 jours avant votre départ."
+            },
+            "hr": {
+                "singular": "Ako sada birate uplatiti predujam, molimo da preostali iznos uplatite ranije od 42 dana prije polaska. "
+            },
+            "it": {
+                "singular": "In caso scegliessi di pagare solo l'acconto ora, ti preghiamo di effettuare il pagamento del saldo entro la data indicata."
+            },
+            "it-CH": {
+                "singular": "In caso scegliessi di pagare solo l'acconto ora, ti preghiamo di effettuare il pagamento del saldo entro la data indicata."
+            },
+            "it-IT": {
+                "singular": "In caso scegliessi di pagare solo l'acconto ora, ti preghiamo di effettuare il pagamento del saldo entro la data indicata."
+            },
+            "nl": {
+                "singular": "Als u ervoor kiest om de aanbetaling nu te betalen, dient u het resterende bedrag uiterlijk 42 dagen voor vertrek te betalen."
+            },
+            "nl-BE": {
+                "singular": "Als u ervoor kiest om de aanbetaling nu te betalen, dient u het resterende bedrag uiterlijk 42 dagen voor vertrek te betalen."
+            },
+            "nl-NL": {
+                "singular": "Als u ervoor kiest om de aanbetaling nu te betalen, dient u het resterende bedrag uiterlijk 42 dagen voor vertrek te betalen."
+            },
+            "no": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            },
+            "pl": {
+                "singular": "W przypadku, gdy w dniu dzisiejszym chcą Państwo zapłacić tylko zaliczkę, drugą ratę płatności za rezerwację prosimy zapłacić najpóźniej na 42 dni przed wyjazdem.\r\n"
+            },
+            "pt": {
+                "singular": "Se optar por pagar apenas o depósito agora, por favor, realize o restante pagamento até aos 42 dias anteriores à sua partida."
+            },
+            "ru": {
+                "singular": "Если Вы сейчас решите внести только предоплату, то оставшуюся сумму необходимо внести не позднее, чем за 42 дня до заезда."
+            },
+            "sv": {
+                "singular": "If you choose to just pay the deposit now, please pay the remaining balance no later than 42 days before departure."
+            }
+        }
+    }
+}

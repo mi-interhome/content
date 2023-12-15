@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.recommendGroups.romantic",
+    "name": "romantic",
+    "path": "text-resources/reservations/pages/review/recommendGroups/romantic",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/recommendGroups/romantic",
+    "slug": "romantic",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "recommendGroups",
+        "romantic"
+    ],
+    "content": {
+        "key": "reservations.pages.review.recommendGroups.romantic",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Romantická krátká dovolená"
+            },
+            "da": {
+                "singular": "En romantisk smuttur"
+            },
+            "de": {
+                "singular": "Romantischer Trip"
+            },
+            "de-AT": {
+                "singular": "Romantischer Trip"
+            },
+            "de-CH": {
+                "singular": "Romantischer Trip"
+            },
+            "de-DE": {
+                "singular": "Romantischer Trip"
+            },
+            "en": {
+                "singular": "A romantic getaway"
+            },
+            "en-AU": {
+                "singular": "A romantic getaway"
+            },
+            "en-CA": {
+                "singular": "A romantic getaway"
+            },
+            "en-GB": {
+                "singular": "A romantic getaway"
+            },
+            "en-IE": {
+                "singular": "A romantic getaway"
+            },
+            "en-US": {
+                "singular": "A romantic getaway"
+            },
+            "es": {
+                "singular": "Una escapada romántica"
+            },
+            "fi": {
+                "singular": "Romanttinen loma"
+            },
+            "fi-EE": {
+                "singular": "Romanttinen loma"
+            },
+            "fi-FI": {
+                "singular": "Romanttinen loma"
+            },
+            "fr": {
+                "singular": "Pour les amoureux"
+            },
+            "fr-BE": {
+                "singular": "Pour les amoureux"
+            },
+            "fr-CA": {
+                "singular": "Pour les amoureux"
+            },
+            "fr-CH": {
+                "singular": "Pour les amoureux"
+            },
+            "fr-FR": {
+                "singular": "Pour les amoureux"
+            },
+            "hr": {
+                "singular": "Romantični odmor"
+            },
+            "it": {
+                "singular": "Coppie"
+            },
+            "it-CH": {
+                "singular": "Coppie"
+            },
+            "it-IT": {
+                "singular": "Coppie"
+            },
+            "nl": {
+                "singular": "Stelletjes"
+            },
+            "nl-BE": {
+                "singular": "Stelletjes"
+            },
+            "nl-NL": {
+                "singular": "Stelletjes"
+            },
+            "no": {
+                "singular": "En romantisk utflukt"
+            },
+            "pl": {
+                "singular": "Miejsce na romantyczny wyjazd"
+            },
+            "pt": {
+                "singular": "Uma viagem romântica"
+            },
+            "ru": {
+                "singular": "Романтический отпуск"
+            },
+            "sv": {
+                "singular": "En romantisk resa"
+            }
+        }
+    }
+}

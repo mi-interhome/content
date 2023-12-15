@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.forms.travellersForm.maxlen",
+    "name": "maxlen",
+    "path": "text-resources/precheckin/components/forms/travellersForm/maxlen",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/maxlen",
+    "slug": "maxlen",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "maxlen"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.maxlen",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Musí mít méně než {maxLength} znaků"
+            },
+            "da": {
+                "singular": "Skal være mindre end {maxLength} tegn"
+            },
+            "de": {
+                "singular": "Nur weniger als {maxLength} Zeichen erlaubt"
+            },
+            "de-AT": {
+                "singular": "Nur weniger als {maxLength} Zeichen erlaubt"
+            },
+            "de-CH": {
+                "singular": "Nur weniger als {maxLength} Zeichen erlaubt"
+            },
+            "de-DE": {
+                "singular": "Nur weniger als {maxLength} Zeichen erlaubt"
+            },
+            "en": {
+                "singular": "Must be less than {maxLength} characters"
+            },
+            "en-AU": {
+                "singular": "Must be less than {maxLength} characters"
+            },
+            "en-CA": {
+                "singular": "Must be less than {maxLength} characters"
+            },
+            "en-GB": {
+                "singular": "Must be less than {maxLength} characters"
+            },
+            "en-IE": {
+                "singular": "Must be less than {maxLength} characters"
+            },
+            "en-US": {
+                "singular": "Must be less than {maxLength} characters"
+            },
+            "es": {
+                "singular": "Debe tener menos de {maxLength} caracteres"
+            },
+            "fi": {
+                "singular": "Tulee olla vähemmän kuin {maxLength} merkkiä"
+            },
+            "fi-EE": {
+                "singular": "Tulee olla vähemmän kuin {maxLength} merkkiä"
+            },
+            "fi-FI": {
+                "singular": "Tulee olla vähemmän kuin {maxLength} merkkiä"
+            },
+            "fr": {
+                "singular": "Moins de {maxLength} signes autorisés"
+            },
+            "fr-BE": {
+                "singular": "Moins de {maxLength} signes autorisés"
+            },
+            "fr-CA": {
+                "singular": "Moins de {maxLength} signes autorisés"
+            },
+            "fr-CH": {
+                "singular": "Moins de {maxLength} signes autorisés"
+            },
+            "fr-FR": {
+                "singular": "Moins de {maxLength} signes autorisés"
+            },
+            "hr": {
+                "singular": "Mora biti manje od {maxLength} znamenki"
+            },
+            "it": {
+                "singular": "Deve contenere meno di {maxLength} caratteri."
+            },
+            "it-CH": {
+                "singular": "Deve contenere meno di {maxLength} caratteri."
+            },
+            "it-IT": {
+                "singular": "Deve contenere meno di {maxLength} caratteri."
+            },
+            "nl": {
+                "singular": "Moet minder dan {maxLength} tekens bevatten"
+            },
+            "nl-BE": {
+                "singular": "Moet minder dan {maxLength} tekens bevatten"
+            },
+            "nl-NL": {
+                "singular": "Moet minder dan {maxLength} tekens bevatten"
+            },
+            "no": {
+                "singular": "Må være mindre enn {maxLength} tegn"
+            },
+            "pl": {
+                "singular": "Nie może zawierać więcej niż {maxLength} znaków"
+            },
+            "pt": {
+                "singular": "Deve ter menos de {maxLength} caracteres"
+            },
+            "ru": {
+                "singular": "Должно быть меньше {maxLength} символов"
+            },
+            "sv": {
+                "singular": "Måste vara färre än {maxLength} tecken"
+            }
+        }
+    }
+}

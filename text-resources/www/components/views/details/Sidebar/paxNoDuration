@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Sidebar.paxNoDuration",
+    "name": "paxNoDuration",
+    "path": "text-resources/www/components/views/details/Sidebar/paxNoDuration",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Sidebar/paxNoDuration",
+    "slug": "paxNoDuration",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Sidebar",
+        "paxNoDuration"
+    ],
+    "content": {
+        "key": "www.components.views.details.Sidebar.paxNoDuration",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte prosím termín Vašeho pobytu."
+            },
+            "da": {
+                "singular": "Vælg rejsedato."
+            },
+            "de": {
+                "singular": "Bitte wählen Sie Ihren Reisetermin aus."
+            },
+            "de-AT": {
+                "singular": "Bitte wählen Sie Ihren Reisetermin aus."
+            },
+            "de-CH": {
+                "singular": "Bitte wählen Sie Ihren Reisetermin aus."
+            },
+            "de-DE": {
+                "singular": "Bitte wählen Sie Ihren Reisetermin aus."
+            },
+            "en": {
+                "singular": "Please select your travel date."
+            },
+            "en-AU": {
+                "singular": "Please select your travel date."
+            },
+            "en-CA": {
+                "singular": "Please select your travel date."
+            },
+            "en-GB": {
+                "singular": "Please select your travel date."
+            },
+            "en-IE": {
+                "singular": "Please select your travel date."
+            },
+            "en-US": {
+                "singular": "Please select your travel date."
+            },
+            "es": {
+                "singular": "Por favor seleccione sus fechas de viaje."
+            },
+            "fi": {
+                "singular": "Ole hyvä ja valitse matkustuspäivät."
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja valitse matkustuspäivät."
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja valitse matkustuspäivät."
+            },
+            "fr": {
+                "singular": "Veuillez choisir votre date de voyage"
+            },
+            "fr-BE": {
+                "singular": "Veuillez choisir votre date de voyage"
+            },
+            "fr-CA": {
+                "singular": "Veuillez choisir votre date de voyage"
+            },
+            "fr-CH": {
+                "singular": "Veuillez choisir votre date de voyage"
+            },
+            "fr-FR": {
+                "singular": "Veuillez choisir votre date de voyage"
+            },
+            "hr": {
+                "singular": "Molimo odabrati termin putovanja."
+            },
+            "it": {
+                "singular": "Per favore inserire le date di viaggio."
+            },
+            "it-CH": {
+                "singular": "Per favore inserire le date di viaggio."
+            },
+            "it-IT": {
+                "singular": "Per favore inserire le date di viaggio."
+            },
+            "nl": {
+                "singular": "Selecteer uw reisdatum."
+            },
+            "nl-BE": {
+                "singular": "Selecteer uw reisdatum."
+            },
+            "nl-NL": {
+                "singular": "Selecteer uw reisdatum."
+            },
+            "no": {
+                "singular": "Velg reisedato."
+            },
+            "pl": {
+                "singular": "Prosimy wybrać datę pobytu."
+            },
+            "pt": {
+                "singular": "Selecione a data da sua viagem."
+            },
+            "ru": {
+                "singular": "Пожалуйста выберете дату Вашего путешествия."
+            },
+            "sv": {
+                "singular": "Var god välj ett resdatum."
+            }
+        }
+    }
+}

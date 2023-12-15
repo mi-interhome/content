@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.services.types.Y6",
+    "name": "Y6",
+    "path": "text-resources/webccBooking/pages/reservations/services/types/Y6",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/services/types/Y6",
+    "slug": "Y6",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "services",
+        "types",
+        "Y6"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.services.types.Y6",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zařídíte si sami"
+            },
+            "da": {
+                "singular": "Muligt at organisere selv"
+            },
+            "de": {
+                "singular": "Selbst zu organisieren"
+            },
+            "de-AT": {
+                "singular": "Selbst zu organisieren"
+            },
+            "de-CH": {
+                "singular": "Selbst zu organisieren"
+            },
+            "de-DE": {
+                "singular": "Selbst zu organisieren"
+            },
+            "en": {
+                "singular": "Own arrangement"
+            },
+            "en-AU": {
+                "singular": "Own arrangement"
+            },
+            "en-CA": {
+                "singular": "Own arrangement"
+            },
+            "en-GB": {
+                "singular": "Own arrangement"
+            },
+            "en-IE": {
+                "singular": "Own arrangement"
+            },
+            "en-US": {
+                "singular": "Own arrangement"
+            },
+            "es": {
+                "singular": "Por cuenta propia"
+            },
+            "fi": {
+                "singular": "Itse järjestettävä"
+            },
+            "fi-EE": {
+                "singular": "Itse järjestettävä"
+            },
+            "fi-FI": {
+                "singular": "Itse järjestettävä"
+            },
+            "fr": {
+                "singular": "A organiser soi même"
+            },
+            "fr-BE": {
+                "singular": "A organiser soi même"
+            },
+            "fr-CA": {
+                "singular": "A organiser soi même"
+            },
+            "fr-CH": {
+                "singular": "A organiser soi même"
+            },
+            "fr-FR": {
+                "singular": "A organiser soi même"
+            },
+            "hr": {
+                "singular": "U vlastitom aranžmanu"
+            },
+            "it": {
+                "singular": "Da organizzare per conto proprio"
+            },
+            "it-CH": {
+                "singular": "Da organizzare per conto proprio"
+            },
+            "it-IT": {
+                "singular": "Da organizzare per conto proprio"
+            },
+            "nl": {
+                "singular": "Zelf te organiseren"
+            },
+            "nl-BE": {
+                "singular": "Zelf te organiseren"
+            },
+            "nl-NL": {
+                "singular": "Zelf te organiseren"
+            },
+            "no": {
+                "singular": "Ordnes selv"
+            },
+            "pl": {
+                "singular": "Do zorganizowania we własnym zakresie"
+            },
+            "pt": {
+                "singular": "Own arrangement"
+            },
+            "ru": {
+                "singular": "организуется самостоятельно"
+            },
+            "sv": {
+                "singular": "Ordna själv"
+            }
+        }
+    }
+}

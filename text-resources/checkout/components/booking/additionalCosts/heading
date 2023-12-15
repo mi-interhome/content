@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.additionalCosts.heading",
+    "name": "heading",
+    "path": "text-resources/checkout/components/booking/additionalCosts/heading",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/additionalCosts/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "additionalCosts",
+        "heading"
+    ],
+    "content": {
+        "key": "checkout.components.booking.additionalCosts.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dodatečné náklady"
+            },
+            "da": {
+                "singular": "Ekstraomkostninger"
+            },
+            "de": {
+                "singular": "Nebenkosten"
+            },
+            "de-AT": {
+                "singular": "Nebenkosten"
+            },
+            "de-CH": {
+                "singular": "Nebenkosten"
+            },
+            "de-DE": {
+                "singular": "Nebenkosten"
+            },
+            "en": {
+                "singular": "Additional Costs"
+            },
+            "en-AU": {
+                "singular": "Additional Costs"
+            },
+            "en-CA": {
+                "singular": "Additional Costs"
+            },
+            "en-GB": {
+                "singular": "Additional Costs"
+            },
+            "en-IE": {
+                "singular": "Additional Costs"
+            },
+            "en-US": {
+                "singular": "Additional Costs"
+            },
+            "es": {
+                "singular": "Costes adicionales"
+            },
+            "fi": {
+                "singular": "Lisäkulut"
+            },
+            "fi-EE": {
+                "singular": "Lisäkulut"
+            },
+            "fi-FI": {
+                "singular": "Lisäkulut"
+            },
+            "fr": {
+                "singular": "Frais additionnels"
+            },
+            "fr-BE": {
+                "singular": "Frais additionnels"
+            },
+            "fr-CA": {
+                "singular": "Frais additionnels"
+            },
+            "fr-CH": {
+                "singular": "Frais additionnels"
+            },
+            "fr-FR": {
+                "singular": "Frais additionnels"
+            },
+            "hr": {
+                "singular": "Dodatni troškovi"
+            },
+            "it": {
+                "singular": "Costi addizionali"
+            },
+            "it-CH": {
+                "singular": "Costi addizionali"
+            },
+            "it-IT": {
+                "singular": "Costi addizionali"
+            },
+            "nl": {
+                "singular": "Bijkomende kosten"
+            },
+            "nl-BE": {
+                "singular": "Bijkomende kosten"
+            },
+            "nl-NL": {
+                "singular": "Bijkomende kosten"
+            },
+            "no": {
+                "singular": "Ekstrakostnader "
+            },
+            "pl": {
+                "singular": "Dodatkowe koszty"
+            },
+            "pt": {
+                "singular": "Custos Adicionais"
+            },
+            "ru": {
+                "singular": "Дополнительные расходы"
+            },
+            "sv": {
+                "singular": "Extrakostnader"
+            }
+        }
+    }
+}

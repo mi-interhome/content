@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.buttons.cancel",
+    "name": "cancel",
+    "path": "text-resources/webccBooking/components/reservation/cancellation/modalCancellation/buttons/cancel",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/buttons/cancel",
+    "slug": "cancel",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "buttons",
+        "cancel"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.buttons.cancel",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zrušit"
+            },
+            "da": {
+                "singular": "Annuller"
+            },
+            "de": {
+                "singular": "Abbrechen"
+            },
+            "de-AT": {
+                "singular": "Abbrechen"
+            },
+            "de-CH": {
+                "singular": "Abbrechen"
+            },
+            "de-DE": {
+                "singular": "Abbrechen"
+            },
+            "en": {
+                "singular": "Cancel"
+            },
+            "en-AU": {
+                "singular": "Cancel"
+            },
+            "en-CA": {
+                "singular": "Cancel"
+            },
+            "en-GB": {
+                "singular": "Cancel"
+            },
+            "en-IE": {
+                "singular": "Cancel"
+            },
+            "en-US": {
+                "singular": "Cancel"
+            },
+            "es": {
+                "singular": "Cancelar"
+            },
+            "fi": {
+                "singular": "Peruuta"
+            },
+            "fi-EE": {
+                "singular": "Peruuta"
+            },
+            "fi-FI": {
+                "singular": "Peruuta"
+            },
+            "fr": {
+                "singular": "Annuler"
+            },
+            "fr-BE": {
+                "singular": "Annuler"
+            },
+            "fr-CA": {
+                "singular": "Annuler"
+            },
+            "fr-CH": {
+                "singular": "Annuler"
+            },
+            "fr-FR": {
+                "singular": "Annuler"
+            },
+            "hr": {
+                "singular": "Otkaži"
+            },
+            "it": {
+                "singular": "Cancellare"
+            },
+            "it-CH": {
+                "singular": "Cancellare"
+            },
+            "it-IT": {
+                "singular": "Cancellare"
+            },
+            "nl": {
+                "singular": "Annuleer"
+            },
+            "nl-BE": {
+                "singular": "Annuleer"
+            },
+            "nl-NL": {
+                "singular": "Annuleer"
+            },
+            "no": {
+                "singular": "Avbryt"
+            },
+            "pl": {
+                "singular": "Anuluj"
+            },
+            "pt": {
+                "singular": "Cancelar"
+            },
+            "ru": {
+                "singular": "Отмена"
+            },
+            "sv": {
+                "singular": "Avbeställ"
+            }
+        }
+    }
+}

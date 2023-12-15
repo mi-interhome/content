@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.datepicker.to",
+    "name": "to",
+    "path": "text-resources/webccSalesportal/datepicker/to",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/to",
+    "slug": "to",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "to"
+    ],
+    "content": {
+        "key": "webccSalesportal.datepicker.to",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Do"
+            },
+            "da": {
+                "singular": "Til"
+            },
+            "de": {
+                "singular": "Bis"
+            },
+            "de-AT": {
+                "singular": "Bis"
+            },
+            "de-CH": {
+                "singular": "Bis"
+            },
+            "de-DE": {
+                "singular": "Bis"
+            },
+            "en": {
+                "singular": "To"
+            },
+            "en-AU": {
+                "singular": "To"
+            },
+            "en-CA": {
+                "singular": "To"
+            },
+            "en-GB": {
+                "singular": "To"
+            },
+            "en-IE": {
+                "singular": "To"
+            },
+            "en-US": {
+                "singular": "To"
+            },
+            "es": {
+                "singular": "hasta"
+            },
+            "fi": {
+                "singular": "Lähtö"
+            },
+            "fi-EE": {
+                "singular": "Lähtö"
+            },
+            "fi-FI": {
+                "singular": "Lähtö"
+            },
+            "fr": {
+                "singular": "Au"
+            },
+            "fr-BE": {
+                "singular": "Au"
+            },
+            "fr-CA": {
+                "singular": "Au"
+            },
+            "fr-CH": {
+                "singular": "Au"
+            },
+            "fr-FR": {
+                "singular": "Au"
+            },
+            "hr": {
+                "singular": "Do"
+            },
+            "it": {
+                "singular": "Tool"
+            },
+            "it-CH": {
+                "singular": "Tool"
+            },
+            "it-IT": {
+                "singular": "Tool"
+            },
+            "nl": {
+                "singular": "Tot"
+            },
+            "nl-BE": {
+                "singular": "Tot"
+            },
+            "nl-NL": {
+                "singular": "Tot"
+            },
+            "no": {
+                "singular": "Til"
+            },
+            "pl": {
+                "singular": "do"
+            },
+            "pt": {
+                "singular": "Para"
+            },
+            "ru": {
+                "singular": "До"
+            },
+            "sv": {
+                "singular": "Till"
+            }
+        }
+    }
+}

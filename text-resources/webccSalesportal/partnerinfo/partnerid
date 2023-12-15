@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.partnerinfo.partnerid",
+    "name": "partnerid",
+    "path": "text-resources/webccSalesportal/partnerinfo/partnerid",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/partnerid",
+    "slug": "partnerid",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "partnerid"
+    ],
+    "content": {
+        "key": "webccSalesportal.partnerinfo.partnerid",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Partnerské ID"
+            },
+            "da": {
+                "singular": "Partner ID"
+            },
+            "de": {
+                "singular": "Partner ID"
+            },
+            "de-AT": {
+                "singular": "Partner ID"
+            },
+            "de-CH": {
+                "singular": "Partner ID"
+            },
+            "de-DE": {
+                "singular": "Partner ID"
+            },
+            "en": {
+                "singular": "Partner ID"
+            },
+            "en-AU": {
+                "singular": "Partner ID"
+            },
+            "en-CA": {
+                "singular": "Partner ID"
+            },
+            "en-GB": {
+                "singular": "Partner ID"
+            },
+            "en-IE": {
+                "singular": "Partner ID"
+            },
+            "en-US": {
+                "singular": "Partner ID"
+            },
+            "es": {
+                "singular": "Partner ID"
+            },
+            "fi": {
+                "singular": "Partner ID"
+            },
+            "fi-EE": {
+                "singular": "Partner ID"
+            },
+            "fi-FI": {
+                "singular": "Partner ID"
+            },
+            "fr": {
+                "singular": "Numéro identifiant"
+            },
+            "fr-BE": {
+                "singular": "Numéro identifiant"
+            },
+            "fr-CA": {
+                "singular": "Numéro identifiant"
+            },
+            "fr-CH": {
+                "singular": "Numéro identifiant"
+            },
+            "fr-FR": {
+                "singular": "Numéro identifiant"
+            },
+            "hr": {
+                "singular": "Šifra partnera"
+            },
+            "it": {
+                "singular": "Codice identificativo"
+            },
+            "it-CH": {
+                "singular": "Codice identificativo"
+            },
+            "it-IT": {
+                "singular": "Codice identificativo"
+            },
+            "nl": {
+                "singular": "Partner ID"
+            },
+            "nl-BE": {
+                "singular": "Partner ID"
+            },
+            "nl-NL": {
+                "singular": "Partner ID"
+            },
+            "no": {
+                "singular": "Partner-ID"
+            },
+            "pl": {
+                "singular": "Partner ID"
+            },
+            "pt": {
+                "singular": "ID do parceiro"
+            },
+            "ru": {
+                "singular": "ID партнёра"
+            },
+            "sv": {
+                "singular": "Partner-ID"
+            }
+        }
+    }
+}

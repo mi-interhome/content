@@ -1,0 +1,124 @@
+{
+    "id": "booking.buttons.checkB2B",
+    "name": "checkB2B",
+    "path": "text-resources/booking/buttons/checkB2B",
+    "folder": "text-resources",
+    "full_slug": "booking/buttons/checkB2B",
+    "slug": "checkB2B",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "buttons",
+        "checkB2B"
+    ],
+    "content": {
+        "key": "booking.buttons.checkB2B",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokračovat"
+            },
+            "da": {
+                "singular": "Fortsæt til oversigten"
+            },
+            "de": {
+                "singular": "Weiter zur Übersicht"
+            },
+            "de-AT": {
+                "singular": "Weiter zur Übersicht"
+            },
+            "de-CH": {
+                "singular": "Weiter zur Übersicht"
+            },
+            "de-DE": {
+                "singular": "Weiter zur Übersicht"
+            },
+            "en": {
+                "singular": "Continue to overview"
+            },
+            "en-AU": {
+                "singular": "Continue to overview"
+            },
+            "en-CA": {
+                "singular": "Continue to overview"
+            },
+            "en-GB": {
+                "singular": "Continue to overview"
+            },
+            "en-IE": {
+                "singular": "Continue to overview"
+            },
+            "en-US": {
+                "singular": "Continue to overview"
+            },
+            "es": {
+                "singular": "Continuar"
+            },
+            "fi": {
+                "singular": "Jatka yhteenvetoon"
+            },
+            "fi-EE": {
+                "singular": "Jatka yhteenvetoon"
+            },
+            "fi-FI": {
+                "singular": "Jatka yhteenvetoon"
+            },
+            "fr": {
+                "singular": "Continuer"
+            },
+            "fr-BE": {
+                "singular": "Continuer"
+            },
+            "fr-CA": {
+                "singular": "Continuer"
+            },
+            "fr-CH": {
+                "singular": "Continuer"
+            },
+            "fr-FR": {
+                "singular": "Continuer"
+            },
+            "hr": {
+                "singular": "Pregled plaćanja"
+            },
+            "it": {
+                "singular": "Controlla i tuoi dati"
+            },
+            "it-CH": {
+                "singular": "Controlla i tuoi dati"
+            },
+            "it-IT": {
+                "singular": "Controlla i tuoi dati"
+            },
+            "nl": {
+                "singular": "Verder naar overzicht"
+            },
+            "nl-BE": {
+                "singular": "Verder naar overzicht"
+            },
+            "nl-NL": {
+                "singular": "Verder naar overzicht"
+            },
+            "no": {
+                "singular": "Fortsett til oversikt"
+            },
+            "pl": {
+                "singular": "Przejdź do przeglądu"
+            },
+            "pt": {
+                "singular": "Continuar"
+            },
+            "ru": {
+                "singular": "Перейти к обзору"
+            },
+            "sv": {
+                "singular": "Fortsätt till översikt"
+            }
+        }
+    }
+}

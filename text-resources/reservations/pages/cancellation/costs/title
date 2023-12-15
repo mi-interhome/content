@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.cancellation.costs.title",
+    "name": "title",
+    "path": "text-resources/reservations/pages/cancellation/costs/title",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/costs/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "costs",
+        "title"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.costs.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přehled nákladů"
+            },
+            "da": {
+                "singular": "Oversigt over omkostninger"
+            },
+            "de": {
+                "singular": "Kostenübersicht"
+            },
+            "de-AT": {
+                "singular": "Kostenübersicht"
+            },
+            "de-CH": {
+                "singular": "Kostenübersicht"
+            },
+            "de-DE": {
+                "singular": "Kostenübersicht"
+            },
+            "en": {
+                "singular": "Cost overview"
+            },
+            "en-AU": {
+                "singular": "Cost overview"
+            },
+            "en-CA": {
+                "singular": "Cost overview"
+            },
+            "en-GB": {
+                "singular": "Cost overview"
+            },
+            "en-IE": {
+                "singular": "Cost overview"
+            },
+            "en-US": {
+                "singular": "Cost overview"
+            },
+            "es": {
+                "singular": "Resumen de costes"
+            },
+            "fi": {
+                "singular": "Maksu yhteenveto"
+            },
+            "fi-EE": {
+                "singular": "Maksu yhteenveto"
+            },
+            "fi-FI": {
+                "singular": "Maksu yhteenveto"
+            },
+            "fr": {
+                "singular": "Récapitulatif des frais"
+            },
+            "fr-BE": {
+                "singular": "Récapitulatif des frais"
+            },
+            "fr-CA": {
+                "singular": "Récapitulatif des frais"
+            },
+            "fr-CH": {
+                "singular": "Récapitulatif des frais"
+            },
+            "fr-FR": {
+                "singular": "Récapitulatif des frais"
+            },
+            "hr": {
+                "singular": "Pregled troškova"
+            },
+            "it": {
+                "singular": "Panoramica dei costi"
+            },
+            "it-CH": {
+                "singular": "Panoramica dei costi"
+            },
+            "it-IT": {
+                "singular": "Panoramica dei costi"
+            },
+            "nl": {
+                "singular": "Kostenoverzicht"
+            },
+            "nl-BE": {
+                "singular": "Kostenoverzicht"
+            },
+            "nl-NL": {
+                "singular": "Kostenoverzicht"
+            },
+            "no": {
+                "singular": "Oversikt over kostnader"
+            },
+            "pl": {
+                "singular": "Przegląd kosztów"
+            },
+            "pt": {
+                "singular": "Visão geral de custos"
+            },
+            "ru": {
+                "singular": "Обзор стоимости"
+            },
+            "sv": {
+                "singular": "Översikt över kostnader"
+            }
+        }
+    }
+}

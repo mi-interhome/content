@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.reservationCard.states.WW",
+    "name": "WW",
+    "path": "text-resources/webccBooking/components/reservation/reservationCard/states/WW",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/reservationCard/states/WW",
+    "slug": "WW",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "reservationCard",
+        "states",
+        "WW"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.reservationCard.states.WW",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nepotvrzená rezervace"
+            },
+            "da": {
+                "singular": "Ubekræftet reservation"
+            },
+            "de": {
+                "singular": "Unbestätigte Buchung"
+            },
+            "de-AT": {
+                "singular": "Unbestätigte Buchung"
+            },
+            "de-CH": {
+                "singular": "Unbestätigte Buchung"
+            },
+            "de-DE": {
+                "singular": "Unbestätigte Buchung"
+            },
+            "en": {
+                "singular": "Unconfirmed booking"
+            },
+            "en-AU": {
+                "singular": "Unconfirmed booking"
+            },
+            "en-CA": {
+                "singular": "Unconfirmed booking"
+            },
+            "en-GB": {
+                "singular": "Unconfirmed booking"
+            },
+            "en-IE": {
+                "singular": "Unconfirmed booking"
+            },
+            "en-US": {
+                "singular": "Unconfirmed booking"
+            },
+            "es": {
+                "singular": "Reserva no confirmada"
+            },
+            "fi": {
+                "singular": "Vahvistamaton varaus"
+            },
+            "fi-EE": {
+                "singular": "Vahvistamaton varaus"
+            },
+            "fi-FI": {
+                "singular": "Vahvistamaton varaus"
+            },
+            "fr": {
+                "singular": "Réservation non confirmée"
+            },
+            "fr-BE": {
+                "singular": "Réservation non confirmée"
+            },
+            "fr-CA": {
+                "singular": "Réservation non confirmée"
+            },
+            "fr-CH": {
+                "singular": "Réservation non confirmée"
+            },
+            "fr-FR": {
+                "singular": "Réservation non confirmée"
+            },
+            "hr": {
+                "singular": "Nepotvrđena rezervacija"
+            },
+            "it": {
+                "singular": "Prenotazione non confermata"
+            },
+            "it-CH": {
+                "singular": "Prenotazione non confermata"
+            },
+            "it-IT": {
+                "singular": "Prenotazione non confermata"
+            },
+            "nl": {
+                "singular": "Onbevestigde boeking"
+            },
+            "nl-BE": {
+                "singular": "Onbevestigde boeking"
+            },
+            "nl-NL": {
+                "singular": "Onbevestigde boeking"
+            },
+            "no": {
+                "singular": "Ubekreftet bestilling"
+            },
+            "pl": {
+                "singular": "Rezerwacja niepotwierdzona"
+            },
+            "pt": {
+                "singular": "Reserva não confirmada"
+            },
+            "ru": {
+                "singular": "Неподтверждённое бронирование"
+            },
+            "sv": {
+                "singular": "Ej bekräftad bokning"
+            }
+        }
+    }
+}

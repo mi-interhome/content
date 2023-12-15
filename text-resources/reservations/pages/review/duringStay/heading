@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.duringStay.heading",
+    "name": "heading",
+    "path": "text-resources/reservations/pages/review/duringStay/heading",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/duringStay/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "duringStay",
+        "heading"
+    ],
+    "content": {
+        "key": "reservations.pages.review.duringStay.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Během Vašeho pobytu"
+            },
+            "da": {
+                "singular": "Under dit ophold"
+            },
+            "de": {
+                "singular": "Während Ihres Aufenthalts"
+            },
+            "de-AT": {
+                "singular": "Während Ihres Aufenthalts"
+            },
+            "de-CH": {
+                "singular": "Während Ihres Aufenthalts"
+            },
+            "de-DE": {
+                "singular": "Während Ihres Aufenthalts"
+            },
+            "en": {
+                "singular": "During your stay"
+            },
+            "en-AU": {
+                "singular": "During your stay"
+            },
+            "en-CA": {
+                "singular": "During your stay"
+            },
+            "en-GB": {
+                "singular": "During your stay"
+            },
+            "en-IE": {
+                "singular": "During your stay"
+            },
+            "en-US": {
+                "singular": "During your stay"
+            },
+            "es": {
+                "singular": "Durante tu estancia"
+            },
+            "fi": {
+                "singular": "Vierailun aikana"
+            },
+            "fi-EE": {
+                "singular": "Vierailun aikana"
+            },
+            "fi-FI": {
+                "singular": "Vierailun aikana"
+            },
+            "fr": {
+                "singular": "Pendant votre séjour"
+            },
+            "fr-BE": {
+                "singular": "Pendant votre séjour"
+            },
+            "fr-CA": {
+                "singular": "Pendant votre séjour"
+            },
+            "fr-CH": {
+                "singular": "Pendant votre séjour"
+            },
+            "fr-FR": {
+                "singular": "Pendant votre séjour"
+            },
+            "hr": {
+                "singular": "Za vrijeme boravka"
+            },
+            "it": {
+                "singular": "Durante il soggiorno"
+            },
+            "it-CH": {
+                "singular": "Durante il soggiorno"
+            },
+            "it-IT": {
+                "singular": "Durante il soggiorno"
+            },
+            "nl": {
+                "singular": "Tijdens uw verblijf"
+            },
+            "nl-BE": {
+                "singular": "Tijdens uw verblijf"
+            },
+            "nl-NL": {
+                "singular": "Tijdens uw verblijf"
+            },
+            "no": {
+                "singular": "Under oppholdet"
+            },
+            "pl": {
+                "singular": "Podczas pobytu"
+            },
+            "pt": {
+                "singular": "Durante sua estadia"
+            },
+            "ru": {
+                "singular": "Во время вашего пребывания"
+            },
+            "sv": {
+                "singular": "Under vistelsen"
+            }
+        }
+    }
+}

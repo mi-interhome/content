@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.pax.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/pages/reservations/overview/pax/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/pax/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "pax",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.pax.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cestující osoby"
+            },
+            "da": {
+                "singular": "Gæster"
+            },
+            "de": {
+                "singular": "Reisende Personen"
+            },
+            "de-AT": {
+                "singular": "Reisende Personen"
+            },
+            "de-CH": {
+                "singular": "Reisende Personen"
+            },
+            "de-DE": {
+                "singular": "Reisende Personen"
+            },
+            "en": {
+                "singular": "Persons travelling"
+            },
+            "en-AU": {
+                "singular": "Persons travelling"
+            },
+            "en-CA": {
+                "singular": "Persons travelling"
+            },
+            "en-GB": {
+                "singular": "Persons travelling"
+            },
+            "en-IE": {
+                "singular": "Persons travelling"
+            },
+            "en-US": {
+                "singular": "Persons travelling"
+            },
+            "es": {
+                "singular": "Viajeros"
+            },
+            "fi": {
+                "singular": "Matkustajamäärä"
+            },
+            "fi-EE": {
+                "singular": "Matkustajamäärä"
+            },
+            "fi-FI": {
+                "singular": "Matkustajamäärä"
+            },
+            "fr": {
+                "singular": "Nombre de personnes"
+            },
+            "fr-BE": {
+                "singular": "Nombre de personnes"
+            },
+            "fr-CA": {
+                "singular": "Nombre de personnes"
+            },
+            "fr-CH": {
+                "singular": "Nombre de personnes"
+            },
+            "fr-FR": {
+                "singular": "Nombre de personnes"
+            },
+            "hr": {
+                "singular": "Osobe koje putuju"
+            },
+            "it": {
+                "singular": "Numero di ospiti"
+            },
+            "it-CH": {
+                "singular": "Numero di ospiti"
+            },
+            "it-IT": {
+                "singular": "Numero di ospiti"
+            },
+            "nl": {
+                "singular": "Reizende personen"
+            },
+            "nl-BE": {
+                "singular": "Reizende personen"
+            },
+            "nl-NL": {
+                "singular": "Reizende personen"
+            },
+            "no": {
+                "singular": "Personer som reiser"
+            },
+            "pl": {
+                "singular": "Liczba osób"
+            },
+            "pt": {
+                "singular": "Viajantes"
+            },
+            "ru": {
+                "singular": "Туристы"
+            },
+            "sv": {
+                "singular": "Resande personer"
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "www.components.common.Chatbot.hours",
+    "name": "hours",
+    "path": "text-resources/www/components/common/Chatbot/hours",
+    "folder": "text-resources",
+    "full_slug": "www/components/common/Chatbot/hours",
+    "slug": "hours",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "common",
+        "Chatbot",
+        "hours"
+    ],
+    "content": {
+        "key": "www.components.common.Chatbot.hours",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "vor {value} Stunde(n)"
+            },
+            "de-AT": {
+                "singular": "vor {value} Stunde(n)"
+            },
+            "de-CH": {
+                "singular": "vor {value} Stunde(n)"
+            },
+            "de-DE": {
+                "singular": "vor {value} Stunde(n)"
+            },
+            "en": {},
+            "en-AU": {},
+            "en-CA": {},
+            "en-GB": {},
+            "en-IE": {},
+            "en-US": {},
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

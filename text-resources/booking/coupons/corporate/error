@@ -1,0 +1,125 @@
+{
+    "id": "booking.coupons.corporate.error",
+    "name": "error",
+    "path": "text-resources/booking/coupons/corporate/error",
+    "folder": "text-resources",
+    "full_slug": "booking/coupons/corporate/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "coupons",
+        "corporate",
+        "error"
+    ],
+    "content": {
+        "key": "booking.coupons.corporate.error",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím platný členský kód."
+            },
+            "da": {
+                "singular": "Indtast venligst en gyldig rabatkode (STORE BOGSTAVER)"
+            },
+            "de": {
+                "singular": "Bitte geben Sie einen gültigen Aktionscode ein."
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie einen gültigen Aktionscode ein."
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie einen gültigen Aktionscode ein."
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie einen gültigen Aktionscode ein."
+            },
+            "en": {
+                "singular": "Please enter a valid membership code."
+            },
+            "en-AU": {
+                "singular": "Please enter a valid membership code."
+            },
+            "en-CA": {
+                "singular": "Please enter a valid membership code."
+            },
+            "en-GB": {
+                "singular": "Please enter a valid membership code."
+            },
+            "en-IE": {
+                "singular": "Please enter a valid membership code."
+            },
+            "en-US": {
+                "singular": "Please enter a valid membership code."
+            },
+            "es": {
+                "singular": "Por favor inserte un número de socio válido."
+            },
+            "fi": {
+                "singular": "Lisää voimassaoleva tunnusnumero."
+            },
+            "fi-EE": {
+                "singular": "Lisää voimassaoleva tunnusnumero."
+            },
+            "fi-FI": {
+                "singular": "Lisää voimassaoleva tunnusnumero."
+            },
+            "fr": {
+                "singular": "Merci d'indiquer un code de réduction partenaire valide"
+            },
+            "fr-BE": {
+                "singular": "Merci d'indiquer un code de réduction partenaire valide"
+            },
+            "fr-CA": {
+                "singular": "Merci d'indiquer un code de réduction partenaire valide"
+            },
+            "fr-CH": {
+                "singular": "Merci d'indiquer un code de réduction partenaire valide"
+            },
+            "fr-FR": {
+                "singular": "Merci d'indiquer un code de réduction partenaire valide"
+            },
+            "hr": {
+                "singular": "Molimo unesite valjani članski broj."
+            },
+            "it": {
+                "singular": "Ti preghiamo di inserire un codice socio valido."
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di inserire un codice socio valido."
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di inserire un codice socio valido."
+            },
+            "nl": {
+                "singular": "Gelieve een geldige bedrijfsactiecode invoeren."
+            },
+            "nl-BE": {
+                "singular": "Gelieve een geldige bedrijfsactiecode invoeren."
+            },
+            "nl-NL": {
+                "singular": "Gelieve een geldige bedrijfsactiecode invoeren."
+            },
+            "no": {
+                "singular": "Vennligst skriv inn en gyldig rabattkode (STORE BOKSTAVER)"
+            },
+            "pl": {
+                "singular": "Prosimy o wprowadzenie poprawnego numeru partnera"
+            },
+            "pt": {
+                "singular": "Por favor, insira um código de sócio válido"
+            },
+            "ru": {
+                "singular": "Введите действительный код"
+            },
+            "sv": {
+                "singular": "Ange en giltig rabattkod (STORA BOKSTÄVER)"
+            }
+        }
+    }
+}

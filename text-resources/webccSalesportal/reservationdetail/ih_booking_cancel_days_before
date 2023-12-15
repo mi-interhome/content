@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_booking_cancel_days_before",
+    "name": "ih_booking_cancel_days_before",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_booking_cancel_days_before",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_booking_cancel_days_before",
+    "slug": "ih_booking_cancel_days_before",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_booking_cancel_days_before"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_booking_cancel_days_before",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{AMOUNT} dnů před začátkem doby pronájmu"
+            },
+            "da": {
+                "singular": "{AMOUNT} dage før starten af ​​lejeperioden"
+            },
+            "de": {
+                "singular": "{AMOUNT} Tage vor Mietbeginn"
+            },
+            "de-AT": {
+                "singular": "{AMOUNT} Tage vor Mietbeginn"
+            },
+            "de-CH": {
+                "singular": "{AMOUNT} Tage vor Mietbeginn"
+            },
+            "de-DE": {
+                "singular": "{AMOUNT} Tage vor Mietbeginn"
+            },
+            "en": {
+                "singular": "{AMOUNT} days before the start of the rental period"
+            },
+            "en-AU": {
+                "singular": "{AMOUNT} days before the start of the rental period"
+            },
+            "en-CA": {
+                "singular": "{AMOUNT} days before the start of the rental period"
+            },
+            "en-GB": {
+                "singular": "{AMOUNT} days before the start of the rental period"
+            },
+            "en-IE": {
+                "singular": "{AMOUNT} days before the start of the rental period"
+            },
+            "en-US": {
+                "singular": "{AMOUNT} days before the start of the rental period"
+            },
+            "es": {
+                "singular": "{AMOUNT} días antes del período de alquiler"
+            },
+            "fi": {
+                "singular": "{AMOUNT} päivää ennen vuokrauksen alkua"
+            },
+            "fi-EE": {
+                "singular": "päivää ennen vuokrauksen alkua"
+            },
+            "fi-FI": {
+                "singular": "{AMOUNT} päivää ennen vuokrauksen alkua"
+            },
+            "fr": {
+                "singular": "{AMOUNT} jours avant le début du séjour"
+            },
+            "fr-BE": {
+                "singular": "{AMOUNT} jours avant le début du séjour"
+            },
+            "fr-CA": {
+                "singular": "{AMOUNT} jours avant le début du séjour"
+            },
+            "fr-CH": {
+                "singular": "{AMOUNT} jours avant le début du séjour"
+            },
+            "fr-FR": {
+                "singular": "{AMOUNT} jours avant le début du séjour"
+            },
+            "hr": {
+                "singular": "{AMOUNT} dana prije dolaska"
+            },
+            "it": {
+                "singular": "{AMOUNT} giorni prima dell'inizio della locazione"
+            },
+            "it-CH": {
+                "singular": "{AMOUNT} giorni prima dell'inizio della locazione"
+            },
+            "it-IT": {
+                "singular": "{AMOUNT} giorni prima dell'inizio della locazione"
+            },
+            "nl": {
+                "singular": "{AMOUNT} dagen vóór de dag van aankomst"
+            },
+            "nl-BE": {
+                "singular": "{AMOUNT} dagen vóór de dag van aankomst"
+            },
+            "nl-NL": {
+                "singular": "{AMOUNT} dagen vóór de dag van aankomst"
+            },
+            "no": {
+                "singular": "{AMOUNT} dager før starten av leieperioden"
+            },
+            "pl": {
+                "singular": "{AMOUNT} dni przed rozpoczęciem pobytu"
+            },
+            "pt": {
+                "singular": "{VALOR} dias antes do início do período de aluguer"
+            },
+            "ru": {
+                "singular": "{AMOUNT} дней до начала периода аренды"
+            },
+            "sv": {
+                "singular": "{AMOUNT} dagar före hyresperiodens början"
+            }
+        }
+    }
+}

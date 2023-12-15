@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.maritalStatus.u",
+    "name": "u",
+    "path": "text-resources/precheckin/components/forms/travellersForm/maritalStatus/u",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/maritalStatus/u",
+    "slug": "u",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "maritalStatus",
+        "u"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.maritalStatus.u",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "unmarried"
+            },
+            "da": {
+                "singular": "unmarried"
+            },
+            "de": {
+                "singular": "ledig"
+            },
+            "de-AT": {
+                "singular": "ledig"
+            },
+            "de-CH": {
+                "singular": "ledig"
+            },
+            "de-DE": {
+                "singular": "ledig"
+            },
+            "en": {
+                "singular": "unmarried"
+            },
+            "en-AU": {
+                "singular": "unmarried"
+            },
+            "en-CA": {
+                "singular": "unmarried"
+            },
+            "en-GB": {
+                "singular": "unmarried"
+            },
+            "en-IE": {
+                "singular": "unmarried"
+            },
+            "en-US": {
+                "singular": "unmarried"
+            },
+            "es": {
+                "singular": "unmarried"
+            },
+            "fi": {
+                "singular": "unmarried"
+            },
+            "fi-EE": {
+                "singular": "unmarried"
+            },
+            "fi-FI": {
+                "singular": "unmarried"
+            },
+            "fr": {
+                "singular": "célibataire"
+            },
+            "fr-BE": {
+                "singular": "célibataire"
+            },
+            "fr-CA": {
+                "singular": "célibataire"
+            },
+            "fr-CH": {
+                "singular": "célibataire"
+            },
+            "fr-FR": {
+                "singular": "célibataire"
+            },
+            "hr": {
+                "singular": "unmarried"
+            },
+            "it": {
+                "singular": "unmarried"
+            },
+            "it-CH": {
+                "singular": "unmarried"
+            },
+            "it-IT": {
+                "singular": "unmarried"
+            },
+            "nl": {
+                "singular": "unmarried"
+            },
+            "nl-BE": {
+                "singular": "unmarried"
+            },
+            "nl-NL": {
+                "singular": "unmarried"
+            },
+            "no": {
+                "singular": "unmarried"
+            },
+            "pl": {
+                "singular": "unmarried"
+            },
+            "pt": {
+                "singular": "unmarried"
+            },
+            "ru": {
+                "singular": "unmarried"
+            },
+            "sv": {
+                "singular": "unmarried"
+            }
+        }
+    }
+}

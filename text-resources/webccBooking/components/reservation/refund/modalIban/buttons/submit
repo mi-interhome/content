@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalIban.buttons.submit",
+    "name": "submit",
+    "path": "text-resources/webccBooking/components/reservation/refund/modalIban/buttons/submit",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalIban/buttons/submit",
+    "slug": "submit",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalIban",
+        "buttons",
+        "submit"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalIban.buttons.submit",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odeslat IBAN"
+            },
+            "da": {
+                "singular": "Send IBAN"
+            },
+            "de": {
+                "singular": "IBAN übermitteln"
+            },
+            "de-AT": {
+                "singular": "IBAN übermitteln"
+            },
+            "de-CH": {
+                "singular": "IBAN übermitteln"
+            },
+            "de-DE": {
+                "singular": "IBAN übermitteln"
+            },
+            "en": {
+                "singular": "Submit IBAN"
+            },
+            "en-AU": {
+                "singular": "Submit IBAN"
+            },
+            "en-CA": {
+                "singular": "Submit IBAN"
+            },
+            "en-GB": {
+                "singular": "Submit IBAN"
+            },
+            "en-IE": {
+                "singular": "Submit IBAN"
+            },
+            "en-US": {
+                "singular": "Submit IBAN"
+            },
+            "es": {
+                "singular": "Enviar el IBAN"
+            },
+            "fi": {
+                "singular": "Lähetä IBAN"
+            },
+            "fi-EE": {
+                "singular": "Lähetä IBAN"
+            },
+            "fi-FI": {
+                "singular": "Lähetä IBAN"
+            },
+            "fr": {
+                "singular": "Soumettre no. IBAN"
+            },
+            "fr-BE": {
+                "singular": "Soumettre no. IBAN"
+            },
+            "fr-CA": {
+                "singular": "Soumettre no. IBAN"
+            },
+            "fr-CH": {
+                "singular": "Soumettre no. IBAN"
+            },
+            "fr-FR": {
+                "singular": "Soumettre no. IBAN"
+            },
+            "hr": {
+                "singular": "Pošalji IBAN"
+            },
+            "it": {
+                "singular": "Inviare IBAN"
+            },
+            "it-CH": {
+                "singular": "Inviare IBAN"
+            },
+            "it-IT": {
+                "singular": "Inviare IBAN"
+            },
+            "nl": {
+                "singular": "Bevestig IBAN"
+            },
+            "nl-BE": {
+                "singular": "Bevestig IBAN"
+            },
+            "nl-NL": {
+                "singular": "Bevestig IBAN"
+            },
+            "no": {
+                "singular": "Send IBAN"
+            },
+            "pl": {
+                "singular": "Prześlij IBAN"
+            },
+            "pt": {
+                "singular": "Enviar IBAN"
+            },
+            "ru": {
+                "singular": "Отправить IBAN "
+            },
+            "sv": {
+                "singular": "Sänd IBAN"
+            }
+        }
+    }
+}

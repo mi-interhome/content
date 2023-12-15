@@ -1,0 +1,128 @@
+{
+    "id": "www.components.site.Header.teasers.inspirations.text",
+    "name": "text",
+    "path": "text-resources/www/components/site/Header/teasers/inspirations/text",
+    "folder": "text-resources",
+    "full_slug": "www/components/site/Header/teasers/inspirations/text",
+    "slug": "text",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "site",
+        "Header",
+        "teasers",
+        "inspirations",
+        "text"
+    ],
+    "content": {
+        "key": "www.components.site.Header.teasers.inspirations.text",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Od tématických exkurzí až po vzrušující výlety po městě, {company} tipy a nápady na dovolenou dělají z plánování dovolené zábavu."
+            },
+            "da": {
+                "singular": "Fra temaudflugter til spændende byture - {company} rejseidéer gør ferieplanlæningen til en sjov og hyggelig oplevelse"
+            },
+            "de": {
+                "singular": "Besuchen Sie eines der komfortabel ausgestatteten Ferienhäuser in den Bergen oder eine zentral gelegene Ferienwohnung in der Stadt und erleben Sie einen unvergesslichen Aufenthalt!"
+            },
+            "de-AT": {
+                "singular": "Besuchen Sie eines der komfortabel ausgestatteten Ferienhäuser in den Bergen oder eine zentral gelegene Ferienwohnung in der Stadt und erleben Sie einen unvergesslichen Aufenthalt!"
+            },
+            "de-CH": {
+                "singular": "Besuchen Sie eines der komfortabel ausgestatteten Ferienhäuser in den Bergen oder eine zentral gelegene Ferienwohnung in der Stadt und erleben Sie einen unvergesslichen Aufenthalt!"
+            },
+            "de-DE": {
+                "singular": "Besuchen Sie eines der komfortabel ausgestatteten Ferienhäuser in den Bergen oder eine zentral gelegene Ferienwohnung in der Stadt und erleben Sie einen unvergesslichen Aufenthalt!"
+            },
+            "en": {
+                "singular": "From themed excursions to exciting city trips, travel ideas from {company} make holiday planning a fun and enjoyable experience."
+            },
+            "en-AU": {
+                "singular": "From themed excursions to exciting city trips, travel ideas from {company} make holiday planning a fun and enjoyable experience."
+            },
+            "en-CA": {
+                "singular": "From themed excursions to exciting city trips, travel ideas from {company} make holiday planning a fun and enjoyable experience."
+            },
+            "en-GB": {
+                "singular": "From themed excursions to exciting city trips, travel ideas from {company} make holiday planning a fun and enjoyable experience."
+            },
+            "en-IE": {
+                "singular": "From themed excursions to exciting city trips, travel ideas from {company} make holiday planning a fun and enjoyable experience."
+            },
+            "en-US": {
+                "singular": "From themed excursions to exciting city trips, travel ideas from {company} make vacation planning a fun and enjoyable experience."
+            },
+            "es": {
+                "singular": "Desde excursiones temáticas a excitantes escapadas a ciudades,las ideas de viaje para su viaje de {company} le ayudaran a planificar unas mágnificas vacaciones y una experiencia inolvidable."
+            },
+            "fi": {
+                "singular": "Teemamatkoja tai jännittäviä kaupunkilomia – {company} lomaideat tekevät lomasuunnittelusta helppoa ja hauskaa."
+            },
+            "fi-EE": {
+                "singular": "Teemamatkoja tai jännittäviä kaupunkilomia – {company} lomaideat tekevät lomasuunnittelusta helppoa ja hauskaa."
+            },
+            "fi-FI": {
+                "singular": "Teemamatkoja tai jännittäviä kaupunkilomia – {company} lomaideat tekevät lomasuunnittelusta helppoa ja hauskaa."
+            },
+            "fr": {
+                "singular": "Que ce soit pour des vacances à thèmes (mer, montagne, …) ou des séjours en ville, grâce à ses idées vacances, {company} rend l'organisation de vos congés en location vacances agréable et amusante. Faites appel au spécialiste de la location saisonnière pour l'organisation de votre séjour."
+            },
+            "fr-BE": {
+                "singular": "Que ce soit pour des vacances à thèmes (mer, montagne, …) ou des séjours en ville, grâce à ses idées vacances, {company} rend l'organisation de vos congés en location vacances agréable et amusante. Faites appel au spécialiste de la location saisonnière pour l'organisation de votre séjour."
+            },
+            "fr-CA": {
+                "singular": "Que ce soit pour des vacances à thèmes (mer, montagne, …) ou des séjours en ville, grâce à ses idées vacances, {company} rend l'organisation de vos congés en location vacances agréable et amusante. Faites appel au spécialiste de la location saisonnière pour l'organisation de votre séjour."
+            },
+            "fr-CH": {
+                "singular": "Que ce soit pour des vacances à thèmes (mer, montagne, …) ou des séjours en ville, grâce à ses idées vacances, {company} rend l'organisation de vos congés en location vacances agréable et amusante. Faites appel au spécialiste de la location saisonnière pour l'organisation de votre séjour."
+            },
+            "fr-FR": {
+                "singular": "Que ce soit pour des vacances à thèmes (mer, montagne, …) ou des séjours en ville, grâce à ses idées vacances, {company} rend l'organisation de vos congés en location vacances agréable et amusante. Faites appel au spécialiste de la location saisonnière pour l'organisation de votre séjour."
+            },
+            "hr": {
+                "singular": "Od gradskih avantura do tematskih putovanja, neka Vas naše ideje inspiriraju za odmor iz snova!"
+            },
+            "it": {
+                "singular": "Non hai ancora deciso dove trascorrere le prossime vacanze? Lasciati ispirare dai nostri suggerimenti!"
+            },
+            "it-CH": {
+                "singular": "Non hai ancora deciso dove trascorrere le prossime vacanze? Lasciati ispirare dai nostri suggerimenti!"
+            },
+            "it-IT": {
+                "singular": "Non hai ancora deciso dove trascorrere le prossime vacanze? Lasciati ispirare dai nostri suggerimenti!"
+            },
+            "nl": {
+                "singular": "Van excursies naar themaparken tot citytrips, de vakantie ideeën van {company} maken het plannen van uw vakantie in een vakantiehuis een leuke ervaring!"
+            },
+            "nl-BE": {
+                "singular": "Van excursies naar themaparken tot citytrips, de vakantie ideeën van {company} maken het plannen van uw vakantie in een vakantiehuis een leuke ervaring!"
+            },
+            "nl-NL": {
+                "singular": "Van excursies naar themaparken tot citytrips, de vakantie ideeën van {company} maken het plannen van uw vakantie in een vakantiehuis een leuke ervaring!"
+            },
+            "no": {
+                "singular": "Fra temautflukter til spennende byturer, gjør reisedéer fra {company} ferieplanlegging en morsom og hyggelig opplevelse."
+            },
+            "pl": {
+                "singular": "Wakacyjne inspiracje od {company} sprawiają, że planowanie wakacji jest prawdziwą przyjemnością i niepowtarzalnym doświadczeniem. "
+            },
+            "pt": {
+                "singular": "De excursões temáticas a excitantes viagens pela cidade, as ideias de viagens da {company} tornam o planeamento de férias uma experiência divertida e agradável."
+            },
+            "ru": {
+                "singular": "От тематических экскурсий до захватывающих городских поездок, идеи для путешествий от {company} делают планирование отдыха особенно приятным."
+            },
+            "sv": {
+                "singular": "Från temautflykter till spännande stadsresor gör reseidéer från {company} semesterplaneringen en rolig och trevlig upplevelse."
+            }
+        }
+    }
+}

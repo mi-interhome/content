@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.area.modifyFilters",
+    "name": "modifyFilters",
+    "path": "text-resources/www/components/views/search/area/modifyFilters",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/area/modifyFilters",
+    "slug": "modifyFilters",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "area",
+        "modifyFilters"
+    ],
+    "content": {
+        "key": "www.components.views.search.area.modifyFilters",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zkuste prosím znovu po úpravě či odstranění některých kritérií."
+            },
+            "da": {
+                "singular": "Prøv venligst igen ved at justere eller slette dine søgekriterier."
+            },
+            "de": {
+                "singular": "Bitte versuchen Sie es erneut, indem Sie Ihre Suchkriterien anpassen bzw. entfernen."
+            },
+            "de-AT": {
+                "singular": "Bitte versuchen Sie es erneut, indem Sie Ihre Suchkriterien anpassen bzw. entfernen."
+            },
+            "de-CH": {
+                "singular": "Bitte versuchen Sie es erneut, indem Sie Ihre Suchkriterien anpassen bzw. entfernen."
+            },
+            "de-DE": {
+                "singular": "Bitte versuchen Sie es erneut, indem Sie Ihre Suchkriterien anpassen bzw. entfernen."
+            },
+            "en": {
+                "singular": "Please try again by adjusting or removing your search criteria."
+            },
+            "en-AU": {
+                "singular": "Please try again by adjusting or removing your search criteria."
+            },
+            "en-CA": {
+                "singular": "Please try again by adjusting or removing your search criteria."
+            },
+            "en-GB": {
+                "singular": "Please try again by adjusting or removing your search criteria."
+            },
+            "en-IE": {
+                "singular": "Please try again by adjusting or removing your search criteria."
+            },
+            "en-US": {
+                "singular": "Please try again by adjusting or removing your search criteria."
+            },
+            "es": {
+                "singular": "Por favor vuelva a intentarlo modificando/eliminando algún criterio de búsqueda"
+            },
+            "fi": {
+                "singular": "Kokeile uudelleen muuttamalla tai poistamalla hakusi lisävalintoja"
+            },
+            "fi-EE": {
+                "singular": "Kokeile uudelleen muuttamalla tai poistamalla hakusi lisävalintoja"
+            },
+            "fi-FI": {
+                "singular": "Kokeile uudelleen muuttamalla tai poistamalla hakusi lisävalintoja"
+            },
+            "fr": {
+                "singular": "Merci de réessayer en ajustant ou supprimant vos filtres"
+            },
+            "fr-BE": {
+                "singular": "Merci de réessayer en ajustant ou supprimant vos filtres"
+            },
+            "fr-CA": {
+                "singular": "Merci de réessayer en ajustant ou supprimant vos filtres"
+            },
+            "fr-CH": {
+                "singular": "Merci de réessayer en ajustant ou supprimant vos filtres"
+            },
+            "fr-FR": {
+                "singular": "Merci de réessayer en ajustant ou supprimant vos filtres"
+            },
+            "hr": {
+                "singular": "Molimo pokušajte ponovno uz promjenu kriterija pretrage."
+            },
+            "it": {
+                "singular": "Prova ad effettuare una nuova ricerca modificando o rimuovendo alcuni criteri di ricerca."
+            },
+            "it-CH": {
+                "singular": "Prova ad effettuare una nuova ricerca modificando o rimuovendo alcuni criteri di ricerca."
+            },
+            "it-IT": {
+                "singular": "Prova ad effettuare una nuova ricerca modificando o rimuovendo alcuni criteri di ricerca."
+            },
+            "nl": {
+                "singular": "Gelieve opnieuw te proberen door uw zoekcriteria aan te passen of te verwijderen"
+            },
+            "nl-BE": {
+                "singular": "Gelieve opnieuw te proberen door uw zoekcriteria aan te passen of te verwijderen"
+            },
+            "nl-NL": {
+                "singular": "Gelieve opnieuw te proberen door uw zoekcriteria aan te passen of te verwijderen"
+            },
+            "no": {
+                "singular": "Vennligst prøv igjen ved å justere eller slette søkekriteriene dine."
+            },
+            "pl": {
+                "singular": "Prosimy spróbować ponownie, modyfikując lub usuwając część kryteriów wyszukiwania"
+            },
+            "pt": {
+                "singular": "Tente novamente ajustando ou removendo os seus critérios de pesquisa."
+            },
+            "ru": {
+                "singular": "Повторите попытку, удалив один или несколько критериев поиска."
+            },
+            "sv": {
+                "singular": "Vänligen försök igen genom att justera eller ta bort dina sökkriterier."
+            }
+        }
+    }
+}

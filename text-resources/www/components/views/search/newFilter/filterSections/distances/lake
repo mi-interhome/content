@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.distances.lake",
+    "name": "lake",
+    "path": "text-resources/www/components/views/search/newFilter/filterSections/distances/lake",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/distances/lake",
+    "slug": "lake",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "distances",
+        "lake"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.distances.lake",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vzdálenost k jezeru"
+            },
+            "da": {
+                "singular": "Afstand til sø"
+            },
+            "de": {
+                "singular": "Distanz zum See"
+            },
+            "de-AT": {
+                "singular": "Distanz zum See"
+            },
+            "de-CH": {
+                "singular": "Nähe zum See"
+            },
+            "de-DE": {
+                "singular": "Distanz zum See"
+            },
+            "en": {
+                "singular": "Distance to lake"
+            },
+            "en-AU": {
+                "singular": "Distance to lake"
+            },
+            "en-CA": {
+                "singular": "Distance to lake"
+            },
+            "en-GB": {
+                "singular": "Distance to lake"
+            },
+            "en-IE": {
+                "singular": "Distance to lake"
+            },
+            "en-US": {
+                "singular": "Distance to lake"
+            },
+            "es": {
+                "singular": "Distancia al lago acceso"
+            },
+            "fi": {
+                "singular": "Etäisyys järvelle"
+            },
+            "fi-EE": {
+                "singular": "Etäisyys järvelle"
+            },
+            "fi-FI": {
+                "singular": "Etäisyys järvelle"
+            },
+            "fr": {
+                "singular": "Distance lac"
+            },
+            "fr-BE": {
+                "singular": "Distance lac"
+            },
+            "fr-CA": {
+                "singular": "Distance lac"
+            },
+            "fr-CH": {
+                "singular": "Distance lac"
+            },
+            "fr-FR": {
+                "singular": "Distance lac"
+            },
+            "hr": {
+                "singular": "Udaljenost do jezera"
+            },
+            "it": {
+                "singular": "Distanza dal lago"
+            },
+            "it-CH": {
+                "singular": "Distanza dal lago"
+            },
+            "it-IT": {
+                "singular": "Distanza dal lago"
+            },
+            "nl": {
+                "singular": "Afstand tot meer"
+            },
+            "nl-BE": {
+                "singular": "Afstand tot meer"
+            },
+            "nl-NL": {
+                "singular": "Afstand tot meer"
+            },
+            "no": {
+                "singular": "Avstand til sjø"
+            },
+            "pl": {
+                "singular": "Odległość od jeziora"
+            },
+            "pt": {
+                "singular": "Distância para o Lago"
+            },
+            "ru": {
+                "singular": "До озера"
+            },
+            "sv": {
+                "singular": "Avstånd till sjö"
+            }
+        }
+    }
+}

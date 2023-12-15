@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.city",
+    "name": "city",
+    "path": "text-resources/webccSalesportal/reservationdetail/city",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/city",
+    "slug": "city",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "city"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.city",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Místo"
+            },
+            "da": {
+                "singular": "By"
+            },
+            "de": {
+                "singular": "Stadt"
+            },
+            "de-AT": {
+                "singular": "Stadt"
+            },
+            "de-CH": {
+                "singular": "Ort"
+            },
+            "de-DE": {
+                "singular": "Stadt"
+            },
+            "en": {
+                "singular": "Town or city"
+            },
+            "en-AU": {
+                "singular": "Town or city"
+            },
+            "en-CA": {
+                "singular": "Town or city"
+            },
+            "en-GB": {
+                "singular": "Town or city"
+            },
+            "en-IE": {
+                "singular": "Town or city"
+            },
+            "en-US": {
+                "singular": "Town or city"
+            },
+            "es": {
+                "singular": "Localidad"
+            },
+            "fi": {
+                "singular": "Kaupunki"
+            },
+            "fi-EE": {
+                "singular": "Kaupunki"
+            },
+            "fi-FI": {
+                "singular": "Kaupunki"
+            },
+            "fr": {
+                "singular": "Ville"
+            },
+            "fr-BE": {
+                "singular": "Ville"
+            },
+            "fr-CA": {
+                "singular": "Ville"
+            },
+            "fr-CH": {
+                "singular": "Lieu"
+            },
+            "fr-FR": {
+                "singular": "Ville"
+            },
+            "hr": {
+                "singular": "Grad ili mjesto"
+            },
+            "it": {
+                "singular": "Città"
+            },
+            "it-CH": {
+                "singular": "Città"
+            },
+            "it-IT": {
+                "singular": "Città"
+            },
+            "nl": {
+                "singular": "Plaats"
+            },
+            "nl-BE": {
+                "singular": "Plaats"
+            },
+            "nl-NL": {
+                "singular": "Plaats"
+            },
+            "no": {
+                "singular": "By"
+            },
+            "pl": {
+                "singular": "Miasto"
+            },
+            "pt": {
+                "singular": "Cidade ou cidade"
+            },
+            "ru": {
+                "singular": "Город"
+            },
+            "sv": {
+                "singular": "Stad"
+            }
+        }
+    }
+}

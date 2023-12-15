@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.skiing.fireplace.description",
+    "name": "description",
+    "path": "text-resources/www/components/views/search/ObjectTeaser/skiing/fireplace/description",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/skiing/fireplace/description",
+    "slug": "description",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "skiing",
+        "fireplace",
+        "description"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.skiing.fireplace.description",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – zahřejte se v našich apartmánech a chalupách v lyžařském areálu, které nabízí útulné krby – vše, co potřebujete pro Vaši dokonalou zimní dovolenou."
+            },
+            "da": {
+                "singular": "Varm op i vores lejligheder og hytter i skiområdet i {destination}, der byder på hyggelige pejse til din perfekte vinterferie."
+            },
+            "de": {
+                "singular": "Ausgestattet mit gemütlichem Kamin bieten Ihnen unsere Apartments \u0026 Chalets im Skigebiet in {destination} eine perfekte Winterauszeit."
+            },
+            "de-AT": {
+                "singular": "Ausgestattet mit gemütlichem Kamin bieten Ihnen unsere Apartments \u0026 Chalets im Skigebiet in {destination} eine perfekte Winterauszeit."
+            },
+            "de-CH": {
+                "singular": "Ausgestattet mit gemütlichem Kamin bieten Ihnen unsere Apartments \u0026 Chalets im Skigebiet in {destination} eine perfekte Winterauszeit."
+            },
+            "de-DE": {
+                "singular": "Ausgestattet mit gemütlichem Kamin bieten Ihnen unsere Apartments \u0026 Chalets im Skigebiet in {destination} eine perfekte Winterauszeit."
+            },
+            "en": {
+                "singular": "Warm up in our apartments \u0026 chalets at the ski area in {destination}, offering cozy fireplaces for your perfect winter retreat."
+            },
+            "en-AU": {
+                "singular": "Warm up in our apartments \u0026 chalets at the ski area in {destination}, offering cozy fireplaces for your perfect winter retreat."
+            },
+            "en-CA": {
+                "singular": "Warm up in our apartments \u0026 chalets at the ski area in {destination}, offering cozy fireplaces for your perfect winter retreat."
+            },
+            "en-GB": {
+                "singular": "Warm up in our apartments \u0026 chalets at the ski area in {destination}, offering cozy fireplaces for your perfect winter retreat."
+            },
+            "en-IE": {
+                "singular": "Warm up in our apartments \u0026 chalets at the ski area in {destination}, offering cozy fireplaces for your perfect winter retreat."
+            },
+            "en-US": {
+                "singular": "Warm up in our apartments \u0026 chalets at the ski area in {destination}, offering cozy fireplaces for your perfect winter retreat."
+            },
+            "es": {
+                "singular": "Entre en calor en nuestros apartamentos y chalés de la estación de esquí de {destination}, con recacogedoras chimeneas para su perfecto descanso invernal."
+            },
+            "fi": {
+                "singular": "Lämmittele lomahuoneistossamme ja mökeissämme hiihtoalueella {destination}, nauti tunnelmallisesta takkatulesta täydellistä talvilomallasi."
+            },
+            "fi-EE": {
+                "singular": "Lämmittele lomahuoneistossamme ja mökeissämme hiihtoalueella {destination}, nauti tunnelmallisesta takkatulesta täydellistä talvilomallasi."
+            },
+            "fi-FI": {
+                "singular": "Lämmittele lomahuoneistossamme ja mökeissämme hiihtoalueella {destination}, nauti tunnelmallisesta takkatulesta täydellistä talvilomallasi."
+            },
+            "fr": {
+                "singular": "Réchauffez-vous dans nos appartements \u0026 chalets au ski {destination} dotés de cheminées confortables pour un séjour hivernal parfait."
+            },
+            "fr-BE": {
+                "singular": "Réchauffez-vous dans nos appartements \u0026 chalets au ski {destination} dotés de cheminées confortables pour un séjour hivernal parfait."
+            },
+            "fr-CA": {
+                "singular": "Réchauffez-vous dans nos appartements \u0026 chalets au ski {destination} dotés de cheminées confortables pour un séjour hivernal parfait."
+            },
+            "fr-CH": {
+                "singular": "Réchauffez-vous dans nos appartements \u0026 chalets au ski {destination} dotés de cheminées confortables pour un séjour hivernal parfait."
+            },
+            "fr-FR": {
+                "singular": "Réchauffez-vous dans nos appartements \u0026 chalets au ski {destination} dotés de cheminées confortables pour un séjour hivernal parfait."
+            },
+            "hr": {
+                "singular": "Zagrijte se u našim apartmanima i planinskim kućama na skijalištu u {destination}, koji nude udobne kamine za Vaše savršeno zimsko utočište."
+            },
+            "it": {
+                "singular": "Riscaldati nei nostri appartamenti e chalet nel comprensorio sciistico di {destination}, che offrono accoglienti caminetti per il tuo perfetto rifugio invernale."
+            },
+            "it-CH": {
+                "singular": "Riscaldati nei nostri appartamenti e chalet nel comprensorio sciistico di {destination}, che offrono accoglienti caminetti per il tuo perfetto rifugio invernale."
+            },
+            "it-IT": {
+                "singular": "Riscaldati nei nostri appartamenti e chalet nel comprensorio sciistico di {destination}, che offrono accoglienti caminetti per il tuo perfetto rifugio invernale."
+            },
+            "nl": {
+                "singular": "Warm op in onze appartementen \u0026 chalets in een skigebied in {destination} met een open haard"
+            },
+            "nl-BE": {
+                "singular": "Warm op in onze appartementen \u0026 chalets in een skigebied in {destination} met een open haard"
+            },
+            "nl-NL": {
+                "singular": "Warm op in onze appartementen \u0026 chalets in een skigebied in {destination} met een open haard"
+            },
+            "no": {
+                "singular": "Du kan varme deg i leilighetene og hyttene våre ved skianlegget i {destinasjon}, med koselige ildsteder for det perfekte vinteroppholdet."
+            },
+            "pl": {
+                "singular": "{destination} na zimowy wypoczynek: rozgrzej się przy kominku w górskim domku wakacyjnym z widokiem na ośnieżone szczyty."
+            },
+            "pt": {
+                "singular": "Aqueça-se nos nossos apartamentos e chalés da estância de esqui em {destination}, que oferece lareiras aconchegantes para uma estadia de inverno perfeita."
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Håll dig varm i våra lägenheter och stugor i skidanläggningen i {destination}, med mysig öppen spis för den perfekta vintersemestern."
+            }
+        }
+    }
+}

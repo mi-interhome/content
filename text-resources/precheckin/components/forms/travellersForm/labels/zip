@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.zip",
+    "name": "zip",
+    "path": "text-resources/precheckin/components/forms/travellersForm/labels/zip",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/zip",
+    "slug": "zip",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "zip"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.zip",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "PSČ"
+            },
+            "da": {
+                "singular": "Postnummer"
+            },
+            "de": {
+                "singular": "Postleitzahl"
+            },
+            "de-AT": {
+                "singular": "Postleitzahl"
+            },
+            "de-CH": {
+                "singular": "Postleitzahl"
+            },
+            "de-DE": {
+                "singular": "Postleitzahl"
+            },
+            "en": {
+                "singular": "ZIP"
+            },
+            "en-AU": {
+                "singular": "ZIP"
+            },
+            "en-CA": {
+                "singular": "ZIP"
+            },
+            "en-GB": {
+                "singular": "ZIP"
+            },
+            "en-IE": {
+                "singular": "ZIP"
+            },
+            "en-US": {
+                "singular": "ZIP"
+            },
+            "es": {
+                "singular": "Código postal"
+            },
+            "fi": {
+                "singular": "Postinumero"
+            },
+            "fi-EE": {
+                "singular": "Postinumero"
+            },
+            "fi-FI": {
+                "singular": "Postinumero"
+            },
+            "fr": {
+                "singular": "Code Postal"
+            },
+            "fr-BE": {
+                "singular": "Code Postal"
+            },
+            "fr-CA": {
+                "singular": "Code Postal"
+            },
+            "fr-CH": {
+                "singular": "Code Postal"
+            },
+            "fr-FR": {
+                "singular": "Code Postal"
+            },
+            "hr": {
+                "singular": "Poštanski broj"
+            },
+            "it": {
+                "singular": "CAP"
+            },
+            "it-CH": {
+                "singular": "CAP"
+            },
+            "it-IT": {
+                "singular": "CAP"
+            },
+            "nl": {
+                "singular": "Postcode"
+            },
+            "nl-BE": {
+                "singular": "Postcode"
+            },
+            "nl-NL": {
+                "singular": "Postcode"
+            },
+            "no": {
+                "singular": "Postnummer"
+            },
+            "pl": {
+                "singular": "Kod pocztowy"
+            },
+            "pt": {
+                "singular": "Código postal"
+            },
+            "ru": {
+                "singular": "Индекс"
+            },
+            "sv": {
+                "singular": "Postnummer"
+            }
+        }
+    }
+}

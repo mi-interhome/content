@@ -1,0 +1,124 @@
+{
+    "id": "booking.pax.choice",
+    "name": "choice",
+    "path": "text-resources/booking/pax/choice",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/choice",
+    "slug": "choice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "choice"
+    ],
+    "content": {
+        "key": "booking.pax.choice",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte prosím"
+            },
+            "da": {
+                "singular": "Vælg venligst"
+            },
+            "de": {
+                "singular": "Bitte wählen Sie:"
+            },
+            "de-AT": {
+                "singular": "Bitte wählen Sie:"
+            },
+            "de-CH": {
+                "singular": "Bitte wählen Sie:"
+            },
+            "de-DE": {
+                "singular": "Bitte wählen Sie:"
+            },
+            "en": {
+                "singular": "Please choose"
+            },
+            "en-AU": {
+                "singular": "Please choose"
+            },
+            "en-CA": {
+                "singular": "Please choose"
+            },
+            "en-GB": {
+                "singular": "Please choose"
+            },
+            "en-IE": {
+                "singular": "Please choose"
+            },
+            "en-US": {
+                "singular": "Please choose"
+            },
+            "es": {
+                "singular": "Por favor escoja"
+            },
+            "fi": {
+                "singular": "Valitse oikea määrä +- valitsimilla"
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja valitse."
+            },
+            "fi-FI": {
+                "singular": "Valitse oikea määrä +- valitsimilla"
+            },
+            "fr": {
+                "singular": "Merci de choisir"
+            },
+            "fr-BE": {
+                "singular": "Merci de choisir"
+            },
+            "fr-CA": {
+                "singular": "Merci de choisir"
+            },
+            "fr-CH": {
+                "singular": "Merci de choisir"
+            },
+            "fr-FR": {
+                "singular": "Merci de choisir"
+            },
+            "hr": {
+                "singular": "Molimo odaberite"
+            },
+            "it": {
+                "singular": "Prego selezionare"
+            },
+            "it-CH": {
+                "singular": "Prego selezionare"
+            },
+            "it-IT": {
+                "singular": "Prego selezionare"
+            },
+            "nl": {
+                "singular": "Gelieve te kiezen"
+            },
+            "nl-BE": {
+                "singular": "Gelieve te kiezen"
+            },
+            "nl-NL": {
+                "singular": "Gelieve te kiezen"
+            },
+            "no": {
+                "singular": "Please choose"
+            },
+            "pl": {
+                "singular": "Prosimy wybrać"
+            },
+            "pt": {
+                "singular": "Por favor escolher"
+            },
+            "ru": {
+                "singular": "Пожалуйста, выберите"
+            },
+            "sv": {
+                "singular": "Aktiviteter på plats"
+            }
+        }
+    }
+}

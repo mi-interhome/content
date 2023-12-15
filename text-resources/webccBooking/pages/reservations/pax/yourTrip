@@ -1,0 +1,124 @@
+{
+    "id": "webccBooking.pages.reservations.pax.yourTrip",
+    "name": "yourTrip",
+    "path": "text-resources/webccBooking/pages/reservations/pax/yourTrip",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/pax/yourTrip",
+    "slug": "yourTrip",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "pax",
+        "yourTrip"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.pax.yourTrip",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše cílová destinace {location}"
+            },
+            "da": {
+                "singular": "Din rejse til {location}"
+            },
+            "de": {
+                "singular": "Ihre Reise nach {location}"
+            },
+            "de-AT": {
+                "singular": "Ihre Reise nach {location}"
+            },
+            "de-CH": {
+                "singular": "Ihre Reise nach {location}"
+            },
+            "de-DE": {
+                "singular": "Ihre Reise nach {location}"
+            },
+            "en": {
+                "singular": "Your trip to {location}"
+            },
+            "en-AU": {
+                "singular": "Your trip to {location}"
+            },
+            "en-CA": {
+                "singular": "Your trip to {location}"
+            },
+            "en-GB": {
+                "singular": "Your trip to {location}"
+            },
+            "en-IE": {
+                "singular": "Your trip to {location}"
+            },
+            "en-US": {
+                "singular": "Your trip to {location}"
+            },
+            "es": {
+                "singular": "Su viaje a {location}"
+            },
+            "fi": {
+                "singular": "Matkasi kohteeseen {location}"
+            },
+            "fi-EE": {
+                "singular": "Matkasi kohteeseen {location}"
+            },
+            "fi-FI": {
+                "singular": "Matkasi kohteeseen {location}"
+            },
+            "fr": {
+                "singular": "Votre séjour à {location}"
+            },
+            "fr-BE": {
+                "singular": "Votre séjour à {location}"
+            },
+            "fr-CA": {
+                "singular": "Votre séjour à {location}"
+            },
+            "fr-CH": {
+                "singular": "Votre séjour à {location}"
+            },
+            "fr-FR": {
+                "singular": "Votre séjour à {location}"
+            },
+            "hr": {
+                "singular": "Vaša odabrana destinacija - {location}"
+            },
+            "it": {
+                "singular": "Il tuo viaggio a {location}"
+            },
+            "it-CH": {
+                "singular": "Il tuo viaggio a {location}"
+            },
+            "it-IT": {
+                "singular": "Il tuo viaggio a {location}"
+            },
+            "nl": {
+                "singular": "Uw reis naar {location}"
+            },
+            "nl-BE": {
+                "singular": "Uw reis naar {location}"
+            },
+            "nl-NL": {
+                "singular": "Uw reis naar {location}"
+            },
+            "no": {
+                "singular": "Din reise til {location}"
+            },
+            "pl": {
+                "singular": "Wyjazd do {location}"
+            },
+            "pt": {
+                "singular": "A sua viagem para {location}"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Din resa till {location}"
+            }
+        }
+    }
+}

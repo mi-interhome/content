@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.phone",
+    "name": "phone",
+    "path": "text-resources/webccSalesportal/reservationdetail/phone",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/phone",
+    "slug": "phone",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "phone"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.phone",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Telefonní číslo"
+            },
+            "da": {
+                "singular": "Telefon"
+            },
+            "de": {
+                "singular": "Telefonnummer"
+            },
+            "de-AT": {
+                "singular": "Telefonnummer"
+            },
+            "de-CH": {
+                "singular": "Telefonnummer"
+            },
+            "de-DE": {
+                "singular": "Telefonnummer"
+            },
+            "en": {
+                "singular": "Telephone number"
+            },
+            "en-AU": {
+                "singular": "Telephone number"
+            },
+            "en-CA": {
+                "singular": "Telephone number"
+            },
+            "en-GB": {
+                "singular": "Telephone number"
+            },
+            "en-IE": {
+                "singular": "Telephone number"
+            },
+            "en-US": {
+                "singular": "Telephone number"
+            },
+            "es": {
+                "singular": "Número de teléfono"
+            },
+            "fi": {
+                "singular": "Puhelinnumero"
+            },
+            "fi-EE": {
+                "singular": "Puhelinnumero"
+            },
+            "fi-FI": {
+                "singular": "Puhelinnumero"
+            },
+            "fr": {
+                "singular": "Numéro de téléphone"
+            },
+            "fr-BE": {
+                "singular": "Numéro de téléphone"
+            },
+            "fr-CA": {
+                "singular": "Numéro de téléphone"
+            },
+            "fr-CH": {
+                "singular": "Numéro de téléphone"
+            },
+            "fr-FR": {
+                "singular": "Numéro de téléphone"
+            },
+            "hr": {
+                "singular": "Broj telefona"
+            },
+            "it": {
+                "singular": "Recapito telefonico"
+            },
+            "it-CH": {
+                "singular": "Recapito telefonico"
+            },
+            "it-IT": {
+                "singular": "Recapito telefonico"
+            },
+            "nl": {
+                "singular": "Telefoonnummer"
+            },
+            "nl-BE": {
+                "singular": "Telefoonnummer"
+            },
+            "nl-NL": {
+                "singular": "Telefoonnummer"
+            },
+            "no": {
+                "singular": "Telefonnummer"
+            },
+            "pl": {
+                "singular": "Numer telefonu"
+            },
+            "pt": {
+                "singular": "Número de telefone"
+            },
+            "ru": {
+                "singular": "Телефон"
+            },
+            "sv": {
+                "singular": "Telefonnummer"
+            }
+        }
+    }
+}

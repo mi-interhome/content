@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.choose_reservation",
+    "name": "choose_reservation",
+    "path": "text-resources/webccSalesportal/reservationoverview/choose_reservation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/choose_reservation",
+    "slug": "choose_reservation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "choose_reservation"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.choose_reservation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte rezervaci ze seznamu níže"
+            },
+            "da": {
+                "singular": "Vælg en reservation fra nedenstående liste"
+            },
+            "de": {
+                "singular": "Bitte wählen Sie eine Buchung aus der Liste aus"
+            },
+            "de-AT": {
+                "singular": "Bitte wählen Sie eine Buchung aus der Liste aus"
+            },
+            "de-CH": {
+                "singular": "Bitte wählen Sie eine Buchung aus der Liste aus"
+            },
+            "de-DE": {
+                "singular": "Bitte wählen Sie eine Buchung aus der Liste aus"
+            },
+            "en": {
+                "singular": "Please choose a reservation from the list below"
+            },
+            "en-AU": {
+                "singular": "Please choose a reservation from the list below"
+            },
+            "en-CA": {
+                "singular": "Please choose a reservation from the list below"
+            },
+            "en-GB": {
+                "singular": "Please choose a reservation from the list below"
+            },
+            "en-IE": {
+                "singular": "Please choose a reservation from the list below"
+            },
+            "en-US": {
+                "singular": "Please choose a reservation from the list below"
+            },
+            "es": {
+                "singular": "Seleccione una reserrva del siguiente listado"
+            },
+            "fi": {
+                "singular": "Valitse varaus alla olevasta listasta"
+            },
+            "fi-EE": {
+                "singular": "Valitse varaus alla olevasta listasta"
+            },
+            "fi-FI": {
+                "singular": "Valitse varaus alla olevasta listasta"
+            },
+            "fr": {
+                "singular": "Choisissez une réservation dans la liste ci-dessous"
+            },
+            "fr-BE": {
+                "singular": "Choisissez une réservation dans la liste ci-dessous"
+            },
+            "fr-CA": {
+                "singular": "Choisissez une réservation dans la liste ci-dessous"
+            },
+            "fr-CH": {
+                "singular": "Choisissez une réservation dans la liste ci-dessous"
+            },
+            "fr-FR": {
+                "singular": "Choisissez une réservation dans la liste ci-dessous"
+            },
+            "hr": {
+                "singular": "Odaberite rezervaciju s popisa"
+            },
+            "it": {
+                "singular": "Ti preghiamo di selezionare una prenotazione tra quelle indicate sulla lista"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di selezionare una prenotazione tra quelle indicate sulla lista"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di selezionare una prenotazione tra quelle indicate sulla lista"
+            },
+            "nl": {
+                "singular": "Kies een boeking uit de onderstaande lijst"
+            },
+            "nl-BE": {
+                "singular": "Kies een boeking uit de onderstaande lijst"
+            },
+            "nl-NL": {
+                "singular": "Kies een boeking uit de onderstaande lijst"
+            },
+            "no": {
+                "singular": "Velg en booking fra listen nedenfor"
+            },
+            "pl": {
+                "singular": "Wybierz rezerwację z listy poniżej"
+            },
+            "pt": {
+                "singular": "Por favor, escolha uma reserva da lista abaixo"
+            },
+            "ru": {
+                "singular": "Пожалуйста, выберите бронирование из списка"
+            },
+            "sv": {
+                "singular": "Välj en bokning från listan nedan"
+            }
+        }
+    }
+}

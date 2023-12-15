@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.components.payment.ReservationCard.nights",
+    "name": "nights",
+    "path": "text-resources/webccSalesportal/components/payment/ReservationCard/nights",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/components/payment/ReservationCard/nights",
+    "slug": "nights",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "components",
+        "payment",
+        "ReservationCard",
+        "nights"
+    ],
+    "content": {
+        "key": "webccSalesportal.components.payment.ReservationCard.nights",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "nocí"
+            },
+            "da": {
+                "singular": "Overnatninger"
+            },
+            "de": {
+                "singular": "Übernachtungen"
+            },
+            "de-AT": {
+                "singular": "Übernachtungen"
+            },
+            "de-CH": {
+                "singular": "Übernachtungen"
+            },
+            "de-DE": {
+                "singular": "Übernachtungen"
+            },
+            "en": {
+                "singular": "Overnight stays"
+            },
+            "en-AU": {
+                "singular": "Overnight stays"
+            },
+            "en-CA": {
+                "singular": "Overnight stays"
+            },
+            "en-GB": {
+                "singular": "Overnight stays"
+            },
+            "en-IE": {
+                "singular": "Overnight stays"
+            },
+            "en-US": {
+                "singular": "Overnight stays"
+            },
+            "es": {
+                "singular": "Noches"
+            },
+            "fi": {
+                "singular": "Yöpymisien määrä"
+            },
+            "fi-EE": {
+                "singular": "Yöpymisien määrä"
+            },
+            "fi-FI": {
+                "singular": "Yöpymisien määrä"
+            },
+            "fr": {
+                "singular": "Nuitées"
+            },
+            "fr-BE": {
+                "singular": "Nuitées"
+            },
+            "fr-CA": {
+                "singular": "Nuitées"
+            },
+            "fr-CH": {
+                "singular": "Nuitées"
+            },
+            "fr-FR": {
+                "singular": "Nuitées"
+            },
+            "hr": {
+                "singular": "Noćenja"
+            },
+            "it": {
+                "singular": "Pernottamenti"
+            },
+            "it-CH": {
+                "singular": "Pernottamenti"
+            },
+            "it-IT": {
+                "singular": "Pernottamenti"
+            },
+            "nl": {
+                "singular": "Overnachtingen"
+            },
+            "nl-BE": {
+                "singular": "Overnachtingen"
+            },
+            "nl-NL": {
+                "singular": "Overnachtingen"
+            },
+            "no": {
+                "singular": "Overnattinger"
+            },
+            "pl": {
+                "singular": "Noclegi"
+            },
+            "pt": {
+                "singular": "Noites da estadia"
+            },
+            "ru": {
+                "singular": "Кол-во ночей"
+            },
+            "sv": {
+                "singular": "Övernattningar"
+            }
+        }
+    }
+}

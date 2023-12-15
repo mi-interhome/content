@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.thisPeriod",
+    "name": "thisPeriod",
+    "path": "text-resources/webccSalesportal/pages/reports/webstats/thisPeriod",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/thisPeriod",
+    "slug": "thisPeriod",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "thisPeriod"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.thisPeriod",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Tento období"
+            },
+            "da": {
+                "singular": "Denne periode"
+            },
+            "de": {
+                "singular": "Dieser Zeitraum"
+            },
+            "de-AT": {
+                "singular": "Dieser Zeitraum"
+            },
+            "de-CH": {
+                "singular": "Dieser Zeitraum"
+            },
+            "de-DE": {
+                "singular": "Dieser Zeitraum"
+            },
+            "en": {
+                "singular": "This period"
+            },
+            "en-AU": {
+                "singular": "This period"
+            },
+            "en-CA": {
+                "singular": "This period"
+            },
+            "en-GB": {
+                "singular": "This period"
+            },
+            "en-IE": {
+                "singular": "This period"
+            },
+            "en-US": {
+                "singular": "This period"
+            },
+            "es": {
+                "singular": "Este período"
+            },
+            "fi": {
+                "singular": "Tämä jakso"
+            },
+            "fi-EE": {
+                "singular": "Tämä jakso"
+            },
+            "fi-FI": {
+                "singular": "Tämä jakso"
+            },
+            "fr": {
+                "singular": "Cette période"
+            },
+            "fr-BE": {
+                "singular": "Cette période"
+            },
+            "fr-CA": {
+                "singular": "Cette période"
+            },
+            "fr-CH": {
+                "singular": "Cette période"
+            },
+            "fr-FR": {
+                "singular": "Cette période"
+            },
+            "hr": {
+                "singular": "Ovaj period"
+            },
+            "it": {
+                "singular": "Questo periodo"
+            },
+            "it-CH": {
+                "singular": "Questo periodo"
+            },
+            "it-IT": {
+                "singular": "Questo periodo"
+            },
+            "nl": {
+                "singular": "Deze periode"
+            },
+            "nl-BE": {
+                "singular": "Deze periode"
+            },
+            "nl-NL": {
+                "singular": "Deze periode"
+            },
+            "no": {
+                "singular": "Denne perioden"
+            },
+            "pl": {
+                "singular": "Ten okres"
+            },
+            "pt": {
+                "singular": "Este período"
+            },
+            "ru": {
+                "singular": "Этот период"
+            },
+            "sv": {
+                "singular": "Denna period"
+            }
+        }
+    }
+}

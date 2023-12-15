@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.reservation.checkoutBox.vatincluded",
+    "name": "vatincluded",
+    "path": "text-resources/webccBooking/components/reservation/checkoutBox/vatincluded",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/checkoutBox/vatincluded",
+    "slug": "vatincluded",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "checkoutBox",
+        "vatincluded"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.checkoutBox.vatincluded",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "včetně DPH"
+            },
+            "da": {
+                "singular": "Moms incl."
+            },
+            "de": {
+                "singular": "inkl. Mwst."
+            },
+            "de-AT": {
+                "singular": "inkl. Mwst."
+            },
+            "de-CH": {
+                "singular": "inkl. Mwst."
+            },
+            "de-DE": {
+                "singular": "inkl. Mwst."
+            },
+            "en": {
+                "singular": "incl. VAT"
+            },
+            "en-AU": {
+                "singular": "incl. VAT"
+            },
+            "en-CA": {
+                "singular": "incl. VAT"
+            },
+            "en-GB": {
+                "singular": "incl. VAT"
+            },
+            "en-IE": {
+                "singular": "incl. VAT"
+            },
+            "en-US": {
+                "singular": "incl. VAT"
+            },
+            "es": {
+                "singular": "IVA incl."
+            },
+            "fi": {
+                "singular": "ALV sis."
+            },
+            "fi-EE": {
+                "singular": "ALV sis."
+            },
+            "fi-FI": {
+                "singular": "ALV sis."
+            },
+            "fr": {
+                "singular": "TVA incl."
+            },
+            "fr-BE": {
+                "singular": "TVA incl."
+            },
+            "fr-CA": {
+                "singular": "TVA incl."
+            },
+            "fr-CH": {
+                "singular": "TVA incl."
+            },
+            "fr-FR": {
+                "singular": "TVA incl."
+            },
+            "hr": {
+                "singular": "PDV uklj."
+            },
+            "it": {
+                "singular": "IVA inclusa"
+            },
+            "it-CH": {
+                "singular": "IVA inclusa"
+            },
+            "it-IT": {
+                "singular": "IVA inclusa"
+            },
+            "nl": {
+                "singular": "BTW incl."
+            },
+            "nl-BE": {
+                "singular": "BTW incl."
+            },
+            "nl-NL": {
+                "singular": "BTW incl."
+            },
+            "no": {
+                "singular": "Inkl. mva."
+            },
+            "pl": {
+                "singular": "VAT wliczony w cenę"
+            },
+            "pt": {
+                "singular": "IVA incl."
+            },
+            "ru": {
+                "singular": "НДС incl."
+            },
+            "sv": {
+                "singular": "Moms incl."
+            }
+        }
+    }
+}

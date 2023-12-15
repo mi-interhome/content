@@ -1,0 +1,124 @@
+{
+    "id": "booking.summary.total",
+    "name": "total",
+    "path": "text-resources/booking/summary/total",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/total",
+    "slug": "total",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "total"
+    ],
+    "content": {
+        "key": "booking.summary.total",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "CELKEM (včetně DPH)"
+            },
+            "da": {
+                "singular": "I alt"
+            },
+            "de": {
+                "singular": "Total an {company} (inkl. MWSt.)"
+            },
+            "de-AT": {
+                "singular": "Total an {company} (inkl. MWSt.)"
+            },
+            "de-CH": {
+                "singular": "Total an {company} (inkl. MWSt.)"
+            },
+            "de-DE": {
+                "singular": "Total an {company} (inkl. MWSt.)"
+            },
+            "en": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "en-AU": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "en-CA": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "en-GB": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "en-IE": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "en-US": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "es": {
+                "singular": "TOTAL (IVA incl.)"
+            },
+            "fi": {
+                "singular": "YHTEENSÄ"
+            },
+            "fi-EE": {
+                "singular": "YHTEENSÄ"
+            },
+            "fi-FI": {
+                "singular": "YHTEENSÄ"
+            },
+            "fr": {
+                "singular": "Total (TTC)"
+            },
+            "fr-BE": {
+                "singular": "Total (TTC)"
+            },
+            "fr-CA": {
+                "singular": "Total (TTC)"
+            },
+            "fr-CH": {
+                "singular": "Total (TTC)"
+            },
+            "fr-FR": {
+                "singular": "Total (TTC)"
+            },
+            "hr": {
+                "singular": "Ukupno"
+            },
+            "it": {
+                "singular": "TOTALE (IVA compresa)"
+            },
+            "it-CH": {
+                "singular": "TOTALE (IVA compresa)"
+            },
+            "it-IT": {
+                "singular": "TOTALE (IVA compresa)"
+            },
+            "nl": {
+                "singular": "Totale prijs"
+            },
+            "nl-BE": {
+                "singular": "Totale prijs"
+            },
+            "nl-NL": {
+                "singular": "Totale prijs"
+            },
+            "no": {
+                "singular": "TOTALT (inkl. moms)"
+            },
+            "pl": {
+                "singular": "Cena"
+            },
+            "pt": {
+                "singular": "TOTAL (incl.VAT)"
+            },
+            "ru": {
+                "singular": "ИТОГО, вкл. НДС"
+            },
+            "sv": {
+                "singular": "TOTALT (inkl moms)"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.recommendGroups.handicapped",
+    "name": "handicapped",
+    "path": "text-resources/reservations/pages/review/recommendGroups/handicapped",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/recommendGroups/handicapped",
+    "slug": "handicapped",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "recommendGroups",
+        "handicapped"
+    ],
+    "content": {
+        "key": "reservations.pages.review.recommendGroups.handicapped",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Invalidní osoby"
+            },
+            "da": {
+                "singular": "Handicappede"
+            },
+            "de": {
+                "singular": "Menschen mit Behinderungen"
+            },
+            "de-AT": {
+                "singular": "Menschen mit Behinderungen"
+            },
+            "de-CH": {
+                "singular": "Menschen mit Behinderungen"
+            },
+            "de-DE": {
+                "singular": "Menschen mit Behinderungen"
+            },
+            "en": {
+                "singular": "People with disabilities"
+            },
+            "en-AU": {
+                "singular": "People with disabilities"
+            },
+            "en-CA": {
+                "singular": "People with disabilities"
+            },
+            "en-GB": {
+                "singular": "People with disabilities"
+            },
+            "en-IE": {
+                "singular": "People with disabilities"
+            },
+            "en-US": {
+                "singular": "People with disabilities"
+            },
+            "es": {
+                "singular": "Personas con discapacidades"
+            },
+            "fi": {
+                "singular": "Liikuntarajoitteiset"
+            },
+            "fi-EE": {
+                "singular": "Liikuntarajoitteiset"
+            },
+            "fi-FI": {
+                "singular": "Liikuntarajoitteiset"
+            },
+            "fr": {
+                "singular": "Personnes handicapées"
+            },
+            "fr-BE": {
+                "singular": "Personnes handicapées"
+            },
+            "fr-CA": {
+                "singular": "Personnes handicapées"
+            },
+            "fr-CH": {
+                "singular": "Personnes handicapées"
+            },
+            "fr-FR": {
+                "singular": "Personnes handicapées"
+            },
+            "hr": {
+                "singular": "Osobe s invaliditetom"
+            },
+            "it": {
+                "singular": "Disabili"
+            },
+            "it-CH": {
+                "singular": "Disabili"
+            },
+            "it-IT": {
+                "singular": "Persone con disabilità"
+            },
+            "nl": {
+                "singular": "Personen met beperkte mobiliteit"
+            },
+            "nl-BE": {
+                "singular": "Personen met beperkte mobiliteit"
+            },
+            "nl-NL": {
+                "singular": "Personen met beperkte mobiliteit"
+            },
+            "no": {
+                "singular": "Personer med funksjonshemming"
+            },
+            "pl": {
+                "singular": "Osoby niepełnosprawne"
+            },
+            "pt": {
+                "singular": "Pessoas com deficiência"
+            },
+            "ru": {
+                "singular": "Туристы с ограничениями"
+            },
+            "sv": {
+                "singular": "Personer med funktionshinder"
+            }
+        }
+    }
+}

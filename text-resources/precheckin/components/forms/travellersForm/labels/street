@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.street",
+    "name": "street",
+    "path": "text-resources/precheckin/components/forms/travellersForm/labels/street",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/street",
+    "slug": "street",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "street"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.street",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ulice"
+            },
+            "da": {
+                "singular": "Adresse"
+            },
+            "de": {
+                "singular": "Strasse"
+            },
+            "de-AT": {
+                "singular": "Strasse"
+            },
+            "de-CH": {
+                "singular": "Strasse"
+            },
+            "de-DE": {
+                "singular": "Strasse"
+            },
+            "en": {
+                "singular": "Street \u0026 nr"
+            },
+            "en-AU": {
+                "singular": "Street \u0026 nr"
+            },
+            "en-CA": {
+                "singular": "Street \u0026 nr"
+            },
+            "en-GB": {
+                "singular": "Street \u0026 nr"
+            },
+            "en-IE": {
+                "singular": "Street \u0026 nr"
+            },
+            "en-US": {
+                "singular": "Street \u0026 nr"
+            },
+            "es": {
+                "singular": "Calle y nº"
+            },
+            "fi": {
+                "singular": "Katu"
+            },
+            "fi-EE": {
+                "singular": "Katu"
+            },
+            "fi-FI": {
+                "singular": "Katu"
+            },
+            "fr": {
+                "singular": "Rue"
+            },
+            "fr-BE": {
+                "singular": "Rue"
+            },
+            "fr-CA": {
+                "singular": "Rue"
+            },
+            "fr-CH": {
+                "singular": "Rue"
+            },
+            "fr-FR": {
+                "singular": "Rue"
+            },
+            "hr": {
+                "singular": "Adresa"
+            },
+            "it": {
+                "singular": "Indirizzo"
+            },
+            "it-CH": {
+                "singular": "Indirizzo"
+            },
+            "it-IT": {
+                "singular": "Indirizzo"
+            },
+            "nl": {
+                "singular": "Straat en huisnummer"
+            },
+            "nl-BE": {
+                "singular": "Straat en huisnummer"
+            },
+            "nl-NL": {
+                "singular": "Straat en huisnummer"
+            },
+            "no": {
+                "singular": "Gate"
+            },
+            "pl": {
+                "singular": "Ulica, nr domu"
+            },
+            "pt": {
+                "singular": "Endereço"
+            },
+            "ru": {
+                "singular": "Адрес"
+            },
+            "sv": {
+                "singular": "Gata"
+            }
+        }
+    }
+}

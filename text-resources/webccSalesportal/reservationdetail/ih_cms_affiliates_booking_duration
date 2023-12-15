@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_duration",
+    "name": "ih_cms_affiliates_booking_duration",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_cms_affiliates_booking_duration",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_duration",
+    "slug": "ih_cms_affiliates_booking_duration",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_duration"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_duration",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Délka pobytu (noci)"
+            },
+            "da": {
+                "singular": "Opholdets varighed (dage)"
+            },
+            "de": {
+                "singular": "Aufenthaltsdauer"
+            },
+            "de-AT": {
+                "singular": "Aufenthaltsdauer"
+            },
+            "de-CH": {
+                "singular": "Aufenthaltsdauer"
+            },
+            "de-DE": {
+                "singular": "Aufenthaltsdauer"
+            },
+            "en": {
+                "singular": "Duration (nights)"
+            },
+            "en-AU": {
+                "singular": "Duration (nights)"
+            },
+            "en-CA": {
+                "singular": "Duration (nights)"
+            },
+            "en-GB": {
+                "singular": "Duration (nights)"
+            },
+            "en-IE": {
+                "singular": "Duration (nights)"
+            },
+            "en-US": {
+                "singular": "Duration (nights)"
+            },
+            "es": {
+                "singular": "Duración (noches)"
+            },
+            "fi": {
+                "singular": "Kesto (päiviä)"
+            },
+            "fi-EE": {
+                "singular": "Kesto (päiviä)"
+            },
+            "fi-FI": {
+                "singular": "Kesto (päiviä)"
+            },
+            "fr": {
+                "singular": "Durée (nuits)"
+            },
+            "fr-BE": {
+                "singular": "Durée (nuits)"
+            },
+            "fr-CA": {
+                "singular": "Durée (nuits)"
+            },
+            "fr-CH": {
+                "singular": "Durée (nuits)"
+            },
+            "fr-FR": {
+                "singular": "Durée (nuits)"
+            },
+            "hr": {
+                "singular": "Trajanje (noćenja)"
+            },
+            "it": {
+                "singular": "Durata (notti)"
+            },
+            "it-CH": {
+                "singular": "Durata (notti)"
+            },
+            "it-IT": {
+                "singular": "Durata (notti)"
+            },
+            "nl": {
+                "singular": "Duur (nachten)"
+            },
+            "nl-BE": {
+                "singular": "Duur (nachten)"
+            },
+            "nl-NL": {
+                "singular": "Duur (nachten)"
+            },
+            "no": {
+                "singular": "Oppholdets varighet (dager)"
+            },
+            "pl": {
+                "singular": "Długość pobytu (dni)"
+            },
+            "pt": {
+                "singular": "Duração (noites)"
+            },
+            "ru": {
+                "singular": "Продолжительность (дней)"
+            },
+            "sv": {
+                "singular": "Vistelsens längd (dagar)"
+            }
+        }
+    }
+}

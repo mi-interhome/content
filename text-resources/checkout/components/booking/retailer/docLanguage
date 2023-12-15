@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.retailer.docLanguage",
+    "name": "docLanguage",
+    "path": "text-resources/checkout/components/booking/retailer/docLanguage",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/retailer/docLanguage",
+    "slug": "docLanguage",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "retailer",
+        "docLanguage"
+    ],
+    "content": {
+        "key": "checkout.components.booking.retailer.docLanguage",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Jazyk dokumentu"
+            },
+            "da": {
+                "singular": "Dokumentsprog"
+            },
+            "de": {
+                "singular": "Dokumentensprache"
+            },
+            "de-AT": {
+                "singular": "Dokumentensprache"
+            },
+            "de-CH": {
+                "singular": "Dokumentensprache"
+            },
+            "de-DE": {
+                "singular": "Dokumentensprache"
+            },
+            "en": {
+                "singular": "Document language"
+            },
+            "en-AU": {
+                "singular": "Document language"
+            },
+            "en-CA": {
+                "singular": "Document language"
+            },
+            "en-GB": {
+                "singular": "Document language"
+            },
+            "en-IE": {
+                "singular": "Document language"
+            },
+            "en-US": {
+                "singular": "Document language"
+            },
+            "es": {
+                "singular": "Idioma del documento"
+            },
+            "fi": {
+                "singular": "Dokumenttikieli"
+            },
+            "fi-EE": {
+                "singular": "Dokumenttikieli"
+            },
+            "fi-FI": {
+                "singular": "Dokumenttikieli"
+            },
+            "fr": {
+                "singular": "Langue du document de voyage"
+            },
+            "fr-BE": {
+                "singular": "Langue du document de voyage"
+            },
+            "fr-CA": {
+                "singular": "Langue du document de voyage"
+            },
+            "fr-CH": {
+                "singular": "Langue du document de voyage"
+            },
+            "fr-FR": {
+                "singular": "Langue du document de voyage"
+            },
+            "hr": {
+                "singular": "Jezik dokumenta"
+            },
+            "it": {
+                "singular": "Lingua del documento"
+            },
+            "it-CH": {
+                "singular": "Lingua del documento"
+            },
+            "it-IT": {
+                "singular": "Lingua del documento"
+            },
+            "nl": {
+                "singular": "Taal document"
+            },
+            "nl-BE": {
+                "singular": "Taal document"
+            },
+            "nl-NL": {
+                "singular": "Taal document"
+            },
+            "no": {
+                "singular": "Dokumentspråk"
+            },
+            "pl": {
+                "singular": "Język Dokumentów Podróży"
+            },
+            "pt": {
+                "singular": "Idioma do documento"
+            },
+            "ru": {
+                "singular": "Язык документа"
+            },
+            "sv": {
+                "singular": "Dokumentspråk"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.SidebarContactCard.furtherQuestions",
+    "name": "furtherQuestions",
+    "path": "text-resources/www/components/views/details/SidebarContactCard/furtherQuestions",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/SidebarContactCard/furtherQuestions",
+    "slug": "furtherQuestions",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "SidebarContactCard",
+        "furtherQuestions"
+    ],
+    "content": {
+        "key": "www.components.views.details.SidebarContactCard.furtherQuestions",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Máte nějaké další otázky?"
+            },
+            "da": {
+                "singular": "Har du flere spørgsmål?"
+            },
+            "de": {
+                "singular": "Haben Sie weitere Fragen?"
+            },
+            "de-AT": {
+                "singular": "Haben Sie weitere Fragen?"
+            },
+            "de-CH": {
+                "singular": "Haben Sie weitere Fragen?"
+            },
+            "de-DE": {
+                "singular": "Haben Sie weitere Fragen?"
+            },
+            "en": {
+                "singular": "Do you have any additional questions?"
+            },
+            "en-AU": {
+                "singular": "Do you have any additional questions?"
+            },
+            "en-CA": {
+                "singular": "Do you have any additional questions?"
+            },
+            "en-GB": {
+                "singular": "Do you have any additional questions?"
+            },
+            "en-IE": {
+                "singular": "Do you have any additional questions?"
+            },
+            "en-US": {
+                "singular": "Do you have any additional questions?"
+            },
+            "es": {
+                "singular": "¿Tiene alguna pregunta más?"
+            },
+            "fi": {
+                "singular": "Onko sinulla lisäkysymyksiä?"
+            },
+            "fi-EE": {
+                "singular": "Onko sinulla lisäkysymyksiä?"
+            },
+            "fi-FI": {
+                "singular": "Onko sinulla lisäkysymyksiä?"
+            },
+            "fr": {
+                "singular": "Avez-vous des questions?"
+            },
+            "fr-BE": {
+                "singular": "Avez-vous des questions?"
+            },
+            "fr-CA": {
+                "singular": "Avez-vous des questions?"
+            },
+            "fr-CH": {
+                "singular": "Avez-vous des questions?"
+            },
+            "fr-FR": {
+                "singular": "Avez-vous des questions ?"
+            },
+            "hr": {
+                "singular": "Imate li dodatnih pitanja?"
+            },
+            "it": {
+                "singular": "Hai altre domande?"
+            },
+            "it-CH": {
+                "singular": "Hai altre domande?"
+            },
+            "it-IT": {
+                "singular": "Hai altre domande?"
+            },
+            "nl": {
+                "singular": "Heeft u nog vragen?"
+            },
+            "nl-BE": {
+                "singular": "Heeft u nog vragen?"
+            },
+            "nl-NL": {
+                "singular": "Heeft u nog vragen?"
+            },
+            "no": {
+                "singular": "Har du flere spørsmål?"
+            },
+            "pl": {
+                "singular": "Czy mają Państwo dodatkowe pytania? "
+            },
+            "pt": {
+                "singular": "Tem alguma pergunta adicional?"
+            },
+            "ru": {
+                "singular": "Остались вопросы? "
+            },
+            "sv": {
+                "singular": "Har du ytterligare frågor?"
+            }
+        }
+    }
+}

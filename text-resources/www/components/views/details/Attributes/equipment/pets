@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.equipment.pets",
+    "name": "pets",
+    "path": "text-resources/www/components/views/details/Attributes/equipment/pets",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/equipment/pets",
+    "slug": "pets",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "equipment",
+        "pets"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.equipment.pets",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Domácí zvíře povoleno"
+            },
+            "da": {
+                "singular": "Husdyr tilladt"
+            },
+            "de": {
+                "singular": "Haustiere erlaubt"
+            },
+            "de-AT": {
+                "singular": "Haustiere erlaubt"
+            },
+            "de-CH": {
+                "singular": "Haustiere erlaubt"
+            },
+            "de-DE": {
+                "singular": "Haustiere erlaubt"
+            },
+            "en": {
+                "singular": "Pets allowed"
+            },
+            "en-AU": {
+                "singular": "Pets allowed"
+            },
+            "en-CA": {
+                "singular": "Pets allowed"
+            },
+            "en-GB": {
+                "singular": "Pets allowed"
+            },
+            "en-IE": {
+                "singular": "Pets allowed"
+            },
+            "en-US": {
+                "singular": "Pets allowed"
+            },
+            "es": {
+                "singular": "Mascotas permitidas"
+            },
+            "fi": {
+                "singular": "Lemmikkieläimet sallittu"
+            },
+            "fi-EE": {
+                "singular": "Lemmikkieläimet sallittu"
+            },
+            "fi-FI": {
+                "singular": "Lemmikkieläimet sallittu"
+            },
+            "fr": {
+                "singular": "Animaux acceptés"
+            },
+            "fr-BE": {
+                "singular": "Animaux acceptés"
+            },
+            "fr-CA": {
+                "singular": "Animaux acceptés"
+            },
+            "fr-CH": {
+                "singular": "Animaux acceptés"
+            },
+            "fr-FR": {
+                "singular": "Animaux acceptés"
+            },
+            "hr": {
+                "singular": "Kućni ljubimci dozvoljeni"
+            },
+            "it": {
+                "singular": "Animali domestici ammessi"
+            },
+            "it-CH": {
+                "singular": "Animali domestici ammessi"
+            },
+            "it-IT": {
+                "singular": "Animali domestici ammessi"
+            },
+            "nl": {
+                "singular": "Huisdier toegestaan"
+            },
+            "nl-BE": {
+                "singular": "Huisdier toegestaan"
+            },
+            "nl-NL": {
+                "singular": "Huisdier toegestaan"
+            },
+            "no": {
+                "singular": "Husdyr tillatt"
+            },
+            "pl": {
+                "singular": "Pobyt ze zwierzakiem"
+            },
+            "pt": {
+                "singular": "Animais autorizados"
+            },
+            "ru": {
+                "singular": "Домашние животные разрешены"
+            },
+            "sv": {
+                "singular": "Husdjur tillåtna"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.searchTeaser.headingFilterNoPlaceholder",
+    "name": "headingFilterNoPlaceholder",
+    "path": "text-resources/www/components/views/search/searchTeaser/headingFilterNoPlaceholder",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/searchTeaser/headingFilterNoPlaceholder",
+    "slug": "headingFilterNoPlaceholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "searchTeaser",
+        "headingFilterNoPlaceholder"
+    ],
+    "content": {
+        "key": "www.components.views.search.searchTeaser.headingFilterNoPlaceholder",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rekreační domy a apartmány v:"
+            },
+            "da": {
+                "singular": "Feriehuse og lejligheder i:"
+            },
+            "de": {
+                "singular": "Ferienhäuser und Ferienwohnungen in:"
+            },
+            "de-AT": {
+                "singular": "Ferienhäuser und Ferienwohnungen in:"
+            },
+            "de-CH": {
+                "singular": "Ferienhäuser und Ferienwohnungen in:"
+            },
+            "de-DE": {
+                "singular": "Ferienhäuser und Ferienwohnungen in:"
+            },
+            "en": {
+                "singular": "Holiday houses and apartments in:"
+            },
+            "en-AU": {
+                "singular": "Holiday houses and apartments in:"
+            },
+            "en-CA": {
+                "singular": "Holiday houses and apartments in:"
+            },
+            "en-GB": {
+                "singular": "Holiday houses and apartments in:"
+            },
+            "en-IE": {
+                "singular": "Holiday houses and apartments in:"
+            },
+            "en-US": {
+                "singular": "Vacation houses and apartments in:"
+            },
+            "es": {
+                "singular": "Casas y apartmentos de vacaciones en: "
+            },
+            "fi": {
+                "singular": "Lomatalot ja -huoneistot paikassa:"
+            },
+            "fi-EE": {
+                "singular": "Lomatalot ja -huoneistot paikassa:"
+            },
+            "fi-FI": {
+                "singular": "Lomatalot ja -huoneistot paikassa:"
+            },
+            "fr": {
+                "singular": "Maisons et appartements de vacances:"
+            },
+            "fr-BE": {
+                "singular": "Maisons et appartements de vacances:"
+            },
+            "fr-CA": {
+                "singular": "Maisons et appartements de vacances:"
+            },
+            "fr-CH": {
+                "singular": "Maisons et appartements de vacances:"
+            },
+            "fr-FR": {
+                "singular": "Maisons et appartements de vacances :"
+            },
+            "hr": {
+                "singular": "Kuće za odmor i apartmani u:"
+            },
+            "it": {
+                "singular": "Case e appartamenti di vacanza a:"
+            },
+            "it-CH": {
+                "singular": "Case e appartamenti di vacanza a:"
+            },
+            "it-IT": {
+                "singular": "Case e appartamenti di vacanza a:"
+            },
+            "nl": {
+                "singular": "Vakantiehuizen en appartementen in:"
+            },
+            "nl-BE": {
+                "singular": "Vakantiehuizen en appartementen in:"
+            },
+            "nl-NL": {
+                "singular": "Vakantiehuizen en appartementen in:"
+            },
+            "no": {
+                "singular": "Feriehus og leiligheter i:"
+            },
+            "pl": {
+                "singular": "Domy i apartamenty wakacyjne w:"
+            },
+            "pt": {
+                "singular": "Casas e apartamentos de férias em:"
+            },
+            "ru": {
+                "singular": "Дома и апартаменты в:"
+            },
+            "sv": {
+                "singular": "Semesterhus och lägenheter i:"
+            }
+        }
+    }
+}

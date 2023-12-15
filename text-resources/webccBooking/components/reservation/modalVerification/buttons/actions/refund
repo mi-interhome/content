@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.modalVerification.buttons.actions.refund",
+    "name": "refund",
+    "path": "text-resources/webccBooking/components/reservation/modalVerification/buttons/actions/refund",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/modalVerification/buttons/actions/refund",
+    "slug": "refund",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "modalVerification",
+        "buttons",
+        "actions",
+        "refund"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.modalVerification.buttons.actions.refund",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyžádat si kód pro vrácení platby"
+            },
+            "da": {
+                "singular": "Anmod om erstatningskode"
+            },
+            "de": {
+                "singular": "Erstattungscode anfordern"
+            },
+            "de-AT": {
+                "singular": "Erstattungscode anfordern"
+            },
+            "de-CH": {
+                "singular": "Erstattungscode anfordern"
+            },
+            "de-DE": {
+                "singular": "Erstattungscode anfordern"
+            },
+            "en": {
+                "singular": "Request refund code"
+            },
+            "en-AU": {
+                "singular": "Request refund code"
+            },
+            "en-CA": {
+                "singular": "Request refund code"
+            },
+            "en-GB": {
+                "singular": "Request refund code"
+            },
+            "en-IE": {
+                "singular": "Request refund code"
+            },
+            "en-US": {
+                "singular": "Request refund code"
+            },
+            "es": {
+                "singular": "Solicitar código de reembolso"
+            },
+            "fi": {
+                "singular": "Pyydä palautuskoodi"
+            },
+            "fi-EE": {
+                "singular": "Pyydä palautuskoodi"
+            },
+            "fi-FI": {
+                "singular": "Pyydä palautuskoodi"
+            },
+            "fr": {
+                "singular": "Demander un code de remboursement"
+            },
+            "fr-BE": {
+                "singular": "Demander un code de remboursement"
+            },
+            "fr-CA": {
+                "singular": "Demander un code de remboursement"
+            },
+            "fr-CH": {
+                "singular": "Demander un code de remboursement"
+            },
+            "fr-FR": {
+                "singular": "Demander un code de remboursement"
+            },
+            "hr": {
+                "singular": "Zatražite šifru za povrat sredstava"
+            },
+            "it": {
+                "singular": "Richiedere codice per rimborso"
+            },
+            "it-CH": {
+                "singular": "Richiedere codice per rimborso"
+            },
+            "it-IT": {
+                "singular": "Richiedere codice per rimborso"
+            },
+            "nl": {
+                "singular": "Terugbetalingscode aanvragen"
+            },
+            "nl-BE": {
+                "singular": "Terugbetalingscode aanvragen"
+            },
+            "nl-NL": {
+                "singular": "Terugbetalingscode aanvragen"
+            },
+            "no": {
+                "singular": "Be om refusjonskode"
+            },
+            "pl": {
+                "singular": "Wygeneruj kod do zwrotu płatności"
+            },
+            "pt": {
+                "singular": "Solicitar código de reembolso"
+            },
+            "ru": {
+                "singular": "Запросить код для возврата"
+            },
+            "sv": {
+                "singular": "Begär återbetalningskod"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.customer.b2bHint",
+    "name": "b2bHint",
+    "path": "text-resources/checkout/components/booking/customer/b2bHint",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/customer/b2bHint",
+    "slug": "b2bHint",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "customer",
+        "b2bHint"
+    ],
+    "content": {
+        "key": "checkout.components.booking.customer.b2bHint",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Uveďte prosím číslo mobilního telefonu a e-mailovou adresu zákazníka pro koordinaci příjezdu do rekreačního objektu. Tyto údaje nebudou použity pro marketingové účely."
+            },
+            "da": {
+                "singular": "Angiv venligst mobilnummer og emailadresse til din kunde, så ankomsten kan koordineres. Disse bliver ikke anvendt til reklameformål."
+            },
+            "de": {
+                "singular": "Bitte geben Sie eine Mobilnummer und eine E-Mail Adresse an zur Koordination der Anreise Ihrer Kunden. Diese werden nicht zu Marketingzwecken verwendet."
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie eine Mobilnummer und eine E-Mail Adresse an zur Koordination der Anreise Ihrer Kunden. Diese werden nicht zu Marketingzwecken verwendet."
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie eine Mobilnummer und eine E-Mail Adresse an zur Koordination der Anreise Ihrer Kunden. Diese werden nicht zu Marketingzwecken verwendet."
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie eine Mobilnummer und eine E-Mail Adresse an zur Koordination der Anreise Ihrer Kunden. Diese werden nicht zu Marketingzwecken verwendet."
+            },
+            "en": {
+                "singular": "Please provide a mobile telephone number and email address for your customer to coordinate their arrival. This will not be used for any marketing purposes."
+            },
+            "en-AU": {
+                "singular": "Please provide a mobile telephone number and email address for your customer to coordinate their arrival. This will not be used for any marketing purposes."
+            },
+            "en-CA": {
+                "singular": "Please provide a mobile telephone number and email address for your customer to coordinate their arrival. This will not be used for any marketing purposes."
+            },
+            "en-GB": {
+                "singular": "Please provide a mobile telephone number and email address for your customer to coordinate their arrival. This will not be used for any marketing purposes."
+            },
+            "en-IE": {
+                "singular": "Please provide a mobile telephone number and email address for your customer to coordinate their arrival. This will not be used for any marketing purposes."
+            },
+            "en-US": {
+                "singular": "Please provide a mobile telephone number and email address for your customer to coordinate their arrival. This will not be used for any marketing purposes."
+            },
+            "es": {
+                "singular": "Indique un número de teléfono móvil y una dirección de correo electrónico para que su cliente pueda coordinar su llegada. Estos datos no se utilizarán con fines comerciales."
+            },
+            "fi": {
+                "singular": "Ilmoitathan asiakkaan puhelinnumeron sekä sähköpostiosoitteen saapumisjärjestelyjä varten. Näitä tietoja ei käytetä markkinointitarkoituksiin."
+            },
+            "fi-EE": {
+                "singular": "Ilmoitathan asiakkaan puhelinnumeron sekä sähköpostiosoitteen saapumisjärjestelyjä varten. Näitä tietoja ei käytetä markkinointitarkoituksiin."
+            },
+            "fi-FI": {
+                "singular": "Ilmoitathan asiakkaan puhelinnumeron sekä sähköpostiosoitteen saapumisjärjestelyjä varten. Näitä tietoja ei käytetä markkinointitarkoituksiin."
+            },
+            "fr": {
+                "singular": "Veuillez indiquer un numéro de téléphone portable et une adresse e-mail pour vos clients afin de coordonner leur arrivée. Ces informations ne seront pas utilisées à des fins commerciales."
+            },
+            "fr-BE": {
+                "singular": "Veuillez indiquer un numéro de téléphone portable et une adresse e-mail pour vos clients afin de coordonner leur arrivée. Ces informations ne seront pas utilisées à des fins commerciales."
+            },
+            "fr-CA": {
+                "singular": "Veuillez indiquer un numéro de téléphone portable et une adresse e-mail pour vos clients afin de coordonner leur arrivée. Ces informations ne seront pas utilisées à des fins commerciales."
+            },
+            "fr-CH": {
+                "singular": "Veuillez indiquer un numéro de téléphone portable et une adresse e-mail pour vos clients afin de coordonner leur arrivée. Ces informations ne seront pas utilisées à des fins commerciales."
+            },
+            "fr-FR": {
+                "singular": "Veuillez indiquer un numéro de téléphone portable et une adresse e-mail pour vos clients afin de coordonner leur arrivée. Ces informations ne seront pas utilisées à des fins commerciales."
+            },
+            "hr": {
+                "singular": "Molimo navedite broj mobitela i email adresu Vašeg gosta kako bi se mogli iskomunicirati detalji vezano za njihov dolazak. Ovi podaci se ne koriste za marketinške aktivnosti."
+            },
+            "it": {
+                "singular": "Si prega di fornire un numero di telefono e un indirizzo e-mail validi per consentire al cliente di organizzare il suo arrivo. I recapiti non saranno utilizzati per finalità di marketing. "
+            },
+            "it-CH": {
+                "singular": "Si prega di fornire un numero di telefono e un indirizzo e-mail validi per consentire al cliente di organizzare il suo arrivo. I recapiti non saranno utilizzati per finalità di marketing. "
+            },
+            "it-IT": {
+                "singular": "Si prega di fornire un numero di telefono e un indirizzo e-mail validi per consentire al cliente di organizzare il suo arrivo. I recapiti non saranno utilizzati per finalità di marketing. "
+            },
+            "nl": {
+                "singular": "Gelieve een mobiel telefoonnummer en e-mailadres voor uw klant op te geven, om hun aankomst te coördineren. Dit zal niet voor marketingdoeleinden worden gebruikt."
+            },
+            "nl-BE": {
+                "singular": "Gelieve een mobiel telefoonnummer en e-mailadres voor uw klant op te geven, om hun aankomst te coördineren. Dit zal niet voor marketingdoeleinden worden gebruikt."
+            },
+            "nl-NL": {
+                "singular": "Gelieve een mobiel telefoonnummer en e-mailadres voor uw klant op te geven, om hun aankomst te coördineren. Dit zal niet voor marketingdoeleinden worden gebruikt."
+            },
+            "no": {
+                "singular": "Vennligst oppgi mobilnummeret og e-postadressen til kunden din slik at ankomst kan koordineres. Disse brukes ikke til reklameformål."
+            },
+            "pl": {
+                "singular": "Prosimy podać nr telefonu komórkowego oraz adres mailowy Klienta, który zostanie przekazany osobie wydającej klucze. Dane te nie będą wykorzystane do celów marketingowych"
+            },
+            "pt": {
+                "singular": "Forneça um número de telemóvel e endereço de e-mail para que o seu cliente possa coordenar a sua chegada. Estes dados não serão usados para fins de marketing."
+            },
+            "ru": {
+                "singular": "Пожалуйста, укажите номер мобильного телефона и адрес электронной почты Вашего клиента, чтобы согласовать заезд. Это не будет использоваться в каких-либо маркетинговых целях."
+            },
+            "sv": {
+                "singular": "Vänligen ange ett mobiltelefonnummer och en mejladress så att din kund kan planera sin ankomst. Dessa kommer inte att användas i marknadsföringssyfte. "
+            }
+        }
+    }
+}

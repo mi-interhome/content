@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.home.portal_home",
+    "name": "portal_home",
+    "path": "text-resources/webccSalesportal/home/portal_home",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/home/portal_home",
+    "slug": "portal_home",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "home",
+        "portal_home"
+    ],
+    "content": {
+        "key": "webccSalesportal.home.portal_home",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Partnerský portál - Úvod"
+            },
+            "da": {
+                "singular": "Partnerportal Hjem"
+            },
+            "de": {
+                "singular": "Partner Portal Home"
+            },
+            "de-AT": {
+                "singular": "Partner Portal Home"
+            },
+            "de-CH": {
+                "singular": "Partner Portal Home"
+            },
+            "de-DE": {
+                "singular": "Partner Portal Home"
+            },
+            "en": {
+                "singular": "Partner Portal Home"
+            },
+            "en-AU": {
+                "singular": "Partner Portal Home"
+            },
+            "en-CA": {
+                "singular": "Partner Portal Home"
+            },
+            "en-GB": {
+                "singular": "Partner Portal Home"
+            },
+            "en-IE": {
+                "singular": "Partner Portal Home"
+            },
+            "en-US": {
+                "singular": "Partner Portal Home"
+            },
+            "es": {
+                "singular": "Inicio Portal Partner"
+            },
+            "fi": {
+                "singular": "Partner Portaalin etusivu"
+            },
+            "fi-EE": {
+                "singular": "Partner Portaalin etusivu"
+            },
+            "fi-FI": {
+                "singular": "Partner Portaalin etusivu"
+            },
+            "fr": {
+                "singular": "Portail partenaire"
+            },
+            "fr-BE": {
+                "singular": "Portail partenaire"
+            },
+            "fr-CA": {
+                "singular": "Portail partenaire"
+            },
+            "fr-CH": {
+                "singular": "Portail partenaire"
+            },
+            "fr-FR": {
+                "singular": "Portail partenaire"
+            },
+            "hr": {
+                "singular": "Portal za partnere - početna stranica"
+            },
+            "it": {
+                "singular": "Home page del sito agenzie/partner"
+            },
+            "it-CH": {
+                "singular": "Home page del sito partner"
+            },
+            "it-IT": {
+                "singular": "Home page del sito agenzie/partner"
+            },
+            "nl": {
+                "singular": "Partner Portal Home"
+            },
+            "nl-BE": {
+                "singular": "Partner Portal Home"
+            },
+            "nl-NL": {
+                "singular": "Partner Portal Home"
+            },
+            "no": {
+                "singular": "Partnerportal hjem"
+            },
+            "pl": {
+                "singular": "Strona główna Portalu dla Partnerów"
+            },
+            "pt": {
+                "singular": "Página inicial do portal de parceiros"
+            },
+            "ru": {
+                "singular": "Портал для партнёров Главная"
+            },
+            "sv": {
+                "singular": "Partnerportal Hem"
+            }
+        }
+    }
+}

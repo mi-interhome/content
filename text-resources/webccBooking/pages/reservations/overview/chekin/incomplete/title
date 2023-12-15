@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.pages.reservations.overview.chekin.incomplete.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/pages/reservations/overview/chekin/incomplete/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/chekin/incomplete/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "chekin",
+        "incomplete",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.chekin.incomplete.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Povinný online check-in"
+            },
+            "da": {
+                "singular": "Obligatorisk online check-in"
+            },
+            "de": {
+                "singular": "Obligatorischer Online-Check-In"
+            },
+            "de-AT": {
+                "singular": "Obligatorischer Online-Check-In"
+            },
+            "de-CH": {
+                "singular": "Obligatorischer Online-Check-In"
+            },
+            "de-DE": {
+                "singular": "Obligatorischer Online-Check-In"
+            },
+            "en": {
+                "singular": "Compulsory Online Check-In"
+            },
+            "en-AU": {
+                "singular": "Compulsory Online Check-In"
+            },
+            "en-CA": {
+                "singular": "Compulsory Online Check-In"
+            },
+            "en-GB": {
+                "singular": "Compulsory Online Check-In"
+            },
+            "en-IE": {
+                "singular": "Compulsory Online Check-In"
+            },
+            "en-US": {
+                "singular": "Compulsory Online Check-In"
+            },
+            "es": {
+                "singular": "Check-in online obligatorio"
+            },
+            "fi": {
+                "singular": "Pakollinen check-in verkossa"
+            },
+            "fi-EE": {
+                "singular": "Pakollinen check-in verkossa"
+            },
+            "fi-FI": {
+                "singular": "Pakollinen check-in verkossa"
+            },
+            "fr": {
+                "singular": "Enregistrement en ligne obligatoire"
+            },
+            "fr-BE": {
+                "singular": "Enregistrement en ligne obligatoire"
+            },
+            "fr-CA": {
+                "singular": "Enregistrement en ligne obligatoire"
+            },
+            "fr-CH": {
+                "singular": "Enregistrement en ligne obligatoire"
+            },
+            "fr-FR": {
+                "singular": "Enregistrement en ligne obligatoire"
+            },
+            "hr": {
+                "singular": "Obavezna Online prijava"
+            },
+            "it": {
+                "singular": "Check-in online obbligatorio"
+            },
+            "it-CH": {
+                "singular": "Check-in online obbligatorio"
+            },
+            "it-IT": {
+                "singular": "Check-in online obbligatorio"
+            },
+            "nl": {
+                "singular": "Verplichte online check-in"
+            },
+            "nl-BE": {
+                "singular": "Verplichte online check-in"
+            },
+            "nl-NL": {
+                "singular": "Verplichte online check-in"
+            },
+            "no": {
+                "singular": "Obligatorisk innsjekking på nett"
+            },
+            "pl": {
+                "singular": "Check-In - obowiązkowa rejestracja online"
+            },
+            "pt": {
+                "singular": "Check-in online obrigatório"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Obligatorisk incheckning online"
+            }
+        }
+    }
+}

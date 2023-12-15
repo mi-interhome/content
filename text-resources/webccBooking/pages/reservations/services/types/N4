@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.services.types.N4",
+    "name": "N4",
+    "path": "text-resources/webccBooking/pages/reservations/services/types/N4",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/services/types/N4",
+    "slug": "N4",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "services",
+        "types",
+        "N4"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.services.types.N4",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rezervovat dodatečně, k zaplacení na místě"
+            },
+            "da": {
+                "singular": "Kan bestilles ekstra og betales på sted"
+            },
+            "de": {
+                "singular": "Zusätzlich buchbar, zahlbar vor Ort"
+            },
+            "de-AT": {
+                "singular": "Zusätzlich buchbar, zahlbar vor Ort"
+            },
+            "de-CH": {
+                "singular": "Zusätzlich buchbar, zahlbar vor Ort"
+            },
+            "de-DE": {
+                "singular": "Zusätzlich buchbar, zahlbar vor Ort"
+            },
+            "en": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "en-AU": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "en-CA": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "en-GB": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "en-IE": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "en-US": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "es": {
+                "singular": "Reservable extra, a pagar en destino"
+            },
+            "fi": {
+                "singular": "Varattavissa, lisämaksu paikalla"
+            },
+            "fi-EE": {
+                "singular": "Varattavissa, lisämaksu paikalla"
+            },
+            "fi-FI": {
+                "singular": "Varattavissa, lisämaksu paikalla"
+            },
+            "fr": {
+                "singular": "En supplément, à payer sur place"
+            },
+            "fr-BE": {
+                "singular": "En supplément, à payer sur place"
+            },
+            "fr-CA": {
+                "singular": "En supplément, à payer sur place"
+            },
+            "fr-CH": {
+                "singular": "En supplément, à payer sur place"
+            },
+            "fr-FR": {
+                "singular": "En supplément, à payer sur place"
+            },
+            "hr": {
+                "singular": "Dodatne usluge, plaća se u destinaciji"
+            },
+            "it": {
+                "singular": "Extra prenotabili, pagabili in loco"
+            },
+            "it-CH": {
+                "singular": "Extra prenotabili, pagabili in loco"
+            },
+            "it-IT": {
+                "singular": "Extra prenotabili, pagabili in loco"
+            },
+            "nl": {
+                "singular": "Bij te boeken,  ter plaatse te betalen"
+            },
+            "nl-BE": {
+                "singular": "Bij te boeken,  ter plaatse te betalen"
+            },
+            "nl-NL": {
+                "singular": "Bij te boeken,  ter plaatse te betalen"
+            },
+            "no": {
+                "singular": "Kan bestilles i tillegg, betales på sted"
+            },
+            "pl": {
+                "singular": "Możliwe do zarezerwowania, płatne na miejscu"
+            },
+            "pt": {
+                "singular": "Bookable extra, payable in resort"
+            },
+            "ru": {
+                "singular": "оплачивается дополнительно на курорте"
+            },
+            "sv": {
+                "singular": "Tillägg, betalning sker på plats,"
+            }
+        }
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "id": "www.components.views.search.content.SightsAndContent.introHeading",
+    "name": "introHeading",
+    "path": "text-resources/www/components/views/search/content/SightsAndContent/introHeading",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/content/SightsAndContent/introHeading",
+    "slug": "introHeading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "content",
+        "SightsAndContent",
+        "introHeading"
+    ],
+    "content": {
+        "key": "www.components.views.search.content.SightsAndContent.introHeading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "{destination} entdecken"
+            },
+            "de-AT": {
+                "singular": "{destination} entdecken"
+            },
+            "de-CH": {
+                "singular": "{destination} entdecken"
+            },
+            "de-DE": {
+                "singular": "{destination} entdecken"
+            },
+            "en": {},
+            "en-AU": {},
+            "en-CA": {},
+            "en-GB": {},
+            "en-IE": {},
+            "en-US": {},
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {
+                "singular": "Découvrez la destination de vacances {destination}"
+            },
+            "fr-BE": {
+                "singular": "Découvrez la destination de vacances {destination}"
+            },
+            "fr-CA": {
+                "singular": "Découvrez la destination de vacances {destination}"
+            },
+            "fr-CH": {
+                "singular": "Découvrez la destination de vacances {destination}"
+            },
+            "fr-FR": {
+                "singular": "Découvrez la destination de vacances {destination}"
+            },
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {
+                "singular": "Ontdek vakantiebestemming {destination}"
+            },
+            "nl-BE": {
+                "singular": "Ontdek vakantiebestemming {destination}"
+            },
+            "nl-NL": {
+                "singular": "Ontdek vakantiebestemming {destination}"
+            },
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

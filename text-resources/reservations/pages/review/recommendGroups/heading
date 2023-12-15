@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.recommendGroups.heading",
+    "name": "heading",
+    "path": "text-resources/reservations/pages/review/recommendGroups/heading",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/recommendGroups/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "recommendGroups",
+        "heading"
+    ],
+    "content": {
+        "key": "reservations.pages.review.recommendGroups.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Doporučili byste toto zařízení těmto skupinám?"
+            },
+            "da": {
+                "singular": "Ville du anbefale denne ejendom til disse grupper?"
+            },
+            "de": {
+                "singular": "Würden Sie die Unterkunft für diese Gruppen empfehlen?"
+            },
+            "de-AT": {
+                "singular": "Würden Sie die Unterkunft für diese Gruppen empfehlen?"
+            },
+            "de-CH": {
+                "singular": "Würden Sie die Unterkunft für diese Gruppen empfehlen?"
+            },
+            "de-DE": {
+                "singular": "Würden Sie die Unterkunft für diese Gruppen empfehlen?"
+            },
+            "en": {
+                "singular": "Would you recommend this property for these groups?"
+            },
+            "en-AU": {
+                "singular": "Would you recommend this property for these groups?"
+            },
+            "en-CA": {
+                "singular": "Would you recommend this property for these groups?"
+            },
+            "en-GB": {
+                "singular": "Would you recommend this property for these groups?"
+            },
+            "en-IE": {
+                "singular": "Would you recommend this property for these groups?"
+            },
+            "en-US": {
+                "singular": "Would you recommend this property for these groups?"
+            },
+            "es": {
+                "singular": "¿Recomendarías esta propiedad a estos grupos?"
+            },
+            "fi": {
+                "singular": "Suosittelisitko tätä kohdetta näille ryhmille? "
+            },
+            "fi-EE": {
+                "singular": "Suosittelisitko tätä kohdetta näille ryhmille?"
+            },
+            "fi-FI": {
+                "singular": "Suosittelisitko tätä kohdetta näille ryhmille? "
+            },
+            "fr": {
+                "singular": "Au(x)quel(s) de ces groupes recommanderiez-vous cette location ?"
+            },
+            "fr-BE": {
+                "singular": "Au(x)quel(s) de ces groupes recommanderiez-vous cette location ?"
+            },
+            "fr-CA": {
+                "singular": "Au(x)quel(s) de ces groupes recommanderiez-vous cette location ?"
+            },
+            "fr-CH": {
+                "singular": "Au(x)quel(s) de ces groupes recommanderiez-vous cette location?"
+            },
+            "fr-FR": {
+                "singular": "Au(x)quel(s) de ces groupes recommanderiez-vous cette location ?"
+            },
+            "hr": {
+                "singular": "Biste li preporučili objekt za ove grupe?"
+            },
+            "it": {
+                "singular": "A quali tra le seguenti categorie di viaggiatori consiglieresti questa struttura?"
+            },
+            "it-CH": {
+                "singular": "A quali tra le seguenti categorie di viaggiatori consiglieresti questa struttura?"
+            },
+            "it-IT": {
+                "singular": "A quali tra le seguenti categorie di viaggiatori consiglieresti questa struttura?"
+            },
+            "nl": {
+                "singular": "Aan welke groepen zou u deze woning aanraden?"
+            },
+            "nl-BE": {
+                "singular": "Aan welke groepen zou u deze woning aanraden?"
+            },
+            "nl-NL": {
+                "singular": "Aan welke groepen zou u deze woning aanraden?"
+            },
+            "no": {
+                "singular": "Ville du anbefale dette overnattingsstedet for disse gruppene?"
+            },
+            "pl": {
+                "singular": "Dla jakiej z poniższych grup polecasz ten dom/apartament?"
+            },
+            "pt": {
+                "singular": "Você recomendaria este imóvel para esses grupos?"
+            },
+            "ru": {
+                "singular": "Порекомендовали ли бы Вы данный объект этим группам?"
+            },
+            "sv": {
+                "singular": "Skulle du rekommendera detta boende för dessa grupper?"
+            }
+        }
+    }
+}

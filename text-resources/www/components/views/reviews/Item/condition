@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.reviews.Item.condition",
+    "name": "condition",
+    "path": "text-resources/www/components/views/reviews/Item/condition",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Item/condition",
+    "slug": "condition",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Item",
+        "condition"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Item.condition",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Celkový stav zařízení"
+            },
+            "da": {
+                "singular": "Ejendommens overordnede tilstand"
+            },
+            "de": {
+                "singular": "Gesamtzustand der Unterkunft"
+            },
+            "de-AT": {
+                "singular": "Gesamtzustand der Unterkunft"
+            },
+            "de-CH": {
+                "singular": "Gesamtzustand der Unterkunft"
+            },
+            "de-DE": {
+                "singular": "Gesamtzustand der Unterkunft"
+            },
+            "en": {
+                "singular": "Overall condition of the property"
+            },
+            "en-AU": {
+                "singular": "Overall condition of the property"
+            },
+            "en-CA": {
+                "singular": "Overall condition of the property"
+            },
+            "en-GB": {
+                "singular": "Overall condition of the property"
+            },
+            "en-IE": {
+                "singular": "Overall condition of the property"
+            },
+            "en-US": {
+                "singular": "Overall condition of the property"
+            },
+            "es": {
+                "singular": "Estado general del alquiler vacacional"
+            },
+            "fi": {
+                "singular": "Kohteen yleiskunto"
+            },
+            "fi-EE": {
+                "singular": "Kohteen yleiskunto"
+            },
+            "fi-FI": {
+                "singular": "Kohteen yleiskunto"
+            },
+            "fr": {
+                "singular": "État général de la location"
+            },
+            "fr-BE": {
+                "singular": "État général de la location"
+            },
+            "fr-CA": {
+                "singular": "État général de la location"
+            },
+            "fr-CH": {
+                "singular": "État général de la location"
+            },
+            "fr-FR": {
+                "singular": "État général de la location"
+            },
+            "hr": {
+                "singular": "Ukupno stanje objekta"
+            },
+            "it": {
+                "singular": "Condizioni generali della struttura"
+            },
+            "it-CH": {
+                "singular": "Condizioni generali della struttura"
+            },
+            "it-IT": {
+                "singular": "Condizioni generali dell'alloggio"
+            },
+            "nl": {
+                "singular": "Algemene staat van de woning"
+            },
+            "nl-BE": {
+                "singular": "Algemene staat van de woning"
+            },
+            "nl-NL": {
+                "singular": "Algemene staat van de woning"
+            },
+            "no": {
+                "singular": "Overnattingsstedets generelle tilstand"
+            },
+            "pl": {
+                "singular": "Stan ogólny obiektu"
+            },
+            "pt": {
+                "singular": "Condições gerais da propriedade"
+            },
+            "ru": {
+                "singular": "Общее состояние объекта"
+            },
+            "sv": {
+                "singular": "Hotellets skick på det stora hela"
+            }
+        }
+    }
+}

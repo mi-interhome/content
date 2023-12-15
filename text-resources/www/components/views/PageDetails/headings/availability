@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.PageDetails.headings.availability",
+    "name": "availability",
+    "path": "text-resources/www/components/views/PageDetails/headings/availability",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/PageDetails/headings/availability",
+    "slug": "availability",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "PageDetails",
+        "headings",
+        "availability"
+    ],
+    "content": {
+        "key": "www.components.views.PageDetails.headings.availability",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Prověřit obsazení a zarezervovat"
+            },
+            "da": {
+                "singular": "Kontroller tilgængelighed og book"
+            },
+            "de": {
+                "singular": "Verfügbarkeit prüfen und buchen"
+            },
+            "de-AT": {
+                "singular": "Verfügbarkeit prüfen und buchen"
+            },
+            "de-CH": {
+                "singular": "Verfügbarkeit prüfen und buchen"
+            },
+            "de-DE": {
+                "singular": "Verfügbarkeit prüfen und buchen"
+            },
+            "en": {
+                "singular": "Check availability and book"
+            },
+            "en-AU": {
+                "singular": "Check availability and book"
+            },
+            "en-CA": {
+                "singular": "Check availability and book"
+            },
+            "en-GB": {
+                "singular": "Check availability and book"
+            },
+            "en-IE": {
+                "singular": "Check availability and book"
+            },
+            "en-US": {
+                "singular": "Check availability and book"
+            },
+            "es": {
+                "singular": "Disponibilidad y reserva"
+            },
+            "fi": {
+                "singular": "Tarkista saatavuus ja varaa"
+            },
+            "fi-EE": {
+                "singular": "Tarkista saatavuus ja varaa"
+            },
+            "fi-FI": {
+                "singular": "Tarkista saatavuus ja varaa"
+            },
+            "fr": {
+                "singular": "Vérifier la disponibilité en temps réel et réserver"
+            },
+            "fr-BE": {
+                "singular": "Vérifier la disponibilité en temps réel et réserver"
+            },
+            "fr-CA": {
+                "singular": "Vérifier la disponibilité en temps réel et réserver"
+            },
+            "fr-CH": {
+                "singular": "Vérifier la disponibilité en temps réel et réserver"
+            },
+            "fr-FR": {
+                "singular": "Vérifier la disponibilité en temps réel et réserver"
+            },
+            "hr": {
+                "singular": "Provjeri raspoloživost i rezerviraj"
+            },
+            "it": {
+                "singular": "Verifica la disponibilità e prenota"
+            },
+            "it-CH": {
+                "singular": "Verifica la disponibilità e prenota"
+            },
+            "it-IT": {
+                "singular": "Verifica la disponibilità e prenota"
+            },
+            "nl": {
+                "singular": "Beschikbaarheid controleren en boeken"
+            },
+            "nl-BE": {
+                "singular": "Beschikbaarheid controleren en boeken"
+            },
+            "nl-NL": {
+                "singular": "Beschikbaarheid controleren en boeken"
+            },
+            "no": {
+                "singular": "Sjekk tilgjengelighet og bestill"
+            },
+            "pl": {
+                "singular": "Dostępność i ceny (za dom lub apartament dla podanej liczby osób)"
+            },
+            "pt": {
+                "singular": "Consulte a disponibilidade e reservar"
+            },
+            "ru": {
+                "singular": "Выберите период путешествия"
+            },
+            "sv": {
+                "singular": "Sök lediga semesterboenden och boka"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.options.inadequate",
+    "name": "inadequate",
+    "path": "text-resources/reservations/pages/review/options/inadequate",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/options/inadequate",
+    "slug": "inadequate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "options",
+        "inadequate"
+    ],
+    "content": {
+        "key": "reservations.pages.review.options.inadequate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Špatné"
+            },
+            "da": {
+                "singular": "Utilfreds"
+            },
+            "de": {
+                "singular": "Mangelhaft"
+            },
+            "de-AT": {
+                "singular": "Mangelhaft"
+            },
+            "de-CH": {
+                "singular": "Mangelhaft"
+            },
+            "de-DE": {
+                "singular": "Mangelhaft"
+            },
+            "en": {
+                "singular": "Poor"
+            },
+            "en-AU": {
+                "singular": "Poor"
+            },
+            "en-CA": {
+                "singular": "Poor"
+            },
+            "en-GB": {
+                "singular": "Poor"
+            },
+            "en-IE": {
+                "singular": "Poor"
+            },
+            "en-US": {
+                "singular": "Poor"
+            },
+            "es": {
+                "singular": "Malo"
+            },
+            "fi": {
+                "singular": "Huono"
+            },
+            "fi-EE": {
+                "singular": "Huono"
+            },
+            "fi-FI": {
+                "singular": "Huono"
+            },
+            "fr": {
+                "singular": "Médiocre"
+            },
+            "fr-BE": {
+                "singular": "Médiocre"
+            },
+            "fr-CA": {
+                "singular": "Médiocre"
+            },
+            "fr-CH": {
+                "singular": "Médiocre"
+            },
+            "fr-FR": {
+                "singular": "Médiocre"
+            },
+            "hr": {
+                "singular": "Ispodprosječno"
+            },
+            "it": {
+                "singular": "Scarso"
+            },
+            "it-CH": {
+                "singular": "Scarso"
+            },
+            "it-IT": {
+                "singular": "Scarso"
+            },
+            "nl": {
+                "singular": "Slecht"
+            },
+            "nl-BE": {
+                "singular": "Slecht"
+            },
+            "nl-NL": {
+                "singular": "Slecht"
+            },
+            "no": {
+                "singular": "Dårlig"
+            },
+            "pl": {
+                "singular": "Źle"
+            },
+            "pt": {
+                "singular": "Ruim"
+            },
+            "ru": {
+                "singular": "Плохо"
+            },
+            "sv": {
+                "singular": "Dåligt"
+            }
+        }
+    }
+}

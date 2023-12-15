@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Vacancy.legend.arrival",
+    "name": "arrival",
+    "path": "text-resources/www/components/views/details/Vacancy/legend/arrival",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Vacancy/legend/arrival",
+    "slug": "arrival",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Vacancy",
+        "legend",
+        "arrival"
+    ],
+    "content": {
+        "key": "www.components.views.details.Vacancy.legend.arrival",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Možný datum příjezdu"
+            },
+            "da": {
+                "singular": "Mulig ankomstdato"
+            },
+            "de": {
+                "singular": "Mögliches Anreisedatum"
+            },
+            "de-AT": {
+                "singular": "Mögliches Anreisedatum"
+            },
+            "de-CH": {
+                "singular": "Mögliches Anreisedatum"
+            },
+            "de-DE": {
+                "singular": "Mögliches Anreisedatum"
+            },
+            "en": {
+                "singular": "Arrival possible"
+            },
+            "en-AU": {
+                "singular": "Arrival possible"
+            },
+            "en-CA": {
+                "singular": "Arrival possible"
+            },
+            "en-GB": {
+                "singular": "Arrival possible"
+            },
+            "en-IE": {
+                "singular": "Arrival possible"
+            },
+            "en-US": {
+                "singular": "Arrival possible"
+            },
+            "es": {
+                "singular": "Posible fecha de llegada"
+            },
+            "fi": {
+                "singular": "Mahdollinen saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Mahdollinen saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Mahdollinen saapumispäivä"
+            },
+            "fr": {
+                "singular": "Date d'arrivée possible"
+            },
+            "fr-BE": {
+                "singular": "Date d'arrivée possible"
+            },
+            "fr-CA": {
+                "singular": "Date d'arrivée possible"
+            },
+            "fr-CH": {
+                "singular": "Date d'arrivée possible"
+            },
+            "fr-FR": {
+                "singular": "Date d'arrivée possible"
+            },
+            "hr": {
+                "singular": "Mogući datum dolaska"
+            },
+            "it": {
+                "singular": "Disponibile e possibile data di inizio soggiorno"
+            },
+            "it-CH": {
+                "singular": "Disponibile e possibile data di inizio soggiorno"
+            },
+            "it-IT": {
+                "singular": "Disponibile e possibile data di inizio soggiorno"
+            },
+            "nl": {
+                "singular": "Vrij - Aankomst mogelijk"
+            },
+            "nl-BE": {
+                "singular": "Vrij - Aankomst mogelijk"
+            },
+            "nl-NL": {
+                "singular": "Vrij - Aankomst mogelijk"
+            },
+            "no": {
+                "singular": "Mulig ankomstdato"
+            },
+            "pl": {
+                "singular": "Możliwa data przyjazdu"
+            },
+            "pt": {
+                "singular": "Possível data de chegada"
+            },
+            "ru": {
+                "singular": "Возможная дата заезда"
+            },
+            "sv": {
+                "singular": "Möjlig ankomstdatum"
+            }
+        }
+    }
+}

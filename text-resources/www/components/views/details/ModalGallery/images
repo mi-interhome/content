@@ -1,0 +1,125 @@
+{
+    "id": "www.components.views.details.ModalGallery.images",
+    "name": "images",
+    "path": "text-resources/www/components/views/details/ModalGallery/images",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/ModalGallery/images",
+    "slug": "images",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "ModalGallery",
+        "images"
+    ],
+    "content": {
+        "key": "www.components.views.details.ModalGallery.images",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Galerie {n} obrázků"
+            },
+            "da": {
+                "singular": "Galleri med {n} billeder"
+            },
+            "de": {
+                "singular": "Galerie mit {n} Bildern"
+            },
+            "de-AT": {
+                "singular": "Galerie mit {n} Bildern"
+            },
+            "de-CH": {
+                "singular": "Galerie mit {n} Bildern"
+            },
+            "de-DE": {
+                "singular": "Galerie mit {n} Bildern"
+            },
+            "en": {
+                "singular": "Gallery of {n} images"
+            },
+            "en-AU": {
+                "singular": "Gallery of {n} images"
+            },
+            "en-CA": {
+                "singular": "Gallery of {n} images"
+            },
+            "en-GB": {
+                "singular": "Gallery of {n} images"
+            },
+            "en-IE": {
+                "singular": "Gallery of {n} images"
+            },
+            "en-US": {
+                "singular": "Gallery of {n} images"
+            },
+            "es": {
+                "singular": "Galería de {n} imágenes"
+            },
+            "fi": {
+                "singular": "Kokoelmassa {n} kuvaa"
+            },
+            "fi-EE": {
+                "singular": "Kokoelmassa {n} kuvaa"
+            },
+            "fi-FI": {
+                "singular": "Kokoelmassa {n} kuvaa"
+            },
+            "fr": {
+                "singular": "Galerie de {n} photos"
+            },
+            "fr-BE": {
+                "singular": "Galerie de {n} photos"
+            },
+            "fr-CA": {
+                "singular": "Galerie de {n} photos"
+            },
+            "fr-CH": {
+                "singular": "Galerie de {n} photos"
+            },
+            "fr-FR": {
+                "singular": "Galerie de {n} photos"
+            },
+            "hr": {
+                "singular": "Galerija {n} slika"
+            },
+            "it": {
+                "singular": "Galleria di {n} immagini"
+            },
+            "it-CH": {
+                "singular": "Galleria di {n} immagini"
+            },
+            "it-IT": {
+                "singular": "Galleria di {n} immagini"
+            },
+            "nl": {
+                "singular": "Galerij van {n} afbeeldingen"
+            },
+            "nl-BE": {
+                "singular": "Galerij van {n} afbeeldingen"
+            },
+            "nl-NL": {
+                "singular": "Galerij van {n} afbeeldingen"
+            },
+            "no": {
+                "singular": "Bildegalleri"
+            },
+            "pl": {
+                "singular": "Galeria {n} zdjęć"
+            },
+            "pt": {
+                "singular": "Galeria com {n} imagens"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Galleri med {n} bilder"
+            }
+        }
+    }
+}

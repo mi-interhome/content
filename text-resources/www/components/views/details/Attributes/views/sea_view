@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.views.sea_view",
+    "name": "sea_view",
+    "path": "text-resources/www/components/views/details/Attributes/views/sea_view",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/views/sea_view",
+    "slug": "sea_view",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "views",
+        "sea_view"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.views.sea_view",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Výhled na moře"
+            },
+            "da": {
+                "singular": "Havudsigt"
+            },
+            "de": {
+                "singular": "Meerblick"
+            },
+            "de-AT": {
+                "singular": "Meerblick"
+            },
+            "de-CH": {
+                "singular": "Meersicht"
+            },
+            "de-DE": {
+                "singular": "Meerblick"
+            },
+            "en": {
+                "singular": "Sea view"
+            },
+            "en-AU": {
+                "singular": "Sea view"
+            },
+            "en-CA": {
+                "singular": "Sea view"
+            },
+            "en-GB": {
+                "singular": "Sea view"
+            },
+            "en-IE": {
+                "singular": "Sea view"
+            },
+            "en-US": {
+                "singular": "Sea view"
+            },
+            "es": {
+                "singular": "Vistas al mar"
+            },
+            "fi": {
+                "singular": "Merinäkymä"
+            },
+            "fi-EE": {
+                "singular": "Merinäkymä"
+            },
+            "fi-FI": {
+                "singular": "Merinäkymä"
+            },
+            "fr": {
+                "singular": "Vue mer"
+            },
+            "fr-BE": {
+                "singular": "Vue mer"
+            },
+            "fr-CA": {
+                "singular": "Vue mer"
+            },
+            "fr-CH": {
+                "singular": "Vue mer"
+            },
+            "fr-FR": {
+                "singular": "Vue mer"
+            },
+            "hr": {
+                "singular": "Pogled na more"
+            },
+            "it": {
+                "singular": "Vista sul mare"
+            },
+            "it-CH": {
+                "singular": "Vista sul mare"
+            },
+            "it-IT": {
+                "singular": "Vista sul mare"
+            },
+            "nl": {
+                "singular": "Uitzicht op zee"
+            },
+            "nl-BE": {
+                "singular": "Uitzicht op zee"
+            },
+            "nl-NL": {
+                "singular": "Uitzicht op zee"
+            },
+            "no": {
+                "singular": "Havutsikt"
+            },
+            "pl": {
+                "singular": "Widok na morze"
+            },
+            "pt": {
+                "singular": "Vista de mar"
+            },
+            "ru": {
+                "singular": "Вид на море"
+            },
+            "sv": {
+                "singular": "Havsutsikt"
+            }
+        }
+    }
+}

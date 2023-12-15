@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.inspirations.backtosearch",
+    "name": "backtosearch",
+    "path": "text-resources/booking/payment/inspirations/backtosearch",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/inspirations/backtosearch",
+    "slug": "backtosearch",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "inspirations",
+        "backtosearch"
+    ],
+    "content": {
+        "key": "booking.payment.inspirations.backtosearch",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zpět na vyhledávání"
+            },
+            "da": {
+                "singular": "Tilbage til søgning"
+            },
+            "de": {
+                "singular": "Zurück zur Suche"
+            },
+            "de-AT": {
+                "singular": "Zurück zur Suche"
+            },
+            "de-CH": {
+                "singular": "Zurück zur Suche"
+            },
+            "de-DE": {
+                "singular": "Zurück zur Suche"
+            },
+            "en": {
+                "singular": "More holiday ideas"
+            },
+            "en-AU": {
+                "singular": "More holiday ideas"
+            },
+            "en-CA": {
+                "singular": "More holiday ideas"
+            },
+            "en-GB": {
+                "singular": "More holiday ideas"
+            },
+            "en-IE": {
+                "singular": "More holiday ideas"
+            },
+            "en-US": {
+                "singular": "More holiday ideas"
+            },
+            "es": {
+                "singular": "Nueva búsqueda"
+            },
+            "fi": {
+                "singular": "Takaisin etsintään"
+            },
+            "fi-EE": {
+                "singular": "Takaisin etsintään"
+            },
+            "fi-FI": {
+                "singular": "Takaisin etsintään"
+            },
+            "fr": {
+                "singular": "Retour à la recherche"
+            },
+            "fr-BE": {
+                "singular": "Retour à la recherche"
+            },
+            "fr-CA": {
+                "singular": "Retour à la recherche"
+            },
+            "fr-CH": {
+                "singular": "Retour à la recherche"
+            },
+            "fr-FR": {
+                "singular": "Retour à la recherche"
+            },
+            "hr": {
+                "singular": "Povratak na pretragu"
+            },
+            "it": {
+                "singular": "Torna alla ricerca"
+            },
+            "it-CH": {
+                "singular": "Torna alla ricerca"
+            },
+            "it-IT": {
+                "singular": "Torna alla ricerca"
+            },
+            "nl": {
+                "singular": "Terug naar zoekresultaten "
+            },
+            "nl-BE": {
+                "singular": "Terug naar zoekresultaten "
+            },
+            "nl-NL": {
+                "singular": "Terug naar zoekresultaten "
+            },
+            "no": {
+                "singular": "Tilbake til søk"
+            },
+            "pl": {
+                "singular": "Powrót do wyszukiwania"
+            },
+            "pt": {
+                "singular": "Regressar à pesquisa"
+            },
+            "ru": {
+                "singular": "Назад к поиску"
+            },
+            "sv": {
+                "singular": "Tillbaka till sökning"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.option",
+    "name": "option",
+    "path": "text-resources/webccSalesportal/reservationdetail/option",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/option",
+    "slug": "option",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "option"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.option",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Opce"
+            },
+            "da": {
+                "singular": "option"
+            },
+            "de": {
+                "singular": "Option"
+            },
+            "de-AT": {
+                "singular": "Option"
+            },
+            "de-CH": {
+                "singular": "Option"
+            },
+            "de-DE": {
+                "singular": "Option"
+            },
+            "en": {
+                "singular": "Option"
+            },
+            "en-AU": {
+                "singular": "Option"
+            },
+            "en-CA": {
+                "singular": "Option"
+            },
+            "en-GB": {
+                "singular": "Option"
+            },
+            "en-IE": {
+                "singular": "Option"
+            },
+            "en-US": {
+                "singular": "Option"
+            },
+            "es": {
+                "singular": "opción"
+            },
+            "fi": {
+                "singular": "Optio"
+            },
+            "fi-EE": {
+                "singular": "Optio"
+            },
+            "fi-FI": {
+                "singular": "Optio"
+            },
+            "fr": {
+                "singular": "Option"
+            },
+            "fr-BE": {
+                "singular": "Option"
+            },
+            "fr-CA": {
+                "singular": "Option"
+            },
+            "fr-CH": {
+                "singular": "Option"
+            },
+            "fr-FR": {
+                "singular": "Option"
+            },
+            "hr": {
+                "singular": "Opcija"
+            },
+            "it": {
+                "singular": "Opzione"
+            },
+            "it-CH": {
+                "singular": "Opzione"
+            },
+            "it-IT": {
+                "singular": "Opzione"
+            },
+            "nl": {
+                "singular": "Optie "
+            },
+            "nl-BE": {
+                "singular": "optie"
+            },
+            "nl-NL": {
+                "singular": "Optie "
+            },
+            "no": {
+                "singular": "option"
+            },
+            "pl": {
+                "singular": "Opcja"
+            },
+            "pt": {
+                "singular": "Opção"
+            },
+            "ru": {
+                "singular": "Опция "
+            },
+            "sv": {
+                "singular": "Option"
+            }
+        }
+    }
+}

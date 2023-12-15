@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.newsletter.button",
+    "name": "button",
+    "path": "text-resources/booking/payment/newsletter/button",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/newsletter/button",
+    "slug": "button",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "newsletter",
+        "button"
+    ],
+    "content": {
+        "key": "booking.payment.newsletter.button",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přihlášení k odběru {company} newsletteru"
+            },
+            "da": {
+                "singular": "Abonner på {company} nyhedsbrev"
+            },
+            "de": {
+                "singular": "{company} Newsletter bestellen"
+            },
+            "de-AT": {
+                "singular": "{company} Newsletter bestellen"
+            },
+            "de-CH": {
+                "singular": "{company} Newsletter bestellen"
+            },
+            "de-DE": {
+                "singular": "{company} Newsletter bestellen"
+            },
+            "en": {
+                "singular": "{company} Newsletter Subscription"
+            },
+            "en-AU": {
+                "singular": "{company} Newsletter Subscription"
+            },
+            "en-CA": {
+                "singular": "{company} Newsletter Subscription"
+            },
+            "en-GB": {
+                "singular": "{company} Newsletter Subscription"
+            },
+            "en-IE": {
+                "singular": "{company} Newsletter Subscription"
+            },
+            "en-US": {
+                "singular": "{company} Newsletter Subscription"
+            },
+            "es": {
+                "singular": "Suscripción a la Newsletter {company}"
+            },
+            "fi": {
+                "singular": "{company} Uutiskirjeen tilaus"
+            },
+            "fi-EE": {
+                "singular": "{company} uutiskirjeen tilaus"
+            },
+            "fi-FI": {
+                "singular": "{company} Uutiskirjeen tilaus"
+            },
+            "fr": {
+                "singular": "Abonnement newsletter {company}"
+            },
+            "fr-BE": {
+                "singular": "Abonnement newsletter {company}"
+            },
+            "fr-CA": {
+                "singular": "Abonnement newsletter {company}"
+            },
+            "fr-CH": {
+                "singular": "Abonnement newsletter {company}"
+            },
+            "fr-FR": {
+                "singular": "Abonnement newsletter {company}"
+            },
+            "hr": {
+                "singular": "Prijava na {company} Newsletter"
+            },
+            "it": {
+                "singular": "Iscrizione alla newsletter {company}"
+            },
+            "it-CH": {
+                "singular": "Iscrizione alla newsletter {company}"
+            },
+            "it-IT": {
+                "singular": "Iscrizione alla newsletter {company}"
+            },
+            "nl": {
+                "singular": "Inschrijven voor de {company} nieuwsbrief"
+            },
+            "nl-BE": {
+                "singular": "Inschrijven voor de {company} nieuwsbrief"
+            },
+            "nl-NL": {
+                "singular": "Inschrijven voor de {company} nieuwsbrief"
+            },
+            "no": {
+                "singular": "Påmelding {company} Nyhetsbrev "
+            },
+            "pl": {
+                "singular": "Zamówienie newslettera {company}"
+            },
+            "pt": {
+                "singular": "Inscrição na Newsletter da {company}"
+            },
+            "ru": {
+                "singular": "Подписка на рассылку {company}"
+            },
+            "sv": {
+                "singular": "{company} Nyhetsbrev Prenumeration"
+            }
+        }
+    }
+}

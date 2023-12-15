@@ -1,0 +1,92 @@
+{
+    "id": "www.components.views.search.newFilter.filterTitle.results",
+    "name": "results",
+    "path": "text-resources/www/components/views/search/newFilter/filterTitle/results",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterTitle/results",
+    "slug": "results",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterTitle",
+        "results"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterTitle.results",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Ein Ergebnis",
+                "plural": "{count} Ergebnisse"
+            },
+            "de-AT": {
+                "singular": "Ein Ergebnis",
+                "plural": "{count} Ergebnisse"
+            },
+            "de-CH": {
+                "singular": "Ein Ergebnis",
+                "plural": "{count} Ergebnisse"
+            },
+            "de-DE": {
+                "singular": "Ein Ergebnis",
+                "plural": "{count} Ergebnisse"
+            },
+            "en": {
+                "singular": "One result",
+                "plural": "{count} results"
+            },
+            "en-AU": {
+                "singular": "One result",
+                "plural": "{count} results"
+            },
+            "en-CA": {
+                "singular": "One result",
+                "plural": "{count} results"
+            },
+            "en-GB": {
+                "singular": "One result",
+                "plural": "{count} results"
+            },
+            "en-IE": {
+                "singular": "One result",
+                "plural": "{count} results"
+            },
+            "en-US": {
+                "singular": "One result",
+                "plural": "{count} results"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

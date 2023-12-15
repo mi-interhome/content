@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.header.banners",
+    "name": "banners",
+    "path": "text-resources/webccSalesportal/header/banners",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/banners",
+    "slug": "banners",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "banners"
+    ],
+    "content": {
+        "key": "webccSalesportal.header.banners",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Bannery"
+            },
+            "da": {
+                "singular": "Banners"
+            },
+            "de": {
+                "singular": "Banner"
+            },
+            "de-AT": {
+                "singular": "Banner"
+            },
+            "de-CH": {
+                "singular": "Banner"
+            },
+            "de-DE": {
+                "singular": "Banner"
+            },
+            "en": {
+                "singular": "Banners"
+            },
+            "en-AU": {
+                "singular": "Banners"
+            },
+            "en-CA": {
+                "singular": "Banners"
+            },
+            "en-GB": {
+                "singular": "Banners"
+            },
+            "en-IE": {
+                "singular": "Banners"
+            },
+            "en-US": {
+                "singular": "Banners"
+            },
+            "es": {
+                "singular": "Banners"
+            },
+            "fi": {
+                "singular": "Bannerit"
+            },
+            "fi-EE": {
+                "singular": "Bannerit"
+            },
+            "fi-FI": {
+                "singular": "Bannerit"
+            },
+            "fr": {
+                "singular": "Banniéres"
+            },
+            "fr-BE": {
+                "singular": "Banniéres"
+            },
+            "fr-CA": {
+                "singular": "Banniéres"
+            },
+            "fr-CH": {
+                "singular": "Banniéres"
+            },
+            "fr-FR": {
+                "singular": "Banniéres"
+            },
+            "hr": {
+                "singular": "Banneri"
+            },
+            "it": {
+                "singular": "Banner"
+            },
+            "it-CH": {
+                "singular": "Banner"
+            },
+            "it-IT": {
+                "singular": "Banner"
+            },
+            "nl": {
+                "singular": "Banners"
+            },
+            "nl-BE": {
+                "singular": "Banners"
+            },
+            "nl-NL": {
+                "singular": "Banners"
+            },
+            "no": {
+                "singular": "banners"
+            },
+            "pl": {
+                "singular": "Banery"
+            },
+            "pt": {
+                "singular": "Faixas"
+            },
+            "ru": {
+                "singular": "Баннер"
+            },
+            "sv": {
+                "singular": "banners"
+            }
+        }
+    }
+}

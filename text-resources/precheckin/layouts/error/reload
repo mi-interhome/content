@@ -1,0 +1,125 @@
+{
+    "id": "precheckin.layouts.error.reload",
+    "name": "reload",
+    "path": "text-resources/precheckin/layouts/error/reload",
+    "folder": "text-resources",
+    "full_slug": "precheckin/layouts/error/reload",
+    "slug": "reload",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "layouts",
+        "error",
+        "reload"
+    ],
+    "content": {
+        "key": "precheckin.layouts.error.reload",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zkuste to prosím znovu"
+            },
+            "da": {
+                "singular": "Prøv igen"
+            },
+            "de": {
+                "singular": "Erneut versuchen"
+            },
+            "de-AT": {
+                "singular": "Erneut versuchen"
+            },
+            "de-CH": {
+                "singular": "Erneut versuchen"
+            },
+            "de-DE": {
+                "singular": "Erneut versuchen"
+            },
+            "en": {
+                "singular": "Try again"
+            },
+            "en-AU": {
+                "singular": "Try again"
+            },
+            "en-CA": {
+                "singular": "Try again"
+            },
+            "en-GB": {
+                "singular": "Try again"
+            },
+            "en-IE": {
+                "singular": "Try again"
+            },
+            "en-US": {
+                "singular": "Try again"
+            },
+            "es": {
+                "singular": "Inténtelo de nuevo"
+            },
+            "fi": {
+                "singular": "Kokeile uudelleen"
+            },
+            "fi-EE": {
+                "singular": "Kokeile uudelleen"
+            },
+            "fi-FI": {
+                "singular": "Kokeile uudelleen"
+            },
+            "fr": {
+                "singular": "Essayer encore"
+            },
+            "fr-BE": {
+                "singular": "Essayer encore"
+            },
+            "fr-CA": {
+                "singular": "Essayer encore"
+            },
+            "fr-CH": {
+                "singular": "Essayer encore"
+            },
+            "fr-FR": {
+                "singular": "Essayer encore"
+            },
+            "hr": {
+                "singular": "Pokušajte ponovno"
+            },
+            "it": {
+                "singular": "Riprovare"
+            },
+            "it-CH": {
+                "singular": "Riprovare"
+            },
+            "it-IT": {
+                "singular": "Riprovare"
+            },
+            "nl": {
+                "singular": "Probeer het opnieuw"
+            },
+            "nl-BE": {
+                "singular": "Probeer het opnieuw"
+            },
+            "nl-NL": {
+                "singular": "Probeer het opnieuw"
+            },
+            "no": {
+                "singular": "Prøv igjen"
+            },
+            "pl": {
+                "singular": "Spróbuj ponownie"
+            },
+            "pt": {
+                "singular": "Tente novamente"
+            },
+            "ru": {
+                "singular": "Попробуйте еще раз"
+            },
+            "sv": {
+                "singular": "Försök igen"
+            }
+        }
+    }
+}

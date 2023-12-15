@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.MobileBar.upToPax",
+    "name": "upToPax",
+    "path": "text-resources/www/components/views/details/MobileBar/upToPax",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/MobileBar/upToPax",
+    "slug": "upToPax",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "MobileBar",
+        "upToPax"
+    ],
+    "content": {
+        "key": "www.components.views.details.MobileBar.upToPax",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "až pro {count} osob"
+            },
+            "da": {
+                "singular": "for op til {count} mennesker"
+            },
+            "de": {
+                "singular": "bei Belegung bis {count} Pers."
+            },
+            "de-AT": {
+                "singular": "bei Belegung bis {count} Pers."
+            },
+            "de-CH": {
+                "singular": "bei Belegung bis {count} Pers."
+            },
+            "de-DE": {
+                "singular": "bei Belegung bis {count} Pers."
+            },
+            "en": {
+                "singular": "for up to {count} people"
+            },
+            "en-AU": {
+                "singular": "for up to {count} people"
+            },
+            "en-CA": {
+                "singular": "for up to {count} people"
+            },
+            "en-GB": {
+                "singular": "for up to {count} people"
+            },
+            "en-IE": {
+                "singular": "for up to {count} people"
+            },
+            "en-US": {
+                "singular": "for up to {count} people"
+            },
+            "es": {
+                "singular": "máximo {count} personas"
+            },
+            "fi": {
+                "singular": "enintään {count} henkilölle"
+            },
+            "fi-EE": {
+                "singular": "enintään {count} henkilölle"
+            },
+            "fi-FI": {
+                "singular": "enintään {count} henkilölle"
+            },
+            "fr": {
+                "singular": "jusqu'à {count} pers."
+            },
+            "fr-BE": {
+                "singular": "jusqu'à {count} pers."
+            },
+            "fr-CA": {
+                "singular": "jusqu'à {count} pers."
+            },
+            "fr-CH": {
+                "singular": "jusqu'à {count} pers."
+            },
+            "fr-FR": {
+                "singular": "jusqu'à {count} pers."
+            },
+            "hr": {
+                "singular": "za najviše {count} osobe/-a"
+            },
+            "it": {
+                "singular": "fino ad un massimo di {count} persone"
+            },
+            "it-CH": {
+                "singular": "fino ad un massimo di {count} persone"
+            },
+            "it-IT": {
+                "singular": "fino ad un massimo di {count} persone"
+            },
+            "nl": {
+                "singular": "voor max. {count} personen"
+            },
+            "nl-BE": {
+                "singular": "voor max. {count} personen"
+            },
+            "nl-NL": {
+                "singular": "voor max. {count} personen"
+            },
+            "no": {
+                "singular": "for opptil {count} mennesker"
+            },
+            "pl": {
+                "singular": "dla max {count} osób"
+            },
+            "pt": {
+                "singular": "para até {count} pessoas"
+            },
+            "ru": {
+                "singular": "до {count} человек"
+            },
+            "sv": {
+                "singular": "för upp till {count} personer"
+            }
+        }
+    }
+}

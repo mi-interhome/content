@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.booking.title",
+    "name": "title",
+    "path": "text-resources/booking/payment/booking/title",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/booking/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "booking",
+        "title"
+    ],
+    "content": {
+        "key": "booking.payment.booking.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Děkujeme za Vaši rezervaci!"
+            },
+            "da": {
+                "singular": "Tak fordi du bookede hos os!"
+            },
+            "de": {
+                "singular": "Vielen Dank für Ihre Buchung!"
+            },
+            "de-AT": {
+                "singular": "Vielen Dank für Ihre Buchung!"
+            },
+            "de-CH": {
+                "singular": "Vielen Dank für Ihre Buchung!"
+            },
+            "de-DE": {
+                "singular": "Vielen Dank für Ihre Buchung!"
+            },
+            "en": {
+                "singular": "Thank you for booking with us!"
+            },
+            "en-AU": {
+                "singular": "Thank you for booking with us!"
+            },
+            "en-CA": {
+                "singular": "Thank you for booking with us!"
+            },
+            "en-GB": {
+                "singular": "Thank you for booking with us!"
+            },
+            "en-IE": {
+                "singular": "Thank you for booking with us!"
+            },
+            "en-US": {
+                "singular": "Thank you for booking with us!"
+            },
+            "es": {
+                "singular": "¡Gracias por reservar con nosotros!"
+            },
+            "fi": {
+                "singular": "Kiitos varauksestasi!"
+            },
+            "fi-EE": {
+                "singular": "Kiitos varauksestasi!"
+            },
+            "fi-FI": {
+                "singular": "Kiitos varauksestasi!"
+            },
+            "fr": {
+                "singular": "Nous vous remercions de votre réservation"
+            },
+            "fr-BE": {
+                "singular": "Nous vous remercions de votre réservation"
+            },
+            "fr-CA": {
+                "singular": "Nous vous remercions de votre réservation"
+            },
+            "fr-CH": {
+                "singular": "Nous vous remercions de votre réservation"
+            },
+            "fr-FR": {
+                "singular": "Nous vous remercions de votre réservation"
+            },
+            "hr": {
+                "singular": "Zahvaljujemo se na Vašoj rezervaciji!"
+            },
+            "it": {
+                "singular": "Ti ringraziamo per aver prenotato con noi!"
+            },
+            "it-CH": {
+                "singular": "Ti ringraziamo per aver prenotato con noi!"
+            },
+            "it-IT": {
+                "singular": "Ti ringraziamo per aver prenotato con noi!"
+            },
+            "nl": {
+                "singular": "Hartelijk dank voor uw boeking!"
+            },
+            "nl-BE": {
+                "singular": "Hartelijk dank voor uw boeking!"
+            },
+            "nl-NL": {
+                "singular": "Hartelijk dank voor uw boeking!"
+            },
+            "no": {
+                "singular": "Takk for at du har booket hos oss!"
+            },
+            "pl": {
+                "singular": "Dziękujemy za rezerwację!"
+            },
+            "pt": {
+                "singular": "Muito obrigado por reservar conosco!"
+            },
+            "ru": {
+                "singular": "Спасибо за Ваше бронирование!"
+            },
+            "sv": {
+                "singular": "Tack för din bokning med oss!"
+            }
+        }
+    }
+}

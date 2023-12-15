@@ -1,0 +1,124 @@
+{
+    "id": "booking.paymentMethods.ID",
+    "name": "ID",
+    "path": "text-resources/booking/paymentMethods/ID",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/ID",
+    "slug": "ID",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "ID"
+    ],
+    "content": {
+        "key": "booking.paymentMethods.ID",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "iDEAL"
+            },
+            "da": {
+                "singular": "iDEAL"
+            },
+            "de": {
+                "singular": "iDEAL"
+            },
+            "de-AT": {
+                "singular": "iDEAL"
+            },
+            "de-CH": {
+                "singular": "iDEAL"
+            },
+            "de-DE": {
+                "singular": "iDEAL"
+            },
+            "en": {
+                "singular": "iDEAL"
+            },
+            "en-AU": {
+                "singular": "iDEAL"
+            },
+            "en-CA": {
+                "singular": "iDEAL"
+            },
+            "en-GB": {
+                "singular": "iDEAL"
+            },
+            "en-IE": {
+                "singular": "iDEAL"
+            },
+            "en-US": {
+                "singular": "iDEAL"
+            },
+            "es": {
+                "singular": "iDEAL"
+            },
+            "fi": {
+                "singular": "iDEAL"
+            },
+            "fi-EE": {
+                "singular": "iDEAL"
+            },
+            "fi-FI": {
+                "singular": "iDEAL"
+            },
+            "fr": {
+                "singular": "iDEAL"
+            },
+            "fr-BE": {
+                "singular": "iDEAL"
+            },
+            "fr-CA": {
+                "singular": "iDEAL"
+            },
+            "fr-CH": {
+                "singular": "iDEAL"
+            },
+            "fr-FR": {
+                "singular": "iDEAL"
+            },
+            "hr": {
+                "singular": "iDEAL"
+            },
+            "it": {
+                "singular": "iDEAL"
+            },
+            "it-CH": {
+                "singular": "iDEAL"
+            },
+            "it-IT": {
+                "singular": "iDEAL"
+            },
+            "nl": {
+                "singular": "iDEAL"
+            },
+            "nl-BE": {
+                "singular": "iDEAL"
+            },
+            "nl-NL": {
+                "singular": "iDEAL"
+            },
+            "no": {
+                "singular": "iDEAL"
+            },
+            "pl": {
+                "singular": "iDEAL"
+            },
+            "pt": {
+                "singular": "iDEAL"
+            },
+            "ru": {
+                "singular": "iDEAL"
+            },
+            "sv": {
+                "singular": "iDEAL"
+            }
+        }
+    }
+}

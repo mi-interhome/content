@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.services.service.to",
+    "name": "to",
+    "path": "text-resources/checkout/components/booking/services/service/to",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/service/to",
+    "slug": "to",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "service",
+        "to"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.service.to",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "do"
+            },
+            "da": {
+                "singular": "Til"
+            },
+            "de": {
+                "singular": "Bis"
+            },
+            "de-AT": {
+                "singular": "Bis"
+            },
+            "de-CH": {
+                "singular": "Bis"
+            },
+            "de-DE": {
+                "singular": "Bis"
+            },
+            "en": {
+                "singular": "To"
+            },
+            "en-AU": {
+                "singular": "To"
+            },
+            "en-CA": {
+                "singular": "To"
+            },
+            "en-GB": {
+                "singular": "To"
+            },
+            "en-IE": {
+                "singular": "To"
+            },
+            "en-US": {
+                "singular": "To"
+            },
+            "es": {
+                "singular": "hasta"
+            },
+            "fi": {
+                "singular": "to"
+            },
+            "fi-EE": {
+                "singular": "to"
+            },
+            "fi-FI": {
+                "singular": "to"
+            },
+            "fr": {
+                "singular": "au"
+            },
+            "fr-BE": {
+                "singular": "au"
+            },
+            "fr-CA": {
+                "singular": "au"
+            },
+            "fr-CH": {
+                "singular": "au"
+            },
+            "fr-FR": {
+                "singular": "au"
+            },
+            "hr": {
+                "singular": "do"
+            },
+            "it": {
+                "singular": "a"
+            },
+            "it-CH": {
+                "singular": "a"
+            },
+            "it-IT": {
+                "singular": "a"
+            },
+            "nl": {
+                "singular": "tot"
+            },
+            "nl-BE": {
+                "singular": "tot"
+            },
+            "nl-NL": {
+                "singular": "tot"
+            },
+            "no": {
+                "singular": "til"
+            },
+            "pl": {
+                "singular": "do"
+            },
+            "pt": {
+                "singular": "Até"
+            },
+            "ru": {
+                "singular": "до"
+            },
+            "sv": {
+                "singular": "till"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.modalVerification.code.received",
+    "name": "received",
+    "path": "text-resources/webccBooking/components/reservation/modalVerification/code/received",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/modalVerification/code/received",
+    "slug": "received",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "modalVerification",
+        "code",
+        "received"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.modalVerification.code.received",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ověřovací kód od nás obdržíte na e-mailovou adresu {email}. Odeslání nebude trvat déle než 90 sekund."
+            },
+            "da": {
+                "singular": "Du vil modtage en bekræftelseskode fra os på e-mailadressen {email}. Dette kan tage op til 90 sekunder. "
+            },
+            "de": {
+                "singular": "Sie erhalten von uns einen Verifikationscode an die Emailadresse {email}. Das kann bis zu 90 Sekunden dauern. "
+            },
+            "de-AT": {
+                "singular": "Sie erhalten von uns einen Verifikationscode an die Emailadresse {email}. Das kann bis zu 90 Sekunden dauern. "
+            },
+            "de-CH": {
+                "singular": "Sie erhalten von uns einen Verifikationscode an die Emailadresse {email}. Das kann bis zu 90 Sekunden dauern. "
+            },
+            "de-DE": {
+                "singular": "Sie erhalten von uns einen Verifikationscode an die Emailadresse {email}. Das kann bis zu 90 Sekunden dauern. "
+            },
+            "en": {
+                "singular": "You will receive a verification code from us at the email address {email}. This can take up to 90 seconds. "
+            },
+            "en-AU": {
+                "singular": "You will receive a verification code from us at the email address {email}. This can take up to 90 seconds. "
+            },
+            "en-CA": {
+                "singular": "You will receive a verification code from us at the email address {email}. This can take up to 90 seconds. "
+            },
+            "en-GB": {
+                "singular": "You will receive a verification code from us at the email address {email}. This can take up to 90 seconds. "
+            },
+            "en-IE": {
+                "singular": "You will receive a verification code from us at the email address {email}. This can take up to 90 seconds. "
+            },
+            "en-US": {
+                "singular": "You will receive a verification code from us at the email address {email}. This can take up to 90 seconds. "
+            },
+            "es": {
+                "singular": "Recibirás un código de verificación en la dirección de correo electrónico {email}. Esto puede tardar hasta 90 segundos."
+            },
+            "fi": {
+                "singular": "Lähetämme vahvistuskoodin sähköpostiosoitteeseen [email]. Tämä voi kestää jopa 90 sekunta."
+            },
+            "fi-EE": {
+                "singular": "Lähetämme vahvistuskoodin sähköpostiosoitteeseen [email]. Tämä voi kestää jopa 90 sekunta."
+            },
+            "fi-FI": {
+                "singular": "Lähetämme vahvistuskoodin sähköpostiosoitteeseen [email]. Tämä voi kestää jopa 90 sekunta."
+            },
+            "fr": {
+                "singular": "Nous allons vous envoyer un code de vérification à l’adresse e-mail {email}. Cela peut prendre jusqu’à 90 secondes. "
+            },
+            "fr-BE": {
+                "singular": "Nous allons vous envoyer un code de vérification à l’adresse e-mail {email}. Cela peut prendre jusqu’à 90 secondes. "
+            },
+            "fr-CA": {
+                "singular": "Nous allons vous envoyer un code de vérification à l’adresse e-mail {email}. Cela peut prendre jusqu’à 90 secondes. "
+            },
+            "fr-CH": {
+                "singular": "Nous allons vous envoyer un code de vérification à l’adresse e-mail {email}. Cela peut prendre jusqu’à 90 secondes. "
+            },
+            "fr-FR": {
+                "singular": "Nous allons vous envoyer un code de vérification à l’adresse e-mail {email}. Cela peut prendre jusqu’à 90 secondes. "
+            },
+            "hr": {
+                "singular": "Primiti ćete kontrolni kod na adresu e-pošte {email}. To može potrajati do 90 sekundi."
+            },
+            "it": {
+                "singular": "Le invieremo un codice di verifica all'indirizzo email {email}. Questa operazione potrebbe richiedere fino a 90 secondi."
+            },
+            "it-CH": {
+                "singular": "Le invieremo un codice di verifica all'indirizzo email {email}. Questa operazione potrebbe richiedere fino a 90 secondi."
+            },
+            "it-IT": {
+                "singular": "Le invieremo un codice di verifica all'indirizzo email {email}. Questa operazione potrebbe richiedere fino a 90 secondi."
+            },
+            "nl": {
+                "singular": "U ontvangt een verificatiecode van ons op het e-mailadres {email}. Dit kan tot 90 seconden duren."
+            },
+            "nl-BE": {
+                "singular": "U ontvangt een verificatiecode van ons op het e-mailadres {email}. Dit kan tot 90 seconden duren."
+            },
+            "nl-NL": {
+                "singular": "U ontvangt een verificatiecode van ons op het e-mailadres {email}. Dit kan tot 90 seconden duren."
+            },
+            "no": {
+                "singular": "Du vil motta en bekreftelseskode fra oss på e-postadressen {email}. Dette kan ta opptil 90 sekunder. "
+            },
+            "pl": {
+                "singular": "Otrzymają Państwo kod weryfikacyjny na skrzynkę pocztową {email}. Może to potrwać do 90 sekund."
+            },
+            "pt": {
+                "singular": "Receberá um código de verificação no endereço de e-mail {email}. Isto pode demorar até 90 segundos."
+            },
+            "ru": {
+                "singular": "Вы получите от нас код подтверждения на адрес электронной почты {email}. Это может занять до 90 секунд."
+            },
+            "sv": {
+                "singular": "En verifieringskod kommer att skickas från oss till mejladressen {email}. Detta kan ta upp till 90 sekunder."
+            }
+        }
+    }
+}

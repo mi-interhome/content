@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.services.service.co2Information",
+    "name": "co2Information",
+    "path": "text-resources/checkout/components/booking/services/service/co2Information",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/service/co2Information",
+    "slug": "co2Information",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "service",
+        "co2Information"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.service.co2Information",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Více informací o projektu rašeliniště"
+            },
+            "da": {
+                "singular": "Mere information om Moor-projektet"
+            },
+            "de": {
+                "singular": "Mehr Informationen zum Moor Projekt\n"
+            },
+            "de-AT": {
+                "singular": "Mehr Informationen zum Moor Projekt\n"
+            },
+            "de-CH": {
+                "singular": "Mehr Informationen zum Moor Projekt\n"
+            },
+            "de-DE": {
+                "singular": "Mehr Informationen zum Moor Projekt\n"
+            },
+            "en": {
+                "singular": "More information about the bog project"
+            },
+            "en-AU": {
+                "singular": "More information about the bog project"
+            },
+            "en-CA": {
+                "singular": "More information about the bog project"
+            },
+            "en-GB": {
+                "singular": "More information about the bog project"
+            },
+            "en-IE": {
+                "singular": "More information about the bog project"
+            },
+            "en-US": {
+                "singular": "More information about the bog project"
+            },
+            "es": {
+                "singular": "Más información sobre el proyecto del Páramo"
+            },
+            "fi": {
+                "singular": "Lisää tietoa Moor-projektista"
+            },
+            "fi-EE": {
+                "singular": "Lisää tietoa Moor-projektista"
+            },
+            "fi-FI": {
+                "singular": "Lisää tietoa Moor-projektista"
+            },
+            "fr": {
+                "singular": "Plus d'informations sur le projet Moor"
+            },
+            "fr-BE": {
+                "singular": "Plus d'informations sur le projet Moor"
+            },
+            "fr-CA": {
+                "singular": "Plus d'informations sur le projet Moor"
+            },
+            "fr-CH": {
+                "singular": "Plus d'informations sur le projet Moor"
+            },
+            "fr-FR": {
+                "singular": "Plus d'informations sur le projet Moor"
+            },
+            "hr": {
+                "singular": "Plus d'informations sur le projet Moor"
+            },
+            "it": {
+                "singular": "Maggiori informazioni sul progetto Moor"
+            },
+            "it-CH": {
+                "singular": "Maggiori informazioni sul progetto Moor"
+            },
+            "it-IT": {
+                "singular": "Maggiori informazioni sul progetto Moor"
+            },
+            "nl": {
+                "singular": "Meer informatie over CO2-compensatie"
+            },
+            "nl-BE": {
+                "singular": "Meer informatie over CO2-compensatie"
+            },
+            "nl-NL": {
+                "singular": "Meer informatie over CO2-compensatie"
+            },
+            "no": {
+                "singular": "Mer informasjon om Moor-prosjektet"
+            },
+            "pl": {
+                "singular": "Więcej informacji o projekcie Moor\n"
+            },
+            "pt": {
+                "singular": "Mais informações sobre o projeto Moor"
+            },
+            "ru": {
+                "singular": "Дополнительная информация о компенсации "
+            },
+            "sv": {
+                "singular": "Mer information om våtmarksprojektet"
+            }
+        }
+    }
+}

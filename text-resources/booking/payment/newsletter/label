@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.newsletter.label",
+    "name": "label",
+    "path": "text-resources/booking/payment/newsletter/label",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/newsletter/label",
+    "slug": "label",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "newsletter",
+        "label"
+    ],
+    "content": {
+        "key": "booking.payment.newsletter.label",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "E-mailová adresa"
+            },
+            "da": {
+                "singular": "Emailadresse"
+            },
+            "de": {
+                "singular": "E-Mail-Adresse"
+            },
+            "de-AT": {
+                "singular": "E-Mail-Adresse"
+            },
+            "de-CH": {
+                "singular": "eMail-Adresse"
+            },
+            "de-DE": {
+                "singular": "E-Mail-Adresse"
+            },
+            "en": {
+                "singular": "E-Mail Address"
+            },
+            "en-AU": {
+                "singular": "E-Mail Address"
+            },
+            "en-CA": {
+                "singular": "E-Mail Address"
+            },
+            "en-GB": {
+                "singular": "E-Mail Address"
+            },
+            "en-IE": {
+                "singular": "E-Mail Address"
+            },
+            "en-US": {
+                "singular": "E-Mail Address"
+            },
+            "es": {
+                "singular": "Dirección de correo electrónico"
+            },
+            "fi": {
+                "singular": "Sähköpostiosoite"
+            },
+            "fi-EE": {
+                "singular": "Sähköpostiosoite"
+            },
+            "fi-FI": {
+                "singular": "Sähköpostiosoite"
+            },
+            "fr": {
+                "singular": "Adresse email"
+            },
+            "fr-BE": {
+                "singular": "Adresse email"
+            },
+            "fr-CA": {
+                "singular": "Adresse email"
+            },
+            "fr-CH": {
+                "singular": "Adresse email"
+            },
+            "fr-FR": {
+                "singular": "Adresse email"
+            },
+            "hr": {
+                "singular": "e-mail adresa"
+            },
+            "it": {
+                "singular": "Indirizzo eMail"
+            },
+            "it-CH": {
+                "singular": "Indirizzo eMail"
+            },
+            "it-IT": {
+                "singular": "Indirizzo eMail"
+            },
+            "nl": {
+                "singular": "E-mailadres"
+            },
+            "nl-BE": {
+                "singular": "E-mailadres"
+            },
+            "nl-NL": {
+                "singular": "E-mailadres"
+            },
+            "no": {
+                "singular": "E-postadresse"
+            },
+            "pl": {
+                "singular": "Adres e-mail"
+            },
+            "pt": {
+                "singular": "Endereço de e-mail"
+            },
+            "ru": {
+                "singular": "Адрес электронной почты"
+            },
+            "sv": {
+                "singular": "E-postadress"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Description.from",
+    "name": "from",
+    "path": "text-resources/www/components/views/details/Description/from",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Description/from",
+    "slug": "from",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Description",
+        "from"
+    ],
+    "content": {
+        "key": "www.components.views.details.Description.from",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "od"
+            },
+            "da": {
+                "singular": "fra"
+            },
+            "de": {
+                "singular": "von"
+            },
+            "de-AT": {
+                "singular": "von"
+            },
+            "de-CH": {
+                "singular": "von"
+            },
+            "de-DE": {
+                "singular": "von"
+            },
+            "en": {
+                "singular": "from"
+            },
+            "en-AU": {
+                "singular": "from"
+            },
+            "en-CA": {
+                "singular": "from"
+            },
+            "en-GB": {
+                "singular": "from"
+            },
+            "en-IE": {
+                "singular": "from"
+            },
+            "en-US": {
+                "singular": "from"
+            },
+            "es": {
+                "singular": "desde"
+            },
+            "fi": {
+                "singular": "alkaen"
+            },
+            "fi-EE": {
+                "singular": "alkaen"
+            },
+            "fi-FI": {
+                "singular": "alkaen"
+            },
+            "fr": {
+                "singular": "du"
+            },
+            "fr-BE": {
+                "singular": "du"
+            },
+            "fr-CA": {
+                "singular": "du"
+            },
+            "fr-CH": {
+                "singular": "du"
+            },
+            "fr-FR": {
+                "singular": "du"
+            },
+            "hr": {
+                "singular": "od"
+            },
+            "it": {
+                "singular": "dal"
+            },
+            "it-CH": {
+                "singular": "dal"
+            },
+            "it-IT": {
+                "singular": "dal"
+            },
+            "nl": {
+                "singular": "van"
+            },
+            "nl-BE": {
+                "singular": "van"
+            },
+            "nl-NL": {
+                "singular": "van"
+            },
+            "no": {
+                "singular": "fra"
+            },
+            "pl": {
+                "singular": "od"
+            },
+            "pt": {
+                "singular": "desde"
+            },
+            "ru": {
+                "singular": "с"
+            },
+            "sv": {
+                "singular": "från"
+            }
+        }
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "id": "snippets.review.bedroom_s",
+    "name": "bedroom_s",
+    "path": "text-resources/snippets/review/bedroom_s",
+    "folder": "text-resources",
+    "full_slug": "snippets/review/bedroom_s",
+    "slug": "bedroom_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "snippets",
+        "review",
+        "bedroom_s"
+    ],
+    "content": {
+        "key": "snippets.review.bedroom_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "žádná ložnice",
+                "singular": "jedna ložnice",
+                "plural": "{count} ložnic/e"
+            },
+            "da": {
+                "zero": "ingen soveværelser",
+                "singular": "et soveværelse",
+                "plural": "{count} soveværelse"
+            },
+            "de": {
+                "zero": "keine Schlafzimmer",
+                "singular": "ein Schlafzimmer",
+                "plural": "{count} Schlafzimmer"
+            },
+            "de-AT": {
+                "zero": "keine Schlafzimmer",
+                "singular": "ein Schlafzimmer",
+                "plural": "{count} Schlafzimmer"
+            },
+            "de-CH": {
+                "zero": "keine Schlafzimmer",
+                "singular": "ein Schlafzimmer",
+                "plural": "{count} Schlafzimmer"
+            },
+            "de-DE": {
+                "zero": "keine Schlafzimmer",
+                "singular": "ein Schlafzimmer",
+                "plural": "{count} Schlafzimmer"
+            },
+            "en": {
+                "zero": "no bedrooms",
+                "singular": "one bedroom",
+                "plural": "{count} bedrooms"
+            },
+            "en-AU": {
+                "zero": "no bedrooms",
+                "singular": "one bedroom",
+                "plural": "{count} bedrooms"
+            },
+            "en-CA": {
+                "zero": "no bedrooms",
+                "singular": "one bedroom",
+                "plural": "{count} bedrooms"
+            },
+            "en-GB": {
+                "zero": "no bedrooms",
+                "singular": "one bedroom",
+                "plural": "{count} bedrooms"
+            },
+            "en-IE": {
+                "zero": "no bedrooms",
+                "singular": "one bedroom",
+                "plural": "{count} bedrooms"
+            },
+            "en-US": {
+                "zero": "no bedrooms",
+                "singular": "one bedroom",
+                "plural": "{count} bedrooms"
+            },
+            "es": {
+                "zero": "Sin dormitorio",
+                "singular": "Un dormitorio",
+                "plural": "{count} dormitorios"
+            },
+            "fi": {
+                "zero": "ei makuuhuoneita",
+                "singular": "yksi makuuhuone",
+                "plural": "{count} makuuhuonetta"
+            },
+            "fi-EE": {
+                "zero": "no bedrooms",
+                "singular": "yksi makuuhuone",
+                "plural": "{count} makuuhuonetta"
+            },
+            "fi-FI": {
+                "zero": "ei makuuhuoneita",
+                "singular": "yksi makuuhuone",
+                "plural": "{count} makuuhuonetta"
+            },
+            "fr": {
+                "zero": "Pas de chambre",
+                "singular": "1 chambre",
+                "plural": "{count} chambres"
+            },
+            "fr-BE": {
+                "zero": "Pas de chambre",
+                "singular": "1 chambre",
+                "plural": "{count} chambres"
+            },
+            "fr-CA": {
+                "zero": "Pas de chambre",
+                "singular": "1 chambre",
+                "plural": "{count} chambres"
+            },
+            "fr-CH": {
+                "zero": "Pas de chambre",
+                "singular": "1 chambre",
+                "plural": "{count} chambres"
+            },
+            "fr-FR": {
+                "zero": "Pas de chambre",
+                "singular": "1 chambre",
+                "plural": "{count} chambres"
+            },
+            "hr": {
+                "zero": "bez spavaćih soba",
+                "singular": "jedna spavaća soba",
+                "plural": "{count} spavaća/-e soba/-e "
+            },
+            "it": {
+                "zero": "nr. camere da letto",
+                "singular": "una camera da letto",
+                "plural": "{count} camere da letto"
+            },
+            "it-CH": {
+                "zero": "nr. camere da letto",
+                "singular": "una camera da letto",
+                "plural": "{count} camere da letto"
+            },
+            "it-IT": {
+                "zero": "nr. camere da letto",
+                "singular": "una camera da letto",
+                "plural": "{count} camere da letto"
+            },
+            "nl": {
+                "zero": "geen slaapkamers",
+                "singular": "1 slaapkamer",
+                "plural": "{count} slaapkamers"
+            },
+            "nl-BE": {
+                "zero": "geen slaapkamers",
+                "singular": "1 slaapkamer",
+                "plural": "{count} slaapkamers"
+            },
+            "nl-NL": {
+                "zero": "geen slaapkamers",
+                "singular": "1 slaapkamer",
+                "plural": "{count} slaapkamers"
+            },
+            "no": {
+                "zero": "ingen soverom",
+                "singular": "et soverom",
+                "plural": "{count} soverom"
+            },
+            "pl": {
+                "zero": "brak sypialni",
+                "singular": "jedna sypialnia",
+                "plural": "{count} sypialnie"
+            },
+            "pt": {
+                "zero": "sem quartos",
+                "singular": "um quarto",
+                "plural": "{count} quartos"
+            },
+            "ru": {
+                "zero": "нет спален",
+                "singular": "одна спальня",
+                "plural": "{count} спальни/-лен"
+            },
+            "sv": {
+                "zero": "inga sovrum",
+                "singular": "ett sovrum",
+                "plural": "{count} sovrum"
+            }
+        }
+    }
+}

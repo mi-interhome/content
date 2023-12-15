@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.expectations.wifi",
+    "name": "wifi",
+    "path": "text-resources/reservations/pages/review/expectations/wifi",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/expectations/wifi",
+    "slug": "wifi",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "expectations",
+        "wifi"
+    ],
+    "content": {
+        "key": "reservations.pages.review.expectations.wifi",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Poskytovalo zařízení přístup k internetu / Wi-Fi?"
+            },
+            "da": {
+                "singular": "Tilbød ejendommen (trådløs) internetadgang?"
+            },
+            "de": {
+                "singular": "Hatte die Unterkunft W-LAN bzw. Internetanschluss?"
+            },
+            "de-AT": {
+                "singular": "Hatte die Unterkunft W-LAN bzw. Internetanschluss?"
+            },
+            "de-CH": {
+                "singular": "Hatte die Unterkunft W-LAN bzw. Internetanschluss?"
+            },
+            "de-DE": {
+                "singular": "Hatte die Unterkunft W-LAN bzw. Internetanschluss?"
+            },
+            "en": {
+                "singular": "Did the property offer wi-fi/internet access?"
+            },
+            "en-AU": {
+                "singular": "Did the property offer wi-fi/internet access?"
+            },
+            "en-CA": {
+                "singular": "Did the property offer wi-fi/internet access?"
+            },
+            "en-GB": {
+                "singular": "Did the property offer wi-fi/internet access?"
+            },
+            "en-IE": {
+                "singular": "Did the property offer wi-fi/internet access?"
+            },
+            "en-US": {
+                "singular": "Did the property offer wi-fi/internet access?"
+            },
+            "es": {
+                "singular": "¿Había acceso a Internet/Wi-Fi desde la propiedad?"
+            },
+            "fi": {
+                "singular": "Oliko kohteessa Wi-Fi-/Internet-yhteys?"
+            },
+            "fi-EE": {
+                "singular": "Oliko kohteessa wi-fi/internet-yhteys?"
+            },
+            "fi-FI": {
+                "singular": "Oliko kohteessa Wi-Fi-/Internet-yhteys?"
+            },
+            "fr": {
+                "singular": "La location était-elle équipée d'un accès Internet ?"
+            },
+            "fr-BE": {
+                "singular": "La location était-elle équipée d'un accès Internet ?"
+            },
+            "fr-CA": {
+                "singular": "La location était-elle équipée d'un accès Internet ?"
+            },
+            "fr-CH": {
+                "singular": "La location était-elle équipée d'un accès Internet?"
+            },
+            "fr-FR": {
+                "singular": "La location était-elle équipée d'un accès Internet ?"
+            },
+            "hr": {
+                "singular": "Je li postojao wifi / pristup internetu?"
+            },
+            "it": {
+                "singular": "La struttura ha offerto l'accesso Internet/wi-fi?"
+            },
+            "it-CH": {
+                "singular": "La struttura ha offerto l'accesso Internet/wi-fi?"
+            },
+            "it-IT": {
+                "singular": "La struttura ha offerto l'accesso internet/wi-fi?"
+            },
+            "nl": {
+                "singular": "Was er wifi/internettoegang in de woning?"
+            },
+            "nl-BE": {
+                "singular": "Was er wifi/internettoegang in de woning?"
+            },
+            "nl-NL": {
+                "singular": "Was er wifi/internettoegang in de woning?"
+            },
+            "no": {
+                "singular": "Hadde overnattingsstedet tilgang til wi-fi/Internett?"
+            },
+            "pl": {
+                "singular": "Czy w obiekcie jest dostępna sieć WiFi/Internet?"
+            },
+            "pt": {
+                "singular": "A propriedade oferecia acesso à internet/wi-fi?"
+            },
+            "ru": {
+                "singular": "Предлагает ли объект услуги Wi-Fi/доступа в Интернет?"
+            },
+            "sv": {
+                "singular": "Hade hotellet Wi-Fi/Internet?"
+            }
+        }
+    }
+}

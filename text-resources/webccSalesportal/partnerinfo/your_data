@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.partnerinfo.your_data",
+    "name": "your_data",
+    "path": "text-resources/webccSalesportal/partnerinfo/your_data",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/your_data",
+    "slug": "your_data",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "your_data"
+    ],
+    "content": {
+        "key": "webccSalesportal.partnerinfo.your_data",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Podrobnosti o Vašem účtu"
+            },
+            "da": {
+                "singular": "Dine kontooplysninger"
+            },
+            "de": {
+                "singular": "Ihre Account Informationen"
+            },
+            "de-AT": {
+                "singular": "Ihre Account Informationen"
+            },
+            "de-CH": {
+                "singular": "Ihre Account Informationen"
+            },
+            "de-DE": {
+                "singular": "Ihre Account Informationen"
+            },
+            "en": {
+                "singular": "Account Details"
+            },
+            "en-AU": {
+                "singular": "Account Details"
+            },
+            "en-CA": {
+                "singular": "Account Details"
+            },
+            "en-GB": {
+                "singular": "Account Details"
+            },
+            "en-IE": {
+                "singular": "Account Details"
+            },
+            "en-US": {
+                "singular": "Account Details"
+            },
+            "es": {
+                "singular": "Detalles de su cuenta"
+            },
+            "fi": {
+                "singular": "Tilisi tiedot"
+            },
+            "fi-EE": {
+                "singular": "Tilisi tiedot"
+            },
+            "fi-FI": {
+                "singular": "Tilisi tiedot"
+            },
+            "fr": {
+                "singular": "Mes informations"
+            },
+            "fr-BE": {
+                "singular": "Mes informations"
+            },
+            "fr-CA": {
+                "singular": "Mes informations"
+            },
+            "fr-CH": {
+                "singular": "Mes informations"
+            },
+            "fr-FR": {
+                "singular": "Mes informations"
+            },
+            "hr": {
+                "singular": "Detalji Vašeg korisničkog računa"
+            },
+            "it": {
+                "singular": "I dettagli del tuo account"
+            },
+            "it-CH": {
+                "singular": "I dettagli del tuo account"
+            },
+            "it-IT": {
+                "singular": "I dettagli del tuo account"
+            },
+            "nl": {
+                "singular": "Account Gegevens"
+            },
+            "nl-BE": {
+                "singular": "Account Gegevens"
+            },
+            "nl-NL": {
+                "singular": "Account Gegevens"
+            },
+            "no": {
+                "singular": "Kontoinformasjonen din"
+            },
+            "pl": {
+                "singular": "Dane konta"
+            },
+            "pt": {
+                "singular": "Os detalhes da sua conta"
+            },
+            "ru": {
+                "singular": "Информация об учетной записи"
+            },
+            "sv": {
+                "singular": "Dina kontouppgifter"
+            }
+        }
+    }
+}

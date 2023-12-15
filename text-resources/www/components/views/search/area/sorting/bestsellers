@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.area.sorting.bestsellers",
+    "name": "bestsellers",
+    "path": "text-resources/www/components/views/search/area/sorting/bestsellers",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/area/sorting/bestsellers",
+    "slug": "bestsellers",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "area",
+        "sorting",
+        "bestsellers"
+    ],
+    "content": {
+        "key": "www.components.views.search.area.sorting.bestsellers",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nejprodávanější"
+            },
+            "da": {
+                "singular": "Mest solgte"
+            },
+            "de": {
+                "singular": "Bestseller"
+            },
+            "de-AT": {
+                "singular": "Bestseller"
+            },
+            "de-CH": {
+                "singular": "Bestseller"
+            },
+            "de-DE": {
+                "singular": "Bestseller"
+            },
+            "en": {
+                "singular": "Best Sellers"
+            },
+            "en-AU": {
+                "singular": "Best Sellers"
+            },
+            "en-CA": {
+                "singular": "Best Sellers"
+            },
+            "en-GB": {
+                "singular": "Best Sellers"
+            },
+            "en-IE": {
+                "singular": "Best Sellers"
+            },
+            "en-US": {
+                "singular": "Best Sellers"
+            },
+            "es": {
+                "singular": "Más vendidos"
+            },
+            "fi": {
+                "singular": "Myydyimmät"
+            },
+            "fi-EE": {
+                "singular": "Myydyimmät"
+            },
+            "fi-FI": {
+                "singular": "Myydyimmät"
+            },
+            "fr": {
+                "singular": "Meilleures ventes"
+            },
+            "fr-BE": {
+                "singular": "Meilleures ventes"
+            },
+            "fr-CA": {
+                "singular": "Meilleures ventes"
+            },
+            "fr-CH": {
+                "singular": "Meilleures ventes"
+            },
+            "fr-FR": {
+                "singular": "Meilleures ventes"
+            },
+            "hr": {
+                "singular": "Najpopularnije"
+            },
+            "it": {
+                "singular": "I più prenotati"
+            },
+            "it-CH": {
+                "singular": "I più prenotati"
+            },
+            "it-IT": {
+                "singular": "I più prenotati"
+            },
+            "nl": {
+                "singular": "Best verkocht"
+            },
+            "nl-BE": {
+                "singular": "Best verkocht"
+            },
+            "nl-NL": {
+                "singular": "Best verkocht"
+            },
+            "no": {
+                "singular": "Bestselgere"
+            },
+            "pl": {
+                "singular": "Najpopularniejsze"
+            },
+            "pt": {
+                "singular": "Mais vendidos"
+            },
+            "ru": {
+                "singular": "Лидеры продаж"
+            },
+            "sv": {
+                "singular": "Bästsäljare"
+            }
+        }
+    }
+}

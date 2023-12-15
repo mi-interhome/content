@@ -1,0 +1,126 @@
+{
+    "id": "www.components.footer.newsletter.heading",
+    "name": "heading",
+    "path": "text-resources/www/components/footer/newsletter/heading",
+    "folder": "text-resources",
+    "full_slug": "www/components/footer/newsletter/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "footer",
+        "newsletter",
+        "heading"
+    ],
+    "content": {
+        "key": "www.components.footer.newsletter.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Newsletter"
+            },
+            "da": {
+                "singular": "Nyhedsbrev"
+            },
+            "de": {
+                "singular": "Newsletter"
+            },
+            "de-AT": {
+                "singular": "Newsletter"
+            },
+            "de-CH": {
+                "singular": "Newsletter"
+            },
+            "de-DE": {
+                "singular": "Newsletter"
+            },
+            "en": {
+                "singular": "Newsletter"
+            },
+            "en-AU": {
+                "singular": "Newsletter"
+            },
+            "en-CA": {
+                "singular": "Newsletter"
+            },
+            "en-GB": {
+                "singular": "Newsletter"
+            },
+            "en-IE": {
+                "singular": "Newsletter"
+            },
+            "en-US": {
+                "singular": "Newsletter"
+            },
+            "es": {
+                "singular": "Newsletter"
+            },
+            "fi": {
+                "singular": "Uutiskirje"
+            },
+            "fi-EE": {
+                "singular": "Uutiskirje"
+            },
+            "fi-FI": {
+                "singular": "Uutiskirje"
+            },
+            "fr": {
+                "singular": "Newsletter"
+            },
+            "fr-BE": {
+                "singular": "Newsletter"
+            },
+            "fr-CA": {
+                "singular": "Newsletter"
+            },
+            "fr-CH": {
+                "singular": "Newsletter"
+            },
+            "fr-FR": {
+                "singular": "Newsletter"
+            },
+            "hr": {
+                "singular": "Newsletter"
+            },
+            "it": {
+                "singular": "Newsletter"
+            },
+            "it-CH": {
+                "singular": "Newsletter"
+            },
+            "it-IT": {
+                "singular": "Newsletter"
+            },
+            "nl": {
+                "singular": "Nieuwsbrief"
+            },
+            "nl-BE": {
+                "singular": "Nieuwsbrief"
+            },
+            "nl-NL": {
+                "singular": "Nieuwsbrief"
+            },
+            "no": {
+                "singular": "Nyhetsbrev"
+            },
+            "pl": {
+                "singular": "Newsletter"
+            },
+            "pt": {
+                "singular": "Newsletter"
+            },
+            "ru": {
+                "singular": "Email-рассылка"
+            },
+            "sv": {
+                "singular": "Nyhetsbrev"
+            }
+        }
+    }
+}

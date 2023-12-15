@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.payNow",
+    "name": "payNow",
+    "path": "text-resources/webccSalesportal/reservationoverview/payNow",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/payNow",
+    "slug": "payNow",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "payNow"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.payNow",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nyní zaplatit"
+            },
+            "da": {
+                "singular": "Betal nu"
+            },
+            "de": {
+                "singular": "Jetzt bezahlen"
+            },
+            "de-AT": {
+                "singular": "Jetzt bezahlen"
+            },
+            "de-CH": {
+                "singular": "Jetzt bezahlen"
+            },
+            "de-DE": {
+                "singular": "Jetzt bezahlen"
+            },
+            "en": {
+                "singular": "Pay now"
+            },
+            "en-AU": {
+                "singular": "Pay now"
+            },
+            "en-CA": {
+                "singular": "Pay now"
+            },
+            "en-GB": {
+                "singular": "Pay now"
+            },
+            "en-IE": {
+                "singular": "Pay now"
+            },
+            "en-US": {
+                "singular": "Pay now"
+            },
+            "es": {
+                "singular": "Pagar ahora"
+            },
+            "fi": {
+                "singular": "Maksa nyt"
+            },
+            "fi-EE": {
+                "singular": "Maksa nyt"
+            },
+            "fi-FI": {
+                "singular": "Maksa nyt"
+            },
+            "fr": {
+                "singular": "Payer maintenant"
+            },
+            "fr-BE": {
+                "singular": "Payer maintenant"
+            },
+            "fr-CA": {
+                "singular": "Payer maintenant"
+            },
+            "fr-CH": {
+                "singular": "Payer maintenant"
+            },
+            "fr-FR": {
+                "singular": "Payer maintenant"
+            },
+            "hr": {
+                "singular": "Plati sada"
+            },
+            "it": {
+                "singular": "Effettuare il pagamento"
+            },
+            "it-CH": {
+                "singular": "Effettuare il pagamento"
+            },
+            "it-IT": {
+                "singular": "Effettuare il pagamento"
+            },
+            "nl": {
+                "singular": "Nu betalen"
+            },
+            "nl-BE": {
+                "singular": "Nu betalen"
+            },
+            "nl-NL": {
+                "singular": "Nu betalen"
+            },
+            "no": {
+                "singular": "Betal nå"
+            },
+            "pl": {
+                "singular": "Zapłać teraz"
+            },
+            "pt": {
+                "singular": "Pague agora"
+            },
+            "ru": {
+                "singular": "Оплатить ейчас"
+            },
+            "sv": {
+                "singular": "Betala nu"
+            }
+        }
+    }
+}

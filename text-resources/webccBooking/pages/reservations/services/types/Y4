@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.services.types.Y4",
+    "name": "Y4",
+    "path": "text-resources/webccBooking/pages/reservations/services/types/Y4",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/services/types/Y4",
+    "slug": "Y4",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "services",
+        "types",
+        "Y4"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.services.types.Y4",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "K zaplacení na místě"
+            },
+            "da": {
+                "singular": "Betales på stedet"
+            },
+            "de": {
+                "singular": "Vor Ort zu bezahlen"
+            },
+            "de-AT": {
+                "singular": "Vor Ort zu bezahlen"
+            },
+            "de-CH": {
+                "singular": "Vor Ort zu bezahlen"
+            },
+            "de-DE": {
+                "singular": "Vor Ort zu bezahlen"
+            },
+            "en": {
+                "singular": "Payable in resort"
+            },
+            "en-AU": {
+                "singular": "Payable in resort"
+            },
+            "en-CA": {
+                "singular": "Payable in resort"
+            },
+            "en-GB": {
+                "singular": "Payable in resort"
+            },
+            "en-IE": {
+                "singular": "Payable in resort"
+            },
+            "en-US": {
+                "singular": "Payable in resort"
+            },
+            "es": {
+                "singular": "A pagar en destino"
+            },
+            "fi": {
+                "singular": "Maksettava paikalla"
+            },
+            "fi-EE": {
+                "singular": "Maksettava paikalla"
+            },
+            "fi-FI": {
+                "singular": "Maksettava paikalla"
+            },
+            "fr": {
+                "singular": "Á payer sur place"
+            },
+            "fr-BE": {
+                "singular": "Á payer sur place"
+            },
+            "fr-CA": {
+                "singular": "Á payer sur place"
+            },
+            "fr-CH": {
+                "singular": "Á payer sur place"
+            },
+            "fr-FR": {
+                "singular": "Á payer sur place"
+            },
+            "hr": {
+                "singular": "Plaća se u destinaciji"
+            },
+            "it": {
+                "singular": "Pagabile in loco"
+            },
+            "it-CH": {
+                "singular": "Pagabile in loco"
+            },
+            "it-IT": {
+                "singular": "Pagabile in loco"
+            },
+            "nl": {
+                "singular": "Ter plaatse te betalen"
+            },
+            "nl-BE": {
+                "singular": "Ter plaatse te betalen"
+            },
+            "nl-NL": {
+                "singular": "Ter plaatse te betalen"
+            },
+            "no": {
+                "singular": "Betales på stedet"
+            },
+            "pl": {
+                "singular": "Płatne na miejscu"
+            },
+            "pt": {
+                "singular": "Payable in resort"
+            },
+            "ru": {
+                "singular": "оплачивается на курорте"
+            },
+            "sv": {
+                "singular": "Sker på plats"
+            }
+        }
+    }
+}

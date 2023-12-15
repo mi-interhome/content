@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.bookingFooter.securityTitle",
+    "name": "securityTitle",
+    "path": "text-resources/checkout/components/booking/bookingFooter/securityTitle",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/bookingFooter/securityTitle",
+    "slug": "securityTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "bookingFooter",
+        "securityTitle"
+    ],
+    "content": {
+        "key": "checkout.components.booking.bookingFooter.securityTitle",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Bezpečný způsob"
+            },
+            "da": {
+                "singular": "Sikker betaling"
+            },
+            "de": {
+                "singular": "Sichere Bezahlung"
+            },
+            "de-AT": {
+                "singular": "Sichere Bezahlung"
+            },
+            "de-CH": {
+                "singular": "Sichere Bezahlung"
+            },
+            "de-DE": {
+                "singular": "Sichere Bezahlung"
+            },
+            "en": {
+                "singular": "Secure payment"
+            },
+            "en-AU": {
+                "singular": "Secure payment"
+            },
+            "en-CA": {
+                "singular": "Secure payment"
+            },
+            "en-GB": {
+                "singular": "Secure payment"
+            },
+            "en-IE": {
+                "singular": "Secure payment"
+            },
+            "en-US": {
+                "singular": "Secure payment"
+            },
+            "es": {
+                "singular": "Pago seguro verificado"
+            },
+            "fi": {
+                "singular": "Turvallinen maksutapa"
+            },
+            "fi-EE": {
+                "singular": "Turvallinen maksutapa"
+            },
+            "fi-FI": {
+                "singular": "Turvallinen maksutapa"
+            },
+            "fr": {
+                "singular": "Paiement sécurisé"
+            },
+            "fr-BE": {
+                "singular": "Paiement sécurisé"
+            },
+            "fr-CA": {
+                "singular": "Paiement sécurisé"
+            },
+            "fr-CH": {
+                "singular": "Paiement sécurisé"
+            },
+            "fr-FR": {
+                "singular": "Paiement sécurisé"
+            },
+            "hr": {
+                "singular": "Sigurno plaćanje"
+            },
+            "it": {
+                "singular": "Pagamento sicuro garantito"
+            },
+            "it-CH": {
+                "singular": "Pagamento sicuro garantito"
+            },
+            "it-IT": {
+                "singular": "Pagamenti sicuri"
+            },
+            "nl": {
+                "singular": "Veilig betalen"
+            },
+            "nl-BE": {
+                "singular": "Veilig betalen"
+            },
+            "nl-NL": {
+                "singular": "Veilig betalen"
+            },
+            "no": {
+                "singular": "Sikker betaling"
+            },
+            "pl": {
+                "singular": "Bezpieczene płatności"
+            },
+            "pt": {
+                "singular": "Pagamento seguro"
+            },
+            "ru": {
+                "singular": "Безопасность платежей"
+            },
+            "sv": {
+                "singular": "Säker betalning"
+            }
+        }
+    }
+}
