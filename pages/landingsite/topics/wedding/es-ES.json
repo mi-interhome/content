@@ -1,0 +1,150 @@
+{
+    "id": "15510",
+    "name": "wedding",
+    "path": "pages/landingsite/topics/wedding/es-ES.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/wedding",
+    "slug": "wedding",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "wedding"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.es/ideas-vacaciones/casa-vacaciones-boda/",
+            "title": "Recepción de bodas y lunas de miel | Interhome",
+            "description": "Cásese en la ubicación de sus sueños y en un entorno extraordinario y disfrute de una romántica luna de miel con mucha privacidad y sin compromisos",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/wedding/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Hochzeit Flitterwochen Ferienhaus",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_wedding/980286-1-ger-XX/Header_1400x480_wedding.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ideas-vacaciones/",
+                            "label": "Descubra nuestras ideas de vacaciones – Vacaciones divertidas y seguras"
+                        },
+                        {
+                            "href": "/ideas-vacaciones/casa-vacaciones-boda/",
+                            "label": "Recepciones de boda y lunas de miel"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Recepciones de boda y lunas de miel",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003e\n\u003cstrong\u003eLuna de miel en una casa de vacaciones\u003c/strong\u003e \u003c/h3\u003e\u003cp\u003eDisfrute de una romántica luna de miel con mucha privacidad y sin compromisos. Ya sea en un apartamento moderno en el corazón de una vibrante metrópolis, una villa romántica para dos personas con piscina junto al mar, cerca de la naturaleza en una casa de campo o en un lujoso castillo, en Interhome encontrará exactamente lo que busca. Interhome ofrece una variada gama de alojamientos para disfrutar de una luna de miel extraordinaria e idílica. Decida lo que decida, disfrutará de mucho espacio y privacidad. Entonces, ¿cuál es su destino de luna de miel?\u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003e\u003cstrong\u003eRecepción de bodas en una casa de vacaciones reception at the holiday home\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eCásese en la ubicación de sus sueños y en un entorno extraordinario. Diga \"Sí, quiero\" en la playa, para luego celebrar una íntima recepción en un castillo romántico, \u003ca href=\"/italia/villa/\"\u003eVilla Italiana\u003c/a\u003e, \u003ca href=\"/espana/casa-independiente/\"\u003efinca española\u003c/a\u003e o en una maravillosa \u003ca href=\"/francia/granja/\"\u003ecasa de campo en Francia\u003c/a\u003e. Decida lo que decida, la recepción de una boda en una casa de vacaciones está llena de experiencias inolvidables en un magnífico y especial ambiente.\u003c/p\u003e\u003cp\u003eDescubra nuestras sugerencias para bodas y/o lunas de miel:\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Siéntase seguro en su casa de vacaciones!",
+                    "link": {
+                        "href": "/sobre-interhome/seguridad-en-su-casa-de-vacaciones/",
+                        "label": "Más información"
+                    },
+                    "car": "Desplazamiento particular",
+                    "cleaning": "Protocolo específico de limpieza",
+                    "independence": "Libertad y flexibilidad",
+                    "key": "Entrega de llaves segura",
+                    "privacy": "Privacidad en su casa de vacaciones",
+                    "support": "Atención personal en destino"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Alojamientos verificados y de calidad",
+                            "subtitle": "La calidad nuestra prioridad",
+                            "caption": "Cada una de nuestras propiedades es revisada antes de su llegada para asegurar la mejor estancia posible."
+                        },
+                        {
+                            "title": "Disponibilidad garantizada y servicio in-situ",
+                            "subtitle": "Aproveche al máximo nuestra experiencia",
+                            "caption": "La recogida de llaves está organizada por nuestro atento personal. Disponible las 24 horas del día, los 7 días de la semana y en nuestras oficinas locales para ayudarlo con todas sus preguntas, por ejemplo: consejos, preguntas sobre su destino de vacaciones..."
+                        },
+                        {
+                            "title": "Una experencia inolvidable",
+                            "subtitle": "Privacidad y libertad en su propia casa de vacaciones",
+                            "caption": "Sin horarios para comer y con sus propias reglas, disfrute de su tiempo en familia o con amigos."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por qué Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca ha sido fácil organizar las vacaciones perfectas. ¿Quieres explorar nuevos destinos? No hay mejor manera de hacerlo que desde un apartamento de vacaciones. Disfruta de la dolce vita en \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, descubre el encanto de \u003ca href=\"/francia/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e o empápate del \u003ca href=\"/espana/\"\u003eestilo de vida español\u003c/a\u003e. Inspírate con nuestras ideas para viajar y haz tu reserva online: con Interhome es fácil y seguro. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Libertad, privacidad y espacio en su casa de vacaciones",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSu estancia en una casa o apartamento de vacaciones está llena de ventajas: invierta su tiempo como quiera. Sin molestias de otros clientes o personal del hotel, simplemente disfrute de sus vacaciones marcándose sus propias reglas. Tanto como si busca una escapada a una ciudad, como unas relajantes vacaciones en familia o con amigos. Simplemente disfrute de la estancia, flexibilidad y libertad que le ofrece su casa de vacaciones.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "id": "37014",
+    "name": "safety",
+    "path": "pages/landingsite/about-us/safety/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/safety",
+    "slug": "safety",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "safety"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/over-interhome/voordelen-van-een-vakantiehuis/",
+            "title": "Veiligheid in uw vakantiewoning!",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/safety/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_safety_2020/1993578-1-eng-XX/Header_1200x410_IH_safety_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/over-interhome/",
+                            "label": "Over Interhome"
+                        },
+                        {
+                            "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                            "label": "Volledige veiligheid in uw vakantiewoning"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Volledige veiligheid in uw vakantiewoning",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eUw gezondheid is belangrijk voor ons!\u003c/h4\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/36476/1954019-1-eng-XX/Corona_Safety_Landingpage_Icon_125x125px.jpg\" width=\"125\" height=\"125\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"left\" data-id=\"37202\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDe gezondheid van onze gasten en de gezondheid van onze partners en medewerkers is onze hoogste prioriteit. Ter plaatse hebben wij voortdurend contact met onze eigenaren en collega‘s om ervoor te zorgen dat aan de veiligheids- en hygiënenormen wordt voldaan en om hen te helpen zich aan eventuele nieuwe regelgeving aan te passen. Wij danken u voor uw medewerking bij de toepassing van de desbetreffende veiligheids- en hygiënenormen. Samen zullen we deze buitengewone situatie aanpakken. Voor ieders veiligheid en voor een zorgeloos verblijf in uw vakantiewoning.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1955378-dut-XX/Veiligheid_voorop.pdf\" target=\"_blank\"\u003e\u0026gt;\u0026gt; Veiligheids-en hygiënemaatregelen voor uw vakantiewoning\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"/vakantie-inspiratie/\"\u003e\u0026gt;\u0026gt; Laat u inspireren door onze vakantie ideeën\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

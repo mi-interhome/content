@@ -1,0 +1,148 @@
+{
+    "id": "10174",
+    "name": "customer-service",
+    "path": "pages/contentsite/customer-service/cs-CZ.json",
+    "folder": "pages",
+    "full_slug": "contentsite/customer-service",
+    "slug": "customer-service",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "customer-service"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.cz/zakaznicky-servis/",
+            "title": "Zákaznický servis | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/customer-service/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/zakaznicky-servis/",
+                            "label": "Zákaznický servis"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Zákaznický servis",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eZde najdete naše Všeobecné obchodní podmínky a Zásady ochrany osobních údajů. Získáte zde více informací o našem cestovním pojištění ERV a můžete si prostudovat nejčastěji kladené otázky.\u003c/p\u003e\u003cp\u003eChcete-li kontaktovat náš zákaznický servis přímo, využijte prosím kontakty \u003ca href=\"/kontakty/\"\u003ezde\u003c/a\u003e.\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

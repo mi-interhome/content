@@ -1,0 +1,153 @@
+{
+    "id": "10184",
+    "name": "travel-insurance",
+    "path": "pages/contentsite/customer-service/travel-insurance/Me-CO.json",
+    "folder": "pages",
+    "full_slug": "contentsite/customer-service/travel-insurance",
+    "slug": "travel-insurance",
+    "locale": "Me-CO",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "customer-service",
+        "travel-insurance"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.com/customer-service/travel-insurance/",
+            "title": "Travel Insurance",
+            "description": "We believe that you should always have fond memories of your holidays. The cancellation insurance is already included in your booking price. ",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/customer-service/travel-insurance/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/customer-service/",
+                            "label": "Customer Service"
+                        },
+                        {
+                            "href": "/customer-service/travel-insurance/",
+                            "label": "Travel insurance"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Travel insurance",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eWe believe that you should always have fond memories of your holidays. That’s why we offer you ERV cancellation insurance. You may also choose an optional upgrade of your insurance cover with ERV travel cover.\u003c/p\u003e\u003ch3\u003eYour cover before travelling: ERV cancellation insurance\u003c/h3\u003e\u003cp\u003eCancellation insurance is already \u003cstrong\u003eincluded in your booking price.\u003c/strong\u003e The deductible for each claim amounts to 20% of the reimbursable loss. You can find further details in the \u003ca href=\"https://images.interhome.group/ezcms/original/987287-eng-XC/ERV_AVB_cancellation-insurance_EN.pdf\" target=\"_blank\"\u003eterms and conditions of ERV cancellation insurance\u003c/a\u003e.\u003c/p\u003e\u003ch3\u003eYour cover when travelling: ERV travel insurance\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eGet the most out of your insurance cover:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\n\u003cimg src=\"https://images.interhome.group/ezcms/media/images/content/interhome-travel-insurance/730770-1-eng-XX/interhome-travel-insurance.jpg\" width=\"295\" height=\"212\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"10229\" data-type=\"image\" data-content=\"\"\u003eReimbursement of unused travel services and additional return travel costs if cancelled\u003c/li\u003e\n\u003cli\u003eReimbursement for medical treatment worldwide\u003c/li\u003e\n\u003cli\u003eReimbursement of search, rescue and recovery costs\u003c/li\u003e\n\u003cli\u003eOrganization and reimbursement of ambulance and luggage transport\u003c/li\u003e\n\u003cli\u003eLuggage insurance\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e    \u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePremium per reservation: EUR 35,-\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eWe recommend that you also consider the ERV travel insurance, in order to benefit from additional cover and services. You can find further details in the \u003ca href=\"https://images.interhome.group/ezcms/original/987292-eng-XX/ERV_AVB_travel-insurance_CHen.pdf\" target=\"_blank\"\u003eterms and conditions of ERV travel insurance\u003c/a\u003e.\u003c/p\u003e\u003ch4\u003eBooking\u003c/h4\u003e\u003cp\u003eERV cancellation insurance is already included in your booking price. ERV travel insurance can be added to your accommodation booking directly during the booking process. If you have already booked your holiday you can book ERV travel insurance subsequently up until your day of arrival by calling our hotline on 0840 84 88 88. \u003c/p\u003e\u003ch4\u003eClaim documents \u003c/h4\u003e\u003cp\u003eIn the case of loss a claim can be made by filling out the corresponding form:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699560-eng-XX/Claim%20Reports%20medical%20and%20hospital%20costs%20ILLNESS.pdf\" target=\"_blank\"\u003eMedical and hospital costs ILLNESS\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699525-eng-XX/Claim%20Reports%20medical%20and%20hospital%20costs%20ACCIDENT.pdf\" target=\"_blank\"\u003eMedical and hospital costs ACCIDENT\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699602-eng-XX/Claim%20Reports%20luggage%20%E2%80%93%20theft%20-%20robbery%20-%20miscarriage.pdf\" target=\"_blank\"\u003eLuggage – theft / robbery / miscarriage\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699685-eng-XX/Claim%20Reports%20SOS%20protection%20for%20travel%20incidents.pdf\" target=\"_blank\"\u003eSOS protection for travel incidents\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699757-eng-XX/ERV_Claim-reports_Cancellation-costs_EN.pdf\" target=\"_blank\"\u003eCancellation costs\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e  \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e   \u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Only selected and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "Guaranteed availability and on-site service",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and insights for your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, feel the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or the \u003ca href=\"/spain/\"\u003eSpanish way of life\u003c/a\u003e. Be inspired by our \u003ca href=\"\"\u003etravel ideas\u003c/a\u003e and book online - quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eYour stay in a holiday house or a holiday apartment offers plenty of advantages: spend your time exactly as you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Simply enjoy lots of room, flexibility and freedom in your holiday home.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

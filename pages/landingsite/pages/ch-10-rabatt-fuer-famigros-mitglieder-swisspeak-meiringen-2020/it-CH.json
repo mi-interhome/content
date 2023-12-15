@@ -1,0 +1,164 @@
+{
+    "id": "36205",
+    "name": "CH - 10% Rabatt für Famigros-Mitglieder SWISSPEAK Meiringen 2020",
+    "path": "pages/landingsite/pages/ch-10-rabatt-fuer-famigros-mitglieder-swisspeak-meiringen-2020/it-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/ch-10-rabatt-fuer-famigros-mitglieder-swisspeak-meiringen-2020",
+    "slug": "ch-10-rabatt-fuer-famigros-mitglieder-swisspeak-meiringen-2020",
+    "locale": "it-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "ch-10-rabatt-fuer-famigros-mitglieder-swisspeak-meiringen-2020"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/it/pages/famigros-sprm20/",
+            "title": "Interhome - offerta speciale per i soci Famigros",
+            "description": "Prenta ora le vacanze al SWISSPEAK Resorts a Meiringen con uno sconto di 10%.",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/CH - 10% Rabatt für Famigros-Mitglieder SWISSPEAK Meiringen 2020/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "SWISSPEAK Resorts Meiringen",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_swisspeak_meiringen_so_famigros_2020/1804423-1-eng-XX/Header_1200x410_Swisspeak_Meiringen_SO_Famigros_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/it/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/it/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/it/pages/famigros-sprm20/",
+                            "label": "Sulle tracce di Sherlock Holmes... adesso con 10% di sconto al SWISSPEAK Resorts per i soci Famigros"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Sulle tracce di Sherlock Holmes... adesso con 10% di sconto al SWISSPEAK Resorts per i soci Famigros",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eAttendi con ansia una vacanza al SWISSPEAK Resorts a Meiringen, perché oltre a moderni appartamenti, una stanza per bambini, una sala da gioco e un puzzle di Sherlock Holmes ti aspettano, che possono essere risolti dentro e intorno al resort.\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/images/famigros_landing_page_voucher_300x205_it/1053311-1-ita-CH/Famigros_Landing_Page_Voucher_300x205_IT.jpg\" width=\"300\" height=\"205\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"19643\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003cstrong\u003eI soci Famigros possono approfittare di uno sconto del 10% sulle vacanze al SWISSPEAK Resorts a Meiringen. Offerta valida fino al 21.06.2020 su soggiorni compresi tra il 06.06.2020 e il 24.10.2020. \u003c/strong\u003eInserisca il codice promozione \u003cstrong\u003eFAMIGROS\u003c/strong\u003e nell’apposito campo sulla pagina dei dati personali. Promozione non cumulabile con altri sconti.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003e\u003cstrong\u003eSWISSPEAK Resorts Meiringen (Oberland Bernese)\u003c/strong\u003e\u003c/h3\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/34578/1774862-2-eng-XX/SWISSPEAK-Resorts-Meiringen_Outdoor_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"35246\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33592/1730715-5-eng-XX/SWISSPEAK-Resorts-Meiringen-2_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34179\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33593/1730720-4-eng-XX/SWISSPEAK-Resorts-Meiringen-3_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34180\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/33595/1730730-3-eng-XX/SWISSPEAK-Resorts-Meiringen-4_500x333.jpg\" width=\"500\" height=\"333\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"\" data-id=\"34182\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"\"\u003e\n\u003ctr\u003e\u003ctd valign=\"top\" style=\"vertical-align: top;\" colspan=\"3\"\u003e\u003cp\u003eProprio accanto al Museo Sherlock Holmes, nel pittoresco villaggio di Meiringen, dai 79 appartamenti moderni ed eleganti è possibile godere di una magnifica vista sul paesaggio montano circostante fino ad un massimo di 8 persone. Situato nel cuore del villaggio, accanto alla stazione ferroviaria, il resort è il punto di partenza ideale per Le Gole di Aare, il museo a cielo aperto Ballenberg o Hasliberg. \u003cstrong\u003e\u003ca href=\"/it/svizzera/oberland-bernese/meiringen/?swiss_peak=true\"\u003e\u0026gt;\u0026gt; Dai un'occhiata\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\n\u003ctr class=\"table__row\"\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cul\u003e\n\u003cli\u003eReception\u003c/li\u003e\n\u003cli\u003eKids room\u003c/li\u003e\n\u003cli\u003eDeposito biciclette\u003c/li\u003e\n\u003c/ul\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cul\u003e\n\u003cli\u003eWine bar\u003c/li\u003e\n\u003cli\u003eGaming room\u003c/li\u003e\n\u003cli\u003eSala conferenze\u003c/li\u003e\n\u003c/ul\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cul\u003e\n\u003cli\u003eLounge\u003c/li\u003e\n\u003cli\u003eSauna\u003c/li\u003e\n\u003cli\u003eParcheggio coperto\u003c/li\u003e\n\u003c/ul\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003cp\u003ePrenotate subito le vostre vacanze con Interhome e raccogliete i punti Cumulus (1 franco di spesa = 1 punto Cumulus). Basterà indicare il vostro codice Cumulus al momento della prenotazione e i vostri punti verranno accreditati.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nelle Sua casa per Vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/it/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello garantita",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "In una casa per vacanze la privacy è garantita",
+                    "support": "Assistenza in loco"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna delle chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/it/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/it/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"https://www.interhome.it/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"https://www.interhome.it/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "id": "15499",
+    "name": "public-holidays",
+    "path": "pages/landingsite/topics/public-holidays/da-DK.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/public-holidays",
+    "slug": "public-holidays",
+    "locale": "da-DK",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "public-holidays"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.dk/temaer/helligdage/",
+            "title": "Helligdage med Interhome  | Interhome",
+            "description": "Overrask dine kære og brug de ekstra fridage i et skønt feriehus eller en lejlighed.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/public-holidays/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_public_holidays_2021_22_winter/2089714-1-eng-XX/Header_1200x410_IH_public_holidays_2021_22_winter.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/temaer/",
+                            "label": "Rejseidéer"
+                        },
+                        {
+                            "href": "/temaer/helligdage/",
+                            "label": "Lang weekend i et feriehus"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Lang weekend i et feriehus",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eOverrask dine kære og brug de ekstra fridage i et skønt feriehus eller en lejlighed. Find og book den perfekte feriebolig hvor du kan hygge dig og nyde en lang weekend med total afslapning. Uanset om det er jul, påske eller efterårsferie, så har vi garanteret noget som passer lige til dig og dine venner og familie!\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eDu skal bare bestemme hvor du vil hen – så tager vi os af resten.\u003c/h4\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så sikker er du i ferieboligen!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhed-i-dit-feriehus/",
+                        "label": "Yderligere information"
+                    },
+                    "car": "Individuel ankomst",
+                    "cleaning": "Kvalitetskontrolleret rengøring",
+                    "independence": "Frihed og uafhængighed",
+                    "key": "Sikker nøgleudlevering på stedet",
+                    "privacy": "Privatliv i din feriebolig",
+                    "support": "Personlig assistance på stedet"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Kun kvalitetssikrede sommerhuse",
+                            "subtitle": "Kvalitet er vores primære prioritet ",
+                            "caption": "Hver ejendom kontrolleres før ankomst for at sikre det bedst mulige ophold"
+                        },
+                        {
+                            "title": "Garanteret tilgængelighed og service på stedet ",
+                            "subtitle": "Få mest muligt ud af vores ekspertise ",
+                            "caption": "Nøgle-administration er arrangeret af vores hjælpsomme personale. Tilgængelig døgnet rundt eller på stedet for at hjælpe dig med alle dine spørgsmål, såsom: med tips og viden om dit feriemål og din reserverede bolig. "
+                        },
+                        {
+                            "title": "En mindeværdig ferie oplevelse ",
+                            "subtitle": "Privatliv og frihed i dit eget feriehus ",
+                            "caption": "Vær din egen chef, spis når du vil og har masser af plads til alle dine venner og familie "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig været nemmere at finde den perfekte ferie. Vil du opleve nye feriedestinationer? Der er ingen bedre måde at gøre det på end ved at have sin egen feriebolig: Nyd \"la dolce vita\" i \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e, oplev den charmerende livsstil på den \u003ca href=\"/frankrig/cote-d-azur/\"\u003eFranske Riviera\u003c/a\u003e eller nyd den måde at leve på. Find inspiration i vores \u003ca href=\"\"\u003eferie tips\u003c/a\u003e og book online - det er hurtigt, let og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihed, integritet og plads i dit eget feriehus",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAt have sit eget feriehus eller lejlighed giver masser af fordele: Du kan bruge tiden præcis som du vil. Der er ikke forstyrrelser fra andre gæster eller hotelpersonalet - du kan holde ferie efter dine helt egne regler. Uanset om du leder efter en \u003ca href=\"/temaer/storbyferie/\"\u003ebyferie\u003c/a\u003e, en afslappende ferie med \u003ca href=\"/temaer/family/\"\u003efamilie\u003c/a\u003e eller med dine venner. Nyd at have masser af plads, fleksibilitet og frihed i din egen feriebolig.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

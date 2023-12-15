@@ -1,0 +1,153 @@
+{
+    "id": "22716",
+    "name": "Winter vakantiehuizen zijn nu al te boeken!",
+    "path": "pages/contentsite/news/winter-vakantiehuizen-zijn-nu-al-te-boeken/pl-PL.json",
+    "folder": "pages",
+    "full_slug": "contentsite/news/winter-vakantiehuizen-zijn-nu-al-te-boeken",
+    "slug": "winter-vakantiehuizen-zijn-nu-al-te-boeken",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "news",
+        "winter-vakantiehuizen-zijn-nu-al-te-boeken"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.pl/aktualnosci/20180919-ferie-zimowe-2019/",
+            "title": "Terminy ferii zimowych 2019 | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/news/Winter vakantiehuizen zijn nu al te boeken!/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/aktualnosci/",
+                            "label": "Aktualności"
+                        },
+                        {
+                            "href": "/aktualnosci/20180919-ferie-zimowe-2019/",
+                            "label": "Terminy ferii zimowych 2019"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Terminy ferii zimowych 2019",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eLetnie urlopy powoli zacierają się w naszej pamięci - to znak, że najwyższy czas rezerwować domy i apartamenty w górach na najbliższe ferie zimowe. Czekają na Ciebie przytulne domki i piękne apartamenty w najbardziej atrakcyjnych regionach narciarskich w \u003ca href=\"/niemcy/?filters=17%3a1\u0026amp;sorting=ascprice\"\u003eNiemczech\u003c/a\u003e, \u003ca href=\"/austria/?filters=17%3a1\u0026amp;sorting=ascprice\"\u003eAustrii\u003c/a\u003e, \u003ca href=\"/szwajcaria/?filters=17%3a1\u0026amp;sorting=ascprice\"\u003eSzwajcarii\u003c/a\u003e, \u003ca href=\"/wlochy/?filters=17%3a1\u0026amp;sorting=ascprice\"\u003eWłoszech\u003c/a\u003e, \u003ca href=\"/szwajcaria/?filters=17%3a1\u0026amp;sorting=ascprice\"\u003eFrancji\u003c/a\u003e i innych miejscowościach w Alpach! Zarezerwuj teraz i ciesz się świetnym wyborem.  \u003c/p\u003e\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003eFerie 2019 - terminy w Polsce\u003c/h2\u003e\u003cp\u003eFerie zimowe już coraz bliżej. Poniżej przedstawiamy terminy ferii zimowych w Polsce\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e14.01. - 27.01.2019\u003c/strong\u003e (woj. kujawsko-pomorskie, lubuskie, małopolskie, świętokrzyskie, wielkopolskie) \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e21.01. - 03.02.2019\u003c/strong\u003e (woj. warmińsko-mazurskie, podlaskie)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e28.01. - 10.02.2019\u003c/strong\u003e (woj. dolnośląskie, mazowieckie, opolskie, zachodniopomorskie)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e11.02. - 24.02.2019\u003c/strong\u003e (woj. lubuskie, łódzkie, podkarpackie, pomorskie, śląskie)\u003c/p\u003e\u003cp\u003eDomy i apartamenty w najpiękniejszych kurortach narciarskich. Narty 2019 czas zacząć. Daj się zainspirować i zarezerwuj jeden z naszych wyjątkowych domków górskich lub apartamentów w najlepszych miejscowościach narciarskich w Europie. W naszej szerokiej ofercie na pewno każdy znajdzie coś dla siebie! Sprawdź na przykład \u003ca href=\"/austria/?filters=17:3\u0026amp;sorting=ascPrice\"\u003enoclegi na narty w Austrii 500 metrów od stoku\u003c/a\u003e czy wyjątkowe \u003ca href=\"/wlochy/narciarstwo-snowboard/?sorting=ascprice\"\u003eapartamenty w górach we Włoszech\u003c/a\u003e. \u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Wynajem domu wakacyjnego z zachowaniem wszelkich zasad bezpieczeństwa!",
+                    "link": {
+                        "href": "/o-nas/bezpieczenstwo-w-domu-wakacyjnym/",
+                        "label": "Więcej informacji"
+                    },
+                    "car": "Własny dojazd",
+                    "cleaning": "Kontrola czystości",
+                    "independence": "Swoboda i niezależność",
+                    "key": "Odbiór kluczy z zachowaniem zasad bezpieczeństwa",
+                    "privacy": "Prywatność w domu wakacyjnym",
+                    "support": "Pomoc na miejscu"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Tylko wybrane i sprawdzone oferty ",
+                            "subtitle": "Jakość jest naszym najwyższym priorytetem",
+                            "caption": "Każda nasza oferta jest sprawdzana przez pracowników biur lokalnych, by zagwarantować najwyższy standard i udany urlop. "
+                        },
+                        {
+                            "title": "Gwarantowana dostępność i serwis na miejscu",
+                            "subtitle": "Skorzystaj z naszego doświadczenia ",
+                            "caption": "Wszędzie tam, gdzie znajdują się nasze biura lokalne, odbiór kluczy odbywa się za pośrednictwem naszych pracowników, którzy czekają, by udzielić dodatkowych informacji, polecić najlepszą restaurację czy podzielić się swoim doświadczeniem.  "
+                        },
+                        {
+                            "title": "Niezapomniane wakacje",
+                            "subtitle": "Prywatność i swoboda gwarantowane",
+                            "caption": "Interhome to urlop na własnych zasadach. Żadnych zbiórek i stałych godzin posiłków, w naszych domach i apartamentach wakacyjnych macie nie tylko pełną swobodę, lecz również mnóstwo miejsca dla całej rodziny i przyjaciół. "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Dlaczego Interhome? ",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003ePonieważ od 1965 roku realizujemy marzenia o idealnych wakacjach. Przemawia za nami szwajcarska jakość, przejrzysty system gwiazdek i doskonałe opinie od zadowolonych klientów. Rezerwując dom lub apartament wakacyjny z własnym dojazdem w jednym z 27 krajów z oferty Interhome można odkryć najpiękniejsze turystyczne zakątki. Z nami wyruszycie na rodzinne wakacje do Chorwacji i na Sylwestra w Zakopanem. Rozkoszujcie się więc wakacjami we Włoszech, wybierzcie się z nami na urlop w apartamencie we Francji lub spędźcie wymarzone wczasy z dojazdem własnym w willi w Hiszpanii. Odkrywajcie nowe smaki, obserwujcie podobieństwa i różnice kulturowe. Warto dać się zainspirować, wybrać idealną dla siebie ofertę i zarezerwować ją bez problemu online na stronie Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Swoboda, prywatność i komfort",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eOferujemy sprawdzone, komfortowe mieszkania w miastach Europy na city-break, na rodzinne wakacje nad morzem, domy z prywatnym basenem, domki w górach na narty w Alpach i noclegi nad jeziorami. Zalet takiego indywidualnie zorganizowanego wypoczynku jest wiele. Największą jest jednak niczym nieograniczona swoboda. Żadnych terminów i ściśle wyznaczonych godzin. W pełni wyposażonej kuchni do indywidualnego użytku można swobodnie przygotować posiłki dla wszystkich towarzyszy wyjazdu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

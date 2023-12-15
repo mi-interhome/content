@@ -1,0 +1,153 @@
+{
+    "id": "37437",
+    "name": "imprint",
+    "path": "pages/contentsite/myrent/imprint/da-DK.json",
+    "folder": "pages",
+    "full_slug": "contentsite/myrent/imprint",
+    "slug": "imprint",
+    "locale": "da-DK",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "myrent",
+        "imprint"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.dk/myrent/juridisk/",
+            "title": "Juridisk | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/myrent/imprint/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/myrent/",
+                            "label": "Myrent legal pages"
+                        },
+                        {
+                            "href": "/myrent/juridisk/",
+                            "label": "Juridiske opplysninger"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Juridiske opplysninger",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eHHD Service AB\u003c/strong\u003e\u003cbr\u003eGrev Turegatan 77\u003cbr\u003eSE 114 38 Stockholm\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTelefon:\u003c/strong\u003e +45 70 233 633\u003cbr\u003e\u003cstrong\u003ee-post:\u003c/strong\u003e \u003ca href=\"mailto:info@interhome.dk\"\u003einfo@interhome.dk\u003c/a\u003e                    \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCountry Manager:\u003c/strong\u003e Thijs van Oss\u003cbr\u003e\u003cstrong\u003eHandelsregister:\u003c/strong\u003e 556732-1996\u003cbr\u003e\u003cstrong\u003eSkattenummer:\u003c/strong\u003e SE556732199601                   \u003c/p\u003e\u003ch4\u003eDatabeskyttelse koordinator for HHD AG\u003c/h4\u003e\u003cp\u003eAndreas Benz\u003cbr\u003e\u003ca href=\"mailto:DSB@interhome.com\"\u003eDSB@interhome.com\u003c/a\u003e eller \u003ca href=\"mailto:DPO@interhome.com\"\u003eDPO@interhome.com\u003c/a\u003e\u003c/p\u003e\u003cp\u003eRepresentant i henhold til artikkel 27 DSGVO\u003cbr\u003eAdvokatprofessor Clemens Pustejovsky\u003cbr\u003e\u003ca href=\"mailto:DSB@interchalet.com\"\u003eDSB@interchalet.com\u003c/a\u003e eller \u003ca href=\"mailto:DPO@interchalet.com\"\u003eDPO@interchalet.com\u003c/a\u003e\u003cbr\u003eWallstr. 6, D-79098 Freiburg, tlf. 076172168680\u003c/p\u003e\u003ch4\u003eReisebyråagent\u003c/h4\u003e\u003cp\u003eFerieboligene der tilbydes på denne side, lejes af HHD AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHHD AG\u003c/strong\u003e \u003cbr\u003eSägereistrasse 27 \u003cbr\u003eCH 8152 Glattbrugg\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så sikker er du i ferieboligen!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhed-i-dit-feriehus/",
+                        "label": "Yderligere information"
+                    },
+                    "car": "Individuel ankomst",
+                    "cleaning": "Kvalitetskontrolleret rengøring",
+                    "independence": "Frihed og uafhængighed",
+                    "key": "Sikker nøgleudlevering på stedet",
+                    "privacy": "Privatliv i din feriebolig",
+                    "support": "Personlig assistance på stedet"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Kun kvalitetssikrede sommerhuse",
+                            "subtitle": "Kvalitet er vores primære prioritet ",
+                            "caption": "Hver ejendom kontrolleres før ankomst for at sikre det bedst mulige ophold"
+                        },
+                        {
+                            "title": "Garanteret tilgængelighed og service på stedet ",
+                            "subtitle": "Få mest muligt ud af vores ekspertise ",
+                            "caption": "Nøgle-administration er arrangeret af vores hjælpsomme personale. Tilgængelig døgnet rundt eller på stedet for at hjælpe dig med alle dine spørgsmål, såsom: med tips og viden om dit feriemål og din reserverede bolig. "
+                        },
+                        {
+                            "title": "En mindeværdig ferie oplevelse ",
+                            "subtitle": "Privatliv og frihed i dit eget feriehus ",
+                            "caption": "Vær din egen chef, spis når du vil og har masser af plads til alle dine venner og familie "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig været nemmere at finde den perfekte ferie. Vil du opleve nye feriedestinationer? Der er ingen bedre måde at gøre det på end ved at have sin egen feriebolig: Nyd \"la dolce vita\" i \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e, oplev den charmerende livsstil på den \u003ca href=\"/frankrig/cote-d-azur/\"\u003eFranske Riviera\u003c/a\u003e eller nyd den måde at leve på. Find inspiration i vores \u003ca href=\"\"\u003eferie tips\u003c/a\u003e og book online - det er hurtigt, let og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihed, integritet og plads i dit eget feriehus",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAt have sit eget feriehus eller lejlighed giver masser af fordele: Du kan bruge tiden præcis som du vil. Der er ikke forstyrrelser fra andre gæster eller hotelpersonalet - du kan holde ferie efter dine helt egne regler. Uanset om du leder efter en \u003ca href=\"/temaer/storbyferie/\"\u003ebyferie\u003c/a\u003e, en afslappende ferie med \u003ca href=\"/temaer/family/\"\u003efamilie\u003c/a\u003e eller med dine venner. Nyd at have masser af plads, fleksibilitet og frihed i din egen feriebolig.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

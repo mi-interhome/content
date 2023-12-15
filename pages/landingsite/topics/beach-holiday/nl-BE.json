@@ -1,0 +1,157 @@
+{
+    "id": "15504",
+    "name": "beach-holiday",
+    "path": "pages/landingsite/topics/beach-holiday/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/beach-holiday",
+    "slug": "beach-holiday",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "beach-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/vakantie-inspiratie/vakantiehuis-aan-zee/",
+            "title": "Vakantiehuis aan zee huren | Interhome",
+            "description": "Onze vakantiewoningen aan zee zijn te vinden in heel Europa. Kies uit Costa Blanca, Costa Dorada, Costa Brava, Cote d'Azur, Languedoc-Roussillon, Normandië en Istrië",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/beach-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_summer4_beach_holidays_2020/1804310-1-eng-XX/Header_1200x410_Summer4_Beach_Holidays_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/",
+                            "label": "Veilige en fijne vakanties - ontdek onze vakantie ideeën"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/vakantiehuis-aan-zee/",
+                            "label": "Vakantiehuis aan zee"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Vakantiehuis aan zee",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eGeniet van een vakantiehuis aan zee. Aan zee kunt u lange wandelingen maken over het strand, zonnebaden, zwemmen en relaxen. Verblijf aan de kust en uw zorgen zullen verdwijnen. Het zachte geklots van de golven, warm zand onder uw voeten, ijsjes eten, gewoon even uitwaaien.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eVakantie aan zee is een aanrader voor jong en oud. Onze vakantiehuizen aan zee vindt u over heel Europa: aan de stranden van de Middellandse Zee, de Atlantische Oceaan, de Noordzee en de Oostzee.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eVakantiehuizen aan zee\u003c/h3\u003e\u003cp\u003eDe zee oefent op veel mensen een onweerstaanbare aantrekkingskracht uit. Klinkt een vakantiehuis aan zee u als muziek in de oren? Lees dan snel verder en ontdek dat deze idylle makkelijker te realiseren is dan u misschien denkt.\u003c/p\u003e\u003cp\u003eHoewel iedereen de zee op een eigen manier ervaart, zijn er maar weinig mensen die geen plezier beleven aan een verblijf in de buurt van het zilte nat. Wat het ook is waardoor u zich aangetrokken voelt door de zee, met een vakantiewoning aan zee kunt u er iedere dag op uw manier van genieten. Mocht u denken dat een vakantiehuis aan zee alleen is weggelegd voor de ‘happy few’, dan helpen wij u graag uit de droom: via Interhome is een onvergetelijke strandvakantie met de zee op steenworp afstand zo geregeld.\u003c/p\u003e\u003ch3\u003eHet kan aan het strand\u003c/h3\u003e\u003cp\u003eHoe ziet u de zee? Als de ideale plek voor een ontspannen zonvakantie die vooral draait om zwemmen en lekker op het strand van de zon genieten? Of is de zee voor u meer het startpunt voor een actieve vakantie, waar sportieve activiteiten als surfen en zeilen een belangrijke rol in spelen? Hebt u (jonge) \u003ca href=\"/vakantie-inspiratie/op-vakantie-met-de-hele-familie/\"\u003ekinderen\u003c/a\u003e en denkt u bij een vakantie aan het strand vooral aan kleine hummels die met een beetje hulp van papa of mama zandkastelen bouwen en pootjebaden? Of ziet u al voor u hoe uw tieners beachvolleybal spelen en nieuwe vrienden maken op het strand? Een strandvakantie, dat is duidelijk, heeft iedereen wat te bieden: alles kan aan het strand!\u003c/p\u003e\u003ch3\u003eVilla aan de vloedlijn\u003c/h3\u003e\u003cp\u003eNu kennen we natuurlijk allemaal die zeldzame zomerse dagen waarop de Nederlanders massaal naar het strand trekken; jammer genoeg met kilometers lange files tot gevolg. Eenmaal in de buurt van het strand wacht dan de uitdaging van het vinden van een parkeerplaats en dan moeten alle tassen vol strandspullen nog naar een geschikt plekje worden gesleept. Al met al maakt u er ook dan natuurlijk een leuke dag van maar… het kan nog mooier! Via Interhome boekt u namelijk in een handomdraai een vakantiehuis aan zee, net zo dicht bij de kustlijn als u zelf wilt. En dat betekent geen files en geen parkeerproblemen, maar ’s ochtends zo vanuit uw bed op het strand stappen!\u003c/p\u003e\u003ch3\u003eIeder moment van de dag\u003c/h3\u003e\u003cp\u003eAls u eenmaal een vakantie hebt doorgebracht in een vakantiewoning of een appartement aan zee, dan is de kans groot dat u nooit anders meer wilt. Wat is er nu heerlijker dan op ieder moment dat u zin hebt om van de zon te genieten, een strandwandeling te maken of een verfrissende duik in de golven te maken dat gewoon te kunnen doen? Hebben de kinderen ’s ochtends al na een uurtje genoeg van zee en zand? Geen probleem, u bent zo terug in uw vakantiehuis, ze doen hun slaapje en als iedereen er zin in heeft, gaat u toch ’s middags gewoon nog weer een paar uurtjes naar het strand? Of misschien wilt u vanavond barbecueën in het nog warme zand, na een laatste duik de zon onder zien gaan en daarna meteen uw bed inrollen? Met een chalet aan zee is het allemaal mogelijk!\u003c/p\u003e\u003ch3\u003eStrandvakantie met eigen charme\u003c/h3\u003e\u003cp\u003eNatuurlijk heeft een strandvakantie in een ander land weer een geheel eigen charme; zo ademt de kust in \u003ca href=\"/nederland/aan-zee/\"\u003eNederland\u003c/a\u003e al een compleet andere sfeer. En \u003ca href=\"/frankrijk/aan-zee/\"\u003eFrankrijk\u003c/a\u003e, \u003ca href=\"/italie/aan-zee/\"\u003eItalië\u003c/a\u003e, \u003ca href=\"/spanje/aan-zee/\"\u003eSpanje\u003c/a\u003e, \u003ca href=\"/kroatie/aan-zee/\"\u003eKroatië\u003c/a\u003e, \u003ca href=\"/griekenland/aan-zee/\"\u003eGriekenland\u003c/a\u003e of \u003ca href=\"/portugal/aan-zee/\"\u003ePortugal\u003c/a\u003e zijn bij uitstek geschikt voor een perfecte zonvakantie. Welke bestemming ook uw voorkeur heeft, Interhome heeft de geschikte accommodatie. Op onze website kunt u eenvoudig en snel zoeken met behulp van de voor u relevante criteria. Zo hebt u in een oogwenk uw ideale vakantiehuis aan zee gevonden.\u003c/p\u003e\u003ch3\u003eBoeken met vertrouwen\u003c/h3\u003e\u003cp\u003eBoeken via Interhome betekent dat u kiest voor gecontroleerde kwaliteit. Onze organisatie staat als vakantiewoningenspecialist al vijftig jaar voor Zwitserse degelijkheid en betrouwbaarheid. Als u via ons een villa of appartement aan zee reserveert, dan weet u exact waar u aan toe bent. Wij controleren onze accommodaties en ons sterrenclassificatiesysteem maakt voor u volledig inzichtelijk waar u qua comfort met uw vakantiehuis aan zee op kunt rekenen. Als het gaat om de kwaliteit van de Interhome-vakantiewoningen komt u niet voor (vervelende) verrassingen te staan. Wat u beslist wél zal verrassen is de unieke charme van een vakantiehuis aan zee; probeer het uit en u weet precies wat we bedoelen!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "id": "41636",
+    "name": "sustainable-accommodation",
+    "path": "pages/landingsite/about-us/sustainability/sustainable-accommodation/fr-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/sustainable-accommodation",
+    "slug": "sustainable-accommodation",
+    "locale": "fr-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "sustainable-accommodation"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/fr/a-propos-d-interhome/durabilite/hebergement-pour-sejour-durable/",
+            "title": "Interhome | Hébergement pour séjour durable",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/sustainable-accommodation/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/a-propos-d-interhome/",
+                            "label": "A propos d'Interhome"
+                        },
+                        {
+                            "href": "/fr/a-propos-d-interhome/durabilite/",
+                            "label": "Aimons la nature – la protection de la planète c’est l’affaire de tous!"
+                        },
+                        {
+                            "href": "/fr/a-propos-d-interhome/durabilite/hebergement-pour-sejour-durable/",
+                            "label": "Hébergement pour séjour durable"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Hébergement pour séjour durable",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eVivre durablement, même en vacances\u003c/h4\u003e\u003cp\u003eInterhome Group s’engage en faveur d’un tourisme durable. C'est pourquoi nous nous sommes fixés comme priorité de vérifier la durabilité de nos quelques 40 000 maisons et appartements de vacances. Nous avons défini 12 critères qui nous semblent particulièrement importants pour la  protection de l'environnement et la préservation des ressources:\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cul\u003e\n\u003cli\u003eÉlectricité 100% renouvelable\u003c/li\u003e\n\u003cli\u003ePanneaux solaires ou système photovoltaïque\u003c/li\u003e\n\u003cli\u003eSystème de chauffage 100% écologique\u003c/li\u003e\n\u003cli\u003eBorne de recharge électrique sur la propriété\u003c/li\u003e\n\u003cli\u003ePoubelles de tri disponibles et station de recyclage dans la localité\u003c/li\u003e\n\u003cli\u003eAu moins 80% de l'éclairage assuré par des diodes électroluminescentes (LED)\u003c/li\u003e\n\u003cli\u003eToutes les fenêtres doivent être au moins à double vitrage\u003c/li\u003e\n\u003cli\u003eToilettes à économie d'eau\u003c/li\u003e\n\u003cli\u003eDouches à économie d’eau\u003c/li\u003e\n\u003cli\u003ePas de vaisselle jetable\u003c/li\u003e\n\u003cli\u003ePrésence d’espaces verts: jardin ou jardin sur le toit.\u003c/li\u003e\n\u003cli\u003eTransports publics accessibles à pied jusqu'à max. 1 km\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/embedded-images/sustainability_pictos_2023_420x420.jpg/2228416-1-eng-XX/Sustainability_Pictos_2023_420x420.jpg.jpg\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"41634\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eSi une maison ou un appartement de vacances remplit au moins 7 de nos 12 critères, le logement est identifié grâce à une icône en forme d'arbre vert. Les caractéristiques les plus importantes de votre hébergement pour séjour durable seront indiquées dans le descriptif du logement.\u003c/p\u003e\u003ch4\u003eTrouvez facilement un hébergement pour séjour durable grâce à un filtre dédié\u003c/h4\u003e\u003cp\u003eLa durabilité vous importe et vous recherchez un hébergement pour séjour durable ou vous souhaitez un logement équipé d’une borne de recharge électrique? Il suffit de sélectionner les critères  «\u003ca href=\"/fr/recherche/?sustainable=true\"\u003ehébergement pour séjour durable\u003c/a\u003e» et «\u003ca href=\"/fr/recherche/?charging_station=true\"\u003eborne de recharge électrique\u003c/a\u003e» lorsque vous effectuez la recherche sur notre site web.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eNous vous souhaitons un merveilleux séjour «durable» dans l'une de nos locations de vacances!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 9,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/fr/a-propos-d-interhome/durabilite/\"\u003e\u0026gt;\u0026gt; En savoir plus sur d'autres projets de développement durables soutenus par Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

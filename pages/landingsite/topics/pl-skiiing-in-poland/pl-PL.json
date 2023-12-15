@@ -1,0 +1,144 @@
+{
+    "id": "24888",
+    "name": "PL - Skiiing in Poland",
+    "path": "pages/landingsite/topics/pl-skiiing-in-poland/pl-PL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/pl-skiiing-in-poland",
+    "slug": "pl-skiiing-in-poland",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "pl-skiiing-in-poland"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.pl/inspiracje/narty-polska/",
+            "title": "Narty w Polsce  | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/PL - Skiiing in Poland/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspiracje/",
+                            "label": "Pomysły na wakacje"
+                        },
+                        {
+                            "href": "/inspiracje/narty-polska/",
+                            "label": "Narty w Polsce "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Narty w Polsce ",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp align=\"justify\"\u003ePolska oferuje turystom wiele niezwykłych miejsc, idealnych do odkrywania nie tylko latem czy wiosną. Wiele z nich swój prawdziwy urok odsłania przed odwiedzającymi dopiero zimą. Przed Wami odkrywamy kilka z nich jako ciekawe inspiracje na wyjazdy zimowe do polskich ośrodków narciarskich, prezentując jednocześnie ciekawe miejsca na noclegi na narty.\u003c/p\u003e\u003ch3 align=\"justify\"\u003e1. Ferie zimowe w Karkonoszach\u003c/h3\u003e\u003cp align=\"justify\"\u003eJest to najwyższe pasmo górskie Sudetów, położone na południowym wschodzie Polski. Prawdziwą perłą Karkonoszy jest miejscowość turystyczna Karpacz z licznymi szlakami turystycznymi. Nawet zimą, przy dobrych warunkach pogodowych oraz dobrym obuwiu można wejść na najwyższy szczyt – Śnieżkę, gdzie znajduje się osławiona w Polsce stacja meteorologiczna. Ponadto w Karkonoszach przygotowana jest bardzo dobra baza narciarska z ośrodkami m.in. w \u003ca href=\"/polska/sudety/szklarska-poreba/\" target=\"_blank\"\u003eapartamenty w Szklarskiej Porębie\u003c/a\u003e, czy\u003ca href=\"/polska/sudety/karpacz/?sorting=descLastBookDay\" target=\"_blank\"\u003e apartamenty w Karpaczu\u003c/a\u003e.\u003c/p\u003e\u003ch3 align=\"justify\"\u003e2. Wyjazdy na ferie w Tatry\u003c/h3\u003e\u003cp align=\"justify\"\u003eMalowniczy, alpejski krajobraz zimowy można podziwiać bez wyjeżdżania za granicę. Charakterystyczne ukształtowanie terenu polskich Tatr zapewnia spektakularne widoki zwłaszcza zimą. Jeśli jesteś doświadczonym turystą górskim i posiadasz odpowiedni sprzęt, możesz cieszyć się wyjątkowymi widokami z góry. Jeśli jednak nie masz odpowiedniego przygotowania, zawsze możesz wybrać się na wędrówkę po dolinach, które zapewniają nie mniej atrakcyjne widoki. Ponadto w Tatrach również znajdują się dobrze przygotowane ośrodki narciarskie, zatem wystarczy wynająć w \u003ca href=\"/polska/tatry/zakopane/?sorting=desclastbookday\" target=\"_blank\"\u003edom na narty w Zakopanem\u003c/a\u003e albo \u003ca href=\"/polska/tatry/bukowina-czarna-gora/?sorting=desclastbookday\" target=\"_blank\"\u003eBukownie Tatrzańskiej\u003c/a\u003e. \u003c/p\u003e\u003ch3 align=\"justify\"\u003e3. Zimowy urlop w Bieszczadach\u003c/h3\u003e\u003cp align=\"justify\"\u003eDzika przyroda, spokój i cisza, jakich trudno zaznać gdzie indziej, czekają na turystów \u003ca href=\"/polska/bieszczady/?sorting=desclastbookday\" target=\"_blank\"\u003ew kwaterach w Bieszczadach\u003c/a\u003e. W okresie ferii zimowych można poznać tę malowniczą krainę z zupełnie innej strony. W odkrywaniu jej przyrody pomagają wycieczki z rakietami śnieżnymi. Zdecydowanie ułatwiają pokonywanie wysokich zasp śniegu. Na terenie Bieszczad jest dobrze zorganizowana infrastruktura narciarska. Można skorzystać z wyciągów w Arłamowie, Kalnicy, Karlikowie, czy Lawrocie. Na tym obszarze jest też przygotowanych wiele tras dla narciarzy biegowych. Dużym zainteresowaniem w ostatnim czasie cieszą się także wyścigi psich zaprzęgów. \u003c/p\u003e\u003ch3 align=\"justify\"\u003e4. Wyjazd na Mazury zimą\u003c/h3\u003e\u003cp align=\"justify\"\u003eGdy Krainę Wielkich Jezior skuwa lód i pokrywa warstwa śniegu, nie traci na swojej atrakcyjności. \u003ca href=\"/polska/mazury/?sorting=descLastBookDay\" target=\"_blank\"\u003eZimowy wyjazd na Mazury\u003c/a\u003e zyskuje na popularności, głównie z uwagi na rosnącą liczbę regionalnych atrakcji. Wiele lokalnych firm, jak też gospodarstw agroturystycznych oferuje możliwość przejażdżki skuterami śnieżnymi, a popularność zyskują także bojery – czyli żeglarstwo lodowe, czy snowskiting. Na Mazurach panują również doskonałe warunki do uprawiania wędkarstwa podlodowego.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Wynajem domu wakacyjnego z zachowaniem wszelkich zasad bezpieczeństwa!",
+                    "link": {
+                        "href": "/o-nas/bezpieczenstwo-w-domu-wakacyjnym/",
+                        "label": "Więcej informacji"
+                    },
+                    "car": "Własny dojazd",
+                    "cleaning": "Kontrola czystości",
+                    "independence": "Swoboda i niezależność",
+                    "key": "Odbiór kluczy z zachowaniem zasad bezpieczeństwa",
+                    "privacy": "Prywatność w domu wakacyjnym",
+                    "support": "Pomoc na miejscu"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Tylko wybrane i sprawdzone oferty ",
+                            "subtitle": "Jakość jest naszym najwyższym priorytetem",
+                            "caption": "Każda nasza oferta jest sprawdzana przez pracowników biur lokalnych, by zagwarantować najwyższy standard i udany urlop. "
+                        },
+                        {
+                            "title": "Gwarantowana dostępność i serwis na miejscu",
+                            "subtitle": "Skorzystaj z naszego doświadczenia ",
+                            "caption": "Wszędzie tam, gdzie znajdują się nasze biura lokalne, odbiór kluczy odbywa się za pośrednictwem naszych pracowników, którzy czekają, by udzielić dodatkowych informacji, polecić najlepszą restaurację czy podzielić się swoim doświadczeniem.  "
+                        },
+                        {
+                            "title": "Niezapomniane wakacje",
+                            "subtitle": "Prywatność i swoboda gwarantowane",
+                            "caption": "Interhome to urlop na własnych zasadach. Żadnych zbiórek i stałych godzin posiłków, w naszych domach i apartamentach wakacyjnych macie nie tylko pełną swobodę, lecz również mnóstwo miejsca dla całej rodziny i przyjaciół. "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Dlaczego Interhome? ",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003ePonieważ od 1965 roku realizujemy marzenia o idealnych wakacjach. Przemawia za nami szwajcarska jakość, przejrzysty system gwiazdek i doskonałe opinie od zadowolonych klientów. Rezerwując dom lub apartament wakacyjny z własnym dojazdem w jednym z 27 krajów z oferty Interhome można odkryć najpiękniejsze turystyczne zakątki. Z nami wyruszycie na rodzinne wakacje do Chorwacji i na Sylwestra w Zakopanem. Rozkoszujcie się więc wakacjami we Włoszech, wybierzcie się z nami na urlop w apartamencie we Francji lub spędźcie wymarzone wczasy z dojazdem własnym w willi w Hiszpanii. Odkrywajcie nowe smaki, obserwujcie podobieństwa i różnice kulturowe. Warto dać się zainspirować, wybrać idealną dla siebie ofertę i zarezerwować ją bez problemu online na stronie Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Swoboda, prywatność i komfort",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eOferujemy sprawdzone, komfortowe mieszkania w miastach Europy na city-break, na rodzinne wakacje nad morzem, domy z prywatnym basenem, domki w górach na narty w Alpach i noclegi nad jeziorami. Zalet takiego indywidualnie zorganizowanego wypoczynku jest wiele. Największą jest jednak niczym nieograniczona swoboda. Żadnych terminów i ściśle wyznaczonych godzin. W pełni wyposażonej kuchni do indywidualnego użytku można swobodnie przygotować posiłki dla wszystkich towarzyszy wyjazdu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

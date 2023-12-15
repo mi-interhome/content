@@ -1,0 +1,167 @@
+{
+    "id": "25033",
+    "name": "FI - holidayoffers",
+    "path": "pages/landingsite/pages/fi-holidayoffers/fi-FI.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/fi-holidayoffers",
+    "slug": "fi-holidayoffers",
+    "locale": "fi-FI",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "fi-holidayoffers"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.fi/pages/omatoimilomat/",
+            "title": "Suunnittele itsesi näköinen loma | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/FI - holidayoffers/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/omatoimilomat/",
+                            "label": "Suunnittele itsesi näköinen loma"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Suunnittele itsesi näköinen loma",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eRakenna toiveittesi loma, juuri sinne minne haluat! Vuokraa oma mukava huoneisto, talo tai huvila, saat reilusti tilaa koko perheelle. Varaa itse edulliset lennot ja vuokra-auto. Tee aurinkomatka Espanjaan, teemamatka Italiaan tai laskettelumatka Alpeille. Interhomen omatoimimatka antaa aina enemmän ja teet sen valmismatkaa selvästi edullisemmin. Vertaa hintaa ja laatua!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/italy_it5187.450.1/1410948-1-fin-FI/Italy_IT5187.450.1.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"25043\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cem\u003eHuvilaloma Italiassa - Toscana Lucca-Pisa\u003c/em\u003e\u003cbr\u003e\u003cstrong\u003eOmatoimimatka neljälle, 557 €/henkilö\u003c/strong\u003e\u003cbr\u003eLucca, Toscana Lucca-Pisa 17.-24.8.2019\u003cbr\u003e- 3 huoneen huvila***, 120m2, \u003ca href=\"/italia/lucca-pisa-ja-maaseutu/lucca/lomatalo-luana-it5187.450.1/%20\"\u003e\u003cu\u003eIT5187.450.1\u003c/u\u003e\u003c/a\u003e 1584,-\u003cbr\u003e- suorat lennot Hki-Pisa-Hki, yht. 4 aikuista 472,-\u003cbr\u003e- vuokra-auto viikoksi 170,-\u003cbr\u003e\u003cstrong\u003eHinta yhteensä viidelle 2226 €, eli 557€/henkilö\u003c/strong\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/es9469.229.1/1410958-1-fin-FI/ES9469.229.1.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"25045\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cem\u003eYlellinen rantaloma Espanjassa - Costa Brava\u003c/em\u003e\u003cbr\u003e\u003cstrong\u003eOmatoimimatka neljälle, 432 €/henkilö\u003c/strong\u003e\u003cbr\u003eLloret de Mar, Costa Brava 5.-12.9.2019\u003cbr\u003e- 3 huoneen huoneisto****, \u003ca href=\"/espanja/costa-brava/lloret-de-mar/lomahuoneisto-fenals-beach-es9469.229.1/\"\u003e\u003cu\u003eES9469.229.1\u003c/u\u003e\u003c/a\u003e 1110,-\u003cbr\u003e- suorat lennot Hki-Barcelona-Hki, yht. 4 aikuista 616,-\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHinta yhteensä neljälle 1726 €, eli 432€/henkilö\u003c/strong\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/hr4910.314.2/1410953-1-fin-FI/HR4910.314.2.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"25044\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cem\u003eRantaloma Kroatiassa - Keski-Dalmatia\u003c/em\u003e\u003cbr\u003e\u003cstrong\u003eOmatoimimatka neljälle, 231 €/henkilö\u003c/strong\u003e\u003cbr\u003eTrogir, Okrug-Gornji, Keski-Dalmatia 20.-27.8.2019\u003cbr\u003e- 2 huoneen huoneisto**** 57m2, \u003ca href=\"/kroatia/keski-dalmatia/trogir-okrug-gornji/lomahuoneisto-villa-nikaroni-hr4910.314.2/\"\u003e\u003cu\u003eHR4910.314.2 \u003c/u\u003e\u003c/a\u003e 519,-\u003cbr\u003e- suorat lennot Hki-Split-Hki, yht. 4 aikuista 405,-\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHinta yhteensä neljälle 924€, eli 231€/henkilö\u003c/strong\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/es9725.202.1/1410968-1-fin-FI/ES9725.202.1.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"25047\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cem\u003eHuvilaloma Espanjassa - Costa Blanca\u003c/em\u003e\u003cbr\u003e\u003cstrong\u003eOmatoimimatka  neljälle, 414 €/henkilö\u003c/strong\u003e\u003cbr\u003ePego, Costa Blanca, Espanja 28.8. –4.9.2019\u003cbr\u003e- 3 h huvila****, \u003ca href=\"/espanja/costa-blanca/pego/lomatalo-casita-del-sol-es9725.202.1/\"\u003e\u003cu\u003eES9725.202.1\u003c/u\u003e\u003c/a\u003e 998,-\u003cbr\u003e- suorat lennot Hki-Alicante-Hki, yht. 4 aikuista 545,-\u003cbr\u003e- vuokra-auto viikoksi 111,-\u003cbr\u003e\u003cstrong\u003eHinta yhteensä neljälle 1654 €, eli 414€/henkilö\u003c/strong\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/it5543.100.2/1410963-1-fin-FI/IT5543.100.2.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"25046\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cem\u003e\u003cem\u003eIhana loma Umbriassa - Assisi\u003c/em\u003e\u003c/em\u003e\u003cbr\u003e\u003cem\u003e\u003cstrong\u003eOmatoimimatka neljälle, 321 €/henkilö\u003c/strong\u003e\u003c/em\u003e\u003cbr\u003eAssisi, Umbria, Italia 7.8. – 14.8.2019\u003cbr\u003e- 4 huoneen lomahuoneisto***, 100 m2, \u003ca href=\"/italia/umbria/assisi/lomahuoneisto-fortunato-it5543.100.2/\"\u003e\u003cu\u003eIT5543.100.2 \u003c/u\u003e\u003c/a\u003e730,-\u003cbr\u003e- suorat lennot Hki-Rooma-Hki, yht. 403,-\u003cbr\u003e- vuokra-auto viikoksi 151,-\u003cbr\u003e\u003cstrong\u003eHinta yhteensä neljälle 1284 €, eli 321 €/henkilö\u003c/strong\u003e \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/fr8341.160.10/1410973-1-fin-FI/FR8341.160.10.jpg\" width=\"755\" height=\"566\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"25048\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e\u003cem\u003e\u003cem\u003eAurinkoloma Ranskan Rivieralla – Saint Cyr sur Mer\u003c/em\u003e\u003c/em\u003e\u003cbr\u003e\u003cstrong\u003eOmatoimimatka neljälle, 431 €/henkilö\u003c/strong\u003e\u003cbr\u003eCôte d’Azur, Ranska 17.8. – 24.8.2019\u003cbr\u003e- 3 huoneen huoneisto***, \u003ca href=\"/ranska/cote-d-azur/saint-cyr-sur-mer-la-madrague/lomahuoneisto-la-madrague-d-azur-fr8341.160.10/\"\u003e\u003cu\u003eFR8341.160.10\u003c/u\u003e\u003c/a\u003e 1188,-\u003cbr\u003e- suorat lennot Hki-Nizza-Hki, yht. 4 aikuista 430,-\u003cbr\u003e- vuokra-auto viikoksi 105,-\u003cbr\u003e\u003cstrong\u003eHinta yhteensä neljälle 1723€, eli 431 €/henkilö\u003c/strong\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eOmatoimimatkat ovat hintaesimerkkejä, joissa varaat itse haluamasi lennot ja vuokra-auton sekä Interhome –loma-asunnon. Kaikki hintatiedot sitoumuksetta. Lentojen/vuokra-autojen hintatiedot tarkistettu 11.1.2019.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkeintä",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen - vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

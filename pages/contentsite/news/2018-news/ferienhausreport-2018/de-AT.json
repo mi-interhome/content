@@ -1,0 +1,158 @@
+{
+    "id": "19300",
+    "name": "Ferienhausreport 2018",
+    "path": "pages/contentsite/news/2018-news/ferienhausreport-2018/de-AT.json",
+    "folder": "pages",
+    "full_slug": "contentsite/news/2018-news/ferienhausreport-2018",
+    "slug": "ferienhausreport-2018",
+    "locale": "de-AT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "news",
+        "2018-news",
+        "ferienhausreport-2018"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.at/news/2018/20180424-ferienhausreport-2018/",
+            "title": "Interhome Ferienhausreport 2018: 60% der Österreicher buchen Winterurlaub im eigenen Land  | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/news/2018-news/Ferienhausreport 2018/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/news/",
+                            "label": "News"
+                        },
+                        {
+                            "href": "/news/2018/",
+                            "label": "Medienmitteilungen 2018"
+                        },
+                        {
+                            "href": "/news/2018/20180424-ferienhausreport-2018/",
+                            "label": "Interhome Ferienhausreport 2018: 60% der Österreicher buchen Winterurlaub im eigenen Land "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Interhome Ferienhausreport 2018: 60% der Österreicher buchen Winterurlaub im eigenen Land ",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eAufgrund der hervorragenden Schneeverhältnisse haben dieses Jahr 60% der Österreicher ihren Winterurlaub im eigenen Land verbracht. Dies zeigt unter anderem der aktuelle Ferienhausreport von Interhome. Weiter stellt Interhome fest, dass Gäste, welche mit einem Haustier verreisen, Kroatien und Österreich bevorzugen.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDer Schweizer Ferienhausspezialist Interhome zieht eine äusserst positive Bilanz der vergangenen Wintersaison (1. November 2017 bis 30. April 2018). Österreich als Urlaubsdestination war für die heimischen Gäste noch beliebter als im Vorjahr. \"Dies ist insbesondere auf den frühen Wintereinbruch und die kontinuierlichen Schneefälle zurückzuführen\", sagt Erich Mayregger, Country Manager Interhome Österreich. Insgesamt konnte der Ferienhausvermittler verglichen zum Vorjahr gut 12% mehr Buchungen von österreichischen Gästen verzeichnen. \"Ebenfalls sehr erfreulich ist die neuerliche Zunahme der Gäste aus Deutschland und Tschechien mit einem gemeinsamen Anteil von 48%\", ergänzt Erich Mayregger.\u003c/p\u003e\u003cp\u003eDie bevorstehende Sommersaison zeigt bei Interhome folgendes Bild: Spitzendestinationen bei den österreichischen Gästen bleiben Kroatien, Italien und Österreich. Besonders beliebte Regionen sind hier Istrien, die Toskana und Tirol. Speziell Urlauber aus Deutschland entdecken wieder die Sommerfrische in Österreich, was eine Zunahme von 17% eindrucksvoll belegt.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMit dem Haustier in die Ferienwohnung\u003c/strong\u003e\u003cbr\u003eIn knapp 13.000 Ferienhäusern und Wohnungen von Interhome sind Haustiere (meist Hund oder Katze) willkommen. \"Interhome-Gäste wollen ihren Vierbeiner mit in den Urlaub nehmen, gerne in ein Ferienhaus mit Garten. Auch hier ist Kroatien als Urlaubsland bei den Haustierbesitzern aus Österreich Spitzenreiter\", sagt Erich Mayregger. Weiter zeigt die Statistik, dass gut die Hälfte der Haustierbesitzer für ihren Urlaub mit dem Vierbeiner eine 3-Sterne-Ferienwohnung wählen und 53% aller Gäste mit Haustieren rund eine Woche in der Ferienwohnung bleiben. Die Destination Österreich profitiert auch bei Haustierbesitzern von den deutschen Gästen, die fast 57% ausmachen.\u003c/p\u003e\u003ch3\u003eRückblick Österreich – Winter 2017/2018\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eTirol baut Vorsprung aus\u003c/strong\u003e\u003cbr\u003e60% der österreichischen Interhome-Gäste (Vorjahr: 53%) haben im Winter 2017/2018 ihren Urlaub in einem Ferienhaus in der Heimat verbracht. Die beliebteste Region war dabei Tirol, gefolgt vom Salzburger Land und der Steiermark. Nicht zu vernachlässigen ist hier der Städteurlaub nach Wien zum Beispiel zum Christkindlmarkt.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAufenthaltsdauer bleibt konstant\u003c/strong\u003e\u003cbr\u003eFür den Winter 2017/2018 stellt man eine gleichbleibende Dauer fest: 1-wöchige Aufenthalte in den Hauptferien (46%) und Kurzaufenthalte bis 4 Nächte (44%) machen den Löwenanteil aus.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInternationale Gäste zieht's nach Österreich\u003c/strong\u003e\u003cbr\u003eÖsterreich als Winter-Destination gewann bei allen Interhome-Gästen an Beliebtheit. So haben 17% der Interhome-Gäste ihren Skiurlaub in Österreich (3. Rang) verbracht. Dabei führen deutsche Urlauber (42%) vor den Niederländern (14%), Polen (10%) und Tschechen (6%).\u003c/p\u003e\u003ch3\u003eAusblick Österreich – Sommer 2018\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eIstrien als Top-Region\u003c/strong\u003e\u003cbr\u003eKroatien gilt bei österreichischen Interhome-Gästen auch diesen Sommer als Top-Destination. Erste Tendenzen zeigen, dass rund 46% während der wärmeren Monate ihren Urlaub in Kroatien verbringen werden. Typischerweise ist Istrien dabei die beliebteste Region. Italien ist mit +17% wieder im Vormarsch.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAufenthaltsdauer bleibt konstant\u003c/strong\u003e\u003cbr\u003e51% der österreichischen Interhome-Gäste verbringen ihren Sommerurlaub für 5 bis 7 Nächte in einer Ferienunterkunft. 24% planen während der Sommersaison eine längere Auszeit zwischen 8 bis 14 Tagen. Internationale Gäste legen nach Italien zu Die internationalen Interhome-Gäste reisen auch im Sommer gerne nach Österreich. So liegt Österreich im Sommer mit +17% auf Rang 7. Tendenzen zeigen, dass deutsche Gäste vermehrt nach Österreich reisen (+18%). Spitzenreiter aller Interhome-Buchungen für den Sommer 2018 sind Frankreich, Italien, Spanien und Kroatien.\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/1010200-ger-AT/2018-04-24_AT_Interhome_Ferienhausreport_2018_Medienmitteilung.pdf\"\u003ePressebericht Ferienhausreport 2018 herunterladen\u003c/a\u003e\u003cbr\u003e\u0026gt;\u0026gt; \u003ca href=\"https://images.interhome.group/ezcms/original/1010205-ger-AT/2018-04-24_AT_Interhome_Ferienhausreport_2018.pdf\"\u003eDen kompletten Ferienhausreport 2018 herunterladen\u003c/a\u003e\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

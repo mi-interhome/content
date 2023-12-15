@@ -1,0 +1,144 @@
+{
+    "id": "37648",
+    "name": "drumnadrochit-gb070",
+    "path": "pages/officesite/united-kingdom/drumnadrochit-gb070/fi-EE.json",
+    "folder": "pages",
+    "full_slug": "officesite/united-kingdom/drumnadrochit-gb070",
+    "slug": "drumnadrochit-gb070",
+    "locale": "fi-EE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "officesite",
+        "united-kingdom",
+        "drumnadrochit-gb070"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ee/fi/henkiloekohtainen-palvelu/interhome-drumnadrochit-gb070/",
+            "title": "Paikallinen Interhome-toimisto: Drumnadrochit",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/officesite/United Kingdom/drumnadrochit-gb070",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "height": 600,
+                            "src": "https://images.interhome.group/ezcms/interhome/features/hero-images/heroimage-on-startpage/2254139-33-eng-XX/Heroimage-on-startpage.jpg",
+                            "width": 1440
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fi/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fi/henkiloekohtainen-palvelu/",
+                            "label": "Paikallistoimistot"
+                        },
+                        {
+                            "href": "/fi/henkiloekohtainen-palvelu/interhome-drumnadrochit-gb070/",
+                            "label": "Local Interhome office: Drumnadrochit"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Paikallinen Interhome-toimisto: Drumnadrochit",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/fi/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkein prioriteetti.",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/fi/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/fi/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/fi/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/fi/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/fi/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/fi/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/fi/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/fi/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/fi/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/fi/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen – vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

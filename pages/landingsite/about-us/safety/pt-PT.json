@@ -1,0 +1,149 @@
+{
+    "id": "37014",
+    "name": "safety",
+    "path": "pages/landingsite/about-us/safety/pt-PT.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/safety",
+    "slug": "safety",
+    "locale": "pt-PT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "safety"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.pt/sobre-a-interhome/seguranca-no-seu-alojamento-de-ferias/",
+            "title": "Segurança no seu alojamento de férias!",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/safety/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_safety_2020/1993578-1-eng-XX/Header_1200x410_IH_safety_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/",
+                            "label": "Sobre a Interhome"
+                        },
+                        {
+                            "href": "/sobre-a-interhome/seguranca-no-seu-alojamento-de-ferias/",
+                            "label": "Segurança completa no seu alojamento de férias"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Segurança completa no seu alojamento de férias",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eA sua saúde é importante para nós!\u003c/h4\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/36476/1954019-1-eng-XX/Corona_Safety_Landingpage_Icon_125x125px.jpg\" width=\"125\" height=\"125\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"left\" data-id=\"37202\" data-type=\"image\" data-content=\"\"\u003e\u003cp align=\"LEFT\"\u003eA saúde dos nossos hóspedes, bem como dos nossos anfitriões e colaboradores, é a nossa principal prioridade. Estamos em constante contacto com os proprietários e os colegas dos escritórios locais para garantir que as normas de segurança e higiene são implementadas e, se necessário, para os ajudar a adaptarem-se aos novos regulamentos. Agradecemos a sua colaboração na implementação das respetivas normas de segurança e higiene. Juntos, vamos conseguir gerir esta situação excecional.\u003cbr\u003ePara a segurança de todos e para garantir uma estadia tranquila nos nossos alojamentos de férias.\u003c/p\u003e\u003cp align=\"LEFT\"\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1955388-por-PT/Ferias_com_seguranca.pdf\" target=\"_blank\"\u003e\u0026gt;\u0026gt; Medidas de segurança e higiene para o seu alojamento de férias\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"/inspiracoes/\"\u003e\u0026gt;\u0026gt; Inspire-se com as nossas ideias de férias\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Segurança no seu alojamento de férias!",
+                    "link": {
+                        "href": "/sobre-a-interhome/seguranca-no-seu-alojamento-de-ferias/",
+                        "label": "Mais informações"
+                    },
+                    "car": "Chegadas individuais",
+                    "cleaning": "Limpeza de qualidade controlada",
+                    "independence": "Liberdade e independência",
+                    "key": "Entrega segura das chaves no local",
+                    "privacy": "Privacidade no seu alojamento de férias",
+                    "support": "Assistência pessoal no local"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Apenas alojamento selecionado e testado",
+                            "subtitle": "A qualidade é a nossa principal prioridade ",
+                            "caption": "Todas as propriedades são verificadas antes da sua chegada, de forma a garantir a melhor estadia possível."
+                        },
+                        {
+                            "title": "Disponibilidade garantida e serviço no local",
+                            "subtitle": "Aproveite ao máximo a nossa experiência",
+                            "caption": "A entrega das chaves é organizada pela nossa atenta equipa. Disponível 24 horas por dia, 7 dias por semana, e nos nossos serviços locais, para ajudar a solucionar todas as suas questões, como por exemplo: conselhos e informações sobre o seu destino de férias e sobre o alojamento reservado."
+                        },
+                        {
+                            "title": "Uma experiência de férias inesquecível",
+                            "subtitle": "Privacidade e liberdade no seu próprio alojamento de férias",
+                            "caption": "Seja o seu próprio chefe, sem horários para comer e com as suas próprias regras, aproveite ao máximo o espaço com todos os seus amigos e familiares."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por quê a Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca foi tão fácil organizar as suas férias perfeitas. Quer explorar novos destinos? Não há melhor maneira de fazê-lo do que numa casa de férias: aproveite a \"dolce vita\" em \u003ca href=\"/italy/\"\u003eItália\u003c/a\u003e, sinta o charme da vida na \u003ca href=\"/france/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e ou o \u003ca href=\"/spain/\"\u003eestilo de vida espanhol\u003c/a\u003e. Inspire-se nas nossas \u003ca href=\"\"\u003eideias de viagens\u003c/a\u003e e faça a sua reserva on-line - de forma rápida, fácil e segura com a Interhome. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberdade, privacidade e espaço na sua casa de férias",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA sua estadia numa moradia ou num apartamento de férias está repleta de vantagens: use o seu tempo exatamente como quiser. Sem perturbações de outros hóspedes ou de colaboradores do hotel, apenas aproveite as suas férias de acordo com as suas próprias regras. Tanto se procura uma \u003ca href=\"/\"\u003eviagem à cidade\u003c/a\u003e, como umas \u003ca href=\"/\"\u003eférias relaxantes com a família\u003c/a\u003e ou amigos. Aproveite o espaço, flexibilidade e liberdade na sua casa de férias. \u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

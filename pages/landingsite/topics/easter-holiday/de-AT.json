@@ -1,0 +1,182 @@
+{
+    "id": "18394",
+    "name": "easter-holiday",
+    "path": "pages/landingsite/topics/easter-holiday/de-AT.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/easter-holiday",
+    "slug": "easter-holiday",
+    "locale": "de-AT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "easter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.at/urlaubsideen/osterferien/",
+            "title": "Osterferien im Ferienhaus | Interhome",
+            "description": "Verbringen Sie einen unvergesslichen Osterurlaub in einer gemütlichen Interhome Ferienwohnung oder einem großen Ferienhaus für die ganze Familie.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/easter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienwohnung zu Ostern ",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_easter-holidays/980241-1-ger-XX/Header_1400x480_easter-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Sichere, schöne Urlaubstage - entdecken Sie unsere Urlaubsideen"
+                        },
+                        {
+                            "href": "/urlaubsideen/osterferien/",
+                            "label": "Ferienwohnung für den Osterurlaub buchen"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Ferienwohnung für den Osterurlaub buchen",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eOstern geniessen und entspannen\u003c/h3\u003e\u003cp\u003eOb nur die freien Feiertage oder ausgedehnte Ferien über Ostern – geniessen Sie den Frühlingsanfang im eigenen Ferienhaus.\u003c/p\u003e\u003cp\u003eFarbenfrohe Blumenfelder, wärmende Frühjahrs-Sonnenstrahlen und eine gemütliche, preiswerte Ferienwohnung für den Urlaub zu zweit oder ein geräumiges Ferienhaus für die ganze Familie – was braucht man mehr, um zu Ostern so richtig schön zu entspannen?\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"#traumziele\"\u003eTraumziele zu Ostern\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003eFamilienurlaub im Ferienhaus verbringen\u003c/h3\u003e\u003cp\u003eGeniessen Sie lieber die Natur bei einer ausgedehnten Wanderung in den Bergen oder freuen Sie sich schon im Winter auf Ihren nächsten Badeurlaub am See oder am Meer? Möchten Sie Ihren Partner mit einem romantischen Urlaub in einer Ferienwohnung überraschen? Oder wünschen Sie sich zu Ostern einen erlebnisreichen Familienurlaub in einem grossen Ferienhaus? Egal wo und mit wem Sie Ihren Osterurlaub am liebsten verbringen möchten, die passende Unterkunft zum Sparpreis finden Sie bei Interhome.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Filtern Sie unser riesiges Angebot nach Ihrem Geschmack:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eBuchen Sie für Ihre Osterferien eine idyllische Ferienwohnung mit Meerblick, eine urgemütliche Hütte in den Bergen oder ein Ferienhaus mit vielen Schlafzimmern und genügend Platz für die ganze Grossfamilie. Bei uns finden Sie eine passende Unterkunft ganz nach Ihren Wünschen.\u003c/p\u003e\u003cp\u003e   \u003ca id=\"traumziele\"\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Heading",
+                "content": {
+                    "title": "Viele Traumziele für Ihre Osterferien",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eOstern in Italien\u003c/h4\u003e\u003cp\u003eOb Gardasee, Adria, Toskana, Venedig oder Florenz: Italien beeindruckt durch seine einzigartige Kultur, historischen Bauwerke und kulinarischen Highlights. Die perfekte Mischung aus dolce far niente und Abenteuer!\u003cbr\u003e\u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/italien/venetien/\"\u003eAdria/Venetien\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/italien/venetien/venedig/\"\u003eVenedig\u003c/a\u003e | \u003ca href=\"/italien/florenz-stadt-und-umgebung/florenz/\"\u003eFlorenz\u003c/a\u003e \u003c/p\u003e\u003ch4\u003eOsterurlaub in Frankreich\u003c/h4\u003e\u003cp\u003eWer seine Ostereier lieber in Frankreich suchen möchte, kann den Osterurlaub an der malerischen Côte d'Azur verbringen. Mehr als 150 Sandstrände und südfranzösische Lebensfreude inklusive! \u003cbr\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003eOsterferien in Österreich: Wandern und Wellnessen\u003c/h4\u003e\u003cp\u003eDie Osterferien bieten sich perfekt an, um die Regionen Österreichs abseits des Massenandrangs zu besuchen. Je nach Wetter, Lust und Laune kann man zu Ostern bereits wunderschöne Wanderungen planen: im Salzkammergut, Gasteinertal, Lungau, in Tirol, Kärnten, Vorarlberg oder der Steiermark. Lassen Sie sich von den blühenden Frühlingslandschaften verzaubern und geniessen Sie die kulinarischen Köstlichkeiten der jeweiligen Region. Und danach geht’s ab in die oft hauseigene Sauna oder die Wellnessanlage vor Ort. Egal, welche Art von Urlaub Ihnen vorschwebt, in Österreich finden Sie ganz sicher einen paradiesischen Ort ganz nach Ihrem Geschmack... und bei Interhome die passende Ferienwohnung dazu. Wer es noch geräumiger mag, kann für die Osterferien in Österreich auch ein ganzes Ferienhaus mieten und es sich so richtig schön gemütlich machen. \u003cbr\u003e\u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/oesterreich/salzburger-land/\"\u003eSalzburger Land\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/oesterreich/kaernten/\"\u003eKärnten\u003c/a\u003e | \u003ca href=\"/oesterreich/vorarlberg/\"\u003eVorarlberg\u003c/a\u003e | \u003ca href=\"/oesterreich/steiermark/\"\u003eSteiermark\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003eOsterferien in Spanien\u003c/h4\u003e\u003cp\u003e¡Felices Pascuas! Spanien hat mindestens genauso viele schöne Urlaubziele zu bieten wie Österreich, Frankreich oder Italien. Lassen Sie es sich bei einem Osterurlaub auf Mallorca gut gehen. Mitte April kann man hier in der Regel bereits bei warmen Temperaturen im Meer baden. Ideal zum Toben für die Kinder, aber auch zum Entspannen in einsamen Buchten, zum Wandern oder zum Feiern. Auch die Costa Blanca an der Ostküste Spaniens ist ein tolles Reiseziel für die Osterferien. \u003cbr\u003e\u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/spanien/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003eStädtereise in den Osterferien\u003c/h4\u003e\u003cp\u003eFür all diejenigen, die ihren Jahresurlaub lieber im Sommer planen, aber dennoch über Ostern ein paar Tage verreisen möchten, lohnt sich ein \u003ca href=\"\"\u003eStädtetrip\u003c/a\u003e in eine spannende Metropole. Verbringen Sie Ihre Osterferien in Prag, Paris, Rom, Wien oder einer anderen europäischen Grossstadt. Bei Interhome entdecken Sie das passende Ferienapartment für Ihren Aufenthalt.\u003cbr\u003e\u003ca href=\"\"\u003ePrag\u003c/a\u003e | \u003ca href=\"\"\u003eParis\u003c/a\u003e | \u003ca href=\"\"\u003eRom\u003c/a\u003e | \u003ca href=\"\"\u003eWien\u003c/a\u003e   \u003c/p\u003e\u003ch4\u003eLastMinute Osterurlaub\u003c/h4\u003e\u003cp\u003eOstern naht und Sie haben noch keine Unterkunft für Ihren Osterurlaub gefunden? Dann schauen Sie bei unseren \u003ca href=\"\"\u003eLast Minute Angeboten\u003c/a\u003e vorbei. Auf viele Ferienhäuser und Ferienwohnungen bekommen Kurzentschlossene sogar satte Rabatte von bis zu 33 Prozent! Wer also spontan alleine, zu zweit oder mit der ganzen Familie verreisen möchte, wird bei uns ganz sicher fündig und spart noch dazu bares Geld.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

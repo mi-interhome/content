@@ -1,0 +1,153 @@
+{
+    "id": "37438",
+    "name": "travel-insurance",
+    "path": "pages/contentsite/myrent/travel-insurance/cs-CZ.json",
+    "folder": "pages",
+    "full_slug": "contentsite/myrent/travel-insurance",
+    "slug": "travel-insurance",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "myrent",
+        "travel-insurance"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.cz/myrent/cestovni-pojisteni/",
+            "title": "Cestovní pojištění",
+            "description": "Chceme, abyste na dovolenou měli jen ty nejlepší vzpomínky. Storno pojištění pro případ odstoupení od smlouvy je již zahrnuto v ceně.",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/myrent/travel-insurance/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/myrent/",
+                            "label": "Myrent legal pages"
+                        },
+                        {
+                            "href": "/myrent/cestovni-pojisteni/",
+                            "label": "Cestovní pojištění"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Cestovní pojištění",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eChceme, abyste na dovolenou měli jen ty nejlepší vzpomínky, a proto pro Vás máme připraveno ERV Storno pojištění pro případ odstoupení od smlouvy. Doporučujeme uzavřít doplňkové ERV Cestovní pojištění a tím zlepšit své pojistné krytí.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003ePojištění před cestou: ERV Storno pojištění\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eStorno pojištění ze zdravotních důvodů je již \u003cstrong\u003ezahrnuto v nájemní ceně.\u003c/strong\u003e V každém škodním případě činí spoluúčast 20 % škody způsobilé k náhradě. Více informací v \u003ca href=\"https://images.interhome.group/ezcms/original/1021140-cze-CZ/ERV_AVB_storno-pojisteni_CZ.pdf\" target=\"_blank\"\u003ePojistných podmínkách ERV Storno pojištění.\u003c/a\u003e\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003ePojištění během cesty: ERV Cestovní pojištění\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eOptimalizujte svou pojistnou ochranu:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eúhrada nevyužitých cestovních služeb a dodatečných cestovních nákladů v případě zrušení\u003c/li\u003e\n\u003cli\u003eúhrada lékařské péče po celém světě\u003c/li\u003e\n\u003cli\u003eúhrada nákladů za vyhledání, záchranu a zotavení\u003c/li\u003e\n\u003cli\u003ezajištění a úhrada ambulance a přepravy zavazadel\u003c/li\u003e\n\u003cli\u003epojištění zavazadel\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePojistné na rezervaci: 1 000,- Kč\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDoporučujeme zvážit uzavření ERV Cestovního pojištění s ohledem na využití dodatečného krytí a dalších služeb. Detailní informace naleznete v \u003ca href=\"https://images.interhome.group/ezcms/original/1021220-cze-CZ/ERV_AVB_cestovni-pojisteni_CZ.pdf\" target=\"_blank\"\u003ePojistných podmínkách ERV Cestovního pojištění.\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eRezervace\u003c/h4\u003e\u003cp\u003eERV Storno pojištění je již zahrnuto v nájemní ceně rezervace. ERV Cestovní pojištění můžete přidat k rezervaci přímo během rezervačního procesu. Pokud jste si již dovolenou rezervovali, můžete si \u003cstrong\u003eobjednat ERV Cestovní pojištění dodatečně až do dne Vašeho odjezdu. Kontaktujte nás telefonicky na naší servisní infolince 222 323 323.\u003c/strong\u003e\u003c/p\u003e\u003ch4\u003eFormuláře pro škodní události (pro objednávky od 01.01.2018)\u003c/h4\u003e\u003cp\u003eV případě storno pojištění ze zdravotních důvodů, ztráty zavazadla nebo škodní události prosím vyplňte vhodný formulář za účelem uplatnění nároku od pojistitele:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699575-cze-CZ/Hl%C3%A1%C5%A1en%C3%AD%20%C5%A1kody%20n%C3%A1klady%20na%20l%C3%A9ka%C5%99e%20a%20nemocnici%20NEMOC.pdf\" target=\"_blank\"\u003eNáklady na lékaře a nemocnici NEMOC\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699550-cze-CZ/Hl%C3%A1%C5%A1en%C3%AD%20%C5%A1kody%20n%C3%A1klady%20na%20l%C3%A9ka%C5%99e%20a%20nemocnici%20NEHODA.pdf\" target=\"_blank\"\u003eNáklady na lékaře a nemocnici NEHODA\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699627-cze-CZ/Hl%C3%A1%C5%A1en%C3%AD%20%C5%A1kody%20cestovn%C3%AD%20zavazadla%20%E2%80%93%20kr%C3%A1de%C5%BE%20-%20loupe%C5%BE%20-%20%C5%A1patn%C3%A9%20sm%C4%9Brov%C3%A1n%C3%AD.pdf\" target=\"_blank\"\u003eCestovní zavazadla – krádež / loupež / špatné směrování\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699710-cze-CZ/Hl%C3%A1%C5%A1en%C3%AD%20%C5%A1kody%20SOS%20zaji%C5%A1t%C4%9Bn%C3%AD%20pro%20nahodil%C3%A9%20ud%C3%A1losti%20b%C4%9Bhem%20cesty.pdf\" target=\"_blank\"\u003eSOS zajištění pro nahodilé události během cesty\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1699782-cze-CZ/ERV_Hlaseni-skody_Stornovaci-naklady_CZ.pdf\" target=\"_blank\"\u003eStornovací náklady\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e    \u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003e  \u003c/p\u003e\u003ch4\u003eFormuláře pro škodní události (pro objednávky do 31.12.2017)\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eAllianz storno pojištění:\u003c/strong\u003e • \u003ca href=\"https://images.interhome.group/ezcms/original/965069-cze-CZ/Claim%20advice_cancellation%20insurance_english.pdf\" target=\"_blank\"\u003eFormulář Allianz Storno pojištění\u003c/a\u003e a \u003ca href=\"https://images.interhome.group/ezcms/original/965054-cze-CZ/Doctors%20Report_cancellation%20insurance_english.pdf\" target=\"_blank\"\u003eLékařská zpráva – Storno pojištění\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAllianz Cestovní pojištění:\u003c/strong\u003e • \u003ca href=\"https://images.interhome.group/ezcms/original/965064-cze-CZ/Claim%20advice_baggage%20insurance_english.pdf\" target=\"_blank\"\u003eFormulář ztráta zavazadel\u003c/a\u003e • \u003ca href=\"https://images.interhome.group/ezcms/original/965059-cze-CZ/Claim%20advice_travel%20insurance_english.pdf\" target=\"_blank\"\u003eFormulář ASSISTANCE Cestovní pojištění\u003c/a\u003e (v případě škodní události během pobytu)\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

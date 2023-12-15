@@ -1,0 +1,148 @@
+{
+    "id": "10175",
+    "name": "travel-extras",
+    "path": "pages/contentsite/travel-extras/it-IT.json",
+    "folder": "pages",
+    "full_slug": "contentsite/travel-extras",
+    "slug": "travel-extras",
+    "locale": "it-IT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "travel-extras"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.it/vantaggi/",
+            "title": "Vantaggi esclusivi | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/travel-extras/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/vantaggi/",
+                            "label": "Vantaggi esclusivi"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Vantaggi esclusivi",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"travel extras\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eAssicurazione di viaggio \u003c/h3\u003e\n\u003cp\u003ePrenotando con Interhome, l’Assicurazione annullamento viaggio ERV è già compresa nel prezzo. Per ottimizzare la tua copertura assicurativa, ti consigliamo di sottoscrivere anche l’Assicurazione viaggio ERV.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/servizio-clienti/assicurazione-di-viaggio/\"\u003eAssicurazione viaggio ERV\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eNoleggio dell'attrezzatura sciistica con SKISET\u003c/h3\u003e\n\u003cp\u003eIn qualità di cliente Interhome puoi approfittare di imperdibili sconti.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/vantaggi/skiset/\"\u003ePer maggiori informazioni\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/partners/skiset/linkimage_320x118_skiset/999833-1-eng-XX/Linkimage_320x118_Skiset.jpg\" width=\"320\" height=\"118\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"19220\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nella tua casa vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "Privacy garantita",
+                    "support": "Assistenza in loco"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

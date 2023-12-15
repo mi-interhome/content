@@ -1,0 +1,188 @@
+{
+    "id": "42404",
+    "name": "voluntary-work",
+    "path": "pages/landingsite/about-us/sustainability/voluntary-work/fr-FR.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/voluntary-work",
+    "slug": "voluntary-work",
+    "locale": "fr-FR",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "voluntary-work"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.fr/a-propos-d-interhome/durabilite/travail-volontaire/",
+            "title": "Interhome | Travail volontaire",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/voluntary-work/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v1/2254286-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v1.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v2/2254281-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v2.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_06_september_2023_00007_florianmori_dji_0492-1_header_1200x410/2276347-1-eng-XX/Header_1200x410_06_September_2023_00007_FlorianMori_DJI_0492-1_Header_1200x410.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_sustainability-volunteers_v3/2254233-1-eng-XX/Header_1200x410_Sustainability-Volunteers_v3.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/a-propos-d-interhome/",
+                            "label": "A propos d'Interhome"
+                        },
+                        {
+                            "href": "/a-propos-d-interhome/durabilite/",
+                            "label": "Aimons la nature – la protection de la planète c’est l’affaire de tous !"
+                        },
+                        {
+                            "href": "/a-propos-d-interhome/durabilite/travail-volontaire/",
+                            "label": "Travail volontaire"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Travail volontaire",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eActualités\u003c/h3\u003e\u003ch3\u003e   \u003c/h3\u003e\u003ch4\u003e11 septembre 2023 : Dix collaborateurs-trices d’Interhome Group en provenance de six pays ont pris le train pour aller à Klagenfurt, en Autriche\u003c/h4\u003e\u003cp\u003eIls avaient pour mission de mieux comprendre la biodiversité et de participer à un travail bénévole.\u003c/p\u003e\u003cp\u003eDans le cadre de notre semaine dédiée à la biodiversité et à la durabilité en Carinthie, nous avons rendu visite à la famille Hribar qui vit dans les montagnes dominant le Trögener Kamm, pour en savoir plus sur la création de jardins en permaculture. Nous avons préparé le terrain et posé les bases de la plantation d’une nouvelle flore au printemps 2024.\u003c/p\u003e\u003cp\u003eLe lendemain, nous avons gravi la montagne pour planter 50 jeunes arbres. Nous avons choisi un assortiment de cinq espèces pour créer une forêt diversifiée et résistante au climat. De plus, nous avons érigé une clôture pour les protéger des intrusions de cerfs. Malgré la difficulté du relief qui nous a fait transpirer, nous avons savouré nos réussites et attendons avec impatience qu'elles prennent de l'ampleur.\u003c/p\u003e\u003cp\u003eNotre séjour en Carinthie a été une semaine inspirante d’éducation à la biodiversité et à la durabilité. Dix autres collègues nous rejoindront pour diffuser le message de la durabilité au sein du groupe Interhome après ce voyage, et nous espérons que beaucoup d'autres suivront.\u003c/p\u003e\u003cp\u003eDurant ce séjour, nous en avons profité pour visiter notre projet de protection des abeilles. Vous pouvez en savoir plus ici : \u003ca href=\"/a-propos-d-interhome/durabilite/beesark/\"\u003eSave the bee – save our earth! | Interhome\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"11.09.2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41621/2276332-1-eng-XX/Voluntary_2023_07_September_2023_00017_FlorianMori__DSC4242_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42654\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41620/2276327-1-eng-XX/Voluntary_2023_06_September_2023_00012_FlorianMori_DJI_0522-1_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42653\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41623/2276342-1-eng-XX/Voluntary_2023_07_September_2023_00085_FlorianMori__DSC5340-1_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42656\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch4\u003e20-21 juin 2023 : Les bénévoles d'Interhome Group découvrent le Parc Naturel dels Aiguamolls de l'Empordà en Espagne\u003c/h4\u003e\u003cp\u003eChez Interhome Group, nous avons récemment organisé une initiative volontaire au cours de laquelle nos collaborateurs ont passé deux jours dans le Parc Naturel dels Aiguamolls de l'Empordà, en Espagne. Ce parc exceptionnel a la particularité d'être la deuxième plus grande zone humide de Catalogne et d'être largement reconnu comme l'une des principales réserves naturelles de la région méditerranéenne, dotée d'une flore et d'une faune remarquables.\u003c/p\u003e\u003cp\u003eLe Parc Naturel des Aiguamolls de l'Empordà est connu pour ses zones humides, où vivent loutres, cigognes blanches et chevaux de Camargue. Il attire également les oiseaux migrateurs, ce qui en fait un paradis pour les ornithologues. Le parc propose des sentiers de randonnée et des pistes cyclables, ainsi que des plates-formes ornithologiques permettant d'observer la diversité de la population aviaire.\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41404/2254409-1-eng-XX/Sustainability_Content_picture_550x410_Team.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42415\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eAu cours de nos activités de volontariat, nous avons entrepris des projets significatifs pour soutenir les installations du parc. Nous avons aménagé un abri avec des tables et des bancs, conçu pour accueillir des programmes pour enfants, et avons également entretenu les tables pour assurer leur durabilité. En outre, nous avons consacré nos efforts au débroussaillage d'un sentier de randonnée et de cyclisme de 2 kilomètres, en enlevant les mauvaises herbes, les plantes non indigènes et les branches épineuses qui obstruaient le sentier. Ces tâches nous ont permis de contribuer activement aux efforts d'entretien et de conservation du parc. Parallèlement à ce travail, nous avons participé à une visite guidée du parc, ce qui nous a permis de mieux comprendre son importance écologique.\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"voluntary-work\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41403/2254404-1-eng-XX/Sustainability_Content_picture_550x410_Putting-up-tent.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42414\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41402/2254399-1-eng-XX/Sustainability_Content_picture_550x410_Pruning.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42413\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41401/2254394-1-eng-XX/Sustainability_Content_picture_550x410_Foreign-species.jpg.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42412\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003cp\u003eNous exprimons notre sincère gratitude aux membres du parc, à savoir Glòria, Sònia et Aleix, dont le soutien et la collaboration ont joué un rôle essentiel dans notre effort de volontariat. Notre engagement en faveur de la conservation et de la protection de l'environnement reste inébranlable. Nous sommes impatients de retourner au Parc Naturel dels Aiguamolls de l'Empordà et d'explorer d'autres parcs.\u003c/p\u003e\u003cp\u003eNos \u003ca href=\"/services-sur-place/\"\u003eagences locales\u003c/a\u003e d'\u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e et de \u003ca href=\"/espagne/costa-brava/roses/\"\u003eRosas\u003c/a\u003e sont situées à proximité du parc. C'est donc l'occasion pour nos clients de décourvrir la splendeur de la nature de ce lieu remarquable. Chez Interhome Group, nous croyons à la promotion des actions de volontariat durables et sommes fiers de pouvoir partager cette experience avec nos clients.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/a-propos-d-interhome/durabilite/\"\u003e\u0026gt;\u0026gt; En savoir plus sur d'autres projets de développement durables soutenus par Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre location de vacances !",
+                    "link": {
+                        "href": "/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre location vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome ?",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVoulez-vous découvrir de nouvelles destinations ? La meilleure solution est d’opter pour la location vacances. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des \u003ca href=\"https://fr.trustpilot.com/review/www.interhome.fr\"\u003eavis clients positifs\u003c/a\u003e. Faites-nous confiance et optez pour la location saisonnière en toute sécurité.\u003cbr\u003e\u003ca href=\"/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/cavalaire/\"\u003eCavalaire\u003c/a\u003e | \u003ca href=\"/france/charente-maritime/\"\u003eCharente Maritime\u003c/a\u003e | \u003ca href=\"/france/corse/\"\u003eCorse\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/france/normandie/deauville-trouville/\"\u003eDeauville-Trouville\u003c/a\u003e | \u003ca href=\"/espagne/costa-brava/empuriabrava/\"\u003eEmpuriabrava\u003c/a\u003e | \u003ca href=\"/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/france/finistere/\"\u003eFinistère\u003c/a\u003e | \u003ca href=\"/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/france/les-landes/\"\u003eLes Landes\u003c/a\u003e | \u003ca href=\"/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/france/morbihan/\"\u003eMorbihan\u003c/a\u003e | \u003ca href=\"/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/france/pays-basque/\"\u003ePays Basque\u003c/a\u003e | \u003ca href=\"/france/morbihan/quiberon/\"\u003eQuiberon\u003c/a\u003e | \u003ca href=\"/france/cote-d-azur/sainte-maxime/\"\u003eSainte-Maxime\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/\"\u003eSavoie - Haute Savoie\u003c/a\u003e | \u003ca href=\"/france/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Réservez dès maintenant votre location vacances.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

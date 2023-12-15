@@ -1,0 +1,153 @@
+{
+    "id": "10164",
+    "name": "company-profile",
+    "path": "pages/contentsite/about-us/company-profile/ru-RU.json",
+    "folder": "pages",
+    "full_slug": "contentsite/about-us/company-profile",
+    "slug": "company-profile",
+    "locale": "ru-RU",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "about-us",
+        "company-profile"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ru/о-компании-interhome/профиль-компании/",
+            "title": "Профиль компании | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/company-profile/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/о-компании-interhome/",
+                            "label": "О компании Interhome"
+                        },
+                        {
+                            "href": "/о-компании-interhome/профиль-компании/",
+                            "label": "Профиль компании"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Профиль компании",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch4\u003eСовет директоров\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eJörg Herrmann, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eSylvia Epaillard, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eThomas Buschta, Chief Financial Officer (CFO)\u003c/li\u003e\n\u003cli\u003eRoger Müller, Chief Procurement Officer (CPO)\u003c/li\u003e\n\u003cli\u003eMichael Figlestahler, Chief Revenue \u0026amp; Innovation Officer (CRIO)\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003eКорпоративная история Interhome\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003e1965\u003c/strong\u003e\u003cbr\u003eБруно Францен и Вернер Фрей, пионеры туризма в Швейцарии, основывают компанию Swiss Chalets\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1975-77\u003c/strong\u003e\u003cbr\u003eСлияние двух компаний и образование Swiss Chalets-Interhome: 105 сотрудников в 16 офисах компании.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1978\u003c/strong\u003e\u003cbr\u003eПереименование компании в Interhome\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1980\u003c/strong\u003e\u003cbr\u003eInterhome становится первой туристической компанией, которая вводит информационную систему, связывающую все агентства и позволяющую осуществлять бронирование.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1984\u003c/strong\u003e\u003cbr\u003eНовым логотипом компании становится малененькая птичка—символ свободы и отдыха. Все офисы Interhome используют одинаковый корпоративный стиль.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1986\u003c/strong\u003e\u003cbr\u003eброшюра компании издается тиражем 2 млн. экземпляров на 8 языках и распространяется в 12 странах.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1989\u003c/strong\u003e\u003cbr\u003eвторая по величине швейцарская туристическая компания Hotelplan, дочерняя компания Migros, приобретает Interhome AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1995\u003c/strong\u003e\u003cbr\u003eInterhome предлагает недвижимость в аренду в 11 странах, включая Германию, Чехию и Польшу (всего около 75.000 мест).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1998\u003c/strong\u003e\u003cbr\u003eInterhome становится одной из первых компаний, ‘вышедших в интернет.’ Клиенты получают возможность искать необходимую информацию и заказывать брошюры. Бронирование через интернет становится возможным уже в 1999.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2000\u003c/strong\u003e\u003cbr\u003eСистема бронирования Interhome объединяет 75 местных офисов и 30 компаний-партнеров, что позволяет еще более повысить качество обслуживания наших клиентов.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2003\u003c/strong\u003e\u003cbr\u003eInterhome переезжает в офис Hotelplan чтобы пользоваться преимуществами единой инфраструктуры.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e\u003cbr\u003eВ должность вступает Саймон Леман, новый директор Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e\u003cbr\u003eВнедрение новой системы 1to1 позволяет вывести обслуживание клиентов на новый уровень—становится возможным, например, создавать индивидуальную подборку недвижимости. Концепция компании: каждый клиент—наш гость.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e\u003cbr\u003eInterhome приобретает туристические компании Casa Club, France Villas и Solemar, что позволяет компании делать эксклюзивные предложения по отдыху в Провансе и Тоскане.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e\u003cbr\u003eДизайн сайта полностью изменен с целью сделать поиск недвижимости еще более простым и удобным. Кроме того, мы предлагаем Вашему вниманию еще больше интересной информации и ценных рекоммендаций.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e\u003cbr\u003eInterhome имеет представительства почти во всех Европейских странах, включая Россию и Хорватию. Установлены новые партнерские отношения с компаниями в Дании, Бельгии и Голландии.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2010\u003c/strong\u003e\u003cbr\u003eПолная реконструкция сайта, системы  поиска. Новые направления - Марокко  и  Египет ( Эль Гуна).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2011\u003c/strong\u003e\u003cbr\u003eВхождение в состав  компании немецкого лидера Interchalet - 2013. Новые направление - Израиль  и  Кипр.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2012\u003c/strong\u003e\u003cbr\u003eЭксклюзивное партнерство с TripAdvisor - крупнейшим сайтом для  путешественников\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2013\u003c/strong\u003e\u003cbr\u003eНовая онлайн система бронирования берет золото в номинации \"Usability\" и серебро в номинации “Business Efficiency” на конкурсе Best of Swiss Web Awards. Interhome так же становится победителем в Stiftung Warentest.\u003c/p\u003e\u003cp\u003eInterhome первый поставщик домов и апартаментов для отдыха в немецко-говорящем мире с приложением для iPad, который предоставляет легкий и обширный поиск. Приложение доступно так же на английскоми и французском языках.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003cbr\u003eКони Итэн становится новым главой компании Interhome. Под его руководством компания достигает высших результатов. \u003c/p\u003e\u003cp\u003eПоявляется новое направление - остров Маврикий.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003cbr\u003eInterhome празднует свой 50-летний юбилей. Еще один успешный год подтвердил верно взятый курс в 2014 году.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003cbr\u003eInterhome продолжает идти по пути успеха. Впервые в своей истории, компания находит более 660 000 идеальных предложений отдыха для своих клиентов. Оборот компании увеличивается до 186,6 млн швейцарских франков.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003cbr\u003eInterhome и  Inter Chalet сближаются, и сотрудничество становится продуктивнее. Кони Итен уходит в отставку, а Томас Стирниманн, генеральный директор Hotelplan Group, берет на себя обязанности генерального директора до дальнейшего уведомления. Число гостей Interhome увеличивается на 5% до 695 000.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003cbr\u003eЧисло гостей Interhome продолжает увеличиваться : в общей сложности 730 000 человек остановились в апартаментах или домах для отдыха Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003cbr\u003eInterhome и его компания-партнёр Interchalet теперь совместно выступают как «HHD AG». Названия Interhome и Interchalet будут и далее использоваться как бренды в индустрии туризма. Йорг Херрманн возглавит HHD AG в качестве генерального директора.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2020\u003c/strong\u003e\u003cbr\u003eПосле успешного начала зимнего сезона на начало летнего сезона сильно повлияла пандемия коронавируса. Самыми большими оперативными проблемами были ежедневные обновления ограничений на поездки, не только в отношении 27 стран с отдельными постановлениями, различающимися в разных регионах, но и в отношении мирового рынка.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2021\u003c/strong\u003e\u003cbr\u003e2021 год ознаменован стандартизацией и оптимизацией внутренних процессов на будущее. В рамках этого изменения, в дальнейшем, HHD AG решает работать под названием Interhome Group. Для прямых клиентов Interhome Group продолжит использовать бренд Interchalet в Германии и бренд Interhome в Швейцарии и других европейских странах.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2022\u003c/strong\u003e\u003cbr\u003eÅret 2022 blir ett rekordår i Interhome Groups 57-åriga historia – med 9 miljoner övernattningar och en omsättning på 371 miljoner schweiziska franc. Fokus ligger på fortsatt expansion av nätverket med lokala servicekontor, som säkrar optimal support och omfattande service för kunder liksom för bostadsägare på destinationerna. Workation, en kombination av arbete och semester, integreras som ett nytt erbjudande och semesterbostäder lämpliga för Workation kategoriseras därefter. Andra viktiga frågor är digitalisering och målet att bli en pionjär inom hållbar semsterbostadsturism. Olika projekt för miljöskydd lanseras, internationella hållbarhetsteam bildas och man skriver under Världsturismorganisationens \"Glasgow Declaration on Climate Action in Tourism”.\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Безопасность в вашем доме для отдыха!",
+                    "link": {
+                        "href": "/о-компании-interhome/safety-in-your-holiday-home/",
+                        "label": "Дополнительная информация"
+                    },
+                    "car": "Индивидуаль-ные заезды",
+                    "cleaning": "Контроль качества уборки",
+                    "independence": "Свобода и независимость",
+                    "key": "Безопасная передача ключа на месте",
+                    "privacy": "Уединение в Вашем доме для отдыха",
+                    "support": "Персональная помощь на месте"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Только сертифицированные дома и апартаменты",
+                            "subtitle": "Качество - наш главный приоритет.",
+                            "caption": "Каждый объект проверяется перед прибытием, чтобы сделать Ваш отдых максимально комфортным."
+                        },
+                        {
+                            "title": "Доступность и гарантированное обслуживание на месте",
+                            "subtitle": "Наш опыт - Ваше преимущество.",
+                            "caption": "Передача ключей осуществляется нашими сотрудниками на месте. Принимающая сторона всегда к Вашим услугам по всем возникающим вопросам, а также готова предоставить всю необходимую информацию о мероприятиях в данном регионе  и забронированному жилью. "
+                        },
+                        {
+                            "title": "Незабываемый отпуск",
+                            "subtitle": "Уединение и свобода в собственном доме",
+                            "caption": "Станьте хозяином своего отдыха! \r\nПроведите свой отпуск с семьёй или пригласите друзей. Почувствуйте независимость от навязанного отелями распорядка дня. Полная свобода действий. "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Почему Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eНикогда ещё найти свой идеальный отдых не было так просто! Вы хотите изучить новые направления? Нет лучшего способа, чем сделать это в загородном доме: насладитесь «la dolce vita» в \u003cstrong\u003eИталии\u003c/strong\u003e, очарованием \u003cstrong\u003eФранцузской Ривьеры\u003c/strong\u003e или побалуйте себя проживанием на роскошной вилле в \u003cstrong\u003eИспании\u003c/strong\u003e. Найдите вдохновение среди множества наших \u003cstrong\u003eидей для путешествий\u003c/strong\u003e и бронируйте онлайн - это быстро, легко и безопасно с Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Уединение и свобода в собственном доме для отдыха",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eПребывание в доме отдыха или апартаментах имеет огромное число преимуществ: проводите время так, как хотите Вы. Никаких неудобств со стороны других постояльцев или персонала отеля. Отдыхайте по своим правилам и в собственном ритме. Независимо от того, ищете ли Вы \u003cstrong\u003eгородскую поездку\u003c/strong\u003e или предпочитаете \u003cstrong\u003eспокойный отдых с семьей\u003c/strong\u003e или друзьями - насладитесь комфортом и свободой во время собственного отдыха!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

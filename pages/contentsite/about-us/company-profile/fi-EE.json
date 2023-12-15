@@ -1,0 +1,153 @@
+{
+    "id": "10164",
+    "name": "company-profile",
+    "path": "pages/contentsite/about-us/company-profile/fi-EE.json",
+    "folder": "pages",
+    "full_slug": "contentsite/about-us/company-profile",
+    "slug": "company-profile",
+    "locale": "fi-EE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "about-us",
+        "company-profile"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ee/fi/mika-on-interhome/yritysprofiili/",
+            "title": "Yritysprofiili | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/company-profile/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fi/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fi/mika-on-interhome/",
+                            "label": "Meistä"
+                        },
+                        {
+                            "href": "/fi/mika-on-interhome/yritysprofiili/",
+                            "label": "Yritysprofiili"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Yritysprofiili",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eLiikkeenjohto\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eJörg Herrmann, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eSylvia Epaillard, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eThomas Buschta, Chief Financial Officer (CFO)\u003c/li\u003e\n\u003cli\u003eRoger Müller, Chief Procurement Officer (CPO)\u003c/li\u003e\n\u003cli\u003eMichael Figlestahler, Chief Revenue \u0026amp; Innovation Officer (CRIO)\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e    \u003c/p\u003e\u003ch3\u003eInterhomen yrityshistoria\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003e2022\u003c/strong\u003e\u003cbr\u003eVuosi 2022 oli ennätyksellinen Interhome Groupin 57-vuotisessa historiassa – yli 9 miljoonaa yöpymistä ja liikevaihto 371 miljoonaa CHF. Painopiste on jatkuvassa paikallisten palvelutoimistojen verkoston laajentamisessa, joilla takaamme optimaalisen tuen ja palvelut asiakkaille sekä talonomistajille kohteessa. Workation, yhdistää loman ja etätyöskentelyn, lisätään uudeksi omainaisuudeksi ja hakukategoriaksi. Muita keskeisiä aiheita on digitalisaatio sekä kulku kärkijoukoissa kohti kestävää vuokrattavien loma-asuntojen turismia. Erilaiset ilmastonsuojelun projektit on aloitettu, kansainvälinen kestävän toiminnan ryhmät on muodostettu ja UN World Tourism Organization’s “Glasgow Declaration on Climate Action in Tourism” allekirjoitetaan.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2021\u003c/strong\u003e\u003cbr\u003eVuonna 2021 standardoitiin ja virtaviivaistettiin sisäisiä prosesseja tulevaisuutta varten. Osana tätä muutosta HHD AG päätti operoida nimellä Interhome Group. Asiakkaille Interhome Group jatkaa Interchalet brändin käyttöä Saksassa ja Interhome brändiä Sveitsissä sekä muissa Euroopan maissa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e2020\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eOnnistuneen talvikauden avauksen jälkeen on koronapandemia vaikuttanut voimakkaasti tulevaan kesäsesonkiin. Suurimpia operatiivisia haasteita luovat päivittäiset muutokset matkustusrajoituksiin niin 27 kohdemaan yksittäiset sekä alueelliset vaihtelut, että maailmanlaajuisesti koko kuluttajamarkkinoihin.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eInterhome ja sen sisaryhtiö Interchalet hallitaan nyt yhdistetysti \"HHD AG\":n toimesta. Nimet Interhome ja Interchalet jatkavat toimintaansa brändeinä matkailualalla. Jörg Herrmann ryhtyy HHD AG:n toimitusjohtajaksi.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003cbr\u003eInterhome kasvatti edelleen asiakasmääräänsä: kaiken kaikkiaan 730 000 asiakasta majoittui Interhomen loma-asunnossa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eInterhome ja sisaryhtiö Inter Chalet alkavat toimimaan tiiviimmin johtotasolla ja tämän aiheuttama synergia hyödynnetään paremmin. Koni Iten jää eläkkeellä ja Thomas Stirnimann, CEO Hotelplan Group, ottaa vastaan CEO:n tehtävät toistaiseksi. Interhomen matkustajien lukumäärä nousee 5% 695000:een.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003cbr\u003eInterhomen menestystarina jatkuu. Ensimmäistä kertaa historiassaan yli 660 000 lomailijaa löysi unelmiensa loma-asunnon kauttamme. Laskutettu liikevaihto kohosi 186.6 milj. Sveitsin frangiin.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003cbr\u003eInterhome viettää 50 juhlavuottaan.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003cbr\u003eKoni Iten astuu yrityksen johtoon. Hänen ohjauksellaan yritys tavoittelee huipputuloksia. Mauritius tulee uutuutena kohdevalikoimaan.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2013\u003c/strong\u003e\u003cbr\u003eUusi varausjärjestelmä voittaa pääpalkinnon käytettävyys -kategoriassa sekä saa toisen sijan tehokkuus-kategoriassa tapahtumassa Best of Swiss Web Awards.\u003c/p\u003e\u003cp\u003eInterhomesta tulee Stiftung Warentest -testivoittaja. Selkeä ja yksityiskohtainen haku ratkaisee voiton eduksemme.\u003c/p\u003e\u003cp\u003eEnsimmäinen saksankielinen loma-asuntojen vuokraukseen keskittynyt iPad-sovellus, joka tarjoaa kattavan lomahuoneistojen ja -talojen hakutoiminnon.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2012\u003c/strong\u003e\u003cbr\u003eYhteistyösopimus yksinoikeudella TripAdvisorin, maailman suurimman matkailusivuston, kanssa. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2011\u003c/strong\u003e\u003cbr\u003eSaksan markkinajohtajan Inter Chalet’n lopullinen hankinta vuonna 2013. Uusina kohdemaina Israel ja Kypros. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2010\u003c/strong\u003e\u003cbr\u003eNettisivujen täydellinen uudistus, jonka myötä esiteltiin uudistettu loma-asuntojen hakusivu sekä uusina kohdemaina Marokko ja Egypti.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2009\u003c/strong\u003e \u003cbr\u003eMyyntiedustus aloitettiin Intiassa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008\u003c/strong\u003e \u003cbr\u003eUSA:ssa aloitetaan yhteistyö vahvan kumppanin kanssa. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e \u003cbr\u003eInterhome on melkein kaikissa Euroopan maissa edustettuna. 2007 tulivat Venäjä ja Kroatia. Tanskassa, Belgiassa, Hollannissa ja Suomessa aloitetaan yhteistyöt vahvojen kumppanien kanssa.\u003c/p\u003e\u003cp\u003eWww-sivut uusiutuvat. Unelmaloman huvila on nyt entistä helpompi löytää, myös lisäinformaatio ja palveluntarjonta laajenee.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e \u003cbr\u003eLoma-asuntojen erikoisosaajat Casa Club, France Villas ja Solemar integroidaan Interhomeen lisäten näin merkittävästi Toscanan ja Provencen huvilatarjontaa.\u003c/p\u003e\u003cp\u003eUusi 1to1 järjestelmä tarjoaa asiakkaille parempaa ja yksilöllisempää palvelua.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e \u003cbr\u003eSimon Lehmann yrityksen johtoon.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2003\u003c/strong\u003e\u003cbr\u003eInterhome muuttaa emoyhtiönsä Hotelplanin toimistorakennuksen\u003cstrong\u003e.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2000\u003c/strong\u003e\u003cbr\u003eInterhome varausjärjestelmä käsittää 75 paikallistoimistoa ja 30 yhteistyökumppania\u003cstrong\u003e.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1998\u003c/strong\u003e\u003cbr\u003eInterhome siirtyy alan ensimmäisinä internet-aikakauteen. 1999 alkaen ovat myös online-varaukset mahdollisia\u003cstrong\u003e.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1995\u003c/strong\u003e\u003cbr\u003eInterhomen tarjonnassa on jo 75'000 vuodepaikka 11 maassa\u003cstrong\u003e.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1993\u003c/strong\u003e \u003cbr\u003eInterhome Oy aloittaa toimintansa Suomessa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1989\u003c/strong\u003e \u003cbr\u003eMigros konserniin kuuluvasta Hotelplanista, joka on Sveitsin toiseksi suurin matkanjärjestäjä, tulee Interhomen omistaja.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1986\u003c/strong\u003e \u003cbr\u003eInterhome-luetteloita painetaan 2 miljoonaa kappaletta 8 kieliversiona, ja toimitetaan 12 maahan.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1984\u003c/strong\u003e \u003cbr\u003eUusi logo otetaan käyttöön – ”Bird” lintu on loman ja vapauden symboli. Kaikki palvelutoimistot sisustetaan yhtenäisesti.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1980\u003c/strong\u003e \u003cbr\u003eInterhome ottaa ensimmäisenä käyttöön sähköisen varausjärjestelmän kaikkien toimistojensa kanssa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1977\u003c/strong\u003e \u003cbr\u003eYhtiön nimeksi tuli Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1975-77\u003c/strong\u003e \u003cbr\u003eYrityksen toiminnot yhdistyivät muotoon Swiss Chalet - Interhome: 105 työntekijää 16 toimistossa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1965\u003c/strong\u003e \u003cbr\u003eSveitsiläiset Bruno Franzen ja Werner Frey perustivat Swiss Chalets -yrityksen.\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/fi/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkein prioriteetti.",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/fi/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/fi/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/fi/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/fi/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/fi/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/fi/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/fi/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/fi/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/fi/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/fi/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen – vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

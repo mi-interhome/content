@@ -1,0 +1,150 @@
+{
+    "id": "15502",
+    "name": "family",
+    "path": "pages/landingsite/topics/family/en-CA.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/family",
+    "slug": "family",
+    "locale": "en-CA",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "family"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.bookinterhome.ca/holiday-ideas/family/",
+            "title": "Book your family vacation house online with Interhome | Interhome",
+            "description": "Enjoy your next vacation in a family vacation house and choose a great location that will have something for everyone in your family",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/family/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Familienurlaub im Ferienhaus",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1400x480_family-holidays/980246-3-ger-XX/Header_1400x480_family-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/holiday-ideas/",
+                            "label": "Safe, enjoyable vacations - discover our vacation ideas"
+                        },
+                        {
+                            "href": "/holiday-ideas/family/",
+                            "label": "Precious time with the Family"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Precious time with the Family",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eStay in a family vacation home and relax\u003c/h3\u003e\u003cp\u003eA vacation at an Interhome family villa is the perfect choice for your well-earned summer vacation, giving you and your loved ones the freedom and flexibility to enjoy every day of your stay to the full and explore some of the most beautiful and fascinating destinations in Europe and beyond. You choose when and where you spend your vacation time – discovering the local countryside, spending  fun-filled hours in your own pool, playing in the sun with your children or sampling the local delicacies on your very own terrace.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eInterhome offers a vast range of vacation villas in many popular destinations, both in well-known beach locations or in lush green countryside. The choice is completely yours! Our offer of vacation villas includes great value accommodation for those families travelling on a budget, to more luxurious houses with stunning pools and beachside locations. Explore our many European destinations, such as \u003ca href=\"/switzerland/\" target=\"_blank\"\u003eSwitzerland\u003c/a\u003e, \u003ca href=\"/italy/\" target=\"_blank\"\u003eItaly\u003c/a\u003e, \u003ca href=\"/france/\" target=\"_blank\"\u003eFrance\u003c/a\u003e and  \u003ca href=\"/spain/\" target=\"_blank\"\u003eSpain\u003c/a\u003e or take the family closer to home to a \u003ca href=\"/usa/florida/\" target=\"_blank\"\u003evacation house in Florida\u003c/a\u003e or  to one of our exotic \u003ca href=\"/mauritius/\" target=\"_blank\"\u003evillas in Mauritius\u003c/a\u003e. Take a look at some of our most popular destinations.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/about-us/safety-in-your-vacation-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Only selected and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "Guaranteed availability and on-site service",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and insights for your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, feel the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or the \u003ca href=\"/spain/\"\u003eSpanish way of life\u003c/a\u003e. Be inspired by our \u003ca href=\"\"\u003etravel ideas\u003c/a\u003e and book online - quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eYour stay in a holiday house or a holiday apartment offers plenty of advantages: spend your time exactly as you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Simply enjoy lots of room, flexibility and freedom in your holiday home.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

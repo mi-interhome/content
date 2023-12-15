@@ -1,0 +1,148 @@
+{
+    "id": "10162",
+    "name": "about-us",
+    "path": "pages/contentsite/about-us/fi-FI.json",
+    "folder": "pages",
+    "full_slug": "contentsite/about-us",
+    "slug": "about-us",
+    "locale": "fi-FI",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "about-us"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.fi/mika-on-interhome/",
+            "title": "Mikä on Interhome | Interhome",
+            "description": "Meistä - Interhomelta löydät lomatalon tai -huoneiston jokaiseen lomatarpeeseen yli 35.000 online varattavan loma-asunnon joukosta.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/mika-on-interhome/",
+                            "label": "Meistä"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Meistä",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eVuokrattavana noin 40.000 tarkastettua loma-asuntoa, taloa ja huoneistoa\u003c/h3\u003e\u003cp\u003eToiveittesi lomakohteen löydät varmasti Interhomen noin 40.000 loma-asunnon valikoimasta 28 maassa – olipa toiveesi sitten talo maaseudulla, huvila meren äärellä, huoneisto kaupungissa, mökki vuoristosta tai linna puutarhoineen. Kaikki loma-asuntomme ovat Interhomen tarkastamia ja luokittelemia. Lisäksi vastaamme sopimuskumppaninasi, että vuokraamasi loma-asunto on kuvauksen mukainen ja että olet tyytyväinen myös lomasi jälkeen. \u003cbr\u003e\u003ca href=\"\"\u003eLöydä toiveittesi loma-asunto\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eAsiakaspalvelu ja oma toimisto Suomessa - SOITA\u003c/h3\u003e\u003cp\u003eHyödynnä kokemuksemme loma-asuntojen vuokrauksessa – kerro toiveesi ja pyydä meiltä lomaehdotus. Vastaamme kaikkiin sinua askarruttaviin kysymyksiin ja annamme vinkkejä, jotta lomasi onnistuisi. Olemme palvelleet suomalaisia asiakkaitamme jo vuodesta 1993. Soita toimistoomme 09 819 4050 tai lähetä meille sähköpostia. Toimistoajan ulkopuolella voit soittaa myös englanninkieliseen 24/7 -puhelinpalveluumme +41 (0) 43 810 91 26. \u003cbr\u003e\u003ca href=\"/yhteystiedot/\"\u003eKysymyksiä? Ota meihin yhteyttä!\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eVastaamme lomasi onnistumisesta - oma yhteyshenkilö kohteessa\u003c/h3\u003e\u003cp\u003eInterhomen henkilökunta vastaa, että vuokraamasi loma-asunto on kuvauksen mukainen ja voit viettää rentouttavan loman. Interhomen paikallistoimisto tai loma-asuntosi oma yhteyshenkilö opastaa sinua ja huolehtii, että kaikki on kunnossa lomasi aikana ja että lomasi onnistuu.\u003cbr\u003e\u003ca href=\"/paikallinen-palvelu/\"\u003ePaikalliset palvelut\u003c/a\u003e\u003c/p\u003e\u003ch3\u003eLuotettavaa loma-asuntojen vuokrausta - sveitsiläistä laatua vuodesta 1965\u003c/h3\u003e\u003cp\u003eInterhome perustettiin vuonna 1965 Sveitsissä, ja yrityksellä on siten monen vuosikymmenen kokemus loma-asuntojen vuokrauksesta. Tänä päivänä Interhome on Euroopan johtava vuokrattavia loma-asuntoja, lomataloja ja –huoneistoja tarjoava yritys. Emoyhtiön Interhome Group (HHD AG):n, pääkonttori sijaitsee Glattbruggissa, Zürichissä. Yrityksen omistaa MTCH AG (Hotelplan Group), omistajanaan 100%:sesti Migros, Sveitsin suurin kaupanalan yritys. \u003cbr\u003e\u003ca href=\"/mika-on-interhome/yritysprofiili/\"\u003eKatso yritysprofiili\u003c/a\u003e\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkeintä",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen - vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

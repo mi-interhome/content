@@ -1,0 +1,192 @@
+{
+    "id": "39564",
+    "name": "sustainability",
+    "path": "pages/landingsite/about-us/sustainability/fr-CA.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability",
+    "slug": "sustainability",
+    "locale": "fr-CA",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.bookinterhome.ca/fr/a-propos-d-interhome/durabilite/",
+            "title": "Durabilité | Interhome",
+            "description": "Tourisme de vacances durable avec Interhome Group",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/a-propos-d-interhome/",
+                            "label": "A propos d'Interhome"
+                        },
+                        {
+                            "href": "/fr/a-propos-d-interhome/durabilite/",
+                            "label": "Aimons la nature – la protection de la planète c’est l’affaire de tous!"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Aimons la nature – la protection de la planète c’est l’affaire de tous!",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group est une société très impliquée dans la protection de notre planète. Nous considérons qu’il est de notre devoir de protéger l’environnement pour les générations futures. En tant que client, vous pouvez ainsi apporter une contribution à la protection de l'environnement pour votre séjour en location de vacances. Le montant total est affecté à des projets de durabilité menés par le fond M Climate via notre partenaire myclimate.\u003c/p\u003e\u003cp\u003eNous nous sommes engagés dans la protection de l’environnement non seulement vis-à-vis de nos clients et de notre maison mère Migros mais aussi à l’échelle internationale. En effet, Interhome Group a signé la «Déclaration de Glasgow» relative à l’action climatique dans le tourisme initiée par l’Organisation mondiale des Nations Unies et s’engage à réduire de moitié ses émissions de gaz à effet de serre pour atteindre le niveau 0 d’ici 2050 au plus tard.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eVous souhaitez en apprendre davantage sur nos objectifs, notre collaboration avec myclimate et notre programme de protection des abeilles? Notre équipe dédiée à la Responsabilité Sociale des Entreprises a rassemblé des conseils que vous pourrez appliquer chaque jour y compris pendant vos vacances. L’engagement dans la protection de l’environnement va s’inscrire dans le temps, c’est pourquoi nous nous engageons de manière régulière et active en faveur d’un tourisme durable pour aujourd’hui et pour demain.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBiodiversité\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eChangement climatique\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eNos clients\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eNos partenaires\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eNos lieux\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003eCollaborateurs\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eBureau\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38944/2142240-1-eng-XX/Sustainability_2022_wheel_fr_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39861\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBiodiversité\u003c/h4\u003e\u003cp\u003eLe changement climatique a un impact significatif sur la biodiversité, qui à son tour affecte le tourisme. La biodiversité désigne l’ensemble des êtres vivants y compris les plantes ainsi que les écosystèmes dans lesquels ils vivent. Les changements climatiques modifient les écosystèmes et menacent la biodiversité. Cela peut entraîner une disparation importante des habitats, mener à l'extinction d'espèces et à des changements dans le cycle des saisons, tels que la floraison ou la migration.\u003c/p\u003e\u003cp\u003eCes changements ont un impact direct sur le tourisme, car de nombreux voyageurs sont attirés par lez zones naturelles et la faune. Par exemple, les récifs coralliens, qui sont essentiels à la biodiversité marine, sont endommagés par la hausse des températures de la mer et l'acidification des océans, ce qui les rend moins attrayants pour les touristes. De même, les changements dans la répartition de la faune peuvent rendre plus difficile l'observation de certaines espèces par les touristes, ce qui affecte leur expérience globale.\u003c/p\u003e\u003cp\u003eLe tourisme peut également contribuer au changement climatique, ce qui aggrave le problème. L'industrie du tourisme est un important producteur de gaz à effet de serre, notamment en raison des transports et de la consommation d'énergie. Par conséquent, le tourisme durable minimise les émissions de carbone et réduit l'impact sur les écosystèmes naturels - autant d'éléments essentiels pour atténuer les effets négatifs du changement climatique sur la biodiversité.\u003c/p\u003e\u003cp\u003eEn conclusion, le changement climatique et le déclin de la biodiversité ont un impact significatif sur le tourisme , et le secteur doit prendre des mesures pour minimiser sa contribution au problème et s'adapter à l'évolution de l'environnement. En encourageant les pratiques de tourisme durable, nous pouvons contribuer à protéger la biodiversité et à faire en sorte que les générations futures puissent continuer à profiter de la beauté naturelle de notre planète.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eChangement climatique\u003c/h4\u003e\u003cp\u003eLe changement climatique est dû à l'augmentation des gaz à effet de serre, tels que le dioxyde de carbone, le méthane et l'oxyde nitreux dans l'atmosphère terrestre.  Ces gaz retiennent la chaleur du soleil et provoquent une augmentation de la température de la planète, ce qui entraîne des changements sur les conditions météorologiques, le niveau de l'océan et l'environnement naturel. Le secteur de l'hébergement touristique contribue de manière significative aux émissions de gaz à effet de serre en raison de sa forte consommation d'énergie et de sa dépendance à l'égard des combustibles fossiles. Les pratiques du tourisme durable, telles que l'utilisation de sources d'énergie renouvelables, la réduction de la consommation d'énergie et la mise en oeuvre de stratégies de réduction des déchets, peuvent contribuer à minimiser l'impact du secteur de l'hébergement sur le changement climatique et à promouvoir la durabilité environnementale.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eNos clients\u003c/h4\u003e\u003cp\u003eNous vous invitons à visiter les monuments locaux, à vous immerger dans la population et la culture locales et à soutenir la communauté tout en laissant une empreinte positive sur l'économie et la communauté locales. Explorez les offres des marchés locaux pour profiter de la richesse et de l'authenticité de votre environnement tout en laissant une empreinte positive sur l'économie et la communauté locales. Ce faisant, vous vivrez non seulement des moments inoubliables, mais contribuerez également au développement durable, préserverez les destinations que vous visitez et participerez activement à la protection du climat.\u003c/p\u003e\u003cp\u003eNotre engagement à bâtir un avenir meilleur s’étend au-delà de notre quotidien. Nous reconnaissons l'importance de protéger l'environnement pendant les vacances et sommes déterminés à motiver nos clients à nous rejoindre dans ce projet. C'est dans cet esprit que nous avons élaboré une série de recommandations qui vous aideront à avoir un impact positif sur l'environnement pendant vos vacances.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eNos partenaires\u003c/h4\u003e\u003cp\u003eVoyager ne peut être durable sans l'engagement et le soutien de notre actionnaire, de nos partenaires et de notre chaîne d'approvisionnement. Les faire participer à  cette aventure, apprendre et s'inspirer les uns des autres et exiger le changement.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eNos lieux\u003c/h4\u003e\u003cp\u003eDans notre entreprise, nous accordons une grande importance au bien-être de nos clients et à l'environnement. Pour honorer cet engagement, nous évaluons chacune de nos locations de vacances par rapport à nos critères de durabilité. De plus, nous entretenons des relations étroites avec les propriétaires, favorisant l'amélioration continuelle des pratiques de développement durable de nos locations de vacances.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 12,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003eCollaborateurs\u003c/h4\u003e\u003cp\u003eDans notre entreprise, nous sommes profondément engagés à promouvoir la conscience environnementale et la durabilité. Dans le cadre de notre adhésion à ces valeurs, nous souhaitons que chaque employé participe activement à l'initiative de la Fresque du Climat. La Fresque du Climat est un outil collaboratif visant à sensibiliser et à comprendre le changement climatique. Elle propose des ateliers interactifs et ludiques permettant aux participants d'explorer les causes, les impacts et les solutions potentielles liés au dérèglement climatique. Ces ateliers combinent des informations scientifiques et des discussions de groupe dans le but d'éduquer et de donner aux individus les moyens d'agir contre le changement climatique. En fournissant une plateforme de dialogue et de partage des connaissances, le projet de la Fresque du Climat nous alerte sur l'urgence climatique et encourage les efforts collectifs pour résoudre ce défi mondial. Nous pensons qu'en impliquant activement nos employés aux ateliers de la Fresque du Climat, nous leur fournissons des informations précieuses et leur permettons de faire des choix éclairés pour construire un avenir durable et résilient au climat.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 14,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eBureau\u003c/h4\u003e\u003cp\u003ePour améliorer notre impact environnemental, chacun de nos bureaux a fait l'objet d'une analyse minutieuse. Cela comprend : l’évaluation de la source d’électricité et des systèmes de chauffage et de nombreux détails tels que le papier et les produits de nettoyage. Forts de ces informations, nous prenons des mesures claires pour mettre en place tous nos engagements environnementaux au sein de nos bureaux.\u003c/p\u003e\u003cp\u003eEn analysant les implications environnementales de nos actions, nous pouvons mettre en oeuvre des stratégies ciblées pour réduire notre empreinte. Cela implique d’optimiser les sources d’énergie, d’améliorer l’efficacité du système de chauffage, d’adopter des alternatives durables au papier et d’utiliser des produits de nettoyage respectueux de l’environnement. Ces étapes sont essentielles pour aligner nos bureaux sur des pratiques durables et minimiser notre impact environnemental global.\u003c/p\u003e\u003cp\u003eGrâce à notre engagement continu en faveur d’une gestion responsable des ressources et de la réduction des déchets, nous visons à montrer l’exemple au sein de notre industrie et à inspirer les autres à faire de même. Nous pensons que même les petits changements peuvent avoir un impact significatif surtout lorsqu'ils sont adoptés par toutes les structures de notre organisation.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 15,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 16,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 17,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/idees-vacances/sejours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/idees-vacances/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/idees-vacances/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

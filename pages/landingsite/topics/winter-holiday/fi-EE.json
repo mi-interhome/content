@@ -1,0 +1,163 @@
+{
+    "id": "15553",
+    "name": "winter-holiday",
+    "path": "pages/landingsite/topics/winter-holiday/fi-EE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/winter-holiday",
+    "slug": "winter-holiday",
+    "locale": "fi-EE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "winter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ee/fi/ideoita-lomalle/talviloma-alpeilla/",
+            "title": "Talviloma Alpeilla  | Interhome",
+            "description": "Vietä seuraava lomasi Alpeilla vaeltan, lumen keskellä hiihtäen ja lasketellen, rentoudu omassa mukavassa talven lomatalossa.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/winter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_winter_2023/2204539-2-eng-XX/Header_1200x410_IH_Winter_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fi/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fi/ideoita-lomalle/",
+                            "label": "Turvallinen, huoleton ja nautinnollinen loma- tutustu ideoihimme"
+                        },
+                        {
+                            "href": "/fi/ideoita-lomalle/talviloma-alpeilla/",
+                            "label": "Alppien parhaat hiihtolomat"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Alppien parhaat hiihtolomat",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eTalvi vuoristossa\u003c/h3\u003e\u003cp\u003eKotoisat mökit ja hurmaavat huoneistot odottavat sinua Euroopan parhailla hiihtoalueilla. Varaa loma-asuntosi \u003ca href=\"/fi/sveitsi/laskettelu-hiihto/?season=winter\"\u003eSveitsin\u003c/a\u003e, \u003ca href=\"/fi/itaevalta/laskettelu-hiihto/?season=winter\"\u003eItävallan\u003c/a\u003e tai \u003ca href=\"/fi/ranska/laskettelu-hiihto/?season=winter\"\u003eRanskan\u003c/a\u003e Alpeilta seuraavalle hiihtoreissulle. Tekemistä riittää varmasti jokaiseen makuun - unohtamatta after-skita!\u003c/p\u003e\u003cp\u003eTutustu tunnettuihin alueisiin kuten \u003ca href=\"/fi/sveitsi/graubuenden/laskettelu-hiihto/\"\u003eGrisons\u003c/a\u003e, \u003ca href=\"/fi/sveitsi/valais/laskettelu-hiihto/?season=winter\"\u003eValais\u003c/a\u003e, \u003ca href=\"/fi/itaevalta/tiroli/laskettelu-hiihto/?season=winter\"\u003eTirol\u003c/a\u003e ja \u003ca href=\"/fi/ranska/alpit-savoie-haute-savoie/val-thorens/?skiing=true\u0026season=winter\"\u003eVal Thorens\u003c/a\u003e. Loma-asunnon varaaminen on paras startti lomasuunnitteluun. Hauskan talvipäivän jälkeen on mukava rentoutua takkatulen ääressä omassa chalet'ssa.\u003c/p\u003e\u003ch3\u003eIdeoitamme talvilomallesi\u003c/h3\u003e\u003cp\u003eLumoudu suosituimmista lomamökeistä ja -huoneistoista. Miltä kuulostaisi majoitus aivan rinteen ääreltä tänä talvena? Etsitpä mökkiä koko perheelle tai modernia huoneistoa kahdelle, löydät varmasti etsimäsi.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eInterhomelta löydät ylivoimaisen tarjonnan upeita alppikohteita. \u003c/h3\u003e\u003cp\u003eVoit valita suosikkisi sadoista alppikylistä \u003ca href=\"/fi/sveitsi/\"\u003eSveitsistä\u003c/a\u003e, \u003ca href=\"/fi/itaevalta/\"\u003eItävallasta\u003c/a\u003e, \u003ca href=\"/fi/ranska/\"\u003eRanskasta\u003c/a\u003e tai \u003ca href=\"/fi/italia/\"\u003eItaliasta\u003c/a\u003e. Vuokraa toiveittesi talo, alppimaja, chalet tai lomahuoneisto \u003ca href=\"/fi/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003eAlppien parhailta hiihtoalueilta\u003c/a\u003e.\u003c/p\u003e\u003ch3\u003eSuosituinta kohdettamme:\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eEtusi Interhomen asiakkaana\u003c/h3\u003e\u003cp\u003eLaadukkaiden loma-asuntojen lisäksi Interhomen asiakkaana saat etuja ja alennuksia jotta talvilomastasi tulisi vieläkin unohtumattomampi.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/fi/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkein prioriteetti.",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/fi/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/fi/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/fi/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/fi/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/fi/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/fi/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/fi/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/fi/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/fi/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/fi/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen – vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

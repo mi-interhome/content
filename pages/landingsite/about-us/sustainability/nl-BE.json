@@ -1,0 +1,192 @@
+{
+    "id": "39564",
+    "name": "sustainability",
+    "path": "pages/landingsite/about-us/sustainability/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability",
+    "slug": "sustainability",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/over-interhome/duurzaamheid/",
+            "title": "Sustainability | Interhome",
+            "description": "Duurzaam vakantiehuizentoerisme met Interhome Group",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/over-interhome/",
+                            "label": "Over Interhome"
+                        },
+                        {
+                            "href": "/over-interhome/duurzaamheid/",
+                            "label": "Hou van de natuur – natuurbehoud is voor iedereen belangrijk"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Hou van de natuur – natuurbehoud is voor iedereen belangrijk",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eDe Interhome Group is een rolmodel als het gaat om duurzaamheid. We zien het als onze plicht om een ongerept milieu achter te laten voor toekomstige generaties. Op deze manier kunt u als klant een bijdrage leveren aan de bescherming van het klimaat tijdens uw verblijf in een vakantiehuis. Het volledige bedrag wordt besteed aan duurzaamheidsprojecten die worden geleid door het M Climate Fund via onze partner myclimate.\u003c/p\u003e\u003cp\u003eWij wijden ons niet alleen aan klimaatbescherming richting onze klanten en ons moederbedrijf Migros, maar ook internationaal. Interhome Group heeft de “Glasgow Declaration on Climate Action in Tourism” van de UN World Tourism Organization ondertekend en heeft daarmee toegezegd de uitstoot van broeikasgassen tegen 2030 met de helft te verminderen en uiterlijk in 2050, netto nul te bereiken.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eLees meer over onze doelen, onze samenwerking met myclimate en ons bijenbeschermingsprogramma. Ons duurzaamheidsteam heeft speciaal voor u, voor het dagelijks leven en voor op vakantie handige tips samengesteld. Duurzaamheid kent geen einddatum, daarom zetten wij ons continu en volhardend in voor duurzaam toerisme in vakantieaccommodaties voor vandaag en voor morgen.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBiodiversiteit\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eKlimaatverandering\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eOnze klanten\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eOnze partners\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eOnze locaties\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003ePersoneel\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eKantoor\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38947/2142255-1-eng-XX/Sustainability_2022_wheel_nl_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39864\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBiodiversiteit\u003c/h4\u003e\u003cp\u003eKlimaatverandering heeft een grote invloed op de biodiversiteit, die weer van invloed is op het toerisme. Biodiversiteit is de verscheidenheid aan leven op aarde, inclusief planten, dieren en micro-organismen. Als het klimaat verandert, veranderen ecosystemen en wordt de biodiversiteit bedreigd. Dit kan leiden tot het verlies van belangrijke habitats, het uitsterven van soorten en veranderingen in de timing en locatie van natuurlijke gebeurtenissen, zoals bloei of migratie.\u003c/p\u003e\u003cp\u003eDeze veranderingen hebben een directe invloed op het toerisme, omdat veel reizigers worden aangetrokken door natuurgebieden en wilde dieren. Koraalriffen bijvoorbeeld, die van vitaal belang zijn voor de mariene biodiversiteit, raken beschadigd door de stijgende zeetemperatuur en de verzuring van de oceaan, waardoor ze minder aantrekkelijk worden voor toeristen. Op dezelfde manier kunnen veranderingen in de verspreiding van wilde dieren het voor toeristen moeilijker maken om bepaalde soorten te zien, wat hun algehele ervaring beïnvloedt.\u003c/p\u003e\u003cp\u003eToerisme kan ook bijdragen aan klimaatverandering, wat het probleem verergert. De industrie is een belangrijke producent van broeikasgassen, vooral door transport en energieverbruik. Daarom minimaliseert duurzaam toerisme de koolstofuitstoot en vermindert het de impact op natuurlijke ecosystemen - allemaal essentieel om de negatieve effecten van klimaatverandering op de biodiversiteit te beperken.\u003c/p\u003e\u003cp\u003eDe conclusie is dat klimaatverandering en biodiversiteitsverlies een aanzienlijke invloed hebben op het toerisme en dat de sector actie moet ondernemen om zijn bijdrage aan het probleem te minimaliseren en zich aan te passen aan de veranderende omgeving. Door duurzaam toerisme te promoten, kunnen we de biodiversiteit helpen beschermen en ervoor zorgen dat toekomstige generaties kunnen blijven genieten van de natuurlijke schoonheid van onze planeet.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eKlimaatverandering\u003c/h4\u003e\u003cp\u003eKlimaatverandering wordt veroorzaakt door de toename van broeikasgassen in de atmosfeer van de aarde, zoals kooldioxide, methaan en lachgas. Deze gassen houden de warmte van de zon vast en zorgen ervoor dat de temperatuur van de planeet stijgt, wat leidt tot veranderingen in weerpatronen, zeeniveaus en de natuurlijke omgeving. De accommodatiesector van de toeristische industrie levert een aanzienlijke bijdrage aan de uitstoot van broeikasgassen vanwege het hoge energieverbruik en de afhankelijkheid van fossiele brandstoffen. Duurzaam toerisme procedures, zoals het gebruik van hernieuwbare energiebronnen, het verminderen van energieverbruik en het implementeren van strategieën voor afvalvermindering, kan helpen om de impact van de accommodatiesector op klimaatverandering te minimaliseren en milieuduurzaamheid te bevorderen.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eOnze klanten\u003c/h4\u003e\u003cp\u003eMaak er op reis een punt van om lokale bezienswaardigheden te bezoeken, dompel jezelf onder in de lokale bevolking en cultuur en steun de gemeenschap door lokaal te winkelen. Verken het levendige aanbod van lokale markten om de rijkdom en authenticiteit van je omgeving te omarmen en tegelijkertijd een positieve voetafdruk achter te laten op de lokale economie en gemeenschap. Zo creëer je niet alleen gedenkwaardige momenten, maar draag je ook bij aan duurzame ontwikkeling, behoud je de bestemmingen die je bezoekt en neem je actief deel aan de bescherming van het klimaat.\u003c/p\u003e\u003cp\u003eOnze inzet voor een betere toekomst gaat verder dan onze dagelijkse activiteiten. We erkennen het belang van het beschermen van het milieu tijdens een vakantie en we zijn vastbesloten om onze klanten te motiveren om zich bij ons aan te sluiten in deze belangrijke missie. Met dit in gedachten hebben we een verzameling aanbevelingen samengesteld waarmee je moeiteloos een positieve impact op het milieu kunt hebben terwijl je op vakantie bent.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eOnze partners\u003c/h4\u003e\u003cp\u003eReizen kan niet duurzaam zijn zonder onze aandeelhouder, partners en distributieketens die betrokken en ondersteunend zijn. Hen meenemen op deze reis, van elkaar leren, elkaar inspireren en verandering vragen.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eOnze locaties\u003c/h4\u003e\u003cp\u003eIn ons bedrijf leggen we sterk de nadruk op het welzijn van onze gasten en het milieu. Om aan deze verplichting te voldoen, beoordelen we elk vakantiehuis nauwkeurig aan de hand van onze duurzaamheidschecklist. Daarnaast onderhouden we nauw contact met huiseigenaren om de duurzaamheid van onze vakantiehuizen voortdurend te verbeteren.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 12,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003ePersoneel\u003c/h4\u003e\u003cp\u003eIn ons bedrijf zijn we zeer toegewijd aan het bevorderen van milieubewustzijn en duurzaamheid. Als onderdeel van onze toewijding aan deze waarden is het ons doel om ervoor te zorgen dat elke werknemer actief deelneemt aan het Climate Fresk initiatief. Het Climate Fresk-project is een samenwerkingsinitiatief gericht op het vergroten van het bewustzijn van en het inzicht in klimaatverandering. Het bestaat uit interactieve workshops waarbij deelnemers in een spelvorm de oorzaken, gevolgen en mogelijke oplossingen van klimaatverandering onderzoeken. Deze workshops maken gebruik van een combinatie van wetenschappelijke informatie en groepsdiscussies om mensen te informeren en in staat te stellen actie te ondernemen tegen klimaatverandering. Door een platform te bieden voor dialoog en het delen van kennis, bevordert het Climate Fresk-project niet alleen een gevoel van urgentie, maar inspireert het ook tot collectieve inspanningen om dit wereldwijde probleem aan te pakken. Wij geloven dat door onze medewerkers actief te betrekken bij de Climate Fresk workshops, we hen kunnen voorzien van waardevolle inzichten en hen in staat kunnen stellen weloverwogen keuzes te maken om een duurzame en klimaatbestendige toekomst op te bouwen.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 14,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eKantoor\u003c/h4\u003e\u003cp\u003eOm onze impact op het milieu te verbeteren, hebben we elk kantoor binnen onze organisatie grondig geëvalueerd. Dit omvat een evaluatie van de elektriciteitsbron, verwarmingssystemen en zelfs kleinere details zoals papier en schoonmaakbenodigdheden. Gewapend met deze waardevolle informatie creëren we duidelijke richtlijnen om milieuverbeteringen in onze kantoren te stimuleren.\u003c/p\u003e\u003cp\u003eDoor de gevolgen van onze activiteiten voor het milieu te begrijpen, kunnen we gerichte strategieën implementeren om onze ecologische voetafdruk te verkleinen. Dit omvat het optimaliseren van energiebronnen, het verbeteren van de efficiëntie van verwarmingssystemen, het gebruik van duurzame alternatieven voor papier en het gebruik van milieuvriendelijke schoonmaakmiddelen. Deze stappen zijn essentieel om onze kantoren in lijn te brengen met duurzame praktijken en onze totale impact op het milieu te minimaliseren.\u003c/p\u003e\u003cp\u003eDoor onze voortdurende inzet voor verantwoordelijk grondstoffenbeheer en afvalvermindering willen we een positief voorbeeld stellen binnen onze branche en anderen inspireren hetzelfde te doen. We begrijpen dat zelfs kleine veranderingen een grote impact kunnen hebben wanneer ze worden doorgevoerd binnen de gehele organisatie.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 15,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 16,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 17,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

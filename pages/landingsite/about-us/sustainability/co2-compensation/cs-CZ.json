@@ -1,0 +1,176 @@
+{
+    "id": "39565",
+    "name": "co2-compensation",
+    "path": "pages/landingsite/about-us/sustainability/co2-compensation/cs-CZ.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/co2-compensation",
+    "slug": "co2-compensation",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "co2-compensation"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.cz/o-interhome/udrzitelnost/kompenzace-co2/",
+            "title": "Obnova rašeliniště La Gruère (Švýcarsko) | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/co2-compensation/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_moor_ch_2023/2276602-1-eng-XX/Header_1200x410_IH_Moor_CH_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/o-interhome/",
+                            "label": "O Interhome"
+                        },
+                        {
+                            "href": "/o-interhome/udrzitelnost/",
+                            "label": "Love Nature – ochrana životního prostředí se týká nás všech"
+                        },
+                        {
+                            "href": "/o-interhome/udrzitelnost/kompenzace-co2/",
+                            "label": "Obnova rašeliniště La Gruère (Švýcarsko)"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Obnova rašeliniště La Gruère (Švýcarsko)",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group nabízí všem hostům možnost dobrovolně přispět na ochranu životního prostředí. Váš dobrovolný příspěvek na ochranu životního prostředí bude věnován na projekt „Obnova rašelinišť v přírodní rezervaci La Gruère“.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch4\u003eNáš partner\u003c/h4\u003e\u003cp\u003eNa tomto projektu spolupracujeme s naším partnerem myclimate. Tato švýcarská nadace podporuje svými projekty nejvyšší kvality měřitelnou ochranu životního prostředí a udržitelný rozvoj po celém světě.\u003c/p\u003e\u003ch4\u003eNáš projekt\u003c/h4\u003e\u003cp\u003eProjekt „Obnova rašelinišť v přírodní rezervaci ‚La Gruère‘“ přispívá k obnově jedinečného rašeliniště v kantonu Jura. Snižuje emise skleníkových plynů, podporuje biologickou rozmanitost, zlepšuje hospodaření s vodou a podporuje místní stavební průmysl.\u003c/p\u003e\u003cp\u003eLa Gruère je rašeliniště národního významu. Projekt ochrany životního prostředí slouží jako finanční záchranný bod a hraje ústřední roli v iniciativě kompletní obnovy. Tento ambiciózní projekt má rozlohu 55 hektarů a vrstvy rašeliny hluboké až 9 metrů. Bude realizován v několika etapách. První etapa byla dokončena v roce 2018; další etapy jsou plánovány v letech 2024 až 2028.\u003c/p\u003e\u003cp\u003eVýznam rašelinišť pro rovnováhu uhlíku v půdě je obrovský – ačkoli tvoří pouhá 3 procenta rozlohy země, ukládají 30 procent uhlíku z celosvětového objemu půdy. Obnova má pozitivní vliv na ochranu před povodněmi, kvalitu vody, mikroklima a krajinný ráz a poskytuje obyvatelstvu možnosti rekreace. Rašeliniště navíc poskytují útočiště vzácným nebo ohroženým druhům živočichů a rostlin.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eObnovení odvodněných rašelinišť má zásadní význam pro zastavení vstupu emisí CO2 do atmosféry. K odhadu snížení emisí CO2 díky projektům obnovy rašelinišť se používá norma pro výpočet \u003ca href=\"https://www.wsl.ch/en/projects/klimaschutz-durch-hochmoorschutz-1/\" target=\"_blank\"\u003emax.moor\u003c/a\u003e.\u003c/p\u003e\u003cp\u003ePřestože je ochrana rašelinišť zakotvena ve švýcarské ústavě, financování obnovy je často obtížné. Příspěvek na ochranu klimatu nabízí způsob jak podpořit projekty na obnovu a chránit životní prostředí. Svým darem na ochranu životního prostředí přispíváte k velké změně.\u003c/p\u003e\u003cp\u003eDalší informace o projektu naleznete zde: \u003ca href=\"https://www.myclimate.org/en/get-active/climate-protection-projects/detail-climate-protection-projects/landuse-switzerland-7823-004/\" target=\"_blank\"\u003eObnova rašelinišť v přírodní rezervaci La Gruère (myclimate.org)\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"0\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41648/2276639-1-eng-XX/myclimate-7823-004-moor-Schweiz-La_Gruere_BildWiedervernaessung-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42686\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41649/2276644-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42687\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41650/2276649-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_2_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42688\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/o-interhome/udrzitelnost/\"\u003e\u0026gt;\u0026gt; Zjistěte více o dalších tématech udržitelnosti skupiny Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

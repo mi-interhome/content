@@ -1,0 +1,192 @@
+{
+    "id": "39564",
+    "name": "sustainability",
+    "path": "pages/landingsite/about-us/sustainability/it-IT.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability",
+    "slug": "sustainability",
+    "locale": "it-IT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.it/chi-siamo/sostenibilita/",
+            "title": "Sostenibilità | Interhome",
+            "description": "Turismo sostenibile in casa vacanza con il Gruppo Interhome",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/chi-siamo/",
+                            "label": "Chi siamo"
+                        },
+                        {
+                            "href": "/chi-siamo/sostenibilita/",
+                            "label": "Rispetta la natura: la salvaguardia dell'ambiente riguarda tutti noi"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Rispetta la natura: la salvaguardia dell'ambiente riguarda tutti noi",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eQuando si parla di sostenibilità, il Interhome Group è un modello da seguire. Consideriamo nostro dovere lasciare un ambiente sano per le generazioni future. In questo modo come nostro cliente puoi dare il tuo contributo alla protezione del clima durante il soggiorno. L'intero importo viene donato ai progetti di sostenibilità guidati da Myclimate attraverso il Fondo per il Clima M.\u003c/p\u003e\u003cp\u003eCi siamo impegnati per la protezione del clima non solo nei confronti dei nostri clienti e della nostra casa madre, il gruppo Migros, ma anche a livello internazionale. Interhome Group, infatti, ha firmato la \"Dichiarazione di Glasgow sull'azione per il clima nel turismo\" dell'Organizzazione mondiale del turismo delle Nazioni Unite e si è quindi impegnata a ridurre della metà le emissioni di gas serra che generiamo  entro il 2030 raggingendo quindi lo zero assoluto entro il prossimo 2050.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003ePuoi leggere ancora sui nostri obiettivi, la nostra collaborazione con \"Myclimate\" e il nostro programma di protezione delle api. Il nostro team che si occupa di sostenibilità ha messo insieme suggerimenti utili per la vita quotidiana e le vacanze proprio per te. La sostenibilità non ha fine, ecco perché noi siamo costantemente e tenacemente impegnati in un turismo sostenibile per le vacanze in appartamenti e case private: oggi, domani e per sempre.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBiodiversità\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eCambiamento climatico\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eI nostri clienti\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eI nostri partner\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eLe nostre destinazioni\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003eTeam\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eUffici\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38946/2142250-1-eng-XX/Sustainability_2022_wheel_it_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39863\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBiodiversità\u003c/h4\u003e\u003cp\u003eIl cambiamento climatico ha un impatto significativo sulla biodiversità, che a sua volta influisce sul turismo. La biodiversità è la varietà della vita sulla terra, comprese piante, animali e microrganismi. Man mano che il clima cambia, gli ecosistemi vengono alterati e la biodiversità è minacciata. Ciò può portare alla perdita di habitat importanti, all'estinzione di specie e a cambiamenti nei tempi e nella posizione di eventi naturali, come la fioritura o la migrazione.\u003c/p\u003e\u003cp\u003eQuesti cambiamenti hanno un impatto diretto sul turismo, poiché molti viaggiatori sono attratti dalle aree naturali e dalla fauna selvatica. Ad esempio, le barriere coralline, vitali per la biodiversità marina, vengono danneggiate dall'aumento della temperatura del mare e dall'acidificazione degli oceani, rendendole meno attraenti per i turisti. Allo stesso modo, i cambiamenti nella distribuzione della fauna selvatica possono rendere più difficile per i turisti avvistare determinate specie, influenzando la loro esperienza complessiva.\u003c/p\u003e\u003cp\u003eAnche il turismo può contribuire al cambiamento climatico, il che aggrava il problema. L'industria è un importante produttore di gas a effetto serra, in particolare attraverso i trasporti e l'uso di energia. Pertanto, il turismo sostenibile minimizza le emissioni di carbonio e riduce l'impatto sugli ecosistemi naturali, tutti elementi essenziali per mitigare gli effetti negativi dei cambiamenti climatici sulla biodiversità.\u003c/p\u003e\u003cp\u003eIn conclusione, il cambiamento climatico e la perdita di biodiversità hanno un impatto significativo sul turismo e l'industria deve agire per ridurre al minimo il suo contributo al problema e adattarsi all'ambiente in evoluzione. Promuovendo pratiche di turismo sostenibile, possiamo aiutare a proteggere la biodiversità e garantire che le generazioni future possano continuare a godere delle bellezze naturali del nostro pianeta.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eCambiamento climatico\u003c/h4\u003e\u003cp\u003eIl cambiamento climatico è causato dall'aumento dei gas serra nell'atmosfera terrestre, come l'anidride carbonica, il metano e il protossido di azoto. Questi gas intrappolano il calore del sole e fanno aumentare la temperatura del pianeta, con conseguenti cambiamenti nei modelli meteorologici, nei livelli del mare e nell'ambiente naturale. Il settore ricettivo dell'industria del turismo contribuisce in modo significativo alle emissioni di gas serra a causa del suo elevato consumo energetico e della dipendenza dai combustibili fossili. Pratiche di turismo sostenibile, come l'utilizzo di fonti energetiche rinnovabili, la riduzione del consumo energetico e l'attuazione di strategie di riduzione dei rifiuti, possono aiutare a ridurre al minimo l'impatto del settore ricettivo sui cambiamenti climatici e promuovere la sostenibilità ambientale.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eI nostri clienti\u003c/h4\u003e\u003cp\u003eMentre viaggi, impegnati a visitare i monumenti locali, immergiti nella gente e nella cultura locale e sostieni la comunità facendo acquisti a livello locale. Esplora le vivaci offerte dei mercati locali per abbracciare la ricchezza e l'autenticità dell'ambiente circostante lasciando un'impronta positiva sull'economia e sulla comunità locale. In tal modo, non solo creerai momenti memorabili, ma contribuirai anche allo sviluppo sostenibile, preserverai le destinazioni che visiti e parteciperai attivamente alla protezione del clima.\u003c/p\u003e\u003cp\u003eIl nostro impegno per costruire un futuro migliore va oltre le nostre operazioni quotidiane. Riconosciamo l'importanza di proteggere l'ambiente durante le vacanze e siamo determinati a motivare i tuoi clienti a unirsi a noi in questa importante missione. A questo proposito abbiamo curato una raccolta di consigli per aiutarti ad avere un impatto positivo sull’ambiente durante le vacanze senza particolare sforzo.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eI nostri partner\u003c/h4\u003e\u003cp\u003ePerchè i viaggi siano sostenibili è necessaria la collaborazione dei nostri azionisti, partner e fornitori. È importante affrontare insieme questo impegno, imparando gli uni dagli altri ed ispirandosi a vicenda.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eLe nostre destinazioni\u003c/h4\u003e\u003cp\u003eNella nostra azienda attribuiamo grande importanza al benessere dei nostri ospiti e all'ambiente. Per mantenere questo impegno, valutiamo meticolosamente ciascuna delle nostre case vacanza secondo la nostra lista di controllo di sostenibilità. Inoltre attraverso uno stretto rapporto di lavoro con i proprietari di case promuoviamo la collaborazione per migliorare continuamente le pratiche di sostenibilità delle nostre case vacanza.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 12,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003eTeam\u003c/h4\u003e\u003cp\u003eIn Interhome siamo profondamente impegnati a promuovere la consapevolezza ambientale e la sostenibilità. Nell'ambito della nostra dedizione a questi valori, il nostro obiettivo è garantire che ogni dipendente partecipi attivamente all'iniziativa Climate Fresk. Il progetto Climate Fresk è un’iniziativa collaborativa volta ad aumentare la consapevolezza e la comprensione del cambiamento climatico. Si tratta di workshop interattivi in cui i partecipanti si impegnano in una sorta di gioco a esplorare le cause, gli impatti e le potenziali soluzioni al cambiamento climatico. Questi workshop utilizzano una combinazione di informazioni scientifiche e discussioni di gruppo per educare e consentire alle persone di agire contro il cambiamento climatico. Fornendo una piattaforma per il dialogo e la condivisione delle conoscenze, il progetto Climate Fresk non solo promuove un senso di urgenza, ma ispira anche sforzi collettivi per affrontare questo problema globale. Crediamo che coinvolgendo attivamente i nostri dipendenti nei workshop Climate Fresk, possiamo fornire loro preziose informazioni e consentire loro di fare scelte informate verso la costruzione di futuri sostenibili e resilienti al clima.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 14,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eUffici\u003c/h4\u003e\u003cp\u003ePer migliorare il nostro impatto ambientale, abbiamo valutato attentamente ogni ufficio all'interno della nostra organizzazione. Ciò include la valutazione della fonte di elettricità, dei sistemi di riscaldamento e anche di dettagli più piccoli come carta e prodotti per la pulizia. Grazie a queste preziose informazioni, stiamo creando linee guida chiare per promuovere miglioramenti ambientali nei nostri uffici.\u003c/p\u003e\u003cp\u003eComprendendo le implicazioni ambientali delle nostre attività, possiamo implementare strategie mirate a ridurre il nostro impatto ecologico. Ciò comporta l’ottimizzazione delle fonti energetiche, il miglioramento dell’efficienza del sistema di riscaldamento, l’adozione di alternative sostenibili alla carta e l’utilizzo di prodotti per la pulizia ecologici. Questi passi sono essenziali per allineare i nostri uffici a pratiche sostenibili e ridurre al minimo il nostro impatto ambientale complessivo.\u003c/p\u003e\u003cp\u003eAttraverso il nostro impegno costante per la gestione responsabile delle risorse e la riduzione dei rifiuti, miriamo a dare un esempio positivo nel nostro settore e ispirare gli altri a fare lo stesso. Comprendiamo che anche i piccoli cambiamenti possono avere un impatto significativo se moltiplicati all'interno della nostra organizzazione.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 15,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nella tua casa vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "Privacy garantita",
+                    "support": "Assistenza in loco"
+                }
+            },
+            {
+                "id": 16,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 17,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

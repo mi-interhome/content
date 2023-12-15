@@ -1,0 +1,182 @@
+{
+    "id": "15559",
+    "name": "citytrips",
+    "path": "pages/landingsite/topics/citytrips/fr-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/citytrips",
+    "slug": "citytrips",
+    "locale": "fr-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "citytrips"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/fr/idees-vacances/sejours-en-ville/",
+            "title": "Location de vacances ville: séjournez dans un appartement de vacances au coeur de la ville | Interhome",
+            "description": "Faites une pause découverte dans les plus belles villes d'Europe. Choisissez une location de vacances en ville pour vous loger et vivre comme un citadin.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/citytrips/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/images/header_1400x480_city/985978-1-ger-XX/Header_1400x480_city.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/idees-vacances/",
+                            "label": "Des vacances agréables et en toute sécurité – découvrez nos idées vacances"
+                        },
+                        {
+                            "href": "/fr/idees-vacances/sejours-en-ville/",
+                            "label": "Séjours en ville"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Séjours en ville",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eLa plus belle façon de découvrir et d’explorer une nouvelle ville: en logeant dans un appartement et en s’immergeant dans la vie locale. Un appartement de vacances est à la fois le point de départ de balades à la découverte de la ville et un point de chute pour souffler de temps en temps.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eRetrouvez nos suggestions pour votre séjour, vous trouverez sûrement une location de vacances adaptée à vos besoins et à votre budget. Studio ou appartement pour une virée en famille ou entre amis, c'est le moment de réserver.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Nos suggestions",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eSéjours en ville hivernaux –Faites vos cadeaux en visitant les marchés de Noël\u003c/h3\u003e\u003cp\u003eFaites de vos courses de Noël un moment magique! Visitez les marchés de Noël et profitez-en pour découvrir des métropoles fascinantes pendant votre shopping. \u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Heading",
+                "content": {
+                    "title": "Trouvez votre location pour votre shopping de Noël",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eVacances de Pâques\u003c/h3\u003e\u003cp\u003eLes températures printanières d’avril sont parfaites pour un court séjour dans une grande ville européenne. Que ce soit Londres, Barcelone ou Rome -Interhome vous propose les meilleurs appartements en ville. \u0026gt;\u0026gt; \u003ca href=\"/fr/sejours-en-ville/?checkin=2024-03-29\u0026duration=3\"\u003eDécouvrez la location de vos rêves pour votre escapade citadine de Pâques\u003c/a\u003e \u0026gt;\u0026gt; \u003ca href=\"/fr/idees-vacances/vacances-de-paques/\"\u003ePlein d'autres idées pour les vacances de Pâques\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"/fr/idees-vacances/\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité. Qu'importe vos envies...Interhome vous propose 40.000 maisons et appartements de vacances dans 28 pays.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eD'un \u003ca href=\"/fr/chalet/\"\u003echalet à la montagne\u003c/a\u003e à une \u003ca href=\"/fr/villa/piscine/\"\u003evilla avec piscine\u003c/a\u003e ou à un château, nous avons la location qui vous convient. Vous pouvez réserver votre location directement depuis notre site internet. Interhome vous fournit toutes les informations nécessaires avant votre départ et s'occupe du nettoyage dès votre départ. De plus, vous profitez de \u003ca href=\"/fr/a-propos-d-interhome/standards-qualite/\"\u003ela qualité\u003c/a\u003e de nos logements grâce à un système suisse de classification par étoile.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

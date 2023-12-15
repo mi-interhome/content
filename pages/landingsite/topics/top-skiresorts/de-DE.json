@@ -1,0 +1,168 @@
+{
+    "id": "18404",
+    "name": "top-skiresorts",
+    "path": "pages/landingsite/topics/top-skiresorts/de-DE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/top-skiresorts",
+    "slug": "top-skiresorts",
+    "locale": "de-DE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "top-skiresorts"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.de/urlaubsideen/top-skigebiete/",
+            "title": "Ferienhäuser, Ferienwohnungen und Chalets in top Skigebieten | Interhome",
+            "description": "Urlaub in Top Skigebieten - mit Interhome im eigenen Chalet, Ferienhaus oder der eigenen Ferienwohnung",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/top-skiresorts/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_winter_1_top_ski_resorts_20202/1789557-1-eng-XX/Header_1200x410_Winter_1_Top_ski_resorts_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/urlaubsideen/",
+                            "label": "Sichere, schöne Urlaubstage - entdecken Sie unsere Urlaubsideen"
+                        },
+                        {
+                            "href": "/urlaubsideen/top-skigebiete/",
+                            "label": "Urlaub in Top Skigebieten"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Urlaub in Top Skigebieten",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eGeniessen Sie Europas Top Skigebiete und verbringen Sie einen unvergesslichen Skiurlaub mit Interhome. Unsere komfortablen Chalets, traumhaften Ferienhäuser, direkt an der Piste gelegenen Skihütten und einzigartigen Ferienwohnungen bieten für jeden Geschmack und jedes Budget genau das Richtige. \u003c/p\u003e\u003cp\u003eEgal ob Sie Ihren Urlaub zu zweit, in kleiner Gruppe, mit Ihrer Familie oder vielen Freunden planen: An unseren Standorten in \u003ca href=\"/oesterreich/oetztal/soelden/\"\u003eSölden/Ötztal\u003c/a\u003e, \u003ca href=\"/oesterreich/paznaun/ischgl/\"\u003eIschgl\u003c/a\u003e, \u003ca href=\"/oesterreich/arlberg/sankt-anton-am-arlberg/?skiing=true\u0026season=winter\"\u003eSt. Anton\u003c/a\u003e, \u003ca href=\"/oesterreich/pinzgau/zell-am-see/\"\u003eZell am See/Kaprun\u003c/a\u003e, \u003ca href=\"/oesterreich/zillertal/skifahren-snowboard/?season=winter\"\u003eim Zillertal\u003c/a\u003e, \u003ca href=\"/oesterreich/pitztal/\"\u003eim Pitztal\u003c/a\u003e, \u003ca href=\"/schweiz/wallis/zermatt/?skiing=true\u0026season=winter\"\u003ein Zermatt\u003c/a\u003e, \u003ca href=\"/schweiz/engadin/st-moritz/?skiing=true\u0026season=winter\"\u003eSt. Moritz\u003c/a\u003e, \u003ca href=\"/frankreich/savoyen-hochsavoyen/chamonix/?skiing=true\u0026season=winter\"\u003ein Chamonix\u003c/a\u003e oder \u003ca href=\"/schweiz/wallis/verbier/?skiing=true\u0026season=winter\"\u003eVerbier\u003c/a\u003e bleiben keine Wünsche offen. \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eGanz gleich ob Sie Skifahren, Snowboarden, auf die Loipe oder auf Skitour gehen: In Skigebieten mit langen Abfahrten und breiten Pisten, im frischen Pulverschnee und mit unendlichen Variationsmöglichkeiten bei der Streckenwahl schlägt Ihr Wintersport-Herz höher. In Ihrem Urlaubs-Zuhause verbringen Sie die Abende dann ganz entspannt im eigenen, heimeligen Wohnzimmer, wo ein gemütliches Sofa und je nach Ferienunterkunft sogar ein wärmendes, flackerndes Kaminfeuer auf Sie wartet. Oder es zieht Sie noch einmal raus auf eine der zahlreichen Après-Ski Partys.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Hier macht der Winter am meisten Spass: ",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Heading",
+                "content": {
+                    "title": "Weitere Vorteile für unsere Wintersport-Gäste:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

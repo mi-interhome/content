@@ -1,0 +1,145 @@
+{
+    "id": "19283",
+    "name": "SE - Upp till 43% rabatt på över 40.000 semesterboenden",
+    "path": "pages/landingsite/pages/se-upp-till-43-rabatt-pa-oever-40-000-semesterboenden/sv-SE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/se-upp-till-43-rabatt-pa-oever-40-000-semesterboenden",
+    "slug": "se-upp-till-43-rabatt-pa-oever-40-000-semesterboenden",
+    "locale": "sv-SE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "se-upp-till-43-rabatt-pa-oever-40-000-semesterboenden"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.se/pages/ecster/",
+            "title": "Upp till 43% rabatt på över 40.000 semesterboenden | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/SE - Upp till 43% rabatt på över 40.000 semesterboenden/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/ecster/",
+                            "label": "Upp till 43% rabatt på över 40.000 semesterboenden"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Upp till 43% rabatt på över 40.000 semesterboenden",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eVälkommen till Interhome!\u003c/h3\u003e\u003ch3\u003eVi hyr ut över 40 000 kvalitetssäkrade semesterhus och lägenheter i 31 länder.\u003c/h3\u003e\u003cp\u003eOavsett om du söker sol och bad, vill upptäcka Europas storstäder eller drömmer om en vit vinter i Alperna, så erbjuder Interhome semesterboenden i alla prisklasser. Interhome tar hand om hela processen från bokning, nyckelutlämning till slutstädning. Det är Du som har semester! \u003c/p\u003e\u003cp\u003eSom ecster-kund får du alltid minimum 10% rabatt på alla våra semesterhus. Rabatten gäller självklart även på våra speciellt utvalda exklusiva-hus samt på Sista-Minuten och boka-tidigt-priser!\u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003eSå här bokar du!\u003c/h3\u003e\u003cp\u003eBoka alla våra semesterbostäder\u003cstrong\u003e \u003ca href=\"/?partnerid=SE1000417\"\u003ehär\u003c/a\u003e\u003c/strong\u003e och få minimum 10% rabatt.\u003c/p\u003e\u003cp\u003eBoka din Sista-Minuten-semesterbostad \u003cstrong\u003e\u003ca href=\"/semestertips/sista-minuten/?partnerid=SE1000417\"\u003ehär\u003c/a\u003e\u003c/strong\u003e och få upptill 43% rabatt (33%+10%).                                                                                          Boka boende i god tid före avresa \u003cstrong\u003e\u003ca href=\"/semestertips/boka-tidigt-rabatt/?partnerid=SE1000417\"\u003ehär \u003c/a\u003e\u003c/strong\u003eoch få upptill 20% rabatt (10%+10%).\u003c/p\u003e\u003cp\u003eUppge alltid rabattkod: ECSTER\u003c/p\u003e\u003cp\u003eHar du frågor kring våra produkter når du oss här: Interhome Tel: 08-216550 E-post: \u003ca href=\"mailto:info@interhome.se\"\u003einfo@interhome.se\u003c/a\u003e\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/ecster2/1022467-1-swe-SE/Ecster.png\" width=\"908\" height=\"681\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"19332\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg är du i ditt fritidshus!",
+                    "link": {
+                        "href": "/om-interhome/säkerhet-i-ditt-semesterhus/",
+                        "label": "Mer information"
+                    },
+                    "car": "Individuell ankomstresa",
+                    "cleaning": "Kontrollerad städning",
+                    "independence": "Fri och oberoende",
+                    "key": "Säkert nyckelöverläm nande på plats",
+                    "privacy": "Privatsfär i ditt fritidshus",
+                    "support": "Personlig hjälp på plats under vistelsen"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Endast kvalitetssäkrade semesterbostäder",
+                            "subtitle": "Kvalitet är vår främsta prioritet",
+                            "caption": "Varje fastighet kontrolleras före ankomst för att garantera bästa möjliga vistelse"
+                        },
+                        {
+                            "title": "Garanterad tillgänglighet och service på plats ",
+                            "subtitle": "Få det bästa ut av vår expertis",
+                            "caption": "Nyckelhantering arrangeras av vår hjälpsamma personal. Tillgänglig dygnet runt eller på plats för att hjälpa dig med alla dina frågor, till exempel: med tips och kunskap om ditt semestermål och ditt bokade boende."
+                        },
+                        {
+                            "title": "En minnesvärd semesterupplevelse",
+                            "subtitle": "Privatliv och frihet i ditt eget semesterboende",
+                            "caption": "Var din egen chef, äta när du vill och njut av gott om plats för alla dina vänner och familj"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Varför boka boende med Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig varit lättare att hitta det perfekta huset, stugan eller lägenheten för semestern. Vill du utforska nya resmål? Det finns inget bättre sätt än att göra det i ett semesterhus: \u003ca href=\"/spanien/\"\u003eHyr ett hus i Spanien\u003c/a\u003e, eller en \u003ca href=\"/sverige/\"\u003estuga i Sverige\u003c/a\u003e, eller varför inte \u003ca href=\"/italien/\"\u003ehyra en villa i Italien\u003c/a\u003e. Bli inspirerad av våra \u003ca href=\"\"\u003esemestertips\u003c/a\u003e och boka online - snabbt, enkelt och säkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAtt hyra en stuga, hus eller lägenhet för semestern erbjuder många fördelar: Bland annat kan du spendera din tid precis som du vill. Ingen störning från andra gäster eller hotellpersonal, bara njuta av din semester och följa dina egna regler. Oavsett om du letar efter en \u003ca href=\"/semestertips/storstadssemester/\"\u003estorstadssemester\u003c/a\u003e, en avkopplande semester med \u003ca href=\"/semestertips/semesterboende-barnfamiljer/\"\u003edin familj eller med vänner\u003c/a\u003e. Helt enkelt njut av mycket utrymme, flexibilitet och frihet i ditt eget semesterboende.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

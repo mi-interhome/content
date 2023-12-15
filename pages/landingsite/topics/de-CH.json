@@ -1,0 +1,188 @@
+{
+    "id": "36476",
+    "name": "topics",
+    "path": "pages/landingsite/topics/de-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics",
+    "slug": "topics",
+    "locale": "de-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/ferienideen/",
+            "title": "Abwechslungsreiche Ferienideen bei Interhome",
+            "description": "Verbringen Sie unvergessliche Ferien in einem Land Ihrer Wahl in einem Ferienhaus von Interhome. Lassen Sie sich von unseren Ferienideen inspirieren!",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_holiday_ideas_2021_22/2276918-1-eng-XX/Header_1200x410_IH_holiday_ideas_2021_22.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ferienideen/",
+                            "label": "Sichere, schöne Ferientage - entdecken Sie unsere Ferienideen"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Sichere, schöne Ferientage - entdecken Sie unsere Ferienideen",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eLassen Sie sich von unseren Ideen für Ihre Ferienhausferien inspirieren und entdecken Sie das perfekte Ferienhaus oder die ideale Ferienwohnung für Ihre Wünsche: Machen Sie einfach Ferien ohne Kompromisse, mit mehr Platz und Freiheit als in einem Hotel.\u003c/p\u003e\u003cp\u003eDas Interhome Angebot deckt alle persönlichen Wünsche und Bedürfnisse ab. Sie haben die Wahl zwischen einem grosszügigen Ferienhaus mit Pool, einer Villa am Meer, einem gemütlichen Chalet in den Bergen, einem alleinstehenden Ferienhaus als idealen Rückzugsort in der Natur oder einer praktischen Ferienwohnung direkt im Stadtzentrum.\u003c/p\u003e\u003cp\u003eHier finden Sie bestimmt die richtige Inspiration für Ihre nächsten Ferien!\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eDeshalb sind Ferien im Ferienhaus oder in der Ferienwohnung genau das Richtige für Sie:\u003c/h4\u003e\u003cp\u003eUrlaub im Ferienhaus bedeutet Freiheit sowie Unabhängigkeit und das beginnt schon mit der individuellen Anreise im eigenen Auto. Sie sind Ihr eigener Chef und können jederzeit ungestört Ihre Privatsphäre genießen.\u003c/p\u003e\u003cp\u003eSie haben Ihre Unterkunft für sich alleine und die Möglichkeit, sich selbst zu versorgen.\u003c/p\u003e\u003cp\u003eGestalten Sie Ihre Ferien nach Ihren Vorstellungen, ohne dabei auf den gewohnten Komfort, Qualität und die Sicherheit in den eigenen 4 Wänden verzichten zu müssen.\u003c/p\u003e\u003cp\u003eVerbringen Sie Ihre Reise unbeschwert, denn auch vor Ort sind Sie stets in guten Händen, profitieren von einer persönlichen Betreuung und einer sicheren und unkomplizierten Schlüsselübergabe.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/ueber-interhome/sicherheit-im-ferienhaus/\" target=\"_blank\"\u003e\u0026gt;\u0026gt; So sicher sind Sie in Ihrem Ferienhaus! Hier erfahren Sie mehr\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Ferien im eigenen Land - Entspannung im Nullkommanichts",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eKurze und unkomplizierte Anreise sowie vertraute Sprache und Währung: Ihnen bleibt umso mehr Zeit und Ferienbudget, Ihre Ferien in der Schweiz so richtig auszukosten. Es lohnt sich auch schon, nur kurz aus dem Alltag auszubrechen, mit Interhome sind Kurzaufenthalte bereits ab wenigen Nächten möglich. Es lohnt sich auch ein Blick auf unsere \u003ca href=\"/schweiz/last-minute/\"\u003eLast Minute Angebote\u003c/a\u003e, oder bei längerfristiger Planung auf Ferienunterkünfte mit \u003ca href=\"/schweiz/fruehbucher-rabatt/\"\u003eFrühbucherrabatt\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eJetzt heisst es also raus aus dem Alltag und im Ferienhaus oder in einer Ferienwohnung die schönsten Regionen des eigenen Landes zu entdecken! \u003ca id=\"Sicherheit\"\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Heading",
+                "content": {
+                    "title": "Winterferien",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Heading",
+                "content": {
+                    "title": "Sommerferien",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 12,
+                "component": "Heading",
+                "content": {
+                    "title": "Weitere Ferienideen ",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 14,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Ferien-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 15,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöne, sichere Ferien",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 16,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Ferienziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interhome finden Sie immer die passende Unterkunft für Ihre Traumferien in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Feriendestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/daenemark/\"\u003eDänemark\u003c/a\u003e | \u003ca href=\"/deutschland/\"\u003eDeutschland\u003c/a\u003e | \u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/niederlande/\"\u003eHolland\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/schweiz/\"\u003eSchweiz\u003c/a\u003e | \u003ca href=\"/spanien/\"\u003eSpanien\u003c/a\u003e | \u003ca href=\"/schweiz/berner-oberland/\"\u003eBerner Oberland\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/schweiz/graubuenden/\"\u003eGraubünden\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/deutschland/nordsee/\"\u003eNordsee\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/schweiz/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/schweiz/wallis/\"\u003eWallis\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Ferienwunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerferien am Strand mit der Familie, Skiferien oder eine Städtereise - lassen Sie sich inspirieren von unseren Ferienideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

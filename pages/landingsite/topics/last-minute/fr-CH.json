@@ -1,0 +1,150 @@
+{
+    "id": "15514",
+    "name": "last-minute",
+    "path": "pages/landingsite/topics/last-minute/fr-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/last-minute",
+    "slug": "last-minute",
+    "locale": "fr-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "last-minute"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/fr/theme/last-minute/",
+            "title": "Vacances Last Minute | Interhome",
+            "description": "Réservez vos vacances Last Minute moins de 8 jours avant le départ et bénéficiez de réductions exclusives sur le loyer sur certains logements.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/last-minute/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_last_minute_autumn_2020/2079758-5-eng-XX/Header_1200x410_IH_Last_Minute_Autumn_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/theme/",
+                            "label": "Idées vacances tout confort"
+                        },
+                        {
+                            "href": "/fr/theme/last-minute/",
+                            "label": "Vacances Last Minute"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Vacances Last Minute",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eRéservez vos vacances \"Last Minute\" moins de 8 jours avant le départ et bénéficiez de réduction Last Minute sur le loyer sur certains logements.\u003cbr\u003eProfitez de quelques jours de relaxation spontanée! L’occasion n’a jamais été aussi belle.\u003c/p\u003e\u003cp\u003eEn réservant à la dernière minute, vous bénéficiez d'une réduction «Dernière Minute» sur le loyer de certaines locations de vacances. Réservez moins de 8 jours avant le départ et bénéficiez de la promotion sur certains logements. Ne ratez pas cette occasion!\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003e\u003cstrong\u003eImportant:\u003c/strong\u003e Les réservations en ligne sont possibles jusqu'à 2 jours avant la date du départ. Pour les réservations à plus court terme, contactez-nous par téléphone au 0840 84 88 88 (24h/24, 7j/7).\u003c/p\u003e\u003cp\u003eSuggestions de locations pour partir à la \"Dernière Minute\": \u003ca href=\"/fr/suisse/derniere-minute/\"\u003eSuisse\u003c/a\u003e | \u003ca href=\"/fr/france/derniere-minute/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/fr/espagne/derniere-minute/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/fr/italie/derniere-minute/\"\u003eItalie\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

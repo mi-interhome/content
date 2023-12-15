@@ -1,0 +1,176 @@
+{
+    "id": "39565",
+    "name": "co2-compensation",
+    "path": "pages/landingsite/about-us/sustainability/co2-compensation/it-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/co2-compensation",
+    "slug": "co2-compensation",
+    "locale": "it-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "co2-compensation"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/it/chi-siamo/sostenibilita/compensazione-co2/",
+            "title": "Rinaturazione della torbiera alta di La Gruère (Svizzera) | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/co2-compensation/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_moor_ch_2023/2276602-1-eng-XX/Header_1200x410_IH_Moor_CH_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/it/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/it/chi-siamo/",
+                            "label": "Chi siamo"
+                        },
+                        {
+                            "href": "/it/chi-siamo/sostenibilita/",
+                            "label": "Rispetta la natura: la salvaguardia dell'ambiente riguarda tutti noi"
+                        },
+                        {
+                            "href": "/it/chi-siamo/sostenibilita/compensazione-co2/",
+                            "label": "Rinaturazione della torbiera alta di La Gruère (Svizzera)"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Rinaturazione della torbiera alta di La Gruère (Svizzera)",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eInterhome Group offre a tutti gli ospiti la possibilità di dare un contributo volontario per il clima. Il tuo contributo volontario per la protezione del clima confluisce nel progetto \"Ripristino delle torbiere nel Parco naturale della Gruère.\"\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch4\u003eIl nostro partner\u003c/h4\u003e\u003cp\u003ePer questo progetto collaboriamo con Myclimate. Con progetti di altissima qualità, questa  fondazione svizzera promuove la protezione del clima in maniera misurabile e lo sviluppo sostenibile in tutto il mondo.\u003c/p\u003e\u003ch4\u003eIl nostro progetto\u003c/h4\u003e\u003cp\u003eIl progetto \"Ripristino delle torbiere nella riserva naturale 'La Gruère'\" contribuisce al recupero di una torbiera unica situata nella regione del Giura. Essa riduce le emissioni di gas serra, promuove la biodiversità, migliora la gestione dell’acqua e sostiene il settore edile locale.\u003c/p\u003e\u003cp\u003eLa Gruère è una torbiera di importanza nazionale. Il progetto di protezione del clima non solo funge da àncora di salvezza economica, ma svolge anche un ruolo centrale nell'ambito delle iniziative di ecologia restaurativa. Questo ambizioso progetto, che copre un'area di 55 ettari e strati di torba fino a 9 metri di profondità, viene attuato in più fasi. La prima fase è stata completata nel 2018, con ulteriori fasi previste tra il 2024 e il 2028.\u003c/p\u003e\u003cp\u003eL’importanza delle torbiere per l'equilibrio del carbonio del suolo è enorme: anche se costituiscono solo il tre percento della superficie terrestre, immagazzinano il 30 percento del carbonio del suolo in tutto il mondo. Il restauro ecologico ha effetti positivi sulla protezione dalle inondazioni, sulla qualità dell’acqua, sul microclima e sulla progettazione del paesaggio e offre opportunità ricreative alla popolazione. Inoltre, le torbiere forniscono l'habitat per specie animali e vegetali rare o in via di estinzione.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eLa riumidificazione delle torbiere drenate è fondamentale per impedire l'immissione nell'atmosfera  di emissioni di CO2. Lo standard di calcolo \u003ca href=\"https://www.wsl.ch/it/progetti/klimaschutz-durch-hochmoorschutz-1/\" target=\"_blank\"\u003emax.moor\u003c/a\u003e viene utilizzato per stimare il risparmio di CO2 ottenuto attraverso progetti di ecologia restaurativa.\u003c/p\u003e\u003cp\u003eAnche se la tutela delle torbiere alte è prevista dalla Costituzione svizzera, il finanziamento dei progetti di rinaturalizzazione è spesso difficile. Il nostro contributo per la protezione del clima offre una soluzione per sostenere progetti di ripristino e proteggere l’ambiente. Dando il tuo contributo alla protezione del clima, dai un contributo enorme.\u003c/p\u003e\u003cp\u003ePotete trovare ulteriori informazioni sul progetto qui: \u003ca href=\"https://www.myclimate.org/it-ch/partecipare-attivamente/progetti-per-la-tutela-del-clima/dettagli-sui-progetti-di-protezione-del-clima/landuse-switzerland-7823-004/\" target=\"_blank\"\u003eRestoration of peatland in the nature reserve La Gruère (myclimate.org)\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"0\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41648/2276639-1-eng-XX/myclimate-7823-004-moor-Schweiz-La_Gruere_BildWiedervernaessung-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42686\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41649/2276644-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42687\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41650/2276649-1-eng-XX/myclimate-7823-004-Moor-Schweiz-La-Gruere-Foto-LINeco_2_550x410px.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42688\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/it/chi-siamo/sostenibilita/\"\u003e\u0026gt;\u0026gt; Maggiori informazioni sui progetti relativi alla sostenibilità supportati da Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nelle Sua casa per Vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/it/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello garantita",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "In una casa per vacanze la privacy è garantita",
+                    "support": "Assistenza in loco"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna delle chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/it/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/it/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"https://www.interhome.it/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"https://www.interhome.it/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
