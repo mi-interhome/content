@@ -15,346 +15,13 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/news/20180123-interhome-hier-trifft-amor-mitten-ins-herz",
+                    "domainpath": "/thoeni",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/news/2018/20180123-interhome-hier-trifft-amor-mitten-ins-herz/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/on-piste",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/near-slopes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/skipass",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/frankreich/centre",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/frankreich/loiretal/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/sport2000",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/suche/?partnerid=AT1000678",
+                            "target": "/pages/thoeni/?partnerid=AT1001025",
                             "targettokens": [
-                                "partnerid=AT1000678"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/schweden/oerebro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweden/naerke",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20170822-ultimativer-ferienhaus-luxus",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2017/20170822-ultimativer-ferienhaus-luxus/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/nachhaltigkeit",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-interhome/nachhaltigkeit/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/urlaubsideen/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/offer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/lang",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/lang/?partnerid=AT1000929",
-                            "targettokens": [
-                                "partnerid=AT1000929"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/kataloge",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/kataloge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/about-us/safety-in-your-holiday-home",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/safety-in-your-holiday-home/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/important-notes/data-protection",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/energieooe",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-energieooe/?partnerid=AT1000919",
-                            "targettokens": [
-                                "partnerid=AT1000919"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/familienpass",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-kooperation-familienpassinhaber/?partnerID=AT1000884",
-                            "targettokens": [
-                                "partnerID=AT1000884"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/travelguide",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/travelguide/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/datenschutz",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/datenschutz/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/favorites",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/favourites",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20180320-auszeit-im-ferienhaus",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2018/20180320-auszeit-im-ferienhaus/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/bergrettung",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/bergrettung/?partnerid=AT1001339",
-                            "targettokens": [
-                                "partnerid=AT1001339"
+                                "partnerid=AT1001025"
                             ]
                         }
                     ]
@@ -382,6 +49,218 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
+                    "domainpath": "/kundenservice/reiseservice",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reiseservice/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/vaaoe",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/kooperation-vaaoe/?partnerID=AT1000380",
+                            "targettokens": [
+                                "partnerID=AT1000380"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/aboutus/sustainability-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/switzerland/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/switzerland/mittelbuenden/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20180710-koffer-packen-ferienhaus",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/20180710-koffer-packen-ferienhaus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/skipass",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/sherlockholmes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/swisspeakresorts/?partnerid=CH1001911",
+                            "targettokens": [
+                                "partnerid=CH1001911"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reiseservice/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/gutscheincode",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/gutscheincode/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/datenschutz",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/datenschutz/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/ski-holiday",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/winter-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/schweden/oerebro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweden/naerke",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/about-us/company-profile",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/company-profile/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20170822-ultimativer-ferienhaus-luxus",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2017/20170822-ultimativer-ferienhaus-luxus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/travel-ideas/new-year-eve",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/public-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
                     "domainpath": "/schweiz/wallis/prarreyer-le-chable",
                     "querymaps": [
                         {
@@ -395,13 +274,13 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/swarovski",
+                    "domainpath": "/sport2000",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/pages/swarovski/?partnerid=AT1000781",
+                            "target": "/suche/?partnerid=AT1000678",
                             "targettokens": [
-                                "partnerid=AT1000781"
+                                "partnerid=AT1000678"
                             ]
                         }
                     ]
@@ -410,11 +289,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/news/2018-09-18_rekordsommer-fuer-buchungen-in-at",
+                    "domainpath": "/en/important-notes/terms-conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/news/2018/2018-09-18_Rekordsommer-fuer-Buchungen-in-AT/",
+                            "target": "/customer-service/conditions/",
                             "targettokens": []
                         }
                     ]
@@ -423,11 +302,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/news/20190129-heiraten-im-ferienhaus",
+                    "domainpath": "/en/skiopening",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/news/2019/20190129-heiraten-im-ferienhaus/",
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -436,26 +315,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/rewe",
+                    "domainpath": "/en/norway/southern-fjord-norway",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/pages/rewe/?partnerid=AT1001027",
-                            "targettokens": [
-                                "partnerid=AT1001027"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/about-us",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/aboutus/",
+                            "target": "/norway/fjord-norway",
                             "targettokens": []
                         }
                     ]
@@ -464,11 +328,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/kundenservice/imprint",
+                    "domainpath": "/en/switzerland/ticino/calonico-faido",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/impressum/",
+                            "target": "/switzerland/ticino/calonico/",
                             "targettokens": []
                         }
                     ]
@@ -477,11 +341,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/deutschland/insel-ruegen",
+                    "domainpath": "/news/20190226-und-action",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/deutschland/ruegen/",
+                            "target": "/news/2019/20190226-und-action2/",
                             "targettokens": []
                         }
                     ]
@@ -490,11 +354,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/sustainability",
+                    "domainpath": "/en/pages/autumn",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/aboutus/sustainability/",
+                            "target": "/en/holiday-ideas/autumn-holidays/",
                             "targettokens": []
                         }
                     ]
@@ -503,24 +367,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/schweiz/berner-oberland/lauenen-b.-gstaad",
+                    "domainpath": "/en/imprint",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/schweiz/berner-oberland/lauenen-bei-gstaad/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/with-pool",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/villa-with-pool/",
+                            "target": "/en/imprint/",
                             "targettokens": []
                         }
                     ]
@@ -544,14 +395,94 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/sherlockholmes",
+                    "domainpath": "/en/last-minute",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/swisspeakresorts/?partnerid=CH1001911",
+                            "target": "/en/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/norwegen/suedliches-fjordnorwegen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/fjordnorwegen",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/swarovski",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/swarovski/?partnerid=AT1000781",
                             "targettokens": [
-                                "partnerid=CH1001911"
+                                "partnerid=AT1000781"
                             ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/wuk",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/WUK/?partnerid=AT1001355",
+                            "targettokens": [
+                                "partnerid=AT1001355"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
                         }
                     ]
                 }
@@ -572,11 +503,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/skiset",
+                    "domainpath": "/nachhaltigkeit",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/travel-extras/skiset/",
+                            "target": "/ueber-interhome/nachhaltigkeit/",
                             "targettokens": []
                         }
                     ]
@@ -585,13 +516,13 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/gpa",
+                    "domainpath": "/mpreis",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/pages/kooperation-gpa/?partnerID=AT1000178",
+                            "target": "/pages/at-mpreis/?partnerid=AT1001009",
                             "targettokens": [
-                                "partnerID=AT1000178"
+                                "partnerid=AT1001009"
                             ]
                         }
                     ]
@@ -600,11 +531,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/norwegen/-aeusserer-sogneford",
+                    "domainpath": "/pages/herbsturlaub",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norwegen/-aeusserer-sognefjord/",
+                            "target": "/urlaubsideen/herbsturlaub/",
                             "targettokens": []
                         }
                     ]
@@ -613,11 +544,141 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/news/20180606-duck-house-neu-bei-interhome",
+                    "domainpath": "/schweiz/viamala-surses-albulatal/alvaschein GR",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/news/2018/20180606-Duck-House-neu-bei-Interhome/",
+                            "target": "/schweiz/viamala-surses-albulatal/alvaschein/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/insurances/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/with-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/villa-with-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/about-us/safety-in-your-holiday-home",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/safety-in-your-holiday-home/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/exklusiv-und-luxurioes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/travel-insurance/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/katalog",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/kataloge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20190326-essen-wie-gott-in-frankreich",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2019/20190326-essen-wie-gott-in-frankreich2/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/italien/piemont/valsesia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/piemont/alagna-valsesia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -641,26 +702,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/statistikaustria",
+                    "domainpath": "/news/20171114-ferienhausreport-2017",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/pages/at-statistikaustria/?partnerid=AT1000852",
-                            "targettokens": [
-                                "partnerid=AT1000852"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/imprint",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/imprint/",
+                            "target": "/news/2017/20171114-ferienhausreport-2017/",
                             "targettokens": []
                         }
                     ]
@@ -669,294 +715,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/important-notes/terms-of-use",
+                    "domainpath": "/kundenservice/conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/about-us",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-interhome/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/schweiz/viamala-surses-albulatal/alvaschein GR",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweiz/viamala-surses-albulatal/alvaschein/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20-jahre-ferienhausvermietung",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2018/20-jahre-ferienhausvermietung/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/about-us/company-profile",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/company-profile/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/pages/herbsturlaub",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/herbsturlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/isd",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/isd/?partnerid=AT1001091",
-                            "targettokens": [
-                                "partnerid=AT1001091"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/swarovskioptik",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-swarovskioptik/?partnerid=AT1000838",
-                            "targettokens": [
-                                "partnerid=AT1000838"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20170710-at-der-berg-ruft",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2017/20170710-at-der-berg-ruft/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/gutscheincode",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/gutscheincode/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/kundenservice/impressum",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/impressum/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/cardcomplete",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/kooperation-card-complete/?partnerID=AT1000245",
-                            "targettokens": [
-                                "partnerID=AT1000245"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/mpreis",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-mpreis/?partnerid=AT1001009",
-                            "targettokens": [
-                                "partnerid=AT1001009"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/norway/southern-fjord-norway",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norway/fjord-norway",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/kontakt/katalogbestellung",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/kataloge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/casinosaustria",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-casinos-austria/?partnerID=AT1000833",
-                            "targettokens": [
-                                "partnerID=AT1000833"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/customer-service/travel-insurance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/insurances/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/family",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/family/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/important-notes/review-policy",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/review-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20190226-und-action",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2019/20190226-und-action2/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/norwegen/-innerer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/-innerer-sognefjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/kundenservice/reiseservice",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reiseservice/",
+                            "target": "/kundenservice/agb/",
                             "targettokens": []
                         }
                     ]
@@ -978,7 +741,7 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/reiseziele",
+                    "domainpath": "/swisspeakresorts",
                     "querymaps": [
                         {
                             "query": null,
@@ -991,11 +754,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/norwegen/oslo-und-osloford",
+                    "domainpath": "/en/holiday-ideas/family-kids",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norwegen/oslo-und-oslofjord/",
+                            "target": "/holiday-ideas/family/",
                             "targettokens": []
                         }
                     ]
@@ -1004,11 +767,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/deutschland/insel-usedom",
+                    "domainpath": "/norwegen/-aeusserer-sogneford",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/deutschland/usedom/",
+                            "target": "/norwegen/-aeusserer-sognefjord/",
                             "targettokens": []
                         }
                     ]
@@ -1017,11 +780,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/katalog",
+                    "domainpath": "/en/favorites",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kontakt/kataloge/",
+                            "target": "/favourites",
                             "targettokens": []
                         }
                     ]
@@ -1030,11 +793,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/skiset",
+                    "domainpath": "/about-us",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reiseservice/skiset/",
+                            "target": "/ueber-interhome/",
                             "targettokens": []
                         }
                     ]
@@ -1043,7 +806,7 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/news/ferienhausreport-2019-04-30-interhome-oesterreich",
+                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
                     "querymaps": [
                         {
                             "query": null,
@@ -1056,89 +819,7 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/about-us/sustainability",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/ferienhaus-pool",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/ferienhaus-pool/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/france/cote-d-azur/agay",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/france/cote-d-azur/agay-saint-raphael/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/gemnova",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/gemnova/?partnerid=AT1001090",
-                            "targettokens": [
-                                "partnerid=AT1001090"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/agb/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/energieag",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-energieag/?partnerid=AT1000917",
-                            "targettokens": [
-                                "partnerid=AT1000917"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/partner",
+                    "domainpath": "/partner",
                     "querymaps": [
                         {
                             "query": null,
@@ -1151,331 +832,7 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/pka",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-kooperation-pka/?partnerID=AT1000885",
-                            "targettokens": [
-                                "partnerID=AT1000885"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/ski-children-families",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/family-friendly/skiing-snowboarding/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/partnerportal",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/tirolersparkasse",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-tiroler-sparkasse",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/pages/autumn",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/autumn-holidays/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/thoeni",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/thoeni/?partnerid=AT1001025",
-                            "targettokens": [
-                                "partnerid=AT1001025"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20190326-essen-wie-gott-in-frankreich",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2019/20190326-essen-wie-gott-in-frankreich2/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/exklusiv-und-luxurioes",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/casa-selection/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/oenb",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/at-kooperation-oenb/?partnerID=AT1000842",
-                            "targettokens": [
-                                "partnerID=AT1000842"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/customer-service/faqs",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/faq/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/chalet-ski-cottage",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/chalet/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/aboutus/sustainability-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/france/pyrenees-orientales/llauro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/france/pyrenees-orientales/torderes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/kundenservice/cookies",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/datenschutz/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/schweden/bohuslaen-und-vaestra-goetaland",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweden/vaestergoetland",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/summerspecial",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/suche/?season=summer",
-                            "targettokens": [
-                                "season=summer"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/important-notes",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/pages/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/travel-extras/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/wuk",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/WUK/?partnerid=AT1001355",
-                            "targettokens": [
-                                "partnerid=AT1001355"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/early-booking-discount",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/early-bird-deals/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/arboe",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/kooperation-arboe/?partnerID=AT1000226",
-                            "targettokens": [
-                                "partnerID=AT1000226"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/norwegen/suedliches-fjordnorwegen",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/fjordnorwegen",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/montavit",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/montavit/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/travel-insurance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/travel-insurance/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/offer",
+                    "domainpath": "/news/ferienhausreport-2019-04-30-interhome-oesterreich",
                     "querymaps": [
                         {
                             "query": null,
@@ -1501,11 +858,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/customer-service/cookies",
+                    "domainpath": "/ueber-interhome/nachhaltigkeit-old",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/customer-service/privacy-policy/",
+                            "target": "/ueber-interhome/nachhaltigkeit/",
                             "targettokens": []
                         }
                     ]
@@ -1514,11 +871,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/customer-service/imprint",
+                    "domainpath": "/frankreich/cote-d-azur/agay",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/imprint/",
+                            "target": "/frankreich/cote-d-azur/agay-saint-raphael/",
                             "targettokens": []
                         }
                     ]
@@ -1527,11 +884,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/switzerland/ticino/calonico-faido",
+                    "domainpath": "/en/holiday-ideas/ski-children-families",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/switzerland/ticino/calonico/",
+                            "target": "/family-friendly/skiing-snowboarding/",
                             "targettokens": []
                         }
                     ]
@@ -1540,11 +897,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/winter",
+                    "domainpath": "/en/about-us/sustainability",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/holiday-ideas/winter-holiday/",
+                            "target": "/aboutus/sustainability/",
                             "targettokens": []
                         }
                     ]
@@ -1553,11 +910,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/lastminute",
+                    "domainpath": "/news/20180123-interhome-hier-trifft-amor-mitten-ins-herz",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/last-minute/",
+                            "target": "/news/2018/20180123-interhome-hier-trifft-amor-mitten-ins-herz/",
                             "targettokens": []
                         }
                     ]
@@ -1566,13 +923,13 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/vaaoe",
+                    "domainpath": "/arboe",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/pages/kooperation-vaaoe/?partnerID=AT1000380",
+                            "target": "/pages/kooperation-arboe/?partnerID=AT1000226",
                             "targettokens": [
-                                "partnerID=AT1000380"
+                                "partnerID=AT1000226"
                             ]
                         }
                     ]
@@ -1581,11 +938,26 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/italien/piemont/valsesia",
+                    "domainpath": "/statistikaustria",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/italien/piemont/alagna-valsesia/",
+                            "target": "/pages/at-statistikaustria/?partnerid=AT1000852",
+                            "targettokens": [
+                                "partnerid=AT1000852"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/deutschland/insel-ruegen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/ruegen/",
                             "targettokens": []
                         }
                     ]
@@ -1594,11 +966,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/switzerland/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "domainpath": "/en/pages/skiset",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/switzerland/mittelbuenden/lain-zorten/",
+                            "target": "/en/travel-extras/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -1607,11 +979,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/skiopening",
+                    "domainpath": "/schweden/bohuslaen-und-vaestra-goetaland",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/schweden/vaestergoetland",
                             "targettokens": []
                         }
                     ]
@@ -1620,11 +992,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/my-choice",
+                    "domainpath": "/urlaubsideen/frühbucher",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/favorites/",
+                            "target": "/fruehbucher-rabatt",
                             "targettokens": []
                         }
                     ]
@@ -1633,11 +1005,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/last-minute",
+                    "domainpath": "/schweiz/berner-oberland/lauenen-b.-gstaad",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/last-minute/",
+                            "target": "/schweiz/berner-oberland/lauenen-bei-gstaad/",
                             "targettokens": []
                         }
                     ]
@@ -1646,11 +1018,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
+                    "domainpath": "/en/challenge",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
                             "targettokens": []
                         }
                     ]
@@ -1659,11 +1031,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/kundenservice/conditions",
+                    "domainpath": "/pages/skiset",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kundenservice/agb/",
+                            "target": "/reiseservice/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -1677,6 +1049,45 @@
                         {
                             "query": null,
                             "target": "/kundenservice/agb/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20180424-ferienhausreport-2018",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/20180424-ferienhausreport-2018/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/holiday-with-dog",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/pets/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/casa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/luxury-holiday/",
                             "targettokens": []
                         }
                     ]
@@ -1700,11 +1111,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/urlaubsideen/frühbucher",
+                    "domainpath": "/en/holiday-ideas/early-booking-discount",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/fruehbucher-rabatt",
+                            "target": "/holiday-ideas/early-bird-deals/",
                             "targettokens": []
                         }
                     ]
@@ -1713,11 +1124,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/family-kids",
+                    "domainpath": "/news/20170710-at-der-berg-ruft",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/family/",
+                            "target": "/news/2017/20170710-at-der-berg-ruft/",
                             "targettokens": []
                         }
                     ]
@@ -1726,130 +1137,13 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/data-protection",
+                    "domainpath": "/summerspecial",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/customer-service/privacy-policy",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/schweiz/mittelbuenden/lain-mulden-zorten (Lenzerheide)",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweiz/mittelbuenden/lain-zorten/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/ueber-interhome/nachhaltigkeit-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-interhome/nachhaltigkeit/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/italien/piemonte-langhe-monferrato/sanico",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien/piemonte-langhe-monferrato/moncalvo/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/challenge",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20180424-ferienhausreport-2018",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2018/20180424-ferienhausreport-2018/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20190528-urlaub-im-schloss",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2019/20190528-urlaub-im-schloss/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/casa",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/luxury-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/news/20180710-koffer-packen-ferienhaus",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2018/20180710-koffer-packen-ferienhaus/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/vivo",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/kooperation-vivo/?partnerID=AT1000775",
+                            "target": "/suche/?season=summer",
                             "targettokens": [
-                                "partnerID=AT1000775"
+                                "season=summer"
                             ]
                         }
                     ]
@@ -1858,11 +1152,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/important-notes/terms-conditions",
+                    "domainpath": "/news/20190129-heiraten-im-ferienhaus",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/customer-service/conditions/",
+                            "target": "/news/2019/20190129-heiraten-im-ferienhaus/",
                             "targettokens": []
                         }
                     ]
@@ -1871,11 +1165,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/group-accommodation",
+                    "domainpath": "/kataloge",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/for-groups/",
+                            "target": "/kontakt/kataloge/",
                             "targettokens": []
                         }
                     ]
@@ -1884,11 +1178,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/swisspeakresorts",
+                    "domainpath": "/en/my-choice",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/favorites/",
                             "targettokens": []
                         }
                     ]
@@ -1897,52 +1191,13 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/workation",
+                    "domainpath": "/rewe",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/travelguide/im-trend-workation-im-ferienhaus",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/special-offers",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/any-special-offer/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/at-the-beach",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/beach-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/felder",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/pages/felder/?partnerid=AT1001036",
+                            "target": "/pages/rewe/?partnerid=AT1001027",
                             "targettokens": [
-                                "partnerid=AT1001036"
+                                "partnerid=AT1001027"
                             ]
                         }
                     ]
@@ -1951,11 +1206,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/swisspeakresorts",
+                    "domainpath": "/news/20-jahre-ferienhausvermietung",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/news/2018/20-jahre-ferienhausvermietung/",
                             "targettokens": []
                         }
                     ]
@@ -1964,11 +1219,41 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/data-protection",
+                    "domainpath": "/swarovskioptik",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/customer-service/privacy-policy/",
+                            "target": "/pages/at-swarovskioptik/?partnerid=AT1000838",
+                            "targettokens": [
+                                "partnerid=AT1000838"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/isd",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/isd/?partnerid=AT1001091",
+                            "targettokens": [
+                                "partnerid=AT1001091"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -1977,89 +1262,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/news/20171114-ferienhausreport-2017",
+                    "domainpath": "/en/france/pyrenees-orientales/llauro",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/news/2017/20171114-ferienhausreport-2017/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/frankreich/cote-d-azur/agay",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/frankreich/cote-d-azur/agay-saint-raphael/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/conditions/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/en/travel-ideas/new-year-eve",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/public-holidays/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/winterurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.at",
-                "matchdef": {
-                    "domainpath": "/sommer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/sommerurlaub/",
+                            "target": "/france/pyrenees-orientales/torderes/",
                             "targettokens": []
                         }
                     ]
@@ -2083,12 +1290,267 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
+                    "domainpath": "/winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/winterurlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/summer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/summer-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
                     "domainpath": "/spanien/pool",
                     "querymaps": [
                         {
                             "query": null,
                             "target": "/spanien/",
                             "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/france/cote-d-azur/agay",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/france/cote-d-azur/agay-saint-raphael/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/partnerportal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/bergrettung",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/bergrettung/?partnerid=AT1001339",
+                            "targettokens": [
+                                "partnerid=AT1001339"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/montavit",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/montavit/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/sustainability",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/on-piste",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/near-slopes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/deutschland/insel-usedom",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/usedom/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/norwegen/-innerer-sogneford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/-innerer-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/lang",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/lang/?partnerid=AT1000929",
+                            "targettokens": [
+                                "partnerid=AT1000929"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/gemnova",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/gemnova/?partnerid=AT1001090",
+                            "targettokens": [
+                                "partnerid=AT1001090"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/special-offers",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/any-special-offer/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/important-notes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/vivo",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/kooperation-vivo/?partnerID=AT1000775",
+                            "targettokens": [
+                                "partnerID=AT1000775"
+                            ]
                         }
                     ]
                 }
@@ -2114,11 +1576,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/ski-holiday",
+                    "domainpath": "/en/conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/winter-holiday-rentals/",
+                            "target": "/en/customer-service/conditions/",
                             "targettokens": []
                         }
                     ]
@@ -2127,11 +1589,359 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/partner",
+                    "domainpath": "/conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "https://partners.interhome.group/portal",
+                            "target": "/kundenservice/agb/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/schweiz/mittelbuenden/lain-mulden-zorten (Lenzerheide)",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweiz/mittelbuenden/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/at-the-beach",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/beach-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20180606-duck-house-neu-bei-interhome",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/20180606-Duck-House-neu-bei-Interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/urlaubsideen/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/italien/piemonte-langhe-monferrato/sanico",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/piemonte-langhe-monferrato/moncalvo/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/travelguide",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travelguide/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/group-accommodation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/for-groups/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/kundenservice/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/datenschutz/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/casinosaustria",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/at-casinos-austria/?partnerID=AT1000833",
+                            "targettokens": [
+                                "partnerID=AT1000833"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/kontakt/katalogbestellung",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/kataloge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/frankreich/centre",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankreich/loiretal/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/review-policy",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/review-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/terms-of-use",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/gpa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/kooperation-gpa/?partnerID=AT1000178",
+                            "targettokens": [
+                                "partnerID=AT1000178"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/family",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/family/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/workation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travelguide/im-trend-workation-im-ferienhaus",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/kundenservice/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/impressum/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/winter-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/cardcomplete",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/kooperation-card-complete/?partnerID=AT1000245",
+                            "targettokens": [
+                                "partnerID=AT1000245"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/reiseziele",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/energieooe",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/at-energieooe/?partnerid=AT1000919",
+                            "targettokens": [
+                                "partnerid=AT1000919"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/felder",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/felder/?partnerid=AT1001036",
+                            "targettokens": [
+                                "partnerid=AT1001036"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/faqs",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/faq/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/privacy-policy",
                             "targettokens": []
                         }
                     ]
@@ -2153,11 +1963,108 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/lastminute",
+                    "domainpath": "/energieag",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/last-minute/",
+                            "target": "/pages/at-energieag/?partnerid=AT1000917",
+                            "targettokens": [
+                                "partnerid=AT1000917"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/kundenservice/impressum",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/impressum/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/2018-09-18_rekordsommer-fuer-buchungen-in-at",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/2018-09-18_Rekordsommer-fuer-Buchungen-in-AT/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/oenb",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/at-kooperation-oenb/?partnerID=AT1000842",
+                            "targettokens": [
+                                "partnerID=AT1000842"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/familienpass",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/at-kooperation-familienpassinhaber/?partnerID=AT1000884",
+                            "targettokens": [
+                                "partnerID=AT1000884"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20180320-auszeit-im-ferienhaus",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/20180320-auszeit-im-ferienhaus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/news/20190528-urlaub-im-schloss",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2019/20190528-urlaub-im-schloss/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/imprint/",
                             "targettokens": []
                         }
                     ]
@@ -2179,11 +2086,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/pages/skiset",
+                    "domainpath": "/en/skiset",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reiseservice/skiset/",
+                            "target": "/en/travel-extras/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -2192,11 +2099,11 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/summer",
+                    "domainpath": "/en/partner",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/holiday-ideas/summer-holiday/",
+                            "target": "https://partners.interhome.group/portal",
                             "targettokens": []
                         }
                     ]
@@ -2205,11 +2112,104 @@
             {
                 "domain": "www.interhome.at",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/holiday-with-dog",
+                    "domainpath": "/en/data-protection",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/pets/",
+                            "target": "/en/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/chalet-ski-cottage",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/chalet/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/pka",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/at-kooperation-pka/?partnerID=AT1000885",
+                            "targettokens": [
+                                "partnerID=AT1000885"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/ferienhaus-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/ferienhaus-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/norwegen/oslo-und-osloford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/oslo-und-oslofjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/sommer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/sommerurlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.at",
+                "matchdef": {
+                    "domainpath": "/tirolersparkasse",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/at-tiroler-sparkasse",
                             "targettokens": []
                         }
                     ]
