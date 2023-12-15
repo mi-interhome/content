@@ -1,0 +1,30 @@
+{
+    "id": "SE",
+    "name": "",
+    "path": "entries/top-countries/SE.json",
+    "folder": "top-countries",
+    "full_slug": "top-countries/SE",
+    "slug": "SE",
+    "locale": "",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Destination",
+    "content": {
+        "Image": {
+            "ihSEen": "https://images.interhome.group/ezcms/interhome/features/top-countries/sweden-se-winter/2277351-1-eng-XX/Sweden-SE-Winter.jpg",
+            "ihSEsv": "https://images.interhome.group/ezcms/interhome/features/top-countries/sweden-se-winter/2277351-2-eng-XX/Sweden-SE-Winter.jpg"
+        },
+        "ImgAlt": {
+            "ihSEen": "Holiday house Sweden",
+            "ihSEsv": "Holiday house Sweden"
+        },
+        "Name": {
+            "ihSEen": "Sweden",
+            "ihSEsv": "Sverige"
+        },
+        "URL": {
+            "ihSEen": "/en/sweden/",
+            "ihSEsv": "/sverige/"
+        }
+    }
+}

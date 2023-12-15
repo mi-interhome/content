@@ -1,0 +1,30 @@
+{
+    "id": "PL",
+    "name": "",
+    "path": "entries/top-countries/PL.json",
+    "folder": "top-countries",
+    "full_slug": "top-countries/PL",
+    "slug": "PL",
+    "locale": "",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Destination",
+    "content": {
+        "Image": {
+            "ihCZcs": "https://images.interhome.group/ezcms/interhome/features/top-countries/poland-pl-winter/2079837-17-cze-CZ/Poland-PL-Winter.jpg",
+            "ihCZen": "https://images.interhome.group/ezcms/interhome/features/top-countries/poland-pl-winter/1994372-20-eng-XX/Poland-PL-Winter.jpg"
+        },
+        "ImgAlt": {
+            "ihCZcs": "",
+            "ihCZen": ""
+        },
+        "Name": {
+            "ihCZcs": "Polsko",
+            "ihCZen": "Poland"
+        },
+        "URL": {
+            "ihCZcs": "/polsko/",
+            "ihCZen": "/en/poland/"
+        }
+    }
+}
