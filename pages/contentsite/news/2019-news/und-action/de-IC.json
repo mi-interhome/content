@@ -1,0 +1,158 @@
+{
+    "id": "28199",
+    "name": "Und Action!",
+    "path": "pages/contentsite/news/2019-news/und-action/de-IC.json",
+    "folder": "pages",
+    "full_slug": "contentsite/news/2019-news/und-action",
+    "slug": "und-action",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "news",
+        "2019-news",
+        "und-action"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/presse/2019/und-action/",
+            "title": "Interchalet - Und Action!",
+            "description": "Interchalet - Und Action!",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/news/2019-news/Und Action!/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/presse/",
+                            "label": "Presse"
+                        },
+                        {
+                            "href": "/presse/2019/",
+                            "label": "Pressemitteilungen 2019"
+                        },
+                        {
+                            "href": "/presse/2019/und-action/",
+                            "label": "Und Action!"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Und Action!",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003e(Deutschland, 06. März 2019) Sich einmal wie in seinem Lieblingsfilm oder seiner Lieblingsfernsehserie fühlen: Dieser Traum kann mit einem Urlaub in der Nähe berühmter Film Locations in Erfüllung gehen. Obwohl die prominenten Schauspieler wahrscheinlich nicht anzutreffen sind, lässt sich an den jeweiligen Orten viel Film-Flair genießen. Die Holiday Home Division, bestehend aus Interhome und Interchalet, präsentiert drei Objekte, die unweit von bekannten Drehorten entfernt sind.\u003c/strong\u003e\u003c/p\u003e\u003ch3\u003eGeschüttelt, nicht gerührt: James Bond auf der Spur\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2019/1900603_1_ch3825.300.1_berner-oberland_schweiz/1644397-1-ger-XX/1900603_1_CH3825.300.1_Berner-Oberland_Schweiz.jpg\" width=\"250\" height=\"190\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"28539\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eLauterbrunnen, Grindelwald, Mürren und das Schilthorn: All diese Orte dienten als Schauplatz für den sechsten James Bond-Film \"Im Geheimdienst Ihrer Majestät\". Wer in seinem Urlaub James-Bond-Feeling erleben will, ist in der Ferienwohnung \"Gloria\" in Mürren genau richtig. Die Unterkunft ist geräumig sowie sehr komfortabel und gemütlich eingerichtet. In der modernen Küche lässt sich ein Wodka Martini problemlos zubereiten: Geschüttelt, nicht gerührt, versteht sich!\u003c/p\u003e\u003cp\u003eProduktbeispiel: \u003ca href=\"/CH3825.300.1/\" target=\"_blank\"\u003eFerienwohnung „Gloria“\u003c/a\u003e, bis 10 Personen, Berner Oberland, Schweiz, Objekt-Nr. CH3825.300.1, 27.04.2019-04.05.2019, 4.064,00 €*\u003c/p\u003e\u003ch3\u003eSo romantisch wie im Film: Notting Hill\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2019/1900603_2_gb1022.601.1_london_gro%C3%9Fbritannien/1644402-1-ger-XX/1900603_2_GB1022.601.1_London_Gro%C3%9Fbritannien.jpg\" width=\"250\" height=\"187\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"28540\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eEiner der berühmtesten Stadtteile Londons ist Notting Hill, der unter anderem durch den gleichnamigen Film mit Julia Roberts und Hugh Grant Bekanntheit erlangte. Die hell und modern eingerichtete Ferienwohnung \"Inverness\" ist Teil eines historischen Appartementhauses aus dem 19. Jahrhundert und liegt nur rund 20 Gehminuten von vielen Drehorten des Films entfernt. Mit etwas Glück läuft man sogar einem Promi über den Weg, denn viele haben in dieser hippen Region auch ihr Zuhause gefunden – manche sogar mit einer blauen Haustür.\u003c/p\u003e\u003cp\u003eProduktbeispiel: \u003ca href=\"/GB1022.601.1/\" target=\"_blank\"\u003eFerienwohnung „Inverness“\u003c/a\u003e, bis 4 Personen, London, Großbritannien, Objekt-Nr.GB1022.601.1, 04.04.2019-07.04.2019, 765,00 €*\u003c/p\u003e\u003ch3\u003eKhaleesi, Jon Snow \u0026amp; Co.: Die Game of Thrones Kulisse\u003c/h3\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/presse/2019/1900603_3_dub250_dubrovnik_kroatien_c24283772/1644412-1-ger-XX/1900603_3_DUB250_Dubrovnik_Kroatien_c2428377.jpg\" width=\"250\" height=\"165\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"28542\" data-type=\"image\" data-content=\"\"\u003e\u003cp\u003eDie kroatische Küstenstadt Dubrovnik wurde durch \"Game of Thrones\" weltberühmt. Ob die Festung Lovrijenac, der Gradac-Park oder die rund zwei Kilometer lange Stadtmauer … sie alle und noch weitere Plätze in der mittelalterlichen Stadt waren bereits Drehort für die Fernsehserie. Unweit dieser Filmsets liegt das Appartmenthaus „Rilovic“. Die Ferienwohnungen sind hell und freundlich eingerichtet und bieten vom Balkon aus einen wundervollen Blick auf das Meer. Der perfekte Ort, um nach einem ereignisreichen \"Game of Thrones\"-Sightseeing-Tag zu entspannen.\u003c/p\u003e\u003cp\u003eProduktbeispiel: \u003ca href=\"/HR8500.618.1/\" target=\"_blank\"\u003eFerienwohnung „Rilovic“\u003c/a\u003e, bis 4 Personen, Dubrovnik, Kroatien, Objekt-Nr. DUB250, 06.07.2019-13.7.2019, 888,00 €*\u003c/p\u003e\u003cp\u003e*ggf. zuzüglich Nebenkosten\u003c/p\u003e\u003cp\u003eDas Portfolio der \u003cstrong\u003eHoliday Home Division\u003c/strong\u003e, mit den Marken Interhome und Interchalet, besteht aus rund 60'000 Ferienhäusern und -wohnungen in 31 Ländern und ist Teil von Hotelplan Group mit Sitz in Glattbrugg (CH). Diese wiederum ist zu 100% in Besitz von Migros, der grössten Detailhandelsorganisation der Schweiz mit Sitz in Zürich. Das vielfältige Angebot reicht vom einfachen Chalet oder Appartement bis hin zur exklusiv ausgestatteten Villa – ob im Sommer oder Winter, am Strand, auf dem Land oder in der Stadt. Die Holiday Home Division erzielte im Jahr 2018 einen verrechneten Umsatz von CHF 359.0 Mio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterchalet\u003c/strong\u003e ist mit 26'000 Ferienhäusern und -wohnungen in 15 Ländern Europas und Florida/USA einer der grössten deutschen Ferienhausvermittler. Das in Freiburg im Breisgau (D) domizilierte Unternehmen beherbergte im Jahr 2018 790'000 Feriengäste.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome\u003c/strong\u003e ist europäischer Spezialist in der Vermittlung von weltweit mehr als 32‘000 Ferienwohnungen, Ferienhäusern und Chalets in 31 Ländern. Der Qualitätsanbieter vermittelte im Jahr 2018 730‘000 Feriengäste.\u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1642317-ger-XX/190306_Holiday%20Home%20Division_Und%20Action_Film%20Locations.pdf\" target=\"_blank\"\u003eHier Pressemitteilung herunterladen\u003c/a\u003e\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "id": "20504",
+    "name": "imprint",
+    "path": "pages/contentsite/imprint/de-IC.json",
+    "folder": "pages",
+    "full_slug": "contentsite/imprint",
+    "slug": "imprint",
+    "locale": "de-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "imprint"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interchalet.de/impressum/",
+            "title": "Interchalet - Impressum",
+            "description": "Das Impressum der HHD GmbH (Interchalet) mit Sitz in Freiburg beinhaltet wichtige rechtliche Informationen. ",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/imprint/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/impressum/",
+                            "label": "Impressum"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Impressum",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003e\u003cstrong\u003eHHD AG\u003c/strong\u003e\u003cbr\u003eSägereistrasse 20\u003cbr\u003eCH 8152 Glattbrugg \u003c/p\u003e\u003cp\u003eE-Mail: \u003ca href=\"mailto:info@interchalet.de\"\u003einfo@interchalet.de\u003c/a\u003e\u003cbr\u003eInternet: \u003ca href=\"/\"\u003ewww.interchalet.de\u003c/a\u003e\u003c/p\u003e\u003cp\u003eGeschäftsführung: Jörg Herrmann\u003cbr\u003eHandelsregister: CHE-105.847.636\u003cbr\u003eSteuernummer: CHE-105.847.636\u003c/p\u003e\u003cp\u003eDie HHD GmbH mit Sitz in Freiburg / Deutschland erbringt Dienstleistungen für die HHD AG (Glattbrugg / Schweiz). Die HHD AG (Glattbrugg / Schweiz) ist Vertragspartnerin für die Buchungen von Ferienunterkünften.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBankverbindung\u003c/strong\u003e:\u003cbr\u003eDeutsche Bank AG\u003cbr\u003eBLZ 683 700 34\u003cbr\u003eKonto 36607002\u003cbr\u003eSwift Code (BIC): DEUTDE6F683\u003cbr\u003eIBAN: DE 38 6837 0034 0036 6070 02\u003c/p\u003e\u003ch3\u003e\n\u003cstrong\u003eBetrieblicher Datenschutzbeauftragter\u003c/strong\u003e\u003cbr\u003e\u003cstrong\u003enach Art. 37 DSGVO, § 38 BDSG: \u003c/strong\u003e\n\u003c/h3\u003e\u003cp\u003eRechtsanwalt Prof. Clemens Pustejovsky\u003cbr\u003e\u003ca href=\"mailto:DSB@interchalet.com\"\u003eDSB@interchalet.com\u003c/a\u003e oder \u003ca href=\"mailto:DPO@interchalet.com\"\u003eDPO@interchalet.com\u003c/a\u003e\u003cbr\u003eWallstr. 6, D-79098 Freiburg, Tel. 0761-72168680\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInformationen\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003ezum \u003ca href=\"/wichtige-hinweise/datenschutz/\"\u003eDatenschutz\u003c/a\u003e und zu den \u003ca href=\"/wichtige-hinweise/nutzungsbedingungen/\"\u003eNutzungsbedingungen\u003c/a\u003e.\u003c/p\u003e\u003ch3\u003e\n\u003cstrong\u003eHinweis zur Online-Streitbeilegung\u003c/strong\u003e\u003cbr\u003e\u003cstrong\u003egemäß Art. 14 Abs. 1 ODR-VO:\u003c/strong\u003e\n\u003c/h3\u003e\u003cp\u003eDie Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie unter \u003ca href=\"https://ec.europa.eu/consumers/odr\" target=\"_blank\"\u003ehttps://ec.europa.eu/consumers/odr\u003c/a\u003e finden.\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eKritik und Anregungen an den Internetbeauftragten\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eSehr geehrte Kundinnen und Kunden,\u003cbr\u003ewenn Sie \u003cstrong\u003eFragen zur Bedienung\u003c/strong\u003e unseres Internetauftrittes haben, dann können Sie sich gerne an mich wenden.\u003cbr\u003eSollten Sie \u003cstrong\u003etechnische Probleme\u003c/strong\u003e haben, dann würde ich mich über eine Nachricht von Ihnen freuen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eWICHTIG:\u003c/strong\u003e Um die \u003cstrong\u003eProbleme beseitigen\u003c/strong\u003e zu können, benötigen wir Ihre Mithilfe. Bitte teilen Sie uns mit, welchen \u003cstrong\u003eBrowser\u003c/strong\u003e (z.B. Internet Explorer IE 8.0/IE 9.0 oder Firefox 7) Sie einsetzen, unter welchem \u003cstrong\u003eBetriebssystem\u003c/strong\u003e (z.B. Windows 7) Sie arbeiten und über welchen \u003cstrong\u003eProvider\u003c/strong\u003e (z.B. T-Online, AOL usw.) Sie unsere Internetseiten angesehen haben.\u003c/p\u003e\u003cp\u003eVielen Dank für Ihre Mithilfe.\u003c/p\u003e\u003cp\u003eDr. Bernd Müller\u003cbr\u003eE-Mail: \u003ca href=\"mailto:webmaster@interchalet.de\"\u003ewebmaster@interchalet.de\u003c/a\u003e\u003c/p\u003e\u003ch3\u003e\u003cstrong\u003eAlle verwendeten Bilder und Grafiken sind urheberrechtlich geschützt und dürfen nur mit Genehmigung des jeweiligen Urhebers kopiert und weiterverwendet werden!\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003eVerwendete Medien-Quellen:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eShutterstock\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIm Detail:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e© stefan sio - Fotolia.com\u003cbr\u003e© lucianofochi - Fotolia.com\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-uns/sicherheit-im-ferienhaus/",
+                        "label": "Mehr Info"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Gute Qualität garantiert!",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Unser Team besichtigt die Unterkünfte persönlich.\r\nRegelmäßige Qualitätskontrolle.\r\nDetaillierte, ehrliche Beschreibungen der Unterkünfte.\r\nGarantiert echte Kundenbewertungen.\r\nNur Sie können Ihre Unterkunft nach Ihrem Urlaub bei uns bewerten!\r\nPreis-/Leistungsverhältnis von Kunden top-bewertet!"
+                        },
+                        {
+                            "title": "Persönlich für Sie da!",
+                            "subtitle": "Profitieren Sie von unserer Erfahrung",
+                            "caption": "Kompetenz \u0026 Freundlichkeit im eigenen Service-Center.\r\nAlle Ihre Detailfragen zu Unterkunft und Umgebung werden gerne beantwortet.\r\nFür nahezu jede Urlaubsregion finden Sie einen Spezialisten in unserem Service-Team.\r\nBei einigen Ferienhäusern und Ferienwohnungen bieten wir Ihnen auch Ansprechpartner vor Ort."
+                        },
+                        {
+                            "title": "50 Jahre Erfahrung!",
+                            "subtitle": "Freiheit und Unabhängigkeit in ihrem Ferienhaus",
+                            "caption": "Sie können sich auf uns verlassen: Rund 50 Jahre Erfahrung in der Ferienhaus-Branche.\r\nMehr als 40.000 für Sie ausgewählte Ferienhäuser und Ferienwohnungen in ganz Europa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Die beliebtesten Urlaubsziele",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBei Interchalet finden Sie immer die passende Unterkunft für Ihren Traumurlaub in Ferienhaus und Ferienwohnung – in der Region Ihrer Wahl. Besonders viele Angebote finden Sie in diesen beliebten Urlaubsdestinationen: \u003c/p\u003e\u003cp\u003e\u003ca href=\"/frankreich/\"\u003eFrankreich\u003c/a\u003e | \u003ca href=\"/italien/\"\u003eItalien\u003c/a\u003e | \u003ca href=\"/oesterreich/\"\u003eÖsterreich\u003c/a\u003e | \u003ca href=\"/frankreich/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/italien/comer-see/\"\u003eComer See\u003c/a\u003e | \u003ca href=\"/spanien/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/frankreich/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/italien/gardasee/\"\u003eGardasee\u003c/a\u003e | \u003ca href=\"/kroatien/istrien/\"\u003eIstrien\u003c/a\u003e | \u003ca href=\"/frankreich/korsika/\"\u003eKorsika\u003c/a\u003e | \u003ca href=\"/kroatien/\"\u003eKroatien\u003c/a\u003e | \u003ca href=\"/italien/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italien/ligurien/\"\u003eLigurien\u003c/a\u003e | \u003ca href=\"/spanien/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/frankreich/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/frankreich/provence/\"\u003eProvence\u003c/a\u003e | \u003ca href=\"/italien/sardinien/\"\u003eSardinien\u003c/a\u003e | \u003ca href=\"/oesterreich/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/italien/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/oesterreich/zillertal/\"\u003eZillertal\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Urlaub im Ferienhaus – ideal für Sie!",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eMöchten Sie Ihren Urlaub zu zweit oder mit Familie und Freunden ganz entspannt genießen? Dann sind Sie in einem Ferienhaus oder einer Ferienwohnung gut aufgehoben. Sie wohnen individuell und landestypisch - und kommen so Land und Leuten schnell nah. Einen Aufenthalt im Ferienhaus können Sie ganz nach Ihren Vorlieben gestalten: Nutzen Sie dazu die vielen Filtermöglichkeiten in unserer Suche und finden Sie so die beste Unterkunft für Ihren ganz persönlichen Traumurlaub!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
