@@ -1,0 +1,308 @@
+{
+    "id": "homesite",
+    "name": "Startseite",
+    "path": "pages/homesite/en-CH.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "en-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/heroimage-on-startpage/2254139-33-eng-XX/Heroimage-on-startpage.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Find your perfect holiday home!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/winter-holiday/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Pure winter pleasure at a holiday home",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/about-us/sustainability/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - conservation concerns all",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/summer-holiday/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Enjoy your summer at a holiday home",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/beach-holiday/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Off to the beach!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/pets/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "On holidays with your dog",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/citytrips/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "City breaks",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/2042129-412-eng-CH/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/en/holiday-ideas/last-minute/",
+                            "anchor": false,
+                            "Title": "Take a look at our Last Minute offers ",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-winter-holiday/985809-167-eng-XX/Inspiration-teaser-winter-holiday.jpg",
+                            "Slug": "/en/holiday-ideas/winter-holiday/",
+                            "anchor": false,
+                            "Title": "Head to the mountains with family and friends",
+                            "VirtPath": "/landingsite/topics/winter-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/397200-121-eng-XX/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/en/holiday-ideas/top-skiresorts/",
+                            "anchor": false,
+                            "Title": "Wherever you fancy skiing, check out our great value apartments or trade up to have your own chalet in the mountains",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-pool/988186-80-eng-XX/Inspiration-teaser-pool.jpg",
+                            "Slug": "/en/holiday-ideas/villa-with-pool/",
+                            "anchor": false,
+                            "Title": "Book a holiday villa with pool",
+                            "VirtPath": "/landingsite/topics/pool/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-summer-holiday/988170-272-eng-XX/Inspiration-teaser-summer-holiday.jpg",
+                            "Slug": "/en/holiday-ideas/summer-holiday/",
+                            "anchor": false,
+                            "Title": "Enjoy your summer at a holiday home",
+                            "VirtPath": "/landingsite/topics/summer-holiday/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Holiday house Switzerland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362958-184-eng-CH/Switzerland-CH-Winter.jpg",
+                            "Title": "Switzerland",
+                            "URL": "/en/switzerland/"
+                        },
+                        {
+                            "ImgAlt": "Francja",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362898-195-eng-CH/France-FR-Winter.jpg",
+                            "Title": "France",
+                            "URL": "/en/france/"
+                        },
+                        {
+                            "ImgAlt": "Holiday houses Austria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389143-179-eng-CH/Austria-AT-Winter.jpg",
+                            "Title": "Austria",
+                            "URL": "/en/austria/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392791-190-eng-CH/Italy-IT-Winter.jpg",
+                            "Title": "Italy",
+                            "URL": "/en/italy/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362865-100-eng-XX/Finland-FI-Winter.jpg",
+                            "Title": "Finland",
+                            "URL": "/en/finland/"
+                        },
+                        {
+                            "ImgAlt": "Holiday house Spain",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1002607-74-eng-CH/Spain-ES.jpg",
+                            "Title": "Spain",
+                            "URL": "/en/spain/"
+                        },
+                        {
+                            "ImgAlt": "Holiday houses Croatia",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/1002571-65-eng-CH/Croatia-HR.jpg",
+                            "Title": "Croatia",
+                            "URL": "/en/croatia/"
+                        },
+                        {
+                            "ImgAlt": "Holiday apartments Germany",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363021-229-eng-CH/Germany-DE-Winter.jpg",
+                            "Title": "Germany",
+                            "URL": "/en/germany/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Holiday homes Valais",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362722-131-eng-CH/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/en/switzerland/valais/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes in Graubunden, Switzerland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-graubunden-60-winter/2079749-30-eng-CH/Switzerland-CH-Graubunden-60-Winter.jpg",
+                            "Title": "Graubunden",
+                            "URL": "/en/switzerland/graubunden/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes in the Bernese Oberland, Switzerland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-bernese-oberland-35-winter/1393080-91-eng-XX/Switzerland-CH-Bernese-Oberland-35-Winter.jpg",
+                            "Title": "Bernese Oberland",
+                            "URL": "/en/switzerland/bernese-oberland/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes in the Alpes Vaudoises",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-alpes-vaudoises-01-winter/1389359-31-eng-XX/Switzerland-CH-Alpes-Vaudoises-01-Winter.jpg",
+                            "Title": "Alpes Vaudoises",
+                            "URL": "/en/switzerland/alpes-vaudoises/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes in Lapland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/finland-fi-lapland-03-winter/2277375-2-ger-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lapland",
+                            "URL": "/en/finland/lapland/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes Savoie, Haute Savoie",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389263-63-eng-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoie - Haute Savoie",
+                            "URL": "/en/france/savoie-haute-savoie/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes in Tyrol, Austria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-tyrol-40-winter/1392891-182-eng-XX/Austria-AT-Tyrol-40-Winter.jpg",
+                            "Title": "Tyrol",
+                            "URL": "/en/austria/tyrol/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1393253-39-eng-XX/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomites",
+                            "URL": "/en/italy/dolomites/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "List your property now",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Rent out with the experts",
+                    "subtitle": "Interhome Group takes care of the professional management of your property."
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Holiday homes rental specialist since 1965",
+                    "text": "\u003cp\u003eFor more than 50 years, Interhome has been the European specialist in the rental of holiday homes and apartments. We are proud to offer 40,000 holiday apartments and houses in 28 countries. Whether you are looking for a holiday house to rent in France, a villa to rent in Spain or even a chalet in Switzerland, we have the perfect accommodation for  you.\u003c/p\u003e\u003cp\u003eWith Interhome, you are choosing a trusted partner for your holiday home. Quality is our priority: we carefully select our accommodation to guarantee our customers unforgettable moments. Our wide choice of holiday houses and apartments meets all tastes and all budgets.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "id": "homesite",
+    "name": "Startseite",
+    "path": "pages/homesite/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254169-41-dut-XX/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Vind uw perfecte vakantiewoning!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/vakantie-inspiratie/wintersport-chalets/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Uw vakantiehuis voor de winter",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/over-interhome/duurzaamheid/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love Nature: samen werken aan een betere wereld",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/travelguide/alle-themas/workation",
+                                "anchor": true
+                            },
+                            "position": "bottom",
+                            "title": "Workation: Werk en vrije tijd slim gecombineerd!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/vakantie-inspiratie/zomervakantie/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Uw vakantiehuis voor de zomer",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/vakantie-inspiratie/vakantiehuis-aan-zee/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Op naar het strand!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/vakantie-inspiratie/huisdier-toegestaan/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Vakantie met hond",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1160924-222-dut-XX/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/vakantie-inspiratie/vakantiehuizen-bergen/",
+                            "anchor": false,
+                            "Title": "Verse berglucht meteen aan uw voordeur",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1160919-409-dut-XX/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/vakantie-inspiratie/last-minute-vakantiehuis/",
+                            "anchor": false,
+                            "Title": "Ontdek onze Last Minute aanbiedingen",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/1160844-144-dut-XX/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/vakantie-inspiratie/herfstvakantie/",
+                            "anchor": false,
+                            "Title": "Ervaar de herfst en geniet van een kleurrijk seizoen",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1160949-119-dut-XX/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/vakantie-inspiratie/populaire-skigebieden/",
+                            "anchor": false,
+                            "Title": "Waar u ook verkiest om te skiën, bekijk eerst onze appartementen en chalets van fantastische waarde",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Familievakantie in een vakantiehuis",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1160905-84-dut-XX/Inspiration-teaser-family.jpg",
+                            "Slug": "/vakantie-inspiratie/op-vakantie-met-de-hele-familie/",
+                            "anchor": false,
+                            "Title": "Veel privacy, vrijheid en ruimte voor u en uw dierbaren",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Vakantiehuizen Zwitserland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1363015-178-dut-XX/Switzerland-CH-Winter.jpg",
+                            "Title": "Zwitserland",
+                            "URL": "/zwitserland/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen Frankrijk",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362952-189-dut-XX/France-FR-Winter.jpg",
+                            "Title": "Frankrijk",
+                            "URL": "/frankrijk/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen Oostenrijk",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389219-173-dut-XX/Austria-AT-Winter.jpg",
+                            "Title": "Oostenrijk",
+                            "URL": "/oostenrijk/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/belgium-be/1160449-35-dut-XX/Belgium-BE.jpg",
+                            "Title": "België",
+                            "URL": "/belgie/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen Spanje",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1160488-68-dut-XX/Spain-ES.jpg",
+                            "Title": "Spanje",
+                            "URL": "/spanje/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392871-184-dut-XX/Italy-IT-Winter.jpg",
+                            "Title": "Italië",
+                            "URL": "/italie/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1160479-40-dut-XX/Netherlands-NL.jpg",
+                            "Title": "Nederland",
+                            "URL": "/nederland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362886-97-dut-XX/Finland-FI-Winter.jpg",
+                            "Title": "Finland",
+                            "URL": "/finland/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "vakantiehuizen Savoie, Haute Savoie",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389283-57-dut-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Haute Savoie",
+                            "URL": "/frankrijk/haute-savoie/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen in Wallis",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362779-125-dut-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Wallis",
+                            "URL": "/zwitserland/wallis/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen in Paznaun",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-paznaun-43-winter/2277444-5-eng-XX/Austria-AT-Paznaun-43-Winter.jpg",
+                            "Title": "Paznaun",
+                            "URL": "/oostenrijk/paznaun/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen in Ötztal ",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-ötztal-42-winter/2277359-2-ger-XX/Austria-AT-Ötztal-42-Winter.jpg",
+                            "Title": "Ötztal",
+                            "URL": "/oostenrijk/oetztal/"
+                        },
+                        {
+                            "ImgAlt": "vakantiehuizen aan de Belgische Kust",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/belgium-be-coast-46/1160052-14-dut-BE/Belgium-BE-Coast-46.jpg",
+                            "Title": "Kust",
+                            "URL": "/belgie/kust/"
+                        },
+                        {
+                            "ImgAlt": "Holiday homes in the Alpes Vaudoises",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-alpes-vaudoises-01-winter/1996378-28-dut-BE/Switzerland-CH-Alpes-Vaudoises-01-Winter.jpg",
+                            "Title": "Alpen Vaudoises",
+                            "URL": "/zwitserland/alpen-vaudoises/"
+                        },
+                        {
+                            "ImgAlt": "Vakantiehuizen in Costa Blanca",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-blanca-40/1160022-78-dut-XX/Spain-ES-Costa-Blanca-40.jpg",
+                            "Title": "Costa Blanca",
+                            "URL": "/spanje/costa-blanca/"
+                        },
+                        {
+                            "ImgAlt": "Berner Oberland",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-bernese-oberland-35-winter/1389346-85-dut-XX/Switzerland-CH-Bernese-Oberland-35-Winter.jpg",
+                            "Title": "Berner Oberland",
+                            "URL": "/zwitserland/berner-oberland/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Meld uw accommodatie nu aan",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Verhuur met de experts",
+                    "subtitle": "Interhome Group zorgt voor het professionele beheer van uw accommodatie. "
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Dé specialist in het verhuren van vakantiehuizen sinds 1965",
+                    "text": "\u003cp\u003eAl meer dan 50 jaar is Interhome de Europese specialist in de verhuur van vakantiehuizen en appartementen. Wij hebben een ruim en gevarieerd aanbod van maar liefst 40.000 accommodaties. Of u nu op zoek bent naar een vakantiehuis in Frankrijk, een villa in Spanje of een chalet in Zwitserland, wij hebben de perfecte accommodatie voor u.\u003c/p\u003e\u003cp\u003eAls u kiest voor Interhome kiest u voor een vertrouwen. Kwaliteit is onze prioriteit: wij selecteren onze accommodaties zorgvuldig om onze klanten onvergetelijke momenten te garanderen. Onze ruime keuze aan vakantiehuizen en appartementen voldoet aan alle smaken en alle budgetten.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}

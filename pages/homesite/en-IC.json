@@ -1,0 +1,305 @@
+{
+    "id": "homesite",
+    "name": "Startseite",
+    "path": "pages/homesite/en-IC.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "en-IC",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/heroimage-on-startpage/2254139-33-eng-XX/Heroimage-on-startpage.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Find your perfect holiday home!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/ski-holiday/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Ski holiday in a holiday home",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/about-us/sustainability/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - conservation concerns all",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/holiday-ideas/at-the-beach/",
+                                "anchor": false
+                            },
+                            "position": "top",
+                            "title": "Beach houses",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/with-pool/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "My house, my pool, my dream holidays!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/with-dog/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Take your dog with you",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/en/last-minute/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Last minute",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-autumn/2223805-13-eng-XX/Inspiration-Teaser-Autumn.jpg",
+                            "Slug": "/en/holiday-ideas/autumn-holidays/",
+                            "anchor": false,
+                            "Title": "Enjoy the colours of autumn in relaxing surroundings",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1643892-67-eng-XX/Inspiration-Teaser-last-minute-autumn.jpg",
+                            "Slug": "/en/holiday-ideas/last-minute/",
+                            "anchor": false,
+                            "Title": "Find charming holiday houses and holiday apartments at reduced prices",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "Ski holidays for families with children",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-ski-family/1643947-14-eng-XX/Inspiration-Teaser-ski-family.jpg",
+                            "Slug": "/en/holiday-ideas/ski-children-families/",
+                            "anchor": false,
+                            "Title": "Familiy holiday homes in child-friendly ski-regions",
+                            "VirtPath": "/landingsite/topics/ski-family/"
+                        },
+                        {
+                            "ImgAlt": "Ski apartments and chalets for winter holidays",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-chalet/1651492-20-eng-XX/Inspiration-Teaser-chalet.jpg",
+                            "Slug": "/en/holiday-ideas/chalet-ski-cottage/",
+                            "anchor": false,
+                            "Title": "From rustic to luxurious: An extensive range of ski apartments and chalets in the heart of the most beautiful ski region in the Alps.",
+                            "VirtPath": "/landingsite/topics/chalet/"
+                        },
+                        {
+                            "ImgAlt": "Holidays with children - family-friendly holiday homes and apartments",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/inspiration-teasers/inspiration-teaser-family/1654210-11-eng-XX/Inspiration-Teaser-family.jpg",
+                            "Slug": "/en/holiday-ideas/family-kids/",
+                            "anchor": false,
+                            "Title": "Summer holidays in family-friendly holiday homes and apartments",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Austria - holiday homes",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/austria-at-winter/1759672-31-eng-XX/Austria-AT-Winter.jpg",
+                            "Title": "Austria",
+                            "URL": "/en/austria/"
+                        },
+                        {
+                            "ImgAlt": "Switzerland - holiday homes",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/switzerland-ch-winter/1759756-25-eng-XX/Switzerland-CH-Winter.jpg",
+                            "Title": "Switzerland",
+                            "URL": "/en/switzerland/"
+                        },
+                        {
+                            "ImgAlt": "Germany - holiday homes",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/germany-de-winter/1759728-29-eng-XX/Germany-DE-Winter.jpg",
+                            "Title": "Germany",
+                            "URL": "/en/germany/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/italy-it-winter/2239678-1-eng-XX/Italy-IT-Winter.jpg",
+                            "Title": "Italy",
+                            "URL": "/en/italy/"
+                        },
+                        {
+                            "ImgAlt": "France - holiday homes",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/france-fr-winter/1759700-28-eng-XX/France-FR-Winter.jpg",
+                            "Title": "France",
+                            "URL": "/en/france/"
+                        },
+                        {
+                            "ImgAlt": "Spain - holiday homes",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/spain-es/1643051-40-eng-XX/Spain-ES.jpg",
+                            "Title": "Spain",
+                            "URL": "/en/spain/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/finland-fi-winter/2239698-1-eng-XX/Finland-FI-Winter.jpg",
+                            "Title": "Finland",
+                            "URL": "/en/finland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-country/netherlands-nl/2278011-1-eng-XX/Netherlands-NL.jpg",
+                            "Title": "Netherlands",
+                            "URL": "/en/netherlands/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/austria-at-zillertal-41-winter/2239152-8-eng-XX/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/en/austria/zillertal/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/austria-at-paznaun-43-winter/2277964-1-eng-XX/Austria-AT-Paznaun-43-Winter.jpg",
+                            "Title": "Paznaun",
+                            "URL": "/en/austria/paznaun/"
+                        },
+                        {
+                            "ImgAlt": "Valais - holiday homes",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/switzerland-ch-valais-10-winter/2185803-62-eng-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/en/switzerland/valais/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/austria-at-ötztal-42-winter/2239156-1-eng-XX/Austria-AT-Ötztal-42-Winter.jpg",
+                            "Title": "Ötztal",
+                            "URL": "/en/austria/oetztal/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/germany-de-north-sea-02-winter/2239184-1-eng-XX/Germany-DE-North-Sea-02-Winter.jpg",
+                            "Title": "North Sea",
+                            "URL": "/en/germany/north-sea/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/switzerland-ch-bernese-oberland-35-winter/2239272-1-eng-XX/Switzerland-CH-Bernese-Oberland-35-Winter.jpg",
+                            "Title": "Bernese Oberland",
+                            "URL": "/en/switzerland/bernese-oberland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/finland-fi-lapland-03-winter/2278015-1-eng-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lapland",
+                            "URL": "/en/finland/lapland/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/top-region/france-fr-savoie-haute-savoie-96-winter/2278023-1-eng-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoie - Haute Savoie",
+                            "URL": "/en/france/savoie-haute-savoie/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "List your property now",
+                    "imgSrc": "https://images.interhome.group/ezcms/inter-chalet/features/rent-out-with-the-experts/2259851-7-eng-XX/Rent-out-with-the-experts.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Rent out with the experts",
+                    "subtitle": "Interhome Group takes care of the professional management of your property."
+                }
+            },
+            {
+                "id": 0,
+                "component": "",
+                "content": null
+            }
+        ]
+    }
+}

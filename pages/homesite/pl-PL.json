@@ -1,0 +1,308 @@
+{
+    "id": "homesite",
+    "name": "Startseite",
+    "path": "pages/homesite/pl-PL.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254175-60-pol-PL/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Znajdź swój idealny dom wakacyjny!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracje/ferie-gory/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Ciesz się zimą w domu wakacyjnym",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/o-nas/zrownowazony-rozwoj/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - dbajmy o nasze środowisko",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/travelguide/wszystkie-tematy/workation",
+                                "anchor": true
+                            },
+                            "position": "bottom",
+                            "title": "Workation: Możliwość połączenia pracy oraz wypoczynku!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracje/wakacje/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Zaplanuj wakacje 2024!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracje/lato/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Wakacje na plaży!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracje/wakacje-zwierzaki/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Wakacje z czworonogiem",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1021734-242-pol-PL/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/inspiracje/wakacje-gory/",
+                            "anchor": false,
+                            "Title": "Zarezerwuj jeden z naszych wyjątkowych górskich domków w Alpach lub Dolomitach, w Tatrach lub Beskidach! ",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1021718-423-pol-PL/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/inspiracje/last-minute/",
+                            "anchor": false,
+                            "Title": "Sprawdź, jak prosta jest rezerwacja domu lub apartamentu ze zniżką Last Minute! ",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/1021726-156-pol-PL/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/inspiracje/urlop-poza-sezonem/",
+                            "anchor": false,
+                            "Title": "Złota jesień to idealny czas na aktywny urlop. Tym bardziej, że urlop poza sezonem to niższe ceny i mniejszy tłok! ",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1021818-129-pol-PL/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/inspiracje/kurorty-narciarskie/",
+                            "anchor": false,
+                            "Title": "Apartamenty i domy w najlepszych ośrodkach narciarskich",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Domy i apartamenty dla rodzin z dziećmi",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1021730-96-pol-PL/Inspiration-teaser-family.jpg",
+                            "Slug": "/inspiracje/rodzinne-wakacje/",
+                            "anchor": false,
+                            "Title": "Domy i apartamenty dla rodzin z dziećmi - z przestronnym salonem, z placem zabaw, brodzikiem, prywatnym basenem...   ",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Austria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389187-221-pol-PL/Austria-AT-Winter.jpg",
+                            "Title": "Austria",
+                            "URL": "/austria/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392839-220-pol-PL/Italy-IT-Winter.jpg",
+                            "Title": "Włochy",
+                            "URL": "/wlochy/"
+                        },
+                        {
+                            "ImgAlt": "Szwajcaria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362991-217-pol-PL/Switzerland-CH-Winter.jpg",
+                            "Title": "Szwajcaria",
+                            "URL": "/szwajcaria/"
+                        },
+                        {
+                            "ImgAlt": "Hiszpania",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1021507-104-pol-PL/Spain-ES.jpg",
+                            "Title": "Hiszpania",
+                            "URL": "/hiszpania/"
+                        },
+                        {
+                            "ImgAlt": "Domy wakacyjne w Czechach",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1988117-43-pol-PL/Czech-Republic-CZ.jpg",
+                            "Title": "Czechy",
+                            "URL": "/czechy/"
+                        },
+                        {
+                            "ImgAlt": "Chorwacja",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/1021449-95-pol-PL/Croatia-HR.jpg",
+                            "Title": "Chorwacja",
+                            "URL": "/chorwacja/"
+                        },
+                        {
+                            "ImgAlt": "Francja",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362931-225-pol-PL/France-FR-Winter.jpg",
+                            "Title": "Francja",
+                            "URL": "/francja/"
+                        },
+                        {
+                            "ImgAlt": "Niemcy",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363048-262-pol-PL/Germany-DE-Winter.jpg",
+                            "Title": "Niemcy",
+                            "URL": "/niemcy/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Domy i apartamenty wakacyjne w Dolinie Zillertal, Austria",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-winter/1760057-74-pol-PL/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Dolina Zillertal",
+                            "URL": "/austria/dolina-zillertal/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1393375-63-pol-PL/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomity",
+                            "URL": "/wlochy/dolomity/"
+                        },
+                        {
+                            "ImgAlt": "Paznaun",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-paznaun-43-winter/2277444-19-eng-XX/Austria-AT-Paznaun-43-Winter.jpg",
+                            "Title": "Paznaun",
+                            "URL": "/austria/paznaun/"
+                        },
+                        {
+                            "ImgAlt": "Północna Dolina Ötztal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-ötztal-42-winter/2277359-5-ger-XX/Austria-AT-Ötztal-42-Winter.jpg",
+                            "Title": "Dolina Ötztal",
+                            "URL": "/austria/dolina-oetztal/"
+                        },
+                        {
+                            "ImgAlt": "Pinzgau",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-pinzgau-38-winter/2277400-18-eng-XX/Austria-AT-Pinzgau-38-Winter.jpg",
+                            "Title": "Pinzgau",
+                            "URL": "/austria/pinzgau/"
+                        },
+                        {
+                            "ImgAlt": "Górna Sabaudia",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1393119-78-pol-PL/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Sabaudia - Górna Sabaudia",
+                            "URL": "/francja/sabaudia-gorna-sabaudia/"
+                        },
+                        {
+                            "ImgAlt": "Jezioro Garda",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-lake-garda-17/2277420-3-eng-XX/Italy-IT-Lake-Garda-17.jpg",
+                            "Title": "Jezioro Garda",
+                            "URL": "/wlochy/jezioro-garda/"
+                        },
+                        {
+                            "ImgAlt": "Costa Blanca",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-blanca-40/1154160-102-pol-PL/Spain-ES-Costa-Blanca-40.jpg",
+                            "Title": "Costa Blanca",
+                            "URL": "/hiszpania/costa-blanca/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Dodaj swój obiekt",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Wynajmuj z profesjonalistami",
+                    "subtitle": "Interhome Group dba o profesjonalne zarządzanie Państwa nieruchomością. "
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Wynajem domów i apartamentów wakacyjnych od 1965 roku",
+                    "text": "\u003cp\u003eInterhome rozpoczął swoją podróż ponad 50 lat temu. Dziś możemy zaoferować naszym Klientom niemalże 40 000 domów i apartamentów wakacyjnych w ponad 28krajach. Niezależnie od tego, czy na swoje wakacje planujesz wybrać się do Chorwacji, Francji, Włoch czy też zostać w Polsce możesz mieć pewność, że w Interhome znajdziesz wyjątkowy dom wakacyjny na wymarzony urlop.\u003c/p\u003e\u003cp\u003eMarzysz o beztroskim wypoczynku za granicą? Dlaczego nie wynająć domu z basenem w jednym z najpopularniejszych miejsc w Chorwacji? Podczas urlopu na Istrii czy w Dalmacji cała rodzina będzie bawić się wyśmienicie. A może chcesz wybrać się na narty ze znajomymi? Nie ma problemu – w Interhome znajdziesz wspaniałe noclegi tuż przy stoku w Austrii, we Włoszech, w Szwajcarii czy we Francji.\u003c/p\u003e\u003cp\u003eJeśli masz w planach włoskie wakacje to dobrze trafiłeś! W Interhome znajdziesz najlepszy i największy wybór  willi, domków i apartamentów w tym kraju. Skorzystaj z okazji, aby cieszyć się dobrym jedzeniem i kulturą we wspaniałej Toskanii, na Sycylii czy w Kalabrii.  A może wakacje w Hiszpanii? Znajdź idealny dom wakacyjny z widokiem na morze gdzieś na Costa Brava, Costa Blanca czy Costa del Sol. Bądź niezależny i sam decyduj o swoim czasie i swoich wakacjach.\u003c/p\u003e\u003cp\u003eJeżeli natomiast masz ochotę  wynająć dom wakacyjny w Polsce Interhome może zaoferować Ci wiele miejsc noclegowych w całym kraju. Od Bałtyku, przez Mazury aż do samych Tatr - każdy wybierze coś dla siebie.\u003c/p\u003e\u003cp\u003eW Interhome możemy pomóc Ci zrealizować Twój plan na najlepsze wakacje. Zarezerwuj bezpiecznie online lub skontaktuj się z nami – odpowiemy na dodatkowe pytania i pomożemy w wyborze idealnej oferty.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}
