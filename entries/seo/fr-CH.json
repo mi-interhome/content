@@ -1,0 +1,42 @@
+{
+    "id": "seo-fr-CH",
+    "name": "seo-fr-CH",
+    "path": "entries/seo/fr-CH.json",
+    "folder": "entries",
+    "full_slug": "seo",
+    "slug": "seo",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "{accommodationName} {destination} {accommodationID} | Interhome",
+            "description": "Réservez {accommodationName} {destination} {accommodationID} en ligne avec Interhome, le spécialiste de la location de vacances depuis 1965.",
+            "keywords": [
+                ""
+            ],
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": null
+    }
+}
