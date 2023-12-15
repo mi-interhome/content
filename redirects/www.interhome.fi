@@ -1,0 +1,420 @@
+{
+    "id": "redirects-www.interhome.fi",
+    "name": "Redirects www.interhome.fi",
+    "path": "redirects/www.interhome.fi",
+    "folder": "redirects",
+    "full_slug": "www.interhome.fi",
+    "slug": "www.interhome.fi",
+    "locale": "",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Redirects",
+    "content": {
+        "domain": "www.interhome.fi",
+        "redirects": [
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/asiakaspalvelu/varausehdot/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/teemamatkat",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/kesalomat",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/mika-on-interhome/kestavyys-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/mika-on-interhome/kestavyys/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/mika-on-interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/matkapalvelut/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/news/interhome-lomailee-costadelsol",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/Interhome-lomailee-costadelsol/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/tietosuojaseloste",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/asiakaspalvelu/tietosuojaseloste/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/villa-ja-uima-allas",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ranska/cote-d-azur/agay",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ranska/cote-d-azur/agay-saint-raphael/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/matkapalvelut/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/schweiz/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sveitsi/mittelbuenden/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/news/voita-liput-matkamessuille",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/voita-liput-matkamessuille/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/news/blog-kotona-ranskanmaalla",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/blog-kotona-ranskanmaalla/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute-akkilahdot/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/asiakaspalvelu/juridiset-tiedot",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/juridiset-tiedot",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/vakuutusturva-matkallesi",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/asiakaspalvelu/vakuutusturva-matkallesi/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/minne-lomalle",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/laadukas-ja-ylellinen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/asiakaspalvelu/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/asiakaspalvelu/tietosuojaseloste/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/kestavyys",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/mika-on-interhome/kestavyys/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/akkilahdot/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/edullinen-loma",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/loma-perheen-kanssa",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/newsletter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/yhteystiedot/uutiskirje/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/pages/syysloma",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/syysloma/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/talo-meren-rannalla",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/rantalomat",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.fi",
+                "matchdef": {
+                    "domainpath": "/ideoita-lomalle/pets",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ideoita-lomalle/lemmikkit",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

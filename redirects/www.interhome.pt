@@ -1,0 +1,537 @@
+{
+    "id": "redirects-www.interhome.pt",
+    "name": "Redirects www.interhome.pt",
+    "path": "redirects/www.interhome.pt",
+    "folder": "redirects",
+    "full_slug": "www.interhome.pt",
+    "slug": "www.interhome.pt",
+    "locale": "",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Redirects",
+    "content": {
+        "domain": "www.interhome.pt",
+        "redirects": [
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sobre-a-interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/italy/fleimstal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italy/val-di-fiemme/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/inspiracoes/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/italy/groednertal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italy/val-gardena/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/última-hora/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/germany/insel-ruegen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/germany/rugia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/última-hora/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/germany/edersee",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/germany/lago-eder/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/germany/teutoburger-wald",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/germany/floresta-de-teutoburgo/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/france/costa-azul/agay",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/france/costa-azul/agay-saint-raphael/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/áustria/tirol-ocidental",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/áustria/oberinntal/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/italy/piemonte/valsesia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italy/piemonte/alagna-valsesia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/politica-de-privacidade",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/apoio-ao-cliente/politica-de-privacidade/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/áustria/neusiedler-see",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/áustria/lago-de-neusiedl/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/germany/insel-usedom",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/germany/usedom/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/extras-viagem/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/pages/herbsturlaub",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspiracoes/podzimni-dovolena/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/france/val-de-loire/chenonceaux",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/france/val-de-loire/civray-de-touraine/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/extras-viagem/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/italy/fassatal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italy/val-di-fassa/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/czech-republic/boehmerwald",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/czech-republic/sumava/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/france/pirineus-orientais/llauro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/france/pirineus-orientais/torderes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/czech-republic/riesengebirge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/czech-republic/krkonose/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/sustentabilidade",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sobre-a-interhome/sustentabilidade/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/norway/oslo-osloforden",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norway/oslo-oslofjorden/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/exclusivo-e-luxuoso",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspiracoes/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/norway/-aeusserer-sognefjord",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norway/-outer-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/norway/-innerer-sognefjord",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norway/-inner-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/seguro-de-viagem",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/apoio-ao-cliente/seguro-de-viagem/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/croatia/dalmatien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/croatia/dalmacia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/france/gironde/st-antoin-du-queyret",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/france/gironde/saint-antoine-du-queyret/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/apoio-ao-cliente/condicoes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/sweden/kronoberg/hinneryd",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sweden/smaland/stroemsnaesbruk/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/czech-republic/adlergebirge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/czech-republic/orlicke-hory/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/sobre-a-interhome/sustentabilidade-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sobre-a-interhome/sustentabilidade/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.pt",
+                "matchdef": {
+                    "domainpath": "/sweden/halland/as",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sweden/halland/askloster/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
