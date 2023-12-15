@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Description.headings.summer",
+    "name": "summer",
+    "path": "text-resources/www/components/views/details/Description/headings/summer",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Description/headings/summer",
+    "slug": "summer",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Description",
+        "headings",
+        "summer"
+    ],
+    "content": {
+        "key": "www.components.views.details.Description.headings.summer",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Léto"
+            },
+            "da": {
+                "singular": "Sommer"
+            },
+            "de": {
+                "singular": "Sommer"
+            },
+            "de-AT": {
+                "singular": "Sommer"
+            },
+            "de-CH": {
+                "singular": "Sommer"
+            },
+            "de-DE": {
+                "singular": "Sommer"
+            },
+            "en": {
+                "singular": "Summer"
+            },
+            "en-AU": {
+                "singular": "Summer"
+            },
+            "en-CA": {
+                "singular": "Summer"
+            },
+            "en-GB": {
+                "singular": "Summer"
+            },
+            "en-IE": {
+                "singular": "Summer"
+            },
+            "en-US": {
+                "singular": "Summer"
+            },
+            "es": {
+                "singular": "Verano"
+            },
+            "fi": {
+                "singular": "Kesä"
+            },
+            "fi-EE": {
+                "singular": "Kesä"
+            },
+            "fi-FI": {
+                "singular": "Kesä"
+            },
+            "fr": {
+                "singular": "Été"
+            },
+            "fr-BE": {
+                "singular": "Été"
+            },
+            "fr-CA": {
+                "singular": "Été"
+            },
+            "fr-CH": {
+                "singular": "Été"
+            },
+            "fr-FR": {
+                "singular": "Été"
+            },
+            "hr": {
+                "singular": "Ljeto"
+            },
+            "it": {
+                "singular": "In estate"
+            },
+            "it-CH": {
+                "singular": "In estate"
+            },
+            "it-IT": {
+                "singular": "In estate"
+            },
+            "nl": {
+                "singular": "Zomer"
+            },
+            "nl-BE": {
+                "singular": "Zomer"
+            },
+            "nl-NL": {
+                "singular": "Zomer"
+            },
+            "no": {
+                "singular": "Sommer"
+            },
+            "pl": {
+                "singular": "Lato"
+            },
+            "pt": {
+                "singular": "Verão"
+            },
+            "ru": {
+                "singular": "Лето"
+            },
+            "sv": {
+                "singular": "Sommar"
+            }
+        }
+    }
+}

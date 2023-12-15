@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.pages.precheckins._token.expired.text",
+    "name": "text",
+    "path": "text-resources/precheckin/pages/precheckins/_token/expired/text",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/expired/text",
+    "slug": "text",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "expired",
+        "text"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.expired.text",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Snadný online pre-check-in lze provést nejpozději 1 den před příjezdem. Obraťte se prosím na majitele či správce Vašeho rekreačního objektu nebo kontaktní osobu Interhome. Kontaktní údaje naleznete v cestovních podkladech."
+            },
+            "da": {
+                "singular": "Tidligt tjek-in kan kun udføres online op til en dag før ankomst. Henvend dig venligst til nøgleholderen/din kontaktperson på stedet. Du finder alle kontaktinformationerne i dine rejsedokumenter."
+            },
+            "de": {
+                "singular": "Der Vorab-Check-in kann nur bis zu einem Tag vor Anreise online abgeschlossen werden. Bitte wenden Sie sich an Ihren Schlüsselhalter/ Kontakt vor Ort. Die Kontaktdaten finden Sie auf Ihrem Voucher in den Reiseunterlagen."
+            },
+            "de-AT": {
+                "singular": "Der Vorab-Check-in kann nur bis zu einem Tag vor Anreise online abgeschlossen werden. Bitte wenden Sie sich an Ihren Schlüsselhalter/ Kontakt vor Ort. Die Kontaktdaten finden Sie auf Ihrem Voucher in den Reiseunterlagen."
+            },
+            "de-CH": {
+                "singular": "Der Vorab-Check-in kann nur bis zu einem Tag vor Anreise online abgeschlossen werden. Bitte wenden Sie sich an Ihren Schlüsselhalter/ Kontakt vor Ort. Die Kontaktdaten finden Sie auf Ihrem Voucher in den Reiseunterlagen."
+            },
+            "de-DE": {
+                "singular": "Der Vorab-Check-in kann nur bis zu einem Tag vor Anreise online abgeschlossen werden. Bitte wenden Sie sich an Ihren Schlüsselhalter/ Kontakt vor Ort. Die Kontaktdaten finden Sie auf Ihrem Voucher in den Reiseunterlagen."
+            },
+            "en": {
+                "singular": "The online pre-CheckIn can only be completed until one day before the arrival day. Please contact your key holder/contact on site. Please see your voucher/ travel documents for the contact details."
+            },
+            "en-AU": {
+                "singular": "The online pre-CheckIn can only be completed until one day before the arrival day. Please contact your key holder/contact on site. Please see your voucher/ travel documents for the contact details."
+            },
+            "en-CA": {
+                "singular": "The online pre-CheckIn can only be completed until one day before the arrival day. Please contact your key holder/contact on site. Please see your voucher/ travel documents for the contact details."
+            },
+            "en-GB": {
+                "singular": "The online pre-CheckIn can only be completed until one day before the arrival day. Please contact your key holder/contact on site. Please see your voucher/ travel documents for the contact details."
+            },
+            "en-IE": {
+                "singular": "The online pre-CheckIn can only be completed until one day before the arrival day. Please contact your key holder/contact on site. Please see your voucher/ travel documents for the contact details."
+            },
+            "en-US": {
+                "singular": "The online pre-CheckIn can only be completed until one day before the arrival day. Please contact your key holder/contact on site. Please see your voucher/ travel documents for the contact details."
+            },
+            "es": {
+                "singular": "El pre check-in online sólo puede completarse hasta un día antes del día de llegada. Por favor, póngase en contacto con el responsable de llaves/contacto en destino. Consulte los datos de contacto en su documentos de viaje."
+            },
+            "fi": {
+                "singular": "Online Pre-Checkin on mahdollinen suorittaa viimeistään päivää ennen saapumista. Otathan yhteyttä avaimenhaltijan, jonka yhteystiedot löydät vuokrausasiakirjoista."
+            },
+            "fi-EE": {
+                "singular": "Online Pre-Checkin on mahdollinen suorittaa viimeistään päivää ennen saapumista. Otathan yhteyttä avaimenhaltijan, jonka yhteystiedot löydät vuokrausasiakirjoista."
+            },
+            "fi-FI": {
+                "singular": "Online Pre-Checkin on mahdollinen suorittaa viimeistään päivää ennen saapumista. Otathan yhteyttä avaimenhaltijan, jonka yhteystiedot löydät vuokrausasiakirjoista."
+            },
+            "fr": {
+                "singular": "Le pré-enregistrement en ligne peut seulement être complété jusqu'à un jour avant la date d'arrivée. Veuillez contacter le détenteur des clés / le contact sur place. Vous trouverez les coordonnées dans vos documents de voyage. "
+            },
+            "fr-BE": {
+                "singular": "Le pré-enregistrement en ligne peut seulement être complété jusqu'à un jour avant la date d'arrivée. Veuillez contacter le détenteur des clés / le contact sur place. Vous trouverez les coordonnées dans vos documents de voyage. "
+            },
+            "fr-CA": {
+                "singular": "Le pré-enregistrement en ligne peut seulement être complété jusqu'à un jour avant la date d'arrivée. Veuillez contacter le détenteur des clés / le contact sur place. Vous trouverez les coordonnées dans vos documents de voyage. "
+            },
+            "fr-CH": {
+                "singular": "Le pré-enregistrement en ligne peut seulement être complété jusqu'à un jour avant la date d'arrivée. Veuillez contacter le détenteur des clés / le contact sur place. Vous trouverez les coordonnées dans vos documents de voyage. "
+            },
+            "fr-FR": {
+                "singular": "Le pré-enregistrement en ligne peut seulement être complété jusqu'à un jour avant la date d'arrivée. Veuillez contacter le détenteur des clés / le contact sur place. Vous trouverez les coordonnées dans vos documents de voyage. "
+            },
+            "hr": {
+                "singular": "Check in se online može izvršiti samo jedan dan prije dolaska. Molimo da se javite vlasniku na licu mjesta.Kontakt podatke možete pronaći u putnim dokumentima ( voucher). "
+            },
+            "it": {
+                "singular": "Il check-in anticipato può essere effettuato online solo fino ad un giorno prima dell'arrivo. La preghiamo di mettersi in contatto con la persona incaricata della consegna delle chiavi/contatto in loco. Può trovare questi dati sui Suoi documenti di viaggio."
+            },
+            "it-CH": {
+                "singular": "Il check-in anticipato può essere effettuato online solo fino ad un giorno prima dell'arrivo. La preghiamo di mettersi in contatto con la persona incaricata della consegna delle chiavi/contatto in loco. Può trovare questi dati sui Suoi documenti di viaggio."
+            },
+            "it-IT": {
+                "singular": "Il check-in anticipato può essere effettuato online solo fino ad un giorno prima dell'arrivo. La preghiamo di mettersi in contatto con la persona incaricata della consegna delle chiavi/contatto in loco. Può trovare questi dati sui Suoi documenti di viaggio."
+            },
+            "nl": {
+                "singular": "De online pre-Checkin kan slechts tot één dag voor aankomst worden voltooid. Gelieve contact op te nemen met uw sleutelhouder/contactpersoon ter plaatse. U vindt de contactgegevens op uw voucher/ reisbescheiden."
+            },
+            "nl-BE": {
+                "singular": "De online pre-Checkin kan slechts tot één dag voor aankomst worden voltooid. Gelieve contact op te nemen met uw sleutelhouder/contactpersoon ter plaatse. U vindt de contactgegevens op uw voucher/ reisbescheiden."
+            },
+            "nl-NL": {
+                "singular": "De online pre-Checkin kan slechts tot één dag voor aankomst worden voltooid. Gelieve contact op te nemen met uw sleutelhouder/contactpersoon ter plaatse. U vindt de contactgegevens op uw voucher/ reisbescheiden."
+            },
+            "no": {
+                "singular": "Tidlig innsjekking kan kun gjøres online opptil en dag før ankomst. Ta kontakt med nøkkelinnehaver/kontaktperson på stedet. Du finner all kontaktinformasjon i reisedokumentene dine."
+            },
+            "pl": {
+                "singular": "Formularz Pre-Check-In może być wypełniony najpóźniej na 1 dzień przed rozpoczęciem pobytu. Prosimy skontaktować się osobą odpowiedzialną za klucze/osobą na miejscu. Prosimy sprawdzić voucher/dane znajdują się w dokumentach podróży."
+            },
+            "pt": {
+                "singular": "O pré-CheckIn online só pode ser realizado até um dia antes do dia da chegada. Entre em contacto com o responsável de chaves/contacto no local. Consulte o seu voucher/documentos de viagem para obter as informações sobre o contacto."
+            },
+            "ru": {
+                "singular": "Предварительную онлайн-регистрацию можно пройти только за день до прибытия. Пожалуйста, свяжитесь с владельцем ключа на месте. Контактную информацию можно найти в вашем ваучере."
+            },
+            "sv": {
+                "singular": "Förhands-check-in kan endast genomföras fram till dagen före ankomst. Vänligen kontakta din nyckelhållare/kontakt på plats. Kontaktuppgifterna hittar du i dina resehandlingar. "
+            }
+        }
+    }
+}

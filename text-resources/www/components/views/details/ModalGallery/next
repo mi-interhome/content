@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.ModalGallery.next",
+    "name": "next",
+    "path": "text-resources/www/components/views/details/ModalGallery/next",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/ModalGallery/next",
+    "slug": "next",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "ModalGallery",
+        "next"
+    ],
+    "content": {
+        "key": "www.components.views.details.ModalGallery.next",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "následující fotografie"
+            },
+            "da": {
+                "singular": "Næste foto"
+            },
+            "de": {
+                "singular": "Nächstes Foto"
+            },
+            "de-AT": {
+                "singular": "Nächstes Foto"
+            },
+            "de-CH": {
+                "singular": "Nächstes Foto"
+            },
+            "de-DE": {
+                "singular": "Nächstes Foto"
+            },
+            "en": {
+                "singular": "Next Picture"
+            },
+            "en-AU": {
+                "singular": "Next Picture"
+            },
+            "en-CA": {
+                "singular": "Next Picture"
+            },
+            "en-GB": {
+                "singular": "Next Picture"
+            },
+            "en-IE": {
+                "singular": "Next Picture"
+            },
+            "en-US": {
+                "singular": "Next Picture"
+            },
+            "es": {
+                "singular": "Siguiente fotografía"
+            },
+            "fi": {
+                "singular": "Seuraava kuva"
+            },
+            "fi-EE": {
+                "singular": "Seuraava kuva"
+            },
+            "fi-FI": {
+                "singular": "Seuraava kuva"
+            },
+            "fr": {
+                "singular": "Photo suivante"
+            },
+            "fr-BE": {
+                "singular": "Photo suivante"
+            },
+            "fr-CA": {
+                "singular": "Photo suivante"
+            },
+            "fr-CH": {
+                "singular": "Photo suivante"
+            },
+            "fr-FR": {
+                "singular": "Photo suivante"
+            },
+            "hr": {
+                "singular": "Sljedeća fotografija"
+            },
+            "it": {
+                "singular": "Prossima immagine"
+            },
+            "it-CH": {
+                "singular": "Prossima immagine"
+            },
+            "it-IT": {
+                "singular": "Prossima immagine"
+            },
+            "nl": {
+                "singular": "Volgende foto"
+            },
+            "nl-BE": {
+                "singular": "Volgende foto"
+            },
+            "nl-NL": {
+                "singular": "Volgende foto"
+            },
+            "no": {
+                "singular": "Neste bilde"
+            },
+            "pl": {
+                "singular": "Kolejne zdjęcie"
+            },
+            "pt": {
+                "singular": "Próxima foto"
+            },
+            "ru": {
+                "singular": "Следующее фото"
+            },
+            "sv": {
+                "singular": "Nästa bild"
+            }
+        }
+    }
+}

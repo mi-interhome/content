@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.address.country",
+    "name": "country",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/address/country",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/address/country",
+    "slug": "country",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "address",
+        "country"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.address.country",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Země"
+            },
+            "da": {
+                "singular": "Land"
+            },
+            "de": {
+                "singular": "Land"
+            },
+            "de-AT": {
+                "singular": "Land"
+            },
+            "de-CH": {
+                "singular": "Land"
+            },
+            "de-DE": {
+                "singular": "Land"
+            },
+            "en": {
+                "singular": "Country"
+            },
+            "en-AU": {
+                "singular": "Country"
+            },
+            "en-CA": {
+                "singular": "Country"
+            },
+            "en-GB": {
+                "singular": "Country"
+            },
+            "en-IE": {
+                "singular": "Country"
+            },
+            "en-US": {
+                "singular": "Country"
+            },
+            "es": {
+                "singular": "País"
+            },
+            "fi": {
+                "singular": "Maa"
+            },
+            "fi-EE": {
+                "singular": "Maa"
+            },
+            "fi-FI": {
+                "singular": "Maa"
+            },
+            "fr": {
+                "singular": "Pays"
+            },
+            "fr-BE": {
+                "singular": "Pays"
+            },
+            "fr-CA": {
+                "singular": "Pays"
+            },
+            "fr-CH": {
+                "singular": "Pays"
+            },
+            "fr-FR": {
+                "singular": "Pays"
+            },
+            "hr": {
+                "singular": "Država"
+            },
+            "it": {
+                "singular": "Nazione"
+            },
+            "it-CH": {
+                "singular": "Nazione"
+            },
+            "it-IT": {
+                "singular": "Nazione"
+            },
+            "nl": {
+                "singular": "Land"
+            },
+            "nl-BE": {
+                "singular": "Land"
+            },
+            "nl-NL": {
+                "singular": "Land"
+            },
+            "no": {
+                "singular": "Land"
+            },
+            "pl": {
+                "singular": "Kraj"
+            },
+            "pt": {
+                "singular": "País"
+            },
+            "ru": {
+                "singular": "Страна"
+            },
+            "sv": {
+                "singular": "Land"
+            }
+        }
+    }
+}

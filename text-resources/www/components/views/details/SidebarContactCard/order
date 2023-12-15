@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.SidebarContactCard.order",
+    "name": "order",
+    "path": "text-resources/www/components/views/details/SidebarContactCard/order",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/SidebarContactCard/order",
+    "slug": "order",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "SidebarContactCard",
+        "order"
+    ],
+    "content": {
+        "key": "www.components.views.details.SidebarContactCard.order",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Žádost o nabídku"
+            },
+            "da": {
+                "singular": "Forespørg på tilbud"
+            },
+            "de": {
+                "singular": "Urlaubsangebot bestellen"
+            },
+            "de-AT": {
+                "singular": "Urlaubsangebot bestellen"
+            },
+            "de-CH": {
+                "singular": "Ferienangebot bestellen"
+            },
+            "de-DE": {
+                "singular": "Urlaubsangebot bestellen"
+            },
+            "en": {
+                "singular": "Request offer"
+            },
+            "en-AU": {
+                "singular": "Request offer"
+            },
+            "en-CA": {
+                "singular": "Request offer"
+            },
+            "en-GB": {
+                "singular": "Request offer"
+            },
+            "en-IE": {
+                "singular": "Request offer"
+            },
+            "en-US": {
+                "singular": "Request offer"
+            },
+            "es": {
+                "singular": "Solicitud de oferta"
+            },
+            "fi": {
+                "singular": "Lomaehdotuspyyntö"
+            },
+            "fi-EE": {
+                "singular": "Lomaehdotuspyyntö"
+            },
+            "fi-FI": {
+                "singular": "Lomaehdotuspyyntö"
+            },
+            "fr": {
+                "singular": "Demande d'offre"
+            },
+            "fr-BE": {
+                "singular": "Demande d'offre"
+            },
+            "fr-CA": {
+                "singular": "Demande d'offre"
+            },
+            "fr-CH": {
+                "singular": "Demande d'offre"
+            },
+            "fr-FR": {
+                "singular": "Demande d'offre"
+            },
+            "hr": {
+                "singular": "Zatraži ponudu"
+            },
+            "it": {
+                "singular": "Richiesta di offerta"
+            },
+            "it-CH": {
+                "singular": "Richiesta di offerta"
+            },
+            "it-IT": {
+                "singular": "Richiedi un'offerta"
+            },
+            "nl": {
+                "singular": "Offerte aanvraag"
+            },
+            "nl-BE": {
+                "singular": "Offerte aanvraag"
+            },
+            "nl-NL": {
+                "singular": "Offerte aanvraag"
+            },
+            "no": {
+                "singular": "Be om et tilbud"
+            },
+            "pl": {
+                "singular": "Zapytanie ofertowe"
+            },
+            "pt": {
+                "singular": "Solicitação de cotação"
+            },
+            "ru": {
+                "singular": "Сделать запрос"
+            },
+            "sv": {
+                "singular": "Begär offert"
+            }
+        }
+    }
+}

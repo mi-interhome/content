@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.rooms.1",
+    "name": "1",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/rooms/1",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/rooms/1",
+    "slug": "1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "rooms",
+        "1"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.rooms.1",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "1 a více"
+            },
+            "da": {
+                "singular": "1+ soveværelse"
+            },
+            "de": {
+                "singular": "1+ Schlafzimmer"
+            },
+            "de-AT": {
+                "singular": "1+ Schlafzimmer"
+            },
+            "de-CH": {
+                "singular": "1+ Schlafzimmer"
+            },
+            "de-DE": {
+                "singular": "1+ Schlafzimmer"
+            },
+            "en": {
+                "singular": "1+ bedroom"
+            },
+            "en-AU": {
+                "singular": "1+ bedroom"
+            },
+            "en-CA": {
+                "singular": "1+ bedroom"
+            },
+            "en-GB": {
+                "singular": "1+ bedroom"
+            },
+            "en-IE": {
+                "singular": "1+ bedroom"
+            },
+            "en-US": {
+                "singular": "1+ bedroom"
+            },
+            "es": {
+                "singular": "1+ Dormitorio"
+            },
+            "fi": {
+                "singular": "1+ makuuhuone"
+            },
+            "fi-EE": {
+                "singular": "1+ makuuhuone"
+            },
+            "fi-FI": {
+                "singular": "1+ makuuhuone"
+            },
+            "fr": {
+                "singular": "1 et+ chbres"
+            },
+            "fr-BE": {
+                "singular": "1 et + chambre"
+            },
+            "fr-CA": {
+                "singular": "1 et + chambre"
+            },
+            "fr-CH": {
+                "singular": "1 et + chambre"
+            },
+            "fr-FR": {
+                "singular": "1 et+ chbres"
+            },
+            "hr": {
+                "singular": "1+ spavaća soba"
+            },
+            "it": {
+                "singular": "1+ camere da letto"
+            },
+            "it-CH": {
+                "singular": "1+ camere da letto"
+            },
+            "it-IT": {
+                "singular": "1+ camera da letto"
+            },
+            "nl": {
+                "singular": "1+ slaapkamer"
+            },
+            "nl-BE": {
+                "singular": "1+ slaapkamer"
+            },
+            "nl-NL": {
+                "singular": "1+ slaapkamer"
+            },
+            "no": {
+                "singular": "1+ soverom"
+            },
+            "pl": {
+                "singular": "1+ sypialnia"
+            },
+            "pt": {
+                "singular": "1+ dormitório"
+            },
+            "ru": {
+                "singular": "1+ спальня"
+            },
+            "sv": {
+                "singular": "1+ sovrum"
+            }
+        }
+    }
+}

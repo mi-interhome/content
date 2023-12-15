@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.houseType.apartment",
+    "name": "apartment",
+    "path": "text-resources/www/components/views/search/newFilter/filterSections/houseType/apartment",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/houseType/apartment",
+    "slug": "apartment",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "houseType",
+        "apartment"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.houseType.apartment",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rekreační apartmán"
+            },
+            "da": {
+                "singular": "Lejlighed"
+            },
+            "de": {
+                "singular": "Ferienwohnung"
+            },
+            "de-AT": {
+                "singular": "Ferienwohnung"
+            },
+            "de-CH": {
+                "singular": "Ferienwohnung"
+            },
+            "de-DE": {
+                "singular": "Ferienwohnung"
+            },
+            "en": {
+                "singular": "Apartment"
+            },
+            "en-AU": {
+                "singular": "Apartment"
+            },
+            "en-CA": {
+                "singular": "Apartment"
+            },
+            "en-GB": {
+                "singular": "Apartment"
+            },
+            "en-IE": {
+                "singular": "Apartment"
+            },
+            "en-US": {
+                "singular": "Apartment"
+            },
+            "es": {
+                "singular": "Apartamento"
+            },
+            "fi": {
+                "singular": "Lomahuoneisto"
+            },
+            "fi-EE": {
+                "singular": "Lomahuoneisto"
+            },
+            "fi-FI": {
+                "singular": "Lomahuoneisto"
+            },
+            "fr": {
+                "singular": "Appartement"
+            },
+            "fr-BE": {
+                "singular": "Appartement"
+            },
+            "fr-CA": {
+                "singular": "Appartement de vacances"
+            },
+            "fr-CH": {
+                "singular": "Appartement"
+            },
+            "fr-FR": {
+                "singular": "Appartement"
+            },
+            "hr": {
+                "singular": "Apartman"
+            },
+            "it": {
+                "singular": "Appartamento"
+            },
+            "it-CH": {
+                "singular": "Appartamento"
+            },
+            "it-IT": {
+                "singular": "Appartamento"
+            },
+            "nl": {
+                "singular": "Appartement"
+            },
+            "nl-BE": {
+                "singular": "Appartement"
+            },
+            "nl-NL": {
+                "singular": "Appartement"
+            },
+            "no": {
+                "singular": "Leiligheter"
+            },
+            "pl": {
+                "singular": "Apartamenty"
+            },
+            "pt": {
+                "singular": "Apartamentos"
+            },
+            "ru": {
+                "singular": "Апартаменты"
+            },
+            "sv": {
+                "singular": "Lägenheter"
+            }
+        }
+    }
+}

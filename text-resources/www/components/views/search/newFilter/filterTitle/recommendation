@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.newFilter.filterTitle.recommendation",
+    "name": "recommendation",
+    "path": "text-resources/www/components/views/search/newFilter/filterTitle/recommendation",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterTitle/recommendation",
+    "slug": "recommendation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterTitle",
+        "recommendation"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterTitle.recommendation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Naše doporučení"
+            },
+            "da": {
+                "singular": "Vore anbefalinger"
+            },
+            "de": {
+                "singular": "Unsere Empfehlung"
+            },
+            "de-AT": {
+                "singular": "Unsere Empfehlung"
+            },
+            "de-CH": {
+                "singular": "Unsere Empfehlung"
+            },
+            "de-DE": {
+                "singular": "Unsere Empfehlung"
+            },
+            "en": {
+                "singular": "Our recommendations"
+            },
+            "en-AU": {
+                "singular": "Our recommendations"
+            },
+            "en-CA": {
+                "singular": "Our recommendations"
+            },
+            "en-GB": {
+                "singular": "Our recommendations"
+            },
+            "en-IE": {
+                "singular": "Our recommendations"
+            },
+            "en-US": {
+                "singular": "Our recommendations"
+            },
+            "es": {
+                "singular": "Nuestras recomendaciones"
+            },
+            "fi": {
+                "singular": "Suosituksemme"
+            },
+            "fi-EE": {
+                "singular": "Suosituksemme"
+            },
+            "fi-FI": {
+                "singular": "Suosituksemme"
+            },
+            "fr": {
+                "singular": "Nos recommandations"
+            },
+            "fr-BE": {
+                "singular": "Nos recommandations"
+            },
+            "fr-CA": {
+                "singular": "Nos recommandations"
+            },
+            "fr-CH": {
+                "singular": "Nos recommandations"
+            },
+            "fr-FR": {
+                "singular": "Nos recommandations"
+            },
+            "hr": {
+                "singular": "Naše preporuke"
+            },
+            "it": {
+                "singular": "I nostri consigli"
+            },
+            "it-CH": {
+                "singular": "I nostri consigli"
+            },
+            "it-IT": {
+                "singular": "I nostri consigli"
+            },
+            "nl": {
+                "singular": "Onze aanbevelingen"
+            },
+            "nl-BE": {
+                "singular": "Onze aanbevelingen"
+            },
+            "nl-NL": {
+                "singular": "Onze aanbevelingen"
+            },
+            "no": {
+                "singular": "Våre anbefalinger"
+            },
+            "pl": {
+                "singular": "Sortuj: Polecane"
+            },
+            "pt": {
+                "singular": "As nossas recomendações"
+            },
+            "ru": {
+                "singular": "Наши рекомендации"
+            },
+            "sv": {
+                "singular": "Våra rekommendationer"
+            }
+        }
+    }
+}

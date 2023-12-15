@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.common.b2bInfobar.partnerPortal",
+    "name": "partnerPortal",
+    "path": "text-resources/webccBooking/components/common/b2bInfobar/partnerPortal",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/common/b2bInfobar/partnerPortal",
+    "slug": "partnerPortal",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "common",
+        "b2bInfobar",
+        "partnerPortal"
+    ],
+    "content": {
+        "key": "webccBooking.components.common.b2bInfobar.partnerPortal",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Partners Home"
+            },
+            "da": {
+                "singular": "Partners Home"
+            },
+            "de": {
+                "singular": "Partner Home"
+            },
+            "de-AT": {
+                "singular": "Partner Home"
+            },
+            "de-CH": {
+                "singular": "Partner Home"
+            },
+            "de-DE": {
+                "singular": "Partner Home"
+            },
+            "en": {
+                "singular": "Partners Home"
+            },
+            "en-AU": {
+                "singular": "Partners Home"
+            },
+            "en-CA": {
+                "singular": "Partners Home"
+            },
+            "en-GB": {
+                "singular": "Partners Home"
+            },
+            "en-IE": {
+                "singular": "Partners Home"
+            },
+            "en-US": {
+                "singular": "Partners Home"
+            },
+            "es": {
+                "singular": "Partners Home"
+            },
+            "fi": {
+                "singular": "Partners Home"
+            },
+            "fi-EE": {
+                "singular": "Partners Home"
+            },
+            "fi-FI": {
+                "singular": "Partners Home"
+            },
+            "fr": {
+                "singular": "Accueil Partenaire"
+            },
+            "fr-BE": {
+                "singular": "Accueil Partenaire"
+            },
+            "fr-CA": {
+                "singular": "Accueil Partenaire"
+            },
+            "fr-CH": {
+                "singular": "Accueil Partenaire"
+            },
+            "fr-FR": {
+                "singular": "Accueil Partenaire"
+            },
+            "hr": {
+                "singular": "Partners Home"
+            },
+            "it": {
+                "singular": "Sito agenzie/partner"
+            },
+            "it-CH": {
+                "singular": "Sito agenzie/partner"
+            },
+            "it-IT": {
+                "singular": "Sito agenzie/partner"
+            },
+            "nl": {
+                "singular": "Partners home"
+            },
+            "nl-BE": {
+                "singular": "Partners home"
+            },
+            "nl-NL": {
+                "singular": "Partners home"
+            },
+            "no": {
+                "singular": "Partners Home"
+            },
+            "pl": {
+                "singular": "Współpraca partnerska"
+            },
+            "pt": {
+                "singular": "Partners Home"
+            },
+            "ru": {
+                "singular": "Аффилейты Главная"
+            },
+            "sv": {
+                "singular": "Partners Home"
+            }
+        }
+    }
+}

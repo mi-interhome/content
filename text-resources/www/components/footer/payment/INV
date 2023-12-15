@@ -1,0 +1,126 @@
+{
+    "id": "www.components.footer.payment.INV",
+    "name": "INV",
+    "path": "text-resources/www/components/footer/payment/INV",
+    "folder": "text-resources",
+    "full_slug": "www/components/footer/payment/INV",
+    "slug": "INV",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "footer",
+        "payment",
+        "INV"
+    ],
+    "content": {
+        "key": "www.components.footer.payment.INV",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Platba fakturou"
+            },
+            "da": {
+                "singular": "Regning"
+            },
+            "de": {
+                "singular": "Buchung auf Rechnung"
+            },
+            "de-AT": {
+                "singular": "Buchung auf Rechnung"
+            },
+            "de-CH": {
+                "singular": "Buchung auf Rechnung"
+            },
+            "de-DE": {
+                "singular": "Buchung auf Rechnung"
+            },
+            "en": {
+                "singular": "Payment on invoice"
+            },
+            "en-AU": {
+                "singular": "Payment on invoice"
+            },
+            "en-CA": {
+                "singular": "Payment on invoice"
+            },
+            "en-GB": {
+                "singular": "Payment on invoice"
+            },
+            "en-IE": {
+                "singular": "Payment on invoice"
+            },
+            "en-US": {
+                "singular": "Payment on invoice"
+            },
+            "es": {
+                "singular": "Pago a través de la factura"
+            },
+            "fi": {
+                "singular": "Maksu laskulla"
+            },
+            "fi-EE": {
+                "singular": "Maksu laskulla"
+            },
+            "fi-FI": {
+                "singular": "Maksu laskulla"
+            },
+            "fr": {
+                "singular": "Paiement sur facture / Chèque vacances dématérialisé"
+            },
+            "fr-BE": {
+                "singular": "Paiement sur facture / Chèque vacances dématérialisé"
+            },
+            "fr-CA": {
+                "singular": "Paiement sur facture / Chèque vacances dématérialisé"
+            },
+            "fr-CH": {
+                "singular": "Paiement sur facture / Chèque vacances dématérialisé"
+            },
+            "fr-FR": {
+                "singular": "Paiement sur facture / Chèque vacances dématérialisé"
+            },
+            "hr": {
+                "singular": "Plaćanje putem računa"
+            },
+            "it": {
+                "singular": "Bonifico"
+            },
+            "it-CH": {
+                "singular": "Bonifico"
+            },
+            "it-IT": {
+                "singular": "Bonifico"
+            },
+            "nl": {
+                "singular": "Boeking op rekening "
+            },
+            "nl-BE": {
+                "singular": "Boeking op rekening "
+            },
+            "nl-NL": {
+                "singular": "Boeking op rekening "
+            },
+            "no": {
+                "singular": "Betaling på faktura"
+            },
+            "pl": {
+                "singular": "Płatność przelewem "
+            },
+            "pt": {
+                "singular": "Pagamento através de fatura"
+            },
+            "ru": {
+                "singular": "Оплата по счету"
+            },
+            "sv": {
+                "singular": "Betalning på faktura"
+            }
+        }
+    }
+}

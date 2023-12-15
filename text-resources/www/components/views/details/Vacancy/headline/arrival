@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Vacancy.headline.arrival",
+    "name": "arrival",
+    "path": "text-resources/www/components/views/details/Vacancy/headline/arrival",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Vacancy/headline/arrival",
+    "slug": "arrival",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Vacancy",
+        "headline",
+        "arrival"
+    ],
+    "content": {
+        "key": "www.components.views.details.Vacancy.headline.arrival",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vybrat datum příjezdu"
+            },
+            "da": {
+                "singular": "Vælg ankomstdato"
+            },
+            "de": {
+                "singular": "Anreisedatum wählen"
+            },
+            "de-AT": {
+                "singular": "Anreisedatum wählen"
+            },
+            "de-CH": {
+                "singular": "Anreisedatum wählen"
+            },
+            "de-DE": {
+                "singular": "Anreisedatum wählen"
+            },
+            "en": {
+                "singular": "Select arrival date"
+            },
+            "en-AU": {
+                "singular": "Select arrival date"
+            },
+            "en-CA": {
+                "singular": "Select arrival date"
+            },
+            "en-GB": {
+                "singular": "Select arrival date"
+            },
+            "en-IE": {
+                "singular": "Select arrival date"
+            },
+            "en-US": {
+                "singular": "Select arrival date"
+            },
+            "es": {
+                "singular": "Seleccione fecha de llegada"
+            },
+            "fi": {
+                "singular": "Valitse saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Valitse saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Valitse saapumispäivä"
+            },
+            "fr": {
+                "singular": "Sélectionnez la date d'arrivée"
+            },
+            "fr-BE": {
+                "singular": "Sélectionnez la date d'arrivée"
+            },
+            "fr-CA": {
+                "singular": "Sélectionnez la date d'arrivée"
+            },
+            "fr-CH": {
+                "singular": "Sélectionnez la date d'arrivée"
+            },
+            "fr-FR": {
+                "singular": "Sélectionnez la date d'arrivée"
+            },
+            "hr": {
+                "singular": "Odaberite datum dolaska"
+            },
+            "it": {
+                "singular": "Seleziona la data di arrivo"
+            },
+            "it-CH": {
+                "singular": "Seleziona la data di arrivo"
+            },
+            "it-IT": {
+                "singular": "Seleziona la data di arrivo"
+            },
+            "nl": {
+                "singular": "Kies aankomstdatum"
+            },
+            "nl-BE": {
+                "singular": "Kies aankomstdatum"
+            },
+            "nl-NL": {
+                "singular": "Kies aankomstdatum"
+            },
+            "no": {
+                "singular": "Velg ankomstdato"
+            },
+            "pl": {
+                "singular": "Wybierz datę przyjazdu"
+            },
+            "pt": {
+                "singular": "Selecione a data de chegada"
+            },
+            "ru": {
+                "singular": "Выберите дату заезда"
+            },
+            "sv": {
+                "singular": "Välj ankomstdatum"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.searchTeaser.headingFilter",
+    "name": "headingFilter",
+    "path": "text-resources/www/components/views/search/searchTeaser/headingFilter",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/searchTeaser/headingFilter",
+    "slug": "headingFilter",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "searchTeaser",
+        "headingFilter"
+    ],
+    "content": {
+        "key": "www.components.views.search.searchTeaser.headingFilter",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destandfilter} - Rekreační domy a apartmány v:"
+            },
+            "da": {
+                "singular": "{destandfilter} - Feriehuse og lejligheder i:"
+            },
+            "de": {
+                "singular": "{destandfilter} - Ferienhäuser und Ferienwohnungen in:"
+            },
+            "de-AT": {
+                "singular": "{destandfilter} - Ferienhäuser und Ferienwohnungen in:"
+            },
+            "de-CH": {
+                "singular": "{destandfilter} - Ferienhäuser und Ferienwohnungen in:"
+            },
+            "de-DE": {
+                "singular": "{destandfilter} - Ferienhäuser und Ferienwohnungen in:"
+            },
+            "en": {
+                "singular": "{destandfilter} - Holiday houses and apartments in:"
+            },
+            "en-AU": {
+                "singular": "{destandfilter} - Holiday houses and apartments in:"
+            },
+            "en-CA": {
+                "singular": "{destandfilter} - Holiday houses and apartments in:"
+            },
+            "en-GB": {
+                "singular": "{destandfilter} - Holiday houses and apartments in:"
+            },
+            "en-IE": {
+                "singular": "{destandfilter} - Holiday houses and apartments in:"
+            },
+            "en-US": {
+                "singular": "{destandfilter} - Vacation houses and apartments in:"
+            },
+            "es": {
+                "singular": "{destandfilter} - Casas y apartmentos de vacaciones en: "
+            },
+            "fi": {
+                "singular": "{destandfilter} - Lomatalot ja -huoneistot paikassa:"
+            },
+            "fi-EE": {
+                "singular": "{destandfilter} - Lomatalot ja -huoneistot paikassa:"
+            },
+            "fi-FI": {
+                "singular": "{destandfilter} - Lomatalot ja -huoneistot paikassa:"
+            },
+            "fr": {
+                "singular": "{destandfilter} - Maisons et appartements de vacances:"
+            },
+            "fr-BE": {
+                "singular": "{destandfilter} - Maisons et appartements de vacances:"
+            },
+            "fr-CA": {
+                "singular": "{destandfilter} - Maisons et appartements de vacances:"
+            },
+            "fr-CH": {
+                "singular": "{destandfilter} - Maisons et appartements de vacances:"
+            },
+            "fr-FR": {
+                "singular": "{destandfilter} - Maisons et appartements de vacances :"
+            },
+            "hr": {
+                "singular": "{destandfilter} - Kuće za odmor i apartmani u:"
+            },
+            "it": {
+                "singular": "{destandfilter} - Case e appartamenti di vacanza a:"
+            },
+            "it-CH": {
+                "singular": "{destandfilter} - Case e appartamenti di vacanza a:"
+            },
+            "it-IT": {
+                "singular": "{destandfilter} - Case e appartamenti di vacanza a:"
+            },
+            "nl": {
+                "singular": "{destandfilter} - Vakantiehuizen en appartementen in:"
+            },
+            "nl-BE": {
+                "singular": "{destandfilter} - Vakantiehuizen en appartementen in:"
+            },
+            "nl-NL": {
+                "singular": "{destandfilter} - Vakantiehuizen en appartementen in:"
+            },
+            "no": {
+                "singular": "{destandfilter} - Feriehus og leiligheter i:"
+            },
+            "pl": {
+                "singular": "{destandfilter} - Domy i apartamenty wakacyjne w:"
+            },
+            "pt": {
+                "singular": "{destandfilter} - Casas e apartamentos de férias em:"
+            },
+            "ru": {
+                "singular": "{destandfilter} - Дома и апартаменты в:"
+            },
+            "sv": {
+                "singular": "{destandfilter} - Semesterhus och lägenheter i:"
+            }
+        }
+    }
+}

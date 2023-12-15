@@ -1,0 +1,126 @@
+{
+    "id": "www.components.views.details.Attributes.sustainability.renewable_electricity",
+    "name": "renewable_electricity",
+    "path": "text-resources/www/components/views/details/Attributes/sustainability/renewable_electricity",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/sustainability/renewable_electricity",
+    "slug": "renewable_electricity",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "sustainability",
+        "renewable_electricity"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.sustainability.renewable_electricity",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "100% obnovitelná elektřina"
+            },
+            "da": {
+                "singular": "100% vedvarende energi"
+            },
+            "de": {
+                "singular": "100% erneuerbarer Strom"
+            },
+            "de-AT": {
+                "singular": "100% erneuerbarer Strom"
+            },
+            "de-CH": {
+                "singular": "100% erneuerbarer Strom"
+            },
+            "de-DE": {
+                "singular": "100% erneuerbarer Strom"
+            },
+            "en": {
+                "singular": "100% renewable electricity"
+            },
+            "en-AU": {
+                "singular": "100% renewable electricity"
+            },
+            "en-CA": {
+                "singular": "100% renewable electricity"
+            },
+            "en-GB": {
+                "singular": "100% renewable electricity"
+            },
+            "en-IE": {
+                "singular": "100% renewable electricity"
+            },
+            "en-US": {
+                "singular": "100% renewable electricity"
+            },
+            "es": {
+                "singular": "Electricidad 100% renovable"
+            },
+            "fi": {
+                "singular": "100% uusiutuvaa energiaa"
+            },
+            "fi-EE": {
+                "singular": "100% uusiutuvaa energiaa"
+            },
+            "fi-FI": {
+                "singular": "100% uusiutuvaa energiaa"
+            },
+            "fr": {
+                "singular": "Electricité 100% renouvelable"
+            },
+            "fr-BE": {
+                "singular": "Electricité 100% renouvelable"
+            },
+            "fr-CA": {
+                "singular": "Electricité 100% renouvelable"
+            },
+            "fr-CH": {
+                "singular": "Electricité 100% renouvelable"
+            },
+            "fr-FR": {
+                "singular": "Electricité 100% renouvelable"
+            },
+            "hr": {
+                "singular": "100% obnovljiva električna energija"
+            },
+            "it": {
+                "singular": "Elettricità rinnovabile al 100%."
+            },
+            "it-CH": {
+                "singular": "Elettricità rinnovabile al 100%."
+            },
+            "it-IT": {
+                "singular": "Elettricità rinnovabile al 100%."
+            },
+            "nl": {
+                "singular": "100% hernieuwbare elektriciteit"
+            },
+            "nl-BE": {
+                "singular": "100% hernieuwbare elektriciteit"
+            },
+            "nl-NL": {
+                "singular": "100% hernieuwbare elektriciteit"
+            },
+            "no": {
+                "singular": "100% fornybar elektrisitet"
+            },
+            "pl": {
+                "singular": "energia w 100% odnawialna"
+            },
+            "pt": {
+                "singular": "Eletricidade 100% renovável"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "100% ström från förnybara källor"
+            }
+        }
+    }
+}

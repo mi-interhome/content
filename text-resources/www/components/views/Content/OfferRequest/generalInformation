@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.Content.OfferRequest.generalInformation",
+    "name": "generalInformation",
+    "path": "text-resources/www/components/views/Content/OfferRequest/generalInformation",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/generalInformation",
+    "slug": "generalInformation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "generalInformation"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.generalInformation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Obecné informace"
+            },
+            "da": {
+                "singular": "Generelle informationer"
+            },
+            "de": {
+                "singular": "Allgemeine Informationen"
+            },
+            "de-AT": {
+                "singular": "Allgemeine Informationen"
+            },
+            "de-CH": {
+                "singular": "Allgemeine Informationen"
+            },
+            "de-DE": {
+                "singular": "Allgemeine Informationen"
+            },
+            "en": {
+                "singular": "General information for your next holiday"
+            },
+            "en-AU": {
+                "singular": "General information for your next holiday"
+            },
+            "en-CA": {
+                "singular": "General information for your next holiday"
+            },
+            "en-GB": {
+                "singular": "General information for your next holiday"
+            },
+            "en-IE": {
+                "singular": "General information for your next holiday"
+            },
+            "en-US": {
+                "singular": "General information to your planned vacations"
+            },
+            "es": {
+                "singular": "Información general"
+            },
+            "fi": {
+                "singular": "Yleistä tietoa"
+            },
+            "fi-EE": {
+                "singular": "Yleistä tietoa suunnittelemastasi lomasta"
+            },
+            "fi-FI": {
+                "singular": "Yleistä tietoa"
+            },
+            "fr": {
+                "singular": "Informations générales"
+            },
+            "fr-BE": {
+                "singular": "Informations générales"
+            },
+            "fr-CA": {
+                "singular": "Informations générales"
+            },
+            "fr-CH": {
+                "singular": "Informations générales"
+            },
+            "fr-FR": {
+                "singular": "Informations générales"
+            },
+            "hr": {
+                "singular": "Opće informacije"
+            },
+            "it": {
+                "singular": "Informazioni generali"
+            },
+            "it-CH": {
+                "singular": "Informazioni generali"
+            },
+            "it-IT": {
+                "singular": "Informazioni generali sulla vacanza"
+            },
+            "nl": {
+                "singular": "Algemene informatie"
+            },
+            "nl-BE": {
+                "singular": "Algemene informatie"
+            },
+            "nl-NL": {
+                "singular": "Algemene informatie"
+            },
+            "no": {
+                "singular": "Generell informasjon"
+            },
+            "pl": {
+                "singular": "Ogólne informacje"
+            },
+            "pt": {
+                "singular": "Generalidades"
+            },
+            "ru": {
+                "singular": "Общая информация"
+            },
+            "sv": {
+                "singular": "Generell information"
+            }
+        }
+    }
+}

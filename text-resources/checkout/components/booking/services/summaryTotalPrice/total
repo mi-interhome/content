@@ -1,0 +1,81 @@
+{
+    "id": "checkout.components.booking.services.summaryTotalPrice.total",
+    "name": "total",
+    "path": "text-resources/checkout/components/booking/services/summaryTotalPrice/total",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/summaryTotalPrice/total",
+    "slug": "total",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "summaryTotalPrice",
+        "total"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.summaryTotalPrice.total",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Total an {company}"
+            },
+            "de-AT": {
+                "singular": "Total an {company}"
+            },
+            "de-CH": {
+                "singular": "Total an {company}"
+            },
+            "de-DE": {
+                "singular": "Total an {company}"
+            },
+            "en": {
+                "singular": "Total"
+            },
+            "en-AU": {
+                "singular": "Total"
+            },
+            "en-CA": {
+                "singular": "Total"
+            },
+            "en-GB": {
+                "singular": "Total"
+            },
+            "en-IE": {
+                "singular": "Total"
+            },
+            "en-US": {
+                "singular": "Total"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

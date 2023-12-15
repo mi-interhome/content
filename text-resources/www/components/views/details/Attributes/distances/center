@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.distances.center",
+    "name": "center",
+    "path": "text-resources/www/components/views/details/Attributes/distances/center",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/distances/center",
+    "slug": "center",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "distances",
+        "center"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.distances.center",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nejbližší obec či město / centrum města: {distance}"
+            },
+            "da": {
+                "singular": "Nærmeste by/bymidte {distance}"
+            },
+            "de": {
+                "singular": "Nächster Ort / Ortsmitte {distance}"
+            },
+            "de-AT": {
+                "singular": "Nächster Ort / Ortsmitte {distance}"
+            },
+            "de-CH": {
+                "singular": "Nächster Ort / Ortsmitte {distance}"
+            },
+            "de-DE": {
+                "singular": "Nächster Ort / Ortsmitte {distance}"
+            },
+            "en": {
+                "singular": "Nearest town / town centre {distance}"
+            },
+            "en-AU": {
+                "singular": "Nearest town / town centre {distance}"
+            },
+            "en-CA": {
+                "singular": "Nearest town / town centre {distance}"
+            },
+            "en-GB": {
+                "singular": "Nearest town / town centre {distance}"
+            },
+            "en-IE": {
+                "singular": "Nearest town / town centre {distance}"
+            },
+            "en-US": {
+                "singular": "Nearest town / town centre {distance}"
+            },
+            "es": {
+                "singular": "Localidad más próxima/ centro de la ciudad {distance}"
+            },
+            "fi": {
+                "singular": "Lähin kaupunki / keskusta {distance}"
+            },
+            "fi-EE": {
+                "singular": "Lähin kaupunki / keskusta {distance}"
+            },
+            "fi-FI": {
+                "singular": "Lähin kaupunki / keskusta {distance}"
+            },
+            "fr": {
+                "singular": "Ville la plus proche / centre-ville {distance}"
+            },
+            "fr-BE": {
+                "singular": "Ville la plus proche / centre-ville {distance}"
+            },
+            "fr-CA": {
+                "singular": "Ville la plus proche / centre-ville {distance}"
+            },
+            "fr-CH": {
+                "singular": "Ville la plus proche / centre-ville {distance}"
+            },
+            "fr-FR": {
+                "singular": "Ville la plus proche / centre-ville {distance}"
+            },
+            "hr": {
+                "singular": "Najbliži grad / centar grada {distance}"
+            },
+            "it": {
+                "singular": "Città / centro città più vicino {distance}"
+            },
+            "it-CH": {
+                "singular": "Città / centro città più vicino {distance}"
+            },
+            "it-IT": {
+                "singular": "Città / centro città più vicino {distance}"
+            },
+            "nl": {
+                "singular": "Dichtsbijzijnde stad / stadscentrum {distance}"
+            },
+            "nl-BE": {
+                "singular": "Dichtsbijzijnde stad / stadscentrum {distance}"
+            },
+            "nl-NL": {
+                "singular": "Dichtsbijzijnde stad / stadscentrum {distance}"
+            },
+            "no": {
+                "singular": "Nærmeste by/bysentrum {distance}"
+            },
+            "pl": {
+                "singular": "Najbliższa miejscowość/centrum miasta {distance}"
+            },
+            "pt": {
+                "singular": "Cidade mais próxima/centro da cidade {distance}"
+            },
+            "ru": {
+                "singular": "Ближайший город / центр города {distance}"
+            },
+            "sv": {
+                "singular": "Nästa ort / ortscentrum {distance}"
+            }
+        }
+    }
+}

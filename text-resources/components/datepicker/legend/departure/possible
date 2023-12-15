@@ -1,0 +1,126 @@
+{
+    "id": "components.datepicker.legend.departure.possible",
+    "name": "possible",
+    "path": "text-resources/components/datepicker/legend/departure/possible",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/legend/departure/possible",
+    "slug": "possible",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "legend",
+        "departure",
+        "possible"
+    ],
+    "content": {
+        "key": "components.datepicker.legend.departure.possible",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Možný termín odjezdu"
+            },
+            "da": {
+                "singular": "Mulig afrejsedato"
+            },
+            "de": {
+                "singular": "Mögliches Abreisedatum"
+            },
+            "de-AT": {
+                "singular": "Mögliches Abreisedatum"
+            },
+            "de-CH": {
+                "singular": "Mögliches Abreisedatum"
+            },
+            "de-DE": {
+                "singular": "Mögliches Abreisedatum"
+            },
+            "en": {
+                "singular": "Possible departure date"
+            },
+            "en-AU": {
+                "singular": "Possible departure date"
+            },
+            "en-CA": {
+                "singular": "Possible departure date"
+            },
+            "en-GB": {
+                "singular": "Possible departure date"
+            },
+            "en-IE": {
+                "singular": "Possible departure date"
+            },
+            "en-US": {
+                "singular": "Possible departure date"
+            },
+            "es": {
+                "singular": "Posible fecha de salida"
+            },
+            "fi": {
+                "singular": "Mahdollinen lähtöpäivä"
+            },
+            "fi-EE": {
+                "singular": "Mahdollinen lähtöpäivä"
+            },
+            "fi-FI": {
+                "singular": "Mahdollinen lähtöpäivä"
+            },
+            "fr": {
+                "singular": "Date de départ possible"
+            },
+            "fr-BE": {
+                "singular": "Date de départ possible"
+            },
+            "fr-CA": {
+                "singular": "Date de départ possible"
+            },
+            "fr-CH": {
+                "singular": "Date de départ possible"
+            },
+            "fr-FR": {
+                "singular": "Date de départ possible"
+            },
+            "hr": {
+                "singular": "Moguć datum odlaska"
+            },
+            "it": {
+                "singular": "Disponibile e possibile data di inizio soggiorno"
+            },
+            "it-CH": {
+                "singular": "Disponibile e possibile data di inizio soggiorno"
+            },
+            "it-IT": {
+                "singular": "Disponibile e possibile data di inizio soggiorno"
+            },
+            "nl": {
+                "singular": "Mogelijke vertrekdatum"
+            },
+            "nl-BE": {
+                "singular": "Mogelijke vertrekdatum"
+            },
+            "nl-NL": {
+                "singular": "Mogelijke vertrekdatum"
+            },
+            "no": {
+                "singular": "Mulig avreisedato"
+            },
+            "pl": {
+                "singular": "Możliwy dzień wyjazdu"
+            },
+            "pt": {
+                "singular": "Data de partida possível"
+            },
+            "ru": {
+                "singular": "Возможная дата выезда"
+            },
+            "sv": {
+                "singular": "Möjligt avresedatum"
+            }
+        }
+    }
+}

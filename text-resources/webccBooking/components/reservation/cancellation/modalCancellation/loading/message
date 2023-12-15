@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.loading.message",
+    "name": "message",
+    "path": "text-resources/webccBooking/components/reservation/cancellation/modalCancellation/loading/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/loading/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "loading",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.loading.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Může to chvíli trvat. Nezavírejte prosím okno prohlížeče."
+            },
+            "da": {
+                "singular": "Dette kan tage et stykke tid. Luk venligst ikke browservinduet."
+            },
+            "de": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie das Browser-Fenster nicht."
+            },
+            "de-AT": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie das Browser-Fenster nicht."
+            },
+            "de-CH": {
+                "singular": "Das kann ein bisschen dauern. Bitte schliessen sie das Browser-Fenster nicht."
+            },
+            "de-DE": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie das Browser-Fenster nicht."
+            },
+            "en": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "en-AU": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "en-CA": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "en-GB": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "en-IE": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "en-US": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "es": {
+                "singular": "Esto podría tomar unos instantes. Por favor, no cierre esta ventana de su navegador."
+            },
+            "fi": {
+                "singular": "Tämä voi kestää hetken. Ethän sulje selaimen ikkunaa."
+            },
+            "fi-EE": {
+                "singular": "This may take a while. Please do not close the browser window."
+            },
+            "fi-FI": {
+                "singular": "Tämä voi kestää hetken. Ethän sulje selaimen ikkunaa."
+            },
+            "fr": {
+                "singular": "Cela peut prendre un peu de temps. Veuillez s.v.p. ne pas fermer la fenêtre de votre navigateur."
+            },
+            "fr-BE": {
+                "singular": "Cela peut prendre un peu de temps. Veuillez s.v.p. ne pas fermer la fenêtre de votre navigateur."
+            },
+            "fr-CA": {
+                "singular": "Cela peut prendre un peu de temps. Veuillez s.v.p. ne pas fermer la fenêtre de votre navigateur."
+            },
+            "fr-CH": {
+                "singular": "Cela peut prendre un peu de temps. Veuillez s.v.p. ne pas fermer la fenêtre de votre navigateur."
+            },
+            "fr-FR": {
+                "singular": "Cela peut prendre un peu de temps. Veuillez s.v.p. ne pas fermer la fenêtre de votre navigateur."
+            },
+            "hr": {
+                "singular": "Ovo može potrajati. Molimo ne zatvarajte prozor preglednika."
+            },
+            "it": {
+                "singular": "L'operazione potrebbe richiedere alcuni istanti, di prega di non chiudere la finestra del browser."
+            },
+            "it-CH": {
+                "singular": "L'operazione potrebbe richiedere alcuni istanti, di prega di non chiudere la finestra del browser."
+            },
+            "it-IT": {
+                "singular": "L'operazione potrebbe richiedere alcuni istanti, di prega di non chiudere la finestra del browser."
+            },
+            "nl": {
+                "singular": "Dit kan even duren. Gelieve het browservenster niet te sluiten."
+            },
+            "nl-BE": {
+                "singular": "Dit kan even duren. Gelieve het browservenster niet te sluiten."
+            },
+            "nl-NL": {
+                "singular": "Dit kan even duren. Gelieve het browservenster niet te sluiten."
+            },
+            "no": {
+                "singular": "Dette kann ta litt tid. Ikke lukk nettleservinduet."
+            },
+            "pl": {
+                "singular": "Operacja wymaga czasu. Prosimy nie zamykać okna przeglądarki."
+            },
+            "pt": {
+                "singular": "Esta operação pode demorar um pouco. Por favor, não feche a janela do browser."
+            },
+            "ru": {
+                "singular": "Это может занять некоторое время. Пожалуйста, не закрывайте окно браузера."
+            },
+            "sv": {
+                "singular": "Det här kan ta ett tag. Vänligen stäng ej webbläsaren."
+            }
+        }
+    }
+}

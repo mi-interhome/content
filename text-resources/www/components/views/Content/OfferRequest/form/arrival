@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.arrival",
+    "name": "arrival",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/arrival",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/arrival",
+    "slug": "arrival",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "arrival"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.arrival",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Datum nástupu"
+            },
+            "da": {
+                "singular": "Ankomstdato"
+            },
+            "de": {
+                "singular": "Anreisedatum"
+            },
+            "de-AT": {
+                "singular": "Anreisedatum"
+            },
+            "de-CH": {
+                "singular": "Anreisedatum"
+            },
+            "de-DE": {
+                "singular": "Anreisedatum"
+            },
+            "en": {
+                "singular": "Arrival date"
+            },
+            "en-AU": {
+                "singular": "Arrival date"
+            },
+            "en-CA": {
+                "singular": "Arrival date"
+            },
+            "en-GB": {
+                "singular": "Arrival date"
+            },
+            "en-IE": {
+                "singular": "Arrival date"
+            },
+            "en-US": {
+                "singular": "Arrival date"
+            },
+            "es": {
+                "singular": "Fecha de entrada"
+            },
+            "fi": {
+                "singular": "Saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Saapumispäivä"
+            },
+            "fr": {
+                "singular": "Date d'arrivée"
+            },
+            "fr-BE": {
+                "singular": "Date d'arrivée"
+            },
+            "fr-CA": {
+                "singular": "Date d'arrivée"
+            },
+            "fr-CH": {
+                "singular": "Date d'arrivée"
+            },
+            "fr-FR": {
+                "singular": "Date d'arrivée"
+            },
+            "hr": {
+                "singular": "Datum dolaska"
+            },
+            "it": {
+                "singular": "Data di arrivo"
+            },
+            "it-CH": {
+                "singular": "Data di arrivo"
+            },
+            "it-IT": {
+                "singular": "Data di arrivo"
+            },
+            "nl": {
+                "singular": "Aankomstdatum"
+            },
+            "nl-BE": {
+                "singular": "Aankomstdatum"
+            },
+            "nl-NL": {
+                "singular": "Aankomstdatum"
+            },
+            "no": {
+                "singular": "Startdato"
+            },
+            "pl": {
+                "singular": "Data przyjazdu"
+            },
+            "pt": {
+                "singular": "Data de chegada"
+            },
+            "ru": {
+                "singular": "Дата заезда"
+            },
+            "sv": {
+                "singular": "Ankomstdatum"
+            }
+        }
+    }
+}

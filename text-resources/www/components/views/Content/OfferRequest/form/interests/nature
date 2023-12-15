@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.interests.nature",
+    "name": "nature",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/interests/nature",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/interests/nature",
+    "slug": "nature",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "interests",
+        "nature"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.interests.nature",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Příroda"
+            },
+            "da": {
+                "singular": "Natur"
+            },
+            "de": {
+                "singular": "Natur"
+            },
+            "de-AT": {
+                "singular": "Natur"
+            },
+            "de-CH": {
+                "singular": "Natur"
+            },
+            "de-DE": {
+                "singular": "Natur"
+            },
+            "en": {
+                "singular": "Nature"
+            },
+            "en-AU": {
+                "singular": "Nature"
+            },
+            "en-CA": {
+                "singular": "Nature"
+            },
+            "en-GB": {
+                "singular": "Nature"
+            },
+            "en-IE": {
+                "singular": "Nature"
+            },
+            "en-US": {
+                "singular": "Nature"
+            },
+            "es": {
+                "singular": "Naturaleza"
+            },
+            "fi": {
+                "singular": "Luonto"
+            },
+            "fi-EE": {
+                "singular": "Luonto"
+            },
+            "fi-FI": {
+                "singular": "Luonto"
+            },
+            "fr": {
+                "singular": "Nature"
+            },
+            "fr-BE": {
+                "singular": "Nature"
+            },
+            "fr-CA": {
+                "singular": "Nature"
+            },
+            "fr-CH": {
+                "singular": "Nature"
+            },
+            "fr-FR": {
+                "singular": "Nature"
+            },
+            "hr": {
+                "singular": "Priroda"
+            },
+            "it": {
+                "singular": "Natura"
+            },
+            "it-CH": {
+                "singular": "Natura"
+            },
+            "it-IT": {
+                "singular": "Natura"
+            },
+            "nl": {
+                "singular": "Natuur"
+            },
+            "nl-BE": {
+                "singular": "Natuur"
+            },
+            "nl-NL": {
+                "singular": "Natuur"
+            },
+            "no": {
+                "singular": "Natur"
+            },
+            "pl": {
+                "singular": "Przyroda"
+            },
+            "pt": {
+                "singular": "Natureza"
+            },
+            "ru": {
+                "singular": "Природа"
+            },
+            "sv": {
+                "singular": "Natur"
+            }
+        }
+    }
+}

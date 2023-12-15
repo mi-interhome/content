@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.MobileBar.additionalCosts",
+    "name": "additionalCosts",
+    "path": "text-resources/www/components/views/details/MobileBar/additionalCosts",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/MobileBar/additionalCosts",
+    "slug": "additionalCosts",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "MobileBar",
+        "additionalCosts"
+    ],
+    "content": {
+        "key": "www.components.views.details.MobileBar.additionalCosts",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "mohou být dodatečné poplatky"
+            },
+            "da": {
+                "singular": "Ekstra omkostninger kan forekomme"
+            },
+            "de": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "de-AT": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "de-CH": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "de-DE": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "en": {
+                "singular": "additional costs may apply"
+            },
+            "en-AU": {
+                "singular": "additional costs may apply"
+            },
+            "en-CA": {
+                "singular": "additional costs may apply"
+            },
+            "en-GB": {
+                "singular": "additional costs may apply"
+            },
+            "en-IE": {
+                "singular": "additional costs may apply"
+            },
+            "en-US": {
+                "singular": "additional costs may apply"
+            },
+            "es": {
+                "singular": "otros costes adicionales podrían ser solicitados"
+            },
+            "fi": {
+                "singular": "Mahdolliset lisäkulut"
+            },
+            "fi-EE": {
+                "singular": "Mahdolliset lisäkulut (mikäli erittelyssä mainittu)"
+            },
+            "fi-FI": {
+                "singular": "Mahdolliset lisäkulut"
+            },
+            "fr": {
+                "singular": "frais additionnels en sus"
+            },
+            "fr-BE": {
+                "singular": "frais additionnels en sus"
+            },
+            "fr-CA": {
+                "singular": "frais additionnels en sus"
+            },
+            "fr-CH": {
+                "singular": "frais additionnels en sus"
+            },
+            "fr-FR": {
+                "singular": "frais additionnels en sus"
+            },
+            "hr": {
+                "singular": "Uz moguće dodatne troškove"
+            },
+            "it": {
+                "singular": "potrebbero esserci costi addizionali"
+            },
+            "it-CH": {
+                "singular": "potrebbero esserci costi addizionali"
+            },
+            "it-IT": {
+                "singular": "potrebbero esserci costi addizionali"
+            },
+            "nl": {
+                "singular": "excl. bijkomende kosten"
+            },
+            "nl-BE": {
+                "singular": "excl. bijkomende kosten"
+            },
+            "nl-NL": {
+                "singular": "excl. bijkomende kosten"
+            },
+            "no": {
+                "singular": "Ekstrakostnader kan tilkomme"
+            },
+            "pl": {
+                "singular": "Mogą wystąpić dodatkowe koszty."
+            },
+            "pt": {
+                "singular": "podem ser aplicados custos adicionais "
+            },
+            "ru": {
+                "singular": "могут потребоваться дополнительные расходы"
+            },
+            "sv": {
+                "singular": "Ytterligare kostnader kan förekomma"
+            }
+        }
+    }
+}

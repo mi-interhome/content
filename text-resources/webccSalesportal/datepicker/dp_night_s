@@ -1,0 +1,157 @@
+{
+    "id": "webccSalesportal.datepicker.dp_night_s",
+    "name": "dp_night_s",
+    "path": "text-resources/webccSalesportal/datepicker/dp_night_s",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/dp_night_s",
+    "slug": "dp_night_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "dp_night_s"
+    ],
+    "content": {
+        "key": "webccSalesportal.datepicker.dp_night_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "noci ",
+                "plural": " nocí"
+            },
+            "da": {
+                "singular": "nat ",
+                "plural": " nætter"
+            },
+            "de": {
+                "singular": "Nacht ",
+                "plural": " Nächte"
+            },
+            "de-AT": {
+                "singular": "Nacht ",
+                "plural": " Nächte"
+            },
+            "de-CH": {
+                "singular": "Nacht ",
+                "plural": " Nächte"
+            },
+            "de-DE": {
+                "singular": "Nacht ",
+                "plural": " Nächte"
+            },
+            "en": {
+                "singular": "night ",
+                "plural": " nights"
+            },
+            "en-AU": {
+                "singular": "night ",
+                "plural": " nights"
+            },
+            "en-CA": {
+                "singular": "night ",
+                "plural": " nights"
+            },
+            "en-GB": {
+                "singular": "night ",
+                "plural": " nights"
+            },
+            "en-IE": {
+                "singular": "night ",
+                "plural": " nights"
+            },
+            "en-US": {
+                "singular": "night ",
+                "plural": " nights"
+            },
+            "es": {
+                "singular": "noche ",
+                "plural": " noches"
+            },
+            "fi": {
+                "singular": "yö ",
+                "plural": " yötä"
+            },
+            "fi-EE": {
+                "singular": "yö ",
+                "plural": " yötä"
+            },
+            "fi-FI": {
+                "singular": "yö ",
+                "plural": " yötä"
+            },
+            "fr": {
+                "singular": "nuit ",
+                "plural": " nuits"
+            },
+            "fr-BE": {
+                "singular": "nuit ",
+                "plural": " nuits"
+            },
+            "fr-CA": {
+                "singular": "nuit ",
+                "plural": " nuits"
+            },
+            "fr-CH": {
+                "singular": "nuit ",
+                "plural": " nuits"
+            },
+            "fr-FR": {
+                "singular": "nuit ",
+                "plural": " nuits"
+            },
+            "hr": {
+                "singular": "noć ",
+                "plural": " noći"
+            },
+            "it": {
+                "singular": "notte ",
+                "plural": " notti"
+            },
+            "it-CH": {
+                "singular": "notte ",
+                "plural": " notti"
+            },
+            "it-IT": {
+                "singular": "notte ",
+                "plural": " notti"
+            },
+            "nl": {
+                "singular": "nacht ",
+                "plural": " nachten"
+            },
+            "nl-BE": {
+                "singular": "nacht ",
+                "plural": " nachten"
+            },
+            "nl-NL": {
+                "singular": "nacht ",
+                "plural": " nachten"
+            },
+            "no": {
+                "singular": "natt ",
+                "plural": " netter"
+            },
+            "pl": {
+                "singular": "noc ",
+                "plural": " nocy"
+            },
+            "pt": {
+                "singular": "noite ",
+                "plural": " noites"
+            },
+            "ru": {
+                "singular": "ночь ",
+                "plural": " ночей"
+            },
+            "sv": {
+                "singular": "natt ",
+                "plural": " nätter"
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "id": "www.components.topCountries.headline",
+    "name": "headline",
+    "path": "text-resources/www/components/topCountries/headline",
+    "folder": "text-resources",
+    "full_slug": "www/components/topCountries/headline",
+    "slug": "headline",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "topCountries",
+        "headline"
+    ],
+    "content": {
+        "key": "www.components.topCountries.headline",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Top země"
+            },
+            "da": {
+                "singular": "Meste populære lande"
+            },
+            "de": {
+                "singular": "Top Länder"
+            },
+            "de-AT": {
+                "singular": "Top Länder"
+            },
+            "de-CH": {
+                "singular": "Top Länder"
+            },
+            "de-DE": {
+                "singular": "Top Länder"
+            },
+            "en": {
+                "singular": "Top Countries"
+            },
+            "en-AU": {
+                "singular": "Top Countries"
+            },
+            "en-CA": {
+                "singular": "Top Countries"
+            },
+            "en-GB": {
+                "singular": "Top Countries"
+            },
+            "en-IE": {
+                "singular": "Top Countries"
+            },
+            "en-US": {
+                "singular": "Top Countries"
+            },
+            "es": {
+                "singular": "Top países"
+            },
+            "fi": {
+                "singular": "Suosituimmat maat"
+            },
+            "fi-EE": {
+                "singular": "Suosituimmat maat"
+            },
+            "fi-FI": {
+                "singular": "Suosituimmat maat"
+            },
+            "fr": {
+                "singular": "Top Pays"
+            },
+            "fr-BE": {
+                "singular": "Top Pays"
+            },
+            "fr-CA": {
+                "singular": "Top Pays"
+            },
+            "fr-CH": {
+                "singular": "Top Pays"
+            },
+            "fr-FR": {
+                "singular": "Top Pays"
+            },
+            "hr": {
+                "singular": "Najpopularnije zemlje"
+            },
+            "it": {
+                "singular": "I Paesi più richiesti"
+            },
+            "it-CH": {
+                "singular": "I Paesi più richiesti"
+            },
+            "it-IT": {
+                "singular": "I Paesi più richiesti"
+            },
+            "nl": {
+                "singular": "Meest populaire landen"
+            },
+            "nl-BE": {
+                "singular": "Meest populaire landen"
+            },
+            "nl-NL": {
+                "singular": "Meest populaire landen"
+            },
+            "no": {
+                "singular": "Mest populære land"
+            },
+            "pl": {
+                "singular": "Najpopularniejsze kraje"
+            },
+            "pt": {
+                "singular": "Países Principais"
+            },
+            "ru": {
+                "singular": "Популярные страны"
+            },
+            "sv": {
+                "singular": "Toppländer"
+            }
+        }
+    }
+}

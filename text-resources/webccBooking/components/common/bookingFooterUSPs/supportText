@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.common.bookingFooterUSPs.supportText",
+    "name": "supportText",
+    "path": "text-resources/webccBooking/components/common/bookingFooterUSPs/supportText",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/common/bookingFooterUSPs/supportText",
+    "slug": "supportText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "common",
+        "bookingFooterUSPs",
+        "supportText"
+    ],
+    "content": {
+        "key": "webccBooking.components.common.bookingFooterUSPs.supportText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "na který rádi zodpovíme jakékoli dotazy"
+            },
+            "da": {
+                "singular": "klar til at svare på dine spørgsmål"
+            },
+            "de": {
+                "singular": "Unser Team berät Sie jederzeit gerne"
+            },
+            "de-AT": {
+                "singular": "Unser Team berät Sie jederzeit gerne"
+            },
+            "de-CH": {
+                "singular": "Unser Team berät Sie jederzeit gerne"
+            },
+            "de-DE": {
+                "singular": "Unser Team berät Sie jederzeit gerne"
+            },
+            "en": {
+                "singular": "ready to answer your questions"
+            },
+            "en-AU": {
+                "singular": "ready to answer your questions"
+            },
+            "en-CA": {
+                "singular": "ready to answer your questions"
+            },
+            "en-GB": {
+                "singular": "ready to answer your questions"
+            },
+            "en-IE": {
+                "singular": "ready to answer your questions"
+            },
+            "en-US": {
+                "singular": "ready to answer your questions"
+            },
+            "es": {
+                "singular": "listos para responder sus preguntas"
+            },
+            "fi": {
+                "singular": "Varaus / tiedustelut"
+            },
+            "fi-EE": {
+                "singular": "olemme valmiina auttamaan kysymyksissäsi"
+            },
+            "fi-FI": {
+                "singular": "Varaus / tiedustelut"
+            },
+            "fr": {
+                "singular": "nous répondons à vos questions"
+            },
+            "fr-BE": {
+                "singular": "nous répondons à vos questions"
+            },
+            "fr-CA": {
+                "singular": "nous répondons à vos questions"
+            },
+            "fr-CH": {
+                "singular": "nous répondons à vos questions"
+            },
+            "fr-FR": {
+                "singular": "nous répondons à vos questions"
+            },
+            "hr": {
+                "singular": "za sva Vaša pitanja"
+            },
+            "it": {
+                "singular": "a tua disposizione 7 giorni su 7"
+            },
+            "it-CH": {
+                "singular": "a tua disposizione 7 giorni su 7"
+            },
+            "it-IT": {
+                "singular": "a tua disposizione 7 giorni su 7"
+            },
+            "nl": {
+                "singular": "staat onze service hotline voor u klaar"
+            },
+            "nl-BE": {
+                "singular": "staat onze service hotline voor u klaar"
+            },
+            "nl-NL": {
+                "singular": "staat onze service hotline voor u klaar"
+            },
+            "no": {
+                "singular": "klar til å svare på dine spørsmål"
+            },
+            "pl": {
+                "singular": "poniedziałek – sobota 09:00 -19:00"
+            },
+            "pt": {
+                "singular": "prontos para responder às suas perguntas"
+            },
+            "ru": {
+                "singular": "ответим на Ваши вопросы"
+            },
+            "sv": {
+                "singular": "redo att svara på dina frågor"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "components.cookieConsent.cookiesManagePreferences",
+    "name": "cookiesManagePreferences",
+    "path": "text-resources/components/cookieConsent/cookiesManagePreferences",
+    "folder": "text-resources",
+    "full_slug": "components/cookieConsent/cookiesManagePreferences",
+    "slug": "cookiesManagePreferences",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "cookieConsent",
+        "cookiesManagePreferences"
+    ],
+    "content": {
+        "key": "components.cookieConsent.cookiesManagePreferences",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte prosím Vámi preferované"
+            },
+            "da": {
+                "singular": "Vælg dine præferencer"
+            },
+            "de": {
+                "singular": "Bitte wählen Sie Ihre Einstellung"
+            },
+            "de-AT": {
+                "singular": "Bitte wählen Sie Ihre Einstellung"
+            },
+            "de-CH": {
+                "singular": "Bitte wählen Sie Ihre Einstellung"
+            },
+            "de-DE": {
+                "singular": "Bitte wählen Sie Ihre Einstellung"
+            },
+            "en": {
+                "singular": "Please select your preferences"
+            },
+            "en-AU": {
+                "singular": "Please select your preferences"
+            },
+            "en-CA": {
+                "singular": "Please select your preferences"
+            },
+            "en-GB": {
+                "singular": "Please select your preferences"
+            },
+            "en-IE": {
+                "singular": "Please select your preferences"
+            },
+            "en-US": {
+                "singular": "Please select your preferences"
+            },
+            "es": {
+                "singular": "Por favor, selecciones sus preferencias"
+            },
+            "fi": {
+                "singular": "Ole hyvä ja tee valintasi"
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja tee valintasi"
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja tee valintasi"
+            },
+            "fr": {
+                "singular": "Merci de sélectionner vos préférences"
+            },
+            "fr-BE": {
+                "singular": "Merci de sélectionner vos préférences"
+            },
+            "fr-CA": {
+                "singular": "Merci de sélectionner vos préférences"
+            },
+            "fr-CH": {
+                "singular": "Merci de sélectionner vos préférences"
+            },
+            "fr-FR": {
+                "singular": "Merci de sélectionner vos préférences"
+            },
+            "hr": {
+                "singular": "Molimo odaberite svoje preferencije"
+            },
+            "it": {
+                "singular": "Seleziona le tue preferenze"
+            },
+            "it-CH": {
+                "singular": "Seleziona le tue preferenze"
+            },
+            "it-IT": {
+                "singular": "Seleziona le tue preferenze"
+            },
+            "nl": {
+                "singular": "Selecteer uw voorkeuren"
+            },
+            "nl-BE": {
+                "singular": "Selecteer uw voorkeuren"
+            },
+            "nl-NL": {
+                "singular": "Selecteer uw voorkeuren"
+            },
+            "no": {
+                "singular": "Velg dine preferanser"
+            },
+            "pl": {
+                "singular": "Prosimy wybrać ustawienia"
+            },
+            "pt": {
+                "singular": "Escolha as suas preferências"
+            },
+            "ru": {
+                "singular": "Пожалуйста, выберите ваши предпочтения"
+            },
+            "sv": {
+                "singular": "Välj dina preferenser"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "www.components.elements.Error.errorText",
+    "name": "errorText",
+    "path": "text-resources/www/components/elements/Error/errorText",
+    "folder": "text-resources",
+    "full_slug": "www/components/elements/Error/errorText",
+    "slug": "errorText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "elements",
+        "Error",
+        "errorText"
+    ],
+    "content": {
+        "key": "www.components.elements.Error.errorText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyskytla se chyba. Prosím zkuste to znova."
+            },
+            "da": {
+                "singular": "Der er opstået en fejl. Venligst prøv igen."
+            },
+            "de": {
+                "singular": "Leider ist ein Fehler aufgetreten. Versuchen Sie es bitte später nochmals."
+            },
+            "de-AT": {
+                "singular": "Leider ist ein Fehler aufgetreten. Versuchen Sie es bitte später nochmals."
+            },
+            "de-CH": {
+                "singular": "Leider ist ein Fehler aufgetreten. Versuchen Sie es bitte später nochmals."
+            },
+            "de-DE": {
+                "singular": "Leider ist ein Fehler aufgetreten. Versuchen Sie es bitte später nochmals."
+            },
+            "en": {
+                "singular": "An error occurred. Please try again later."
+            },
+            "en-AU": {
+                "singular": "An error occurred. Please try again later."
+            },
+            "en-CA": {
+                "singular": "An error occurred. Please try again later."
+            },
+            "en-GB": {
+                "singular": "An error occurred. Please try again later."
+            },
+            "en-IE": {
+                "singular": "An error occurred. Please try again later."
+            },
+            "en-US": {
+                "singular": "An error occurred. Please try again later."
+            },
+            "es": {
+                "singular": "Ha ocurrido un error. Por favor inténtelo de nuevo."
+            },
+            "fi": {
+                "singular": "Virhe tiedon käsittelyssä. Ole hyvä ja yritä uudelleen."
+            },
+            "fi-EE": {
+                "singular": "Virhe tiedon käsittelyssä. Ole hyvä ja yritä uudelleen."
+            },
+            "fi-FI": {
+                "singular": "Virhe tiedon käsittelyssä. Ole hyvä ja yritä uudelleen."
+            },
+            "fr": {
+                "singular": "Une erreur est intervenue ! Merci de réessayer."
+            },
+            "fr-BE": {
+                "singular": "Une erreur est intervenue ! Merci de réessayer."
+            },
+            "fr-CA": {
+                "singular": "Une erreur est intervenue ! Merci de réessayer."
+            },
+            "fr-CH": {
+                "singular": "Une erreur est intervenue! Merci de réessayer."
+            },
+            "fr-FR": {
+                "singular": "Une erreur est intervenue ! Merci de réessayer."
+            },
+            "hr": {
+                "singular": "Greška prilikom otvaranja. Molimo pokušajte ponovno."
+            },
+            "it": {
+                "singular": "Si è verificato un errore. Ti preghiamo di provare di nuovo."
+            },
+            "it-CH": {
+                "singular": "Si è verificato un errore. Ti preghiamo di provare di nuovo."
+            },
+            "it-IT": {
+                "singular": "Si è verificato un errore. Ti preghiamo di provare di nuovo."
+            },
+            "nl": {
+                "singular": "Er is een fout opgetreden! Graag opnieuw proberen."
+            },
+            "nl-BE": {
+                "singular": "Er is een fout opgetreden! Graag opnieuw proberen."
+            },
+            "nl-NL": {
+                "singular": "Er is een fout opgetreden! Graag opnieuw proberen."
+            },
+            "no": {
+                "singular": "Det oppsto en feil. Vennligst prøv igjen."
+            },
+            "pl": {
+                "singular": "Wystąpił błąd. Prosimy spróbować ponownie."
+            },
+            "pt": {
+                "singular": "Ocorreu um erro. Por favor, tente novamente."
+            },
+            "ru": {
+                "singular": "Произошла ошибка. Пожалуйста, попробуйте еще раз."
+            },
+            "sv": {
+                "singular": "Ett fel inträffade. Vänligen försök igen."
+            }
+        }
+    }
+}

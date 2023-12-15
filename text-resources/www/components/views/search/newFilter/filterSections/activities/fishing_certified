@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.activities.fishing_certified",
+    "name": "fishing_certified",
+    "path": "text-resources/www/components/views/search/newFilter/filterSections/activities/fishing_certified",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/activities/fishing_certified",
+    "slug": "fishing_certified",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "activities",
+        "fishing_certified"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.activities.fishing_certified",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Certifikovaný rybářský dům"
+            },
+            "da": {
+                "singular": "Certificeret lystfiskerhus"
+            },
+            "de": {
+                "singular": "Zertifiziertes Angelhaus"
+            },
+            "de-AT": {
+                "singular": "Zertifiziertes Angelhaus"
+            },
+            "de-CH": {
+                "singular": "Zertifiziertes Angelhaus"
+            },
+            "de-DE": {
+                "singular": "Zertifiziertes Angelhaus"
+            },
+            "en": {
+                "singular": "Certified fishing house"
+            },
+            "en-AU": {
+                "singular": "Certified fishing house"
+            },
+            "en-CA": {
+                "singular": "Certified fishing house"
+            },
+            "en-GB": {
+                "singular": "Certified fishing house"
+            },
+            "en-IE": {
+                "singular": "Certified fishing house"
+            },
+            "en-US": {
+                "singular": "Certified fishing house"
+            },
+            "es": {
+                "singular": "Casa de pesca certificada"
+            },
+            "fi": {
+                "singular": "Sertifioitu kalastusmökki"
+            },
+            "fi-EE": {
+                "singular": "Sertifioitu kalastusmökki"
+            },
+            "fi-FI": {
+                "singular": "Sertifioitu kalastusmökki"
+            },
+            "fr": {
+                "singular": "Maison de pêche certifiée"
+            },
+            "fr-BE": {
+                "singular": "Maison de pêche certifiée"
+            },
+            "fr-CA": {
+                "singular": "Maison de pêche certifiée"
+            },
+            "fr-CH": {
+                "singular": "Maison de pêche certifiée"
+            },
+            "fr-FR": {
+                "singular": "Maison de pêche certifiée"
+            },
+            "hr": {
+                "singular": "Certificirana ribolovna kuća"
+            },
+            "it": {
+                "singular": "Pesca certificata"
+            },
+            "it-CH": {
+                "singular": "Pesca certificata"
+            },
+            "it-IT": {
+                "singular": "Pesca certificata"
+            },
+            "nl": {
+                "singular": "Gecertificeerd vissershuis"
+            },
+            "nl-BE": {
+                "singular": "Gecertificeerd vissershuis"
+            },
+            "nl-NL": {
+                "singular": "Gecertificeerd vissershuis"
+            },
+            "no": {
+                "singular": "Sertifisert fiskehus"
+            },
+            "pl": {
+                "singular": "Certyfikowany dom dla wędkarzy"
+            },
+            "pt": {
+                "singular": "Casa de pesca certificada"
+            },
+            "ru": {
+                "singular": "Сертифицированный рыбацкий дом"
+            },
+            "sv": {
+                "singular": "Certifierat fiskehus"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_price",
+    "name": "ih_cms_affiliates_booking_price",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_cms_affiliates_booking_price",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_price",
+    "slug": "ih_cms_affiliates_booking_price",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_price"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_price",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena"
+            },
+            "da": {
+                "singular": "Pris"
+            },
+            "de": {
+                "singular": "Preis"
+            },
+            "de-AT": {
+                "singular": "Preis"
+            },
+            "de-CH": {
+                "singular": "Preis"
+            },
+            "de-DE": {
+                "singular": "Preis"
+            },
+            "en": {
+                "singular": "Customer Total Price"
+            },
+            "en-AU": {
+                "singular": "Customer Total Price"
+            },
+            "en-CA": {
+                "singular": "Customer Total Price"
+            },
+            "en-GB": {
+                "singular": "Customer Total Price"
+            },
+            "en-IE": {
+                "singular": "Customer Total Price"
+            },
+            "en-US": {
+                "singular": "Customer Total Price"
+            },
+            "es": {
+                "singular": "Precio total para el cliente"
+            },
+            "fi": {
+                "singular": "Asiakkaan kokonaishinta"
+            },
+            "fi-EE": {
+                "singular": "Asiakkaan kokonaishinta"
+            },
+            "fi-FI": {
+                "singular": "Asiakkaan kokonaishinta"
+            },
+            "fr": {
+                "singular": "Prix total "
+            },
+            "fr-BE": {
+                "singular": "Prix total "
+            },
+            "fr-CA": {
+                "singular": "Prix total "
+            },
+            "fr-CH": {
+                "singular": "Prix total "
+            },
+            "fr-FR": {
+                "singular": "Prix total "
+            },
+            "hr": {
+                "singular": "Cijena"
+            },
+            "it": {
+                "singular": "Prezzo totale al cliente"
+            },
+            "it-CH": {
+                "singular": "Prezzo totale al cliente"
+            },
+            "it-IT": {
+                "singular": "Prezzo totale al cliente"
+            },
+            "nl": {
+                "singular": "Prijs"
+            },
+            "nl-BE": {
+                "singular": "Prijs"
+            },
+            "nl-NL": {
+                "singular": "Prijs"
+            },
+            "no": {
+                "singular": "Pris"
+            },
+            "pl": {
+                "singular": "Cena"
+            },
+            "pt": {
+                "singular": "Preço"
+            },
+            "ru": {
+                "singular": "Цена"
+            },
+            "sv": {
+                "singular": "Pris"
+            }
+        }
+    }
+}

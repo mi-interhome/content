@@ -1,0 +1,126 @@
+{
+    "id": "www.pages.catalogues.errors.wrongFormat",
+    "name": "wrongFormat",
+    "path": "text-resources/www/pages/catalogues/errors/wrongFormat",
+    "folder": "text-resources",
+    "full_slug": "www/pages/catalogues/errors/wrongFormat",
+    "slug": "wrongFormat",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "catalogues",
+        "errors",
+        "wrongFormat"
+    ],
+    "content": {
+        "key": "www.pages.catalogues.errors.wrongFormat",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "da": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "de": {
+                "singular": "Falsches Format eines AccommodationCode im Katalog-Event: {code}"
+            },
+            "de-AT": {
+                "singular": "Falsches Format eines AccommodationCode im Katalog-Event: {code}"
+            },
+            "de-CH": {
+                "singular": "Falsches Format eines AccommodationCode im Katalog-Event: {code}"
+            },
+            "de-DE": {
+                "singular": "Falsches Format eines AccommodationCode im Katalog-Event: {code}"
+            },
+            "en": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "en-AU": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "en-CA": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "en-GB": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "en-IE": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "en-US": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "es": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fi": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fi-EE": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fi-FI": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fr": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fr-BE": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fr-CA": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fr-CH": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "fr-FR": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "hr": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "it": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "it-CH": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "it-IT": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "nl": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "nl-BE": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "nl-NL": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "no": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "pl": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "pt": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "ru": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            },
+            "sv": {
+                "singular": "Wrong format of an AccommodationCode in the catalogue event: {code}"
+            }
+        }
+    }
+}

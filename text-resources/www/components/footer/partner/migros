@@ -1,0 +1,126 @@
+{
+    "id": "www.components.footer.partner.migros",
+    "name": "migros",
+    "path": "text-resources/www/components/footer/partner/migros",
+    "folder": "text-resources",
+    "full_slug": "www/components/footer/partner/migros",
+    "slug": "migros",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "footer",
+        "partner",
+        "migros"
+    ],
+    "content": {
+        "key": "www.components.footer.partner.migros",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Člen skupiny Migros"
+            },
+            "da": {
+                "singular": "Medlem af Migros-gruppen"
+            },
+            "de": {
+                "singular": "Ein Unternehmen der Migros"
+            },
+            "de-AT": {
+                "singular": "Ein Unternehmen der Migros"
+            },
+            "de-CH": {
+                "singular": "Ein Unternehmen der Migros"
+            },
+            "de-DE": {
+                "singular": "Ein Unternehmen der Migros"
+            },
+            "en": {
+                "singular": "A member of the Migros group"
+            },
+            "en-AU": {
+                "singular": "A member of the Migros group"
+            },
+            "en-CA": {
+                "singular": "A member of the Migros group"
+            },
+            "en-GB": {
+                "singular": "A member of the Migros group"
+            },
+            "en-IE": {
+                "singular": "A member of the Migros group"
+            },
+            "en-US": {
+                "singular": "A member of the Migros group"
+            },
+            "es": {
+                "singular": "Un miembro de Migros group"
+            },
+            "fi": {
+                "singular": "Osa Migros-ryhmää"
+            },
+            "fi-EE": {
+                "singular": "Osa Migros-ryhmää"
+            },
+            "fi-FI": {
+                "singular": "Osa Migros-ryhmää"
+            },
+            "fr": {
+                "singular": "Un membre du groupe Migros"
+            },
+            "fr-BE": {
+                "singular": "Un membre du groupe Migros"
+            },
+            "fr-CA": {
+                "singular": "Un membre du groupe Migros"
+            },
+            "fr-CH": {
+                "singular": "Un membre du groupe Migros"
+            },
+            "fr-FR": {
+                "singular": "Un membre du groupe Migros"
+            },
+            "hr": {
+                "singular": "Član Migros grupacije"
+            },
+            "it": {
+                "singular": "Membro del gruppo Migros"
+            },
+            "it-CH": {
+                "singular": "Membro del gruppo Migros"
+            },
+            "it-IT": {
+                "singular": "Membro del gruppo Migros"
+            },
+            "nl": {
+                "singular": "Onderdeel van de Migros groep"
+            },
+            "nl-BE": {
+                "singular": "Onderdeel van de Migros groep"
+            },
+            "nl-NL": {
+                "singular": "Onderdeel van de Migros groep"
+            },
+            "no": {
+                "singular": "Et medlem i Migros gruppen"
+            },
+            "pl": {
+                "singular": "Członek grupy Migros"
+            },
+            "pt": {
+                "singular": "Um membro do grupo Migros"
+            },
+            "ru": {
+                "singular": "Член группы Migros"
+            },
+            "sv": {
+                "singular": "Medlem av Migrosgruppen"
+            }
+        }
+    }
+}

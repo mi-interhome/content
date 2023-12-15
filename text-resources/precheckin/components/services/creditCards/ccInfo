@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.services.creditCards.ccInfo",
+    "name": "ccInfo",
+    "path": "text-resources/precheckin/components/services/creditCards/ccInfo",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/services/creditCards/ccInfo",
+    "slug": "ccInfo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "services",
+        "creditCards",
+        "ccInfo"
+    ],
+    "content": {
+        "key": "precheckin.components.services.creditCards.ccInfo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další poplatky, které je třeba uhradit na místě a také případná záloha budou automaticky při příjezdu strženy z Vaší kreditní karty"
+            },
+            "da": {
+                "singular": "Ekstra omkostninger, der skal betales på stedet, inkl. depositum hvor det er påkrævet,bliver automatisk fratrukket dit kreditkort ved ankomst"
+            },
+            "de": {
+                "singular": "Nebenkosten, die vor Ort zu bezahlen sind, sowie ggf. die zu hinterlegende Kaution werden bei Anreise automatisch von Ihrer Kreditkarte belastet"
+            },
+            "de-AT": {
+                "singular": "Nebenkosten, die vor Ort zu bezahlen sind, sowie ggf. die zu hinterlegende Kaution werden bei Anreise automatisch von Ihrer Kreditkarte belastet"
+            },
+            "de-CH": {
+                "singular": "Nebenkosten, die vor Ort zu bezahlen sind, sowie ggf. die zu hinterlegende Kaution werden bei Anreise automatisch von Ihrer Kreditkarte belastet"
+            },
+            "de-DE": {
+                "singular": "Nebenkosten, die vor Ort zu bezahlen sind, sowie ggf. die zu hinterlegende Kaution werden bei Anreise automatisch von Ihrer Kreditkarte belastet"
+            },
+            "en": {
+                "singular": "Extra charges on-site as well as the deposit, where required, will automatically be charged from your credit card upon arrival"
+            },
+            "en-AU": {
+                "singular": "Extra charges on-site as well as the deposit, where required, will automatically be charged from your credit card upon arrival"
+            },
+            "en-CA": {
+                "singular": "Extra charges on-site as well as the deposit, where required, will automatically be charged from your credit card upon arrival"
+            },
+            "en-GB": {
+                "singular": "Extra charges on-site as well as the deposit, where required, will automatically be charged from your credit card upon arrival"
+            },
+            "en-IE": {
+                "singular": "Extra charges on-site as well as the deposit, where required, will automatically be charged from your credit card upon arrival"
+            },
+            "en-US": {
+                "singular": "Extra charges on-site as well as the deposit, where required, will automatically be charged from your credit card upon arrival"
+            },
+            "es": {
+                "singular": "Los gastos adicionales en destino, si los hubiera, así como la fianza, se cargarán automáticamente en su tarjeta de crédito a la llegada"
+            },
+            "fi": {
+                "singular": "Lisämaksut paikan päällä sekä mahdollinen takuusumma veloitetaan automaattisesti luottokortiltasi saapuessasi"
+            },
+            "fi-EE": {
+                "singular": "Lisämaksut paikan päällä sekä mahdollinen takuusumma veloitetaan automaattisesti luottokortiltasi saapuessasi"
+            },
+            "fi-FI": {
+                "singular": "Lisämaksut paikan päällä sekä mahdollinen takuusumma veloitetaan automaattisesti luottokortiltasi saapuessasi"
+            },
+            "fr": {
+                "singular": "Les frais supplémentaires qui sont à régler sur place, ainsi que la caution éventuellement demandée, seront automatiquement prélevés de votre carte de crédit lors de votre arrivée"
+            },
+            "fr-BE": {
+                "singular": "Les frais supplémentaires qui sont à régler sur place, ainsi que la caution éventuellement demandée, seront automatiquement prélevés de votre carte de crédit lors de votre arrivée"
+            },
+            "fr-CA": {
+                "singular": "Les frais supplémentaires qui sont à régler sur place, ainsi que la caution éventuellement demandée, seront automatiquement prélevés de votre carte de crédit lors de votre arrivée"
+            },
+            "fr-CH": {
+                "singular": "Les frais supplémentaires qui sont à régler sur place, ainsi que la caution éventuellement demandée, seront automatiquement prélevés de votre carte de crédit lors de votre arrivée"
+            },
+            "fr-FR": {
+                "singular": "Les frais supplémentaires qui sont à régler sur place, ainsi que la caution éventuellement demandée, seront automatiquement prélevés de votre carte de crédit lors de votre arrivée"
+            },
+            "hr": {
+                "singular": "Vaša kreditna kartica će prilikom dolaska biti automatizmom terećena za dodatne troškove koji se plaćaju na licu mjesta, kao i za depozit , ukoliko je potrebno"
+            },
+            "it": {
+                "singular": "I costi aggiuntivi da pagare in loco e la cauzione, ove richiesti, verranno automaticamente addebitati sulla carta di credito all’arrivo"
+            },
+            "it-CH": {
+                "singular": "I costi aggiuntivi da pagare in loco e la cauzione, ove richiesti, verranno automaticamente addebitati sulla carta di credito all’arrivo"
+            },
+            "it-IT": {
+                "singular": "I costi aggiuntivi da pagare in loco e la cauzione, ove richiesti, verranno automaticamente addebitati sulla carta di credito all’arrivo"
+            },
+            "nl": {
+                "singular": "Extra kosten ter plaatse evanals de borg, indien vereist, worden bij aankomst automatisch van uw creditcard afgeschreven"
+            },
+            "nl-BE": {
+                "singular": "Extra kosten ter plaatse evanals de borg, indien vereist, worden bij aankomst automatisch van uw creditcard afgeschreven"
+            },
+            "nl-NL": {
+                "singular": "Extra kosten ter plaatse evanals de borg, indien vereist, worden bij aankomst automatisch van uw creditcard afgeschreven"
+            },
+            "no": {
+                "singular": "Ekstra kostnader som skal betales på stedet, inkludert et depositum der det er nødvendig, vil automatisk bli belastet fra kredittkortet ditt ved ankomst"
+            },
+            "pl": {
+                "singular": "Dodatkowe opłaty na miejscu oraz kaucja, jeśli jest wymagana, zostaną automatycznie pobrane z karty kredytowej po przyjeździe"
+            },
+            "pt": {
+                "singular": "Os custos adicionais a serem pagos no local, bem como o depósito, quando necessário, serão debitados automaticamente do seu cartão de crédito no momento da chegada"
+            },
+            "ru": {
+                "singular": "Дополнительные сборы на месте, а также залог, если он требуется, будут автоматически списаны с Вашей банковской карты по прибытии"
+            },
+            "sv": {
+                "singular": "Extrakostnader som betalas på plats samt depositionen, i de fall den krävs, debiteras automatiskt från ditt kreditkort vid ankomst"
+            }
+        }
+    }
+}

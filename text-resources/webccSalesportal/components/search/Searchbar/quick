@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.components.search.Searchbar.quick",
+    "name": "quick",
+    "path": "text-resources/webccSalesportal/components/search/Searchbar/quick",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/components/search/Searchbar/quick",
+    "slug": "quick",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "components",
+        "search",
+        "Searchbar",
+        "quick"
+    ],
+    "content": {
+        "key": "webccSalesportal.components.search.Searchbar.quick",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ubytování"
+            },
+            "da": {
+                "singular": "Opholdssted"
+            },
+            "de": {
+                "singular": "Unterkunft"
+            },
+            "de-AT": {
+                "singular": "Unterkunft"
+            },
+            "de-CH": {
+                "singular": "Unterkunft"
+            },
+            "de-DE": {
+                "singular": "Unterkunft"
+            },
+            "en": {
+                "singular": "Accommodation"
+            },
+            "en-AU": {
+                "singular": "Accommodation"
+            },
+            "en-CA": {
+                "singular": "Accommodation"
+            },
+            "en-GB": {
+                "singular": "Accommodation"
+            },
+            "en-IE": {
+                "singular": "Accommodation"
+            },
+            "en-US": {
+                "singular": "Accommodation"
+            },
+            "es": {
+                "singular": "Alojamiento"
+            },
+            "fi": {
+                "singular": "Loma-asunto"
+            },
+            "fi-EE": {
+                "singular": "Loma-asunto"
+            },
+            "fi-FI": {
+                "singular": "Loma-asunto"
+            },
+            "fr": {
+                "singular": "Hébergement"
+            },
+            "fr-BE": {
+                "singular": "Hébergement"
+            },
+            "fr-CA": {
+                "singular": "Hébergement"
+            },
+            "fr-CH": {
+                "singular": "Hébergement"
+            },
+            "fr-FR": {
+                "singular": "Hébergement"
+            },
+            "hr": {
+                "singular": "Smještaj"
+            },
+            "it": {
+                "singular": "sistemazione"
+            },
+            "it-CH": {
+                "singular": "sistemazione"
+            },
+            "it-IT": {
+                "singular": "sistemazione"
+            },
+            "nl": {
+                "singular": "Accommodatie"
+            },
+            "nl-BE": {
+                "singular": "Accommodatie"
+            },
+            "nl-NL": {
+                "singular": "Accommodatie"
+            },
+            "no": {
+                "singular": "Innkvartering"
+            },
+            "pl": {
+                "singular": "Zakwaterowanie"
+            },
+            "pt": {
+                "singular": "Alojamento"
+            },
+            "ru": {
+                "singular": "Размещение"
+            },
+            "sv": {
+                "singular": "Boende"
+            }
+        }
+    }
+}

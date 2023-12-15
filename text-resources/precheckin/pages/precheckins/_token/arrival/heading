@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.pages.precheckins._token.arrival.heading",
+    "name": "heading",
+    "path": "text-resources/precheckin/pages/precheckins/_token/arrival/heading",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/arrival/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "arrival",
+        "heading"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.arrival.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Informace o příjezdu"
+            },
+            "da": {
+                "singular": "Oplysninger om ankomst"
+            },
+            "de": {
+                "singular": "Anreiseinformationen "
+            },
+            "de-AT": {
+                "singular": "Anreiseinformationen "
+            },
+            "de-CH": {
+                "singular": "Anreiseinformationen "
+            },
+            "de-DE": {
+                "singular": "Anreiseinformationen "
+            },
+            "en": {
+                "singular": "Arrival information"
+            },
+            "en-AU": {
+                "singular": "Arrival information"
+            },
+            "en-CA": {
+                "singular": "Arrival information"
+            },
+            "en-GB": {
+                "singular": "Arrival information"
+            },
+            "en-IE": {
+                "singular": "Arrival information"
+            },
+            "en-US": {
+                "singular": "Arrival information"
+            },
+            "es": {
+                "singular": "Informacion de llegada"
+            },
+            "fi": {
+                "singular": "Tietoa saapumisesta"
+            },
+            "fi-EE": {
+                "singular": "Tietoa saapumisesta"
+            },
+            "fi-FI": {
+                "singular": "Tietoa saapumisesta"
+            },
+            "fr": {
+                "singular": "Informations pour l'arrivée"
+            },
+            "fr-BE": {
+                "singular": "Informations pour l'arrivée"
+            },
+            "fr-CA": {
+                "singular": "Informations pour l'arrivée"
+            },
+            "fr-CH": {
+                "singular": "Informations pour l'arrivée"
+            },
+            "fr-FR": {
+                "singular": "Informations pour l'arrivée"
+            },
+            "hr": {
+                "singular": "Informacije o dolasku"
+            },
+            "it": {
+                "singular": "Informazioni per l'arrivo"
+            },
+            "it-CH": {
+                "singular": "Informazioni per l'arrivo"
+            },
+            "it-IT": {
+                "singular": "Informazioni per l'arrivo"
+            },
+            "nl": {
+                "singular": "Aankomst informatie"
+            },
+            "nl-BE": {
+                "singular": "Aankomst informatie"
+            },
+            "nl-NL": {
+                "singular": "Aankomst informatie"
+            },
+            "no": {
+                "singular": "Ankomstinformasjon"
+            },
+            "pl": {
+                "singular": "Informacje wyjazdowe"
+            },
+            "pt": {
+                "singular": "Informação de chegada"
+            },
+            "ru": {
+                "singular": "Информация о заезде"
+            },
+            "sv": {
+                "singular": "Information om ankomst"
+            }
+        }
+    }
+}

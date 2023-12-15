@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.pets.sustainable.title",
+    "name": "title",
+    "path": "text-resources/www/components/views/search/ObjectTeaser/pets/sustainable/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/pets/sustainable/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "pets",
+        "sustainable",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.pets.sustainable.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – zelená dovolená. Udržitelné prázdninové domy vhodné pro domácí mazlíčky čekají jen na Vás."
+            },
+            "da": {
+                "singular": "Grønne ferier: bæredygtige, kæledyrsvenlige ferieboliger venter på dig i {destination}"
+            },
+            "de": {
+                "singular": "Grüner Urlaub: Nachhaltige, haustierfreundliche Ferienhäuser erwarten Sie in {destination}"
+            },
+            "de-AT": {
+                "singular": "Grüner Urlaub: Nachhaltige, haustierfreundliche Ferienhäuser erwarten Sie in {destination}"
+            },
+            "de-CH": {
+                "singular": "Grüne Ferien: Nachhaltige, haustierfreundliche Ferienhäuser erwarten Sie in {destination}"
+            },
+            "de-DE": {
+                "singular": "Grüner Urlaub: Nachhaltige, haustierfreundliche Ferienhäuser erwarten Sie in {destination}"
+            },
+            "en": {
+                "singular": "Green getaways: sustainable, pet-welcome holiday homes await in {destination}"
+            },
+            "en-AU": {
+                "singular": "Green getaways: sustainable, pet-welcome holiday homes await in {destination}"
+            },
+            "en-CA": {
+                "singular": "Green getaways: sustainable, pet-welcome holiday homes await in {destination}"
+            },
+            "en-GB": {
+                "singular": "Green getaways: sustainable, pet-welcome holiday homes await in {destination}"
+            },
+            "en-IE": {
+                "singular": "Green getaways: sustainable, pet-welcome holiday homes await in {destination}"
+            },
+            "en-US": {
+                "singular": "Green getaways: sustainable, pet-welcome holiday homes await in {destination}"
+            },
+            "es": {
+                "singular": "Escapadas ecológicas: casas de vacaciones sostenibles que admiten mascotas en {destination}"
+            },
+            "fi": {
+                "singular": "Lomaile vihreämmin: vastuullinen, lemmikkiystävällinen lomakoti paikassa {destination}"
+            },
+            "fi-EE": {
+                "singular": "Lomaile vihreämmin: vastuullinen, lemmikkiystävällinen lomakoti paikassa {destination}"
+            },
+            "fi-FI": {
+                "singular": "Lomaile vihreämmin: vastuullinen, lemmikkiystävällinen lomakoti paikassa {destination}"
+            },
+            "fr": {
+                "singular": "Escapades vertes : des locations de vacances durables et accueillantes pour les animaux de compagnie vous attendent {destination}"
+            },
+            "fr-BE": {
+                "singular": "Escapades vertes : des locations de vacances durables et accueillantes pour les animaux de compagnie vous attendent {destination}"
+            },
+            "fr-CA": {
+                "singular": "Escapades vertes : des locations de vacances durables et accueillantes pour les animaux de compagnie vous attendent {destination}"
+            },
+            "fr-CH": {
+                "singular": "Escapades vertes : des locations de vacances durables et accueillantes pour les animaux de compagnie vous attendent {destination}"
+            },
+            "fr-FR": {
+                "singular": "Escapades vertes : des locations de vacances durables et accueillantes pour les animaux de compagnie vous attendent {destination}"
+            },
+            "hr": {
+                "singular": "Zeleni bijeg: održive kuće za odmor s dozvoljenim kućnim ljubimcima čekaju Vas u {destination}"
+            },
+            "it": {
+                "singular": "Fughe ecologiche: a {destination} ti aspettano case vacanze sostenibili che accolgono gli animali domestici"
+            },
+            "it-CH": {
+                "singular": "Fughe ecologiche: a {destination} ti aspettano case vacanze sostenibili che accolgono gli animali domestici"
+            },
+            "it-IT": {
+                "singular": "Fughe ecologiche: a {destination} ti aspettano case vacanze sostenibili che accolgono gli animali domestici"
+            },
+            "nl": {
+                "singular": "Groene uitjes: duurzame vakantiehuizen waar huisdieren welkom zijn wachten op u in {destination}"
+            },
+            "nl-BE": {
+                "singular": "Groene uitjes: duurzame vakantiehuizen waar huisdieren welkom zijn wachten op u in {destination}"
+            },
+            "nl-NL": {
+                "singular": "Groene uitjes: duurzame vakantiehuizen waar huisdieren welkom zijn wachten op u in {destination}"
+            },
+            "no": {
+                "singular": "Miljøvennlige ferieopphold: Bærekraftige feriehus som tillater kjæledyr venter på deg i {destination}."
+            },
+            "pl": {
+                "singular": "{destination}, eko - zakwaterowanie na wakacje z psem"
+            },
+            "pt": {
+                "singular": "Escapadinhas ecológicas: casas de férias sustentáveis e que aceitam animais de estimação esperam por si em {destination}"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Gröna paradis: hållbara semesterhus där husdjur är välkomna i {destination}"
+            }
+        }
+    }
+}

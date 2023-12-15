@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.pax.button",
+    "name": "button",
+    "path": "text-resources/webccBooking/pages/reservations/overview/pax/button",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/pax/button",
+    "slug": "button",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "pax",
+        "button"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.pax.button",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Změnit"
+            },
+            "da": {
+                "singular": "Ændring"
+            },
+            "de": {
+                "singular": "Ändern"
+            },
+            "de-AT": {
+                "singular": "Ändern"
+            },
+            "de-CH": {
+                "singular": "Ändern"
+            },
+            "de-DE": {
+                "singular": "Ändern"
+            },
+            "en": {
+                "singular": "Change"
+            },
+            "en-AU": {
+                "singular": "Change"
+            },
+            "en-CA": {
+                "singular": "Change"
+            },
+            "en-GB": {
+                "singular": "Change"
+            },
+            "en-IE": {
+                "singular": "Change"
+            },
+            "en-US": {
+                "singular": "Change"
+            },
+            "es": {
+                "singular": "Cambiar"
+            },
+            "fi": {
+                "singular": "Muuta"
+            },
+            "fi-EE": {
+                "singular": "Muuta"
+            },
+            "fi-FI": {
+                "singular": "Muuta"
+            },
+            "fr": {
+                "singular": "Modifier"
+            },
+            "fr-BE": {
+                "singular": "Modifier"
+            },
+            "fr-CA": {
+                "singular": "Modifier"
+            },
+            "fr-CH": {
+                "singular": "Modifier"
+            },
+            "fr-FR": {
+                "singular": "Modifier"
+            },
+            "hr": {
+                "singular": "Promijeniti"
+            },
+            "it": {
+                "singular": "Modificare"
+            },
+            "it-CH": {
+                "singular": "Modificare"
+            },
+            "it-IT": {
+                "singular": "Modificare"
+            },
+            "nl": {
+                "singular": "Wijziging"
+            },
+            "nl-BE": {
+                "singular": "Wijziging"
+            },
+            "nl-NL": {
+                "singular": "Wijziging"
+            },
+            "no": {
+                "singular": "Forandre"
+            },
+            "pl": {
+                "singular": "Zmień"
+            },
+            "pt": {
+                "singular": "Mudar"
+            },
+            "ru": {
+                "singular": "Изменить"
+            },
+            "sv": {
+                "singular": "Ändra"
+            }
+        }
+    }
+}

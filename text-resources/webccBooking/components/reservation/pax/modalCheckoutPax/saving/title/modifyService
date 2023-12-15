@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.pax.modalCheckoutPax.saving.title.modifyService",
+    "name": "modifyService",
+    "path": "text-resources/webccBooking/components/reservation/pax/modalCheckoutPax/saving/title/modifyService",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/pax/modalCheckoutPax/saving/title/modifyService",
+    "slug": "modifyService",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "pax",
+        "modalCheckoutPax",
+        "saving",
+        "title",
+        "modifyService"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.pax.modalCheckoutPax.saving.title.modifyService",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Právě probíhá změna"
+            },
+            "da": {
+                "singular": "Ændringen udføres"
+            },
+            "de": {
+                "singular": "Die Änderung wird durchgeführt"
+            },
+            "de-AT": {
+                "singular": "Die Änderung wird durchgeführt"
+            },
+            "de-CH": {
+                "singular": "Die Änderung wird durchgeführt"
+            },
+            "de-DE": {
+                "singular": "Die Änderung wird durchgeführt"
+            },
+            "en": {
+                "singular": "The change is made"
+            },
+            "en-AU": {
+                "singular": "The change is made"
+            },
+            "en-CA": {
+                "singular": "The change is made"
+            },
+            "en-GB": {
+                "singular": "The change is made"
+            },
+            "en-IE": {
+                "singular": "The change is made"
+            },
+            "en-US": {
+                "singular": "The change is made"
+            },
+            "es": {
+                "singular": "El cambio se ha realizado"
+            },
+            "fi": {
+                "singular": "Muutos on tehty"
+            },
+            "fi-EE": {
+                "singular": "Muutos on tehty"
+            },
+            "fi-FI": {
+                "singular": "Muutos on tehty"
+            },
+            "fr": {
+                "singular": "La modification est en cours"
+            },
+            "fr-BE": {
+                "singular": "La modification est en cours"
+            },
+            "fr-CA": {
+                "singular": "La modification est en cours"
+            },
+            "fr-CH": {
+                "singular": "La modification est en cours"
+            },
+            "fr-FR": {
+                "singular": "La modification est en cours"
+            },
+            "hr": {
+                "singular": "Promjena je napravljena"
+            },
+            "it": {
+                "singular": "La modifica è stata effettuata"
+            },
+            "it-CH": {
+                "singular": "La modifica è stata effettuata"
+            },
+            "it-IT": {
+                "singular": "La modifica è stata effettuata"
+            },
+            "nl": {
+                "singular": "De wijziging is doorgevoerd"
+            },
+            "nl-BE": {
+                "singular": "De wijziging is doorgevoerd"
+            },
+            "nl-NL": {
+                "singular": "De wijziging is doorgevoerd"
+            },
+            "no": {
+                "singular": "Endringen er gjort"
+            },
+            "pl": {
+                "singular": "Zmiana została dokonana"
+            },
+            "pt": {
+                "singular": "A alteração foi feita"
+            },
+            "ru": {
+                "singular": "Изменение сделано"
+            },
+            "sv": {
+                "singular": "Ändringen genomförs"
+            }
+        }
+    }
+}

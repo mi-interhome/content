@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.pax.modalCheckoutPax.buttons.back",
+    "name": "back",
+    "path": "text-resources/webccBooking/components/reservation/pax/modalCheckoutPax/buttons/back",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/pax/modalCheckoutPax/buttons/back",
+    "slug": "back",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "pax",
+        "modalCheckoutPax",
+        "buttons",
+        "back"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.pax.modalCheckoutPax.buttons.back",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zpět na stránku s přehledem"
+            },
+            "da": {
+                "singular": "Tilbage til oversigten"
+            },
+            "de": {
+                "singular": "Zurück zur Übersichtsseite"
+            },
+            "de-AT": {
+                "singular": "Zurück zur Übersichtsseite"
+            },
+            "de-CH": {
+                "singular": "Zurück zur Übersichtsseite"
+            },
+            "de-DE": {
+                "singular": "Zurück zur Übersichtsseite"
+            },
+            "en": {
+                "singular": "Back to the overview page"
+            },
+            "en-AU": {
+                "singular": "Back to the overview page"
+            },
+            "en-CA": {
+                "singular": "Back to the overview page"
+            },
+            "en-GB": {
+                "singular": "Back to the overview page"
+            },
+            "en-IE": {
+                "singular": "Back to the overview page"
+            },
+            "en-US": {
+                "singular": "Back to the overview page"
+            },
+            "es": {
+                "singular": "Volver a la página general"
+            },
+            "fi": {
+                "singular": "Takaisin yhteenvetosivulle"
+            },
+            "fi-EE": {
+                "singular": "Takaisin yhteenvetosivulle"
+            },
+            "fi-FI": {
+                "singular": "Takaisin yhteenvetosivulle"
+            },
+            "fr": {
+                "singular": "Retour à la page principale"
+            },
+            "fr-BE": {
+                "singular": "Retour à la page principale"
+            },
+            "fr-CA": {
+                "singular": "Retour à la page principale"
+            },
+            "fr-CH": {
+                "singular": "Retour à la page principale"
+            },
+            "fr-FR": {
+                "singular": "Retour à la page principale"
+            },
+            "hr": {
+                "singular": "Natrag na pregled"
+            },
+            "it": {
+                "singular": "Torna alla pagina principale"
+            },
+            "it-CH": {
+                "singular": "Torna alla pagina principale"
+            },
+            "it-IT": {
+                "singular": "Torna alla pagina principale"
+            },
+            "nl": {
+                "singular": "Terug naar de overzichtspagina"
+            },
+            "nl-BE": {
+                "singular": "Terug naar de overzichtspagina"
+            },
+            "nl-NL": {
+                "singular": "Terug naar de overzichtspagina"
+            },
+            "no": {
+                "singular": "Tilbake til oversiktssiden"
+            },
+            "pl": {
+                "singular": "Powrót do strony startowej"
+            },
+            "pt": {
+                "singular": "Voltar para a página principal"
+            },
+            "ru": {
+                "singular": "Вернуться на главную страницу"
+            },
+            "sv": {
+                "singular": "Tillbaka till översiktssidan"
+            }
+        }
+    }
+}

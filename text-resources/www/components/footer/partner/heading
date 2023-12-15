@@ -1,0 +1,126 @@
+{
+    "id": "www.components.footer.partner.heading",
+    "name": "heading",
+    "path": "text-resources/www/components/footer/partner/heading",
+    "folder": "text-resources",
+    "full_slug": "www/components/footer/partner/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "footer",
+        "partner",
+        "heading"
+    ],
+    "content": {
+        "key": "www.components.footer.partner.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Partneři"
+            },
+            "da": {
+                "singular": "Partnerskab"
+            },
+            "de": {
+                "singular": "Partnerschaften"
+            },
+            "de-AT": {
+                "singular": "Partnerschaften"
+            },
+            "de-CH": {
+                "singular": "Partnerschaften"
+            },
+            "de-DE": {
+                "singular": "Partnerschaften"
+            },
+            "en": {
+                "singular": "Partnerships"
+            },
+            "en-AU": {
+                "singular": "Partnerships"
+            },
+            "en-CA": {
+                "singular": "Partnerships"
+            },
+            "en-GB": {
+                "singular": "Partnerships"
+            },
+            "en-IE": {
+                "singular": "Partnerships"
+            },
+            "en-US": {
+                "singular": "Partnerships"
+            },
+            "es": {
+                "singular": "Colaboraciones"
+            },
+            "fi": {
+                "singular": "Kumppanuudet"
+            },
+            "fi-EE": {
+                "singular": "Kumppanuudet"
+            },
+            "fi-FI": {
+                "singular": "Kumppanuudet"
+            },
+            "fr": {
+                "singular": "Partenariats"
+            },
+            "fr-BE": {
+                "singular": "Partenariats"
+            },
+            "fr-CA": {
+                "singular": "Partenariats"
+            },
+            "fr-CH": {
+                "singular": "Partenariats"
+            },
+            "fr-FR": {
+                "singular": "Partenariats"
+            },
+            "hr": {
+                "singular": "Partneri"
+            },
+            "it": {
+                "singular": "Partner"
+            },
+            "it-CH": {
+                "singular": "Partner"
+            },
+            "it-IT": {
+                "singular": "Partner"
+            },
+            "nl": {
+                "singular": "Aangesloten bij"
+            },
+            "nl-BE": {
+                "singular": "Aangesloten bij"
+            },
+            "nl-NL": {
+                "singular": "Aangesloten bij"
+            },
+            "no": {
+                "singular": "Partnerskap"
+            },
+            "pl": {
+                "singular": "Partnerzy"
+            },
+            "pt": {
+                "singular": "Parcerias"
+            },
+            "ru": {
+                "singular": "Партнерства"
+            },
+            "sv": {
+                "singular": "Partnerskap"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.pages.reservations.pax.savechanges",
+    "name": "savechanges",
+    "path": "text-resources/webccBooking/pages/reservations/pax/savechanges",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/pax/savechanges",
+    "slug": "savechanges",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "pax",
+        "savechanges"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.pax.savechanges",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potvrdit změnu"
+            },
+            "da": {
+                "singular": "Bekræft ændring"
+            },
+            "de": {
+                "singular": "Änderung bestätigen"
+            },
+            "de-AT": {
+                "singular": "Änderung bestätigen"
+            },
+            "de-CH": {
+                "singular": "Änderung bestätigen"
+            },
+            "de-DE": {
+                "singular": "Änderung bestätigen"
+            },
+            "en": {
+                "singular": "Confirm change"
+            },
+            "en-AU": {
+                "singular": "Confirm change"
+            },
+            "en-CA": {
+                "singular": "Confirm change"
+            },
+            "en-GB": {
+                "singular": "Confirm change"
+            },
+            "en-IE": {
+                "singular": "Confirm change"
+            },
+            "en-US": {
+                "singular": "Confirm change"
+            },
+            "es": {
+                "singular": "Confirmar el cambio"
+            },
+            "fi": {
+                "singular": "Vahvista muutos"
+            },
+            "fi-EE": {
+                "singular": "Vahvista muutos"
+            },
+            "fi-FI": {
+                "singular": "Vahvista muutos"
+            },
+            "fr": {
+                "singular": "Confirmer la modification"
+            },
+            "fr-BE": {
+                "singular": "Confirmer la modification"
+            },
+            "fr-CA": {
+                "singular": "Confirmer la modification"
+            },
+            "fr-CH": {
+                "singular": "Confirmer la modification"
+            },
+            "fr-FR": {
+                "singular": "Confirmer la modification"
+            },
+            "hr": {
+                "singular": "Potvrdite izmjenu"
+            },
+            "it": {
+                "singular": "Conferma modifica"
+            },
+            "it-CH": {
+                "singular": "Conferma modifica"
+            },
+            "it-IT": {
+                "singular": "Conferma modifica"
+            },
+            "nl": {
+                "singular": "Wijziging bevestigen"
+            },
+            "nl-BE": {
+                "singular": "Wijziging bevestigen"
+            },
+            "nl-NL": {
+                "singular": "Wijziging bevestigen"
+            },
+            "no": {
+                "singular": "Bekreft endring"
+            },
+            "pl": {
+                "singular": "Potwierdź zmianę"
+            },
+            "pt": {
+                "singular": "Confirmar a alteração"
+            },
+            "ru": {
+                "singular": "Подтвердить изменения"
+            },
+            "sv": {
+                "singular": "Bekräfta ändring"
+            }
+        }
+    }
+}

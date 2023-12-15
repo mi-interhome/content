@@ -1,0 +1,124 @@
+{
+    "id": "components.searchbar.persons",
+    "name": "persons",
+    "path": "text-resources/components/searchbar/persons",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/persons",
+    "slug": "persons",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "persons"
+    ],
+    "content": {
+        "key": "components.searchbar.persons",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Osoby"
+            },
+            "da": {
+                "singular": "Personer"
+            },
+            "de": {
+                "singular": "Personen"
+            },
+            "de-AT": {
+                "singular": "Personen"
+            },
+            "de-CH": {
+                "singular": "Personen"
+            },
+            "de-DE": {
+                "singular": "Personen"
+            },
+            "en": {
+                "singular": "Persons"
+            },
+            "en-AU": {
+                "singular": "Persons"
+            },
+            "en-CA": {
+                "singular": "Persons"
+            },
+            "en-GB": {
+                "singular": "Persons"
+            },
+            "en-IE": {
+                "singular": "Guests"
+            },
+            "en-US": {
+                "singular": "Persons"
+            },
+            "es": {
+                "singular": "personas"
+            },
+            "fi": {
+                "singular": "Henkilöä"
+            },
+            "fi-EE": {
+                "singular": "Henkilöä"
+            },
+            "fi-FI": {
+                "singular": "Henkilöä"
+            },
+            "fr": {
+                "singular": "Personnes"
+            },
+            "fr-BE": {
+                "singular": "Personnes"
+            },
+            "fr-CA": {
+                "singular": "Personnes"
+            },
+            "fr-CH": {
+                "singular": "Personnes"
+            },
+            "fr-FR": {
+                "singular": "Personnes"
+            },
+            "hr": {
+                "singular": "Osoba"
+            },
+            "it": {
+                "singular": "Persone"
+            },
+            "it-CH": {
+                "singular": "Persone"
+            },
+            "it-IT": {
+                "singular": "Persone"
+            },
+            "nl": {
+                "singular": "Personen"
+            },
+            "nl-BE": {
+                "singular": "Personen"
+            },
+            "nl-NL": {
+                "singular": "Personen"
+            },
+            "no": {
+                "singular": "Personer"
+            },
+            "pl": {
+                "singular": "Liczba osób"
+            },
+            "pt": {
+                "singular": "Pessoas"
+            },
+            "ru": {
+                "singular": "Человек"
+            },
+            "sv": {
+                "singular": "Personer"
+            }
+        }
+    }
+}

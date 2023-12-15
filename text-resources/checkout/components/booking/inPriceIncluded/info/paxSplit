@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.inPriceIncluded.info.paxSplit",
+    "name": "paxSplit",
+    "path": "text-resources/checkout/components/booking/inPriceIncluded/info/paxSplit",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/inPriceIncluded/info/paxSplit",
+    "slug": "paxSplit",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "inPriceIncluded",
+        "info",
+        "paxSplit"
+    ],
+    "content": {
+        "key": "checkout.components.booking.inPriceIncluded.info.paxSplit",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dodatečné náklady (pokud jsou)"
+            },
+            "da": {
+                "singular": "Ekstra gebyrer (om tilkommer)"
+            },
+            "de": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "de-AT": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "de-CH": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "de-DE": {
+                "singular": "zuzüglich ggf. Nebenkosten"
+            },
+            "en": {
+                "singular": "additional costs may apply"
+            },
+            "en-AU": {
+                "singular": "additional costs may apply"
+            },
+            "en-CA": {
+                "singular": "additional costs may apply"
+            },
+            "en-GB": {
+                "singular": "additional costs may apply"
+            },
+            "en-IE": {
+                "singular": "additional costs may apply"
+            },
+            "en-US": {
+                "singular": "additional costs may apply"
+            },
+            "es": {
+                "singular": "costes adicionales (si son requeridos)"
+            },
+            "fi": {
+                "singular": "Sekä mahdolliset lisäkulut (mikäli mainittu hintaerittelyssä)."
+            },
+            "fi-EE": {
+                "singular": "Sekä mahdolliset lisäkulut (mikäli mainittu hintaerittelyssä)."
+            },
+            "fi-FI": {
+                "singular": "Sekä mahdolliset lisäkulut (mikäli mainittu hintaerittelyssä)."
+            },
+            "fr": {
+                "singular": "frais supplémentaires (si requis)"
+            },
+            "fr-BE": {
+                "singular": "frais supplémentaires (si requis)"
+            },
+            "fr-CA": {
+                "singular": "frais supplémentaires (si requis)"
+            },
+            "fr-CH": {
+                "singular": "frais supplémentaires (si requis)"
+            },
+            "fr-FR": {
+                "singular": "frais supplémentaires (si requis)"
+            },
+            "hr": {
+                "singular": "Dodatni troškovi (ukoliko su potrebni)"
+            },
+            "it": {
+                "singular": "costi addizionali (se richiesto)"
+            },
+            "it-CH": {
+                "singular": "costi addizionali (se richiesto)"
+            },
+            "it-IT": {
+                "singular": "costi addizionali (se richiesto)"
+            },
+            "nl": {
+                "singular": "Extra kosten (indien van toepassing)"
+            },
+            "nl-BE": {
+                "singular": "Extra kosten (indien van toepassing)"
+            },
+            "nl-NL": {
+                "singular": "Extra kosten (indien van toepassing)"
+            },
+            "no": {
+                "singular": " ekstra kostnader (om tilkommer)"
+            },
+            "pl": {
+                "singular": "+ dodatkowe koszty (jeśli występują)"
+            },
+            "pt": {
+                "singular": "custos adicionais (se necessário)"
+            },
+            "ru": {
+                "singular": "дополнительные расходы (если требуется)"
+            },
+            "sv": {
+                "singular": "extra kostnad (om tillkommer)"
+            }
+        }
+    }
+}

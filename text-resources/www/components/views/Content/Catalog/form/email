@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.Catalog.form.email",
+    "name": "email",
+    "path": "text-resources/www/components/views/Content/Catalog/form/email",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/Catalog/form/email",
+    "slug": "email",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "Catalog",
+        "form",
+        "email"
+    ],
+    "content": {
+        "key": "www.components.views.Content.Catalog.form.email",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "E-mail"
+            },
+            "da": {
+                "singular": "e-mail"
+            },
+            "de": {
+                "singular": "E-Mail"
+            },
+            "de-AT": {
+                "singular": "E-Mail"
+            },
+            "de-CH": {
+                "singular": "E-Mail"
+            },
+            "de-DE": {
+                "singular": "E-Mail"
+            },
+            "en": {
+                "singular": "E-Mail"
+            },
+            "en-AU": {
+                "singular": "E-Mail"
+            },
+            "en-CA": {
+                "singular": "E-Mail"
+            },
+            "en-GB": {
+                "singular": "E-Mail"
+            },
+            "en-IE": {
+                "singular": "E-Mail"
+            },
+            "en-US": {
+                "singular": "E-Mail"
+            },
+            "es": {
+                "singular": "Correo electrónico"
+            },
+            "fi": {
+                "singular": "Sähköposti"
+            },
+            "fi-EE": {
+                "singular": "Email"
+            },
+            "fi-FI": {
+                "singular": "Sähköposti"
+            },
+            "fr": {
+                "singular": "eMail"
+            },
+            "fr-BE": {
+                "singular": "eMail"
+            },
+            "fr-CA": {
+                "singular": "eMail"
+            },
+            "fr-CH": {
+                "singular": "eMail"
+            },
+            "fr-FR": {
+                "singular": "eMail"
+            },
+            "hr": {
+                "singular": "e-mail"
+            },
+            "it": {
+                "singular": "eMail"
+            },
+            "it-CH": {
+                "singular": "eMail"
+            },
+            "it-IT": {
+                "singular": "eMail"
+            },
+            "nl": {
+                "singular": "E-mail"
+            },
+            "nl-BE": {
+                "singular": "E-mail"
+            },
+            "nl-NL": {
+                "singular": "E-mail"
+            },
+            "no": {
+                "singular": "e-post"
+            },
+            "pl": {
+                "singular": "eMail"
+            },
+            "pt": {
+                "singular": "E-mail"
+            },
+            "ru": {
+                "singular": "email"
+            },
+            "sv": {
+                "singular": "eMail"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "booking.onRequest.pageTitle",
+    "name": "pageTitle",
+    "path": "text-resources/booking/onRequest/pageTitle",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/pageTitle",
+    "slug": "pageTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "pageTitle"
+    ],
+    "content": {
+        "key": "booking.onRequest.pageTitle",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rezervace na dotaz"
+            },
+            "da": {
+                "singular": "Reservationen er på forespørgsel"
+            },
+            "de": {
+                "singular": "Buchung auf Anfrage"
+            },
+            "de-AT": {
+                "singular": "Buchung auf Anfrage"
+            },
+            "de-CH": {
+                "singular": "Buchung auf Anfrage"
+            },
+            "de-DE": {
+                "singular": "Buchung auf Anfrage"
+            },
+            "en": {
+                "singular": "Booking on request"
+            },
+            "en-AU": {
+                "singular": "Booking on request"
+            },
+            "en-CA": {
+                "singular": "Booking on request"
+            },
+            "en-GB": {
+                "singular": "Booking on request"
+            },
+            "en-IE": {
+                "singular": "Booking on request"
+            },
+            "en-US": {
+                "singular": "Booking on request"
+            },
+            "es": {
+                "singular": "Reserva bajo petición"
+            },
+            "fi": {
+                "singular": "Varauskysely"
+            },
+            "fi-EE": {
+                "singular": "Varauskysely"
+            },
+            "fi-FI": {
+                "singular": "Varauskysely"
+            },
+            "fr": {
+                "singular": "Réservation sur demande"
+            },
+            "fr-BE": {
+                "singular": "Réservation sur demande"
+            },
+            "fr-CA": {
+                "singular": "Réservation sur demande"
+            },
+            "fr-CH": {
+                "singular": "Réservation sur demande"
+            },
+            "fr-FR": {
+                "singular": "Réservation sur demande"
+            },
+            "hr": {
+                "singular": "Rezervacija na upit"
+            },
+            "it": {
+                "singular": "Prenotazione su richiesta"
+            },
+            "it-CH": {
+                "singular": "Prenotazione su richiesta"
+            },
+            "it-IT": {
+                "singular": "Prenotazione su richiesta"
+            },
+            "nl": {
+                "singular": "Reservering op aanvraag"
+            },
+            "nl-BE": {
+                "singular": "Reservering op aanvraag"
+            },
+            "nl-NL": {
+                "singular": "Reservering op aanvraag"
+            },
+            "no": {
+                "singular": "Booking på forespørsel"
+            },
+            "pl": {
+                "singular": "Rezerwacja na zapytanie"
+            },
+            "pt": {
+                "singular": "Reservas on request"
+            },
+            "ru": {
+                "singular": "Бронирование по запросу"
+            },
+            "sv": {
+                "singular": "Bokning på förfrågan"
+            }
+        }
+    }
+}

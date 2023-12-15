@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.newbooking.new_booking",
+    "name": "new_booking",
+    "path": "text-resources/webccSalesportal/newbooking/new_booking",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/newbooking/new_booking",
+    "slug": "new_booking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "newbooking",
+        "new_booking"
+    ],
+    "content": {
+        "key": "webccSalesportal.newbooking.new_booking",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nová rezervace"
+            },
+            "da": {
+                "singular": "Ny Reservation"
+            },
+            "de": {
+                "singular": "Buchung vornehmen"
+            },
+            "de-AT": {
+                "singular": "Buchung vornehmen"
+            },
+            "de-CH": {
+                "singular": "Buchung erstellen"
+            },
+            "de-DE": {
+                "singular": "Buchung vornehmen"
+            },
+            "en": {
+                "singular": "New Booking"
+            },
+            "en-AU": {
+                "singular": "New Booking"
+            },
+            "en-CA": {
+                "singular": "New Booking"
+            },
+            "en-GB": {
+                "singular": "New Booking"
+            },
+            "en-IE": {
+                "singular": "New Booking"
+            },
+            "en-US": {
+                "singular": "New Booking"
+            },
+            "es": {
+                "singular": "Nueva reserva"
+            },
+            "fi": {
+                "singular": "Uusi varaus"
+            },
+            "fi-EE": {
+                "singular": "Uusi varaus"
+            },
+            "fi-FI": {
+                "singular": "Uusi varaus"
+            },
+            "fr": {
+                "singular": "Effectuer une réservation"
+            },
+            "fr-BE": {
+                "singular": "Effectuer une réservation"
+            },
+            "fr-CA": {
+                "singular": "Effectuer une réservation"
+            },
+            "fr-CH": {
+                "singular": "Effectuer une réservation"
+            },
+            "fr-FR": {
+                "singular": "Effectuer une réservation"
+            },
+            "hr": {
+                "singular": "Nova rezervacija"
+            },
+            "it": {
+                "singular": "Nuova prenotazione"
+            },
+            "it-CH": {
+                "singular": "Nuova prenotazione"
+            },
+            "it-IT": {
+                "singular": "Nuova prenotazione"
+            },
+            "nl": {
+                "singular": "Nieuwe Boeking"
+            },
+            "nl-BE": {
+                "singular": "Nieuwe Boeking"
+            },
+            "nl-NL": {
+                "singular": "Nieuwe Boeking"
+            },
+            "no": {
+                "singular": "Ny bestilling"
+            },
+            "pl": {
+                "singular": "Nowa rezerwacja"
+            },
+            "pt": {
+                "singular": "Nova Reserva"
+            },
+            "ru": {
+                "singular": "Сделать бронирование"
+            },
+            "sv": {
+                "singular": "Ny bokning"
+            }
+        }
+    }
+}

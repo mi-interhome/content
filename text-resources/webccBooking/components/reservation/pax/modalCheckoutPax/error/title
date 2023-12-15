@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.pax.modalCheckoutPax.error.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/components/reservation/pax/modalCheckoutPax/error/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/pax/modalCheckoutPax/error/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "pax",
+        "modalCheckoutPax",
+        "error",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.pax.modalCheckoutPax.error.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Došlo k chybě."
+            },
+            "da": {
+                "singular": "Der opstod en fejl."
+            },
+            "de": {
+                "singular": "Es ist ein Fehler aufgetreten."
+            },
+            "de-AT": {
+                "singular": "Es ist ein Fehler aufgetreten."
+            },
+            "de-CH": {
+                "singular": "Es ist ein Fehler aufgetreten."
+            },
+            "de-DE": {
+                "singular": "Es ist ein Fehler aufgetreten."
+            },
+            "en": {
+                "singular": "An error occurred."
+            },
+            "en-AU": {
+                "singular": "An error occurred."
+            },
+            "en-CA": {
+                "singular": "An error occurred."
+            },
+            "en-GB": {
+                "singular": "An error occurred."
+            },
+            "en-IE": {
+                "singular": "An error occurred."
+            },
+            "en-US": {
+                "singular": "An error occurred."
+            },
+            "es": {
+                "singular": "Se produjo un error."
+            },
+            "fi": {
+                "singular": "Virhe tapahtui."
+            },
+            "fi-EE": {
+                "singular": "Virhe tapahtui."
+            },
+            "fi-FI": {
+                "singular": "Virhe tapahtui."
+            },
+            "fr": {
+                "singular": "Une erreur est survenue."
+            },
+            "fr-BE": {
+                "singular": "Une erreur est survenue."
+            },
+            "fr-CA": {
+                "singular": "Une erreur est survenue."
+            },
+            "fr-CH": {
+                "singular": "Une erreur est survenue."
+            },
+            "fr-FR": {
+                "singular": "Une erreur est survenue."
+            },
+            "hr": {
+                "singular": "Dogodila se pogreška."
+            },
+            "it": {
+                "singular": "C'è stato un errore"
+            },
+            "it-CH": {
+                "singular": "C'è stato un errore"
+            },
+            "it-IT": {
+                "singular": "C'è stato un errore"
+            },
+            "nl": {
+                "singular": "Er is een fout opgetreden."
+            },
+            "nl-BE": {
+                "singular": "Er is een fout opgetreden."
+            },
+            "nl-NL": {
+                "singular": "Er is een fout opgetreden."
+            },
+            "no": {
+                "singular": "Det oppstod en feil."
+            },
+            "pl": {
+                "singular": "Wystąpił błąd."
+            },
+            "pt": {
+                "singular": "Houve um erro."
+            },
+            "ru": {
+                "singular": "Произошла ошибка."
+            },
+            "sv": {
+                "singular": "Ett fel inträffade"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "booking.infoCustomer.heading",
+    "name": "heading",
+    "path": "text-resources/booking/infoCustomer/heading",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "heading"
+    ],
+    "content": {
+        "key": "booking.infoCustomer.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše kontaktní údaje"
+            },
+            "da": {
+                "singular": "Dine kontaktoplysninger"
+            },
+            "de": {
+                "singular": "Ihre Kontaktinformationen"
+            },
+            "de-AT": {
+                "singular": "Ihre Kontaktinformationen"
+            },
+            "de-CH": {
+                "singular": "Ihre Kontaktinformationen"
+            },
+            "de-DE": {
+                "singular": "Ihre Kontaktinformationen"
+            },
+            "en": {
+                "singular": "Your contact information"
+            },
+            "en-AU": {
+                "singular": "Your contact information"
+            },
+            "en-CA": {
+                "singular": "Your contact information"
+            },
+            "en-GB": {
+                "singular": "Your contact information"
+            },
+            "en-IE": {
+                "singular": "Your contact information"
+            },
+            "en-US": {
+                "singular": "Your contact information"
+            },
+            "es": {
+                "singular": "Sus datos de contacto"
+            },
+            "fi": {
+                "singular": "Yhteystietosi"
+            },
+            "fi-EE": {
+                "singular": "Yhteystietosi"
+            },
+            "fi-FI": {
+                "singular": "Yhteystietosi"
+            },
+            "fr": {
+                "singular": "Vos informations de contact"
+            },
+            "fr-BE": {
+                "singular": "Vos informations de contact"
+            },
+            "fr-CA": {
+                "singular": "Vos informations de contact"
+            },
+            "fr-CH": {
+                "singular": "Vos informations de contact"
+            },
+            "fr-FR": {
+                "singular": "Vos informations de contact"
+            },
+            "hr": {
+                "singular": "Vaši kontakt podaci"
+            },
+            "it": {
+                "singular": "I tuoi contatti"
+            },
+            "it-CH": {
+                "singular": "I tuoi contatti"
+            },
+            "it-IT": {
+                "singular": "I tuoi contatti"
+            },
+            "nl": {
+                "singular": "Uw contact informatie"
+            },
+            "nl-BE": {
+                "singular": "Uw contact informatie"
+            },
+            "nl-NL": {
+                "singular": "Uw contact informatie"
+            },
+            "no": {
+                "singular": "Dine kontaktoplysninger"
+            },
+            "pl": {
+                "singular": " Informacje kontaktowe"
+            },
+            "pt": {
+                "singular": "A sua informação de contacto"
+            },
+            "ru": {
+                "singular": "Ваши контакты"
+            },
+            "sv": {
+                "singular": "Din konkaktinformation"
+            }
+        }
+    }
+}

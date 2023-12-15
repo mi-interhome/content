@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.facilities.coveredParking",
+    "name": "coveredParking",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/facilities/coveredParking",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/facilities/coveredParking",
+    "slug": "coveredParking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "facilities",
+        "coveredParking"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.facilities.coveredParking",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Kryté parkoviště"
+            },
+            "da": {
+                "singular": "Overdækket parkering"
+            },
+            "de": {
+                "singular": "überdachter Parkplatz"
+            },
+            "de-AT": {
+                "singular": "überdachter Parkplatz"
+            },
+            "de-CH": {
+                "singular": "überdachter Parkplatz"
+            },
+            "de-DE": {
+                "singular": "überdachter Parkplatz"
+            },
+            "en": {
+                "singular": "Covered parking"
+            },
+            "en-AU": {
+                "singular": "Covered parking"
+            },
+            "en-CA": {
+                "singular": "Covered parking"
+            },
+            "en-GB": {
+                "singular": "Covered parking"
+            },
+            "en-IE": {
+                "singular": "Covered parking"
+            },
+            "en-US": {
+                "singular": "Covered parking"
+            },
+            "es": {
+                "singular": "Parking cubierto"
+            },
+            "fi": {
+                "singular": "Katettu pysäköinti"
+            },
+            "fi-EE": {
+                "singular": "Katettu pysäköinti"
+            },
+            "fi-FI": {
+                "singular": "Katettu pysäköinti"
+            },
+            "fr": {
+                "singular": "Parking couvert"
+            },
+            "fr-BE": {
+                "singular": "Parking couvert"
+            },
+            "fr-CA": {
+                "singular": "Parking couvert"
+            },
+            "fr-CH": {
+                "singular": "Parking couvert"
+            },
+            "fr-FR": {
+                "singular": "Parking couvert"
+            },
+            "hr": {
+                "singular": "Natkriti parking"
+            },
+            "it": {
+                "singular": "Parcheggio coperto"
+            },
+            "it-CH": {
+                "singular": "Parcheggio coperto"
+            },
+            "it-IT": {
+                "singular": "Parcheggio coperto"
+            },
+            "nl": {
+                "singular": "Overdekte parkeerplaats"
+            },
+            "nl-BE": {
+                "singular": "Overdekte parkeerplaats"
+            },
+            "nl-NL": {
+                "singular": "Overdekte parkeerplaats"
+            },
+            "no": {
+                "singular": "Parkering under tak"
+            },
+            "pl": {
+                "singular": "Zadaszone miejsce parkingowe"
+            },
+            "pt": {
+                "singular": "Estacionamento coberto"
+            },
+            "ru": {
+                "singular": "крытая парковка"
+            },
+            "sv": {
+                "singular": "Täckt parkering"
+            }
+        }
+    }
+}

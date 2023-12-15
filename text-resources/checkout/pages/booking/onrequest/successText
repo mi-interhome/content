@@ -1,0 +1,80 @@
+{
+    "id": "checkout.pages.booking.onrequest.successText",
+    "name": "successText",
+    "path": "text-resources/checkout/pages/booking/onrequest/successText",
+    "folder": "text-resources",
+    "full_slug": "checkout/pages/booking/onrequest/successText",
+    "slug": "successText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "pages",
+        "booking",
+        "onrequest",
+        "successText"
+    ],
+    "content": {
+        "key": "checkout.pages.booking.onrequest.successText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen."
+            },
+            "de-AT": {
+                "singular": "Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen."
+            },
+            "de-CH": {
+                "singular": "Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen."
+            },
+            "de-DE": {
+                "singular": "Wir werden uns so schnell wie möglich mit Ihnen in Verbindung setzen."
+            },
+            "en": {
+                "singular": "We will contact you as soon as possible."
+            },
+            "en-AU": {
+                "singular": "We will contact you as soon as possible."
+            },
+            "en-CA": {
+                "singular": "We will contact you as soon as possible."
+            },
+            "en-GB": {
+                "singular": "We will contact you as soon as possible."
+            },
+            "en-IE": {
+                "singular": "We will contact you as soon as possible."
+            },
+            "en-US": {
+                "singular": "We will contact you as soon as possible."
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

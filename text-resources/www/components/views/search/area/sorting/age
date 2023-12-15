@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.area.sorting.age",
+    "name": "age",
+    "path": "text-resources/www/components/views/search/area/sorting/age",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/area/sorting/age",
+    "slug": "age",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "area",
+        "sorting",
+        "age"
+    ],
+    "content": {
+        "key": "www.components.views.search.area.sorting.age",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Od nejnovějšího"
+            },
+            "da": {
+                "singular": "Nyeste først"
+            },
+            "de": {
+                "singular": "Neueste zuerst"
+            },
+            "de-AT": {
+                "singular": "Neueste zuerst"
+            },
+            "de-CH": {
+                "singular": "Neueste zuerst"
+            },
+            "de-DE": {
+                "singular": "Neueste zuerst"
+            },
+            "en": {
+                "singular": "Newest first"
+            },
+            "en-AU": {
+                "singular": "Newest first"
+            },
+            "en-CA": {
+                "singular": "Newest first"
+            },
+            "en-GB": {
+                "singular": "Newest first"
+            },
+            "en-IE": {
+                "singular": "Newest first"
+            },
+            "en-US": {
+                "singular": "Newest first"
+            },
+            "es": {
+                "singular": "Lo más nuevo primero"
+            },
+            "fi": {
+                "singular": "Uusin ensin"
+            },
+            "fi-EE": {
+                "singular": "Uusin ensin"
+            },
+            "fi-FI": {
+                "singular": "Uusin ensin"
+            },
+            "fr": {
+                "singular": "Ajoutées récemment"
+            },
+            "fr-BE": {
+                "singular": "Ajoutées récemment"
+            },
+            "fr-CA": {
+                "singular": "Ajoutées récemment"
+            },
+            "fr-CH": {
+                "singular": "Ajoutées récemment"
+            },
+            "fr-FR": {
+                "singular": "Ajoutées récemment"
+            },
+            "hr": {
+                "singular": "Od najnovijeg"
+            },
+            "it": {
+                "singular": "I più recenti"
+            },
+            "it-CH": {
+                "singular": "I più recenti"
+            },
+            "it-IT": {
+                "singular": "I più recenti"
+            },
+            "nl": {
+                "singular": "Nieuwste eerst"
+            },
+            "nl-BE": {
+                "singular": "Nieuwste eerst"
+            },
+            "nl-NL": {
+                "singular": "Nieuwste eerst"
+            },
+            "no": {
+                "singular": "Nyeste først"
+            },
+            "pl": {
+                "singular": "Od najnowszych "
+            },
+            "pt": {
+                "singular": "Os mais novos primeiro"
+            },
+            "ru": {
+                "singular": "Сначала новые"
+            },
+            "sv": {
+                "singular": "Nyaste först"
+            }
+        }
+    }
+}

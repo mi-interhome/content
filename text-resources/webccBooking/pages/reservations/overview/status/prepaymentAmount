@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.status.prepaymentAmount",
+    "name": "prepaymentAmount",
+    "path": "text-resources/webccBooking/pages/reservations/overview/status/prepaymentAmount",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/status/prepaymentAmount",
+    "slug": "prepaymentAmount",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "status",
+        "prepaymentAmount"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.status.prepaymentAmount",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Výše zálohy"
+            },
+            "da": {
+                "singular": "Beløb for første rate"
+            },
+            "de": {
+                "singular": "Anzahlungsbetrag"
+            },
+            "de-AT": {
+                "singular": "Anzahlungsbetrag"
+            },
+            "de-CH": {
+                "singular": "Anzahlungsbetrag"
+            },
+            "de-DE": {
+                "singular": "Anzahlungsbetrag"
+            },
+            "en": {
+                "singular": "Down payment amount"
+            },
+            "en-AU": {
+                "singular": "Down payment amount"
+            },
+            "en-CA": {
+                "singular": "Down payment amount"
+            },
+            "en-GB": {
+                "singular": "Down payment amount"
+            },
+            "en-IE": {
+                "singular": "Down payment amount"
+            },
+            "en-US": {
+                "singular": "Down payment amount"
+            },
+            "es": {
+                "singular": "Importe del pago inicial"
+            },
+            "fi": {
+                "singular": "Loppumaksun summa"
+            },
+            "fi-EE": {
+                "singular": "Loppumaksun summa"
+            },
+            "fi-FI": {
+                "singular": "Loppumaksun summa"
+            },
+            "fr": {
+                "singular": "Montant de l'acompte"
+            },
+            "fr-BE": {
+                "singular": "Montant de l'acompte"
+            },
+            "fr-CA": {
+                "singular": "Montant de l'acompte"
+            },
+            "fr-CH": {
+                "singular": "Montant de l'acompte"
+            },
+            "fr-FR": {
+                "singular": "Montant de l'acompte"
+            },
+            "hr": {
+                "singular": "Iznos akontacije"
+            },
+            "it": {
+                "singular": "Importo dell'acconto"
+            },
+            "it-CH": {
+                "singular": "Importo dell'acconto"
+            },
+            "it-IT": {
+                "singular": "Importo dell'acconto"
+            },
+            "nl": {
+                "singular": "Aanbetalingsbedrag"
+            },
+            "nl-BE": {
+                "singular": "Aanbetalingsbedrag"
+            },
+            "nl-NL": {
+                "singular": "Aanbetalingsbedrag"
+            },
+            "no": {
+                "singular": "Forskuddsbetaling beløp"
+            },
+            "pl": {
+                "singular": "Zaliczka "
+            },
+            "pt": {
+                "singular": "Valor do pagamento inicial"
+            },
+            "ru": {
+                "singular": "Сумма первоначального платежа"
+            },
+            "sv": {
+                "singular": "Anmälningsavgift"
+            }
+        }
+    }
+}

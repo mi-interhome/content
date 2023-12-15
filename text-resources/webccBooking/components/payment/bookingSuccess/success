@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.payment.bookingSuccess.success",
+    "name": "success",
+    "path": "text-resources/webccBooking/components/payment/bookingSuccess/success",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/payment/bookingSuccess/success",
+    "slug": "success",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "payment",
+        "bookingSuccess",
+        "success"
+    ],
+    "content": {
+        "key": "webccBooking.components.payment.bookingSuccess.success",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše rezervace byla nyní uložena a je u nás evidována pod rezervačním číslem {reservationnr}"
+            },
+            "da": {
+                "singular": "Din reservation er blevet gemt og registreret hos os under bookingnummer {reservationnr}"
+            },
+            "de": {
+                "singular": "Ihre Reservierung ist jetzt definitiv gebucht und ist bei uns unter der Buchungsnummer {reservationnr} gespeichert"
+            },
+            "de-AT": {
+                "singular": "Ihre Reservierung ist jetzt definitiv gebucht und ist bei uns unter der Buchungsnummer {reservationnr} gespeichert"
+            },
+            "de-CH": {
+                "singular": "Ihre Reservierung ist jetzt definitiv gebucht und ist bei uns unter der Buchungsnummer {reservationnr} gespeichert"
+            },
+            "de-DE": {
+                "singular": "Ihre Reservierung ist jetzt definitiv gebucht und ist bei uns unter der Buchungsnummer {reservationnr} gespeichert"
+            },
+            "en": {
+                "singular": "Your reservation has been made with the booking number {reservationnr}"
+            },
+            "en-AU": {
+                "singular": "Your reservation has been made with the booking number {reservationnr}"
+            },
+            "en-CA": {
+                "singular": "Your reservation has been made with the booking number {reservationnr}"
+            },
+            "en-GB": {
+                "singular": "Your reservation has been made with the booking number {reservationnr}"
+            },
+            "en-IE": {
+                "singular": "Your reservation has been made with the booking number {reservationnr}"
+            },
+            "en-US": {
+                "singular": "Your reservation has been made with the booking number {reservationnr}"
+            },
+            "es": {
+                "singular": "Su reserva se ha registrado correctamente en nuestro sistema con el siguiente n\u0026uacute;mero de reserva {reservationnr}"
+            },
+            "fi": {
+                "singular": "Varauksesi on rekisteröity varausnumerolle {reservationnr}"
+            },
+            "fi-EE": {
+                "singular": "Varauksesi on vastaanotettu varausnumerolla {reservationnr}"
+            },
+            "fi-FI": {
+                "singular": "Varauksesi on rekisteröity varausnumerolle {reservationnr}"
+            },
+            "fr": {
+                "singular": "Votre réservation est enregistrée dans notre système avec le numéro {reservationnr}"
+            },
+            "fr-BE": {
+                "singular": "Votre réservation est enregistrée dans notre système avec le numéro {reservationnr}"
+            },
+            "fr-CA": {
+                "singular": "Votre réservation est enregistrée dans notre système avec le numéro {reservationnr}"
+            },
+            "fr-CH": {
+                "singular": "Votre réservation est enregistrée dans notre système avec le numéro {reservationnr}"
+            },
+            "fr-FR": {
+                "singular": "Votre réservation est enregistrée dans notre système avec le numéro {reservationnr}"
+            },
+            "hr": {
+                "singular": "Vaša rezervacija je potvrđena i registrirana u našem sustavu pod brojem {reservationnr}"
+            },
+            "it": {
+                "singular": "La tua prenotazione è confermata ed è registrata nei nostri sistemi con il codice {reservationnr}"
+            },
+            "it-CH": {
+                "singular": "La tua prenotazione è confermata ed è registrata nei nostri sistemi con il codice {reservationnr}"
+            },
+            "it-IT": {
+                "singular": "La tua prenotazione è confermata ed è registrata nei nostri sistemi con il codice {reservationnr}"
+            },
+            "nl": {
+                "singular": "Uw boeking is nu definitief en is geregistreerd onder reserveringsnummer {reservationnr}"
+            },
+            "nl-BE": {
+                "singular": "Uw boeking is nu definitief en is geregistreerd onder reserveringsnummer {reservationnr}"
+            },
+            "nl-NL": {
+                "singular": "Uw boeking is nu definitief en is geregistreerd onder reserveringsnummer {reservationnr}"
+            },
+            "no": {
+                "singular": "Din reservasjon er nå lagret og registrert på bookingsnummer {reservationnr}"
+            },
+            "pl": {
+                "singular": "Potwierdzamy Państwa rezerwację o numerze {reservationnr}"
+            },
+            "pt": {
+                "singular": "Sua reserva foi gravada e ficou registada com o seguinte número de reserva {reservationnr}"
+            },
+            "ru": {
+                "singular": "Ваш заказ сохранен. Номер Вашего бронирования {reservationnr}"
+            },
+            "sv": {
+                "singular": "Din reservation är nu sparad och registrerad på bokningsnummer {reservationnr}"
+            }
+        }
+    }
+}

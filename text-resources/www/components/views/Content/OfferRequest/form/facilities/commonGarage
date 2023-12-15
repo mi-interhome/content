@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.facilities.commonGarage",
+    "name": "commonGarage",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/facilities/commonGarage",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/facilities/commonGarage",
+    "slug": "commonGarage",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "facilities",
+        "commonGarage"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.facilities.commonGarage",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Obecní garáž"
+            },
+            "da": {
+                "singular": "Offentlig garage"
+            },
+            "de": {
+                "singular": "Gemeinschaftsgarage"
+            },
+            "de-AT": {
+                "singular": "Gemeinschaftsgarage"
+            },
+            "de-CH": {
+                "singular": "Gemeinschaftsgarage"
+            },
+            "de-DE": {
+                "singular": "Gemeinschaftsgarage"
+            },
+            "en": {
+                "singular": "Community garage"
+            },
+            "en-AU": {
+                "singular": "Community garage"
+            },
+            "en-CA": {
+                "singular": "Community garage"
+            },
+            "en-GB": {
+                "singular": "Community garage"
+            },
+            "en-IE": {
+                "singular": "Community garage"
+            },
+            "en-US": {
+                "singular": "Community garage"
+            },
+            "es": {
+                "singular": "Garaje comunitario"
+            },
+            "fi": {
+                "singular": "Autotallipaikka"
+            },
+            "fi-EE": {
+                "singular": "Autotallipaikka"
+            },
+            "fi-FI": {
+                "singular": "Autotallipaikka"
+            },
+            "fr": {
+                "singular": "Garage en commun"
+            },
+            "fr-BE": {
+                "singular": "Garage en commun"
+            },
+            "fr-CA": {
+                "singular": "Garage en commun"
+            },
+            "fr-CH": {
+                "singular": "Garage en commun"
+            },
+            "fr-FR": {
+                "singular": "Garage en commun"
+            },
+            "hr": {
+                "singular": "Javna garaža"
+            },
+            "it": {
+                "singular": "Garage in comune"
+            },
+            "it-CH": {
+                "singular": "Garage in comune"
+            },
+            "it-IT": {
+                "singular": "Garage in comune"
+            },
+            "nl": {
+                "singular": "Gemeenschappelijke garage"
+            },
+            "nl-BE": {
+                "singular": "Gemeenschappelijke garage"
+            },
+            "nl-NL": {
+                "singular": "Gemeenschappelijke garage"
+            },
+            "no": {
+                "singular": "Offentlig garasje"
+            },
+            "pl": {
+                "singular": "Garaż do wspólnego użytku"
+            },
+            "pt": {
+                "singular": "Garagem comunitária"
+            },
+            "ru": {
+                "singular": "Общий гараж"
+            },
+            "sv": {
+                "singular": "Offentlig garage "
+            }
+        }
+    }
+}

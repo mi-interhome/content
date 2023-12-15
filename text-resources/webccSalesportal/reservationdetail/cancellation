@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.cancellation",
+    "name": "cancellation",
+    "path": "text-resources/webccSalesportal/reservationdetail/cancellation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/cancellation",
+    "slug": "cancellation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "cancellation"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.cancellation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Storno"
+            },
+            "da": {
+                "singular": "Aflysninger"
+            },
+            "de": {
+                "singular": "Stornierungen"
+            },
+            "de-AT": {
+                "singular": "Stornierungen"
+            },
+            "de-CH": {
+                "singular": "Stornierungen"
+            },
+            "de-DE": {
+                "singular": "Stornierungen"
+            },
+            "en": {
+                "singular": "Cancellations"
+            },
+            "en-AU": {
+                "singular": "Cancellations"
+            },
+            "en-CA": {
+                "singular": "Cancellations"
+            },
+            "en-GB": {
+                "singular": "Cancellations"
+            },
+            "en-IE": {
+                "singular": "Cancellations"
+            },
+            "en-US": {
+                "singular": "Cancellations"
+            },
+            "es": {
+                "singular": "Cancelación"
+            },
+            "fi": {
+                "singular": "Peruutukset"
+            },
+            "fi-EE": {
+                "singular": "Peruutukset"
+            },
+            "fi-FI": {
+                "singular": "Peruutukset"
+            },
+            "fr": {
+                "singular": "Annulations"
+            },
+            "fr-BE": {
+                "singular": "Annulation"
+            },
+            "fr-CA": {
+                "singular": "Annulations"
+            },
+            "fr-CH": {
+                "singular": "Annulations"
+            },
+            "fr-FR": {
+                "singular": "Annulations"
+            },
+            "hr": {
+                "singular": "Storno"
+            },
+            "it": {
+                "singular": "Cancellazione"
+            },
+            "it-CH": {
+                "singular": "Cancellazione"
+            },
+            "it-IT": {
+                "singular": "Cancellazione"
+            },
+            "nl": {
+                "singular": "Annuleringen"
+            },
+            "nl-BE": {
+                "singular": "Annuleringen"
+            },
+            "nl-NL": {
+                "singular": "Annuleringen"
+            },
+            "no": {
+                "singular": "Kanselleringer"
+            },
+            "pl": {
+                "singular": "Anulacja"
+            },
+            "pt": {
+                "singular": "Cancelamento"
+            },
+            "ru": {
+                "singular": "Аннуляции"
+            },
+            "sv": {
+                "singular": "Avbokning"
+            }
+        }
+    }
+}

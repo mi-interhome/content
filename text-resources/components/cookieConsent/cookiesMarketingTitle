@@ -1,0 +1,124 @@
+{
+    "id": "components.cookieConsent.cookiesMarketingTitle",
+    "name": "cookiesMarketingTitle",
+    "path": "text-resources/components/cookieConsent/cookiesMarketingTitle",
+    "folder": "text-resources",
+    "full_slug": "components/cookieConsent/cookiesMarketingTitle",
+    "slug": "cookiesMarketingTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "cookieConsent",
+        "cookiesMarketingTitle"
+    ],
+    "content": {
+        "key": "components.cookieConsent.cookiesMarketingTitle",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Marketingové cookies"
+            },
+            "da": {
+                "singular": "Marketing cookies"
+            },
+            "de": {
+                "singular": "Marketing Cookies"
+            },
+            "de-AT": {
+                "singular": "Marketing Cookies"
+            },
+            "de-CH": {
+                "singular": "Marketing Cookies"
+            },
+            "de-DE": {
+                "singular": "Marketing Cookies"
+            },
+            "en": {
+                "singular": "Marketing cookies"
+            },
+            "en-AU": {
+                "singular": "Marketing cookies"
+            },
+            "en-CA": {
+                "singular": "Marketing cookies"
+            },
+            "en-GB": {
+                "singular": "Marketing cookies"
+            },
+            "en-IE": {
+                "singular": "Marketing cookies"
+            },
+            "en-US": {
+                "singular": "Marketing cookies"
+            },
+            "es": {
+                "singular": "Cookies de Marketing "
+            },
+            "fi": {
+                "singular": "Markkinointievästeet"
+            },
+            "fi-EE": {
+                "singular": "Markkinointievästeet"
+            },
+            "fi-FI": {
+                "singular": "Markkinointievästeet"
+            },
+            "fr": {
+                "singular": "Cookies marketing"
+            },
+            "fr-BE": {
+                "singular": "Cookies marketing"
+            },
+            "fr-CA": {
+                "singular": "Cookies marketing"
+            },
+            "fr-CH": {
+                "singular": "Cookies marketing"
+            },
+            "fr-FR": {
+                "singular": "Cookies marketing"
+            },
+            "hr": {
+                "singular": "Marketinški kolačići"
+            },
+            "it": {
+                "singular": "Cookie di marketing"
+            },
+            "it-CH": {
+                "singular": "Cookie di marketing"
+            },
+            "it-IT": {
+                "singular": "Cookie di marketing"
+            },
+            "nl": {
+                "singular": "Marketing cookies"
+            },
+            "nl-BE": {
+                "singular": "Marketing cookies"
+            },
+            "nl-NL": {
+                "singular": "Marketing cookies"
+            },
+            "no": {
+                "singular": "Markedsføring av informasjonskapsler"
+            },
+            "pl": {
+                "singular": "Marketingowe pliki cookies"
+            },
+            "pt": {
+                "singular": "Cookies de marketing"
+            },
+            "ru": {
+                "singular": "Маркетинговые файлы cookie"
+            },
+            "sv": {
+                "singular": "Marknadsföring av cookies"
+            }
+        }
+    }
+}

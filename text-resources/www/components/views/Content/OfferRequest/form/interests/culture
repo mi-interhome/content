@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.interests.culture",
+    "name": "culture",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/interests/culture",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/interests/culture",
+    "slug": "culture",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "interests",
+        "culture"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.interests.culture",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Kultura, památky"
+            },
+            "da": {
+                "singular": "Kultur (Museer, historiske seværdigheder m.v.)"
+            },
+            "de": {
+                "singular": "Kultur (Museen, Sehenswürdigkeiten)"
+            },
+            "de-AT": {
+                "singular": "Kultur (Museen, Sehenswürdigkeiten)"
+            },
+            "de-CH": {
+                "singular": "Kultur (Museen, Sehenswürdigkeiten)"
+            },
+            "de-DE": {
+                "singular": "Kultur (Museen, Sehenswürdigkeiten)"
+            },
+            "en": {
+                "singular": "Culture (Museums, historic sites etc.)"
+            },
+            "en-AU": {
+                "singular": "Culture (Museums, historic sites etc.)"
+            },
+            "en-CA": {
+                "singular": "Culture (Museums, historic sites etc.)"
+            },
+            "en-GB": {
+                "singular": "Culture (Museums, historic sites etc.)"
+            },
+            "en-IE": {
+                "singular": "Culture (Museums, historic sites etc.)"
+            },
+            "en-US": {
+                "singular": "Culture (Museums, historic sites etc.)"
+            },
+            "es": {
+                "singular": "Cultura (Museos, arqueologia etc.)"
+            },
+            "fi": {
+                "singular": "Kulttuuri (museot, historia yms.)"
+            },
+            "fi-EE": {
+                "singular": "Kulttuuri (museot, historia yms.)"
+            },
+            "fi-FI": {
+                "singular": "Kulttuuri (museot, historia yms.)"
+            },
+            "fr": {
+                "singular": "Culture (musées, archéologie etc.)"
+            },
+            "fr-BE": {
+                "singular": "Culture (musées, archéologie etc.)"
+            },
+            "fr-CA": {
+                "singular": "Culture (musées, archéologie etc.)"
+            },
+            "fr-CH": {
+                "singular": "Culture (musées, archéologie etc.)"
+            },
+            "fr-FR": {
+                "singular": "Culture (musées, archéologie etc.)"
+            },
+            "hr": {
+                "singular": "Kultura (muzeji, povijesne znamenitosti itd.)"
+            },
+            "it": {
+                "singular": "Cultura (Musei, archeologia ecc)"
+            },
+            "it-CH": {
+                "singular": "Cultura (Musei, archeologia ecc)"
+            },
+            "it-IT": {
+                "singular": "Cultura (musei, archeologia, ecc)"
+            },
+            "nl": {
+                "singular": "Cultuur (musea, archeologie, enz.)"
+            },
+            "nl-BE": {
+                "singular": "Cultuur (musea, archeologie, enz.)"
+            },
+            "nl-NL": {
+                "singular": "Cultuur (musea, archeologie, enz.)"
+            },
+            "no": {
+                "singular": "Kultur (museer, historiske steder etc.)"
+            },
+            "pl": {
+                "singular": "Kultura (muzea, zabytki godne uwagi)"
+            },
+            "pt": {
+                "singular": "Cultura (museus, sítios históricos, etc)"
+            },
+            "ru": {
+                "singular": "Культура (музеи, исторические достопримечательности и т.д.)"
+            },
+            "sv": {
+                "singular": "Kultur (Museum, historiska sevärdheter osv.)"
+            }
+        }
+    }
+}

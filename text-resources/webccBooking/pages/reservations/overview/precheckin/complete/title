@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.pages.reservations.overview.precheckin.complete.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/pages/reservations/overview/precheckin/complete/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/precheckin/complete/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "precheckin",
+        "complete",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.precheckin.complete.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Povinná informace"
+            },
+            "da": {
+                "singular": "Obligatorisk information"
+            },
+            "de": {
+                "singular": "Erforderliche Informationen"
+            },
+            "de-AT": {
+                "singular": "Erforderliche Informationen"
+            },
+            "de-CH": {
+                "singular": "Erforderliche Informationen"
+            },
+            "de-DE": {
+                "singular": "Erforderliche Informationen"
+            },
+            "en": {
+                "singular": "Required Information"
+            },
+            "en-AU": {
+                "singular": "Required Information"
+            },
+            "en-CA": {
+                "singular": "Required Information"
+            },
+            "en-GB": {
+                "singular": "Required Information"
+            },
+            "en-IE": {
+                "singular": "Required Information"
+            },
+            "en-US": {
+                "singular": "Required Information"
+            },
+            "es": {
+                "singular": "Información requerida"
+            },
+            "fi": {
+                "singular": "Vaaditut tiedot"
+            },
+            "fi-EE": {
+                "singular": "Vaaditut tiedot"
+            },
+            "fi-FI": {
+                "singular": "Vaaditut tiedot"
+            },
+            "fr": {
+                "singular": "Information requise"
+            },
+            "fr-BE": {
+                "singular": "Information requise"
+            },
+            "fr-CA": {
+                "singular": "Information requise"
+            },
+            "fr-CH": {
+                "singular": "Information requise"
+            },
+            "fr-FR": {
+                "singular": "Information requise"
+            },
+            "hr": {
+                "singular": "Potrebne informacije"
+            },
+            "it": {
+                "singular": "Informazioni richieste"
+            },
+            "it-CH": {
+                "singular": "Informazioni richieste"
+            },
+            "it-IT": {
+                "singular": "Informazioni richieste"
+            },
+            "nl": {
+                "singular": "Benodigde informatie"
+            },
+            "nl-BE": {
+                "singular": "Benodigde informatie"
+            },
+            "nl-NL": {
+                "singular": "Benodigde informatie"
+            },
+            "no": {
+                "singular": "Nødvendig informasjon"
+            },
+            "pl": {
+                "singular": "Wymagane informacje"
+            },
+            "pt": {
+                "singular": "Informações obrigatórias"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "obligatorisk information"
+            }
+        }
+    }
+}

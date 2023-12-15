@@ -1,0 +1,126 @@
+{
+    "id": "www.components.views.PageDetails.bookmarkDel",
+    "name": "bookmarkDel",
+    "path": "text-resources/www/components/views/PageDetails/bookmarkDel",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/PageDetails/bookmarkDel",
+    "slug": "bookmarkDel",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "PageDetails",
+        "bookmarkDel"
+    ],
+    "content": {
+        "key": "www.components.views.PageDetails.bookmarkDel",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "V oblíbených"
+            },
+            "da": {
+                "singular": "bemærkede"
+            },
+            "de": {
+                "singular": "Gemerkt"
+            },
+            "de-AT": {
+                "singular": "gemerkt"
+            },
+            "de-CH": {
+                "singular": "Gemerkt"
+            },
+            "de-DE": {
+                "singular": "Gemerkt"
+            },
+            "en": {
+                "singular": "noted"
+            },
+            "en-AU": {
+                "singular": "noted"
+            },
+            "en-CA": {
+                "singular": "noted"
+            },
+            "en-GB": {
+                "singular": "noted"
+            },
+            "en-IE": {
+                "singular": "noted"
+            },
+            "en-US": {
+                "singular": "noted"
+            },
+            "es": {
+                "singular": "Seleccionado"
+            },
+            "fi": {
+                "singular": "huomioitu"
+            },
+            "fi-EE": {
+                "singular": "merkitty"
+            },
+            "fi-FI": {
+                "singular": "huomioitu"
+            },
+            "fr": {
+                "singular": "Déjà ajoutée"
+            },
+            "fr-BE": {
+                "singular": "Déjà ajoutée"
+            },
+            "fr-CA": {
+                "singular": "Déjà ajoutée"
+            },
+            "fr-CH": {
+                "singular": "Déjà ajoutée"
+            },
+            "fr-FR": {
+                "singular": "Déjà ajoutée"
+            },
+            "hr": {
+                "singular": "zabilježeno"
+            },
+            "it": {
+                "singular": "aggiunto"
+            },
+            "it-CH": {
+                "singular": "aggiunto"
+            },
+            "it-IT": {
+                "singular": "Aggiunta ai Preferiti"
+            },
+            "nl": {
+                "singular": "Verwijderen "
+            },
+            "nl-BE": {
+                "singular": "Verwijderen "
+            },
+            "nl-NL": {
+                "singular": "Verwijderen "
+            },
+            "no": {
+                "singular": "bemerket"
+            },
+            "pl": {
+                "singular": "dodane"
+            },
+            "pt": {
+                "singular": "notado"
+            },
+            "ru": {
+                "singular": "добавленный"
+            },
+            "sv": {
+                "singular": "noterat"
+            }
+        }
+    }
+}

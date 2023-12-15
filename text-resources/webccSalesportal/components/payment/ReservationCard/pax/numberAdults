@@ -1,0 +1,193 @@
+{
+    "id": "webccSalesportal.components.payment.ReservationCard.pax.numberAdults",
+    "name": "numberAdults",
+    "path": "text-resources/webccSalesportal/components/payment/ReservationCard/pax/numberAdults",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/components/payment/ReservationCard/pax/numberAdults",
+    "slug": "numberAdults",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "components",
+        "payment",
+        "ReservationCard",
+        "pax",
+        "numberAdults"
+    ],
+    "content": {
+        "key": "webccSalesportal.components.payment.ReservationCard.pax.numberAdults",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "žádné dospělé osoby",
+                "singular": "jedna dospělá osoba",
+                "plural": "dospělé osoby: {count}"
+            },
+            "da": {
+                "zero": "ingen voksne",
+                "singular": "en voksen",
+                "plural": "{count} voksne"
+            },
+            "de": {
+                "zero": "keine Erwachsenen",
+                "singular": "ein Erwachsener",
+                "plural": "{count} Erwachsene"
+            },
+            "de-AT": {
+                "zero": "keine Erwachsenen",
+                "singular": "ein Erwachsener",
+                "plural": "{count} Erwachsene"
+            },
+            "de-CH": {
+                "zero": "keine Erwachsenen",
+                "singular": "ein Erwachsener",
+                "plural": "{count} Erwachsene"
+            },
+            "de-DE": {
+                "zero": "keine Erwachsenen",
+                "singular": "ein Erwachsener",
+                "plural": "{count} Erwachsene"
+            },
+            "en": {
+                "zero": "no adults",
+                "singular": "one adult",
+                "plural": "{count} adults"
+            },
+            "en-AU": {
+                "zero": "no adults",
+                "singular": "one adult",
+                "plural": "{count} adults"
+            },
+            "en-CA": {
+                "zero": "no adults",
+                "singular": "one adult",
+                "plural": "{count} adults"
+            },
+            "en-GB": {
+                "zero": "no adults",
+                "singular": "one adult",
+                "plural": "{count} adults"
+            },
+            "en-IE": {
+                "zero": "no adults",
+                "singular": "one adult",
+                "plural": "{count} adults"
+            },
+            "en-US": {
+                "zero": "no adults",
+                "singular": "one adult",
+                "plural": "{count} adults"
+            },
+            "es": {
+                "zero": "ningún adulto",
+                "singular": "un adulto",
+                "plural": "{count} adultos"
+            },
+            "fi": {
+                "zero": "ei aikuisia",
+                "singular": "yksi aikuinen",
+                "plural": "{count} aikuista"
+            },
+            "fi-EE": {
+                "zero": "ei aikuisia",
+                "singular": "yksi aikuinen",
+                "plural": "{count} aikuista"
+            },
+            "fi-FI": {
+                "zero": "ei aikuisia",
+                "singular": "yksi aikuinen",
+                "plural": "{count} aikuista"
+            },
+            "fr": {
+                "zero": "pas d'adultes",
+                "singular": "un adulte",
+                "plural": "{count} adultes"
+            },
+            "fr-BE": {
+                "zero": "pas d'adultes",
+                "singular": "un adulte",
+                "plural": "{count} adultes"
+            },
+            "fr-CA": {
+                "zero": "pas d'adultes",
+                "singular": "un adulte",
+                "plural": "{count} adultes"
+            },
+            "fr-CH": {
+                "zero": "pas d'adultes",
+                "singular": "un adulte",
+                "plural": "{count} adultes"
+            },
+            "fr-FR": {
+                "zero": "pas d'adultes",
+                "singular": "un adulte",
+                "plural": "{count} adultes"
+            },
+            "hr": {
+                "zero": "nema odraslih",
+                "singular": "jedna odrasla osoba",
+                "plural": "{count} odraslih"
+            },
+            "it": {
+                "zero": "nessun adulto",
+                "singular": "un adulto",
+                "plural": "{count} adulti"
+            },
+            "it-CH": {
+                "zero": "nessun adulto",
+                "singular": "un adulto",
+                "plural": "{count} adulti"
+            },
+            "it-IT": {
+                "zero": "nessun adulto",
+                "singular": "un adulto",
+                "plural": "{count} adulti"
+            },
+            "nl": {
+                "zero": "geen volwassenen",
+                "singular": "één volwassene",
+                "plural": "{count} volwassenen"
+            },
+            "nl-BE": {
+                "zero": "geen volwassenen",
+                "singular": "één volwassene",
+                "plural": "{count} volwassenen"
+            },
+            "nl-NL": {
+                "zero": "geen volwassenen",
+                "singular": "één volwassene",
+                "plural": "{count} volwassenen"
+            },
+            "no": {
+                "zero": "ingen voksne",
+                "singular": "én voksen",
+                "plural": "{count} voksne"
+            },
+            "pl": {
+                "zero": "Brak osób dorosłych",
+                "singular": "jedna osoba dorosła",
+                "plural": "{count} dorosłych"
+            },
+            "pt": {
+                "zero": "nenhum adulto",
+                "singular": "um adulto",
+                "plural": "{count} adultos"
+            },
+            "ru": {
+                "zero": "нет взрослых",
+                "singular": "один взрослый",
+                "plural": "{count} взрослых"
+            },
+            "sv": {
+                "zero": "inga vuxna",
+                "singular": "en vuxen",
+                "plural": "{count} vuxna"
+            }
+        }
+    }
+}

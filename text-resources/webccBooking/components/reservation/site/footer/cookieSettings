@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.site.footer.cookieSettings",
+    "name": "cookieSettings",
+    "path": "text-resources/webccBooking/components/reservation/site/footer/cookieSettings",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/site/footer/cookieSettings",
+    "slug": "cookieSettings",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "site",
+        "footer",
+        "cookieSettings"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.site.footer.cookieSettings",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nastavení souborů cookie"
+            },
+            "da": {
+                "singular": "Cookie indstillinger"
+            },
+            "de": {
+                "singular": "Cookie Einstellungen"
+            },
+            "de-AT": {
+                "singular": "Cookie Einstellungen"
+            },
+            "de-CH": {
+                "singular": "Cookie Einstellungen"
+            },
+            "de-DE": {
+                "singular": "Cookie Einstellungen"
+            },
+            "en": {
+                "singular": "Cookie Settings"
+            },
+            "en-AU": {
+                "singular": "Cookie Settings"
+            },
+            "en-CA": {
+                "singular": "Cookie Settings"
+            },
+            "en-GB": {
+                "singular": "Cookie Settings"
+            },
+            "en-IE": {
+                "singular": "Cookie Settings"
+            },
+            "en-US": {
+                "singular": "Cookie Settings"
+            },
+            "es": {
+                "singular": "Configuración de las cookies"
+            },
+            "fi": {
+                "singular": "Evästeasetukset"
+            },
+            "fi-EE": {
+                "singular": "Evästeasetukset"
+            },
+            "fi-FI": {
+                "singular": "Evästeasetukset"
+            },
+            "fr": {
+                "singular": "Gestion des cookies"
+            },
+            "fr-BE": {
+                "singular": "Gestion des cookies"
+            },
+            "fr-CA": {
+                "singular": "Gestion des cookies"
+            },
+            "fr-CH": {
+                "singular": "Gestion des cookies"
+            },
+            "fr-FR": {
+                "singular": "Gestion des cookies"
+            },
+            "hr": {
+                "singular": "Postavke kolačića"
+            },
+            "it": {
+                "singular": "Impostazione dei cookie"
+            },
+            "it-CH": {
+                "singular": "Impostazione dei cookie"
+            },
+            "it-IT": {
+                "singular": "Impostazione dei cookie"
+            },
+            "nl": {
+                "singular": "Cookie-instellingen"
+            },
+            "nl-BE": {
+                "singular": "Cookie-instellingen"
+            },
+            "nl-NL": {
+                "singular": "Cookie-instellingen"
+            },
+            "no": {
+                "singular": "Innstillinger for informasjonskapsler"
+            },
+            "pl": {
+                "singular": "Ustawienia plików cookies"
+            },
+            "pt": {
+                "singular": "Configurações das cookies"
+            },
+            "ru": {
+                "singular": "Настройки файлов cookie"
+            },
+            "sv": {
+                "singular": "Cookie-inställningar"
+            }
+        }
+    }
+}

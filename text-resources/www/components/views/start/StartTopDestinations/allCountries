@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.start.StartTopDestinations.allCountries",
+    "name": "allCountries",
+    "path": "text-resources/www/components/views/start/StartTopDestinations/allCountries",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/start/StartTopDestinations/allCountries",
+    "slug": "allCountries",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "start",
+        "StartTopDestinations",
+        "allCountries"
+    ],
+    "content": {
+        "key": "www.components.views.start.StartTopDestinations.allCountries",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ukázat všechny destinace"
+            },
+            "da": {
+                "singular": "Vis alle destinationer"
+            },
+            "de": {
+                "singular": "Alle Reiseländer im Überblick"
+            },
+            "de-AT": {
+                "singular": "Alle Reiseländer im Überblick"
+            },
+            "de-CH": {
+                "singular": "Alle Reiseländer im Überblick"
+            },
+            "de-DE": {
+                "singular": "Alle Reiseländer im Überblick"
+            },
+            "en": {
+                "singular": "Show all destinations"
+            },
+            "en-AU": {
+                "singular": "Show all destinations"
+            },
+            "en-CA": {
+                "singular": "Show all destinations"
+            },
+            "en-GB": {
+                "singular": "Show all destinations"
+            },
+            "en-IE": {
+                "singular": "Show all destinations"
+            },
+            "en-US": {
+                "singular": "Show all destinations"
+            },
+            "es": {
+                "singular": "Todos los destinos"
+            },
+            "fi": {
+                "singular": "Näytä kaikki lomakohteet"
+            },
+            "fi-EE": {
+                "singular": "Näytä kaikki lomakohteet"
+            },
+            "fi-FI": {
+                "singular": "Näytä kaikki lomakohteet"
+            },
+            "fr": {
+                "singular": "Accéder à toutes les destinations"
+            },
+            "fr-BE": {
+                "singular": "Accéder à toutes les destinations"
+            },
+            "fr-CA": {
+                "singular": "Accéder à toutes les destinations"
+            },
+            "fr-CH": {
+                "singular": "Accéder à toutes les destinations"
+            },
+            "fr-FR": {
+                "singular": "Accéder à toutes les destinations"
+            },
+            "hr": {
+                "singular": "Prikaži sve destinacije"
+            },
+            "it": {
+                "singular": "Tutte le destinazioni"
+            },
+            "it-CH": {
+                "singular": "Tutte le destinazioni"
+            },
+            "it-IT": {
+                "singular": "Tutte le destinazioni"
+            },
+            "nl": {
+                "singular": "Laat alle bestemmingen zien"
+            },
+            "nl-BE": {
+                "singular": "Laat alle bestemmingen zien"
+            },
+            "nl-NL": {
+                "singular": "Laat alle bestemmingen zien"
+            },
+            "no": {
+                "singular": "Vis alle destinasjoner"
+            },
+            "pl": {
+                "singular": "Wszystkie kierunki"
+            },
+            "pt": {
+                "singular": "Mostrar todos os destinos"
+            },
+            "ru": {
+                "singular": "Больше стран"
+            },
+            "sv": {
+                "singular": "Visa alla resmål"
+            }
+        }
+    }
+}

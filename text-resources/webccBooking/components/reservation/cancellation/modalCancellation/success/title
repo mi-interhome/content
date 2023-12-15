@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.success.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/components/reservation/cancellation/modalCancellation/success/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/success/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "success",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.success.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše rezervace byla zrušena"
+            },
+            "da": {
+                "singular": "Din reservation er blevet annulleret"
+            },
+            "de": {
+                "singular": "Ihre Buchung wurde storniert"
+            },
+            "de-AT": {
+                "singular": "Ihre Buchung wurde storniert"
+            },
+            "de-CH": {
+                "singular": "Ihre Buchung wurde storniert"
+            },
+            "de-DE": {
+                "singular": "Ihre Buchung wurde storniert"
+            },
+            "en": {
+                "singular": "Your booking has been cancelled"
+            },
+            "en-AU": {
+                "singular": "Your booking has been cancelled"
+            },
+            "en-CA": {
+                "singular": "Your booking has been cancelled"
+            },
+            "en-GB": {
+                "singular": "Your booking has been cancelled"
+            },
+            "en-IE": {
+                "singular": "Your booking has been cancelled"
+            },
+            "en-US": {
+                "singular": "Your booking has been cancelled"
+            },
+            "es": {
+                "singular": "Su reserva ha sido cancelada"
+            },
+            "fi": {
+                "singular": "Varauksesi on peruutettu"
+            },
+            "fi-EE": {
+                "singular": "Varauksesi on peruutettu"
+            },
+            "fi-FI": {
+                "singular": "Varauksesi on peruutettu"
+            },
+            "fr": {
+                "singular": "Votre réservation a été annulée. "
+            },
+            "fr-BE": {
+                "singular": "Votre réservation a été annulée. "
+            },
+            "fr-CA": {
+                "singular": "Votre réservation a été annulée. "
+            },
+            "fr-CH": {
+                "singular": "Votre réservation a été annulée. "
+            },
+            "fr-FR": {
+                "singular": "Votre réservation a été annulée. "
+            },
+            "hr": {
+                "singular": "Vaša rezervacija je otkazana"
+            },
+            "it": {
+                "singular": "La Sua prenotazione è stata cancellata."
+            },
+            "it-CH": {
+                "singular": "La Sua prenotazione è stata cancellata."
+            },
+            "it-IT": {
+                "singular": "La Sua prenotazione è stata cancellata."
+            },
+            "nl": {
+                "singular": "Uw boeking is geannuleerd"
+            },
+            "nl-BE": {
+                "singular": "Uw boeking is geannuleerd"
+            },
+            "nl-NL": {
+                "singular": "Uw boeking is geannuleerd"
+            },
+            "no": {
+                "singular": "Din bestilling er kansellert"
+            },
+            "pl": {
+                "singular": "Państwa rezerwacja została anulowana."
+            },
+            "pt": {
+                "singular": "A sua reserva foi cancelada"
+            },
+            "ru": {
+                "singular": "Ваше бронирование было отменено"
+            },
+            "sv": {
+                "singular": "Din bokning har avbeställts."
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.booking.nodata",
+    "name": "nodata",
+    "path": "text-resources/webccSalesportal/pages/reports/booking/nodata",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/booking/nodata",
+    "slug": "nodata",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "booking",
+        "nodata"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.booking.nodata",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nenalezena žádná data."
+            },
+            "da": {
+                "singular": "Ingen oplysninger fundet"
+            },
+            "de": {
+                "singular": "Keine Daten gefunden"
+            },
+            "de-AT": {
+                "singular": "Keine Daten gefunden"
+            },
+            "de-CH": {
+                "singular": "Keine Daten gefunden"
+            },
+            "de-DE": {
+                "singular": "Keine Daten gefunden"
+            },
+            "en": {
+                "singular": "No data found."
+            },
+            "en-AU": {
+                "singular": "No data found."
+            },
+            "en-CA": {
+                "singular": "No data found."
+            },
+            "en-GB": {
+                "singular": "No data found."
+            },
+            "en-IE": {
+                "singular": "No data found."
+            },
+            "en-US": {
+                "singular": "No data found."
+            },
+            "es": {
+                "singular": "No hay datos disponibles."
+            },
+            "fi": {
+                "singular": "Tietoja ei löydy."
+            },
+            "fi-EE": {
+                "singular": "Tietoja ei löydy."
+            },
+            "fi-FI": {
+                "singular": "Tietoja ei löydy."
+            },
+            "fr": {
+                "singular": "Aucune donnée trouvée."
+            },
+            "fr-BE": {
+                "singular": "Aucune donnée trouvée."
+            },
+            "fr-CA": {
+                "singular": "Aucune donnée trouvée."
+            },
+            "fr-CH": {
+                "singular": "Aucune donnée trouvée."
+            },
+            "fr-FR": {
+                "singular": "Aucune donnée trouvée."
+            },
+            "hr": {
+                "singular": "Nema podataka."
+            },
+            "it": {
+                "singular": "Nessun risultato trovato"
+            },
+            "it-CH": {
+                "singular": "Nessun risultato trovato"
+            },
+            "it-IT": {
+                "singular": "Nessun risultato trovato"
+            },
+            "nl": {
+                "singular": "Geen gegevens gevonden."
+            },
+            "nl-BE": {
+                "singular": "Geen gegevens gevonden."
+            },
+            "nl-NL": {
+                "singular": "Geen gegevens gevonden."
+            },
+            "no": {
+                "singular": "Ingen informasjon funnet"
+            },
+            "pl": {
+                "singular": "Nie znaleziono rezultatów."
+            },
+            "pt": {
+                "singular": "Nenhum dado encontrado."
+            },
+            "ru": {
+                "singular": "Информация не найдена."
+            },
+            "sv": {
+                "singular": "Ingen information hittades."
+            }
+        }
+    }
+}

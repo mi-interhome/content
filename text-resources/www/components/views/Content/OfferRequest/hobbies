@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.Content.OfferRequest.hobbies",
+    "name": "hobbies",
+    "path": "text-resources/www/components/views/Content/OfferRequest/hobbies",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/hobbies",
+    "slug": "hobbies",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "hobbies"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.hobbies",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Záliby"
+            },
+            "da": {
+                "singular": "Hobbier"
+            },
+            "de": {
+                "singular": "Hobbies"
+            },
+            "de-AT": {
+                "singular": "Hobbies"
+            },
+            "de-CH": {
+                "singular": "Hobbies"
+            },
+            "de-DE": {
+                "singular": "Hobbies"
+            },
+            "en": {
+                "singular": "Hobbies"
+            },
+            "en-AU": {
+                "singular": "Hobbies"
+            },
+            "en-CA": {
+                "singular": "Hobbies"
+            },
+            "en-GB": {
+                "singular": "Hobbies"
+            },
+            "en-IE": {
+                "singular": "Hobbies"
+            },
+            "en-US": {
+                "singular": "Hobbies"
+            },
+            "es": {
+                "singular": "Aficiones"
+            },
+            "fi": {
+                "singular": "Harrastukset"
+            },
+            "fi-EE": {
+                "singular": "Harrastukset"
+            },
+            "fi-FI": {
+                "singular": "Harrastukset"
+            },
+            "fr": {
+                "singular": "Hobbies"
+            },
+            "fr-BE": {
+                "singular": "Hobbies"
+            },
+            "fr-CA": {
+                "singular": "Hobbies"
+            },
+            "fr-CH": {
+                "singular": "Hobbies"
+            },
+            "fr-FR": {
+                "singular": "Hobbies"
+            },
+            "hr": {
+                "singular": "Zanima Vas"
+            },
+            "it": {
+                "singular": "Passatempi"
+            },
+            "it-CH": {
+                "singular": "Passatempi"
+            },
+            "it-IT": {
+                "singular": "Interessi"
+            },
+            "nl": {
+                "singular": "Hobby's"
+            },
+            "nl-BE": {
+                "singular": "Hobby's"
+            },
+            "nl-NL": {
+                "singular": "Hobby's"
+            },
+            "no": {
+                "singular": "Hobbyer"
+            },
+            "pl": {
+                "singular": "Hobby"
+            },
+            "pt": {
+                "singular": "Hobbies"
+            },
+            "ru": {
+                "singular": "Хобби"
+            },
+            "sv": {
+                "singular": "Sportaktiviteter"
+            }
+        }
+    }
+}

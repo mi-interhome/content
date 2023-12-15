@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.total",
+    "name": "total",
+    "path": "text-resources/webccSalesportal/reservationoverview/total",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/total",
+    "slug": "total",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "total"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.total",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Celkem"
+            },
+            "da": {
+                "singular": "Total"
+            },
+            "de": {
+                "singular": "Total"
+            },
+            "de-AT": {
+                "singular": "Total"
+            },
+            "de-CH": {
+                "singular": "Total"
+            },
+            "de-DE": {
+                "singular": "Total"
+            },
+            "en": {
+                "singular": "Total"
+            },
+            "en-AU": {
+                "singular": "Total"
+            },
+            "en-CA": {
+                "singular": "Total"
+            },
+            "en-GB": {
+                "singular": "Total"
+            },
+            "en-IE": {
+                "singular": "Total"
+            },
+            "en-US": {
+                "singular": "Total"
+            },
+            "es": {
+                "singular": "Total"
+            },
+            "fi": {
+                "singular": "Yhteensä"
+            },
+            "fi-EE": {
+                "singular": "Yhteensä"
+            },
+            "fi-FI": {
+                "singular": "Yhteensä"
+            },
+            "fr": {
+                "singular": "Total"
+            },
+            "fr-BE": {
+                "singular": "Total"
+            },
+            "fr-CA": {
+                "singular": "Total"
+            },
+            "fr-CH": {
+                "singular": "Total"
+            },
+            "fr-FR": {
+                "singular": "Total"
+            },
+            "hr": {
+                "singular": "Ukupno"
+            },
+            "it": {
+                "singular": "Totale"
+            },
+            "it-CH": {
+                "singular": "Totale"
+            },
+            "it-IT": {
+                "singular": "Totale"
+            },
+            "nl": {
+                "singular": "Totaal"
+            },
+            "nl-BE": {
+                "singular": "Totaal"
+            },
+            "nl-NL": {
+                "singular": "Totaal"
+            },
+            "no": {
+                "singular": "Total"
+            },
+            "pl": {
+                "singular": "Łącznie"
+            },
+            "pt": {
+                "singular": "Total"
+            },
+            "ru": {
+                "singular": "Всего"
+            },
+            "sv": {
+                "singular": "Total"
+            }
+        }
+    }
+}

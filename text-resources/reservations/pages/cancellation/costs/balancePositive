@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.cancellation.costs.balancePositive",
+    "name": "balancePositive",
+    "path": "text-resources/reservations/pages/cancellation/costs/balancePositive",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/costs/balancePositive",
+    "slug": "balancePositive",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "costs",
+        "balancePositive"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.costs.balancePositive",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "V náš prospěch"
+            },
+            "da": {
+                "singular": "til vores fordel"
+            },
+            "de": {
+                "singular": "zu unseren Gunsten"
+            },
+            "de-AT": {
+                "singular": "zu unseren Gunsten"
+            },
+            "de-CH": {
+                "singular": "zu unseren Gunsten"
+            },
+            "de-DE": {
+                "singular": "zu unseren Gunsten"
+            },
+            "en": {
+                "singular": "in our favour"
+            },
+            "en-AU": {
+                "singular": "in our favour"
+            },
+            "en-CA": {
+                "singular": "in our favour"
+            },
+            "en-GB": {
+                "singular": "in our favour"
+            },
+            "en-IE": {
+                "singular": "in our favour"
+            },
+            "en-US": {
+                "singular": "in our favour"
+            },
+            "es": {
+                "singular": "a nuestro favor"
+            },
+            "fi": {
+                "singular": "hyväksemme"
+            },
+            "fi-EE": {
+                "singular": "hyväksemme"
+            },
+            "fi-FI": {
+                "singular": "hyväksemme"
+            },
+            "fr": {
+                "singular": "En notre faveur"
+            },
+            "fr-BE": {
+                "singular": "En notre faveur"
+            },
+            "fr-CA": {
+                "singular": "En notre faveur"
+            },
+            "fr-CH": {
+                "singular": "En notre faveur"
+            },
+            "fr-FR": {
+                "singular": "En notre faveur"
+            },
+            "hr": {
+                "singular": "u našu korist"
+            },
+            "it": {
+                "singular": "a nostro favore"
+            },
+            "it-CH": {
+                "singular": "a nostro favore"
+            },
+            "it-IT": {
+                "singular": "a nostro favore"
+            },
+            "nl": {
+                "singular": "in ons voordeel"
+            },
+            "nl-BE": {
+                "singular": "in ons voordeel"
+            },
+            "nl-NL": {
+                "singular": "in ons voordeel"
+            },
+            "no": {
+                "singular": "i vår favør"
+            },
+            "pl": {
+                "singular": "dla HHD"
+            },
+            "pt": {
+                "singular": "a nosso favor"
+            },
+            "ru": {
+                "singular": "в нашу пользу"
+            },
+            "sv": {
+                "singular": "i vår favör"
+            }
+        }
+    }
+}

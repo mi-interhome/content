@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.favorites.Actions.sendToFriend",
+    "name": "sendToFriend",
+    "path": "text-resources/www/components/views/favorites/Actions/sendToFriend",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/favorites/Actions/sendToFriend",
+    "slug": "sendToFriend",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "favorites",
+        "Actions",
+        "sendToFriend"
+    ],
+    "content": {
+        "key": "www.components.views.favorites.Actions.sendToFriend",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Poslat osobní katalog přátelům"
+            },
+            "da": {
+                "singular": "Send liste til dine venner"
+            },
+            "de": {
+                "singular": "Merkliste an Freunde senden"
+            },
+            "de-AT": {
+                "singular": "Merkliste an Freunde senden"
+            },
+            "de-CH": {
+                "singular": "Merkliste an Freunde senden"
+            },
+            "de-DE": {
+                "singular": "Merkliste an Freunde senden"
+            },
+            "en": {
+                "singular": "Send favourites to your friends"
+            },
+            "en-AU": {
+                "singular": "Send favourites to your friends"
+            },
+            "en-CA": {
+                "singular": "Send favourites to your friends"
+            },
+            "en-GB": {
+                "singular": "Send favourites to your friends"
+            },
+            "en-IE": {
+                "singular": "Send favourites to your friends"
+            },
+            "en-US": {
+                "singular": "Send favorites to your friends"
+            },
+            "es": {
+                "singular": "Enviar la lista a sus amigos"
+            },
+            "fi": {
+                "singular": "Lähetä suosikkilista ystävillesi"
+            },
+            "fi-EE": {
+                "singular": "Lähetä suosikkilista ystävillesi"
+            },
+            "fi-FI": {
+                "singular": "Lähetä suosikkilista ystävillesi"
+            },
+            "fr": {
+                "singular": "Envoyer ses logements favoris à ses amis"
+            },
+            "fr-BE": {
+                "singular": "Envoyer ses logements favoris à ses amis"
+            },
+            "fr-CA": {
+                "singular": "Envoyer ses logements favoris à ses amis"
+            },
+            "fr-CH": {
+                "singular": "Envoyer ses logements favoris à ses amis"
+            },
+            "fr-FR": {
+                "singular": "Envoyer ses logements favoris à ses amis"
+            },
+            "hr": {
+                "singular": "Pošalji prijateljima moju listu objekata"
+            },
+            "it": {
+                "singular": "Invia agli amici la lista dei tuoi preferiti"
+            },
+            "it-CH": {
+                "singular": "Invia agli amici la lista dei tuoi preferiti"
+            },
+            "it-IT": {
+                "singular": "Invia agli amici la lista dei tuoi Preferiti"
+            },
+            "nl": {
+                "singular": "Stuur mijn favorieten naar mijn vrienden"
+            },
+            "nl-BE": {
+                "singular": "Stuur mijn favorieten naar mijn vrienden"
+            },
+            "nl-NL": {
+                "singular": "Stuur mijn favorieten naar mijn vrienden"
+            },
+            "no": {
+                "singular": "Send listen til dine venner"
+            },
+            "pl": {
+                "singular": "Prześlij katalog do znajomych"
+            },
+            "pt": {
+                "singular": "Envie para sua lista de amigos"
+            },
+            "ru": {
+                "singular": "Отправить каталог друзьям"
+            },
+            "sv": {
+                "singular": "Skicka lista till dina vänner"
+            }
+        }
+    }
+}

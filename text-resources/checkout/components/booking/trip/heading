@@ -1,0 +1,72 @@
+{
+    "id": "checkout.components.booking.trip.heading",
+    "name": "heading",
+    "path": "text-resources/checkout/components/booking/trip/heading",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/trip/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "trip",
+        "heading"
+    ],
+    "content": {
+        "key": "checkout.components.booking.trip.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {},
+            "de-AT": {},
+            "de-CH": {},
+            "de-DE": {},
+            "en": {
+                "singular": "Trip details"
+            },
+            "en-AU": {
+                "singular": "Trip details"
+            },
+            "en-CA": {
+                "singular": "Trip details"
+            },
+            "en-GB": {
+                "singular": "Trip details"
+            },
+            "en-IE": {
+                "singular": "Trip details"
+            },
+            "en-US": {
+                "singular": "Trip details"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

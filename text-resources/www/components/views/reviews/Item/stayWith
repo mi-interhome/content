@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.reviews.Item.stayWith",
+    "name": "stayWith",
+    "path": "text-resources/www/components/views/reviews/Item/stayWith",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Item/stayWith",
+    "slug": "stayWith",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Item",
+        "stayWith"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Item.stayWith",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "pobyt s {with} v {month}"
+            },
+            "da": {
+                "singular": "Ophold med {with} i {month}"
+            },
+            "de": {
+                "singular": "Aufenthalt mit {with} im {month}"
+            },
+            "de-AT": {
+                "singular": "Aufenthalt mit {with} im {month}"
+            },
+            "de-CH": {
+                "singular": "Aufenthalt mit {with} im {month}"
+            },
+            "de-DE": {
+                "singular": "Aufenthalt mit {with} im {month}"
+            },
+            "en": {
+                "singular": "stayed with {with} in {month}"
+            },
+            "en-AU": {
+                "singular": "stayed with {with} in {month}"
+            },
+            "en-CA": {
+                "singular": "stayed with {with} in {month}"
+            },
+            "en-GB": {
+                "singular": "stayed with {with} in {month}"
+            },
+            "en-IE": {
+                "singular": "stayed with {with} in {month}"
+            },
+            "en-US": {
+                "singular": "stayed with {with} in {month}"
+            },
+            "es": {
+                "singular": "estuvo con {with} en {month}"
+            },
+            "fi": {
+                "singular": "Vierailtu {with} ajankohtana {month}"
+            },
+            "fi-EE": {
+                "singular": "Vierailtu {with} ajankohtana {month}"
+            },
+            "fi-FI": {
+                "singular": "Vierailtu {with} ajankohtana {month}"
+            },
+            "fr": {
+                "singular": "Séjour avec {with} en {month}"
+            },
+            "fr-BE": {
+                "singular": "Séjour avec {with} en {month}"
+            },
+            "fr-CA": {
+                "singular": "Séjour avec {with} en {month}"
+            },
+            "fr-CH": {
+                "singular": "Séjour avec {with} en {month}"
+            },
+            "fr-FR": {
+                "singular": "Séjour avec {with} en {month}"
+            },
+            "hr": {
+                "singular": "Boravio/la sam u {with} u {month}"
+            },
+            "it": {
+                "singular": "Soggiorno con {with} in {month}"
+            },
+            "it-CH": {
+                "singular": "Soggiorno con {with} in {month}"
+            },
+            "it-IT": {
+                "singular": "Soggiorno con {with} in {month}"
+            },
+            "nl": {
+                "singular": "Verbleef met {with} in {month}"
+            },
+            "nl-BE": {
+                "singular": "Verbleef met {with} in {month}"
+            },
+            "nl-NL": {
+                "singular": "Verbleef met {with} in {month}"
+            },
+            "no": {
+                "singular": "Opphold med {with} i {month}"
+            },
+            "pl": {
+                "singular": "Pobyt z {with} w {month}"
+            },
+            "pt": {
+                "singular": "ficou com {with} em {month}"
+            },
+            "ru": {
+                "singular": "Останавливался с {with} в {month}"
+            },
+            "sv": {
+                "singular": "Vistelse med {with} i {month}"
+            }
+        }
+    }
+}

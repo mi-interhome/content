@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalCoupon.title.loading",
+    "name": "loading",
+    "path": "text-resources/webccBooking/components/reservation/refund/modalCoupon/title/loading",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalCoupon/title/loading",
+    "slug": "loading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalCoupon",
+        "title",
+        "loading"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalCoupon.title.loading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím kód Vašeho poukazu"
+            },
+            "da": {
+                "singular": "Din voucher-kode oprettes"
+            },
+            "de": {
+                "singular": "Ihr Gutschein-Code wird angefordert"
+            },
+            "de-AT": {
+                "singular": "Ihr Gutschein-Code wird angefordert"
+            },
+            "de-CH": {
+                "singular": "Ihr Gutschein-Code wird angefordert"
+            },
+            "de-DE": {
+                "singular": "Ihr Gutschein-Code wird angefordert"
+            },
+            "en": {
+                "singular": "Your voucher code is being requested"
+            },
+            "en-AU": {
+                "singular": "Your voucher code is being requested"
+            },
+            "en-CA": {
+                "singular": "Your voucher code is being requested"
+            },
+            "en-GB": {
+                "singular": "Your voucher code is being requested"
+            },
+            "en-IE": {
+                "singular": "Your voucher code is being requested"
+            },
+            "en-US": {
+                "singular": "Your voucher code is being requested"
+            },
+            "es": {
+                "singular": "Inserte el código de su voucher"
+            },
+            "fi": {
+                "singular": "Voucher-koodiasi muodostetaan"
+            },
+            "fi-EE": {
+                "singular": "Voucher-koodiasi muodostetaan"
+            },
+            "fi-FI": {
+                "singular": "Voucher-koodiasi muodostetaan"
+            },
+            "fr": {
+                "singular": "Votre code de bon de voyage a été demandé."
+            },
+            "fr-BE": {
+                "singular": "Votre code de bon de voyage a été demandé."
+            },
+            "fr-CA": {
+                "singular": "Votre code de bon de voyage a été demandé."
+            },
+            "fr-CH": {
+                "singular": "Votre code de bon de voyage a été demandé."
+            },
+            "fr-FR": {
+                "singular": "Votre code de bon de voyage a été demandé."
+            },
+            "hr": {
+                "singular": "Vaš voucher kod je zatražen"
+            },
+            "it": {
+                "singular": "Il codice voucher è stato richiesto"
+            },
+            "it-CH": {
+                "singular": "Il codice voucher è stato richiesto"
+            },
+            "it-IT": {
+                "singular": "Il codice voucher è stato richiesto"
+            },
+            "nl": {
+                "singular": "Uw vouchercode wordt aangevraagd"
+            },
+            "nl-BE": {
+                "singular": "Uw vouchercode wordt aangevraagd"
+            },
+            "nl-NL": {
+                "singular": "Uw vouchercode wordt aangevraagd"
+            },
+            "no": {
+                "singular": "Din voucher-kode blir opprettet"
+            },
+            "pl": {
+                "singular": "Generujemy voucher z kodem"
+            },
+            "pt": {
+                "singular": "O seu código de voucher está a ser solicitado"
+            },
+            "ru": {
+                "singular": "Ваш код ваучера запрашивается"
+            },
+            "sv": {
+                "singular": "Din voucher-kod kommer att begäras"
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.GeneralRequest.form.mr",
+    "name": "mr",
+    "path": "text-resources/www/components/views/Content/GeneralRequest/form/mr",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/GeneralRequest/form/mr",
+    "slug": "mr",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "GeneralRequest",
+        "form",
+        "mr"
+    ],
+    "content": {
+        "key": "www.components.views.Content.GeneralRequest.form.mr",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pan"
+            },
+            "da": {
+                "singular": "Hr"
+            },
+            "de": {
+                "singular": "Herr"
+            },
+            "de-AT": {
+                "singular": "Herr"
+            },
+            "de-CH": {
+                "singular": "Herr"
+            },
+            "de-DE": {
+                "singular": "Herr"
+            },
+            "en": {
+                "singular": "Mr"
+            },
+            "en-AU": {
+                "singular": "Mr"
+            },
+            "en-CA": {
+                "singular": "Mr"
+            },
+            "en-GB": {
+                "singular": "Mr"
+            },
+            "en-IE": {
+                "singular": "Mr"
+            },
+            "en-US": {
+                "singular": "Mr"
+            },
+            "es": {
+                "singular": "Señor"
+            },
+            "fi": {
+                "singular": "Mies"
+            },
+            "fi-EE": {
+                "singular": "Mies"
+            },
+            "fi-FI": {
+                "singular": "Mies"
+            },
+            "fr": {
+                "singular": "Monsieur"
+            },
+            "fr-BE": {
+                "singular": "Monsieur"
+            },
+            "fr-CA": {
+                "singular": "Monsieur"
+            },
+            "fr-CH": {
+                "singular": "Monsieur"
+            },
+            "fr-FR": {
+                "singular": "Monsieur"
+            },
+            "hr": {
+                "singular": "Gosp"
+            },
+            "it": {
+                "singular": "Signor"
+            },
+            "it-CH": {
+                "singular": "Signor"
+            },
+            "it-IT": {
+                "singular": "Signor"
+            },
+            "nl": {
+                "singular": "Dhr. "
+            },
+            "nl-BE": {
+                "singular": "Dhr. "
+            },
+            "nl-NL": {
+                "singular": "Dhr. "
+            },
+            "no": {
+                "singular": "Hr"
+            },
+            "pl": {
+                "singular": "Pan"
+            },
+            "pt": {
+                "singular": "Sr."
+            },
+            "ru": {
+                "singular": "Г-н"
+            },
+            "sv": {
+                "singular": "Herr"
+            }
+        }
+    }
+}

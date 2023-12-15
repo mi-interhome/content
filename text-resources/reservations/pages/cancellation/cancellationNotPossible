@@ -1,0 +1,125 @@
+{
+    "id": "reservations.pages.cancellation.cancellationNotPossible",
+    "name": "cancellationNotPossible",
+    "path": "text-resources/reservations/pages/cancellation/cancellationNotPossible",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/cancellationNotPossible",
+    "slug": "cancellationNotPossible",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "cancellationNotPossible"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.cancellationNotPossible",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Tuto rezervaci nelze zrušit prostřednictvím této webové stránky. Obraťte se prosím na poskytovatele, u kterého jste pobyt rezervovali. "
+            },
+            "da": {
+                "singular": "Denne reservation kan ikke annulleres via vores hjemmeside. Kontakt det bureau, du bestilte hos."
+            },
+            "de": {
+                "singular": "Diese Buchung kann nicht über die Webseite storniert werden. Bitte wenden Sie sich an den Anbieter über den Sie gebucht haben."
+            },
+            "de-AT": {
+                "singular": "Diese Buchung kann nicht über die Webseite storniert werden. Bitte wenden Sie sich an den Anbieter über den Sie gebucht haben."
+            },
+            "de-CH": {
+                "singular": "Diese Buchung kann nicht über die Webseite storniert werden. Bitte wenden Sie sich an den Anbieter über den Sie gebucht haben."
+            },
+            "de-DE": {
+                "singular": "Diese Buchung kann nicht über die Webseite storniert werden. Bitte wenden Sie sich an den Anbieter über den Sie gebucht haben."
+            },
+            "en": {
+                "singular": "This booking cannot be cancelled via the website. Please contact the supplier you booked with."
+            },
+            "en-AU": {
+                "singular": "This booking cannot be cancelled via the website. Please contact the supplier you booked with."
+            },
+            "en-CA": {
+                "singular": "This booking cannot be cancelled via the website. Please contact the supplier you booked with."
+            },
+            "en-GB": {
+                "singular": "This booking cannot be cancelled via the website. Please contact the supplier you booked with."
+            },
+            "en-IE": {
+                "singular": "This booking cannot be cancelled via the website. Please contact the supplier you booked with."
+            },
+            "en-US": {
+                "singular": "This booking cannot be cancelled via the website. Please contact the supplier you booked with."
+            },
+            "es": {
+                "singular": "Esta reserva no se puede cancelar a través de la página web. Póngase en contacto con el proveedor con el que ha hecho la reseva."
+            },
+            "fi": {
+                "singular": "Tätä varausta ei voi perua nettisivuillamme.             Ota yhteyttä varauskumppaniisi."
+            },
+            "fi-EE": {
+                "singular": "Tätä varausta ei voi perua nettisivuillamme.             Ota yhteyttä varauskumppaniisi."
+            },
+            "fi-FI": {
+                "singular": "Tätä varausta ei voi perua nettisivuillamme.             Ota yhteyttä varauskumppaniisi."
+            },
+            "fr": {
+                "singular": "Cette réservation ne peut pas être annulée via notre site internet. Veuillez contacter l'intermédiaire par lequel vous avec réservé. "
+            },
+            "fr-BE": {
+                "singular": "Cette réservation ne peut pas être annulée via notre site internet. Veuillez contacter l'intermédiaire par lequel vous avec réservé. "
+            },
+            "fr-CA": {
+                "singular": "Cette réservation ne peut pas être annulée via notre site internet. Veuillez contacter l'intermédiaire par lequel vous avec réservé. "
+            },
+            "fr-CH": {
+                "singular": "Cette réservation ne peut pas être annulée via notre site internet. Veuillez contacter l'intermédiaire par lequel vous avec réservé. "
+            },
+            "fr-FR": {
+                "singular": "Cette réservation ne peut pas être annulée via notre site internet. Veuillez contacter l'intermédiaire par lequel vous avec réservé. "
+            },
+            "hr": {
+                "singular": "Ovu rezervaciju nije moguće otkazati putem internet stranice. Molimo kontaktirajte partnera preko kojeg ste izvršili rezervaciju"
+            },
+            "it": {
+                "singular": "Questa prenotazione non può essere cancellata tramite il sito web. La preghiamo di contattare il portale o l'agenzia con cui ha prenotato. "
+            },
+            "it-CH": {
+                "singular": "Questa prenotazione non può essere cancellata tramite il sito web. La preghiamo di contattare il portale o l'agenzia con cui ha prenotato. "
+            },
+            "it-IT": {
+                "singular": "Questa prenotazione non può essere cancellata tramite il sito web. La preghiamo di contattare il portale o l'agenzia con cui ha prenotato. "
+            },
+            "nl": {
+                "singular": "Deze boeking kan niet worden geannuleerd via de website. Raadpleeg uw boekingskantoor"
+            },
+            "nl-BE": {
+                "singular": "Deze boeking kan niet worden geannuleerd via de website. Raadpleeg uw boekingskantoor"
+            },
+            "nl-NL": {
+                "singular": "Deze boeking kan niet worden geannuleerd via de website. Raadpleeg uw boekingskantoor"
+            },
+            "no": {
+                "singular": "Denne bestillingen kan ikke kanselleres over vår hjemmeside. Vær vennlig å ta kontakt med agenturet du bestilte hos."
+            },
+            "pl": {
+                "singular": "Nie ma możliwości anulacji rezerwacji poprzez stronę internetową. Prosimy o bezpośredni kontakt z naszym biurem."
+            },
+            "pt": {
+                "singular": "Esta reserva não pode ser cancelada através do site. Entre em contacto com o fornecedor com o qual fez a reserva."
+            },
+            "ru": {
+                "singular": "Это бронирование не может быть отменено через веб-сайт. Пожалуйста, свяжитесь с поставщиком, у которого Вы бронировали. "
+            },
+            "sv": {
+                "singular": "Denna bokning kan inte avbeställas över vår webbsida. Var vänlig ta kontakt med den reseagentur som genomfört bokningen."
+            }
+        }
+    }
+}

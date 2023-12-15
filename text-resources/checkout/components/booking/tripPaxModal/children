@@ -1,0 +1,192 @@
+{
+    "id": "checkout.components.booking.tripPaxModal.children",
+    "name": "children",
+    "path": "text-resources/checkout/components/booking/tripPaxModal/children",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/tripPaxModal/children",
+    "slug": "children",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "tripPaxModal",
+        "children"
+    ],
+    "content": {
+        "key": "checkout.components.booking.tripPaxModal.children",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "žádné děti",
+                "singular": "jedno dítě",
+                "plural": "děti: {count} "
+            },
+            "da": {
+                "zero": "ingen børn",
+                "singular": "et barn",
+                "plural": "{count} børn"
+            },
+            "de": {
+                "zero": "keine Kinder",
+                "singular": "ein Kind",
+                "plural": "{count} Kinder"
+            },
+            "de-AT": {
+                "zero": "keine Kinder",
+                "singular": "ein Kind",
+                "plural": "{count} Kinder"
+            },
+            "de-CH": {
+                "zero": "keine Kinder",
+                "singular": "ein Kind",
+                "plural": "{count} Kinder"
+            },
+            "de-DE": {
+                "zero": "keine Kinder",
+                "singular": "ein Kind",
+                "plural": "{count} Kinder"
+            },
+            "en": {
+                "zero": "no children",
+                "singular": "one child",
+                "plural": "{count} children"
+            },
+            "en-AU": {
+                "zero": "no children",
+                "singular": "one child",
+                "plural": "{count} children"
+            },
+            "en-CA": {
+                "zero": "no children",
+                "singular": "one child",
+                "plural": "{count} children"
+            },
+            "en-GB": {
+                "zero": "no children",
+                "singular": "one child",
+                "plural": "{count} children"
+            },
+            "en-IE": {
+                "zero": "no children",
+                "singular": "one child",
+                "plural": "{count} children"
+            },
+            "en-US": {
+                "zero": "no children",
+                "singular": "one child",
+                "plural": "{count} children"
+            },
+            "es": {
+                "zero": "ningún niño",
+                "singular": "un niño",
+                "plural": "{count} niños"
+            },
+            "fi": {
+                "zero": "ei lapsia",
+                "singular": "yksi lapsi",
+                "plural": "{count} lasta"
+            },
+            "fi-EE": {
+                "zero": "ei lapsia",
+                "singular": "yksi lapsi",
+                "plural": "{count} lasta"
+            },
+            "fi-FI": {
+                "zero": "ei lapsia",
+                "singular": "yksi lapsi",
+                "plural": "{count} lasta"
+            },
+            "fr": {
+                "zero": "pas d'enfants",
+                "singular": "un enfant",
+                "plural": "{count} enfants"
+            },
+            "fr-BE": {
+                "zero": "pas d'enfants",
+                "singular": "un enfant",
+                "plural": "{count} enfants"
+            },
+            "fr-CA": {
+                "zero": "pas d'enfants",
+                "singular": "un enfant",
+                "plural": "{count} enfants"
+            },
+            "fr-CH": {
+                "zero": "pas d'enfants",
+                "singular": "un enfant",
+                "plural": "{count} enfants"
+            },
+            "fr-FR": {
+                "zero": "pas d'enfants",
+                "singular": "un enfant",
+                "plural": "{count} enfants"
+            },
+            "hr": {
+                "zero": "nema djece",
+                "singular": "jedno dijete",
+                "plural": "{count} djece"
+            },
+            "it": {
+                "zero": "nessun bambino",
+                "singular": "un bambino",
+                "plural": "{count} bambini"
+            },
+            "it-CH": {
+                "zero": "nessun bambino",
+                "singular": "un bambino",
+                "plural": "{count} bambini"
+            },
+            "it-IT": {
+                "zero": "nessun bambino",
+                "singular": "un bambino",
+                "plural": "{count} bambini"
+            },
+            "nl": {
+                "zero": "geen kinderen",
+                "singular": "één kind",
+                "plural": "{count} kinderen"
+            },
+            "nl-BE": {
+                "zero": "geen kinderen",
+                "singular": "één kind",
+                "plural": "{count} kinderen"
+            },
+            "nl-NL": {
+                "zero": "geen kinderen",
+                "singular": "één kind",
+                "plural": "{count} kinderen"
+            },
+            "no": {
+                "zero": "ingen barn",
+                "singular": "et barn",
+                "plural": "{count} barn"
+            },
+            "pl": {
+                "zero": "Brak dzieci",
+                "singular": "jedno dziecko",
+                "plural": "{count} dzieci"
+            },
+            "pt": {
+                "zero": "nenhuma criança",
+                "singular": "uma criança",
+                "plural": "{count} crianças"
+            },
+            "ru": {
+                "zero": "нет детей",
+                "singular": "один ребенок",
+                "plural": "{count} детей"
+            },
+            "sv": {
+                "zero": "inga barn",
+                "singular": "ett barn",
+                "plural": "{count} barn"
+            }
+        }
+    }
+}

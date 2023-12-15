@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.customRange",
+    "name": "customRange",
+    "path": "text-resources/webccSalesportal/pages/reports/webstats/customRange",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/customRange",
+    "slug": "customRange",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "customRange"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.customRange",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vlastní rozsah"
+            },
+            "da": {
+                "singular": "Brugerdefineret"
+            },
+            "de": {
+                "singular": "Benutzerdefiniert"
+            },
+            "de-AT": {
+                "singular": "Benutzerdefiniert"
+            },
+            "de-CH": {
+                "singular": "Benutzerdefiniert"
+            },
+            "de-DE": {
+                "singular": "Benutzerdefiniert"
+            },
+            "en": {
+                "singular": "Custom Range"
+            },
+            "en-AU": {
+                "singular": "Custom Range"
+            },
+            "en-CA": {
+                "singular": "Custom Range"
+            },
+            "en-GB": {
+                "singular": "Custom Range"
+            },
+            "en-IE": {
+                "singular": "Custom Range"
+            },
+            "en-US": {
+                "singular": "Custom Range"
+            },
+            "es": {
+                "singular": "Rango personalizado"
+            },
+            "fi": {
+                "singular": "Mukautettu aikaväli"
+            },
+            "fi-EE": {
+                "singular": "Mukautettu aikaväli"
+            },
+            "fi-FI": {
+                "singular": "Mukautettu aikaväli"
+            },
+            "fr": {
+                "singular": "Plage personnalisée"
+            },
+            "fr-BE": {
+                "singular": "Plage personnalisée"
+            },
+            "fr-CA": {
+                "singular": "Plage personnalisée"
+            },
+            "fr-CH": {
+                "singular": "Plage personnalisée"
+            },
+            "fr-FR": {
+                "singular": "Plage personnalisée"
+            },
+            "hr": {
+                "singular": "Prilagođeni raspon"
+            },
+            "it": {
+                "singular": "Intervallo personalizzato"
+            },
+            "it-CH": {
+                "singular": "Intervallo personalizzato"
+            },
+            "it-IT": {
+                "singular": "Intervallo personalizzato"
+            },
+            "nl": {
+                "singular": "Aangepast bereik"
+            },
+            "nl-BE": {
+                "singular": "Aangepast bereik"
+            },
+            "nl-NL": {
+                "singular": "Aangepast bereik"
+            },
+            "no": {
+                "singular": "Tilpasset område"
+            },
+            "pl": {
+                "singular": "Zakres niestandardowy"
+            },
+            "pt": {
+                "singular": "Intervalo personalizado"
+            },
+            "ru": {
+                "singular": "Настраиваемый диапазон"
+            },
+            "sv": {
+                "singular": "Anpassat intervall"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.new_reservation_search_property",
+    "name": "new_reservation_search_property",
+    "path": "text-resources/webccSalesportal/reservationoverview/new_reservation_search_property",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/new_reservation_search_property",
+    "slug": "new_reservation_search_property",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "new_reservation_search_property"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.new_reservation_search_property",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokud si přejete vytvořit novou rezervaci nebo opci, začněte vyhledáním rekreačního objektu {here}"
+            },
+            "da": {
+                "singular": "Hvis du vil oprette en ny reservation eller en forudbestilling, kan du starte din feriesøgning {her}"
+            },
+            "de": {
+                "singular": "Wenn Sie eine neue Buchung / Option vornehmen möchten, starten Sie eine neue Suche {here}"
+            },
+            "de-AT": {
+                "singular": "Wenn Sie eine neue Buchung / Option vornehmen möchten, starten Sie eine neue Suche {here}"
+            },
+            "de-CH": {
+                "singular": "Wenn Sie eine neue Buchung / Option vornehmen möchten, starten Sie eine neue Suche {here}"
+            },
+            "de-DE": {
+                "singular": "Wenn Sie eine neue Buchung / Option vornehmen möchten, starten Sie eine neue Suche {here}"
+            },
+            "en": {
+                "singular": "If you wish to create a new booking or option, start your property search {here}"
+            },
+            "en-AU": {
+                "singular": "If you wish to create a new booking or option, start your property search {here}"
+            },
+            "en-CA": {
+                "singular": "If you wish to create a new booking or option, start your property search {here}"
+            },
+            "en-GB": {
+                "singular": "If you wish to create a new booking or option, start your property search {here}"
+            },
+            "en-IE": {
+                "singular": "If you wish to create a new booking or option, start your property search {here}"
+            },
+            "en-US": {
+                "singular": "If you wish to create a new booking or option, start your property search {here}"
+            },
+            "es": {
+                "singular": "Si desea crear una nueva reserva u opción empiece su búsqueda {aquí}"
+            },
+            "fi": {
+                "singular": "Mikäli haluat tehdä uuden varauksen tai alustavan varauksen, aloita kohteen etsintä {here}"
+            },
+            "fi-EE": {
+                "singular": "Mikäli haluat tehdä uuden varauksen tai alustavan varauksen, aloita kohteen etsintä {here}"
+            },
+            "fi-FI": {
+                "singular": "Mikäli haluat tehdä uuden varauksen tai alustavan varauksen, aloita kohteen etsintä {here}"
+            },
+            "fr": {
+                "singular": "Si vous souhaitez effectuer une nouvelle réservation ou poser une option, recherchez votre location {here}"
+            },
+            "fr-BE": {
+                "singular": "Si vous souhaitez effectuer une nouvelle réservation ou poser une option, recherchez votre location {here}"
+            },
+            "fr-CA": {
+                "singular": "Si vous souhaitez effectuer une nouvelle réservation ou poser une option, recherchez votre location {here}"
+            },
+            "fr-CH": {
+                "singular": "Si vous souhaitez effectuer une nouvelle réservation ou poser une option, recherchez votre location {here}"
+            },
+            "fr-FR": {
+                "singular": "Si vous souhaitez effectuer une nouvelle réservation ou poser une option, recherchez votre location {here}"
+            },
+            "hr": {
+                "singular": "Za izradu nove rezervacije ili opcije, objekte pretražujte ovdje {here}"
+            },
+            "it": {
+                "singular": "Se vuoi creare una nuova prenotazione od opzione inizia la tua ricerca {here}"
+            },
+            "it-CH": {
+                "singular": "Se vuoi creare una nuova prenotazione od opzione inizia la tua ricerca {here}"
+            },
+            "it-IT": {
+                "singular": "Se vuoi creare una nuova prenotazione od opzione inizia la tua ricerca {here}"
+            },
+            "nl": {
+                "singular": "Indien u een nieuwe boeking of optie wilt maken, start uw zoekopdracht dan {here}"
+            },
+            "nl-BE": {
+                "singular": "Indien u een nieuwe boeking of optie wilt maken, start uw zoekopdracht dan {here}"
+            },
+            "nl-NL": {
+                "singular": "Indien u een nieuwe boeking of optie wilt maken, start uw zoekopdracht dan {here}"
+            },
+            "no": {
+                "singular": "Hvis du vil opprette en ny booking eller en forhånds-booking, kan du starte feriehus-søket ditt {her}"
+            },
+            "pl": {
+                "singular": "Aby dokonać rezerwacji wyszukaj obiekt {here}"
+            },
+            "pt": {
+                "singular": "Se você deseja criar uma nova reserva ou opção, inicie a sua pesquisa de propriedades {aqui}"
+            },
+            "ru": {
+                "singular": "Если Вы хотите сделать новое бронирование / опцию, начните новый поиск {here}"
+            },
+            "sv": {
+                "singular": "Om du vill skapa en ny bokning eller en preliminärbokning kan du starta ditt semesterhussök {här}"
+            }
+        }
+    }
+}

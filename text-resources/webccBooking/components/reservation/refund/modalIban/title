@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalIban.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/components/reservation/refund/modalIban/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalIban/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalIban",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalIban.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vrácení peněz bankovním převodem"
+            },
+            "da": {
+                "singular": "Refusion via bankoverførsel"
+            },
+            "de": {
+                "singular": "Rückerstattung per Überweisung"
+            },
+            "de-AT": {
+                "singular": "Rückerstattung per Überweisung"
+            },
+            "de-CH": {
+                "singular": "Rückerstattung per Überweisung"
+            },
+            "de-DE": {
+                "singular": "Rückerstattung per Überweisung"
+            },
+            "en": {
+                "singular": "Refund by bank transfer"
+            },
+            "en-AU": {
+                "singular": "Refund by bank transfer"
+            },
+            "en-CA": {
+                "singular": "Refund by bank transfer"
+            },
+            "en-GB": {
+                "singular": "Refund by bank transfer"
+            },
+            "en-IE": {
+                "singular": "Refund by bank transfer"
+            },
+            "en-US": {
+                "singular": "Refund by bank transfer"
+            },
+            "es": {
+                "singular": "Reembolso por transferencia bancaria"
+            },
+            "fi": {
+                "singular": "Hyvitys tilisiirtona"
+            },
+            "fi-EE": {
+                "singular": "Hyvitys tilisiirtona"
+            },
+            "fi-FI": {
+                "singular": "Hyvitys tilisiirtona"
+            },
+            "fr": {
+                "singular": "Remboursement par virement bancaire"
+            },
+            "fr-BE": {
+                "singular": "Remboursement par virement bancaire"
+            },
+            "fr-CA": {
+                "singular": "Remboursement par virement bancaire"
+            },
+            "fr-CH": {
+                "singular": "Remboursement par virement bancaire"
+            },
+            "fr-FR": {
+                "singular": "Remboursement par virement bancaire"
+            },
+            "hr": {
+                "singular": "Povrat sredstava putem bankovne doznake"
+            },
+            "it": {
+                "singular": "Rimborso tramite bonifico bancario"
+            },
+            "it-CH": {
+                "singular": "Rimborso tramite bonifico bancario"
+            },
+            "it-IT": {
+                "singular": "Rimborso tramite bonifico bancario"
+            },
+            "nl": {
+                "singular": "Terugbetaling via bankoverschrijving"
+            },
+            "nl-BE": {
+                "singular": "Terugbetaling via bankoverschrijving"
+            },
+            "nl-NL": {
+                "singular": "Terugbetaling via bankoverschrijving"
+            },
+            "no": {
+                "singular": "Refusjon via bankoverføring"
+            },
+            "pl": {
+                "singular": "Zwrot przelewem bankowym"
+            },
+            "pt": {
+                "singular": "Reembolso por transferência bancária"
+            },
+            "ru": {
+                "singular": "Возврат банковским переводом"
+            },
+            "sv": {
+                "singular": "Återbetalning via banköverföring"
+            }
+        }
+    }
+}

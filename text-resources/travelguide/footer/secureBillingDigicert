@@ -1,0 +1,124 @@
+{
+    "id": "travelguide.footer.secureBillingDigicert",
+    "name": "secureBillingDigicert",
+    "path": "text-resources/travelguide/footer/secureBillingDigicert",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/secureBillingDigicert",
+    "slug": "secureBillingDigicert",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "secureBillingDigicert"
+    ],
+    "content": {
+        "key": "travelguide.footer.secureBillingDigicert",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Všechna data jsou šifrována."
+            },
+            "da": {
+                "singular": "Sikker betaling"
+            },
+            "de": {
+                "singular": "Alle Daten werden verschlüsselt übertragen."
+            },
+            "de-AT": {
+                "singular": "Alle Daten werden verschlüsselt übertragen."
+            },
+            "de-CH": {
+                "singular": "Alle Daten werden verschlüsselt übertragen."
+            },
+            "de-DE": {
+                "singular": "Alle Daten werden verschlüsselt übertragen."
+            },
+            "en": {
+                "singular": "All data is encrypted. Verified by a Trustworthy third party Registration Authority."
+            },
+            "en-AU": {
+                "singular": "All data is encrypted. Verified by a Trustworthy third party Registration Authority."
+            },
+            "en-CA": {
+                "singular": "All data is encrypted. Verified by a Trustworthy third party Registration Authority."
+            },
+            "en-GB": {
+                "singular": "All data is encrypted. Verified by a Trustworthy third party Registration Authority."
+            },
+            "en-IE": {
+                "singular": "All data is encrypted. Verified by a Trustworthy third party Registration Authority."
+            },
+            "en-US": {
+                "singular": "All data is encrypted. Verified by a Trustworthy third party Registration Authority."
+            },
+            "es": {
+                "singular": "Toda la información está encriptada"
+            },
+            "fi": {
+                "singular": "Kaikki tieto on salattu"
+            },
+            "fi-EE": {
+                "singular": "Kaikki tieto on salattu"
+            },
+            "fi-FI": {
+                "singular": "Kaikki tieto on salattu"
+            },
+            "fr": {
+                "singular": "Toutes les données sont cryptées"
+            },
+            "fr-BE": {
+                "singular": "Toutes les données sont cryptées"
+            },
+            "fr-CA": {
+                "singular": "Toutes les données sont cryptées"
+            },
+            "fr-CH": {
+                "singular": "Toutes les données sont cryptées"
+            },
+            "fr-FR": {
+                "singular": "Toutes les données sont cryptées"
+            },
+            "hr": {
+                "singular": "Svi podaci su enkriptirani"
+            },
+            "it": {
+                "singular": "Tutti i dati sono criptati"
+            },
+            "it-CH": {
+                "singular": "Tutti i dati sono criptati"
+            },
+            "it-IT": {
+                "singular": "Tutti i dati sono criptati"
+            },
+            "nl": {
+                "singular": "Alle gegevens zijn versleuteld"
+            },
+            "nl-BE": {
+                "singular": "Alle gegevens zijn versleuteld"
+            },
+            "nl-NL": {
+                "singular": "Alle gegevens zijn versleuteld"
+            },
+            "no": {
+                "singular": "Sikker betaling via Digicert"
+            },
+            "pl": {
+                "singular": "Dane są zaszyfrowane\r\n\r\n"
+            },
+            "pt": {
+                "singular": "Todos os dados estão encriptados"
+            },
+            "ru": {
+                "singular": "Все данные шифруются"
+            },
+            "sv": {
+                "singular": "Säker betalning"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "errors.messages.invalidToken",
+    "name": "invalidToken",
+    "path": "text-resources/errors/messages/invalidToken",
+    "folder": "text-resources",
+    "full_slug": "errors/messages/invalidToken",
+    "slug": "invalidToken",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "errors",
+        "messages",
+        "invalidToken"
+    ],
+    "content": {
+        "key": "errors.messages.invalidToken",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadaný symbol je neplatný. Zkontrolujte prosím, zda se uvedená URL-adresa shoduje s URL-adresou, kterou jste obdrželi e-mailem. Pokud ano, pak není přístup ke správě rezervací aktuálně možný. Kontaktujte nás prosím telefonicky."
+            },
+            "da": {
+                "singular": "Tokenet er ugyldigt. Kontroller, om den URL, du indtastede, stemmer overens med den URL, du modtog via e-mail. er det i øjeblikket ikke muligt at få adgang til reservationsadministrationen. I dette tilfælde bedes du kontakte os pr. telefon"
+            },
+            "de": {
+                "singular": "Das übergebene Token ist ungültig. Bitte prüfen Sie, ob die eingegebene URL mit der URL übereinstimmt, die Sie per E-Mail erhalten haben. Sollte dies der Fall sein, ist der Zugriff auf die Buchungsverwaltung derzeit nicht möglich. Bitte nehmen Sie in diesem Fall telefonisch Kontakt mit uns auf."
+            },
+            "de-AT": {
+                "singular": "Das übergebene Token ist ungültig. Bitte prüfen Sie, ob die eingegebene URL mit der URL übereinstimmt, die Sie per E-Mail erhalten haben. Sollte dies der Fall sein, ist der Zugriff auf die Buchungsverwaltung derzeit nicht möglich. Bitte nehmen Sie in diesem Fall telefonisch Kontakt mit uns auf."
+            },
+            "de-CH": {
+                "singular": "Das übergebene Token ist ungültig. Bitte prüfen Sie, ob die eingegebene URL mit der URL übereinstimmt, die Sie per E-Mail erhalten haben. Sollte dies der Fall sein, ist der Zugriff auf die Buchungsverwaltung derzeit nicht möglich. Bitte nehmen Sie in diesem Fall telefonisch Kontakt mit uns auf."
+            },
+            "de-DE": {
+                "singular": "Das übergebene Token ist ungültig. Bitte prüfen Sie, ob die eingegebene URL mit der URL übereinstimmt, die Sie per E-Mail erhalten haben. Sollte dies der Fall sein, ist der Zugriff auf die Buchungsverwaltung derzeit nicht möglich. Bitte nehmen Sie in diesem Fall telefonisch Kontakt mit uns auf."
+            },
+            "en": {
+                "singular": "The token passed is invalid. Please check whether the URL you entered matches the URL you received by email. If this is the case, accessing the reservation management is currently not possible. In this case, please contact us by phone."
+            },
+            "en-AU": {
+                "singular": "The token passed is invalid. Please check whether the URL you entered matches the URL you received by email. If this is the case, accessing the reservation management is currently not possible. In this case, please contact us by phone."
+            },
+            "en-CA": {
+                "singular": "The token passed is invalid. Please check whether the URL you entered matches the URL you received by email. If this is the case, accessing the reservation management is currently not possible. In this case, please contact us by phone."
+            },
+            "en-GB": {
+                "singular": "The token passed is invalid. Please check whether the URL you entered matches the URL you received by email. If this is the case, accessing the reservation management is currently not possible. In this case, please contact us by phone."
+            },
+            "en-IE": {
+                "singular": "The token passed is invalid. Please check whether the URL you entered matches the URL you received by email. If this is the case, accessing the reservation management is currently not possible. In this case, please contact us by phone."
+            },
+            "en-US": {
+                "singular": "The token passed is invalid. Please check whether the URL you entered matches the URL you received by email. If this is the case, accessing the reservation management is currently not possible. In this case, please contact us by phone."
+            },
+            "es": {
+                "singular": "El token no es válido. Por favor, compruebe que la URL introducida coincide con la que ha recibido por correo electrónico. Si este es el caso, actualmente no es posible acceder a la gestión de reservas. En este caso, póngase en contacto con nosotros por teléfono."
+            },
+            "fi": {
+                "singular": "Tunnus on virheellinen. Tarkistathan että URL jonka syötit vastaa sähköpostitse saamaasi URLia. Mikäli URLit ovat samat, varauksenhallinta ei ole mahdollista tällä hetkellä. Ota tällöin yhteyttä asiakaspalveluumme."
+            },
+            "fi-EE": {
+                "singular": "Tunnus on virheellinen. Tarkistathan että URL jonka syötit vastaa sähköpostitse saamaasi URLia. Mikäli URLit ovat samat, ei online peruutus ole mahdollinen tällä hetkellä. Ota tällöin yhteyttä asiakaspalveluumme."
+            },
+            "fi-FI": {
+                "singular": "Tunnus on virheellinen. Tarkistathan että URL jonka syötit vastaa sähköpostitse saamaasi URLia. Mikäli URLit ovat samat, varauksenhallinta ei ole mahdollista tällä hetkellä. Ota tällöin yhteyttä asiakaspalveluumme."
+            },
+            "fr": {
+                "singular": "Le token n'est pas valide. Merci de vérifier si l'URL saisie correspond à l'URL que vous avez reçue par email. Si c'est le cas, l’accès à la gestion de votre réservation en ligne n'est actuellement pas possible. Veuillez nous contacter par téléphone. "
+            },
+            "fr-BE": {
+                "singular": "Le token n'est pas valide. Merci de vérifier si l'URL saisie correspond à l'URL que vous avez reçue par email. Si c'est le cas, l’accès à la gestion de votre réservation en ligne n'est actuellement pas possible. Veuillez nous contacter par téléphone. "
+            },
+            "fr-CA": {
+                "singular": "Le token n'est pas valide. Merci de vérifier si l'URL saisie correspond à l'URL que vous avez reçue par email. Si c'est le cas, une annulation en ligne n'est actuellement pas possible. Veuillez nous contacter par téléphone."
+            },
+            "fr-CH": {
+                "singular": "Le token n'est pas valide. Merci de vérifier si l'URL saisie correspond à l'URL que vous avez reçue par email. Si c'est le cas, une annulation en ligne n'est actuellement pas possible. Veuillez nous contacter par téléphone."
+            },
+            "fr-FR": {
+                "singular": "Le token n'est pas valide. Merci de vérifier si l'URL saisie correspond à l'URL que vous avez reçue par email. Si c'est le cas, l’accès à la gestion de votre réservation en ligne n'est actuellement pas possible. Veuillez nous contacter par téléphone. "
+            },
+            "hr": {
+                "singular": "Token je neispravan. Molimo provjerite da li je URL adresa koju ste unijeli istovjetna URL adresi koju ste primili putem emaila. Ukoliko je istovjetna, to znači da pristup upravljanju rezervacijama trenutno nije moguć, te Vas molimo da nas kontaktirate telefonom."
+            },
+            "it": {
+                "singular": "Il token inserito non è valido. Controlli che l'URL inserito corrisponda all'URL ricevuto via email. Nel caso in cui i due URL corrispondano, significa che al momento non è possibile accedere alla gestione della prenotazione. La preghiamo dunque di contattarci telefonicamente. "
+            },
+            "it-CH": {
+                "singular": "Il token inserito non è valido. Controlli che l'URL inserito corrisponda all'URL ricevuto via email. Nel caso in cui i due URL corrispondano, significa che al momento non è possibile accedere alla gestione della prenotazione. La preghiamo dunque di contattarci telefonicamente. "
+            },
+            "it-IT": {
+                "singular": "Il token inserito non è valido. Controlli che l'URL inserito corrisponda all'URL ricevuto via email. Nel caso in cui i due URL corrispondano, significa che al momento non è possibile accedere alla gestione della prenotazione. La preghiamo dunque di contattarci telefonicamente. "
+            },
+            "nl": {
+                "singular": "Het ingevoerde token is ongeldig. Controleer of de URL die u heeft ingevoerd overeenkomt met de URL die u per e-mail heeft ontvangen. Als dit het geval is, is toegang tot het reserveringsbeheer momenteel niet mogelijk. Neem in dit geval telefonisch contact met ons op."
+            },
+            "nl-BE": {
+                "singular": "Het token is ongeldig. Controleer of de URL die u heeft ingevoerd overeenkomt met de URL die u per e-mail heeft ontvangen. Indien dit het geval is, is een online annulering momenteel niet mogelijk. Neem in dit geval telefonisch contact met ons op."
+            },
+            "nl-NL": {
+                "singular": "Het token is ongeldig. Controleer of de URL die u heeft ingevoerd overeenkomt met de URL die u per e-mail heeft ontvangen. Indien dit het geval is, is een online annulering momenteel niet mogelijk. Neem in dit geval telefonisch contact met ons op."
+            },
+            "no": {
+                "singular": "Symbolet er ugyldig. Kontroller om nettadressen du skrev inn, samsvarer med nettadressen du mottok via e-post. Hvis dette er tilfellet, er det for øyeblikket ikke mulig å få tilgang til reservasjonsadministrasjonen. I dette tilfellet må du kontakte oss på telefon."
+            },
+            "pl": {
+                "singular": "Podany token jest nieprawidłowy. Prosimy sprawdzić, czy wprowadzony adres URL jest zgodny z adresem URL otrzymanym w wiadomości e-mail. W tym przypadku zarządzanie rezerwacją online jest w tej chwili nie możliwe. Prosimy o kontakt telefoniczny."
+            },
+            "pt": {
+                "singular": "O token é inválido. Verifique se o URL inserido corresponde ao URL que recebeu por e-mail. Se for esse o caso, aceder à gestão de reservas não é possível neste momento. Entre em contacto connosco por telefone."
+            },
+            "ru": {
+                "singular": "Полученный токен недействителен. Убедитесь, что введенный вами URL совпадает с URL, полученным по электронной почте. В этом случае доступ к управлению бронированием в настоящее время невозможен. Пожалуйста, свяжитесь с нами по телефону."
+            },
+            "sv": {
+                "singular": "Engångskoden är ogiltig. Var god kontrollera om den angivna webbadressen stämmer överens med adressen du fick via mejl. Om så är fallet, kan du för tillfället inte administrera din bokning. Ta i så fall kontakt med oss via telefon."
+            }
+        }
+    }
+}

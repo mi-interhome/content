@@ -1,0 +1,127 @@
+{
+    "id": "reservations.pages.refund.options.coupon.message",
+    "name": "message",
+    "path": "text-resources/reservations/pages/refund/options/coupon/message",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/refund/options/coupon/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "refund",
+        "options",
+        "coupon",
+        "message"
+    ],
+    "content": {
+        "key": "reservations.pages.refund.options.coupon.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Lze uplatnit do 5 let"
+            },
+            "da": {
+                "singular": "Gyldig i 5 år"
+            },
+            "de": {
+                "singular": "Einlösbar innerhalb von 5 Jahren"
+            },
+            "de-AT": {
+                "singular": "Einlösbar innerhalb von 5 Jahren"
+            },
+            "de-CH": {
+                "singular": "Einlösbar innerhalb von 5 Jahren"
+            },
+            "de-DE": {
+                "singular": "Einlösbar innerhalb von 5 Jahren"
+            },
+            "en": {
+                "singular": "Redeemable within 5 years"
+            },
+            "en-AU": {
+                "singular": "Redeemable within 5 years"
+            },
+            "en-CA": {
+                "singular": "Redeemable within 5 years"
+            },
+            "en-GB": {
+                "singular": "Redeemable within 5 years"
+            },
+            "en-IE": {
+                "singular": "Redeemable within 5 years"
+            },
+            "en-US": {
+                "singular": "Redeemable within 5 years"
+            },
+            "es": {
+                "singular": "Redimible en un plazo de 5 años"
+            },
+            "fi": {
+                "singular": "Käytettävä 5 vuoden kuluessa"
+            },
+            "fi-EE": {
+                "singular": "Käytettävä 5 vuoden kuluessa"
+            },
+            "fi-FI": {
+                "singular": "Käytettävä 5 vuoden kuluessa"
+            },
+            "fr": {
+                "singular": "Valable pendant 5 ans "
+            },
+            "fr-BE": {
+                "singular": "Valable pendant 5 ans "
+            },
+            "fr-CA": {
+                "singular": "Valable pendant 5 ans "
+            },
+            "fr-CH": {
+                "singular": "Valable pendant 5 ans "
+            },
+            "fr-FR": {
+                "singular": "Valable pendant 5 ans "
+            },
+            "hr": {
+                "singular": "Iskoristivo u roku od 5 godina"
+            },
+            "it": {
+                "singular": "Riscattabile entro 5 anni"
+            },
+            "it-CH": {
+                "singular": "Riscattabile entro 5 anni"
+            },
+            "it-IT": {
+                "singular": "Riscattabile entro 5 anni"
+            },
+            "nl": {
+                "singular": "Inwisselbaar binnen 5 jaar"
+            },
+            "nl-BE": {
+                "singular": "Inwisselbaar binnen 5 jaar"
+            },
+            "nl-NL": {
+                "singular": "Inwisselbaar binnen 5 jaar"
+            },
+            "no": {
+                "singular": "Gyldig i 5 år"
+            },
+            "pl": {
+                "singular": "Do wykorzystania w ciągu 5 lat"
+            },
+            "pt": {
+                "singular": "Resgatável em 5 anos"
+            },
+            "ru": {
+                "singular": "Погашается в течение 5 лет "
+            },
+            "sv": {
+                "singular": "Giltig i 5 år"
+            }
+        }
+    }
+}

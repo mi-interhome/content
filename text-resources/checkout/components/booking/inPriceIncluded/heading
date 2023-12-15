@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.inPriceIncluded.heading",
+    "name": "heading",
+    "path": "text-resources/checkout/components/booking/inPriceIncluded/heading",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/inPriceIncluded/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "inPriceIncluded",
+        "heading"
+    ],
+    "content": {
+        "key": "checkout.components.booking.inPriceIncluded.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zahrnuto v ceně"
+            },
+            "da": {
+                "singular": "Inkluderet i prisen"
+            },
+            "de": {
+                "singular": "Im Preis enthaltene Leistungen"
+            },
+            "de-AT": {
+                "singular": "Im Preis enthaltene Leistungen"
+            },
+            "de-CH": {
+                "singular": "Im Preis enthaltene Leistungen"
+            },
+            "de-DE": {
+                "singular": "Im Preis enthaltene Leistungen"
+            },
+            "en": {
+                "singular": "Included in price"
+            },
+            "en-AU": {
+                "singular": "Included in price"
+            },
+            "en-CA": {
+                "singular": "Included in price"
+            },
+            "en-GB": {
+                "singular": "Included in price"
+            },
+            "en-IE": {
+                "singular": "Included in price"
+            },
+            "en-US": {
+                "singular": "Included in price"
+            },
+            "es": {
+                "singular": "Incluído en el precio"
+            },
+            "fi": {
+                "singular": "Sisältyy hintaan"
+            },
+            "fi-EE": {
+                "singular": "Sisältyy hintaan"
+            },
+            "fi-FI": {
+                "singular": "Sisältyy hintaan"
+            },
+            "fr": {
+                "singular": "Inclus dans le prix"
+            },
+            "fr-BE": {
+                "singular": "Inclus dans le prix"
+            },
+            "fr-CA": {
+                "singular": "Inclus dans le prix"
+            },
+            "fr-CH": {
+                "singular": "Inclus dans le prix"
+            },
+            "fr-FR": {
+                "singular": "Inclus dans le prix"
+            },
+            "hr": {
+                "singular": "Uključeno u cijenu"
+            },
+            "it": {
+                "singular": "Inclusi nel prezzo"
+            },
+            "it-CH": {
+                "singular": "Inclusi nel prezzo"
+            },
+            "it-IT": {
+                "singular": "Inclusi nel prezzo"
+            },
+            "nl": {
+                "singular": "In prijs inbegrepen"
+            },
+            "nl-BE": {
+                "singular": "In prijs inbegrepen"
+            },
+            "nl-NL": {
+                "singular": "In prijs inbegrepen"
+            },
+            "no": {
+                "singular": "Inkludert i prisen"
+            },
+            "pl": {
+                "singular": "Wliczone w cenę"
+            },
+            "pt": {
+                "singular": "Incluído no preço"
+            },
+            "ru": {
+                "singular": "Включено в стоимость "
+            },
+            "sv": {
+                "singular": "Ingår i priset"
+            }
+        }
+    }
+}

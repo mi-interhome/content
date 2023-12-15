@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.pages.precheckins._token.pax.info",
+    "name": "info",
+    "path": "text-resources/precheckin/pages/precheckins/_token/pax/info",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/pax/info",
+    "slug": "info",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "pax",
+        "info"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.pax.info",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Uveďte prosím seznam cestujících osob"
+            },
+            "da": {
+                "singular": "Angiv venligst gæsterne"
+            },
+            "de": {
+                "singular": "Bitte führen Sie die reisenden Personen auf"
+            },
+            "de-AT": {
+                "singular": "Bitte führen Sie die reisenden Personen auf"
+            },
+            "de-CH": {
+                "singular": "Bitte führen Sie die reisenden Personen auf"
+            },
+            "de-DE": {
+                "singular": "Bitte führen Sie die reisenden Personen auf"
+            },
+            "en": {
+                "singular": "Please list the travelling persons"
+            },
+            "en-AU": {
+                "singular": "Please list the travelling persons"
+            },
+            "en-CA": {
+                "singular": "Please list the travelling persons"
+            },
+            "en-GB": {
+                "singular": "Please list the travelling persons"
+            },
+            "en-IE": {
+                "singular": "Please list the travelling persons"
+            },
+            "en-US": {
+                "singular": "Please list the travelling persons"
+            },
+            "es": {
+                "singular": "Por favor, indique las personas que viajan"
+            },
+            "fi": {
+                "singular": "Ole hyvä ja mainitse kaikki matkustajat"
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja mainitse kaikki matkustajat"
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja mainitse kaikki matkustajat"
+            },
+            "fr": {
+                "singular": "Veuillez indiquer qui sont les personnes"
+            },
+            "fr-BE": {
+                "singular": "Veuillez indiquer qui sont les personnes"
+            },
+            "fr-CA": {
+                "singular": "Veuillez indiquer qui sont les personnes"
+            },
+            "fr-CH": {
+                "singular": "Veuillez indiquer qui sont les personnes"
+            },
+            "fr-FR": {
+                "singular": "Veuillez indiquer qui sont les personnes"
+            },
+            "hr": {
+                "singular": "Navedite osobe koje putuju"
+            },
+            "it": {
+                "singular": "Si prega di elencare i dettagli degli ospiti"
+            },
+            "it-CH": {
+                "singular": "Si prega di elencare i dettagli degli ospiti"
+            },
+            "it-IT": {
+                "singular": "Si prega di elencare i dettagli degli ospiti"
+            },
+            "nl": {
+                "singular": "Vermeld alstublieft de reizende personen"
+            },
+            "nl-BE": {
+                "singular": "Vermeld alstublieft de reizende personen"
+            },
+            "nl-NL": {
+                "singular": "Vermeld alstublieft de reizende personen"
+            },
+            "no": {
+                "singular": "Vennligst oppgi de reisende personene"
+            },
+            "pl": {
+                "singular": "Prosimy podać dane osób wyjeżdżających"
+            },
+            "pt": {
+                "singular": "Indique as pessoas que estão a viajar"
+            },
+            "ru": {
+                "singular": "Пожалуйста, перечислите путешествующих лиц"
+            },
+            "sv": {
+                "singular": "Var god ange alla resande personer."
+            }
+        }
+    }
+}

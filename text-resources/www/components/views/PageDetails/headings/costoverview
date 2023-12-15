@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.PageDetails.headings.costoverview",
+    "name": "costoverview",
+    "path": "text-resources/www/components/views/PageDetails/headings/costoverview",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/PageDetails/headings/costoverview",
+    "slug": "costoverview",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "PageDetails",
+        "headings",
+        "costoverview"
+    ],
+    "content": {
+        "key": "www.components.views.PageDetails.headings.costoverview",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ceny"
+            },
+            "da": {
+                "singular": "Prisoversigt"
+            },
+            "de": {
+                "singular": "Kostenübersicht"
+            },
+            "de-AT": {
+                "singular": "Kostenübersicht"
+            },
+            "de-CH": {
+                "singular": "Kostenübersicht"
+            },
+            "de-DE": {
+                "singular": "Kostenübersicht"
+            },
+            "en": {
+                "singular": "Cost overview"
+            },
+            "en-AU": {
+                "singular": "Cost overview"
+            },
+            "en-CA": {
+                "singular": "Cost overview"
+            },
+            "en-GB": {
+                "singular": "Cost overview"
+            },
+            "en-IE": {
+                "singular": "Cost overview"
+            },
+            "en-US": {
+                "singular": "Cost overview"
+            },
+            "es": {
+                "singular": "Precio"
+            },
+            "fi": {
+                "singular": "Hintatiedot"
+            },
+            "fi-EE": {
+                "singular": "Hintatiedot"
+            },
+            "fi-FI": {
+                "singular": "Hintatiedot"
+            },
+            "fr": {
+                "singular": "Détail des coûts"
+            },
+            "fr-BE": {
+                "singular": "Détail des coûts"
+            },
+            "fr-CA": {
+                "singular": "Détail des coûts"
+            },
+            "fr-CH": {
+                "singular": "Détail des coûts"
+            },
+            "fr-FR": {
+                "singular": "Détail des coûts"
+            },
+            "hr": {
+                "singular": "Pregled cijena"
+            },
+            "it": {
+                "singular": "Prezzi"
+            },
+            "it-CH": {
+                "singular": "Prezzi"
+            },
+            "it-IT": {
+                "singular": "Prezzi"
+            },
+            "nl": {
+                "singular": "Kostenoverzicht"
+            },
+            "nl-BE": {
+                "singular": "Kostenoverzicht"
+            },
+            "nl-NL": {
+                "singular": "Kostenoverzicht"
+            },
+            "no": {
+                "singular": "Prisoversikt"
+            },
+            "pl": {
+                "singular": "Przegląd kosztów"
+            },
+            "pt": {
+                "singular": "Preço"
+            },
+            "ru": {
+                "singular": "Обзор цен"
+            },
+            "sv": {
+                "singular": "Kostnadsöversikt"
+            }
+        }
+    }
+}

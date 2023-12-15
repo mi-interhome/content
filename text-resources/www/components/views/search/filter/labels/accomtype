@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.filter.labels.accomtype",
+    "name": "accomtype",
+    "path": "text-resources/www/components/views/search/filter/labels/accomtype",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/filter/labels/accomtype",
+    "slug": "accomtype",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "filter",
+        "labels",
+        "accomtype"
+    ],
+    "content": {
+        "key": "www.components.views.search.filter.labels.accomtype",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Typ ubytování"
+            },
+            "da": {
+                "singular": "overnatningstype"
+            },
+            "de": {
+                "singular": "Ferienhaustyp"
+            },
+            "de-AT": {
+                "singular": "Ferienhaustyp"
+            },
+            "de-CH": {
+                "singular": "Ferienhaustyp"
+            },
+            "de-DE": {
+                "singular": "Ferienhaustyp"
+            },
+            "en": {
+                "singular": "Type of Accommodation"
+            },
+            "en-AU": {
+                "singular": "Type of Accommodation"
+            },
+            "en-CA": {
+                "singular": "Type of Accommodation"
+            },
+            "en-GB": {
+                "singular": "Type of Accommodation"
+            },
+            "en-IE": {
+                "singular": "Type of Accommodation"
+            },
+            "en-US": {
+                "singular": "Type of Accommodation"
+            },
+            "es": {
+                "singular": "Tipo de alojamiento"
+            },
+            "fi": {
+                "singular": "Loma-asunnon tyyppi"
+            },
+            "fi-EE": {
+                "singular": "Loma-asunnon tyyppi"
+            },
+            "fi-FI": {
+                "singular": "Loma-asunnon tyyppi"
+            },
+            "fr": {
+                "singular": "Type d'hébergement"
+            },
+            "fr-BE": {
+                "singular": "Type d'hébergement"
+            },
+            "fr-CA": {
+                "singular": "Type d'hébergement"
+            },
+            "fr-CH": {
+                "singular": "Type d'hébergement"
+            },
+            "fr-FR": {
+                "singular": "Type d'hébergement"
+            },
+            "hr": {
+                "singular": "Tip objekta"
+            },
+            "it": {
+                "singular": "Tipologia di abitazione"
+            },
+            "it-CH": {
+                "singular": "Tipologia di abitazione"
+            },
+            "it-IT": {
+                "singular": "Tipologia di abitazione"
+            },
+            "nl": {
+                "singular": "Type accommodatie"
+            },
+            "nl-BE": {
+                "singular": "Type accommodatie"
+            },
+            "nl-NL": {
+                "singular": "Type accommodatie"
+            },
+            "no": {
+                "singular": "overnattingstype"
+            },
+            "pl": {
+                "singular": "Rodzaj domu"
+            },
+            "pt": {
+                "singular": "Tipo de acomodação"
+            },
+            "ru": {
+                "singular": "Тип размещения"
+            },
+            "sv": {
+                "singular": "Typ av boende"
+            }
+        }
+    }
+}

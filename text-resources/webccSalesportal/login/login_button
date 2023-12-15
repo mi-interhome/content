@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.login.login_button",
+    "name": "login_button",
+    "path": "text-resources/webccSalesportal/login/login_button",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/login_button",
+    "slug": "login_button",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "login_button"
+    ],
+    "content": {
+        "key": "webccSalesportal.login.login_button",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přihlásit"
+            },
+            "da": {
+                "singular": "Log ind"
+            },
+            "de": {
+                "singular": "Login"
+            },
+            "de-AT": {
+                "singular": "Login"
+            },
+            "de-CH": {
+                "singular": "Login"
+            },
+            "de-DE": {
+                "singular": "Login"
+            },
+            "en": {
+                "singular": "Log In"
+            },
+            "en-AU": {
+                "singular": "Log In"
+            },
+            "en-CA": {
+                "singular": "Log In"
+            },
+            "en-GB": {
+                "singular": "Log In"
+            },
+            "en-IE": {
+                "singular": "Log In"
+            },
+            "en-US": {
+                "singular": "Log In"
+            },
+            "es": {
+                "singular": "Login"
+            },
+            "fi": {
+                "singular": "Kirjaudu"
+            },
+            "fi-EE": {
+                "singular": "Kirjaudu"
+            },
+            "fi-FI": {
+                "singular": "Kirjaudu"
+            },
+            "fr": {
+                "singular": "Se connecter"
+            },
+            "fr-BE": {
+                "singular": "Se connecter"
+            },
+            "fr-CA": {
+                "singular": "Se connecter"
+            },
+            "fr-CH": {
+                "singular": "Se connecter"
+            },
+            "fr-FR": {
+                "singular": "Se connecter"
+            },
+            "hr": {
+                "singular": "Prijava"
+            },
+            "it": {
+                "singular": "Login"
+            },
+            "it-CH": {
+                "singular": "Login"
+            },
+            "it-IT": {
+                "singular": "Login"
+            },
+            "nl": {
+                "singular": "Login"
+            },
+            "nl-BE": {
+                "singular": "Login"
+            },
+            "nl-NL": {
+                "singular": "Login"
+            },
+            "no": {
+                "singular": "Logg inn"
+            },
+            "pl": {
+                "singular": "Zaloguj się"
+            },
+            "pt": {
+                "singular": "Conecte-se"
+            },
+            "ru": {
+                "singular": "Логин"
+            },
+            "sv": {
+                "singular": "Logga in"
+            }
+        }
+    }
+}

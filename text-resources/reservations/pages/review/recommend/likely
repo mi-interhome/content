@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.recommend.likely",
+    "name": "likely",
+    "path": "text-resources/reservations/pages/review/recommend/likely",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/recommend/likely",
+    "slug": "likely",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "recommend",
+        "likely"
+    ],
+    "content": {
+        "key": "reservations.pages.review.recommend.likely",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "s velkou pravděpodobností ano"
+            },
+            "da": {
+                "singular": "Meget sandsynligt"
+            },
+            "de": {
+                "singular": "sehr wahrscheinlich"
+            },
+            "de-AT": {
+                "singular": "sehr wahrscheinlich"
+            },
+            "de-CH": {
+                "singular": "sehr wahrscheinlich"
+            },
+            "de-DE": {
+                "singular": "sehr wahrscheinlich"
+            },
+            "en": {
+                "singular": "extremely likely"
+            },
+            "en-AU": {
+                "singular": "extremely likely"
+            },
+            "en-CA": {
+                "singular": "extremely likely"
+            },
+            "en-GB": {
+                "singular": "extremely likely"
+            },
+            "en-IE": {
+                "singular": "extremely likely"
+            },
+            "en-US": {
+                "singular": "extremely likely"
+            },
+            "es": {
+                "singular": "Probablemente sí"
+            },
+            "fi": {
+                "singular": "Erittäin todennäköisesti"
+            },
+            "fi-EE": {
+                "singular": "Erittäin todennäköisesti"
+            },
+            "fi-FI": {
+                "singular": "Erittäin todennäköisesti"
+            },
+            "fr": {
+                "singular": "Très probable"
+            },
+            "fr-BE": {
+                "singular": "Très probable"
+            },
+            "fr-CA": {
+                "singular": "Très probable"
+            },
+            "fr-CH": {
+                "singular": "Très probable"
+            },
+            "fr-FR": {
+                "singular": "Très probable"
+            },
+            "hr": {
+                "singular": "Svakako preporučamo "
+            },
+            "it": {
+                "singular": "Assolutamente si"
+            },
+            "it-CH": {
+                "singular": "Assolutamente si"
+            },
+            "it-IT": {
+                "singular": "Assolutamente si"
+            },
+            "nl": {
+                "singular": "Zeer waarschijnlijk"
+            },
+            "nl-BE": {
+                "singular": "Zeer waarschijnlijk"
+            },
+            "nl-NL": {
+                "singular": "Zeer waarschijnlijk"
+            },
+            "no": {
+                "singular": "Svært sannsynlig"
+            },
+            "pl": {
+                "singular": "Zdecydowanie tak"
+            },
+            "pt": {
+                "singular": "Muito provavelmente sim"
+            },
+            "ru": {
+                "singular": "Очень вероятно"
+            },
+            "sv": {
+                "singular": "Mycket sannolikt"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.paymentMethod.ECVpartialInfo",
+    "name": "ECVpartialInfo",
+    "path": "text-resources/checkout/components/booking/paymentMethod/ECVpartialInfo",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/paymentMethod/ECVpartialInfo",
+    "slug": "ECVpartialInfo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "paymentMethod",
+        "ECVpartialInfo"
+    ],
+    "content": {
+        "key": "checkout.components.booking.paymentMethod.ECVpartialInfo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Záloha u Chèque-Vacances Connect"
+            },
+            "da": {
+                "singular": "Acontobetaling med Chèque-Vacances Connect"
+            },
+            "de": {
+                "singular": "Anzahlung mit Chèque-Vacances Connect"
+            },
+            "de-AT": {
+                "singular": "Anzahlung mit Chèque-Vacances Connect"
+            },
+            "de-CH": {
+                "singular": "Anzahlung mit Chèque-Vacances Connect"
+            },
+            "de-DE": {
+                "singular": "Anzahlung mit Chèque-Vacances Connect"
+            },
+            "en": {
+                "singular": "Down payment with Chèque-Vacances Connect"
+            },
+            "en-AU": {
+                "singular": "Down payment with Chèque-Vacances Connect"
+            },
+            "en-CA": {
+                "singular": "Down payment with Chèque-Vacances Connect"
+            },
+            "en-GB": {
+                "singular": "Down payment with Chèque-Vacances Connect"
+            },
+            "en-IE": {
+                "singular": "Down payment with Chèque-Vacances Connect"
+            },
+            "en-US": {
+                "singular": "Down payment with Chèque-Vacances Connect"
+            },
+            "es": {
+                "singular": "Pago inicial con Chèque-Vacances Connect"
+            },
+            "fi": {
+                "singular": "Loppumaksu Chèque-Vacances Connect -sekillä"
+            },
+            "fi-EE": {
+                "singular": "Loppumaksu Chèque-Vacances Connect -sekillä"
+            },
+            "fi-FI": {
+                "singular": "Loppumaksu Chèque-Vacances Connect -sekillä"
+            },
+            "fr": {
+                "singular": "Acompte Chèque-Vacances Connect"
+            },
+            "fr-BE": {
+                "singular": "Acompte Chèque-Vacances Connect"
+            },
+            "fr-CA": {
+                "singular": "Acompte Chèque-Vacances Connect"
+            },
+            "fr-CH": {
+                "singular": "Acompte Chèque-Vacances Connect"
+            },
+            "fr-FR": {
+                "singular": "Acompte Chèque-Vacances Connect"
+            },
+            "hr": {
+                "singular": "Kapara s Chèque-Vacances Connect"
+            },
+            "it": {
+                "singular": "Acconto con Chèque-Vacances Connect"
+            },
+            "it-CH": {
+                "singular": "Acconto con Chèque-Vacances Connect"
+            },
+            "it-IT": {
+                "singular": "Acconto con Chèque-Vacances Connect"
+            },
+            "nl": {
+                "singular": "Aanbetaling met Chèque-Vacances Connect"
+            },
+            "nl-BE": {
+                "singular": "Aanbetaling met Chèque-Vacances Connect"
+            },
+            "nl-NL": {
+                "singular": "Aanbetaling met Chèque-Vacances Connect"
+            },
+            "no": {
+                "singular": "Nedbetaling med Chèque-Vacances Connect"
+            },
+            "pl": {
+                "singular": "Płatność za pośrednictwem Chèque-Vacances Connect"
+            },
+            "pt": {
+                "singular": "Pagamento inicial com Chèque-Vacances Connect"
+            },
+            "ru": {
+                "singular": "Авансовый платеж с помощью Chèque-Vacances Connect"
+            },
+            "sv": {
+                "singular": "Restbetalning med Chèque-Vacances Connect"
+            }
+        }
+    }
+}

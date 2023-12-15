@@ -1,0 +1,192 @@
+{
+    "id": "precheckin.components.accommodationView.featureList.room_s",
+    "name": "room_s",
+    "path": "text-resources/precheckin/components/accommodationView/featureList/room_s",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/accommodationView/featureList/room_s",
+    "slug": "room_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "accommodationView",
+        "featureList",
+        "room_s"
+    ],
+    "content": {
+        "key": "precheckin.components.accommodationView.featureList.room_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "žádné pokoje",
+                "singular": "jeden pokoj",
+                "plural": "{count} pokoje/pokojů"
+            },
+            "da": {
+                "zero": "ingen værelser",
+                "singular": "et værelse",
+                "plural": "{count} værelser"
+            },
+            "de": {
+                "zero": "keine Zimmer",
+                "singular": "ein Zimmer",
+                "plural": "{count} Zimmer"
+            },
+            "de-AT": {
+                "zero": "keine Zimmer",
+                "singular": "ein Zimmer",
+                "plural": "{count} Zimmer"
+            },
+            "de-CH": {
+                "zero": "keine Zimmer",
+                "singular": "ein Zimmer",
+                "plural": "{count} Zimmer"
+            },
+            "de-DE": {
+                "zero": "keine Zimmer",
+                "singular": "ein Zimmer",
+                "plural": "{count} Zimmer"
+            },
+            "en": {
+                "zero": "no rooms",
+                "singular": "one room",
+                "plural": "{count} rooms"
+            },
+            "en-AU": {
+                "zero": "no rooms",
+                "singular": "one room",
+                "plural": "{count} rooms"
+            },
+            "en-CA": {
+                "zero": "no rooms",
+                "singular": "one room",
+                "plural": "{count} rooms"
+            },
+            "en-GB": {
+                "zero": "no rooms",
+                "singular": "one room",
+                "plural": "{count} rooms"
+            },
+            "en-IE": {
+                "zero": "no rooms",
+                "singular": "one room",
+                "plural": "{count} rooms"
+            },
+            "en-US": {
+                "zero": "no rooms",
+                "singular": "one room",
+                "plural": "{count} rooms"
+            },
+            "es": {
+                "zero": "Sin habitaciones",
+                "singular": "Estudio",
+                "plural": "{count} estancias "
+            },
+            "fi": {
+                "zero": "ei huoneita",
+                "singular": "yksi huone",
+                "plural": "{count} huonetta "
+            },
+            "fi-EE": {
+                "zero": "no rooms",
+                "singular": "yksi huone",
+                "plural": "{count} Huonetta"
+            },
+            "fi-FI": {
+                "zero": "ei huoneita",
+                "singular": "yksi huone",
+                "plural": "{count} huonetta "
+            },
+            "fr": {
+                "zero": "Pas de pièce",
+                "singular": "1 pièce",
+                "plural": "{count} pièces"
+            },
+            "fr-BE": {
+                "zero": "Pas de pièce",
+                "singular": "1 pièce",
+                "plural": "{count} pièces"
+            },
+            "fr-CA": {
+                "zero": "Pas de pièce",
+                "singular": "1 pièce",
+                "plural": "{count} pièces"
+            },
+            "fr-CH": {
+                "zero": "Pas de pièce",
+                "singular": "1 pièce",
+                "plural": "{count} pièces"
+            },
+            "fr-FR": {
+                "zero": "Pas de pièce",
+                "singular": "1 pièce",
+                "plural": "{count} pièces"
+            },
+            "hr": {
+                "zero": "bez soba",
+                "singular": "jedna soba",
+                "plural": "{count} soba/-e"
+            },
+            "it": {
+                "zero": "nr stanze",
+                "singular": "una stanza",
+                "plural": "{count} stanze"
+            },
+            "it-CH": {
+                "zero": "nr stanze",
+                "singular": "una stanza",
+                "plural": "{count} stanze"
+            },
+            "it-IT": {
+                "zero": "nr stanze",
+                "singular": "una stanza",
+                "plural": "{count} stanze"
+            },
+            "nl": {
+                "zero": "Geen kamers",
+                "singular": "1 kamer",
+                "plural": "{count}  kamers"
+            },
+            "nl-BE": {
+                "zero": "Geen kamers",
+                "singular": "1 kamer",
+                "plural": "{count}  kamers"
+            },
+            "nl-NL": {
+                "zero": "Geen kamers",
+                "singular": "1 kamer",
+                "plural": "{count}  kamers"
+            },
+            "no": {
+                "zero": "ingen rom",
+                "singular": "ett rom",
+                "plural": "{count} rom"
+            },
+            "pl": {
+                "zero": "brak pokoi",
+                "singular": "jeden pokój",
+                "plural": "{count} liczba pokoi"
+            },
+            "pt": {
+                "zero": "sem assoalhadas",
+                "singular": "uma assoalhada",
+                "plural": "{count} assoalhadas"
+            },
+            "ru": {
+                "zero": "нет комнат",
+                "singular": "одна комната",
+                "plural": "{count} комнат/ы"
+            },
+            "sv": {
+                "zero": "inga rum",
+                "singular": "ett rum",
+                "plural": "{count} rum"
+            }
+        }
+    }
+}

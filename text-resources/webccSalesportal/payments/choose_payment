@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.payments.choose_payment",
+    "name": "choose_payment",
+    "path": "text-resources/webccSalesportal/payments/choose_payment",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/choose_payment",
+    "slug": "choose_payment",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "choose_payment"
+    ],
+    "content": {
+        "key": "webccSalesportal.payments.choose_payment",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zvolte prosím platební metodu"
+            },
+            "da": {
+                "singular": "Vælg en betalingsmetode"
+            },
+            "de": {
+                "singular": "Bitte wählen Sie eine Zahlungsart"
+            },
+            "de-AT": {
+                "singular": "Bitte wählen Sie eine Zahlungsart"
+            },
+            "de-CH": {
+                "singular": "Bitte wählen Sie eine Zahlungsart"
+            },
+            "de-DE": {
+                "singular": "Bitte wählen Sie eine Zahlungsart"
+            },
+            "en": {
+                "singular": "Please choose a payment method"
+            },
+            "en-AU": {
+                "singular": "Please choose a payment method"
+            },
+            "en-CA": {
+                "singular": "Please choose a payment method"
+            },
+            "en-GB": {
+                "singular": "Please choose a payment method"
+            },
+            "en-IE": {
+                "singular": "Please choose a payment method"
+            },
+            "en-US": {
+                "singular": "Please choose a payment method"
+            },
+            "es": {
+                "singular": "Por favor, seleccione un método de pago"
+            },
+            "fi": {
+                "singular": "Valitse maksutappa"
+            },
+            "fi-EE": {
+                "singular": "Valitse maksutappa"
+            },
+            "fi-FI": {
+                "singular": "Valitse maksutappa"
+            },
+            "fr": {
+                "singular": "Merci de choisir un mode de paiement"
+            },
+            "fr-BE": {
+                "singular": "Merci de choisir un mode de paiement"
+            },
+            "fr-CA": {
+                "singular": "Merci de choisir un mode de paiement"
+            },
+            "fr-CH": {
+                "singular": "Merci de choisir un mode de paiement"
+            },
+            "fr-FR": {
+                "singular": "Merci de choisir un mode de paiement"
+            },
+            "hr": {
+                "singular": "Molimo odaberite način plaćanja"
+            },
+            "it": {
+                "singular": "Ti preghiamo di selezionare un metodo di pagamento"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di selezionare un metodo di pagamento"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di selezionare un metodo di pagamento"
+            },
+            "nl": {
+                "singular": "Gelieve een betaalmethode te kiezen"
+            },
+            "nl-BE": {
+                "singular": "Gelieve een betaalmethode te kiezen"
+            },
+            "nl-NL": {
+                "singular": "Gelieve een betaalmethode te kiezen"
+            },
+            "no": {
+                "singular": "Velg en betalingsmåte"
+            },
+            "pl": {
+                "singular": "Proszę wybrać metodę płatności"
+            },
+            "pt": {
+                "singular": "Por favor, escolha uma forma de pagamento"
+            },
+            "ru": {
+                "singular": "Пожалуйста, выберите способ оплаты"
+            },
+            "sv": {
+                "singular": "Välj en betalningsmetod"
+            }
+        }
+    }
+}

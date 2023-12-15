@@ -1,0 +1,128 @@
+{
+    "id": "www.pages.emails._hash.optin.error.heading",
+    "name": "heading",
+    "path": "text-resources/www/pages/emails/_hash/optin/error/heading",
+    "folder": "text-resources",
+    "full_slug": "www/pages/emails/_hash/optin/error/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "emails",
+        "_hash",
+        "optin",
+        "error",
+        "heading"
+    ],
+    "content": {
+        "key": "www.pages.emails._hash.optin.error.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Během potvrzování došlo bohužel k chybě."
+            },
+            "da": {
+                "singular": "Desværre opstod der en fejl under bekræftelsen."
+            },
+            "de": {
+                "singular": "Leider ist bei der Bestätigung ein Fehler aufgetreten."
+            },
+            "de-AT": {
+                "singular": "Leider ist bei der Bestätigung ein Fehler aufgetreten."
+            },
+            "de-CH": {
+                "singular": "Leider ist bei der Bestätigung ein Fehler aufgetreten."
+            },
+            "de-DE": {
+                "singular": "Leider ist bei der Bestätigung ein Fehler aufgetreten."
+            },
+            "en": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "en-AU": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "en-CA": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "en-GB": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "en-IE": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "en-US": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "es": {
+                "singular": "Lamentablemente, ocurrió un error."
+            },
+            "fi": {
+                "singular": "Valitettavasti vahvistuksen aikana tapahtui virhe."
+            },
+            "fi-EE": {
+                "singular": "Unfortunately, an error occurred during confirmation."
+            },
+            "fi-FI": {
+                "singular": "Valitettavasti vahvistuksen aikana tapahtui virhe."
+            },
+            "fr": {
+                "singular": "Malheureusement, une erreur est survenue lors de la confirmation."
+            },
+            "fr-BE": {
+                "singular": "Malheureusement, une erreur est survenue lors de la confirmation."
+            },
+            "fr-CA": {
+                "singular": "Malheureusement, une erreur est survenue lors de la confirmation."
+            },
+            "fr-CH": {
+                "singular": "Malheureusement, une erreur est survenue lors de la confirmation."
+            },
+            "fr-FR": {
+                "singular": "Malheureusement, une erreur est survenue lors de la confirmation."
+            },
+            "hr": {
+                "singular": "Nažalost prilikom prijave došlo je do pogreške"
+            },
+            "it": {
+                "singular": "Purtroppo è verificato un errore"
+            },
+            "it-CH": {
+                "singular": "Purtroppo è verificato un errore"
+            },
+            "it-IT": {
+                "singular": "Purtroppo è verificato un errore"
+            },
+            "nl": {
+                "singular": "Helaas is er een fout opgetreden tijdens de bevestiging."
+            },
+            "nl-BE": {
+                "singular": "Helaas is er een fout opgetreden tijdens de bevestiging."
+            },
+            "nl-NL": {
+                "singular": "Helaas is er een fout opgetreden tijdens de bevestiging."
+            },
+            "no": {
+                "singular": "Dessverre oppstod det en feil under bekreftelsen."
+            },
+            "pl": {
+                "singular": "Wystąpił błąd."
+            },
+            "pt": {
+                "singular": "Infelizmente, ocorreu um erro durante a confirmação."
+            },
+            "ru": {
+                "singular": "К сожалению, при подтверждении произошла ошибка."
+            },
+            "sv": {
+                "singular": "Tyvärr uppstod ett fel under bekräftelsen."
+            }
+        }
+    }
+}

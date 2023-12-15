@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.pax.adults",
+    "name": "adults",
+    "path": "text-resources/www/components/views/Content/OfferRequest/form/pax/adults",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/pax/adults",
+    "slug": "adults",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "pax",
+        "adults"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.pax.adults",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dospělí (od 18 let)"
+            },
+            "da": {
+                "singular": "Voksne (18+ år)"
+            },
+            "de": {
+                "singular": "Erwachsene (ab 18 Jahren)"
+            },
+            "de-AT": {
+                "singular": "Erwachsene (ab 18 Jahren)"
+            },
+            "de-CH": {
+                "singular": "Erwachsene (ab 18 Jahren)"
+            },
+            "de-DE": {
+                "singular": "Erwachsene (ab 18 Jahren)"
+            },
+            "en": {
+                "singular": "Adults (18 yrs and over)"
+            },
+            "en-AU": {
+                "singular": "Adults (18 yrs and over)"
+            },
+            "en-CA": {
+                "singular": "Adults (18 yrs and over)"
+            },
+            "en-GB": {
+                "singular": "Adults (18 yrs and over)"
+            },
+            "en-IE": {
+                "singular": "Adults (18 yrs and over)"
+            },
+            "en-US": {
+                "singular": "Adults (18 yrs and over)"
+            },
+            "es": {
+                "singular": "Adultos (a partir de 18 años)"
+            },
+            "fi": {
+                "singular": "Aikuiset (yli 18-vuotiaat)"
+            },
+            "fi-EE": {
+                "singular": "Aikuisia (yli 18-vuotiaat)"
+            },
+            "fi-FI": {
+                "singular": "Aikuiset (yli 18-vuotiaat)"
+            },
+            "fr": {
+                "singular": "Adultes (à partir de 18 ans)"
+            },
+            "fr-BE": {
+                "singular": "Adultes (à partir de 18 ans)"
+            },
+            "fr-CA": {
+                "singular": "Adultes (à partir de 18 ans)"
+            },
+            "fr-CH": {
+                "singular": "Adultes (à partir de 18 ans)"
+            },
+            "fr-FR": {
+                "singular": "Adultes (à partir de 18 ans)"
+            },
+            "hr": {
+                "singular": "Odrasli (18 i više godina)"
+            },
+            "it": {
+                "singular": "Adulti (da 18 anni)"
+            },
+            "it-CH": {
+                "singular": "Adulti (da 18 anni)"
+            },
+            "it-IT": {
+                "singular": "Adulti (da 18 anni)"
+            },
+            "nl": {
+                "singular": "Volwassenen (vanaf 18 jaar)"
+            },
+            "nl-BE": {
+                "singular": "Volwassenen (vanaf 18 jaar)"
+            },
+            "nl-NL": {
+                "singular": "Volwassenen (vanaf 18 jaar)"
+            },
+            "no": {
+                "singular": "Voksne (18+ år)"
+            },
+            "pl": {
+                "singular": "Dorośli (powyżej 18 lat)"
+            },
+            "pt": {
+                "singular": "Adultos (a partir dos 18 anos)"
+            },
+            "ru": {
+                "singular": "Взрослые (от 18 лет)"
+            },
+            "sv": {
+                "singular": "Vuxna (18 år och uppåt)"
+            }
+        }
+    }
+}

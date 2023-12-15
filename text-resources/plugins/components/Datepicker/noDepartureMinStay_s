@@ -1,0 +1,158 @@
+{
+    "id": "plugins.components.Datepicker.noDepartureMinStay_s",
+    "name": "noDepartureMinStay_s",
+    "path": "text-resources/plugins/components/Datepicker/noDepartureMinStay_s",
+    "folder": "text-resources",
+    "full_slug": "plugins/components/Datepicker/noDepartureMinStay_s",
+    "slug": "noDepartureMinStay_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "plugins",
+        "components",
+        "Datepicker",
+        "noDepartureMinStay_s"
+    ],
+    "content": {
+        "key": "plugins.components.Datepicker.noDepartureMinStay_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odjezd není možný, min. délka pobytu je jedna noc",
+                "plural": "Odjezd není možný, min. počet nocí: {count}"
+            },
+            "da": {
+                "singular": "Ingen afrejse mulig, min. ophold en overnatning",
+                "plural": "Ingen afrejse mulig, min. ophold {count} nætter"
+            },
+            "de": {
+                "singular": "Keine Abreise möglich, Mindestaufenthalt eine Nacht",
+                "plural": "Keine Abreise möglich, Mindestaufenthalt {count} Nächte"
+            },
+            "de-AT": {
+                "singular": "Keine Abreise möglich, Mindestaufenthalt eine Nacht",
+                "plural": "Keine Abreise möglich, Mindestaufenthalt {count} Nächte"
+            },
+            "de-CH": {
+                "singular": "Keine Abreise möglich, Mindestaufenthalt eine Nacht",
+                "plural": "Keine Abreise möglich, Mindestaufenthalt {count} Nächte"
+            },
+            "de-DE": {
+                "singular": "Keine Abreise möglich, Mindestaufenthalt eine Nacht",
+                "plural": "Keine Abreise möglich, Mindestaufenthalt {count} Nächte"
+            },
+            "en": {
+                "singular": "No departure possible, minimum stay one night",
+                "plural": "No departure possible, minimum stay {count} nights"
+            },
+            "en-AU": {
+                "singular": "No departure possible, minimum stay one night",
+                "plural": "No departure possible, minimum stay {count} nights"
+            },
+            "en-CA": {
+                "singular": "No departure possible, minimum stay one night",
+                "plural": "No departure possible, minimum stay {count} nights"
+            },
+            "en-GB": {
+                "singular": "No departure possible, minimum stay one night",
+                "plural": "No departure possible, minimum stay {count} nights"
+            },
+            "en-IE": {
+                "singular": "No departure possible, minimum stay one night",
+                "plural": "No departure possible, minimum stay {count} nights"
+            },
+            "en-US": {
+                "singular": "No departure possible, minimum stay one night",
+                "plural": "No departure possible, minimum stay {count} nights"
+            },
+            "es": {
+                "singular": "La salida no es posible, la estancia mínima es de una noche",
+                "plural": "La salida no es posible, la estancia mínima es de {count} noches"
+            },
+            "fi": {
+                "singular": "Lähtöpäivä ei ole mahdollinen, valittava vähintään yksi yö",
+                "plural": "Lähtöpäivä ei ole mahdollinen, valittava vähintään {count} yötä"
+            },
+            "fi-EE": {
+                "singular": "Lähtöpäivä ei ole mahdollinen, valittava vähintään yksi yö",
+                "plural": "Lähtöpäivä ei ole mahdollinen, valittava vähintään {count} yötä"
+            },
+            "fi-FI": {
+                "singular": "Lähtöpäivä ei ole mahdollinen, valittava vähintään yksi yö",
+                "plural": "Lähtöpäivä ei ole mahdollinen, valittava vähintään {count} yötä"
+            },
+            "fr": {
+                "singular": "Pas de départ possible, séjour minimum d'une nuit",
+                "plural": "Pas de départ possible, séjour minimum de {count} nuits"
+            },
+            "fr-BE": {
+                "singular": "Pas de départ possible, séjour minimum d'une nuit",
+                "plural": "Pas de départ possible, séjour minimum de {count} nuits"
+            },
+            "fr-CA": {
+                "singular": "Pas de départ possible, séjour minimum d'une nuit",
+                "plural": "Pas de départ possible, séjour minimum de {count} nuits"
+            },
+            "fr-CH": {
+                "singular": "Pas de départ possible, séjour minimum d'une nuit",
+                "plural": "Pas de départ possible, séjour minimum de {count} nuits"
+            },
+            "fr-FR": {
+                "singular": "Pas de départ possible, séjour minimum d'une nuit",
+                "plural": "Pas de départ possible, séjour minimum de {count} nuits"
+            },
+            "hr": {
+                "singular": "Odlazak nije moguć, minimalno jedno noćenje",
+                "plural": "Odlazak nije moguć, minimalno {count} noćenja"
+            },
+            "it": {
+                "singular": "Nessuna partenza possibile, soggiorno di minimo 1 notte",
+                "plural": "Nessuna partenza possibile, soggiorno di minimo {count} notti"
+            },
+            "it-CH": {
+                "singular": "Nessuna partenza possibile, soggiorno di minimo 1 notte",
+                "plural": "Nessuna partenza possibile, soggiorno di minimo {count} notti"
+            },
+            "it-IT": {
+                "singular": "Nessuna partenza possibile, soggiorno di minimo 1 notte",
+                "plural": "Nessuna partenza possibile, soggiorno di minimo {count} notti"
+            },
+            "nl": {
+                "singular": "Geen vertrek mogelijk, minimaal verblijf van 1 nacht",
+                "plural": "Geen vertrek mogelijk, minimaal verblijf van {count} nachten"
+            },
+            "nl-BE": {
+                "singular": "Geen vertrek mogelijk, minimaal verblijf van 1 nacht",
+                "plural": "Geen vertrek mogelijk, minimaal verblijf van {count} nachten"
+            },
+            "nl-NL": {
+                "singular": "Geen vertrek mogelijk, minimaal verblijf van 1 nacht",
+                "plural": "Geen vertrek mogelijk, minimaal verblijf van {count} nachten"
+            },
+            "no": {
+                "singular": "Ingen avgang mulig, min. opphold en natt",
+                "plural": "Ingen avgang mulig, min. opphold {count} netter"
+            },
+            "pl": {
+                "singular": "Nie ma możliwości wyjazdu, min. 1 dzień pobytu",
+                "plural": "Nie ma możliwości wyjazdu, min. {count} dzień pobytu"
+            },
+            "pt": {
+                "singular": "A saída não é possível, a estadia mínima é de uma noite",
+                "plural": "A saída não é possível, a estadia mínima é de {count} noites"
+            },
+            "ru": {
+                "singular": "Выезд невозможен, минимальный срок пребывания одна ночь",
+                "plural": "Выезд невозможен, минимальный срок пребывания: {count} ночей"
+            },
+            "sv": {
+                "singular": "Ingen avresa möjlig, min. vistelse en natt",
+                "plural": "Ingen avresa möjlig, min. vistelse {count} nätter"
+            }
+        }
+    }
+}

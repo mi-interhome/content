@@ -1,0 +1,96 @@
+{
+    "id": "checkout.components.booking.paymentMethod.TW",
+    "name": "TW",
+    "path": "text-resources/checkout/components/booking/paymentMethod/TW",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/paymentMethod/TW",
+    "slug": "TW",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "paymentMethod",
+        "TW"
+    ],
+    "content": {
+        "key": "checkout.components.booking.paymentMethod.TW",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "TWINT"
+            },
+            "de-AT": {
+                "singular": "TWINT"
+            },
+            "de-CH": {
+                "singular": "TWINT"
+            },
+            "de-DE": {
+                "singular": "TWINT"
+            },
+            "en": {
+                "singular": "TWINT"
+            },
+            "en-AU": {
+                "singular": "TWINT"
+            },
+            "en-CA": {
+                "singular": "TWINT"
+            },
+            "en-GB": {
+                "singular": "TWINT"
+            },
+            "en-IE": {
+                "singular": "TWINT"
+            },
+            "en-US": {
+                "singular": "TWINT"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {
+                "singular": "TWINT"
+            },
+            "fr-BE": {
+                "singular": "TWINT"
+            },
+            "fr-CA": {
+                "singular": "TWINT"
+            },
+            "fr-CH": {
+                "singular": "TWINT"
+            },
+            "fr-FR": {
+                "singular": "TWINT"
+            },
+            "hr": {},
+            "it": {
+                "singular": "TWINT"
+            },
+            "it-CH": {
+                "singular": "TWINT"
+            },
+            "it-IT": {
+                "singular": "TWINT"
+            },
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

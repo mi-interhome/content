@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.activities.holidayTypeHeading",
+    "name": "holidayTypeHeading",
+    "path": "text-resources/www/components/views/search/newFilter/filterSections/activities/holidayTypeHeading",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/activities/holidayTypeHeading",
+    "slug": "holidayTypeHeading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "activities",
+        "holidayTypeHeading"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.activities.holidayTypeHeading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další možnosti"
+            },
+            "da": {
+                "singular": "Ferietema"
+            },
+            "de": {
+                "singular": "Urlaubsart"
+            },
+            "de-AT": {
+                "singular": "Urlaubsart"
+            },
+            "de-CH": {
+                "singular": "Art der Ferien"
+            },
+            "de-DE": {
+                "singular": "Urlaubsart"
+            },
+            "en": {
+                "singular": "Type of holiday"
+            },
+            "en-AU": {
+                "singular": "Type of holiday"
+            },
+            "en-CA": {
+                "singular": "Type of holiday"
+            },
+            "en-GB": {
+                "singular": "Type of holiday"
+            },
+            "en-IE": {
+                "singular": "Type of holiday"
+            },
+            "en-US": {
+                "singular": "Type of vacation"
+            },
+            "es": {
+                "singular": "Viajes temáticos"
+            },
+            "fi": {
+                "singular": "Lomateemoja"
+            },
+            "fi-EE": {
+                "singular": "Lomateema"
+            },
+            "fi-FI": {
+                "singular": "Lomateemoja"
+            },
+            "fr": {
+                "singular": "Type de vacances"
+            },
+            "fr-BE": {
+                "singular": "Type de vacances"
+            },
+            "fr-CA": {
+                "singular": "Type de vacances"
+            },
+            "fr-CH": {
+                "singular": "Type de vacances"
+            },
+            "fr-FR": {
+                "singular": "Type de vacances"
+            },
+            "hr": {
+                "singular": "Tema putovanja"
+            },
+            "it": {
+                "singular": "Tipologia di vacanza"
+            },
+            "it-CH": {
+                "singular": "Tipologia di vacanza"
+            },
+            "it-IT": {
+                "singular": "Tipologia di vacanza"
+            },
+            "nl": {
+                "singular": "Vakantiewensen"
+            },
+            "nl-BE": {
+                "singular": "Vakantiewensen"
+            },
+            "nl-NL": {
+                "singular": "Vakantiewensen"
+            },
+            "no": {
+                "singular": "Type ferie"
+            },
+            "pl": {
+                "singular": "Rodzaj pobytu"
+            },
+            "pt": {
+                "singular": "Tipo de férias"
+            },
+            "ru": {
+                "singular": "Дальнейший отдых с Interhome"
+            },
+            "sv": {
+                "singular": "Typ av semester"
+            }
+        }
+    }
+}

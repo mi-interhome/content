@@ -1,0 +1,124 @@
+{
+    "id": "booking.validation.zipRequired",
+    "name": "zipRequired",
+    "path": "text-resources/booking/validation/zipRequired",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/zipRequired",
+    "slug": "zipRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "zipRequired"
+    ],
+    "content": {
+        "key": "booking.validation.zipRequired",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím PSČ"
+            },
+            "da": {
+                "singular": "Oplys venligst postnummer"
+            },
+            "de": {
+                "singular": "Bitte geben Sie die Postleitzahl an"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie die Postleitzahl an"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie die Postleitzahl an"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie die Postleitzahl an"
+            },
+            "en": {
+                "singular": "Please enter zip code"
+            },
+            "en-AU": {
+                "singular": "Please enter zip code"
+            },
+            "en-CA": {
+                "singular": "Please enter zip code"
+            },
+            "en-GB": {
+                "singular": "Please enter zip code"
+            },
+            "en-IE": {
+                "singular": "Please enter zip code"
+            },
+            "en-US": {
+                "singular": "Please enter zip code"
+            },
+            "es": {
+                "singular": "Por favor indique su código postal"
+            },
+            "fi": {
+                "singular": "Lisää postinumero"
+            },
+            "fi-EE": {
+                "singular": "Lisää postinumero"
+            },
+            "fi-FI": {
+                "singular": "Lisää postinumero"
+            },
+            "fr": {
+                "singular": "Merci d'indiquer votre code postal"
+            },
+            "fr-BE": {
+                "singular": "Merci d'indiquer votre code postal"
+            },
+            "fr-CA": {
+                "singular": "Merci d'indiquer votre code postal"
+            },
+            "fr-CH": {
+                "singular": "Merci d'indiquer votre code postal"
+            },
+            "fr-FR": {
+                "singular": "Merci d'indiquer votre code postal"
+            },
+            "hr": {
+                "singular": "Molimo unesite Vaš poštanski broj"
+            },
+            "it": {
+                "singular": "Ti preghiamo di inserire il CAP"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di inserire il CAP"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di inserire il CAP"
+            },
+            "nl": {
+                "singular": "Gelieve uw postcode invoeren"
+            },
+            "nl-BE": {
+                "singular": "Gelieve uw postcode invoeren"
+            },
+            "nl-NL": {
+                "singular": "Gelieve uw postcode invoeren"
+            },
+            "no": {
+                "singular": "\"\nVennligst skriv inn postnummer"
+            },
+            "pl": {
+                "singular": "Prosimy wprowadzić kod pocztowy"
+            },
+            "pt": {
+                "singular": "Por favor, insira o seu código postal"
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите почтовый индекс"
+            },
+            "sv": {
+                "singular": "Vänligen ange postnummer"
+            }
+        }
+    }
+}

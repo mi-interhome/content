@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.pets.reviews.title",
+    "name": "title",
+    "path": "text-resources/www/components/views/search/ObjectTeaser/pets/reviews/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/pets/reviews/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "pets",
+        "reviews",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.pets.reviews.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – ráj pro domácí mazlíčky: nejlépe hodnocené prázdninové ubytování pro čtyřnohé přátele"
+            },
+            "da": {
+                "singular": "Kæledyrsparadis: Topbedømte ferieboliger til lodne venner i {destination}"
+            },
+            "de": {
+                "singular": "Haustierparadies: Top-bewertete Ferienhäuser für Ihre vierbeinigen Freunde in {destination}"
+            },
+            "de-AT": {
+                "singular": "Haustierparadies: Top-bewertete Ferienhäuser für Ihre vierbeinigen Freunde in {destination}"
+            },
+            "de-CH": {
+                "singular": "Haustierparadies: Top-bewertete Ferienhäuser für Ihre vierbeinigen Freunde in {destination}"
+            },
+            "de-DE": {
+                "singular": "Haustierparadies: Top-bewertete Ferienhäuser für Ihre vierbeinigen Freunde in {destination}"
+            },
+            "en": {
+                "singular": "Pet paradise: top-rated holiday homes for furry friends in {destination}"
+            },
+            "en-AU": {
+                "singular": "Pet paradise: top-rated holiday homes for furry friends in {destination}"
+            },
+            "en-CA": {
+                "singular": "Pet paradise: top-rated holiday homes for furry friends in {destination}"
+            },
+            "en-GB": {
+                "singular": "Pet paradise: top-rated holiday homes for furry friends in {destination}"
+            },
+            "en-IE": {
+                "singular": "Pet paradise: top-rated holiday homes for furry friends in {destination}"
+            },
+            "en-US": {
+                "singular": "Pet paradise: top-rated holiday homes for furry friends in {destination}"
+            },
+            "es": {
+                "singular": "El paraíso de las mascotas: las mejores casas de vacaciones para su mascota {destination}"
+            },
+            "fi": {
+                "singular": "Lemmikkien paratiisi: parhaiten arvostellut loma-asuntomme karvaisille ystäville paikkakunnalla {destination}"
+            },
+            "fi-EE": {
+                "singular": "Lemmikkien paratiisi: parhaiten arvostellut loma-asuntomme karvaisille ystäville paikkakunnalla {destination}"
+            },
+            "fi-FI": {
+                "singular": "Lemmikkien paratiisi: parhaiten arvostellut loma-asuntomme karvaisille ystäville paikkakunnalla {destination}"
+            },
+            "fr": {
+                "singular": "Paradis pour les animaux : locations de vacances {destination} de premier choix pour nos amis quadrupèdes"
+            },
+            "fr-BE": {
+                "singular": "Paradis pour les animaux : locations de vacances {destination} de premier choix pour nos amis quadrupèdes"
+            },
+            "fr-CA": {
+                "singular": "Paradis pour les animaux : locations de vacances {destination} de premier choix pour nos amis quadrupèdes"
+            },
+            "fr-CH": {
+                "singular": "Paradis pour les animaux : locations de vacances {destination} de premier choix pour nos amis quadrupèdes"
+            },
+            "fr-FR": {
+                "singular": "Paradis pour les animaux : locations de vacances {destination} de premier choix pour nos amis quadrupèdes"
+            },
+            "hr": {
+                "singular": "Raj za kućne ljubimce: najbolje ocijenjene kuće za odmor za krznene prijatelje u {destination}"
+            },
+            "it": {
+                "singular": "Paradiso degli animali domestici: le migliori case vacanza per amici a quattro zampe a {destination}"
+            },
+            "it-CH": {
+                "singular": "Paradiso degli animali domestici: le migliori case vacanza per amici a quattro zampe a {destination}"
+            },
+            "it-IT": {
+                "singular": "Paradiso degli animali domestici: le migliori case vacanza per amici a quattro zampe a {destination}"
+            },
+            "nl": {
+                "singular": "Huisdierenparadijs: best beoordeelde vakantiehuizen voor uw trouwe viervoeter in {destination}"
+            },
+            "nl-BE": {
+                "singular": "Huisdierenparadijs: best beoordeelde vakantiehuizen voor uw trouwe viervoeter in {destination}"
+            },
+            "nl-NL": {
+                "singular": "Huisdierenparadijs: best beoordeelde vakantiehuizen voor uw trouwe viervoeter in {destination}"
+            },
+            "no": {
+                "singular": "Paradis for kjæledyr: Topprangerte feriehus for pelskledde venner i {destination}."
+            },
+            "pl": {
+                "singular": "{destination} na wakacje z czworonogiem: najlepiej oceniane domy wakacyjne"
+            },
+            "pt": {
+                "singular": "Paraíso dos animais de estimação: as melhores casas de férias em {destination} para os amigos de quatro patas"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Husdjursparadis: topprankade semesterhus för pälsklädda vänner i {destination}."
+            }
+        }
+    }
+}

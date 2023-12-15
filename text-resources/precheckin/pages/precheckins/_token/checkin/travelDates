@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.pages.precheckins._token.checkin.travelDates",
+    "name": "travelDates",
+    "path": "text-resources/precheckin/pages/precheckins/_token/checkin/travelDates",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/checkin/travelDates",
+    "slug": "travelDates",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "checkin",
+        "travelDates"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.checkin.travelDates",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Termín pobytu"
+            },
+            "da": {
+                "singular": "Rejsedato"
+            },
+            "de": {
+                "singular": "Reisedaten"
+            },
+            "de-AT": {
+                "singular": "Reisedaten"
+            },
+            "de-CH": {
+                "singular": "Reisedaten"
+            },
+            "de-DE": {
+                "singular": "Reisedaten"
+            },
+            "en": {
+                "singular": "Travel dates"
+            },
+            "en-AU": {
+                "singular": "Travel dates"
+            },
+            "en-CA": {
+                "singular": "Travel dates"
+            },
+            "en-GB": {
+                "singular": "Travel dates"
+            },
+            "en-IE": {
+                "singular": "Travel dates"
+            },
+            "en-US": {
+                "singular": "Travel dates"
+            },
+            "es": {
+                "singular": "Fechas del viaje"
+            },
+            "fi": {
+                "singular": "Vuokrauspäivät"
+            },
+            "fi-EE": {
+                "singular": "Vuokrauspäivät"
+            },
+            "fi-FI": {
+                "singular": "Vuokrauspäivät"
+            },
+            "fr": {
+                "singular": "Date de voyage"
+            },
+            "fr-BE": {
+                "singular": "Date de voyage"
+            },
+            "fr-CA": {
+                "singular": "Date de voyage"
+            },
+            "fr-CH": {
+                "singular": "Date de voyage"
+            },
+            "fr-FR": {
+                "singular": "Date de voyage"
+            },
+            "hr": {
+                "singular": "Datum putovanja"
+            },
+            "it": {
+                "singular": "Date di viaggio "
+            },
+            "it-CH": {
+                "singular": "Date di viaggio "
+            },
+            "it-IT": {
+                "singular": "Date di viaggio "
+            },
+            "nl": {
+                "singular": "Reisdata"
+            },
+            "nl-BE": {
+                "singular": "Reisdata"
+            },
+            "nl-NL": {
+                "singular": "Reisdata"
+            },
+            "no": {
+                "singular": "Reisedatoer"
+            },
+            "pl": {
+                "singular": "Termin pobytu"
+            },
+            "pt": {
+                "singular": "Datas da viagem"
+            },
+            "ru": {
+                "singular": "Даты поездки"
+            },
+            "sv": {
+                "singular": "Resedatum"
+            }
+        }
+    }
+}

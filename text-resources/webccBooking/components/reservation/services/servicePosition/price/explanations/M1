@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.services.servicePosition.price.explanations.M1",
+    "name": "M1",
+    "path": "text-resources/webccBooking/components/reservation/services/servicePosition/price/explanations/M1",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/servicePosition/price/explanations/M1",
+    "slug": "M1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "servicePosition",
+        "price",
+        "explanations",
+        "M1"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.servicePosition.price.explanations.M1",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena za m3"
+            },
+            "da": {
+                "singular": "Pris per m3"
+            },
+            "de": {
+                "singular": "Preis pro m3"
+            },
+            "de-AT": {
+                "singular": "Preis pro m3"
+            },
+            "de-CH": {
+                "singular": "Preis pro m3"
+            },
+            "de-DE": {
+                "singular": "Preis pro m3"
+            },
+            "en": {
+                "singular": "Price per m3"
+            },
+            "en-AU": {
+                "singular": "Price per m3"
+            },
+            "en-CA": {
+                "singular": "Price per m3"
+            },
+            "en-GB": {
+                "singular": "Price per m3"
+            },
+            "en-IE": {
+                "singular": "Price per m3"
+            },
+            "en-US": {
+                "singular": "Price per m3"
+            },
+            "es": {
+                "singular": "Precio por m3"
+            },
+            "fi": {
+                "singular": "Hinta per m3"
+            },
+            "fi-EE": {
+                "singular": "Hinta per m3"
+            },
+            "fi-FI": {
+                "singular": "Hinta per m3"
+            },
+            "fr": {
+                "singular": "Prix par m3"
+            },
+            "fr-BE": {
+                "singular": "Prix par m3"
+            },
+            "fr-CA": {
+                "singular": "Prix par m3"
+            },
+            "fr-CH": {
+                "singular": "Prix par m3"
+            },
+            "fr-FR": {
+                "singular": "Prix par m3"
+            },
+            "hr": {
+                "singular": "Cijena po m3"
+            },
+            "it": {
+                "singular": "Prezzo al m3"
+            },
+            "it-CH": {
+                "singular": "Prezzo al m3"
+            },
+            "it-IT": {
+                "singular": "Prezzo al m3"
+            },
+            "nl": {
+                "singular": "Prijs per m3"
+            },
+            "nl-BE": {
+                "singular": "Prijs per m3"
+            },
+            "nl-NL": {
+                "singular": "Prijs per m3"
+            },
+            "no": {
+                "singular": "pris per m3"
+            },
+            "pl": {
+                "singular": "Cena za m3"
+            },
+            "pt": {
+                "singular": "Preço por m3"
+            },
+            "ru": {
+                "singular": "Цена за м3"
+            },
+            "sv": {
+                "singular": "Pris per m3"
+            }
+        }
+    }
+}

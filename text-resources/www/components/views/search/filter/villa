@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.filter.villa",
+    "name": "villa",
+    "path": "text-resources/www/components/views/search/filter/villa",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/filter/villa",
+    "slug": "villa",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "filter",
+        "villa"
+    ],
+    "content": {
+        "key": "www.components.views.search.filter.villa",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vila"
+            },
+            "da": {
+                "singular": "Villa"
+            },
+            "de": {
+                "singular": "Villa"
+            },
+            "de-AT": {
+                "singular": "Villa"
+            },
+            "de-CH": {
+                "singular": "Villa"
+            },
+            "de-DE": {
+                "singular": "Villa"
+            },
+            "en": {
+                "singular": "Villa"
+            },
+            "en-AU": {
+                "singular": "Villa"
+            },
+            "en-CA": {
+                "singular": "Villa"
+            },
+            "en-GB": {
+                "singular": "Villa"
+            },
+            "en-IE": {
+                "singular": "Villa"
+            },
+            "en-US": {
+                "singular": "Villa"
+            },
+            "es": {
+                "singular": "Villa"
+            },
+            "fi": {
+                "singular": "Huvila"
+            },
+            "fi-EE": {
+                "singular": "Huvila"
+            },
+            "fi-FI": {
+                "singular": "Huvila"
+            },
+            "fr": {
+                "singular": "Villa"
+            },
+            "fr-BE": {
+                "singular": "Villa"
+            },
+            "fr-CA": {
+                "singular": "Villa"
+            },
+            "fr-CH": {
+                "singular": "Villa"
+            },
+            "fr-FR": {
+                "singular": "Villa"
+            },
+            "hr": {
+                "singular": "Vila"
+            },
+            "it": {
+                "singular": "Villa"
+            },
+            "it-CH": {
+                "singular": "Villa"
+            },
+            "it-IT": {
+                "singular": "Villa"
+            },
+            "nl": {
+                "singular": "Villa"
+            },
+            "nl-BE": {
+                "singular": "Villa"
+            },
+            "nl-NL": {
+                "singular": "Villa"
+            },
+            "no": {
+                "singular": "Villa"
+            },
+            "pl": {
+                "singular": "Willa"
+            },
+            "pt": {
+                "singular": "Villa"
+            },
+            "ru": {
+                "singular": "Вилла"
+            },
+            "sv": {
+                "singular": "Villa"
+            }
+        }
+    }
+}

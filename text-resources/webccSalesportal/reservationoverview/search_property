@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.search_property",
+    "name": "search_property",
+    "path": "text-resources/webccSalesportal/reservationoverview/search_property",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/search_property",
+    "slug": "search_property",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "search_property"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.search_property",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyhledání rekreačního objektu"
+            },
+            "da": {
+                "singular": "Søg efter et feriehus"
+            },
+            "de": {
+                "singular": "Unterkunft suchen"
+            },
+            "de-AT": {
+                "singular": "Unterkunft suchen"
+            },
+            "de-CH": {
+                "singular": "Unterkunft suchen"
+            },
+            "de-DE": {
+                "singular": "Unterkunft suchen"
+            },
+            "en": {
+                "singular": "Searching for a property"
+            },
+            "en-AU": {
+                "singular": "Searching for a property"
+            },
+            "en-CA": {
+                "singular": "Searching for a property"
+            },
+            "en-GB": {
+                "singular": "Searching for a property"
+            },
+            "en-IE": {
+                "singular": "Searching for a property"
+            },
+            "en-US": {
+                "singular": "Searching for a property"
+            },
+            "es": {
+                "singular": "Buscando una propiedad"
+            },
+            "fi": {
+                "singular": "Kohteen etsintä"
+            },
+            "fi-EE": {
+                "singular": "Kohteen etsintä"
+            },
+            "fi-FI": {
+                "singular": "Kohteen etsintä"
+            },
+            "fr": {
+                "singular": "Chercher une location"
+            },
+            "fr-BE": {
+                "singular": "Chercher une location"
+            },
+            "fr-CA": {
+                "singular": "Chercher une location"
+            },
+            "fr-CH": {
+                "singular": "Chercher une location"
+            },
+            "fr-FR": {
+                "singular": "Chercher une location"
+            },
+            "hr": {
+                "singular": "Pretraživanje objekata"
+            },
+            "it": {
+                "singular": "Cerca una casa vacanze"
+            },
+            "it-CH": {
+                "singular": "Cerca una casa vacanze"
+            },
+            "it-IT": {
+                "singular": "Cerca una casa vacanze"
+            },
+            "nl": {
+                "singular": "Zoeken naar een woning"
+            },
+            "nl-BE": {
+                "singular": "Zoeken naar een woning"
+            },
+            "nl-NL": {
+                "singular": "Zoeken naar een woning"
+            },
+            "no": {
+                "singular": "Søk etter et feriehus"
+            },
+            "pl": {
+                "singular": "Szukaj obiektu "
+            },
+            "pt": {
+                "singular": "Procurando uma Propriedade"
+            },
+            "ru": {
+                "singular": "Поиск объекта"
+            },
+            "sv": {
+                "singular": "Söker efter ett semesterhus"
+            }
+        }
+    }
+}

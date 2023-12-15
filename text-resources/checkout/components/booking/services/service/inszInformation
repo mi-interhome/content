@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.services.service.inszInformation",
+    "name": "inszInformation",
+    "path": "text-resources/checkout/components/booking/services/service/inszInformation",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/service/inszInformation",
+    "slug": "inszInformation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "service",
+        "inszInformation"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.service.inszInformation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další informace"
+            },
+            "da": {
+                "singular": "Yderligere information"
+            },
+            "de": {
+                "singular": "Mehr Informationen zur Reiseversicherung"
+            },
+            "de-AT": {
+                "singular": "Mehr Informationen zur Reiseversicherung"
+            },
+            "de-CH": {
+                "singular": "Mehr Informationen zur Reiseversicherung"
+            },
+            "de-DE": {
+                "singular": "Mehr Informationen zur Reiseversicherung"
+            },
+            "en": {
+                "singular": "additional information"
+            },
+            "en-AU": {
+                "singular": "additional information"
+            },
+            "en-CA": {
+                "singular": "additional information"
+            },
+            "en-GB": {
+                "singular": "additional information"
+            },
+            "en-IE": {
+                "singular": "additional information"
+            },
+            "en-US": {
+                "singular": "additional information"
+            },
+            "es": {
+                "singular": "información adicional"
+            },
+            "fi": {
+                "singular": "lisätietoja"
+            },
+            "fi-EE": {
+                "singular": "lisätietoja"
+            },
+            "fi-FI": {
+                "singular": "lisätietoja"
+            },
+            "fr": {
+                "singular": "Plus d'informations"
+            },
+            "fr-BE": {
+                "singular": "Plus d'informations"
+            },
+            "fr-CA": {
+                "singular": "Plus d'informations"
+            },
+            "fr-CH": {
+                "singular": "Plus d'informations"
+            },
+            "fr-FR": {
+                "singular": "Plus d'informations"
+            },
+            "hr": {
+                "singular": "dodatne informacije"
+            },
+            "it": {
+                "singular": "Maggiori informazioni"
+            },
+            "it-CH": {
+                "singular": "Maggiori informazioni"
+            },
+            "it-IT": {
+                "singular": "Maggiori informazioni"
+            },
+            "nl": {
+                "singular": "Extra informatie"
+            },
+            "nl-BE": {
+                "singular": "Extra informatie"
+            },
+            "nl-NL": {
+                "singular": "Extra informatie"
+            },
+            "no": {
+                "singular": "Ytterligere informasjon"
+            },
+            "pl": {
+                "singular": "dodatkowe informacje"
+            },
+            "pt": {
+                "singular": "Informação adicional"
+            },
+            "ru": {
+                "singular": "Дополнительная информация"
+            },
+            "sv": {
+                "singular": "ytterligare information"
+            }
+        }
+    }
+}

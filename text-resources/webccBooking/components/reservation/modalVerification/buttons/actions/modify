@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.modalVerification.buttons.actions.modify",
+    "name": "modify",
+    "path": "text-resources/webccBooking/components/reservation/modalVerification/buttons/actions/modify",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/modalVerification/buttons/actions/modify",
+    "slug": "modify",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "modalVerification",
+        "buttons",
+        "actions",
+        "modify"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.modalVerification.buttons.actions.modify",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyžádat si kód pro změnu"
+            },
+            "da": {
+                "singular": "Anmod om ændringskode"
+            },
+            "de": {
+                "singular": "Änderungscode anfordern"
+            },
+            "de-AT": {
+                "singular": "Änderungscode anfordern"
+            },
+            "de-CH": {
+                "singular": "Änderungscode anfordern"
+            },
+            "de-DE": {
+                "singular": "Änderungscode anfordern"
+            },
+            "en": {
+                "singular": "Request change code"
+            },
+            "en-AU": {
+                "singular": "Request change code"
+            },
+            "en-CA": {
+                "singular": "Request change code"
+            },
+            "en-GB": {
+                "singular": "Request change code"
+            },
+            "en-IE": {
+                "singular": "Request change code"
+            },
+            "en-US": {
+                "singular": "Request change code"
+            },
+            "es": {
+                "singular": "Solicitar código de cambio"
+            },
+            "fi": {
+                "singular": "Pyydä muutoskoodi"
+            },
+            "fi-EE": {
+                "singular": "Pyydä muutoskoodi"
+            },
+            "fi-FI": {
+                "singular": "Pyydä muutoskoodi"
+            },
+            "fr": {
+                "singular": "Demander un code de modification"
+            },
+            "fr-BE": {
+                "singular": "Demander un code de modification"
+            },
+            "fr-CA": {
+                "singular": "Demander un code de modification"
+            },
+            "fr-CH": {
+                "singular": "Demander un code de modification"
+            },
+            "fr-FR": {
+                "singular": "Demander un code de modification"
+            },
+            "hr": {
+                "singular": "Zatražite šifru za izmjenu"
+            },
+            "it": {
+                "singular": "Richiedere codice per modificare"
+            },
+            "it-CH": {
+                "singular": "Richiedere codice per modificare"
+            },
+            "it-IT": {
+                "singular": "Richiedere codice per modificare"
+            },
+            "nl": {
+                "singular": "Wijzigingscode aanvragen"
+            },
+            "nl-BE": {
+                "singular": "Wijzigingscode aanvragen"
+            },
+            "nl-NL": {
+                "singular": "Wijzigingscode aanvragen"
+            },
+            "no": {
+                "singular": "Be om endringskode"
+            },
+            "pl": {
+                "singular": "Wygeneruj kod do zmiany rezerwacji"
+            },
+            "pt": {
+                "singular": "Solicitar código de alteração"
+            },
+            "ru": {
+                "singular": "Запросить код для внесения изменений"
+            },
+            "sv": {
+                "singular": "Begär ändringskod"
+            }
+        }
+    }
+}

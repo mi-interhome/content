@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.loading.title",
+    "name": "title",
+    "path": "text-resources/webccBooking/components/reservation/cancellation/modalCancellation/loading/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/loading/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "loading",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.loading.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Probíhá zrušení…"
+            },
+            "da": {
+                "singular": "Annullering udføres…"
+            },
+            "de": {
+                "singular": "Stornierung wird durchgeführt..."
+            },
+            "de-AT": {
+                "singular": "Stornierung wird durchgeführt..."
+            },
+            "de-CH": {
+                "singular": "Stornierung wird durchgeführt..."
+            },
+            "de-DE": {
+                "singular": "Stornierung wird durchgeführt..."
+            },
+            "en": {
+                "singular": "Cancellation in progress..."
+            },
+            "en-AU": {
+                "singular": "Cancellation in progress..."
+            },
+            "en-CA": {
+                "singular": "Cancellation in progress..."
+            },
+            "en-GB": {
+                "singular": "Cancellation in progress..."
+            },
+            "en-IE": {
+                "singular": "Cancellation in progress..."
+            },
+            "en-US": {
+                "singular": "Cancellation in progress..."
+            },
+            "es": {
+                "singular": "Cancelación en progreso…"
+            },
+            "fi": {
+                "singular": "Peruutus käynnissä…"
+            },
+            "fi-EE": {
+                "singular": "Cancellation in progress..."
+            },
+            "fi-FI": {
+                "singular": "Peruutus käynnissä…"
+            },
+            "fr": {
+                "singular": "Annulation en cours…"
+            },
+            "fr-BE": {
+                "singular": "Annulation en cours…"
+            },
+            "fr-CA": {
+                "singular": "Annulation en cours…"
+            },
+            "fr-CH": {
+                "singular": "Annulation en cours…"
+            },
+            "fr-FR": {
+                "singular": "Annulation en cours…"
+            },
+            "hr": {
+                "singular": "Otkazivanje u tijeku…"
+            },
+            "it": {
+                "singular": "Cancellazione in corso…"
+            },
+            "it-CH": {
+                "singular": "Cancellazione in corso…"
+            },
+            "it-IT": {
+                "singular": "Cancellazione in corso…"
+            },
+            "nl": {
+                "singular": "Bezig met annuleren…"
+            },
+            "nl-BE": {
+                "singular": "Bezig met annuleren…"
+            },
+            "nl-NL": {
+                "singular": "Bezig met annuleren…"
+            },
+            "no": {
+                "singular": "Kansellering gjennomføres…"
+            },
+            "pl": {
+                "singular": "Proces anulacji w toku…"
+            },
+            "pt": {
+                "singular": "Cancelamento em curso…"
+            },
+            "ru": {
+                "singular": "Отмена в процессе..."
+            },
+            "sv": {
+                "singular": "Avbokning pågår…"
+            }
+        }
+    }
+}

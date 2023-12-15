@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_babies",
+    "name": "ih_cms_affiliates_booking_babies",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_cms_affiliates_booking_babies",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_babies",
+    "slug": "ih_cms_affiliates_booking_babies",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_babies"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_babies",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Děti (do 24 měsíců)"
+            },
+            "da": {
+                "singular": "Børn (0-2)"
+            },
+            "de": {
+                "singular": "Babys (bis 24 Monate)"
+            },
+            "de-AT": {
+                "singular": "Babys (bis 24 Monate)"
+            },
+            "de-CH": {
+                "singular": "Babies (bis 24 Monate)"
+            },
+            "de-DE": {
+                "singular": "Babys (bis 24 Monate)"
+            },
+            "en": {
+                "singular": "Infants (up to 24 months)"
+            },
+            "en-AU": {
+                "singular": "Infants (up to 24 months)"
+            },
+            "en-CA": {
+                "singular": "Infants (up to 24 months)"
+            },
+            "en-GB": {
+                "singular": "Infants (up to 24 months)"
+            },
+            "en-IE": {
+                "singular": "Infants (up to 24 months)"
+            },
+            "en-US": {
+                "singular": "Infants (up to 24 months)"
+            },
+            "es": {
+                "singular": "Bebés (0-2 años)"
+            },
+            "fi": {
+                "singular": "Lapset (0-2 v.)"
+            },
+            "fi-EE": {
+                "singular": "Lapset (0-2 v.)"
+            },
+            "fi-FI": {
+                "singular": "Lapset (0-2 v.)"
+            },
+            "fr": {
+                "singular": "Bébés (jusqu'à 24 mois)"
+            },
+            "fr-BE": {
+                "singular": "Bébés (jusqu'à 24 mois)"
+            },
+            "fr-CA": {
+                "singular": "Bébés (jusqu'à 24 mois)"
+            },
+            "fr-CH": {
+                "singular": "Bébés (jusqu'à 24 mois)"
+            },
+            "fr-FR": {
+                "singular": "Bébés (jusqu'à 24 mois)"
+            },
+            "hr": {
+                "singular": "Bebe (0-2 godine)"
+            },
+            "it": {
+                "singular": "Neonati (fino a 24 mesi)"
+            },
+            "it-CH": {
+                "singular": "Neonati (fino a 24 mesi)"
+            },
+            "it-IT": {
+                "singular": "Neonati (fino a 24 mesi)"
+            },
+            "nl": {
+                "singular": "Baby's (tot 24 maanden)"
+            },
+            "nl-BE": {
+                "singular": "Baby's (tot 24 maanden)"
+            },
+            "nl-NL": {
+                "singular": "Baby's (tot 24 maanden)"
+            },
+            "no": {
+                "singular": "Barn (0-2 år)"
+            },
+            "pl": {
+                "singular": "Niemowlęta (do 24 miesięcy)"
+            },
+            "pt": {
+                "singular": "Bebês"
+            },
+            "ru": {
+                "singular": "Младенцы"
+            },
+            "sv": {
+                "singular": "Barn (0-2 år)"
+            }
+        }
+    }
+}

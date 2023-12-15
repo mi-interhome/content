@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.nrOfConversions",
+    "name": "nrOfConversions",
+    "path": "text-resources/webccSalesportal/pages/reports/webstats/nrOfConversions",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/nrOfConversions",
+    "slug": "nrOfConversions",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "nrOfConversions"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.nrOfConversions",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Počet konverzí"
+            },
+            "da": {
+                "singular": "Antal konverteringer"
+            },
+            "de": {
+                "singular": "Anzahl Konvertierungen"
+            },
+            "de-AT": {
+                "singular": "Anzahl Konvertierungen"
+            },
+            "de-CH": {
+                "singular": "Anzahl Konvertierungen"
+            },
+            "de-DE": {
+                "singular": "Anzahl Konvertierungen"
+            },
+            "en": {
+                "singular": "Number of conversions"
+            },
+            "en-AU": {
+                "singular": "Number of conversions"
+            },
+            "en-CA": {
+                "singular": "Number of conversions"
+            },
+            "en-GB": {
+                "singular": "Number of conversions"
+            },
+            "en-IE": {
+                "singular": "Number of conversions"
+            },
+            "en-US": {
+                "singular": "Number of conversions"
+            },
+            "es": {
+                "singular": "Número de conversiones"
+            },
+            "fi": {
+                "singular": "Muunnosten lukumäärä"
+            },
+            "fi-EE": {
+                "singular": "Muunnosten lukumäärä"
+            },
+            "fi-FI": {
+                "singular": "Muunnosten lukumäärä"
+            },
+            "fr": {
+                "singular": "Nombre de conversions"
+            },
+            "fr-BE": {
+                "singular": "Nombre de conversions"
+            },
+            "fr-CA": {
+                "singular": "Nombre de conversions"
+            },
+            "fr-CH": {
+                "singular": "Nombre de conversions"
+            },
+            "fr-FR": {
+                "singular": "Nombre de conversions"
+            },
+            "hr": {
+                "singular": "Broj konverzija"
+            },
+            "it": {
+                "singular": "Numero di conversioni"
+            },
+            "it-CH": {
+                "singular": "Numero di conversioni"
+            },
+            "it-IT": {
+                "singular": "Numero di conversioni"
+            },
+            "nl": {
+                "singular": "Aantal conversies"
+            },
+            "nl-BE": {
+                "singular": "Aantal conversies"
+            },
+            "nl-NL": {
+                "singular": "Aantal conversies"
+            },
+            "no": {
+                "singular": "Antall konverteringer"
+            },
+            "pl": {
+                "singular": "Liczba konwersji"
+            },
+            "pt": {
+                "singular": "Número de conversões"
+            },
+            "ru": {
+                "singular": "Количество конверсий"
+            },
+            "sv": {
+                "singular": "Antal konverteringar"
+            }
+        }
+    }
+}

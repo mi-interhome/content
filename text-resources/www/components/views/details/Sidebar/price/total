@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Sidebar.price.total",
+    "name": "total",
+    "path": "text-resources/www/components/views/details/Sidebar/price/total",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Sidebar/price/total",
+    "slug": "total",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Sidebar",
+        "price",
+        "total"
+    ],
+    "content": {
+        "key": "www.components.views.details.Sidebar.price.total",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Celkem za {duration} noc/noci/nocí"
+            },
+            "da": {
+                "singular": "Total for {duration} nights"
+            },
+            "de": {
+                "singular": "Gesamt für  {duration}  Nächte"
+            },
+            "de-AT": {
+                "singular": "Gesamt für  {duration}  Nächte"
+            },
+            "de-CH": {
+                "singular": "Gesamt für  {duration}  Nächte"
+            },
+            "de-DE": {
+                "singular": "Gesamt für  {duration}  Nächte"
+            },
+            "en": {
+                "singular": "Total for {duration} nights"
+            },
+            "en-AU": {
+                "singular": "Total for {duration} nights"
+            },
+            "en-CA": {
+                "singular": "Total for {duration} nights"
+            },
+            "en-GB": {
+                "singular": "Total for {duration} nights"
+            },
+            "en-IE": {
+                "singular": "Total for {duration} nights"
+            },
+            "en-US": {
+                "singular": "Total for {duration} nights"
+            },
+            "es": {
+                "singular": "Total para {duration} noches"
+            },
+            "fi": {
+                "singular": "Yhteensä {duration} yöltä"
+            },
+            "fi-EE": {
+                "singular": "Total for {duration} nights"
+            },
+            "fi-FI": {
+                "singular": "Yhteensä {duration} yöltä"
+            },
+            "fr": {
+                "singular": "Total pour  {duration} nuitées"
+            },
+            "fr-BE": {
+                "singular": "Total pour  {duration} nuitées"
+            },
+            "fr-CA": {
+                "singular": "Total pour  {duration} nuitées"
+            },
+            "fr-CH": {
+                "singular": "Total pour  {duration} nuitées"
+            },
+            "fr-FR": {
+                "singular": "Total pour  {duration} nuitées"
+            },
+            "hr": {
+                "singular": "Ukupno za {duration} noćenja"
+            },
+            "it": {
+                "singular": "Totale per {duration} notti"
+            },
+            "it-CH": {
+                "singular": "Totale per {duration} notti"
+            },
+            "it-IT": {
+                "singular": "Totale per {duration} notti"
+            },
+            "nl": {
+                "singular": "Totaal voor {duration} nachten "
+            },
+            "nl-BE": {
+                "singular": "Totaal voor {duration} nachten "
+            },
+            "nl-NL": {
+                "singular": "Totaal voor {duration} nachten "
+            },
+            "no": {
+                "singular": "Total for {duration} nights"
+            },
+            "pl": {
+                "singular": "Łączna kwota za {duration} dni"
+            },
+            "pt": {
+                "singular": "Total por {duration} noites"
+            },
+            "ru": {
+                "singular": "Итого за {duration} ночей"
+            },
+            "sv": {
+                "singular": "Totalt för {duration} nätter"
+            }
+        }
+    }
+}

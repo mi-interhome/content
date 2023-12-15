@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.services.message",
+    "name": "message",
+    "path": "text-resources/webccBooking/pages/reservations/overview/services/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/services/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "services",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.services.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zde můžete vybrat nebo zrušit výběr služeb."
+            },
+            "da": {
+                "singular": "Her kan du til- eller fravælge ydelser."
+            },
+            "de": {
+                "singular": "Hier können Sie Leistungen an- oder abwählen."
+            },
+            "de-AT": {
+                "singular": "Hier können Sie Leistungen an- oder abwählen."
+            },
+            "de-CH": {
+                "singular": "Hier können Sie Leistungen an- oder abwählen."
+            },
+            "de-DE": {
+                "singular": "Hier können Sie Leistungen an- oder abwählen."
+            },
+            "en": {
+                "singular": "Here you can select or deselect services."
+            },
+            "en-AU": {
+                "singular": "Here you can select or deselect services."
+            },
+            "en-CA": {
+                "singular": "Here you can select or deselect services."
+            },
+            "en-GB": {
+                "singular": "Here you can select or deselect services."
+            },
+            "en-IE": {
+                "singular": "Here you can select or deselect services."
+            },
+            "en-US": {
+                "singular": "Here you can select or deselect services."
+            },
+            "es": {
+                "singular": "Aquí puede seleccionar o anular la selección de servicios."
+            },
+            "fi": {
+                "singular": "Täällä voit valita tai poistaa palveluita."
+            },
+            "fi-EE": {
+                "singular": "Täällä voit valita tai poistaa palveluita."
+            },
+            "fi-FI": {
+                "singular": "Täällä voit valita tai poistaa palveluita."
+            },
+            "fr": {
+                "singular": "Ici vous pouvez ajouter ou supprimer des services supplémentaires."
+            },
+            "fr-BE": {
+                "singular": "Ici vous pouvez ajouter ou supprimer des services supplémentaires."
+            },
+            "fr-CA": {
+                "singular": "Ici vous pouvez ajouter ou supprimer des services supplémentaires."
+            },
+            "fr-CH": {
+                "singular": "Ici vous pouvez ajouter ou supprimer des services supplémentaires."
+            },
+            "fr-FR": {
+                "singular": "Ici vous pouvez ajouter ou supprimer des services supplémentaires."
+            },
+            "hr": {
+                "singular": "Ovdje možete dodati ili izbrisati usluge."
+            },
+            "it": {
+                "singular": "Qui è possibile aggiungere o rimuovere i servizi"
+            },
+            "it-CH": {
+                "singular": "Qui è possibile aggiungere o rimuovere i servizi"
+            },
+            "it-IT": {
+                "singular": "Qui è possibile aggiungere o rimuovere i servizi"
+            },
+            "nl": {
+                "singular": "Hier kunt u diensten selecteren of deselecteren."
+            },
+            "nl-BE": {
+                "singular": "Hier kunt u diensten selecteren of deselecteren."
+            },
+            "nl-NL": {
+                "singular": "Hier kunt u diensten selecteren of deselecteren."
+            },
+            "no": {
+                "singular": "Her kan du velge eller fjerne merkingen av tjenester."
+            },
+            "pl": {
+                "singular": "Tu można zaznaczyć lub odznaczyć wybrany serwis"
+            },
+            "pt": {
+                "singular": "Aqui pode selecionar ou desmarcar os serviços."
+            },
+            "ru": {
+                "singular": "Здесь вы можете выбрать или отменить услуги."
+            },
+            "sv": {
+                "singular": "Här kan du lägga till eller ta bort tjänster"
+            }
+        }
+    }
+}

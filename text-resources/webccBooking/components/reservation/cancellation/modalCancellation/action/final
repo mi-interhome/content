@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.action.final",
+    "name": "final",
+    "path": "text-resources/webccBooking/components/reservation/cancellation/modalCancellation/action/final",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/action/final",
+    "slug": "final",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "action",
+        "final"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.action.final",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "This action cannot be reversed."
+            },
+            "da": {
+                "singular": "Dette trin kan ikke ændres bagefter."
+            },
+            "de": {
+                "singular": "Diese Aktion kann nicht rückgängig gemacht werden."
+            },
+            "de-AT": {
+                "singular": "Diese Aktion kann nicht rückgängig gemacht werden."
+            },
+            "de-CH": {
+                "singular": "Diese Aktion kann nicht rückgängig gemacht werden."
+            },
+            "de-DE": {
+                "singular": "Diese Aktion kann nicht rückgängig gemacht werden."
+            },
+            "en": {
+                "singular": "This action cannot be reversed."
+            },
+            "en-AU": {
+                "singular": "This action cannot be reversed."
+            },
+            "en-CA": {
+                "singular": "This action cannot be reversed."
+            },
+            "en-GB": {
+                "singular": "This action cannot be reversed."
+            },
+            "en-IE": {
+                "singular": "This action cannot be reversed."
+            },
+            "en-US": {
+                "singular": "This action cannot be reversed."
+            },
+            "es": {
+                "singular": "Esta acción no se puede deshacer."
+            },
+            "fi": {
+                "singular": "Tätä toimintoa ei voi peruuttaa."
+            },
+            "fi-EE": {
+                "singular": "Tätä toimintoa ei voi peruuttaa."
+            },
+            "fi-FI": {
+                "singular": "Tätä toimintoa ei voi peruuttaa."
+            },
+            "fr": {
+                "singular": "Cette action est irréversible."
+            },
+            "fr-BE": {
+                "singular": "Cette action est irréversible."
+            },
+            "fr-CA": {
+                "singular": "Cette action est irréversible."
+            },
+            "fr-CH": {
+                "singular": "Cette action est irréversible."
+            },
+            "fr-FR": {
+                "singular": "Cette action est irréversible."
+            },
+            "hr": {
+                "singular": "Ova se radnja ne može poništiti."
+            },
+            "it": {
+                "singular": "Questa azione non può essere annullata."
+            },
+            "it-CH": {
+                "singular": "Questa azione non può essere annullata."
+            },
+            "it-IT": {
+                "singular": "Questa azione non può essere annullata."
+            },
+            "nl": {
+                "singular": "Deze actie kan niet ongedaan gemaakt worden"
+            },
+            "nl-BE": {
+                "singular": "Deze actie kan niet ongedaan gemaakt worden"
+            },
+            "nl-NL": {
+                "singular": "Deze actie kan niet ongedaan gemaakt worden"
+            },
+            "no": {
+                "singular": "Dette steget kan ikke endres i ettertid."
+            },
+            "pl": {
+                "singular": "Ta operacja jest nieodwracalna."
+            },
+            "pt": {
+                "singular": "Esta ação não pode ser anulada."
+            },
+            "ru": {
+                "singular": "Это действие не может быть отменено."
+            },
+            "sv": {
+                "singular": "Detta steg kan inte ändras i efterhand."
+            }
+        }
+    }
+}

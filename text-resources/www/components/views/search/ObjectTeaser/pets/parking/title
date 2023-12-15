@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.pets.parking.title",
+    "name": "title",
+    "path": "text-resources/www/components/views/search/ObjectTeaser/pets/parking/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/pets/parking/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "pets",
+        "parking",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.pets.parking.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – prázdninové domy vhodné i pro mazlíčky a s pohodlným parkováním"
+            },
+            "da": {
+                "singular": "Kæledyrsvenlige indkvarteringer med nem parkering i {destination}"
+            },
+            "de": {
+                "singular": "Haustierfreundliche Unterkünfte mit Parkmöglichkeit in {destination}"
+            },
+            "de-AT": {
+                "singular": "Haustierfreundliche Unterkünfte mit Parkmöglichkeit in {destination}"
+            },
+            "de-CH": {
+                "singular": "Haustierfreundliche Unterkünfte mit Parkmöglichkeit in {destination}"
+            },
+            "de-DE": {
+                "singular": "Haustierfreundliche Unterkünfte mit Parkmöglichkeit in {destination}"
+            },
+            "en": {
+                "singular": "Pet-Friendly accommodations with convenient parking in {destination}"
+            },
+            "en-AU": {
+                "singular": "Pet-Friendly accommodations with convenient parking in {destination}"
+            },
+            "en-CA": {
+                "singular": "Pet-Friendly accommodations with convenient parking in {destination}"
+            },
+            "en-GB": {
+                "singular": "Pet-Friendly accommodations with convenient parking in {destination}"
+            },
+            "en-IE": {
+                "singular": "Pet-Friendly accommodations with convenient parking in {destination}"
+            },
+            "en-US": {
+                "singular": "Pet-Friendly accommodations with convenient parking in {destination}"
+            },
+            "es": {
+                "singular": "Alojamiento apto para mascotas con cómodo aparcamiento en {destination}"
+            },
+            "fi": {
+                "singular": "Lemmikkiystävällinen majoitus pysäköintimahdollisuudet huomioituna paikassa {destination}"
+            },
+            "fi-EE": {
+                "singular": "Lemmikkiystävällinen majoitus pysäköintimahdollisuudet huomioituna paikassa {destination}"
+            },
+            "fi-FI": {
+                "singular": "Lemmikkiystävällinen majoitus pysäköintimahdollisuudet huomioituna paikassa {destination}"
+            },
+            "fr": {
+                "singular": "Hébergements acceptant les animaux avec parking proche {destination}"
+            },
+            "fr-BE": {
+                "singular": "Hébergements acceptant les animaux avec parking proche {destination}"
+            },
+            "fr-CA": {
+                "singular": "Hébergements acceptant les animaux avec parking proche {destination}"
+            },
+            "fr-CH": {
+                "singular": "Hébergements acceptant les animaux avec parking proche {destination}"
+            },
+            "fr-FR": {
+                "singular": "Hébergements acceptant les animaux avec parking proche {destination}"
+            },
+            "hr": {
+                "singular": "Pet-friendly kuće za odmor s praktičnim parkiralištem u {destination}"
+            },
+            "it": {
+                "singular": "Sistemazioni che accettano animali domestici con comodo parcheggio a {destination}"
+            },
+            "it-CH": {
+                "singular": "Sistemazioni che accettano animali domestici con comodo parcheggio a {destination}"
+            },
+            "it-IT": {
+                "singular": "Sistemazioni che accettano animali domestici con comodo parcheggio a {destination}"
+            },
+            "nl": {
+                "singular": "Huisdiervriendelijke accommodaties met goede parkeergelegenheid in {destination}"
+            },
+            "nl-BE": {
+                "singular": "Huisdiervriendelijke accommodaties met goede parkeergelegenheid in {destination}"
+            },
+            "nl-NL": {
+                "singular": "Huisdiervriendelijke accommodaties met goede parkeergelegenheid in {destination}"
+            },
+            "no": {
+                "singular": "Kjæledyrvennlige ferieboliger med enkel parkering i {destination}."
+            },
+            "pl": {
+                "singular": "{destination}, zakwaterowanie przyjazne zwierzętom i z bezpiecznym parkingiem"
+            },
+            "pt": {
+                "singular": "Alojamentos que aceitam animais de estimação com fácil estacionamento em {destination}"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Husdjursvänliga bostäder med bekväm parkering i {destination}"
+            }
+        }
+    }
+}

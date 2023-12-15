@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.header.nav_contact",
+    "name": "nav_contact",
+    "path": "text-resources/webccSalesportal/header/nav_contact",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/nav_contact",
+    "slug": "nav_contact",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "nav_contact"
+    ],
+    "content": {
+        "key": "webccSalesportal.header.nav_contact",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Kontakt"
+            },
+            "da": {
+                "singular": "Kontakt"
+            },
+            "de": {
+                "singular": "Kontakt"
+            },
+            "de-AT": {
+                "singular": "Kontakt"
+            },
+            "de-CH": {
+                "singular": "Kontakt"
+            },
+            "de-DE": {
+                "singular": "Kontakt"
+            },
+            "en": {
+                "singular": "Contact"
+            },
+            "en-AU": {
+                "singular": "Contact"
+            },
+            "en-CA": {
+                "singular": "Contact"
+            },
+            "en-GB": {
+                "singular": "Contact"
+            },
+            "en-IE": {
+                "singular": "Contact"
+            },
+            "en-US": {
+                "singular": "Contact"
+            },
+            "es": {
+                "singular": "Contacto"
+            },
+            "fi": {
+                "singular": "Yhteys"
+            },
+            "fi-EE": {
+                "singular": "Yhteys"
+            },
+            "fi-FI": {
+                "singular": "Yhteys"
+            },
+            "fr": {
+                "singular": "Contact"
+            },
+            "fr-BE": {
+                "singular": "Contact"
+            },
+            "fr-CA": {
+                "singular": "Contact"
+            },
+            "fr-CH": {
+                "singular": "Contact"
+            },
+            "fr-FR": {
+                "singular": "Contact"
+            },
+            "hr": {
+                "singular": "Kontakt"
+            },
+            "it": {
+                "singular": "Contatti"
+            },
+            "it-CH": {
+                "singular": "Contatti"
+            },
+            "it-IT": {
+                "singular": "Contatti"
+            },
+            "nl": {
+                "singular": "Contact"
+            },
+            "nl-BE": {
+                "singular": "Contact"
+            },
+            "nl-NL": {
+                "singular": "Contact"
+            },
+            "no": {
+                "singular": "Kontakt"
+            },
+            "pl": {
+                "singular": "Kontakt"
+            },
+            "pt": {
+                "singular": "Contato"
+            },
+            "ru": {
+                "singular": "Контакт"
+            },
+            "sv": {
+                "singular": "Kontakt"
+            }
+        }
+    }
+}
