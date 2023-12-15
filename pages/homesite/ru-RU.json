@@ -1,0 +1,294 @@
+{
+    "id": "pages/homesite",
+    "name": "homesite",
+    "path": "pages/homesite/ru-RU.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "ru-RU",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/heroimage-on-startpage/2254139-33-eng-XX/Heroimage-on-startpage.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Find your perfect holiday home!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/виды-отдыха/летние-каникулы/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Солнце, веселье и отдых",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/виды-отдыха/отдых-на-море/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Скорей на пляж!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/виды-отдыха/отдых-животными/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "На отдых с любимым питомцем",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/бассейн/?season=summer",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Виллы с бассейном",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/виды-отдыха/отдых-городах/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Городские путешествия ",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1135865-244-rus-RU/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/виды-отдыха/отдых-горах/",
+                            "anchor": false,
+                            "Title": "Отдых в горах",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1135807-425-rus-RU/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/виды-отдыха/в-последнюю-минуту/",
+                            "anchor": false,
+                            "Title": "Предложения \"в последнюю минуту\"",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1135895-131-rus-RU/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/виды-отдыха/топ-горнолыжных-курортов/",
+                            "anchor": false,
+                            "Title": "Вы любите кататься на лыжах? - Тогда взгляните на наши предложения!",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Семейный отдых",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1135802-98-rus-RU/Inspiration-teaser-family.jpg",
+                            "Slug": "/виды-отдыха/семейный-отдых/",
+                            "anchor": false,
+                            "Title": "Семейный отдых",
+                            "VirtPath": "/landingsite/topics/family/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-citytrips/1135480-63-rus-RU/Inspiration-teaser-citytrips.jpg",
+                            "Slug": "/виды-отдыха/отдых-городах/",
+                            "anchor": false,
+                            "Title": "Ощутите ритм города в комфортабельных апартаментах и исследуйте мегаполис в своём ритме.",
+                            "VirtPath": "/landingsite/topics/citytrips/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в  Испании",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1109253-110-rus-RU/Spain-ES.jpg",
+                            "Title": "Испания",
+                            "URL": "/испания/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов во Франции",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-summer/1109229-106-rus-RU/France-FR-Summer.jpg",
+                            "Title": "Франция",
+                            "URL": "/франция/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в Италии",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-summer/1109241-102-rus-RU/Italy-IT-Summer.jpg",
+                            "Title": "Италия",
+                            "URL": "/италия/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в Греции",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/greece-gr/1109235-88-rus-RU/Greece-GR.jpg",
+                            "Title": "Греция",
+                            "URL": "/греция/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в Хорватии",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/website/top-countries/croatia-hr/729077-4-ger-XX/Croatia-HR.jpg",
+                            "Title": "Хорватия",
+                            "URL": "/хорватия/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в Чехии",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1109220-49-rus-RU/Czech-Republic-CZ.jpg",
+                            "Title": "Чехия",
+                            "URL": "/чехия/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-summer/1109256-113-rus-RU/Switzerland-CH-Summer.jpg",
+                            "Title": "Швейцария",
+                            "URL": "/швейцария/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-summer/1109226-52-rus-RU/Finland-FI-Summer.jpg",
+                            "Title": "Финляндия",
+                            "URL": "/финляндия/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов на Коста Бланка",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-blanca-40/1109265-108-rus-RU/Spain-ES-Costa-Blanca-40.jpg",
+                            "Title": "Коста Бланка",
+                            "URL": "/испания/коста-бланка/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в Тоскане",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-tuscany-chianti-45/1064022-101-rus-RU/Italy-IT-Tuscany-Chianti-45.jpg",
+                            "Title": "Тоскана Кьянти",
+                            "URL": "/италия/тоскана-кьянти/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов на Лазурном берегу",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-cote-d'azur-75/1064028-79-rus-RU/France-FR-Cote-d'Azur-75.jpg",
+                            "Title": "Лазурный берег",
+                            "URL": "/франция/лазурный-берег/"
+                        },
+                        {
+                            "ImgAlt": "Майорка",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-mallorca-91/1064034-86-rus-RU/Spain-ES-Mallorca-91.jpg",
+                            "Title": "Майорка",
+                            "URL": "/испания/майорка/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов на Истрии",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/croatia-hr-istria-20/1064016-90-rus-RU/Croatia-HR-Istria-20.jpg",
+                            "Title": "Истрия",
+                            "URL": "/хорватия/истрия/"
+                        },
+                        {
+                            "ImgAlt": "Аренда вилл и апартаментов в долине Циллерталь",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-summer/1109271-53-rus-RU/Austria-AT-Zillertal-41-Summer.jpg",
+                            "Title": "Циллерталь",
+                            "URL": "/австрия/циллерталь/"
+                        },
+                        {
+                            "ImgAlt": "Тироль",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-tyrol-40-summer/1064010-97-rus-RU/Austria-AT-Tyrol-40-Summer.jpg",
+                            "Title": "Тироль",
+                            "URL": "/австрия/тироль/"
+                        },
+                        {
+                            "ImgAlt": "Зальцбург",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-salzburg-30-summer-city/1064019-107-rus-RU/Austria-AT-Salzburg-30-Summer-city.jpg",
+                            "Title": "Зальцбург",
+                            "URL": "/австрия/зальцбург/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Jetzt eigenes Ferienhaus listen lassen",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Ferienhausvermietung leicht gemacht",
+                    "subtitle": "Interhome Group übernimmt die professionelle Betreuung Ihrer Ferienimmobilie."
+                }
+            },
+            {
+                "id": 0,
+                "component": "",
+                "content": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "id": "pages/homesite",
+    "name": "homesite",
+    "path": "pages/homesite/fr-CA.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "fr-CA",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254148-49-fre-XX/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Trouvez votre maison de vacances idéale !"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/fr/idees-vacances/vacances-hiver/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Le plaisir intense de l'hiver dans une location de vacances",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/fr/a-propos-d-interhome/durabilite/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - l’écologie concerne tout le monde",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/fr/idees-vacances/location-vacances-ete/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Profitez de l'été dans une maison de vacances",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/fr/idees-vacances/vacances-mer/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Direction la mer!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/fr/idees-vacances/vacances-chien/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Des vacances avec son chien",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/fr/idees-vacances/sejours-en-ville/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Séjours en ville",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1002514-234-fre-XX/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/fr/idees-vacances/location-vacances-montagne/",
+                            "anchor": false,
+                            "Title": "L'air frais des montagnes n'est qu'à quelques pas, optez pour des vacances d'été revigorantes ",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1002454-417-fre-XX/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/fr/idees-vacances/last-minute/",
+                            "anchor": false,
+                            "Title": "Découvrez toutes nos offres Dernière Minute: des réductions exclusives sur votre location de vacances",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/1002500-151-fre-XX/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/fr/idees-vacances/vacances-automne/",
+                            "anchor": false,
+                            "Title": "L'automne, un des moments les plus agréables pour partir en vacances",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1028522-124-fre-XX/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/fr/idees-vacances/meilleurs-domaines-skiables/",
+                            "anchor": false,
+                            "Title": "Partez à la découverte des plus beaux domaines skiables! Débutant ou skieur émérite, les meilleures stations de ski vous attendent pour dévaler les pistes!",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "location vacances famille",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1002507-91-fre-XX/Inspiration-teaser-family.jpg",
+                            "Slug": "/fr/idees-vacances/vacances-famille/",
+                            "anchor": false,
+                            "Title": "Intimité, liberté et espace pour passer des moments uniques avec vos proches",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Suisse",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362976-199-fre-XX/Switzerland-CH-Winter.jpg",
+                            "Title": "Suisse",
+                            "URL": "/fr/suisse/"
+                        },
+                        {
+                            "ImgAlt": "location vacances Espagne",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1002360-89-fre-XX/Spain-ES.jpg",
+                            "Title": "Espagne",
+                            "URL": "/fr/espagne/"
+                        },
+                        {
+                            "ImgAlt": "France",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362916-154-fre-XX/France-FR-Winter.jpg",
+                            "Title": "France",
+                            "URL": "/fr/france/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392819-205-fre-XX/Italy-IT-Winter.jpg",
+                            "Title": "Italie",
+                            "URL": "/fr/italie/"
+                        },
+                        {
+                            "ImgAlt": "location vacances Autriche",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389167-206-fre-XX/Austria-AT-Winter.jpg",
+                            "Title": "Autriche",
+                            "URL": "/fr/autriche/"
+                        },
+                        {
+                            "ImgAlt": "location vacances Portugal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028656-54-fre-XX/Portugal-PT.jpg",
+                            "Title": "Portugal",
+                            "URL": "/fr/portugal/"
+                        },
+                        {
+                            "ImgAlt": "location vacances angleterre",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1359839-40-fre-XX/United-Kingdom-GB.jpg",
+                            "Title": "Grande Bretagne",
+                            "URL": "/fr/grande-bretagne/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362889-103-fre-XX/Finland-FI-Winter.jpg",
+                            "Title": "Finlande",
+                            "URL": "/fr/finlande/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Valais",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362737-146-fre-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/fr/suisse/valais/"
+                        },
+                        {
+                            "ImgAlt": "location vacances Costa del Sol",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-costa-del-sol-51/1359869-48-fre-XX/Spain-ES-Costa-del-Sol-51.jpg",
+                            "Title": "Costa del Sol",
+                            "URL": "/fr/espagne/costa-del-sol/"
+                        },
+                        {
+                            "ImgAlt": "Locations de vacances dans l'Oberland bernois",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-bernese-oberland-35-winter/1400201-97-fre-XX/Switzerland-CH-Bernese-Oberland-35-Winter.jpg",
+                            "Title": "Oberland Bernois",
+                            "URL": "/fr/suisse/oberland-bernois/"
+                        },
+                        {
+                            "ImgAlt": "vacances ski Savoie, Haute Savoie",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1391020-66-fre-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoie - Haute Savoie",
+                            "URL": "/fr/france/savoie-haute-savoie/"
+                        },
+                        {
+                            "ImgAlt": "Location vacances Barcelone",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/spain-es-barcelona-14/2277424-2-eng-XX/Spain-ES-Barcelona-14.jpg",
+                            "Title": "Barcelone",
+                            "URL": "/fr/espagne/barcelone/"
+                        },
+                        {
+                            "ImgAlt": "location vacances Côte d'Azur",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-cote-d'azur-75/1028659-58-fre-XX/France-FR-Cote-d'Azur-75.jpg",
+                            "Title": "Côte d'Azur",
+                            "URL": "/fr/france/cote-d-azur/"
+                        },
+                        {
+                            "ImgAlt": "Tyrol",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-tyrol-40-winter/1392903-191-fre-XX/Austria-AT-Tyrol-40-Winter.jpg",
+                            "Title": "Tyrol",
+                            "URL": "/fr/autriche/tyrol/"
+                        },
+                        {
+                            "ImgAlt": "location vacances algarve",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/portugal-pt-algarve-20/1028957-42-fre-XX/Portugal-PT-Algarve-20.jpg",
+                            "Title": "Algarve",
+                            "URL": "/fr/portugal/algarve/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Inscrivez votre bien dès maintenant",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Louez avec des experts",
+                    "subtitle": "Interhome Group se charge de la gestion professionnelle de votre propriété."
+                }
+            },
+            {
+                "id": 0,
+                "component": "",
+                "content": null
+            }
+        ]
+    }
+}

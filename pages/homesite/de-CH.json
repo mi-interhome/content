@@ -1,0 +1,308 @@
+{
+    "id": "pages/homesite",
+    "name": "homesite",
+    "path": "pages/homesite/de-CH.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "de-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254142-51-ger-XX/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Finden Sie Ihr Traum-Ferienhaus!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/ferienideen/winterferien/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Purer Wintergenuss im Ferienhaus",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/ueber-interhome/nachhaltigkeit/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - Umweltschutz geht uns alle an",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/travelguide/alle-themen/workation",
+                                "anchor": true
+                            },
+                            "position": "bottom",
+                            "title": "Workation: Arbeit und Auszeit clever kombiniert!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/ferienideen/sommerferien/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Geniessen Sie den Sommer im Ferienhaus",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/ferienideen/ferienhaus-meer/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Ab an den Strand!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/ferienideen/ferien-mit-hund/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Ferien mit Ihrem Hund",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/2042144-405-ger-CH/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/ferienideen/last-minute-ferien/",
+                            "anchor": false,
+                            "Title": "Kurzentschlossene buchen zum Last Minute Preis",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-winter-holiday/1064776-157-ger-CH/Inspiration-teaser-winter-holiday.jpg",
+                            "Slug": "/ferienideen/winterferien/",
+                            "anchor": false,
+                            "Title": "In die Berge mit Familie und Freunden",
+                            "VirtPath": "/landingsite/topics/winter-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1111492-115-ger-CH/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/ferienideen/top-skigebiete/",
+                            "anchor": false,
+                            "Title": "Geniessen Sie Europas Top-Skigebiete und verbringen Sie unvergessliche Skiferien mit Interhome.",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-pool/985817-86-ger-XX/Inspiration-teaser-pool.jpg",
+                            "Slug": "/ferienideen/ferienhaus-pool/",
+                            "anchor": false,
+                            "Title": "Im Traumhaus mit eigenem Pool entspannen",
+                            "VirtPath": "/landingsite/topics/pool/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-summer-holiday/1011234-264-ger-CH/Inspiration-teaser-summer-holiday.jpg",
+                            "Slug": "/ferienideen/sommerferien/",
+                            "anchor": false,
+                            "Title": "Entdecken Sie unsere Traum-Ferienhäuser in den schönsten Sommer-Destinationen",
+                            "VirtPath": "/landingsite/topics/summer-holiday/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Skifahren in der Schweiz - Ferienhaus und Ferienwohnung mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362982-205-ger-XX/Switzerland-CH-Winter.jpg",
+                            "Title": "Schweiz",
+                            "URL": "/schweiz/"
+                        },
+                        {
+                            "ImgAlt": "Skifahren in Frankreich - Ferienhaus und Ferienwohnung mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362922-213-ger-XX/France-FR-Winter.jpg",
+                            "Title": "Frankreich",
+                            "URL": "/frankreich/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389175-209-ger-XX/Austria-AT-Winter.jpg",
+                            "Title": "Österreich",
+                            "URL": "/oesterreich/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392827-208-ger-XX/Italy-IT-Winter.jpg",
+                            "Title": "Italien",
+                            "URL": "/italien/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1790739-91-ger-CH/Finland-FI-Winter.jpg",
+                            "Title": "Finnland",
+                            "URL": "/finnland/"
+                        },
+                        {
+                            "ImgAlt": "Spanien - Ferienhaus und Ferienwohnung mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/396808-92-ger-XX/Spain-ES.jpg",
+                            "Title": "Spanien",
+                            "URL": "/spanien/"
+                        },
+                        {
+                            "ImgAlt": "Kroatien - Ferienhaus und Ferienwohnung mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/729077-83-ger-XX/Croatia-HR.jpg",
+                            "Title": "Kroatien",
+                            "URL": "/kroatien/"
+                        },
+                        {
+                            "ImgAlt": "Winterferien Deutschland - Ferienhaus und Ferienwohnung mieten",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363042-250-ger-XX/Germany-DE-Winter.jpg",
+                            "Title": "Deutschland",
+                            "URL": "/deutschland/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Skifahren im Wallis - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362743-152-ger-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Wallis",
+                            "URL": "/schweiz/wallis/"
+                        },
+                        {
+                            "ImgAlt": "Skifahren in Graubünden - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-graubunden-60-winter/1393068-39-ger-XX/Switzerland-CH-Graubunden-60-Winter.jpg",
+                            "Title": "Graubünden",
+                            "URL": "/schweiz/graubuenden/"
+                        },
+                        {
+                            "ImgAlt": "Skifahren im Berner Oberland - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-bernese-oberland-35-winter/1790985-100-ger-XX/Switzerland-CH-Bernese-Oberland-35-Winter.jpg",
+                            "Title": "Berner Oberland",
+                            "URL": "/schweiz/berner-oberland/"
+                        },
+                        {
+                            "ImgAlt": "Skifahren in den Waadtländer Alpen - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-alpes-vaudoises-01-winter/1393056-37-ger-XX/Switzerland-CH-Alpes-Vaudoises-01-Winter.jpg",
+                            "Title": "Waadtländer Alpen",
+                            "URL": "/schweiz/waadtlaender-alpen/"
+                        },
+                        {
+                            "ImgAlt": "Lappland - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/finland-fi-lapland-03-winter/2277375-1-ger-XX/Finland-FI-Lapland-03-Winter.jpg",
+                            "Title": "Lappland",
+                            "URL": "/finnland/lappland/"
+                        },
+                        {
+                            "ImgAlt": "Hochsavoyen - Ferienwohnungen \u0026 Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1392951-72-ger-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoyen - Hochsavoyen",
+                            "URL": "/frankreich/savoyen-hochsavoyen/"
+                        },
+                        {
+                            "ImgAlt": "Skifahren in Tirol - Ferienwohnungen und Ferienhäuser",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-tyrol-40-winter/1392907-194-ger-XX/Austria-AT-Tyrol-40-Winter.jpg",
+                            "Title": "Tirol",
+                            "URL": "/oesterreich/tirol/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1759575-57-ger-XX/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomiten",
+                            "URL": "/italien/dolomiten/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Jetzt eigenes Ferienhaus listen lassen",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Ferienhausvermietung leicht gemacht",
+                    "subtitle": "Interhome Group übernimmt die professionelle Betreuung Ihrer Ferienimmobilie."
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Ferienhaus \u0026 Ferienwohnung mieten mit Interhome",
+                    "text": "\u003cp\u003eInterhome ist seit mehr als 50 Jahren der europäische Spezialist für Ferienhäuser und Ferienwohnungen. Wir sind stolz darauf, rund 40'000 Ferienhäuser und Apartments in 28 Ländern anbieten zu können. Ob Sie nach einem Ferienhaus in Italien, einer Villa mit Pool in Frankreich oder einem Chalet in den Schweizer Bergen suchen, wir haben die passende Unterkunft für Sie!\u003c/p\u003e\u003cp\u003eWenn Sie ein Ferienhaus in Frankreich mieten möchten, bieten wir eine grosse Auswahl an Unterkünften im ganzen Land. Von der Normandie über die Bretagne, Aquitaine, Südfrankreich oder die französischen Alpen ist für jeden etwas dabei. Bei Interhome finden Sie mit Sicherheit die für Ihre Wünsche ideale Unterkunft.\u003c/p\u003e\u003cp\u003eWenn Sie einen Auslandsaufenthalt bevorzugen, warum entscheiden Sie sich nicht für eine Finca in Spanien? Ob an der Costa Brava, an der Costa Dorada oder auf Mallorca, lassen Sie sich von der Herzlichkeit Spaniens und seinen kulinarischen Spezialitäten verführen!\u003c/p\u003e\u003cp\u003eOder reisen Sie lieber nach Italien? Wählen Sie z.B. aus unseren schönen Villen und Natursteinhäusern mit Pool in der Toskana. Oder lassen Sie sich von einem Ausflug zu den italienischen Inseln verführen. Auch an der Adria und an den oberitalienischen Seen finden Sie die ideale Unterkunft für entspannte Sommerferien.\u003c/p\u003e\u003cp\u003eWir heissen Sie auch in Portugal, Kroatien und Griechenland willkommen. Und natürlich im eigenen Land: Egal ob an den Tessiner Seen oder in den Walliser Alpen. Und dies ist nur eine kleine Auswahl von Reisezielen, wo Sie unsere Ferienunterkünfte finden.\u003c/p\u003e\u003cp\u003eSind Sie auch an Skiferien interessiert? Nutzen Sie die grosse Auswahl bei Interhome, um Ihre Ferienwohnung in den Schweizer Alpen, in Tirol oder auch in den riesigen französischen Skigebieten zu mieten. Mieten Sie ein Ferienhaus oder eine Ferienwohnung nahe der Piste und geniessen Sie Ihren Aufenthalt mit Familie, Freunden oder Paaren!\u003c/p\u003e\u003cp\u003eMit Interhome haben Sie einen zuverlässigen Partner für Ihre Ferien gefunden. Wir haben auch Teams vor Ort, die Sie willkommen heissen, Ihnen die Schlüssel für Ihre Ferienwohnung geben und die Ihr bevorzugter Ansprechpartner für die Dauer Ihres Aufenthalts sind! Buchen Sie sicher online oder kontaktieren Sie unsere Ferienberater, die rund um die Uhr erreichbar sind.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}

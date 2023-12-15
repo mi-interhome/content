@@ -1,0 +1,308 @@
+{
+    "id": "pages/homesite",
+    "name": "homesite",
+    "path": "pages/homesite/hr-HR.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "hr-HR",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254163-35-cro-HR/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Pronađite Vašu savršenu kuću za odmor!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracije/skijanje/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Razmišljate li o skijaškom odmoru?",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/o-interhomeu/odrzivost/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - očuvanje se tiče svih",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracije/ljetni-odmor/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Provedite ljeto u kući za odmor",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracije/idemo-na-more/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Idemo na plažu!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracije/odmor-kucnim-ljubimcem/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Na godišnji odmor s kućnim ljubimcem",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspiracije/gradske-avanture/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Gradske avanture",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-mountains/1146247-215-cro-HR/Inspiration-teaser-mountains.jpg",
+                            "Slug": "/inspiracije/kuce-odmor-planinama/",
+                            "anchor": false,
+                            "Title": "Odmor u planinama",
+                            "VirtPath": "/landingsite/topics/mountains/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-last-minute-autumn/1132082-406-cro-HR/Inspiration-teaser-last-minute-Autumn.jpg",
+                            "Slug": "/inspiracije/last-minute/",
+                            "anchor": false,
+                            "Title": "Otkrijte naše Last Minute popuste na stotine kuća za odmor i apartmana.",
+                            "VirtPath": "/landingsite/topics/last-minute/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-autumn/988178-148-eng-XX/Inspiration-teaser-autumn.jpg",
+                            "Slug": "/inspiracije/jesenski-odmor/",
+                            "anchor": false,
+                            "Title": "Kuće za odmor za Vaš jesenski odmor",
+                            "VirtPath": "/landingsite/topics/autumn/"
+                        },
+                        {
+                            "ImgAlt": "Skijanje",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1146237-116-cro-HR/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/inspiracije/najljepska-skijalista/",
+                            "anchor": false,
+                            "Title": "Najljepša europska skijališta",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "Za cijelu obitelj",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-family/1146272-81-cro-HR/Inspiration-teaser-family.jpg",
+                            "Slug": "/inspiracije/odmor-obitelji/",
+                            "anchor": false,
+                            "Title": "Puno prostora, slobode i privatnosti za Vas i Vaše najbliže",
+                            "VirtPath": "/landingsite/topics/family/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389203-164-cro-HR/Austria-AT-Winter.jpg",
+                            "Title": "Austrija",
+                            "URL": "/austrija/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Hrvatska",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/1109296-50-cro-HR/Croatia-HR.jpg",
+                            "Title": "Hrvatska",
+                            "URL": "/hrvatska/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392859-175-cro-HR/Italy-IT-Winter.jpg",
+                            "Title": "Italija",
+                            "URL": "/italija/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Švicarska",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1363006-169-cro-HR/Switzerland-CH-Winter.jpg",
+                            "Title": "Švicarska",
+                            "URL": "/svicarska/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Francuska",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362943-183-cro-HR/France-FR-Winter.jpg",
+                            "Title": "Francuska",
+                            "URL": "/francuska/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Njemačka",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363069-214-cro-HR/Germany-DE-Winter.jpg",
+                            "Title": "Njemačka",
+                            "URL": "/njemacka/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1147745-59-cro-HR/Spain-ES.jpg",
+                            "Title": "Španjolska",
+                            "URL": "/spanjolska/"
+                        },
+                        {
+                            "ImgAlt": "Holiday house Slovenia",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/slovenia-si-winter/2277319-2-eng-XX/Slovenia-SI-Winter.jpg",
+                            "Title": "Slovenija",
+                            "URL": "/slovenija/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Kuće za odmor Kvarner",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/croatia-hr-kvarner-30/1109302-29-cro-HR/Croatia-HR-Kvarner-30.jpg",
+                            "Title": "Kvarner",
+                            "URL": "/hrvatska/kvarner/"
+                        },
+                        {
+                            "ImgAlt": "Istra",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/croatia-hr-istria-20/1109299-48-cro-HR/Croatia-HR-Istria-20.jpg",
+                            "Title": "Istra",
+                            "URL": "/hrvatska/istra/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Savoie - Haute Savoie",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389263-98-eng-XX/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savoie - Haute Savoie",
+                            "URL": "/francuska/savoie-haute-savoie/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Zillertal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-winter/1395116-86-eng-XX/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/austrija/zillertal/"
+                        },
+                        {
+                            "ImgAlt": "Koruška, Austrija",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-carinthia-70-winter/1389613-34-cro-HR/Austria-AT-Carinthia-70-Winter.jpg",
+                            "Title": "Koruška",
+                            "URL": "/austrija/koruska/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Valais",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362728-178-eng-XX/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais",
+                            "URL": "/svicarska/valais/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Dolomiti",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1393253-73-eng-XX/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomiti",
+                            "URL": "/italija/dolomiti/"
+                        },
+                        {
+                            "ImgAlt": "Kuće za odmor Gasteinertal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-gastein-valley-36-winter/2277383-10-eng-XX/Austria-AT-Gastein-Valley-36-Winter.jpg",
+                            "Title": "Gasteinertal",
+                            "URL": "/austrija/gasteinertal/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Oglasi svoju nekretninu ",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Iznajmljujte sa stručnjacima",
+                    "subtitle": "Interhome Group će se pobrinuti za punu brigu oko Vašeg objekta. "
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Stručnjak za iznajmljivanje kuća za odmor od 1965.",
+                    "text": "\u003cp\u003eVeć preko 50 godina, Interhome je europski stručnjak za iznajmljivanje apartamana i kuća za odmor. Ponosni smo da možemo ponuditi 40,000 apartmana i kuća za odmor u 28 zemalja. Bilo da tražite kuću za odmor u Francuskoj, vilu u Španjolskoj ili čak chalet u Švicarskoj, imamo savršeni smještaj za Vas. S Interhomeom, odabirete povjerljivog partnera za Vašu kuću za odmor. Kvaliteta je naš prioritet: pažljivo odabiremo naše objekte koji garantiraju našim gostima nezaboravne trenutke. Naš široki izbor apartmana i kuća za odmor odgovaraju svakom ukusu i budžetu. \u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "id": "pages/homesite",
+    "name": "homesite",
+    "path": "pages/homesite/cs-CZ.json",
+    "folder": "pages",
+    "full_slug": "homesite",
+    "slug": "homesite",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Page",
+    "content": {
+        "isInMenu": false,
+        "title": "",
+        "meta": null,
+        "virtpath": "",
+        "head": {
+            "canonical": "",
+            "title": "",
+            "description": "",
+            "keywords": null,
+            "robots": "",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": ""
+        },
+        "body": [
+            {
+                "id": 0,
+                "component": "heroimagewithtext",
+                "content": {
+                    "Image": {
+                        "Asset": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254151-37-cze-CZ/Test-Image-for-Release.jpg",
+                        "AlternateText": "",
+                        "Width": 1440,
+                        "Height": 600
+                    },
+                    "Headline": "Najděte svůj ideální prázdninový dům!"
+                }
+            },
+            {
+                "id": 0,
+                "component": "FacettedHeader",
+                "content": {
+                    "teasers": [
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspirace/zima-horach/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Užijte si zimu v prázdninovém domě",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/o-interhome/udrzitelnost/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Love nature - ochrana přírody se týká nás všech",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspirace/letni-dovolena/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Užijte si léto v rekreačním domě",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspirace/more-a-plaz/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Vzhůru na pláž!",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspirace/dovolena-mazlickem/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Na dovolenou se psem",
+                            "virthpath": ""
+                        },
+                        {
+                            "img_alt": "",
+                            "img_src": "",
+                            "link": {
+                                "slug": "/inspirace/mesta/",
+                                "anchor": false
+                            },
+                            "position": "bottom",
+                            "title": "Města",
+                            "virthpath": ""
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "InspirationTeaser",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-winter-holiday/1111617-161-cze-CZ/Inspiration-teaser-winter-holiday.jpg",
+                            "Slug": "/inspirace/zima-horach/",
+                            "anchor": false,
+                            "Title": "Horám vstříc s rodinou a přáteli",
+                            "VirtPath": "/landingsite/topics/winter-holiday/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-top-skiresorts/1111607-117-cze-CZ/Inspiration-teaser-top-skiresorts.jpg",
+                            "Slug": "/inspirace/top-skiresorts/",
+                            "anchor": false,
+                            "Title": "Ať už chcete jet lyžovat kamkoli, nahlédněte do naší nabídky rekreačních domů a apartmánů na horách",
+                            "VirtPath": "/landingsite/topics/top-skiresorts/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-pets/1111582-77-cze-CZ/Inspiration-teaser-pets.jpg",
+                            "Slug": "/inspirace/dovolena-mazlickem/",
+                            "anchor": false,
+                            "Title": "Dovolená se psem",
+                            "VirtPath": "/landingsite/topics/pets/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-early-bird/1400429-61-cze-CZ/Inspiration-teaser-early-bird.jpg",
+                            "Slug": "/inspirace/sleva-vcasnou-rezervaci/",
+                            "anchor": false,
+                            "Title": "Plánujte letní dovolenou již nyní",
+                            "VirtPath": "/landingsite/topics/early-bird/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/inspiration-teasers/inspiration-teaser-citytrips/1111557-48-cze-CZ/Inspiration-teaser-citytrips.jpg",
+                            "Slug": "/inspirace/mesta/",
+                            "anchor": false,
+                            "Title": "Objevujte metropole svým vlastním tempem",
+                            "VirtPath": "/landingsite/topics/citytrips/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopCountries",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Rekreační domy a apartmány v Rakousku",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389135-197-cze-CZ/Austria-AT-Winter.jpg",
+                            "Title": "Rakousko",
+                            "URL": "/rakousko/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392787-178-cze-CZ/Italy-IT-Winter.jpg",
+                            "Title": "Itálie",
+                            "URL": "/italie/"
+                        },
+                        {
+                            "ImgAlt": "Rekreační domy a apartmány ve Švýcarsku",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362955-172-cze-CZ/Switzerland-CH-Winter.jpg",
+                            "Title": "Švýcarsko",
+                            "URL": "/svycarsko/"
+                        },
+                        {
+                            "ImgAlt": "Rekreační domy a apartmány ve Francii",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362895-186-cze-CZ/France-FR-Winter.jpg",
+                            "Title": "Francie",
+                            "URL": "/francie/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/poland-pl-winter/2079837-17-cze-CZ/Poland-PL-Winter.jpg",
+                            "Title": "Polsko",
+                            "URL": "/polsko/"
+                        },
+                        {
+                            "ImgAlt": "Rekreační domy a apartmány v Německu",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363057-217-cze-CZ/Germany-DE-Winter.jpg",
+                            "Title": "Německo",
+                            "URL": "/nemecko/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362874-94-cze-CZ/Finland-FI-Winter.jpg",
+                            "Title": "Finsko",
+                            "URL": "/finsko/"
+                        },
+                        {
+                            "ImgAlt": "Rekreační domy a apartmány v České republice",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1057734-25-cze-CZ/Czech-Republic-CZ.jpg",
+                            "Title": "Česká republika",
+                            "URL": "/ceska-republika/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "TopRegions",
+                "content": {
+                    "elements": [
+                        {
+                            "ImgAlt": "Rakousko - Zillertal",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-zillertal-41-winter/1400251-44-cze-CZ/Austria-AT-Zillertal-41-Winter.jpg",
+                            "Title": "Zillertal",
+                            "URL": "/rakousko/zillertal/"
+                        },
+                        {
+                            "ImgAlt": "",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/italy-it-dolomites-21-winter/1758178-42-cze-CZ/Italy-IT-Dolomites-21-Winter.jpg",
+                            "Title": "Dolomity",
+                            "URL": "/italie/dolomity/"
+                        },
+                        {
+                            "ImgAlt": "Švýcarsko - Wallis",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/switzerland-ch-valais-10-winter/1362758-110-cze-CZ/Switzerland-CH-Valais-10-Winter.jpg",
+                            "Title": "Valais/Wallis",
+                            "URL": "/svycarsko/valais-wallis/"
+                        },
+                        {
+                            "ImgAlt": "Česká republika - Krkonoše",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/czech-republic-cz-giant-mountains-24-winter/1994516-15-cze-CZ/Czech-Republic-CZ-Giant-Mountains-24-Winter.jpg",
+                            "Title": "Krkonoše",
+                            "URL": "/ceska-republika/krkonose/"
+                        },
+                        {
+                            "ImgAlt": "Francie - Savojsko, Horní Savojsko",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/france-fr-savoie-haute-savoie-96-winter/1389271-54-cze-CZ/France-FR-Savoie-Haute-Savoie-96-Winter.jpg",
+                            "Title": "Savojsko - Horní Savojsko",
+                            "URL": "/francie/savojsko-horni-savojsko/"
+                        },
+                        {
+                            "ImgAlt": "Rakousko - Štýrsko",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/austria-at-styria-80-winter/1389589-42-cze-CZ/Austria-AT-Styria-80-Winter.jpg",
+                            "Title": "Štýrsko",
+                            "URL": "/rakousko/styrsko/"
+                        },
+                        {
+                            "ImgAlt": "Polsko - Tatry",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/poland-pl-tatras-07-winter/1994338-29-cze-CZ/Poland-PL-Tatras-07-Winter.jpg",
+                            "Title": "Tatry",
+                            "URL": "/polsko/tatry/"
+                        },
+                        {
+                            "ImgAlt": "Praha a okolí",
+                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-regions/czech-republic-cz-prague-and-vicinity-01-winter/1994528-13-cze-CZ/Czech-Republic-CZ-Prague-and-vicinity-01-Winter.jpg",
+                            "Title": "Praha a okolí",
+                            "URL": "/ceska-republika/praha-a-okoli/"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 0,
+                "component": "StartOwnerTeaser",
+                "content": {
+                    "buttonText": "Zaregistrujte svůj rekreační dům",
+                    "imgSrc": "https://images.interhome.group/ezcms/interhome/features/ferienhausvermietung-leicht-gemacht/2255790-7-ger-DE/Ferienhausvermietung-leicht-gemacht.jpg",
+                    "imgAlt": "",
+                    "link": "https://myhome.interhome.group",
+                    "title": "Pronajímejte s profesionály",
+                    "subtitle": "Interhome Group se postará o profesionální správu Vašeho rekreačního objektu."
+                }
+            },
+            {
+                "id": 0,
+                "component": "TeaserWithText",
+                "content": {
+                    "title": "Specialista na rekreační ubytování už od roku 1965",
+                    "text": "\u003cp\u003eInterhome je již přes 50 let evropským specialistou na pronájem rekreačních objektů.\u003cbr\u003eJsme hrdí na to, že naše nabídka zahrnuje více než 40 000 rekreačních apartmánů a domů ve 28 zemích. Ať už hledáte pro svou dovolenou domek ve Francii, vilu ve Španělsku nebo chatu ve Švýcarsku, máme pro Vás perfektní ubytování.\u003c/p\u003e\u003cp\u003eZvolíte-li Interhome, vybíráte si zároveň důvěryhodného partnera. Klademe velký důraz na kvalitu –⁠ rekreační objekty vybíráme velmi pečlivě, abychom svým zákazníkům zaručili nezapomenutelné chvíle.\u003c/p\u003e\u003cp\u003eZ naší široké nabídky rekreačních domů a apartmánů si vybere opravdu každý.\u003c/p\u003e\n"
+                }
+            }
+        ]
+    }
+}
