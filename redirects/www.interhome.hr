@@ -1,13 +1,13 @@
 {
-    "id": "",
-    "name": "",
+    "id": "redirects-www.interhome.hr",
+    "name": "Redirects www.interhome.hr",
     "path": "redirects/www.interhome.hr",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
+    "folder": "redirects",
+    "full_slug": "www.interhome.hr",
+    "slug": "www.interhome.hr",
     "locale": "",
-    "suffix": "",
-    "mime": "",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Redirects",
     "content": {
         "domain": "www.interhome.hr",
@@ -15,11 +15,11 @@
             {
                 "domain": "www.interhome.hr",
                 "matchdef": {
-                    "domainpath": "/about-us",
+                    "domainpath": "/pages/skiset",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/o-interhomeu/",
+                            "target": "/dodatne-usluge/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -28,72 +28,7 @@
             {
                 "domain": "www.interhome.hr",
                 "matchdef": {
-                    "domainpath": "/putno-osiguranje",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/usluge-za-goste/putno-osiguranje/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/lastminute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute-popust/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/inspiracije/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/usluge-za-goste/cookies",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/usluge-za-goste/izjava-o-privatnosti/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/odrzivost",
+                    "domainpath": "/o-interhomeu/odrzivos-old",
                     "querymaps": [
                         {
                             "query": null,
@@ -119,11 +54,11 @@
             {
                 "domain": "www.interhome.hr",
                 "matchdef": {
-                    "domainpath": "/eksluzivno-i-luksuzno",
+                    "domainpath": "/conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/inspiracije/casa-selection/",
+                            "target": "/usluge-za-goste/opci-uvjeti/",
                             "targettokens": []
                         }
                     ]
@@ -132,102 +67,11 @@
             {
                 "domain": "www.interhome.hr",
                 "matchdef": {
-                    "domainpath": "/partner",
+                    "domainpath": "/putno-osiguranje",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/o-interhomeu/odrzivos-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/o-interhomeu/odrzivost/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/schweiz/mittelbuenden/lain-muldain-zorten-lenzerheide",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/svicarska/mittelbuenden/lain-zorten/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/pages/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/dodatne-usluge/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/izjava-o-privatnosti",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/usluge-za-goste/izjava-o-privatnosti/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.hr",
-                "matchdef": {
-                    "domainpath": "/pages/jesenski-odmor",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/inspiracije/jesenski-odmor/",
+                            "target": "/usluge-za-goste/putno-osiguranje/",
                             "targettokens": []
                         }
                     ]
@@ -249,11 +93,11 @@
             {
                 "domain": "www.interhome.hr",
                 "matchdef": {
-                    "domainpath": "/skiset",
+                    "domainpath": "/izjava-o-privatnosti",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/dodatne-usluge/skiset/",
+                            "target": "/usluge-za-goste/izjava-o-privatnosti/",
                             "targettokens": []
                         }
                     ]
@@ -262,11 +106,89 @@
             {
                 "domain": "www.interhome.hr",
                 "matchdef": {
-                    "domainpath": "/conditions",
+                    "domainpath": "/about-us",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/usluge-za-goste/opci-uvjeti/",
+                            "target": "/o-interhomeu/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/eksluzivno-i-luksuzno",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspiracije/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/pages/jesenski-odmor",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspiracije/jesenski-odmor/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/usluge-za-goste/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/usluge-za-goste/izjava-o-privatnosti/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/inspiracije/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/schweiz/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/svicarska/mittelbuenden/lain-zorten/",
                             "targettokens": []
                         }
                     ]
@@ -280,6 +202,84 @@
                         {
                             "query": null,
                             "target": "/kontakt/newsletter/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute-popust/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/odrzivost",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/o-interhomeu/odrzivost/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/dodatne-usluge/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.hr",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
                             "targettokens": []
                         }
                     ]

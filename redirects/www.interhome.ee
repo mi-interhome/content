@@ -1,13 +1,13 @@
 {
-    "id": "",
-    "name": "",
+    "id": "redirects-www.interhome.ee",
+    "name": "Redirects www.interhome.ee",
     "path": "redirects/www.interhome.ee",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
+    "folder": "redirects",
+    "full_slug": "www.interhome.ee",
+    "slug": "www.interhome.ee",
     "locale": "",
-    "suffix": "",
-    "mime": "",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Redirects",
     "content": {
         "domain": "www.interhome.ee",
@@ -15,115 +15,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/about-us",
+                    "domainpath": "/holiday-ideas/ski-children-families",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/aboutus/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/travel-insurance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/travel-insurance/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/challenge",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/tietosuojaseloste",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/tietosuojaseloste/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/about-us",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/mika-on-interhome/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/sustainability",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/early-booking-discount",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/early-bird-deals/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/customer-service/faqs",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/faq/",
+                            "target": "/family-friendly/skiing-snowboarding/",
                             "targettokens": []
                         }
                     ]
@@ -145,240 +41,6 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/customer-service/travel-insurance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/insurances/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/lastminute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/last-minute-akkilahdot/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/important-notes/terms-conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/conditions/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/about-us/company-profile",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/company-profile/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/about-us/safety-in-your-holiday-home",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/safety-in-your-holiday-home/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/special-offers",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/any-special-offer/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/skiopening",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/important-notes",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/imprint",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/imprint/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/ski-children-families",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/family-friendly/skiing-snowboarding/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/winter-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/important-notes/review-policy",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/review-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/pages/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/matkapalvelut/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/favorites",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/favourites",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/nachhaltigkeit",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/mika-on-interhome/kestavyys/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/tietosuojaseloste",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/asiakaspalvelu/tietosuojaseloste/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/aboutus/sustainability-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
                     "domainpath": "/fi/ideoita-lomalle/swisspeakresorts",
                     "querymaps": [
                         {
@@ -392,11 +54,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/partner",
+                    "domainpath": "/fi/conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "https://partners.interhome.group/portal",
+                            "target": "/fi/asiakaspalvelu/varausehdot/",
                             "targettokens": []
                         }
                     ]
@@ -405,24 +67,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/skiset",
+                    "domainpath": "/switzerland/mittelbuenden/lain-muldain-zorten-lenzerheide",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/travel-extras/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/family",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/family/",
+                            "target": "/switzerland/mittelbuenden/lain-zorten/",
                             "targettokens": []
                         }
                     ]
@@ -444,11 +93,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/holiday-ideas/with-pool",
+                    "domainpath": "/france/pyrenees-orientales/llauro",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/villa-with-pool/",
+                            "target": "/france/pyrenees-orientales/torderes/",
                             "targettokens": []
                         }
                     ]
@@ -457,11 +106,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/my-choice",
+                    "domainpath": "/fi/swisspeakresorts",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/favorites/",
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -470,11 +119,115 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/summer",
+                    "domainpath": "/aboutus/sustainability-old",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/summer-holiday/",
+                            "target": "/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/mika-on-interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/about-us/company-profile",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/company-profile/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/pages/autumn",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/autumn-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/important-notes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/ski-holiday",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/winter-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/important-notes/terms-conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/conditions/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/family-kids",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/family/",
                             "targettokens": []
                         }
                     ]
@@ -488,6 +241,58 @@
                         {
                             "query": null,
                             "target": "/switzerland/ticino/calonico/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/challenge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/matkapalvelut/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -511,232 +316,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/travel-ideas/new-year-eve",
+                    "domainpath": "/about-us/safety-in-your-holiday-home",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/public-holidays/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/customer-service/cookies",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/tietosuojaseloste/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/important-notes/data-protection",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/lastminute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/group-accommodation",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/for-groups/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/villa-pool",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/villa-with-pool/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/casa",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/luxury-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/important-notes/terms-of-use",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/france/pyrenees-orientales/llauro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/france/pyrenees-orientales/torderes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/about-us/sustainability",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/pages/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/travel-extras/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/on-piste",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/near-slopes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/holiday-ideas/at-the-beach",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/beach-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/fi/mika-on-interhome/kestavyys-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fi/mika-on-interhome/kestavyys/",
+                            "target": "/aboutus/safety-in-your-holiday-home/",
                             "targettokens": []
                         }
                     ]
@@ -758,19 +342,6 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/holiday-ideas/chalet-ski-cottage",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/chalet/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
                     "domainpath": "/partners",
                     "querymaps": [
                         {
@@ -784,11 +355,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/holiday-ideas/ski-holiday",
+                    "domainpath": "/lastminute",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/winter-holiday-rentals/",
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -797,11 +368,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/holiday-ideas/last-minute",
+                    "domainpath": "/fi/tietosuojaseloste",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
+                            "target": "/fi/asiakaspalvelu/tietosuojaseloste/",
                             "targettokens": []
                         }
                     ]
@@ -810,11 +381,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/fi/last-minute",
+                    "domainpath": "/my-choice",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/fi/last-minute-akkilahdot/",
+                            "target": "/favorites/",
                             "targettokens": []
                         }
                     ]
@@ -823,11 +394,167 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/customer-service/imprint",
+                    "domainpath": "/all-destinations",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/imprint/",
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/travel-ideas/new-year-eve",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/public-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/important-notes/review-policy",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/review-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/winter-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/summer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/summer-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/group-accommodation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/for-groups/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/customer-service/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/tietosuojaseloste/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/conditions/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/mika-on-interhome/kestavyys-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/mika-on-interhome/kestavyys/",
                             "targettokens": []
                         }
                     ]
@@ -849,7 +576,33 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/holiday-ideas/family-kids",
+                    "domainpath": "/holiday-ideas/with-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/villa-with-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/customer-service/faqs",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/faq/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/family",
                     "querymaps": [
                         {
                             "query": null,
@@ -862,11 +615,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/pages/autumn",
+                    "domainpath": "/holiday-ideas/on-piste",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/autumn-holidays/",
+                            "target": "/near-slopes/",
                             "targettokens": []
                         }
                     ]
@@ -875,7 +628,267 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/fi/swisspeakresorts",
+                    "domainpath": "/holiday-ideas/casa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/luxury-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/travel-insurance/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/important-notes/terms-of-use",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/early-booking-discount",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/early-bird-deals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/important-notes/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/customer-service/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/imprint/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/special-offers",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/any-special-offer/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/favorites",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/favourites",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/last-minute-akkilahdot/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/nachhaltigkeit",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/mika-on-interhome/kestavyys/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/imprint/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/at-the-beach",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/beach-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/tietosuojaseloste",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/tietosuojaseloste/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/holiday-ideas/chalet-ski-cottage",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/chalet/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/customer-service/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/insurances/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/fi/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fi/last-minute-akkilahdot/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.ee",
+                "matchdef": {
+                    "domainpath": "/skiopening",
                     "querymaps": [
                         {
                             "query": null,
@@ -901,11 +914,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/fi/conditions",
+                    "domainpath": "/sustainability",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/fi/asiakaspalvelu/varausehdot/",
+                            "target": "/aboutus/sustainability/",
                             "targettokens": []
                         }
                     ]
@@ -914,11 +927,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/conditions",
+                    "domainpath": "/about-us/sustainability",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/customer-service/conditions/",
+                            "target": "/aboutus/sustainability/",
                             "targettokens": []
                         }
                     ]
@@ -927,24 +940,11 @@
             {
                 "domain": "www.interhome.ee",
                 "matchdef": {
-                    "domainpath": "/switzerland/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "domainpath": "/villa-pool",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/switzerland/mittelbuenden/lain-zorten/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.ee",
-                "matchdef": {
-                    "domainpath": "/offer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
+                            "target": "/holiday-ideas/villa-with-pool/",
                             "targettokens": []
                         }
                     ]

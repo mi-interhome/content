@@ -1,13 +1,13 @@
 {
-    "id": "",
-    "name": "",
+    "id": "redirects-www.interhome.de",
+    "name": "Redirects www.interhome.de",
     "path": "redirects/www.interhome.de",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
+    "folder": "redirects",
+    "full_slug": "www.interhome.de",
+    "slug": "www.interhome.de",
     "locale": "",
-    "suffix": "",
-    "mime": "",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Redirects",
     "content": {
         "domain": "www.interhome.de",
@@ -15,184 +15,7 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/deutsch/reiseziele/italien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/urlauben direkt an der piste",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "TrackBID=DE_Winter",
-                                "affmn=1",
-                                "affmt=1",
-                                "ref=229143"
-                            ],
-                            "target": "/urlaubsideen/winterurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/italien/piemonte-langhe-monferrato/sanico",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien/piemonte-langhe-monferrato/moncalvo/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ferienwohnungen/profi-suche.aspx",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "lCode=DE-DE",
-                                "sortField=25"
-                            ],
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/norwegen/-innerer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/-innerer-sognefjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ObjectDetails/Default.aspx",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "aCode=DE2981.100.1",
-                                "lCode=DE-DE",
-                                "partneridzu=A-21791-0"
-                            ],
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/agb",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/agb/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/search/advanced.aspx",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "ihnav=N",
-                                "lCode=DE-DE"
-                            ],
-                            "target": "/deutschland/",
-                            "targettokens": []
-                        },
-                        {
-                            "query": [
-                                "ihnav=N",
-                                "lCode=DE-DE"
-                            ],
-                            "target": "/",
-                            "targettokens": null
-                        },
-                        {
-                            "query": [
-                                "ihnav=N",
-                                "lCode=DE-DE"
-                            ],
-                            "target": "/",
-                            "targettokens": null
-                        },
-                        {
-                            "query": [
-                                "ihnav=Y",
-                                "lCode=DE-DE"
-                            ],
-                            "target": "/",
-                            "targettokens": null
-                        },
-                        {
-                            "query": [
-                                "ihnav=N",
-                                "lCode=DE-DE"
-                            ],
-                            "target": "/",
-                            "targettokens": null
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/news/2018-04-24-ferienhausreport-2018",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2018/2018-04-24-ferienhausreport-2018/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/schweiz/mittelbuenden/lain-mulden-zorten (Lenzerheide)",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweiz/mittelbuenden/lain-zorten/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/sv.htm",
+                    "domainpath": "/images/logo_ih.gif",
                     "querymaps": [
                         {
                             "query": null,
@@ -205,11 +28,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/sommer",
+                    "domainpath": "/imprint",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/sommerurlaub/",
+                            "target": "/impressum/",
                             "targettokens": []
                         }
                     ]
@@ -218,11 +41,37 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/Last minute/apartments/specialoffersl.ashx",
+                    "domainpath": "/katalog",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/last-minute/",
+                            "target": "/kontakt/kataloge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienwohnung-wien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/oesterreich/wien/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/kundenservice/reiseservice",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reiseservice/",
                             "targettokens": []
                         }
                     ]
@@ -244,7 +93,7 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/images/logo_ih.gif",
+                    "domainpath": "/ferienhaeuser",
                     "querymaps": [
                         {
                             "query": null,
@@ -257,11 +106,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/skiset",
+                    "domainpath": "/news/sternzeichen",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reiseservice/skiset/",
+                            "target": "/news/2018/Sternzeichen/",
                             "targettokens": []
                         }
                     ]
@@ -270,11 +119,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/lastminute",
+                    "domainpath": "/ferienhaus-pool",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/last-minute/",
+                            "target": "/urlaubsideen/ferienhaus-pool/",
                             "targettokens": []
                         }
                     ]
@@ -283,13 +132,81 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/deutsch/alternative suche",
+                    "domainpath": "/reiseziele/ferienhaus-tirol",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/oesterreich/tirol/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/open.asp",
                     "querymaps": [
                         {
                             "query": [
-                                "iniframe=1"
+                                "link=main.asp",
+                                "partnerid=59XXXX",
+                                "so=59",
+                                "userla="
                             ],
                             "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/datenschutz",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/datenschutz/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/norwegen/-aeusserer-sogneford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/-aeusserer-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/news/skiurlaub",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news/2018/Skiurlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/reiseziele/Ferienhaus-Kroatien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kroatien/",
                             "targettokens": []
                         }
                     ]
@@ -311,11 +228,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/urlaubsideen/swisspeakresorts",
+                    "domainpath": "/schweiz/berner-oberland/lauenen-b.-gstaad",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/schweiz/berner-oberland/lauenen-bei-gstaad/",
                             "targettokens": []
                         }
                     ]
@@ -324,11 +241,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/default.htm",
+                    "domainpath": "/deutschland/insel-ruegen",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/deutschland/ruegen/",
                             "targettokens": []
                         }
                     ]
@@ -337,11 +254,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/reiseziele/ferienwohnung-cote-d-azur",
+                    "domainpath": "/deutsch/günstige+ferien",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/frankreich/cote-d-azur",
+                            "target": "/urlaubsideen/ferienhaus-guenstig/",
                             "targettokens": []
                         }
                     ]
@@ -350,24 +267,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/günstige ferien",
+                    "domainpath": "/news/2018-04-24-ferienhausreport-2018",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/guenstiger-urlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/urlaubsideen/fruehbucherrabatt",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fruehbucher-rabatt/",
+                            "target": "/news/2018/2018-04-24-ferienhausreport-2018/",
                             "targettokens": []
                         }
                     ]
@@ -389,17 +293,12 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/swisspeak-meiringen",
+                    "domainpath": "/kataloge",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/swisspeakresorts/?utm_source=d_Alles-fuer-die-Frau_de\u0026utm_medium=display_a\u0026utm_content=wettbewerb\u0026utm_campaign=2020_Alles-fuer-die-Frau_de",
-                            "targettokens": [
-                                "utm_source=d_Alles-fuer-die-Frau_de",
-                                "utm_medium=display_a",
-                                "utm_content=wettbewerb",
-                                "utm_campaign=2020_Alles-fuer-die-Frau_de"
-                            ]
+                            "target": "/kontakt/kataloge/",
+                            "targettokens": []
                         }
                     ]
                 }
@@ -407,11 +306,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/news/2017-11-14-ferienhausreport-2017",
+                    "domainpath": "/schweden/oerebro",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/schweden/naerke",
                             "targettokens": []
                         }
                     ]
@@ -439,11 +338,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/all-destinations",
+                    "domainpath": "/schweden/kalmar-und-oeland",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/schweden",
                             "targettokens": []
                         }
                     ]
@@ -452,50 +351,56 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/news/2019",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/en/about-us/company-profile",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-interhome/company-profile/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-pool",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/ferienhaus-pool/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/Search/SearchResult.ashx",
+                    "domainpath": "/Ferienwohnungen/Grossbritannien/London/suchergebnis.aspx",
                     "querymaps": [
                         {
                             "query": [
-                                "page=5"
+                                "cCode=GB",
+                                "lCode=DE-DE",
+                                "rID=293",
+                                "regionCode=10",
+                                "searchType=2"
+                            ],
+                            "target": "/grossbritannien/london/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/osterferien im ferienhaus",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/osterferien",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/holiday-rentals/switzerland/engadin/silvaplana_surlej/appartments-in-same-house.aspx",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweiz/engadin/silvaplana-surlej/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/alternative suche",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "iniframe=1"
                             ],
                             "target": "/",
                             "targettokens": []
@@ -506,11 +411,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/ferienhaus-pool",
+                    "domainpath": "/kundenservice/imprint",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/ferienhaus-pool/",
+                            "target": "/impressum/",
                             "targettokens": []
                         }
                     ]
@@ -519,11 +424,157 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/Search/Advanced.aspx",
+                    "domainpath": "/buchung/basket/01/59/buchung.css/719595",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ueber-interhome/nachhaltigkeit-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-interhome/nachhaltigkeit/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienwohnung-cote-d-azur",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankreich/cote-d-azur",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reiseservice/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/günstige+ferien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/guenstiger-urlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/workation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travelguide/im-trend-workation-im-ferienhaus",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/news/2017-11-14-ferienhausreport-2017",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/nachhaltigkeit",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-interhome/nachhaltigkeit/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/norwegen/suedliches-fjordnorwegen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/fjordnorwegen",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/lastminute in den winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/Ferienwohnungen/search.ashx",
                     "querymaps": [
                         {
                             "query": [
-                                "ihnav=Y"
+                                "lCode=DE-DE",
+                                "partnerID=590655",
+                                "sortField=25",
+                                "sortOrderAscending=1"
                             ],
                             "target": "/",
                             "targettokens": []
@@ -534,10 +585,142 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/reiseziele",
+                    "domainpath": "/service-vor-ort/interhome-porto-vecchio-fr060",
                     "querymaps": [
                         {
                             "query": null,
+                            "target": "/service-vor-ort/interhome-portovecchio-fr060",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-kroatien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kroatien/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/reiseziele/italien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutschland/insel-usedom",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/usedom/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/günstige-ferien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/ferienhaus-guenstig",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/Ferienhaus-Strand",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/ferienhaus-strand/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/günstige ferien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/guenstiger-urlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/kundenservice/impressum",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/impressum/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ferienhäuser nordsee",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/nordsee/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/last-minute-in-den-winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/alternative suche",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "iniframe=1"
+                            ],
                             "target": "/",
                             "targettokens": []
                         }
@@ -547,11 +730,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/ferienhausurlaub mit hund",
+                    "domainpath": "/norwegen/-innerer-sogneford",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/urlaub-hund/",
+                            "target": "/norwegen/-innerer-sognefjord/",
                             "targettokens": []
                         }
                     ]
@@ -560,10 +743,39 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/ipad",
+                    "domainpath": "/deutsch/spanien/andalusien inland",
                     "querymaps": [
                         {
                             "query": null,
+                            "target": "/spanien/andalusien-inland/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/reiseziele/Ferienwohnung-Cote-d-Azur",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankreich/cote-d-azur",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ferienwohnungen/profi-suche.aspx",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "lCode=DE-DE",
+                                "sortField=25"
+                            ],
                             "target": "/",
                             "targettokens": []
                         }
@@ -594,11 +806,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/pages/herbsturlaub",
+                    "domainpath": "/skiset",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/herbsturlaub/",
+                            "target": "/reiseservice/skiset/",
                             "targettokens": []
                         }
                     ]
@@ -607,11 +819,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/schweiz/berner-oberland/lauenen-b.-gstaad",
+                    "domainpath": "/reiseziele/ferienhaus-deutschland",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/schweiz/berner-oberland/lauenen-bei-gstaad/",
+                            "target": "/deutschland/",
                             "targettokens": []
                         }
                     ]
@@ -620,122 +832,10 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/service-vor-ort/interhome-porto-vecchio-fr060",
+                    "domainpath": "/bilder_neue_ablage/so/c/c6926100.jpg",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/service-vor-ort/interhome-portovecchio-fr060",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/frankreich/centre",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/frankreich/loiretal/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/workation",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/travelguide/im-trend-workation-im-ferienhaus",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/nachhaltigkeit",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-interhome/nachhaltigkeit/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/frankreich/côted'azurfranzösischeriviera/nizza",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/frankreich/cote-d-azur/nizza/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/spezialangebote/last minute interhome",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/schweden/kalmar-und-oeland",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweden",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/partner",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/landinfo/landinfo_region.asp",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "countrycode=E",
-                                "ihnav=N",
-                                "partnerid=594755",
-                                "partneridzu=4127",
-                                "regioncode=40",
-                                "so=59",
-                                "userlang=01"
-                            ],
                             "target": "/",
                             "targettokens": []
                         }
@@ -862,11 +962,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/reiseziele/italien",
+                    "domainpath": "/skipass",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/italien/",
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -875,11 +975,37 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/ferienhäuser nordsee",
+                    "domainpath": "/italien/piemonte-langhe-monferrato/sanico",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/deutschland/nordsee/",
+                            "target": "/italien/piemonte-langhe-monferrato/moncalvo/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/urlaubsideen/fruehbucherrabatt",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fruehbucher-rabatt/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ferienhaeuser/ferienwohnung_in_imst-38.html",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/oesterreich/tirol/imst/",
                             "targettokens": []
                         }
                     ]
@@ -922,11 +1048,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/schweiz/wallis/prarreyer-le-chable",
+                    "domainpath": "/winter",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/schweiz/wallis/prarreyer/",
+                            "target": "/urlaubsideen/winterurlaub/",
                             "targettokens": []
                         }
                     ]
@@ -935,11 +1061,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/kundenservice/reiseservice",
+                    "domainpath": "/offer",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reiseservice/",
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -948,17 +1074,16 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/Ferienwohnungen/Grossbritannien/London/suchergebnis.aspx",
+                    "domainpath": "/deutsch/urlauben direkt an der piste",
                     "querymaps": [
                         {
                             "query": [
-                                "cCode=GB",
-                                "lCode=DE-DE",
-                                "rID=293",
-                                "regionCode=10",
-                                "searchType=2"
+                                "TrackBID=DE_Winter",
+                                "affmn=1",
+                                "affmt=1",
+                                "ref=229143"
                             ],
-                            "target": "/grossbritannien/london/",
+                            "target": "/urlaubsideen/winterurlaub/",
                             "targettokens": []
                         }
                     ]
@@ -967,7 +1092,46 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/datenschutz",
+                    "domainpath": "/home.aspx",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/italien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/schweiz/mittelbuenden/lain-mulden-zorten (Lenzerheide)",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweiz/mittelbuenden/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/kundenservice/cookies",
                     "querymaps": [
                         {
                             "query": null,
@@ -980,11 +1144,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/deutschland von seine schönsten seite",
+                    "domainpath": "/frankreich/cote-d-azur/agay",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/deutschland/",
+                            "target": "/frankreich/cote-d-azur/agay-saint-raphael/",
                             "targettokens": []
                         }
                     ]
@@ -993,11 +1157,183 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/kundenservice/impressum",
+                    "domainpath": "/swisspeak-meiringen",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/impressum/",
+                            "target": "/urlaubsideen/swisspeakresorts/?utm_source=d_Alles-fuer-die-Frau_de\u0026utm_medium=display_a\u0026utm_content=wettbewerb\u0026utm_campaign=2020_Alles-fuer-die-Frau_de",
+                            "targettokens": [
+                                "utm_source=d_Alles-fuer-die-Frau_de",
+                                "utm_medium=display_a",
+                                "utm_content=wettbewerb",
+                                "utm_campaign=2020_Alles-fuer-die-Frau_de"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/schweiz/viamala-surses-albulatal/alvaschein GR",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweiz/viamala-surses-albulatal/alvaschein/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseversicherung",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/reiseversicherung/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/search/advanced.aspx",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "ihnav=N",
+                                "lCode=DE-DE"
+                            ],
+                            "target": "/deutschland/",
+                            "targettokens": []
+                        },
+                        {
+                            "query": [
+                                "ihnav=N",
+                                "lCode=DE-DE"
+                            ],
+                            "target": "/",
+                            "targettokens": null
+                        },
+                        {
+                            "query": [
+                                "ihnav=N",
+                                "lCode=DE-DE"
+                            ],
+                            "target": "/",
+                            "targettokens": null
+                        },
+                        {
+                            "query": [
+                                "ihnav=Y",
+                                "lCode=DE-DE"
+                            ],
+                            "target": "/",
+                            "targettokens": null
+                        },
+                        {
+                            "query": [
+                                "ihnav=N",
+                                "lCode=DE-DE"
+                            ],
+                            "target": "/",
+                            "targettokens": null
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/schweden/bohuslaen-und-vaestra-goetaland",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweden/vaestergoetland",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/pages/herbsturlaub",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/herbsturlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ferienhausurlaub mit hund",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/urlaub-hund/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/Search/Advanced.aspx",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "ihnav=Y"
+                            ],
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/news/2017-05-16-ferienhausreport",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/italien/piemont/valsesia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/piemont/alagna-valsesia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/sommer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/sommerurlaub/",
                             "targettokens": []
                         }
                     ]
@@ -1019,24 +1355,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/norwegen/oslo-und-osloford",
+                    "domainpath": "/winterurlaub",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norwegen/oslo-und-oslofjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-oesterreich",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/oesterreich/",
+                            "target": "/urlaubsideen/winterurlaub/",
                             "targettokens": []
                         }
                     ]
@@ -1058,11 +1381,140 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/deutsch/osterferien im ferienhaus",
+                    "domainpath": "/reiseziele",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/osterferien",
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/index.asp",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "partnerid=597414",
+                                "so=59",
+                                "userlang=01"
+                            ],
+                            "target": "/urlaubsideen/winterurlaub/",
+                            "targettokens": []
+                        },
+                        {
+                            "query": [
+                                "partnerid=593189",
+                                "so=59",
+                                "userlang=01"
+                            ],
+                            "target": "/",
+                            "targettokens": null
+                        },
+                        {
+                            "query": [
+                                "partnerid=599297",
+                                "so=59",
+                                "userlang=01"
+                            ],
+                            "target": "/",
+                            "targettokens": null
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/urlaubsideen/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/summerspecial",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-oesterreich",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/oesterreich/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-nordsee",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/nordsee/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-italien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/schweiz/wallis/prarreyer-le-chable",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweiz/wallis/prarreyer/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/zermatt/ferienwohnung",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "gclid=CJ7una-u_bsCFQn3wgodlhEAWg",
+                                "partnerid=IH1000021"
+                            ],
+                            "target": "/schweiz/wallis/zermatt/",
                             "targettokens": []
                         }
                     ]
@@ -1084,11 +1536,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/partners",
+                    "domainpath": "/spezialangebote/last minute interhome",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "https://partners.interhome.group/portal",
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -1097,11 +1549,24 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/kundenservice/conditions",
+                    "domainpath": "/default.htm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kundenservice/agb/",
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/last minute in den winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/skifahren-snowboard",
                             "targettokens": []
                         }
                     ]
@@ -1150,11 +1615,316 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/conditions",
+                    "domainpath": "/reiseziele/ferienwohnung-paris",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankreich/ile-de-france/paris/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/Search/SearchResult.ashx",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "page=5"
+                            ],
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/urlaubsideen/ski-urlaub",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/top-skigebiete/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/ferienhaus-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ContractConditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/agb",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienwohnung-salzburg",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/oesterreich/salzburger-land/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-plattensee",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ungarn/balaton/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ObjectDetails/Default.aspx",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "aCode=DE2981.100.1",
+                                "lCode=DE-DE",
+                                "partneridzu=A-21791-0"
+                            ],
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/agb",
                     "querymaps": [
                         {
                             "query": null,
                             "target": "/kundenservice/agb/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/bilder_neue_ablage/ort/so/4e9485.jpg",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/norwegen/oslo-und-osloford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/oslo-und-oslofjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/frankreich/centre",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankreich/loiretal/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/spanien/pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/spanien/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/kontakt/katalogbestellung",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/kataloge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/news/2020",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/reiseziele/ferienhaus-toskana",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/toskana/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ipad",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/kundenservice/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/agb/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/ferienhäuser auf den schönsten inseln europas",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/news/2019",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/news",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/deutsch/last-minute-in-den-winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/skifahren-snowboard",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/du-hast-ein-schwimmbad-verdient",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/ferienhaus-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -1190,11 +1960,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/norwegen/suedliches-fjordnorwegen",
+                    "domainpath": "/lastminute",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norwegen/fjordnorwegen",
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -1203,167 +1973,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/schweden/bohuslaen-und-vaestra-goetaland",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweden/vaestergoetland",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-kroatien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kroatien/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/imprint",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/impressum/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/news/2017-05-16-ferienhausreport",
+                    "domainpath": "/sv.htm",
                     "querymaps": [
                         {
                             "query": null,
                             "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/winterurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienwohnung-wien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/oesterreich/wien/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/schweden/oerebro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweden/naerke",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/italien/piemont/valsesia",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien/piemont/alagna-valsesia/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/exklusiv-und-luxurioes",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/casa-selection/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienwohnung-tirol",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/oesterreich/tirol/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ferienhaeuser",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/skipass",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ContractConditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/agb",
                             "targettokens": []
                         }
                     ]
@@ -1385,11 +1999,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/du-hast-ein-schwimmbad-verdient",
+                    "domainpath": "/partner",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/ferienhaus-pool/",
+                            "target": "https://partners.interhome.group/portal",
                             "targettokens": []
                         }
                     ]
@@ -1398,203 +2012,7 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/kundenservice/imprint",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/impressum/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-toskana",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien/toskana/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/spanien/andalusien inland",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/spanien/andalusien-inland/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/last minute in den winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/skifahren-snowboard",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/spanien/pool",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/spanien/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/open.asp",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "link=main.asp",
-                                "partnerid=59XXXX",
-                                "so=59",
-                                "userla="
-                            ],
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/holiday-rentals/switzerland/engadin/silvaplana_surlej/appartments-in-same-house.aspx",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweiz/engadin/silvaplana-surlej/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/offer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/lastminute in den winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/summerspecial",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/katalog",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/kataloge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/index.asp",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "partnerid=597414",
-                                "so=59",
-                                "userlang=01"
-                            ],
-                            "target": "/urlaubsideen/winterurlaub/",
-                            "targettokens": []
-                        },
-                        {
-                            "query": [
-                                "partnerid=593189",
-                                "so=59",
-                                "userlang=01"
-                            ],
-                            "target": "/",
-                            "targettokens": null
-                        },
-                        {
-                            "query": [
-                                "partnerid=599297",
-                                "so=59",
-                                "userlang=01"
-                            ],
-                            "target": "/",
-                            "targettokens": null
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ferienhäuser auf den schönsten inseln europas",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-tirol",
+                    "domainpath": "/reiseziele/ferienwohnung-tirol",
                     "querymaps": [
                         {
                             "query": null,
@@ -1607,120 +2025,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/kundenservice/cookies",
+                    "domainpath": "/sonne+-ampersand-+strand",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kundenservice/datenschutz/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/Ferienwohnungen/search.ashx",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "lCode=DE-DE",
-                                "partnerID=590655",
-                                "sortField=25",
-                                "sortOrderAscending=1"
-                            ],
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-deutschland",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/last-minute-in-den-winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/skifahren-snowboard",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/günstige+ferien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/ferienhaus-guenstig/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienwohnung-paris",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/frankreich/ile-de-france/paris/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ueber-interhome/nachhaltigkeit-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-interhome/nachhaltigkeit/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/günstige-ferien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/ferienhaus-guenstig",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/home.aspx",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
+                            "target": "/urlaubsideen/ferienhaus-strand/",
                             "targettokens": []
                         }
                     ]
@@ -1742,11 +2051,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/news/sternzeichen",
+                    "domainpath": "/Last minute/apartments/specialoffersl.ashx",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/news/2018/Sternzeichen/",
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -1755,11 +2064,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/norwegen/-aeusserer-sogneford",
+                    "domainpath": "/reiseziele/ferienhaus-spanien",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norwegen/-aeusserer-sognefjord/",
+                            "target": "/spanien/",
                             "targettokens": []
                         }
                     ]
@@ -1768,11 +2077,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/deutsch/reiseziele/Ferienwohnung-Cote-d-Azur",
+                    "domainpath": "/last-minute",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/frankreich/cote-d-azur",
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]
@@ -1781,14 +2090,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/zermatt/ferienwohnung",
+                    "domainpath": "/deutsch/frankreich/côted'azurfranzösischeriviera/nizza",
                     "querymaps": [
                         {
-                            "query": [
-                                "gclid=CJ7una-u_bsCFQn3wgodlhEAWg",
-                                "partnerid=IH1000021"
-                            ],
-                            "target": "/schweiz/wallis/zermatt/",
+                            "query": null,
+                            "target": "/frankreich/cote-d-azur/nizza/",
                             "targettokens": []
                         }
                     ]
@@ -1797,12 +2103,36 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/alternative suche",
+                    "domainpath": "/deutschland von seine schönsten seite",
                     "querymaps": [
                         {
-                            "query": [
-                                "iniframe=1"
-                            ],
+                            "query": null,
+                            "target": "/deutschland/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/exklusiv-und-luxurioes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.de",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
                             "target": "/",
                             "targettokens": []
                         }
@@ -1812,24 +2142,19 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/schweiz/viamala-surses-albulatal/alvaschein GR",
+                    "domainpath": "/landinfo/landinfo_region.asp",
                     "querymaps": [
                         {
-                            "query": null,
-                            "target": "/schweiz/viamala-surses-albulatal/alvaschein/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutschland/insel-usedom",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/usedom/",
+                            "query": [
+                                "countrycode=E",
+                                "ihnav=N",
+                                "partnerid=594755",
+                                "partneridzu=4127",
+                                "regioncode=40",
+                                "so=59",
+                                "userlang=01"
+                            ],
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -1854,11 +2179,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/about-us",
+                    "domainpath": "/en/about-us/company-profile",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/ueber-interhome/",
+                            "target": "/ueber-interhome/company-profile/",
                             "targettokens": []
                         }
                     ]
@@ -1867,336 +2192,11 @@
             {
                 "domain": "www.interhome.de",
                 "matchdef": {
-                    "domainpath": "/kataloge",
+                    "domainpath": "/conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kontakt/kataloge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/frankreich/cote-d-azur/agay",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/frankreich/cote-d-azur/agay-saint-raphael/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutsch/reiseziele/Ferienhaus-Kroatien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kroatien/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/buchung/basket/01/59/buchung.css/719595",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-italien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienwohnung-salzburg",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/oesterreich/salzburger-land/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/kontakt/katalogbestellung",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/kataloge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/last-minute-in-den-winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/bilder_neue_ablage/so/c/c6926100.jpg",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/winterurlaub",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/winterurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-nordsee",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/nordsee/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-spanien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/spanien/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/deutschland/insel-ruegen",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/ruegen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/sonne+-ampersand-+strand",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/ferienhaus-strand/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseversicherung",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/reiseversicherung/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/ferienhaus-plattensee",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ungarn/balaton/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/bilder_neue_ablage/ort/so/4e9485.jpg",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/ferienhaeuser/ferienwohnung_in_imst-38.html",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/oesterreich/tirol/imst/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/news/2020",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/reiseziele/Ferienhaus-Strand",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/ferienhaus-strand/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/news/skiurlaub",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/news/2018/Skiurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/urlaubsideen/ski-urlaub",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/top-skigebiete/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/pages/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reiseservice/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.de",
-                "matchdef": {
-                    "domainpath": "/günstige+ferien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/guenstiger-urlaub/",
+                            "target": "/kundenservice/agb/",
                             "targettokens": []
                         }
                     ]

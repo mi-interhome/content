@@ -1,13 +1,13 @@
 {
-    "id": "",
-    "name": "",
+    "id": "redirects-www.interhome.cz",
+    "name": "Redirects www.interhome.cz",
     "path": "redirects/www.interhome.cz",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
+    "folder": "redirects",
+    "full_slug": "www.interhome.cz",
+    "slug": "www.interhome.cz",
     "locale": "",
-    "suffix": "",
-    "mime": "",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Redirects",
     "content": {
         "domain": "www.interhome.cz",
@@ -15,130 +15,11 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/ceska-republika/moravskoslezsky-kraj-jeseniky-beskydy",
+                    "domainpath": "/ceska-republika/ústecky-kraj",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/ceska-republika/beskydy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/zakaznicky-servis/vseobecne-smluvni-podminky/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/favorites",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/favourites",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/important-notes/data-protection",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/important-notes/terms-conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/conditions/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/honeywell",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000365",
-                            "targettokens": [
-                                "partnerid=CZ1000365"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/data-protection",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/privacy-policy",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/chorvatsko/dalmatien",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/chorvatsko/dalmacie/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ochrana-soukromi",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/zakaznicky-servis/ochrana-soukromi/",
+                            "target": "/ceska-republika/ceske-svycarsko/",
                             "targettokens": []
                         }
                     ]
@@ -160,585 +41,6 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/about-us",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/chalet-ski-cottage",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/chalet/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/destinace/svýcarsko",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/svycarsko",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/jihocesky-kraj",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/jizni-cechy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/ski-holiday",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/winter-holiday-rentals/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/pages/podzimni-dovolena",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/inspirace/podzimni-dovolena/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/special-offers",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/any-special-offer/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/zakaznicky-servis/cookies",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/zakaznicky-servis/ochrana-soukromi/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/zima",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/inspirace/zima-horach/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/sphere",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000448",
-                            "targettokens": [
-                                "partnerid=CZ1000448"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/karlovarsky-kraj",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/krusne-hory/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/italie/piemonte-langhe-monferrato/sanico",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italie/piemonte-langhe-monferrato/moncalvo/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/casa",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/luxury-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/tuv-sud",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000362",
-                            "targettokens": [
-                                "partnerid=CZ1000362"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/unipetrol",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000364",
-                            "targettokens": [
-                                "partnerid=CZ1000364"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/data-protection",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/family-kids",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/family/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ibm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000366",
-                            "targettokens": [
-                                "partnerid=CZ1000366"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/cestovni-pojisteni",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/zakaznicky-servis/cestovni-pojisteni/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/citibank",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000357",
-                            "targettokens": [
-                                "partnerid=CZ1000357"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/jihomoravsky-kraj",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/jizni-morava/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/nemecko/usedom",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/nemecko/uznojem/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/challenge",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ppf",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000368",
-                            "targettokens": [
-                                "partnerid=CZ1000368"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/svycarsko/engadin/la-puntchamues-ch",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/svycarsko/engadin/la-punt-chamues-ch/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/leaseplan",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000369",
-                            "targettokens": [
-                                "partnerid=CZ1000369"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/kooperativa",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000354",
-                            "targettokens": [
-                                "partnerid=CZ1000354"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/tokoz",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000355",
-                            "targettokens": [
-                                "partnerid=CZ1000355"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/destinace/italie",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italie",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/holiday-with-dog",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/pets/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/conditions/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/family",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/family/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/slovenska-rep",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/slovenska-rep",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/about-us/sustainability",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/francie/pyreneje-vychod/llauro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/francie/pyreneje-vychod/torderes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/offer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/aero",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000361",
-                            "targettokens": [
-                                "partnerid=CZ1000361"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
                     "domainpath": "/skiset",
                     "querymaps": [
                         {
@@ -752,833 +54,11 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/csob",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000358",
-                            "targettokens": [
-                                "partnerid=CZ1000358"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/sustainability",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/pages/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/cestovni-doplnky/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/italie/groednertal",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italie/val-gardena/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/AT\u0026T",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000360",
-                            "targettokens": [
-                                "partnerid=CZ1000360"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/boehmerwald",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/sumava/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/all-destinations",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/customer-service/faqs",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/faq/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/my-choice",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/favorites/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/pages/autumn",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/autumn-holidays/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/pardubicky-kraj",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/vychodni-cechy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/zeleznice",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000618",
-                            "targettokens": [
-                                "partnerid=CZ1000618"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/about-us/safety-in-your-holiday-home",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/safety-in-your-holiday-home/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/ústecky-kraj",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/ceske-svycarsko/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/o-interhome/udrzitelnost-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/o-interhome/udrzitelnost/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/villa-pool",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/villa-with-pool/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/customer-service/travel-insurance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/insurances/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/about-us",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/o-interhome/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
                     "domainpath": "/en/holiday-ideas/with-pool",
                     "querymaps": [
                         {
                             "query": null,
                             "target": "/holiday-ideas/villa-with-pool/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/olomoucky-kraj-jeseniky",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/jeseniky/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/rakousko/oetztal",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/rakousko/otztal/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/raiffeisenbank",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000359",
-                            "targettokens": [
-                                "partnerid=CZ1000359"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/france/pyrenees-orientales/llauro",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/france/pyrenees-orientales/torderes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/oracle",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000385",
-                            "targettokens": [
-                                "partnerid=CZ1000385"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/italie/fleimstal",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italie/údoli-fiemme/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/destinace/francie",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/francie",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/switzerland/ticino/calonico-faido",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/switzerland/ticino/calonico/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/last-minute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/huawei",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000356",
-                            "targettokens": [
-                                "partnerid=CZ1000356"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/winter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/winter-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/rekreacni-domy-bazenem",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/inspirace/rekreacni-domy-bazenem/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ing",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000373",
-                            "targettokens": [
-                                "partnerid=CZ1000373"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/lastminute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/nemecko//teutoburger-wald",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/nemecko/teutobursky-les/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/at-the-beach",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/beach-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/important-notes/review-policy",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/review-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/nemecko/schwaebisch-fraenkischer-wald",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/nemecko/svabsko-fransky-les/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/liberecky-kraj-jizerske-hory-krkonose",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/jizerske-hory/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/inspirace/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/sherlockholmes",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/swisspeakresorts/?partnerid=CH1001911",
-                            "targettokens": [
-                                "partnerid=CH1001911"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/on-piste",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/near-slopes/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/italie/piemonte/valsesia",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italie/piemonte/alagna-valsesia/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/norsko/-innerer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norsko/-vnitrni-sognefjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/lastminute",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/last-minute/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/partner",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/svycarsko/mittelbuenden/lain-muldain-zorten--lenzerheide--",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/svycarsko/mittelbuenden/lain-zorten/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/norsko/-aeusserer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norsko/-vnejsi-sognefjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/exkluzivni-a-luxusni",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/inspirace/casa-selection/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/destinace/chorvatsko",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/chorvatsko",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/destinace/istrie",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/chorvatsko/istrie",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/leto",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/inspirace/letni-dovolena/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/destinace/spanelsko",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/spanelsko",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/imprint",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/imprint/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/important-notes",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/customer-service/imprint",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/imprint/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/important-notes/terms-of-use",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/customer-service/privacy-policy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/ceska-republika/adlergebirge",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/orlicke-hory/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/aboutus/sustainability-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/aboutus/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/travel-extras/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/offer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/group-accommodation",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/for-groups/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/about-us/company-profile",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/aboutus/company-profile/",
                             "targettokens": []
                         }
                     ]
@@ -1602,11 +82,11 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/ski-children-families",
+                    "domainpath": "/italie/groednertal",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/family-friendly/skiing-snowboarding/",
+                            "target": "/italie/val-gardena/",
                             "targettokens": []
                         }
                     ]
@@ -1615,33 +95,7 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/ceska-republika/plzensky-kraj",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ceska-republika/zapadni-cechy/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/travel-ideas/new-year-eve",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/public-holidays/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/en/skiopening",
+                    "domainpath": "/inspirace/swisspeakresorts",
                     "querymaps": [
                         {
                             "query": null,
@@ -1654,11 +108,11 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/ceska-republika/stredocesky-kraj",
+                    "domainpath": "/destinace/chorvatsko",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/ceska-republika/stredni-cechy/",
+                            "target": "/chorvatsko",
                             "targettokens": []
                         }
                     ]
@@ -1667,67 +121,11 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/holiday-ideas/early-booking-discount",
+                    "domainpath": "/svycarsko/mittelbuenden/lain-muldain-zorten--lenzerheide--",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/holiday-ideas/early-bird-deals/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/rakousko/neusiedler-see",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/rakousko/neziderske-jezero/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/klub",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000603",
-                            "targettokens": [
-                                "partnerid=CZ1000603"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/cleverlance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?partnerid=CZ1000372",
-                            "targettokens": [
-                                "partnerid=CZ1000372"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interhome.cz",
-                "matchdef": {
-                    "domainpath": "/francie/azurove-pobrezi/agay",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/francie/azurove-pobrezi/agay-saint-raphael/",
+                            "target": "/svycarsko/mittelbuenden/lain-zorten/",
                             "targettokens": []
                         }
                     ]
@@ -1749,11 +147,1101 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
+                    "domainpath": "/en/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/imprint/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/imprint/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/rakousko/oetztal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/rakousko/otztal/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/family-kids",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/family/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/francie/pyreneje-vychod/llauro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/francie/pyreneje-vychod/torderes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/oracle",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000385",
+                            "targettokens": [
+                                "partnerid=CZ1000385"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/villa-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/villa-with-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/cestovni-doplnky/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/chalet-ski-cottage",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/chalet/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/zeleznice",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000618",
+                            "targettokens": [
+                                "partnerid=CZ1000618"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
                     "domainpath": "/en/pages/skiset",
                     "querymaps": [
                         {
                             "query": null,
                             "target": "/en/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/family",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/family/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/pardubicky-kraj",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/vychodni-cechy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/adlergebirge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/orlicke-hory/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/olomoucky-kraj-jeseniky",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/jeseniky/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/destinace/francie",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/francie",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/italie/piemonte-langhe-monferrato/sanico",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italie/piemonte-langhe-monferrato/moncalvo/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/challenge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/aboutus/sustainability-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/nemecko/schwaebisch-fraenkischer-wald",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/nemecko/svabsko-fransky-les/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/destinace/istrie",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/chorvatsko/istrie",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/travel-insurance/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/honeywell",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000365",
+                            "targettokens": [
+                                "partnerid=CZ1000365"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/terms-of-use",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/raiffeisenbank",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000359",
+                            "targettokens": [
+                                "partnerid=CZ1000359"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/at-the-beach",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/beach-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/terms-conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/conditions/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/my-choice",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/favorites/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/boehmerwald",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/sumava/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/chorvatsko/dalmatien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/chorvatsko/dalmacie/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/italie/fleimstal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italie/údoli-fiemme/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/cestovni-pojisteni",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/zakaznicky-servis/cestovni-pojisteni/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/ski-holiday",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/winter-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/summer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/summer-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/about-us/company-profile",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/company-profile/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/sherlockholmes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/swisspeakresorts/?partnerid=CH1001911",
+                            "targettokens": [
+                                "partnerid=CH1001911"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/review-policy",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/review-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/on-piste",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/near-slopes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/insurances/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/liberecky-kraj-jizerske-hory-krkonose",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/jizerske-hory/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/italie/fassatal",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italie/údoli-fassa/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/kooperativa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000354",
+                            "targettokens": [
+                                "partnerid=CZ1000354"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/holiday-with-dog",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/pets/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/slovenska-rep",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/slovenska-rep",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/italie/piemonte/valsesia",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italie/piemonte/alagna-valsesia/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/faqs",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/faq/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/AT\u0026T",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000360",
+                            "targettokens": [
+                                "partnerid=CZ1000360"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/rakousko/neusiedler-see",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/rakousko/neziderske-jezero/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/karlovarsky-kraj",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/krusne-hory/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/sustainability",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/moravskoslezsky-kraj-jeseniky-beskydy",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/beskydy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/nemecko//teutoburger-wald",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/nemecko/teutobursky-les/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/huawei",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000356",
+                            "targettokens": [
+                                "partnerid=CZ1000356"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/destinace/italie",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italie",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/pages/autumn",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/autumn-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/group-accommodation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/for-groups/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/early-booking-discount",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/early-bird-deals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ibm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000366",
+                            "targettokens": [
+                                "partnerid=CZ1000366"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/tokoz",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000355",
+                            "targettokens": [
+                                "partnerid=CZ1000355"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/leaseplan",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000369",
+                            "targettokens": [
+                                "partnerid=CZ1000369"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/special-offers",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/any-special-offer/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/jihocesky-kraj",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/jizni-cechy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/zakaznicky-servis/vseobecne-smluvni-podminky/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/winter-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/sphere",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000448",
+                            "targettokens": [
+                                "partnerid=CZ1000448"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/norway/southern-fjord-norway",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norway/fjord-norway",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/zima",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspirace/zima-horach/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -1777,11 +1265,93 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/norway/southern-fjord-norway",
+                    "domainpath": "/cleverlance",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norway/fjord-norway",
+                            "target": "/?partnerid=CZ1000372",
+                            "targettokens": [
+                                "partnerid=CZ1000372"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ppf",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000368",
+                            "targettokens": [
+                                "partnerid=CZ1000368"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/casa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/luxury-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/o-interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/favorites",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/favourites",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/zakaznicky-servis/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/zakaznicky-servis/ochrana-soukromi/",
                             "targettokens": []
                         }
                     ]
@@ -1803,7 +1373,141 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/customer-service/cookies",
+                    "domainpath": "/en/switzerland/ticino/calonico-faido",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/switzerland/ticino/calonico/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/rekreacni-domy-bazenem",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspirace/rekreacni-domy-bazenem/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/csob",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000358",
+                            "targettokens": [
+                                "partnerid=CZ1000358"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/exkluzivni-a-luxusni",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspirace/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/citibank",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000357",
+                            "targettokens": [
+                                "partnerid=CZ1000357"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ochrana-soukromi",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/zakaznicky-servis/ochrana-soukromi/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/conditions/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/destinace/svýcarsko",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/svycarsko",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/stredocesky-kraj",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/stredni-cechy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/svycarsko/engadin/la-puntchamues-ch",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/svycarsko/engadin/la-punt-chamues-ch/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/data-protection",
                     "querymaps": [
                         {
                             "query": null,
@@ -1816,11 +1520,11 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/travel-insurance",
+                    "domainpath": "/pages/podzimni-dovolena",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/customer-service/travel-insurance/",
+                            "target": "/inspirace/podzimni-dovolena/",
                             "targettokens": []
                         }
                     ]
@@ -1829,11 +1533,119 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/nemecko/ruegen",
+                    "domainpath": "/en/skiopening",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/nemecko/rujana/",
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/nemecko/usedom",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/nemecko/uznojem/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/destinace/spanelsko",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/spanelsko",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/o-interhome/udrzitelnost-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/o-interhome/udrzitelnost/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/jihomoravsky-kraj",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/jizni-morava/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/aero",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000361",
+                            "targettokens": [
+                                "partnerid=CZ1000361"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/klub",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000603",
+                            "targettokens": [
+                                "partnerid=CZ1000603"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/france/pyrenees-orientales/llauro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/france/pyrenees-orientales/torderes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ceska-republika/plzensky-kraj",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ceska-republika/zapadni-cechy/",
                             "targettokens": []
                         }
                     ]
@@ -1855,12 +1667,27 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/italie/fassatal",
+                    "domainpath": "/en/about-us/safety-in-your-holiday-home",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/italie/údoli-fassa/",
+                            "target": "/aboutus/safety-in-your-holiday-home/",
                             "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/tuv-sud",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000362",
+                            "targettokens": [
+                                "partnerid=CZ1000362"
+                            ]
                         }
                     ]
                 }
@@ -1881,11 +1708,184 @@
             {
                 "domain": "www.interhome.cz",
                 "matchdef": {
-                    "domainpath": "/en/summer",
+                    "domainpath": "/unipetrol",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/holiday-ideas/summer-holiday/",
+                            "target": "/?partnerid=CZ1000364",
+                            "targettokens": [
+                                "partnerid=CZ1000364"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/francie/azurove-pobrezi/agay",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/francie/azurove-pobrezi/agay-saint-raphael/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/ski-children-families",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/family-friendly/skiing-snowboarding/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/important-notes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/nemecko/ruegen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/nemecko/rujana/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/norsko/-innerer-sogneford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norsko/-vnitrni-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/norsko/-aeusserer-sogneford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norsko/-vnejsi-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/travel-ideas/new-year-eve",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/public-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/ing",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=CZ1000373",
+                            "targettokens": [
+                                "partnerid=CZ1000373"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/leto",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/inspirace/letni-dovolena/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/privacy-policy",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/en/about-us/sustainability",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.cz",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/last-minute/",
                             "targettokens": []
                         }
                     ]

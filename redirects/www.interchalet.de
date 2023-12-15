@@ -1,13 +1,13 @@
 {
-    "id": "",
-    "name": "",
+    "id": "redirects-www.interchalet.de",
+    "name": "Redirects www.interchalet.de",
     "path": "redirects/www.interchalet.de",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
+    "folder": "redirects",
+    "full_slug": "www.interchalet.de",
+    "slug": "www.interchalet.de",
     "locale": "",
-    "suffix": "",
-    "mime": "",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Redirects",
     "content": {
         "domain": "www.interchalet.de",
@@ -15,7 +15,46 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/conditions",
+                    "domainpath": "/en/ski",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/ski-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/schweden/westschweden",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweden/suedschweden",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/klimadaten.cfm",
                     "querymaps": [
                         {
                             "query": null,
@@ -28,7 +67,140 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/vermieter",
+                    "domainpath": "/norwegen/oslo-und-osloford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/oslo-und-oslofjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/frankreich/centre",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankreich/loiretal/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/italien/piemonte-langhe-monferrato/sanico",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/piemonte-langhe-monferrato/moncalvo/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/reisebueros",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/faehren/index.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reiseservice/faehren/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/ferienhaus_ferienwohnungen.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        },
+                        {
+                            "query": [
+                                "apartments=cottages",
+                                "r=Westschweden"
+                            ],
+                            "target": "/schweden/suedschweden",
+                            "targettokens": null
+                        },
+                        {
+                            "query": [
+                                "apartments=cottages",
+                                "r=Friaul"
+                            ],
+                            "target": "/italien/friaul-julisch-venetien",
+                            "targettokens": null
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/reisetipps/reisetipps/reiseziele/italien/neapel-sorrentinische-halbinsel",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reisetipps/reiseziele/italien/neapel-sorrentinische-halbinsel",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/casa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/nachhaltigkeit",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-uns/nachhaltigkeit/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/notfound.cfm",
                     "querymaps": [
                         {
                             "query": null,
@@ -57,10 +229,13 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/en/vermieter",
+                    "domainpath": "/en/haussuche.cfm",
                     "querymaps": [
                         {
-                            "query": null,
+                            "query": [
+                                "ag_mail=+info%40nordtur.de",
+                                "fr=0"
+                            ],
                             "target": "/",
                             "targettokens": []
                         }
@@ -70,11 +245,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/ueber-uns/nachhaltigkeit-old",
+                    "domainpath": "/en/data-protection",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/ueber-uns/nachhaltigkeit/",
+                            "target": "/en/important-notes/data-protection/",
                             "targettokens": []
                         }
                     ]
@@ -83,51 +258,30 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/skireisen_fuer_gruppen.cfm",
+                    "domainpath": "/rodelqueen",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/skiurlaub/fuer-gruppen/",
-                            "targettokens": []
-                        },
-                        {
-                            "query": [
-                                "apartments=ski-chalets",
-                                "suche_thema=ski_gruppen"
-                            ],
-                            "target": "/urlaubsideen/fuer-gruppen/",
-                            "targettokens": null
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/schweden/westschweden",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/schweden/suedschweden",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/feriendorf_am_hohen_bogen_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/bayerischer-wald/arrach/?utm_source=prospect\u0026utm_medium=offline\u0026utm_campaign=lamer_winkel_2023\u0026utm_content=qr_code",
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2022_mega_lights_rodelqueen\u0026utm_content=qr_code",
                             "targettokens": [
-                                "utm_source=prospect",
+                                "utm_source=billboard",
                                 "utm_medium=offline",
-                                "utm_campaign=lamer_winkel_2023",
+                                "utm_campaign=2022_mega_lights_rodelqueen",
                                 "utm_content=qr_code"
                             ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/detail.cfm.",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
                         }
                     ]
                 }
@@ -136,211 +290,6 @@
                 "domain": "www.interchalet.de",
                 "matchdef": {
                     "domainpath": "/sitemap.xml",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/reisebueros/ag.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/sommer_s22",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/es5510.271.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=poster",
-                                "utm_medium=offline",
-                                "utm_campaign=bahnhof_summer_2022",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/hund/urlaubmithund.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/urlaub-mit-hund/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/expi",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reisebueros",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/ski",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/skiurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/scan",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/reisetipps/langlauf-loipe",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reisetipps/alle-themen/langlauf-loipe",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/sueden_s22",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/fr8541.510.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=poster",
-                                "utm_medium=offline",
-                                "utm_campaign=bahnhof_summer_2022",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/nachhaltigkeit",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-uns/nachhaltigkeit/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/reisebuero",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reisebueros/reisebueros.cfm",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/kontakt/katalogbestellung",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/kataloge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reiseservice/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/skiopening",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/partners",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/skiopening",
                     "querymaps": [
                         {
                             "query": null,
@@ -366,37 +315,6 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/IDS_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=IDS_2023\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=poster",
-                                "utm_medium=offline",
-                                "utm_campaign=IDS_2023",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/casa_detail.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
                     "domainpath": "/en/unternehmen/jobs.cfm",
                     "querymaps": [
                         {
@@ -413,7 +331,90 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/index.cfm",
+                    "domainpath": "/kataloge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/kataloge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/urlaubszuhause_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/?utm_source=postcard\u0026utm_medium=offline\u0026utm_campaign=IDS_2023\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=postcard",
+                                "utm_medium=offline",
+                                "utm_campaign=IDS_2023",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/ueber-uns/nachhaltigkeit-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-uns/nachhaltigkeit/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/info/contact.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/scan/scan.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/facebook",
                     "querymaps": [
                         {
                             "query": null,
@@ -426,11 +427,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/norwegen/-innerer-sogneford",
+                    "domainpath": "/reisebuero",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/norwegen/-innerer-sognefjord/",
+                            "target": "/reisebueros/reisebueros.cfm",
                             "targettokens": []
                         }
                     ]
@@ -439,11 +440,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/reisetipps/reisetipps/reiseziele/italien/neapel-sorrentinische-halbinsel",
+                    "domainpath": "/en/info/data_protection.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reisetipps/reiseziele/italien/neapel-sorrentinische-halbinsel",
+                            "target": "/en/important-notes/data-protection/",
                             "targettokens": []
                         }
                     ]
@@ -452,11 +453,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/italien/piemont/valsesia",
+                    "domainpath": "/norwegen/-aeusserer-sogneford",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/italien/piemont/alagna-valsesia/",
+                            "target": "/norwegen/-aeusserer-sognefjord/",
                             "targettokens": []
                         }
                     ]
@@ -465,11 +466,37 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/workation",
+                    "domainpath": "/scan",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reisetipps/workation-im-ferienhaus-holiday-homeoffice",
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/info/catalogue-overview.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/katalogbestellung/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/angebot",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -491,6 +518,128 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
+                    "domainpath": "/index.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/badenixe",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2022_mega_lights_badenixe\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=billboard",
+                                "utm_medium=offline",
+                                "utm_campaign=2022_mega_lights_badenixe",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/presse.",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/presse/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/workation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reisetipps/workation-im-ferienhaus-holiday-homeoffice",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/schneehase",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2022_mega_lights_schneehase\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=billboard",
+                                "utm_medium=offline",
+                                "utm_campaign=2022_mega_lights_schneehase",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/reisetipps/langlauf-loipe",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reisetipps/alle-themen/langlauf-loipe",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/berge_s22",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ch1961.136.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=poster",
+                                "utm_medium=offline",
+                                "utm_campaign=bahnhof_summer_2022",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/image_big.cfm",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "image=ski_pass%2Fzil0skipass.gif",
+                                "text="
+                            ],
+                            "target": "/urlaubsideen/skiurlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
                     "domainpath": "/datenschutz",
                     "querymaps": [
                         {
@@ -504,21 +653,25 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/infopage.cfm",
+                    "domainpath": "/index.asp",
                     "querymaps": [
                         {
-                            "query": [
-                                "infopageid=152"
-                            ],
-                            "target": "/impressum/",
+                            "query": null,
+                            "target": "/",
                             "targettokens": []
-                        },
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/deutschland/insel-ruegen",
+                    "querymaps": [
                         {
-                            "query": [
-                                "infopageid=162"
-                            ],
-                            "target": "/wichtige-hinweise/reisebedingungen/?",
-                            "targettokens": null
+                            "query": null,
+                            "target": "/deutschland/ruegen/",
+                            "targettokens": []
                         }
                     ]
                 }
@@ -560,11 +713,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/klimadaten.cfm",
+                    "domainpath": "/en/mtch-conditions",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
+                            "target": "/media/original/2059388-eng-XX/Conditions_Ski-Opening_FR.pdf",
                             "targettokens": []
                         }
                     ]
@@ -573,11 +726,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/urlaubsideen/mit-pool",
+                    "domainpath": "/ski",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/urlaubsideen/ferienhaus-mit-pool/",
+                            "target": "/urlaubsideen/skiurlaub/",
                             "targettokens": []
                         }
                     ]
@@ -602,11 +755,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/mtch-bedingungen",
+                    "domainpath": "/expi",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/media/original/2059383-ger-XX/Conditions_Ski-Opening_DE.pdf",
+                            "target": "/reisebueros",
                             "targettokens": []
                         }
                     ]
@@ -615,11 +768,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/info/catalogue-overview.cfm",
+                    "domainpath": "/en/unternehmen/ueber.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kontakt/katalogbestellung/",
+                            "target": "/en/about-us/",
                             "targettokens": []
                         }
                     ]
@@ -628,28 +781,15 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/mietwagen/index.cfm",
+                    "domainpath": "/urlaubsreif_2023",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/reiseservice/mietwagen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/badenixe",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2022_mega_lights_badenixe\u0026utm_content=qr_code",
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_urlaubsreif\u0026utm_content=qr_code",
                             "targettokens": [
                                 "utm_source=billboard",
                                 "utm_medium=offline",
-                                "utm_campaign=2022_mega_lights_badenixe",
+                                "utm_campaign=2023_01_mega_lights_urlaubsreif",
                                 "utm_content=qr_code"
                             ]
                         }
@@ -659,7 +799,42 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/katalog/images/objektbilder/big/s6184.jpg",
+                    "domainpath": "/outdoorfan_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_outdoorfan\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=billboard",
+                                "utm_medium=offline",
+                                "utm_campaign=2023_01_mega_lights_outdoorfan",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/print_photo.cfm",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "la=",
+                                "list=all",
+                                "objectCode=BLE193"
+                            ],
+                            "target": "/schweden/blekinge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/haussuche.asp",
                     "querymaps": [
                         {
                             "query": null,
@@ -672,7 +847,201 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/katalog",
+                    "domainpath": "/info/zeichen_texterklaerung.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/print_photo.cfm",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "la=",
+                                "list=all",
+                                "objectCode=BLE193"
+                            ],
+                            "target": "/schweden/blekinge/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/about-us/sustainability-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/about-us/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/image_big.cfm",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "image=ski_pass%2Fzil0skipass.gif",
+                                "text="
+                            ],
+                            "target": "/urlaubsideen/skiurlaub/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/favorites",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/my-choice",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/skiopening",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/IDS_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=IDS_2023\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=poster",
+                                "utm_medium=offline",
+                                "utm_campaign=IDS_2023",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/index.asp",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://www.interchalet.de",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/info/contact.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/iznajmljivanje",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/kontakt-hrvatski/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/merkliste",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/merkzettel",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/norwegen/-innerer-sogneford",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norwegen/-innerer-sognefjord/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/casa_detail.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/kontakt/katalogbestellung",
                     "querymaps": [
                         {
                             "query": null,
@@ -685,11 +1054,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/en/data-protection",
+                    "domainpath": "/ferienhaus.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/important-notes/data-protection/",
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -698,41 +1067,17 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/ferienhaus_ferienwohnungen.cfm",
+                    "domainpath": "/land_s22",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        },
-                        {
-                            "query": [
-                                "apartments=cottages",
-                                "r=Westschweden"
-                            ],
-                            "target": "/schweden/suedschweden",
-                            "targettokens": null
-                        },
-                        {
-                            "query": [
-                                "apartments=cottages",
-                                "r=Friaul"
-                            ],
-                            "target": "/italien/friaul-julisch-venetien",
-                            "targettokens": null
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
+                            "target": "/fr8030.651.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=poster",
+                                "utm_medium=offline",
+                                "utm_campaign=bahnhof_summer_2022",
+                                "utm_content=qr_code"
+                            ]
                         }
                     ]
                 }
@@ -762,11 +1107,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/en/info/data_protection.cfm",
+                    "domainpath": "/en/scan/scan.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/en/important-notes/data-protection/",
+                            "target": "/en/norway/",
                             "targettokens": []
                         }
                     ]
@@ -788,865 +1133,7 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/urlaubsreif_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_urlaubsreif\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=billboard",
-                                "utm_medium=offline",
-                                "utm_campaign=2023_01_mega_lights_urlaubsreif",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/partner",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://partners.interhome.group/portal",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/notfound.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/scan/scan.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/info/zeichen_texterklaerung.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/faqs.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/faqs/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/info/terms_of_use.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/important-notes/terms-of-use/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/haussuche.cfm",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "ag_mail=+info%40nordtur.de",
-                                "fr=0"
-                            ],
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/image_big.cfm",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "image=ski_pass%2Fzil0skipass.gif",
-                                "text="
-                            ],
-                            "target": "/urlaubsideen/skiurlaub/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/holiday-ideas/casa",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/holiday-ideas/casa-selection/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/haussuche.asp",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/scan/scan.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/norway/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/newsletter",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/newsletter/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/norwegen/fordnorwegen",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/fjordnorwegen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/faehren/index.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/reiseservice/faehren/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/ski/ski.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/travelguide/germany/north-sea/sea/germany-northern-sea-best-places",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/nordsee/reisetipps/die-10-schoensten-orte-an-der-nordsee",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/ferienhaus.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/mtch-conditions",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/media/original/2059388-eng-XX/Conditions_Ski-Opening_FR.pdf",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/berge_s22",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ch1961.136.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=poster",
-                                "utm_medium=offline",
-                                "utm_campaign=bahnhof_summer_2022",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/urlaubsideen/swisspeakresorts",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/skiset",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/travel-extras/skiset/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/offer",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/unternehmen/ueber.cf",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/urlaubszuhause_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/?utm_source=postcard\u0026utm_medium=offline\u0026utm_campaign=IDS_2023\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=postcard",
-                                "utm_medium=offline",
-                                "utm_campaign=IDS_2023",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/badenixe_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_badenixe\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=billboard",
-                                "utm_medium=offline",
-                                "utm_campaign=2023_01_mega_lights_badenixe",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/presse.",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/presse/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/travel-insurance",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/customer-service/travel-insurance/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/angebot",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/info/contact.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/info/reiseversicherung.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/reiseversicherung/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/info/contact.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kontakt/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/wasserratte_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_wasserratte\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=billboard",
-                                "utm_medium=offline",
-                                "utm_campaign=2023_01_mega_lights_wasserratte",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/unternehmen/ueber.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-uns/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/index.asp",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/italien/piemonte-langhe-monferrato/sanico",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/italien/piemonte-langhe-monferrato/moncalvo/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/print_photo.cfm",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "la=",
-                                "list=all",
-                                "objectCode=BLE193"
-                            ],
-                            "target": "/schweden/blekinge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/faqs.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/kundenservice/faqs/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/about-us/sustainability-old",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/about-us/sustainability/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/detail.cfm.",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/schneehase_2023",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_schneehase\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=billboard",
-                                "utm_medium=offline",
-                                "utm_campaign=2023_01_mega_lights_schneehase",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/facebook",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/unternehmen/jobs.cfm",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "jh=rvu1u3hxrre2nid5nsgt10bnjgeannw",
-                                "sa=1"
-                            ],
-                            "target": "/ueber-uns/stellen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/reisebueros/reisebueros.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://www.interhome.group/de-de/partnerprogramm",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/deutschland/insel-usedom",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/usedom/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/rodelqueen",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2022_mega_lights_rodelqueen\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=billboard",
-                                "utm_medium=offline",
-                                "utm_campaign=2022_mega_lights_rodelqueen",
-                                "utm_content=qr_code"
-                            ]
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/routenplaner.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/index.asp",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "https://www.interchalet.de",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/ski",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/holiday-ideas/ski-holiday/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/winterhandbuch.asp",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/favorites",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/my-choice",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/print_photo.cfm",
-                    "querymaps": [
-                        {
-                            "query": [
-                                "la=",
-                                "list=all",
-                                "objectCode=BLE193"
-                            ],
-                            "target": "/schweden/blekinge/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/info/terms_of_use.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/wichtige-hinweise/nutzungsbedingungen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/norwegen/-aeusserer-sogneford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/-aeusserer-sognefjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/stellen/jobs_edv_softwareentwickler.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/ueber-uns/stellen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/merkliste",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/merkzettel",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/merkzettel",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/merkliste/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/detail.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/norwegen/oslo-und-osloford",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/norwegen/oslo-und-oslofjord/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/unternehmen/ueber.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/en/about-us/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/andere",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/kataloge",
+                    "domainpath": "/katalog",
                     "querymaps": [
                         {
                             "query": null,
@@ -1659,12 +1146,21 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/reisebueros/aktuelles",
+                    "domainpath": "/infopage.cfm",
                     "querymaps": [
                         {
-                            "query": null,
-                            "target": "/",
+                            "query": [
+                                "infopageid=152"
+                            ],
+                            "target": "/impressum/",
                             "targettokens": []
+                        },
+                        {
+                            "query": [
+                                "infopageid=162"
+                            ],
+                            "target": "/wichtige-hinweise/reisebedingungen/?",
+                            "targettokens": null
                         }
                     ]
                 }
@@ -1672,11 +1168,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/frankreich/centre",
+                    "domainpath": "/en/hund/urlaubmithund.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/frankreich/loiretal/",
+                            "target": "/urlaubsideen/urlaub-mit-hund/",
                             "targettokens": []
                         }
                     ]
@@ -1698,19 +1194,6 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/index.asp.",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
                     "domainpath": "/offer",
                     "querymaps": [
                         {
@@ -1724,11 +1207,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/iznajmljivanje",
+                    "domainpath": "/mietwagen/index.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/kontakt/kontakt-hrvatski/",
+                            "target": "/reiseservice/mietwagen/",
                             "targettokens": []
                         }
                     ]
@@ -1737,14 +1220,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/en/image_big.cfm",
+                    "domainpath": "/info/reiseversicherung.cfm",
                     "querymaps": [
                         {
-                            "query": [
-                                "image=ski_pass%2Fzil0skipass.gif",
-                                "text="
-                            ],
-                            "target": "/urlaubsideen/skiurlaub/",
+                            "query": null,
+                            "target": "/kundenservice/reiseversicherung/",
                             "targettokens": []
                         }
                     ]
@@ -1753,7 +1233,7 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/merkzettel.cfm",
+                    "domainpath": "/detail.cfm",
                     "querymaps": [
                         {
                             "query": null,
@@ -1766,17 +1246,147 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/schneehase",
+                    "domainpath": "/en/travel-insurance",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2022_mega_lights_schneehase\u0026utm_content=qr_code",
+                            "target": "/en/customer-service/travel-insurance/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/merkzettel",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/merkliste/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/vermieter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/mtch-bedingungen",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/media/original/2059383-ger-XX/Conditions_Ski-Opening_DE.pdf",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/andere",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/feriendorf_am_hohen_bogen_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/bayerischer-wald/arrach/?utm_source=prospect\u0026utm_medium=offline\u0026utm_campaign=lamer_winkel_2023\u0026utm_content=qr_code",
                             "targettokens": [
-                                "utm_source=billboard",
+                                "utm_source=prospect",
                                 "utm_medium=offline",
-                                "utm_campaign=2022_mega_lights_schneehase",
+                                "utm_campaign=lamer_winkel_2023",
                                 "utm_content=qr_code"
                             ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/ski/ski.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/skiopening",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/reisebueros/reisebueros.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://www.interhome.group/de-de/partnerprogramm",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/unternehmen/ueber.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-uns/",
+                            "targettokens": []
                         }
                     ]
                 }
@@ -1802,7 +1412,20 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/notfound.cfm",
+                    "domainpath": "/info/terms_of_use.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/wichtige-hinweise/nutzungsbedingungen/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/winterhandbuch.asp",
                     "querymaps": [
                         {
                             "query": null,
@@ -1815,37 +1438,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/info/data_protection.cfm",
+                    "domainpath": "/norwegen/fordnorwegen",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/wichtige-hinweise/datenschutz/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/deutschland/insel-ruegen",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/deutschland/ruegen/",
-                            "targettokens": []
-                        }
-                    ]
-                }
-            },
-            {
-                "domain": "www.interchalet.de",
-                "matchdef": {
-                    "domainpath": "/en/hund/urlaubmithund.cfm",
-                    "querymaps": [
-                        {
-                            "query": null,
-                            "target": "/urlaubsideen/urlaub-mit-hund/",
+                            "target": "/norwegen/fjordnorwegen/",
                             "targettokens": []
                         }
                     ]
@@ -1880,11 +1477,11 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/en/stellen/jobs_edv_softwareentwickler.cfm",
+                    "domainpath": "/katalog/images/objektbilder/big/s6184.jpg",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/ueber-uns/stellen/",
+                            "target": "/",
                             "targettokens": []
                         }
                     ]
@@ -1893,17 +1490,12 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/outdoorfan_2023",
+                    "domainpath": "/italien/piemont/valsesia",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_outdoorfan\u0026utm_content=qr_code",
-                            "targettokens": [
-                                "utm_source=billboard",
-                                "utm_medium=offline",
-                                "utm_campaign=2023_01_mega_lights_outdoorfan",
-                                "utm_content=qr_code"
-                            ]
+                            "target": "/italien/piemont/alagna-valsesia/",
+                            "targettokens": []
                         }
                     ]
                 }
@@ -1911,11 +1503,37 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/land_s22",
+                    "domainpath": "/en/faqs.cfm",
                     "querymaps": [
                         {
                             "query": null,
-                            "target": "/fr8030.651.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
+                            "target": "/en/customer-service/faqs/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/routenplaner.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/sommer_s22",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/es5510.271.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
                             "targettokens": [
                                 "utm_source=poster",
                                 "utm_medium=offline",
@@ -1929,11 +1547,393 @@
             {
                 "domain": "www.interchalet.de",
                 "matchdef": {
-                    "domainpath": "/reisebueros",
+                    "domainpath": "/reisebueros/aktuelles",
                     "querymaps": [
                         {
                             "query": null,
                             "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/reiseservice/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/travelguide/germany/north-sea/sea/germany-northern-sea-best-places",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/nordsee/reisetipps/die-10-schoensten-orte-an-der-nordsee",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/info/data_protection.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/wichtige-hinweise/datenschutz/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/sueden_s22",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/fr8541.510.1/?utm_source=poster\u0026utm_medium=offline\u0026utm_campaign=bahnhof_summer_2022\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=poster",
+                                "utm_medium=offline",
+                                "utm_campaign=bahnhof_summer_2022",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/wasserratte_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_wasserratte\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=billboard",
+                                "utm_medium=offline",
+                                "utm_campaign=2023_01_mega_lights_wasserratte",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/badenixe_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_badenixe\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=billboard",
+                                "utm_medium=offline",
+                                "utm_campaign=2023_01_mega_lights_badenixe",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/schneehase_2023",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?utm_source=billboard\u0026utm_medium=offline\u0026utm_campaign=2023_01_mega_lights_schneehase\u0026utm_content=qr_code",
+                            "targettokens": [
+                                "utm_source=billboard",
+                                "utm_medium=offline",
+                                "utm_campaign=2023_01_mega_lights_schneehase",
+                                "utm_content=qr_code"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/merkzettel.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/unternehmen/jobs.cfm",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "jh=rvu1u3hxrre2nid5nsgt10bnjgeannw",
+                                "sa=1"
+                            ],
+                            "target": "/ueber-uns/stellen/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/urlaubsideen/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/unternehmen/ueber.cf",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/stellen/jobs_edv_softwareentwickler.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-uns/stellen/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/notfound.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/info/terms_of_use.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/important-notes/terms-of-use/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/newsletter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kontakt/newsletter/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/stellen/jobs_edv_softwareentwickler.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/ueber-uns/stellen/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/vermieter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/hund/urlaubmithund.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/urlaub-mit-hund/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/deutschland/insel-usedom",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/deutschland/usedom/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/index.asp.",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/en/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/reisebueros/ag.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/urlaubsideen/mit-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/urlaubsideen/ferienhaus-mit-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/skireisen_fuer_gruppen.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/skiurlaub/fuer-gruppen/",
+                            "targettokens": []
+                        },
+                        {
+                            "query": [
+                                "apartments=ski-chalets",
+                                "suche_thema=ski_gruppen"
+                            ],
+                            "target": "/urlaubsideen/fuer-gruppen/",
+                            "targettokens": null
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interchalet.de",
+                "matchdef": {
+                    "domainpath": "/faqs.cfm",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundenservice/faqs/",
                             "targettokens": []
                         }
                     ]
