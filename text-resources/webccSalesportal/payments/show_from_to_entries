@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccSalesportal.payments.show_from_to_entries",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zobrazit položky {LOWER} až {UPPER}"
+            },
+            "da": {
+                "singular": "Viser bookinger {LOWER} til {UPPER}"
+            },
+            "de": {
+                "singular": "Zeige {LOWER} bis {UPPER} Einträge"
+            },
+            "de-AT": {
+                "singular": "Zeige {LOWER} bis {UPPER} Einträge"
+            },
+            "de-CH": {
+                "singular": "Zeige {LOWER} bis {UPPER} Einträge"
+            },
+            "de-DE": {
+                "singular": "Zeige {LOWER} bis {UPPER} Einträge"
+            },
+            "en": {
+                "singular": "Showing entries {LOWER} to {UPPER}"
+            },
+            "en-AU": {
+                "singular": "Showing entries {LOWER} to {UPPER}"
+            },
+            "en-CA": {
+                "singular": "Showing entries {LOWER} to {UPPER}"
+            },
+            "en-GB": {
+                "singular": "Showing entries {LOWER} to {UPPER}"
+            },
+            "en-IE": {
+                "singular": "Showing entries {LOWER} to {UPPER}"
+            },
+            "en-US": {
+                "singular": "Showing entries {LOWER} to {UPPER}"
+            },
+            "es": {
+                "singular": "Mostrando de {LOWER} a {UPPER}"
+            },
+            "fi": {
+                "singular": "Näyttää merkinnät {LOWER} - {UPPER}"
+            },
+            "fi-EE": {
+                "singular": "Näyttää merkinnät {LOWER} - {UPPER}"
+            },
+            "fi-FI": {
+                "singular": "Näyttää merkinnät {LOWER} - {UPPER}"
+            },
+            "fr": {
+                "singular": "Voir les réservations {LOWER} {UPPER}"
+            },
+            "fr-BE": {
+                "singular": "Voir les réservations {LOWER} {UPPER}"
+            },
+            "fr-CA": {
+                "singular": "Voir les réservations {LOWER} {UPPER}"
+            },
+            "fr-CH": {
+                "singular": "Voir les réservations {LOWER} {UPPER}"
+            },
+            "fr-FR": {
+                "singular": "Voir les réservations {LOWER} {UPPER}"
+            },
+            "hr": {
+                "singular": "Prikaz rezultata od {LOWER} do {UPPER} "
+            },
+            "it": {
+                "singular": "Mostra risultati da {LOWER} a {UPPER}"
+            },
+            "it-CH": {
+                "singular": "Mostra risultati da {LOWER} a {UPPER}"
+            },
+            "it-IT": {
+                "singular": "Mostra risultati da {LOWER} a {UPPER}"
+            },
+            "nl": {
+                "singular": "Toon resultaten {LOWER} tot {UPPER}"
+            },
+            "nl-BE": {
+                "singular": "Toon resultaten {LOWER} tot {UPPER}"
+            },
+            "nl-NL": {
+                "singular": "Toon resultaten {LOWER} tot {UPPER}"
+            },
+            "no": {
+                "singular": "Viser bookingene {LOWER} til {UPPER}"
+            },
+            "pl": {
+                "singular": "Pokaż pozycje od {LOWER} do {UPPER}"
+            },
+            "pt": {
+                "singular": "Mostrando entradas {LOWER} a {UPPER}"
+            },
+            "ru": {
+                "singular": "Сортировать бронирования от {LOWER} к {UPPER}"
+            },
+            "sv": {
+                "singular": "Visar bokningar{LOWER} till {UPPER}"
+            }
+        }
+    }
+}

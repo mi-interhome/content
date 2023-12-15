@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "reservations.footer.securityText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "platby ověřen třetí nezávislou stranou"
+            },
+            "da": {
+                "singular": "Verificeret af en troværdig tredjeparts registreringsmyndighed"
+            },
+            "de": {
+                "singular": "über SSL Verschlüsselung"
+            },
+            "de-AT": {
+                "singular": "über SSL Verschlüsselung"
+            },
+            "de-CH": {
+                "singular": "über SSL Verschlüsselung"
+            },
+            "de-DE": {
+                "singular": "über SSL Verschlüsselung"
+            },
+            "en": {
+                "singular": "Verified by a Trustworthy third party Registration Authority"
+            },
+            "en-AU": {
+                "singular": "Verified by a Trustworthy third party Registration Authority"
+            },
+            "en-CA": {
+                "singular": "Verified by a Trustworthy third party Registration Authority"
+            },
+            "en-GB": {
+                "singular": "Verified by a Trustworthy third party Registration Authority"
+            },
+            "en-IE": {
+                "singular": "Verified by a Trustworthy third party Registration Authority"
+            },
+            "en-US": {
+                "singular": "Verified by a Trustworthy third party Registration Authority"
+            },
+            "es": {
+                "singular": "Verificado por una tercera autoridad de registro de confianza"
+            },
+            "fi": {
+                "singular": "varmennettu SSL-yhteydellä"
+            },
+            "fi-EE": {
+                "singular": "Varmennettu SSL-yhteydellä"
+            },
+            "fi-FI": {
+                "singular": "varmennettu SSL-yhteydellä"
+            },
+            "fr": {
+                "singular": "Vérifié par une Autorité Compétente tierce de confiance"
+            },
+            "fr-BE": {
+                "singular": "Vérifié par une Autorité Compétente tierce de confiance"
+            },
+            "fr-CA": {
+                "singular": "Vérifié par une Autorité Compétente tierce de confiance"
+            },
+            "fr-CH": {
+                "singular": "Vérifié par une Autorité Compétente tierce de confiance"
+            },
+            "fr-FR": {
+                "singular": "Vérifié par une Autorité Compétente tierce de confiance"
+            },
+            "hr": {
+                "singular": "uz SSL zaštitu"
+            },
+            "it": {
+                "singular": "da una fidata Autorità di Certificazione"
+            },
+            "it-CH": {
+                "singular": "da una fidata Autorità di Certificazione"
+            },
+            "it-IT": {
+                "singular": "Verificati da una fidata Autorità di Certificazione"
+            },
+            "nl": {
+                "singular": "via SSL versleuteling"
+            },
+            "nl-BE": {
+                "singular": "via SSL versleuteling"
+            },
+            "nl-NL": {
+                "singular": "via SSL versleuteling"
+            },
+            "no": {
+                "singular": "Verifisert av en troverdig tredjeparts registreringsmyndighet"
+            },
+            "pl": {
+                "singular": "gwarantowane certyfikatem SSL"
+            },
+            "pt": {
+                "singular": "Verificado por uma terceira autoridade de registro de confiança"
+            },
+            "ru": {
+                "singular": "гарантируется сертификатом SSL"
+            },
+            "sv": {
+                "singular": "Verifierad av en trovärdig tredjepartsregistreringsmyndighet"
+            }
+        }
+    }
+}

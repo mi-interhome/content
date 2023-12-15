@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.details.MonthlyPrices.tooltip",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Graf ukazuje průměrnou cenu pronájmu za každý měsíc. Menší sloupce označují nižší ceny."
+            },
+            "da": {
+                "singular": "Grafen viser den gennemsnitlige lejepris for hver måned. Mindre søjler indikerer lavere priser."
+            },
+            "de": {
+                "singular": "Die Grafik zeigt den durchschnittlichen Mietpreis für jeden Monat als Index. Kleinere Balken bedeuten niedrigere Preise."
+            },
+            "de-AT": {
+                "singular": "Die Grafik zeigt den durchschnittlichen Mietpreis für jeden Monat als Index. Kleinere Balken bedeuten niedrigere Preise."
+            },
+            "de-CH": {
+                "singular": "Die Grafik zeigt den durchschnittlichen Mietpreis für jeden Monat als Index. Kleinere Balken bedeuten niedrigere Preise."
+            },
+            "de-DE": {
+                "singular": "Die Grafik zeigt den durchschnittlichen Mietpreis für jeden Monat als Index. Kleinere Balken bedeuten niedrigere Preise."
+            },
+            "en": {
+                "singular": "The graph shows the average rental price for each month. Smaller bars indicate lower prices."
+            },
+            "en-AU": {
+                "singular": "The graph shows the average rental price for each month. Smaller bars indicate lower prices."
+            },
+            "en-CA": {
+                "singular": "The graph shows the average rental price for each month. Smaller bars indicate lower prices."
+            },
+            "en-GB": {
+                "singular": "The graph shows the average rental price for each month. Smaller bars indicate lower prices."
+            },
+            "en-IE": {
+                "singular": "The graph shows the average rental price for each month. Smaller bars indicate lower prices."
+            },
+            "en-US": {
+                "singular": "The graph shows the average rental price for each month. Smaller bars indicate lower prices."
+            },
+            "es": {
+                "singular": "El gráfico muestra los precios de alquiler medios para cada mes para la duración seleccionada. Cuanto más pequeñas sean las barras los precios son más interesantes."
+            },
+            "fi": {
+                "singular": "Kaavio näyttää keskivuokrahinnan jokaiselle kuukaudelle valitulla matkan pituudella. Edullisimmat hinnat ovat kuukausina, jolla palkki on pienimmillään."
+            },
+            "fi-EE": {
+                "singular": "Kaavio näyttää keskivuokrahinnan jokaiselle kuukaudelle valitulla matkan pituudella. Edullisimmat hinnat ovat kuukausina, jolla palkki on pienimmillään."
+            },
+            "fi-FI": {
+                "singular": "Kaavio näyttää keskivuokrahinnan jokaiselle kuukaudelle valitulla matkan pituudella. Edullisimmat hinnat ovat kuukausina, jolla palkki on pienimmillään."
+            },
+            "fr": {
+                "singular": "Le graphique montre le prix moyen de location pour chaque mois selon la durée de séjour sélectionnée. Les prix les plus intéressants sont les mois où les barres sont les plus petites."
+            },
+            "fr-BE": {
+                "singular": "Le graphique montre le prix moyen de location pour chaque mois selon la durée de séjour sélectionnée. Les prix les plus intéressants sont les mois où les barres sont les plus petites."
+            },
+            "fr-CA": {
+                "singular": "Le graphique montre le prix moyen de location pour chaque mois selon la durée de séjour sélectionnée. Les prix les plus intéressants sont les mois où les barres sont les plus petites."
+            },
+            "fr-CH": {
+                "singular": "Le graphique montre le prix moyen de location pour chaque mois selon la durée de séjour sélectionnée. Les prix les plus intéressants sont les mois où les barres sont les plus petites."
+            },
+            "fr-FR": {
+                "singular": "Le graphique montre le prix moyen de location pour chaque mois selon la durée de séjour sélectionnée. Les prix les plus intéressants sont les mois où les barres sont les plus petites."
+            },
+            "hr": {
+                "singular": "Grafikon prikazuje prosječnu cijenu najma za pojedini mjesec. Niži stupci označavaju niže cijene. "
+            },
+            "it": {
+                "singular": "Il grafico mostra il prezzo medio d'affitto per ogni mese. Le colonne più piccole corrispondono ai prezzi più bassi."
+            },
+            "it-CH": {
+                "singular": "Il grafico mostra il prezzo medio d'affitto per ogni mese. Le colonne più piccole corrispondono ai prezzi più bassi."
+            },
+            "it-IT": {
+                "singular": "Il grafico mostra il prezzo medio d'affitto per ogni mese. Le colonne più piccole corrispondono ai prezzi più bassi."
+            },
+            "nl": {
+                "singular": "De grafiek toont de gemiddelde huurprijs voor elke maand voor de geselecteerde duur. De voordeligste prijzen zijn de maanden met de kleinere balkjes. "
+            },
+            "nl-BE": {
+                "singular": "De grafiek toont de gemiddelde huurprijs voor elke maand voor de geselecteerde duur. De voordeligste prijzen zijn de maanden met de kleinere balkjes. "
+            },
+            "nl-NL": {
+                "singular": "De grafiek toont de gemiddelde huurprijs voor elke maand voor de geselecteerde duur. De voordeligste prijzen zijn de maanden met de kleinere balkjes. "
+            },
+            "no": {
+                "singular": "Grafen viser gjennomsnittlig leiepris for hver måned. Mindre stenger indikerer lavere priser."
+            },
+            "pl": {
+                "singular": "Wykres pokazuje przeciętną cenę wynajmu w danym miesiącu. Niższe belki oznaczają niższe ceny. "
+            },
+            "pt": {
+                "singular": "O gráfico mostra o preço médio do aluguer para cada mês. Barras menores indicam preços mais baixos."
+            },
+            "ru": {
+                "singular": "График показывает среднюю стоимость аренды за каждый месяц. Меньшие столбцы указывают на более низкие цены."
+            },
+            "sv": {
+                "singular": "Diagrammet visar det genomsnittliga hyrespriset för varje månad. Mindre staplar indikerar lägre priser."
+            }
+        }
+    }
+}

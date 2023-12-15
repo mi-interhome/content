@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalCoupon.created",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Poukaz na částku {amountWithCurrency} byl úspěšně vytvořen s následujícím číslem: "
+            },
+            "da": {
+                "singular": "Der blev oprettet en voucher for beløbet {amountWithCurrency} med følgende nummer:"
+            },
+            "de": {
+                "singular": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:"
+            },
+            "de-AT": {
+                "singular": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:"
+            },
+            "de-CH": {
+                "singular": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:"
+            },
+            "de-DE": {
+                "singular": "Ein Gutschein über den Betrag von {amountWithCurrency} wurde mit folgender Nummer erfolgreich erstellt:"
+            },
+            "en": {
+                "singular": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:"
+            },
+            "en-AU": {
+                "singular": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:"
+            },
+            "en-CA": {
+                "singular": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:"
+            },
+            "en-GB": {
+                "singular": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:"
+            },
+            "en-IE": {
+                "singular": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:"
+            },
+            "en-US": {
+                "singular": "A voucher for the amount of {amountWithCurrency} was successfully created with the following number:"
+            },
+            "es": {
+                "singular": "Se ha creado con éxito un bono por el importe de {amountWithCurrency} con el siguiente número:"
+            },
+            "fi": {
+                "singular": "Voucher summaltaan {amountWithCurrency} on onnistuneesti luotu seuraavalla numerolla:"
+            },
+            "fi-EE": {
+                "singular": "Voucher summaltaan {amountWithCurrency} on onnistuneesti luotu seuraavalla numerolla:"
+            },
+            "fi-FI": {
+                "singular": "Voucher summaltaan {amountWithCurrency} on onnistuneesti luotu seuraavalla numerolla:"
+            },
+            "fr": {
+                "singular": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :"
+            },
+            "fr-BE": {
+                "singular": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :"
+            },
+            "fr-CA": {
+                "singular": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :"
+            },
+            "fr-CH": {
+                "singular": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :"
+            },
+            "fr-FR": {
+                "singular": "Un bon de voyage de {amountWithCurrency} avec le numéro suivant a été crée :"
+            },
+            "hr": {
+                "singular": "Voucher u iznosu {amountWithCurrency} je uspješno generiran pod sljedećim brojem:"
+            },
+            "it": {
+                "singular": "Il voucher per l'importo di {amountWithCurrency} è stato creato con successo. Il numero è: "
+            },
+            "it-CH": {
+                "singular": "Il voucher per l'importo di {amountWithCurrency} è stato creato con successo. Il numero è: "
+            },
+            "it-IT": {
+                "singular": "Il voucher per l'importo di {amountWithCurrency} è stato creato con successo. Il numero è: "
+            },
+            "nl": {
+                "singular": "Een voucher voor de waarde van {amountWithCurrency} is succesvol gecreëerd met het volgende nummer"
+            },
+            "nl-BE": {
+                "singular": "Een voucher voor de waarde van {amountWithCurrency} is succesvol gecreëerd met het volgende nummer"
+            },
+            "nl-NL": {
+                "singular": "Een voucher voor de waarde van {amountWithCurrency} is succesvol gecreëerd met het volgende nummer"
+            },
+            "no": {
+                "singular": "En voucher for beløpet {amountWithCurrency} ble opprettet med følgende nummer:"
+            },
+            "pl": {
+                "singular": "Voucher na kwotę {amountWithCurrency} został wygenerowany, jego numer to:"
+            },
+            "pt": {
+                "singular": "Um voucher no valor de {amountWithCurrency} foi criado com sucesso com o seguinte número:"
+            },
+            "ru": {
+                "singular": "Ваучер на сумму {amountWithCurrency} был успешно создан со следующим номером:"
+            },
+            "sv": {
+                "singular": "En voucher över beloppet {amountWithCurrency} har upprättats med följande nummer:"
+            }
+        }
+    }
+}

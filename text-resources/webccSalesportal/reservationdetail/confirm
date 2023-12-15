@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccSalesportal.reservationdetail.confirm",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potvrdit {TYPE}"
+            },
+            "da": {
+                "singular": "Bekræft {TYPE}"
+            },
+            "de": {
+                "singular": "Bestätigen {TYPE}"
+            },
+            "de-AT": {
+                "singular": "Bestätigen {TYPE}"
+            },
+            "de-CH": {
+                "singular": "Bestätigen {TYPE}"
+            },
+            "de-DE": {
+                "singular": "Bestätigen {TYPE}"
+            },
+            "en": {
+                "singular": "Confirm {TYPE}"
+            },
+            "en-AU": {
+                "singular": "Confirm {TYPE}"
+            },
+            "en-CA": {
+                "singular": "Confirm {TYPE}"
+            },
+            "en-GB": {
+                "singular": "Confirm {TYPE}"
+            },
+            "en-IE": {
+                "singular": "Confirm {TYPE}"
+            },
+            "en-US": {
+                "singular": "Confirm {TYPE}"
+            },
+            "es": {
+                "singular": "Confirmar {TYPE}"
+            },
+            "fi": {
+                "singular": "Vahvista {TYPE}"
+            },
+            "fi-EE": {
+                "singular": "Vahvista {TYPE}"
+            },
+            "fi-FI": {
+                "singular": "Vahvista {TYPE}"
+            },
+            "fr": {
+                "singular": "Confirmer {TYPE}"
+            },
+            "fr-BE": {
+                "singular": "Confirmer {TYPE}"
+            },
+            "fr-CA": {
+                "singular": "Confirmer {TYPE}"
+            },
+            "fr-CH": {
+                "singular": "Confirmer {TYPE}"
+            },
+            "fr-FR": {
+                "singular": "Confirmer {TYPE}"
+            },
+            "hr": {
+                "singular": "Potvrdi {TYPE}"
+            },
+            "it": {
+                "singular": "Conferma password"
+            },
+            "it-CH": {
+                "singular": "Conferma password"
+            },
+            "it-IT": {
+                "singular": "Conferma password"
+            },
+            "nl": {
+                "singular": "Bevestig {TYPE}"
+            },
+            "nl-BE": {
+                "singular": "Bevestig {TYPE}"
+            },
+            "nl-NL": {
+                "singular": "Bevestig {TYPE}"
+            },
+            "no": {
+                "singular": "Bekreft {TYPE}"
+            },
+            "pl": {
+                "singular": "Potwierdź {TYPE}"
+            },
+            "pt": {
+                "singular": "Confirme {TIPO}"
+            },
+            "ru": {
+                "singular": "Подтвердите пароль"
+            },
+            "sv": {
+                "singular": "Bekräfta {TYPE}"
+            }
+        }
+    }
+}

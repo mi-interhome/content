@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.details.Calendar.noArrival",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "K dispozici, není příjezdovým dnem"
+            },
+            "da": {
+                "singular": "Tilgængelig, ingen ankomstdato"
+            },
+            "de": {
+                "singular": "Verfügbar, jedoch kein Anreisedatum"
+            },
+            "de-AT": {
+                "singular": "Verfügbar, jedoch kein Anreisedatum"
+            },
+            "de-CH": {
+                "singular": "Verfügbar, jedoch kein Anreisedatum"
+            },
+            "de-DE": {
+                "singular": "Verfügbar, jedoch kein Anreisedatum"
+            },
+            "en": {
+                "singular": "Available, arrival not possible"
+            },
+            "en-AU": {
+                "singular": "Available, arrival not possible"
+            },
+            "en-CA": {
+                "singular": "Available, arrival not possible"
+            },
+            "en-GB": {
+                "singular": "Available, arrival not possible"
+            },
+            "en-IE": {
+                "singular": "Available, arrival not possible"
+            },
+            "en-US": {
+                "singular": "Available, arrival not possible"
+            },
+            "es": {
+                "singular": "Disponible, sin fecha de llegada"
+            },
+            "fi": {
+                "singular": "Saatavilla, ei saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Saatavilla, ei saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Saatavilla, ei saapumispäivä"
+            },
+            "fr": {
+                "singular": "Libre - pas d'arrivée possible"
+            },
+            "fr-BE": {
+                "singular": "Libre - pas d'arrivée possible"
+            },
+            "fr-CA": {
+                "singular": "Libre - pas d'arrivée possible"
+            },
+            "fr-CH": {
+                "singular": "Libre - pas d'arrivée possible"
+            },
+            "fr-FR": {
+                "singular": "Libre - pas d'arrivée possible"
+            },
+            "hr": {
+                "singular": "Slobodno, ali ne kao dan dolaska"
+            },
+            "it": {
+                "singular": "Disponibile, ma non come data di inizio soggiorno"
+            },
+            "it-CH": {
+                "singular": "Disponibile, ma non come data di inizio soggiorno"
+            },
+            "it-IT": {
+                "singular": "Disponibile, ma non come data di inizio soggiorno"
+            },
+            "nl": {
+                "singular": "Beschikbaar, geen aankomst mogelijk"
+            },
+            "nl-BE": {
+                "singular": "Beschikbaar, geen aankomst mogelijk"
+            },
+            "nl-NL": {
+                "singular": "Beschikbaar, geen aankomst mogelijk"
+            },
+            "no": {
+                "singular": "Tilgjengelig, ingen ankomstdato"
+            },
+            "pl": {
+                "singular": "Dostępny, wybrana data nie może być dniem przyjazdu "
+            },
+            "pt": {
+                "singular": "Disponível, sem data de chegada"
+            },
+            "ru": {
+                "singular": "Доступно, не указана дата заезда "
+            },
+            "sv": {
+                "singular": "Tillgänglig, inget ankomstdatum"
+            }
+        }
+    }
+}

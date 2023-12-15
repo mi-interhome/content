@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.success.paymentRequired",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zbývající částka k úhradě po odečení zaplacené zálohy {amountWithCurrency}"
+            },
+            "da": {
+                "singular": "Udestående saldo minus det allerede betalte beløb {amountWithCurrency}"
+            },
+            "de": {
+                "singular": "Abzüglich Ihrer geleisteten Anzahlung müssen Sie noch den Betrag von {amountWithCurrency} an uns bezahlen"
+            },
+            "de-AT": {
+                "singular": "Abzüglich Ihrer geleisteten Anzahlung müssen Sie noch den Betrag von {amountWithCurrency} an uns bezahlen"
+            },
+            "de-CH": {
+                "singular": "Abzüglich Ihrer geleisteten Anzahlung müssen Sie noch den Betrag von {amountWithCurrency} an uns bezahlen"
+            },
+            "de-DE": {
+                "singular": "Abzüglich Ihrer geleisteten Anzahlung müssen Sie noch den Betrag von {amountWithCurrency} an uns bezahlen"
+            },
+            "en": {
+                "singular": "You still have to pay us the amount of {amountWithCurrency} minus your deposit."
+            },
+            "en-AU": {
+                "singular": "You still have to pay us the amount of {amountWithCurrency} minus your deposit."
+            },
+            "en-CA": {
+                "singular": "You still have to pay us the amount of {amountWithCurrency} minus your deposit."
+            },
+            "en-GB": {
+                "singular": "You still have to pay us the amount of {amountWithCurrency} minus your deposit."
+            },
+            "en-IE": {
+                "singular": "You still have to pay us the amount of {amountWithCurrency} minus your deposit."
+            },
+            "en-US": {
+                "singular": "You still have to pay us the amount of {amountWithCurrency} minus your deposit."
+            },
+            "es": {
+                "singular": "Saldo pendiente menos el anticipo ya pagado {amountWithCurrency} "
+            },
+            "fi": {
+                "singular": "Maksamatta oleva saldo vähennettynä varausmaksulla, joka on jo suoritettu {amountWithCurrency} "
+            },
+            "fi-EE": {
+                "singular": "Maksamatta oleva saldo vähennettynä varausmaksulla, joka on jo suoritettu {amountWithCurrency} "
+            },
+            "fi-FI": {
+                "singular": "Maksamatta oleva saldo vähennettynä varausmaksulla, joka on jo suoritettu {amountWithCurrency} "
+            },
+            "fr": {
+                "singular": "Montant impayé moins montant de l'acompte déjà réglé {amountWithCurrency} "
+            },
+            "fr-BE": {
+                "singular": "Montant impayé moins montant de l'acompte déjà réglé {amountWithCurrency} "
+            },
+            "fr-CA": {
+                "singular": "Montant impayé moins montant de l'acompte déjà réglé {amountWithCurrency} "
+            },
+            "fr-CH": {
+                "singular": "Montant impayé moins montant de l'acompte déjà réglé {amountWithCurrency} "
+            },
+            "fr-FR": {
+                "singular": "Montant impayé moins montant de l'acompte déjà réglé {amountWithCurrency} "
+            },
+            "hr": {
+                "singular": "Nepodmireni iznos umanjen za predujam koji je već uplaćen {amountWithCurrency} "
+            },
+            "it": {
+                "singular": "Saldo in sospeso al netto del pagamento già effettuato {amountWithCurrency}"
+            },
+            "it-CH": {
+                "singular": "Saldo in sospeso al netto del pagamento già effettuato {amountWithCurrency}"
+            },
+            "it-IT": {
+                "singular": "Saldo in sospeso al netto del pagamento già effettuato {amountWithCurrency}"
+            },
+            "nl": {
+                "singular": "Openstaand bedrag min de aanbetaling welke al is voldaan {amountWithCurrency} "
+            },
+            "nl-BE": {
+                "singular": "Openstaand bedrag min de aanbetaling welke al is voldaan {amountWithCurrency} "
+            },
+            "nl-NL": {
+                "singular": "Openstaand bedrag min de aanbetaling welke al is voldaan {amountWithCurrency} "
+            },
+            "no": {
+                "singular": "Utestående saldo minus beløpet som allerede er betalt {amountWithCurrency}"
+            },
+            "pl": {
+                "singular": "Saldo należności po odjęciu kwoty, która została już zapłacona {amountWithCurrency}"
+            },
+            "pt": {
+                "singular": "Saldo pendente menos o pagamento inicial que já foi realizado {amountWithCurrency}"
+            },
+            "ru": {
+                "singular": "Непогашенный остаток за вычетом авансового платежа, который уже был внесен {amountWithCurrency}"
+            },
+            "sv": {
+                "singular": "Utestående saldo minus det belopp som redan är betalt {amountWithCurrency}"
+            }
+        }
+    }
+}

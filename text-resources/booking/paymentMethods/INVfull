@@ -1,0 +1,117 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "booking.paymentMethods.INVfull",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Celková částka {amount} k úhradě do {finaldate}."
+            },
+            "da": {
+                "singular": "Totalbeløb {amount} betales senest {finaldate}."
+            },
+            "de": {
+                "singular": "Betrag zahlbar bis {finaldate} ({amount})"
+            },
+            "de-AT": {
+                "singular": "Betrag zahlbar bis {finaldate} ({amount})"
+            },
+            "de-CH": {
+                "singular": "Betrag zahlbar bis {finaldate} ({amount})"
+            },
+            "de-DE": {
+                "singular": "Betrag zahlbar bis {finaldate} ({amount})"
+            },
+            "en": {
+                "singular": "Total amount {amount} to be paid until {finaldate}."
+            },
+            "en-AU": {
+                "singular": "Total amount {amount} to be paid until {finaldate}."
+            },
+            "en-CA": {
+                "singular": "Total amount {amount} to be paid until {finaldate}."
+            },
+            "en-GB": {
+                "singular": "Total amount {amount} to be paid until {finaldate}."
+            },
+            "en-IE": {
+                "singular": "Total amount {amount} to be paid until {finaldate}."
+            },
+            "en-US": {
+                "singular": "Total amount {amount} to be paid until {finaldate}."
+            },
+            "es": {
+                "singular": "Total {amount} a pagar hasta {finaldate}."
+            },
+            "fi": {
+                "singular": "Koko vuokra {amount} eräpäivä {finaldate}."
+            },
+            "fi-EE": {
+                "singular": "Koko vuokra {amount} eräpäivä {finaldate}."
+            },
+            "fi-FI": {
+                "singular": "Koko vuokra {amount} eräpäivä {finaldate}."
+            },
+            "fr": {
+                "singular": "Montant total {amount} à payer jusqu'au {finaldate}. "
+            },
+            "fr-BE": {
+                "singular": "Montant total {amount} à payer jusqu'au {finaldate}. "
+            },
+            "fr-CA": {
+                "singular": "Montant total {amount} à payer jusqu'au {finaldate}. "
+            },
+            "fr-CH": {
+                "singular": "Montant total {amount} à payer jusqu'au {finaldate}. "
+            },
+            "fr-FR": {
+                "singular": "Montant total {amount} à payer jusqu'au {finaldate}. "
+            },
+            "hr": {
+                "singular": "Puni iznos {amount} platiti najkasnije do {finaldate}."
+            },
+            "it": {
+                "singular": "Importo totale di {amount} da pagare entro il {finaldate}."
+            },
+            "it-CH": {
+                "singular": "Importo totale di {amount} da pagare entro il {finaldate}."
+            },
+            "it-IT": {
+                "singular": "Importo totale di {amount} da pagare entro il {finaldate}."
+            },
+            "nl": {
+                "singular": "Gehele reissom {amount} te betalen voor {finaldate}."
+            },
+            "nl-BE": {
+                "singular": "Gehele reissom {amount} te betalen voor {finaldate}."
+            },
+            "nl-NL": {
+                "singular": "Gehele reissom {amount} te betalen voor {finaldate}."
+            },
+            "no": {
+                "singular": "Totalbeløp {amount} betales senest {finaldate}."
+            },
+            "pl": {
+                "singular": "Łącznie do zapłaty {amount} do uregulowania do {finaldate}."
+            },
+            "pt": {},
+            "ru": {
+                "singular": "Общую стоимость {amount}, необходимо доплатить до{finaldate}."
+            },
+            "sv": {
+                "singular": "Totalbelopp {amount} betalas senast {finaldate}."
+            }
+        }
+    }
+}

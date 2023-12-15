@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.status.positiveSaldo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Neuhrazená částka ve výši {saldo}."
+            },
+            "da": {
+                "singular": "Der er en udestående saldo på {saldo}."
+            },
+            "de": {
+                "singular": "Eine Zahlung in Höhe von {saldo} steht noch aus."
+            },
+            "de-AT": {
+                "singular": "Eine Zahlung in Höhe von {saldo} steht noch aus."
+            },
+            "de-CH": {
+                "singular": "Eine Zahlung in Höhe von {saldo} steht noch aus."
+            },
+            "de-DE": {
+                "singular": "Eine Zahlung in Höhe von {saldo} steht noch aus."
+            },
+            "en": {
+                "singular": "A payment of {saldo} is still outstanding."
+            },
+            "en-AU": {
+                "singular": "A payment of {saldo} is still outstanding."
+            },
+            "en-CA": {
+                "singular": "A payment of {saldo} is still outstanding."
+            },
+            "en-GB": {
+                "singular": "A payment of {saldo} is still outstanding."
+            },
+            "en-IE": {
+                "singular": "A payment of {saldo} is still outstanding."
+            },
+            "en-US": {
+                "singular": "A payment of {saldo} is still outstanding."
+            },
+            "es": {
+                "singular": "Hay un saldo pendiente por valor de {saldo}."
+            },
+            "fi": {
+                "singular": "Maksettavaa {saldo}."
+            },
+            "fi-EE": {
+                "singular": "Maksettavaa {saldo}."
+            },
+            "fi-FI": {
+                "singular": "Maksettavaa {saldo}."
+            },
+            "fr": {
+                "singular": "Il y a un montant impayé de {saldo}."
+            },
+            "fr-BE": {
+                "singular": "Il y a un montant impayé de {saldo}."
+            },
+            "fr-CA": {
+                "singular": "Il y a un montant impayé de {saldo}."
+            },
+            "fr-CH": {
+                "singular": "Il y a un montant impayé de {saldo}."
+            },
+            "fr-FR": {
+                "singular": "Il y a un montant impayé de {saldo}."
+            },
+            "hr": {
+                "singular": "Nepodmiren je iznos u visini {saldo}."
+            },
+            "it": {
+                "singular": "C'è un saldo in sospeso per un importo di {saldo}."
+            },
+            "it-CH": {
+                "singular": "C'è un saldo in sospeso per un importo di {saldo}."
+            },
+            "it-IT": {
+                "singular": "C'è un saldo in sospeso per un importo di {saldo}."
+            },
+            "nl": {
+                "singular": "Er is een openstaand saldo van {saldo}."
+            },
+            "nl-BE": {
+                "singular": "Er is een openstaand saldo van {saldo}."
+            },
+            "nl-NL": {
+                "singular": "Er is een openstaand saldo van {saldo}."
+            },
+            "no": {
+                "singular": "Det er en utestående saldo på {saldo}."
+            },
+            "pl": {
+                "singular": "Brak wpłaty w wysokości {saldo}."
+            },
+            "pt": {
+                "singular": "Há um saldo pendente no valor de {saldo}."
+            },
+            "ru": {
+                "singular": "Необходимо оплатить {saldo}."
+            },
+            "sv": {
+                "singular": "Det är en utestående saldo på {saldo}."
+            }
+        }
+    }
+}

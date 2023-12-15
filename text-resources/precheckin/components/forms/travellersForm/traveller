@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.traveller",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{count}. cestující"
+            },
+            "da": {
+                "singular": "{count} gæst(er)"
+            },
+            "de": {
+                "singular": "{count}. Reisende(r)"
+            },
+            "de-AT": {
+                "singular": "{count}. Reisende(r)"
+            },
+            "de-CH": {
+                "singular": "{count}. Reisende(r)"
+            },
+            "de-DE": {
+                "singular": "{count}. Reisende(r)"
+            },
+            "en": {
+                "singular": "{count}. Traveller"
+            },
+            "en-AU": {
+                "singular": "{count}. Traveller"
+            },
+            "en-CA": {
+                "singular": "{count}. Traveller"
+            },
+            "en-GB": {
+                "singular": "{count}. Traveller"
+            },
+            "en-IE": {
+                "singular": "{count}. Traveller"
+            },
+            "en-US": {
+                "singular": "{count}. Traveller"
+            },
+            "es": {
+                "singular": "{count}. Viajero"
+            },
+            "fi": {
+                "singular": "{count}. matkustajaa"
+            },
+            "fi-EE": {
+                "singular": "{count}. matkustajaa"
+            },
+            "fi-FI": {
+                "singular": "{count}. matkustajaa"
+            },
+            "fr": {
+                "singular": "{count} Voyageurs"
+            },
+            "fr-BE": {
+                "singular": "{count} Voyageurs"
+            },
+            "fr-CA": {
+                "singular": "{count} Voyageurs"
+            },
+            "fr-CH": {
+                "singular": "{count} Voyageurs"
+            },
+            "fr-FR": {
+                "singular": "{count} Voyageurs"
+            },
+            "hr": {
+                "singular": "{count}. Putnik(a)"
+            },
+            "it": {
+                "singular": "{count} ospiti"
+            },
+            "it-CH": {
+                "singular": "{count} ospiti"
+            },
+            "it-IT": {
+                "singular": "{count} ospiti"
+            },
+            "nl": {
+                "singular": "{count}. Reiziger"
+            },
+            "nl-BE": {
+                "singular": "{count}. Reiziger"
+            },
+            "nl-NL": {
+                "singular": "{count}. Reiziger"
+            },
+            "no": {
+                "singular": "{count}. Reisende"
+            },
+            "pl": {
+                "singular": "{count}. podróżujących"
+            },
+            "pt": {
+                "singular": "{count}. Viajante"
+            },
+            "ru": {
+                "singular": "{count}. Турист"
+            },
+            "sv": {
+                "singular": "{count}. Resande"
+            }
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.PageReviews.guaranteedGenuineText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pouze klienti, kteří skutečně strávili svoji dovolenou v rekreačním objektu Interhome, ho mohou prostřednictvím recenze hodnotit. Po návratu z dovolené obdrží odkaz na patřičný hodnotící formulář."
+            },
+            "da": {
+                "singular": "Kun kunder, der rent faktisk har brugt deres ferie i en {company}-bolig, kan bedømme deres ferieboliger. Når de vender tilbage, modtager vores kunder en e-mail med et individuelt link til den relevante evalueringsformular."
+            },
+            "de": {
+                "singular": "Nur Kunden, die tatsächlich in einer {company} Unterkunft ihren Urlaub verbracht haben, können auch eine Bewertung für diese Unterkunft abgeben. Dazu bekommen unsere Kunden nach ihrer Rückreise eine E-Mail mit einem individuellen Link gesendet, der zum passenden Bewertungsformular führt."
+            },
+            "de-AT": {
+                "singular": "Nur Kunden, die tatsächlich in einer {company} Unterkunft ihren Urlaub verbracht haben, können auch eine Bewertung für diese Unterkunft abgeben. Dazu bekommen unsere Kunden nach ihrer Rückreise eine E-Mail mit einem individuellen Link gesendet, der zum passenden Bewertungsformular führt."
+            },
+            "de-CH": {
+                "singular": "Nur Kunden, die tatsächlich in einer {company} Unterkunft ihren Urlaub verbracht haben, können auch eine Bewertung für diese Unterkunft abgeben. Dazu bekommen unsere Kunden nach ihrer Rückreise eine E-Mail mit einem individuellen Link gesendet, der zum passenden Bewertungsformular führt."
+            },
+            "de-DE": {
+                "singular": "Nur Kunden, die tatsächlich in einer {company} Unterkunft ihren Urlaub verbracht haben, können auch eine Bewertung für diese Unterkunft abgeben. Dazu bekommen unsere Kunden nach ihrer Rückreise eine E-Mail mit einem individuellen Link gesendet, der zum passenden Bewertungsformular führt."
+            },
+            "en": {
+                "singular": "Only customers who have actually spent their holiday in an {company} property can rate their holiday accommodation. On their return, our customers will receive an e-mail with an individual link to the appropriate evaluation form."
+            },
+            "en-AU": {
+                "singular": "Only customers who have actually spent their holiday in an {company} property can rate their holiday accommodation. On their return, our customers will receive an e-mail with an individual link to the appropriate evaluation form."
+            },
+            "en-CA": {
+                "singular": "Only customers who have actually spent their holiday in an {company} property can rate their holiday accommodation. On their return, our customers will receive an e-mail with an individual link to the appropriate evaluation form."
+            },
+            "en-GB": {
+                "singular": "Only customers who have actually spent their holiday in an {company} property can rate their holiday accommodation. On their return, our customers will receive an e-mail with an individual link to the appropriate evaluation form."
+            },
+            "en-IE": {
+                "singular": "Only customers who have actually spent their holiday in an {company} property can rate their holiday accommodation. On their return, our customers will receive an e-mail with an individual link to the appropriate evaluation form."
+            },
+            "en-US": {
+                "singular": "Only customers who have actually spent their holiday in an {company} property can rate their holiday accommodation. On their return, our customers will receive an e-mail with an individual link to the appropriate evaluation form."
+            },
+            "es": {
+                "singular": "Solo los clientes que han pasados sus vacaciones en una propiedad {company} pueden valorar sus alojamientos vacacionales. Al vuelta de sus vacaciones, nuestros clientes recibirán un e-mail con un link individual para poder acceder al formulario de evaluación.\n"
+            },
+            "fi": {
+                "singular": "Ainoastaan asiakkaat jotka ovat viettäneet loman {company} loma-asunnossa, voivat arvostella majoituksen. Palattuaan matkalta, asiakkaamme saavat sähköpostitse henkilökohtaisen linkin arviointilomakkeeseen."
+            },
+            "fi-EE": {
+                "singular": "Ainoastaan asiakkaat jotka ovat viettäneet loman {company} loma-asunnossa, voivat arvostella majoituksen. Palattuaan matkalta, asiakkaamme saavat sähköpostitse henkilökohtaisen linkin arviointilomakkeeseen."
+            },
+            "fi-FI": {
+                "singular": "Ainoastaan asiakkaat jotka ovat viettäneet loman {company} loma-asunnossa, voivat arvostella majoituksen. Palattuaan matkalta, asiakkaamme saavat sähköpostitse henkilökohtaisen linkin arviointilomakkeeseen."
+            },
+            "fr": {
+                "singular": "Seuls les clients qui ont séjourné dans une location de vacances {company} peuvent évaluer le logement dans lequel ils ont séjourné. A leur retour, nos clients reçoivent un email contenant un lien individuel vers le formulaire d'évaluation de leur location."
+            },
+            "fr-BE": {
+                "singular": "Seuls les clients qui ont séjourné dans une location de vacances {company} peuvent évaluer le logement dans lequel ils ont séjourné. A leur retour, nos clients reçoivent un email contenant un lien individuel vers le formulaire d'évaluation de leur location."
+            },
+            "fr-CA": {
+                "singular": "Seuls les clients qui ont séjourné dans une location de vacances {company} peuvent évaluer le logement dans lequel ils ont séjourné. A leur retour, nos clients reçoivent un email contenant un lien individuel vers le formulaire d'évaluation de leur location."
+            },
+            "fr-CH": {
+                "singular": "Seuls les clients qui ont séjourné dans une location de vacances {company} peuvent évaluer le logement dans lequel ils ont séjourné. A leur retour, nos clients reçoivent un email contenant un lien individuel vers le formulaire d'évaluation de leur location."
+            },
+            "fr-FR": {
+                "singular": "Seuls les clients qui ont séjourné dans une location de vacances {company} peuvent évaluer le logement dans lequel ils ont séjourné. A leur retour, nos clients reçoivent un email contenant un lien individuel vers le formulaire d'évaluation de leur location."
+            },
+            "hr": {
+                "singular": "Ocjene mogu davati jedino gosti koji su boravili u {company}ovoj smještajnoj jedinici. Naši gosti po povratku s odmora zaprimaju email poruku s poveznicom na obrazac za ocjenu."
+            },
+            "it": {
+                "singular": "Solo i clienti che hanno realmente soggiornato all'interno della casa vacanze possono inviarci la loro recensione. Al rientro, infatti, i clienti riceveranno un'eMail contenente un link personalizzato che consente di accedere al questionario di valutazione."
+            },
+            "it-CH": {
+                "singular": "Solo i clienti che hanno realmente soggiornato all'interno della casa vacanze possono inviarci la loro recensione. Al rientro, infatti, i clienti riceveranno un'eMail contenente un link personalizzato che consente di accedere al questionario di valutazione."
+            },
+            "it-IT": {
+                "singular": "Solo i clienti che hanno realmente soggiornato all'interno della casa vacanze possono inviarci la loro recensione. Al rientro, infatti, i clienti riceveranno un'eMail contenente un link personalizzato che consente di accedere al questionario di valutazione."
+            },
+            "nl": {
+                "singular": "Alleen klanten die daadwerkelijk hun vakantie in een {company} woning hebben doorgebracht, kunnen hun vakantieverblijf beoordelen. Onze klanten ontvangen bij terugkomst een e-mail met een individuele link naar het evaluatieformulier."
+            },
+            "nl-BE": {
+                "singular": "Alleen klanten die daadwerkelijk hun vakantie in een {company} woning hebben doorgebracht, kunnen hun vakantieverblijf beoordelen. Onze klanten ontvangen bij terugkomst een e-mail met een individuele link naar het evaluatieformulier."
+            },
+            "nl-NL": {
+                "singular": "Alleen klanten die daadwerkelijk hun vakantie in een {company} woning hebben doorgebracht, kunnen hun vakantieverblijf beoordelen. Onze klanten ontvangen bij terugkomst een e-mail met een individuele link naar het evaluatieformulier."
+            },
+            "no": {
+                "singular": "Bare kunder som faktisk har tilbrakt sin ferie i en {company}-bolig, kan vurdere deres ferieinnkvartering. Når de kommer tilbake, mottar våre kunder en e-post med en individuell lenke til riktig evalueringsskjema."
+            },
+            "pl": {
+                "singular": "Tylko klienci, którzy faktycznie spędzili wakacje w domu lub apartamencie {company} mogą przesłać opinię tego zakwaterowania. Po powrocie z wakacji nasi Klienci otrzymują e-mail z indywidualnym linkiem do formularza."
+            },
+            "pt": {
+                "singular": "Apenas os clientes que realmente tenham passado as suas férias numa propriedade {company} podem classificar os alojamentos de férias. No regresso das suas férias, os nossos clientes recebem um e-mail com um link individual para o formulário de avaliação correspondente."
+            },
+            "ru": {
+                "singular": "Только клиенты, которые на самом деле провели свой отпуск с {company}, могут оценить свое жилье для отдыха. По возвращении наши клиенты получат электронное письмо с индивидуальной ссылкой на соответствующую форму оценки."
+            },
+            "sv": {
+                "singular": "Endast kunder som faktiskt har tillbringat sin semester i en {company}-bostad kan betygsätta sitt semesterboende. Vid återkomsten kommer våra kunder att få ett e-mail med en enskild länk till lämplig utvärderingsblankett."
+            }
+        }
+    }
+}

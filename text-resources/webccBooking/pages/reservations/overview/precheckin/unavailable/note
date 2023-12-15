@@ -1,0 +1,117 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.precheckin.unavailable.note",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "K dispozici od {available_date}"
+            },
+            "da": {
+                "singular": "Tilgængelig fra {available_date}"
+            },
+            "de": {
+                "singular": "Verfügbar ab {available_date}"
+            },
+            "de-AT": {
+                "singular": "Verfügbar ab {available_date}"
+            },
+            "de-CH": {
+                "singular": "Verfügbar ab {available_date}"
+            },
+            "de-DE": {
+                "singular": "Verfügbar ab {available_date}"
+            },
+            "en": {
+                "singular": "Available from {available_date}"
+            },
+            "en-AU": {
+                "singular": "Available from {available_date}"
+            },
+            "en-CA": {
+                "singular": "Available from {available_date}"
+            },
+            "en-GB": {
+                "singular": "Available from {available_date}"
+            },
+            "en-IE": {
+                "singular": "Available from {available_date}"
+            },
+            "en-US": {
+                "singular": "Available from {available_date}"
+            },
+            "es": {
+                "singular": "Disponible desde {available_date}"
+            },
+            "fi": {
+                "singular": "Saatavilla {available_date} lähtien"
+            },
+            "fi-EE": {
+                "singular": "Saatavilla {available_date} lähtien"
+            },
+            "fi-FI": {
+                "singular": "Saatavilla {available_date} lähtien"
+            },
+            "fr": {
+                "singular": "Disponible du {available_date}"
+            },
+            "fr-BE": {
+                "singular": "Disponible du {available_date}"
+            },
+            "fr-CA": {
+                "singular": "Disponible du {available_date}"
+            },
+            "fr-CH": {
+                "singular": "Disponible du {available_date}"
+            },
+            "fr-FR": {
+                "singular": "Disponible du {available_date}"
+            },
+            "hr": {
+                "singular": "Dostupno od {available_date}"
+            },
+            "it": {
+                "singular": "Disponibile da {available_date}"
+            },
+            "it-CH": {
+                "singular": "Disponibile da {available_date}"
+            },
+            "it-IT": {
+                "singular": "Disponibile da {available_date}"
+            },
+            "nl": {
+                "singular": "Beschikbaar vanaf {available_date}"
+            },
+            "nl-BE": {
+                "singular": "Beschikbaar vanaf {available_date}"
+            },
+            "nl-NL": {
+                "singular": "Beschikbaar vanaf {available_date}"
+            },
+            "no": {
+                "singular": "Tilgjengelig fra {available_date}"
+            },
+            "pl": {
+                "singular": "Dostępne od {available_date}"
+            },
+            "pt": {
+                "singular": "Disponível a partir de {available_date}"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Tillgänglig från {available_date}"
+            }
+        }
+    }
+}

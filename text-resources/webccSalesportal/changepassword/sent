@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "webccSalesportal.changepassword.sent",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Na zadanou e-mailovou adresu partnera {partnerid} zašleme e-mail. Pro změnu hesla použijte prosím odkaz v tomto e-mailu."
+            },
+            "da": {
+                "singular": "Vi sender dig en e-mail til den e-mailadresse, som du har angivet ved partner (partnerid). Brug venligst linket i e-mailen til at ændre dit kodeord. "
+            },
+            "de": {
+                "singular": "Wir senden eine Email an die für den Partner {partnerid} hinterlegte Emailadresse. Bitte nutzen Sie den Link in dieser Email, um Ihr Passwort zu ändern."
+            },
+            "de-AT": {
+                "singular": "Wir senden eine Email an die für den Partner {partnerid} hinterlegte Emailadresse. Bitte nutzen Sie den Link in dieser Email, um Ihr Passwort zu ändern."
+            },
+            "de-CH": {
+                "singular": "Wir senden eine Email an die für den Partner {partnerid} hinterlegte Emailadresse. Bitte nutzen Sie den Link in dieser Email, um Ihr Passwort zu ändern."
+            },
+            "de-DE": {
+                "singular": "Wir senden eine Email an die für den Partner {partnerid} hinterlegte Emailadresse. Bitte nutzen Sie den Link in dieser Email, um Ihr Passwort zu ändern."
+            },
+            "en": {
+                "singular": "We will send an email to the email address for partner {partnerid}. Please use the link in the email to change your password."
+            },
+            "en-AU": {
+                "singular": "We will send an email to the email address for partner {partnerid}. Please use the link in the email to change your password."
+            },
+            "en-CA": {
+                "singular": "We will send an email to the email address for partner {partnerid}. Please use the link in the email to change your password."
+            },
+            "en-GB": {
+                "singular": "We will send an email to the email address for partner {partnerid}. Please use the link in the email to change your password."
+            },
+            "en-IE": {
+                "singular": "We will send an email to the email address for partner {partnerid}. Please use the link in the email to change your password."
+            },
+            "en-US": {
+                "singular": "We will send an email to the email address for partner {partnerid}. Please use the link in the email to change your password."
+            },
+            "es": {
+                "singular": "Enviaremos un email a la dirección de correo electrónico del partner {partnerid}. Utilice el enlace del correo electrónico para cambiar su contraseña."
+            },
+            "fi": {
+                "singular": "Lähetämme sähköpostia partnerimme {partnerid} sähköpostiosoitteeseen. Ole hyvä ja käytä viestissä olevaa linkkiä salasanan muuttamiseen."
+            },
+            "fi-EE": {
+                "singular": "Lähetämme sähköpostia partnerimme {partnerid} sähköpostiosoitteeseen. Ole hyvä ja käytä viestissä olevaa linkkiä salasanan muuttamiseen."
+            },
+            "fi-FI": {
+                "singular": "Lähetämme sähköpostia partnerimme {partnerid} sähköpostiosoitteeseen. Ole hyvä ja käytä viestissä olevaa linkkiä salasanan muuttamiseen."
+            },
+            "fr": {
+                "singular": "Nous enverrons un courriel à l'adresse mail consignée pour le partenaire {partnerid}. Veuillez utiliser le lien dans cet email afin de modifier votre mot de passe."
+            },
+            "fr-BE": {
+                "singular": "Nous enverrons un courriel à l'adresse mail consignée pour le partenaire {partnerid}. Veuillez utiliser le lien dans cet email afin de modifier votre mot de passe."
+            },
+            "fr-CA": {
+                "singular": "Nous enverrons un courriel à l'adresse mail consignée pour le partenaire {partnerid}. Veuillez utiliser le lien dans cet email afin de modifier votre mot de passe."
+            },
+            "fr-CH": {
+                "singular": "Nous enverrons un courriel à l'adresse mail consignée pour le partenaire {partnerid}. Veuillez utiliser le lien dans cet email afin de modifier votre mot de passe."
+            },
+            "fr-FR": {
+                "singular": "Nous enverrons un courriel à l'adresse mail consignée pour le partenaire {partnerid}. Veuillez utiliser le lien dans cet email afin de modifier votre mot de passe."
+            },
+            "hr": {
+                "singular": "Na adresu e-pošte partnera {partnerid} poslana je poruka. Molimo izmijenite lozinku putem poveznice u poruci."
+            },
+            "it": {
+                "singular": "Invieremo un'e-mail all'indirizzo di posta elettronica associato al codice partner {partnerid}. Si prega di cliccare sul link presente nell'e-mail per modificare la password."
+            },
+            "it-CH": {
+                "singular": "Invieremo un'e-mail all'indirizzo di posta elettronica associato al codice partner {partnerid}. Si prega di cliccare sul link presente nell'e-mail per modificare la password."
+            },
+            "it-IT": {
+                "singular": "Invieremo un'e-mail all'indirizzo di posta elettronica associato al codice partner {partnerid}. Si prega di cliccare sul link presente nell'e-mail per modificare la password."
+            },
+            "nl": {
+                "singular": "Wij zullen een e-mail naar het e-mailadres dat is opgeslagen voor de partner sturen {partnerid}. Gebruik de link in de e-mail om uw wachtwoord te wijzigen.\n"
+            },
+            "nl-BE": {
+                "singular": "Wij zullen een e-mail naar het e-mailadres dat is opgeslagen voor de partner sturen {partnerid}. Gebruik de link in de e-mail om uw wachtwoord te wijzigen.\n"
+            },
+            "nl-NL": {
+                "singular": "Wij zullen een e-mail naar het e-mailadres dat is opgeslagen voor de partner sturen {partnerid}. Gebruik de link in de e-mail om uw wachtwoord te wijzigen.\n"
+            },
+            "no": {
+                "singular": "Vi sender deg en e-post til e-postadressen du oppga av partner (partnerid). Bruk lenken i e-posten for å endre passordet ditt."
+            },
+            "pl": {
+                "singular": "Wyślemy wiadomość e-mail na adres mailowy partnera {partnerid}. Prosimy o skorzystanie z linku przesłanego mailem w celu zmiany hasła."
+            },
+            "pt": {
+                "singular": "Enviaremos um e-mail para o endereço de e-mail do parceiro {partnerid}. Por favor, use o link no e-mail para alterar a sua password."
+            },
+            "ru": {
+                "singular": "Мы отправим электронное письмо на адрес электронной почты партнера {partnerid}. Воспользуйтесь ссылкой в письме, чтобы изменить пароль."
+            },
+            "sv": {
+                "singular": "Vi kommer skicka ett mejl till adressen för partnern {partnerid}. Vänligen använd länken i det här mejlet för att ändra ditt lösenord. "
+            }
+        }
+    }
+}

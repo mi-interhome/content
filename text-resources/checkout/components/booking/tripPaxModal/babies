@@ -1,0 +1,185 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "checkout.components.booking.tripPaxModal.babies",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "žádná miminka",
+                "singular": "žádné miminko",
+                "plural": "miminka: {count}"
+            },
+            "da": {
+                "zero": "ingen babyer",
+                "singular": "en baby",
+                "plural": "{count} babyer"
+            },
+            "de": {
+                "zero": "kein Baby",
+                "singular": "ein Baby",
+                "plural": "{count} Babys"
+            },
+            "de-AT": {
+                "zero": "kein Baby",
+                "singular": "ein Baby",
+                "plural": "{count} Babys"
+            },
+            "de-CH": {
+                "zero": "kein Baby",
+                "singular": "ein Baby",
+                "plural": "{count} Babys"
+            },
+            "de-DE": {
+                "zero": "kein Baby",
+                "singular": "ein Baby",
+                "plural": "{count} Babys"
+            },
+            "en": {
+                "zero": "no babies",
+                "singular": "one baby",
+                "plural": "{count} babies"
+            },
+            "en-AU": {
+                "zero": "no babies",
+                "singular": "one baby",
+                "plural": "{count} babies"
+            },
+            "en-CA": {
+                "zero": "no babies",
+                "singular": "one baby",
+                "plural": "{count} babies"
+            },
+            "en-GB": {
+                "zero": "no babies",
+                "singular": "one baby",
+                "plural": "{count} babies"
+            },
+            "en-IE": {
+                "zero": "no babies",
+                "singular": "one baby",
+                "plural": "{count} babies"
+            },
+            "en-US": {
+                "zero": "no babies",
+                "singular": "one baby",
+                "plural": "{count} babies"
+            },
+            "es": {
+                "zero": "ningún bebé",
+                "singular": "un bebé",
+                "plural": "{count} bebés"
+            },
+            "fi": {
+                "zero": "ei vauvoja",
+                "singular": "1 vauva",
+                "plural": "{count} vauvaa"
+            },
+            "fi-EE": {
+                "zero": "ei vauvoja",
+                "singular": "1 vauva",
+                "plural": "{count} vauvaa"
+            },
+            "fi-FI": {
+                "zero": "ei vauvoja",
+                "singular": "1 vauva",
+                "plural": "{count} vauvaa"
+            },
+            "fr": {
+                "zero": "pas de bébés",
+                "singular": "un bébé",
+                "plural": "{count} bébés"
+            },
+            "fr-BE": {
+                "zero": "pas de bébés",
+                "singular": "un bébé",
+                "plural": "{count} bébés"
+            },
+            "fr-CA": {
+                "zero": "pas de bébés",
+                "singular": "un bébé",
+                "plural": "{count} bébés"
+            },
+            "fr-CH": {
+                "zero": "pas de bébés",
+                "singular": "un bébé",
+                "plural": "{count} bébés"
+            },
+            "fr-FR": {
+                "zero": "pas de bébés",
+                "singular": "un bébé",
+                "plural": "{count} bébés"
+            },
+            "hr": {
+                "zero": "nema beba",
+                "singular": "jedna beba",
+                "plural": "{count} beba"
+            },
+            "it": {
+                "zero": "nessun bebè",
+                "singular": "un bebè",
+                "plural": "{count} bebè"
+            },
+            "it-CH": {
+                "zero": "nessun bebè",
+                "singular": "un bebè",
+                "plural": "{count} bebè"
+            },
+            "it-IT": {
+                "zero": "nessun bebè",
+                "singular": "un bebè",
+                "plural": "{count} bebè"
+            },
+            "nl": {
+                "zero": "geen baby's",
+                "singular": "één baby",
+                "plural": "{count} baby's"
+            },
+            "nl-BE": {
+                "zero": "geen baby's",
+                "singular": "één baby",
+                "plural": "{count} baby's"
+            },
+            "nl-NL": {
+                "zero": "geen baby's",
+                "singular": "één baby",
+                "plural": "{count} baby's"
+            },
+            "no": {
+                "zero": "ingen baby",
+                "singular": "en baby",
+                "plural": "{count} babyer"
+            },
+            "pl": {
+                "zero": "Brak niemowląt",
+                "singular": "jedno niemowlę",
+                "plural": "{count} niemowląt"
+            },
+            "pt": {
+                "zero": "nenhum bebé",
+                "singular": "um bebé",
+                "plural": "{count} bebé"
+            },
+            "ru": {
+                "zero": "нет младенцев",
+                "singular": "один младенец",
+                "plural": "{count} младенцев"
+            },
+            "sv": {
+                "zero": "inga bebisar",
+                "singular": "en bebis",
+                "plural": "{count} bebisar"
+            }
+        }
+    }
+}

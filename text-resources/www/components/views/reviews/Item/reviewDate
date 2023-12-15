@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.reviews.Item.reviewDate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Aktualizováno {date}"
+            },
+            "da": {
+                "singular": "Anmeldt d. {date}"
+            },
+            "de": {
+                "singular": "Bewertet am {date}"
+            },
+            "de-AT": {
+                "singular": "Bewertet am {date}"
+            },
+            "de-CH": {
+                "singular": "Bewertet am {date}"
+            },
+            "de-DE": {
+                "singular": "Bewertet am {date}"
+            },
+            "en": {
+                "singular": "Reviewed on {date}"
+            },
+            "en-AU": {
+                "singular": "Reviewed on {date}"
+            },
+            "en-CA": {
+                "singular": "Reviewed on {date}"
+            },
+            "en-GB": {
+                "singular": "Reviewed on {date}"
+            },
+            "en-IE": {
+                "singular": "Reviewed on {date}"
+            },
+            "en-US": {
+                "singular": "Reviewed on {date}"
+            },
+            "es": {
+                "singular": "Revisado el {date}"
+            },
+            "fi": {
+                "singular": "Arviointi {date}"
+            },
+            "fi-EE": {
+                "singular": "Arviointi {date}"
+            },
+            "fi-FI": {
+                "singular": "Arviointi {date}"
+            },
+            "fr": {
+                "singular": "Evalué le {date}"
+            },
+            "fr-BE": {
+                "singular": "Evalué le {date}"
+            },
+            "fr-CA": {
+                "singular": "Evalué le {date}"
+            },
+            "fr-CH": {
+                "singular": "Evalué le {date}"
+            },
+            "fr-FR": {
+                "singular": "Evalué le {date}"
+            },
+            "hr": {
+                "singular": "Ocijenjeno {date}"
+            },
+            "it": {
+                "singular": "Recensito {date}"
+            },
+            "it-CH": {
+                "singular": "Recensito {date}"
+            },
+            "it-IT": {
+                "singular": "Recensito il {date}"
+            },
+            "nl": {
+                "singular": "Beoordeeld op {date}"
+            },
+            "nl-BE": {
+                "singular": "Beoordeeld op {date}"
+            },
+            "nl-NL": {
+                "singular": "Beoordeeld op {date}"
+            },
+            "no": {
+                "singular": "Anmeldt den {date}"
+            },
+            "pl": {
+                "singular": "Oceniony w dniu {date}"
+            },
+            "pt": {
+                "singular": "Revisada em {date}"
+            },
+            "ru": {
+                "singular": "Отзывы на {date}"
+            },
+            "sv": {
+                "singular": "Betygsatt den {date}"
+            }
+        }
+    }
+}

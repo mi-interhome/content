@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.details.Residence.showAllAccommodations",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zobrazit všechny apartmány ({count}) v tomto domě/rezidenci"
+            },
+            "da": {
+                "singular": "Vis alle {count} lejligheder i dette hus/ejendom"
+            },
+            "de": {
+                "singular": "Alle {count} Wohnungen in diesem Haus/dieser Residenz anzeigen"
+            },
+            "de-AT": {
+                "singular": "Alle {count} Wohnungen in diesem Haus/dieser Residenz anzeigen"
+            },
+            "de-CH": {
+                "singular": "Alle {count} Wohnungen in diesem Haus/dieser Residenz anzeigen"
+            },
+            "de-DE": {
+                "singular": "Alle {count} Wohnungen in diesem Haus/dieser Residenz anzeigen"
+            },
+            "en": {
+                "singular": "Show all {count} apartments in this house/residence"
+            },
+            "en-AU": {
+                "singular": "Show all {count} apartments in this house/residence"
+            },
+            "en-CA": {
+                "singular": "Show all {count} apartments in this house/residence"
+            },
+            "en-GB": {
+                "singular": "Show all {count} apartments in this house/residence"
+            },
+            "en-IE": {
+                "singular": "Show all {count} apartments in this house/residence"
+            },
+            "en-US": {
+                "singular": "Show all {count} apartments in this house/residence"
+            },
+            "es": {
+                "singular": "Mostrar los {count} apartamentos en esta casa/residencia"
+            },
+            "fi": {
+                "singular": "Näytä kaikki {count} huoneistot tässä talossa/kiinteistössä"
+            },
+            "fi-EE": {
+                "singular": "Näytä kaikki {count} huoneistot tässä talossa/kiinteistössä"
+            },
+            "fi-FI": {
+                "singular": "Näytä kaikki {count} huoneistot tässä talossa/kiinteistössä"
+            },
+            "fr": {
+                "singular": "Voir tous {count} appartements dans cette maison/résidence"
+            },
+            "fr-BE": {
+                "singular": "Voir tous {count} appartements dans cette maison/résidence"
+            },
+            "fr-CA": {
+                "singular": "Voir tous {count} appartements dans cette maison/résidence"
+            },
+            "fr-CH": {
+                "singular": "Voir tous {count} appartements dans cette maison/résidence"
+            },
+            "fr-FR": {
+                "singular": "Voir tous {count} appartements dans cette maison/résidence"
+            },
+            "hr": {
+                "singular": "Prikaži sva/svih {count} apartmana u ovoj kući/objektu"
+            },
+            "it": {
+                "singular": "Mostra tutti i {count} appartamenti all'interno di questa casa/questo residence"
+            },
+            "it-CH": {
+                "singular": "Mostra tutti i {count} appartamenti all'interno di questa casa/questo residence"
+            },
+            "it-IT": {
+                "singular": "Mostra tutti i {count} appartamenti all'interno di questa casa/questo residence"
+            },
+            "nl": {
+                "singular": "Toon alle {count} appartementen in het complex / op het vakantiepark"
+            },
+            "nl-BE": {
+                "singular": "Toon alle {count} appartementen in het complex / op het vakantiepark"
+            },
+            "nl-NL": {
+                "singular": "Toon alle {count} appartementen in het complex / op het vakantiepark"
+            },
+            "no": {
+                "singular": "Vis alle {count}-leiligheter i dette huset/eiendommen"
+            },
+            "pl": {
+                "singular": "Pokaż wszystkie {count} apartamenty w tym domu/rezydencji"
+            },
+            "pt": {
+                "singular": "Mostrar os {count} apartamentos nesta casa/residência"
+            },
+            "ru": {
+                "singular": "Показать все {count} апартаменты в этом доме/резиденции"
+            },
+            "sv": {
+                "singular": "Visa alla {count} lägenheter i det här huset/residenset"
+            }
+        }
+    }
+}

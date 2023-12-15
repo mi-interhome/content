@@ -1,0 +1,119 @@
+{
+    "id": "",
+    "name": "",
+    "path": "",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Textresource",
+    "content": {
+        "key": "www.components.views.search.RatingBox.numberRatingsText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Založeno na {ratingcount} hodnoceních."
+            },
+            "da": {
+                "singular": "Baseret på {ratingcount} anmeldelser."
+            },
+            "de": {
+                "singular": "Basiert auf {ratingcount} Bewertungen."
+            },
+            "de-AT": {
+                "singular": "Basiert auf {ratingcount} Bewertungen."
+            },
+            "de-CH": {
+                "singular": "Basiert auf {ratingcount} Bewertungen."
+            },
+            "de-DE": {
+                "singular": "Basiert auf {ratingcount} Bewertungen."
+            },
+            "en": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "en-AU": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "en-CA": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "en-GB": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "en-IE": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "en-US": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "es": {
+                "singular": "Basado en {ratingcount} calificaciones."
+            },
+            "fi": {
+                "singular": "Perustuu {ratingcount} arviointiin."
+            },
+            "fi-EE": {
+                "singular": "Perustuu {ratingcount} arviointiin."
+            },
+            "fi-FI": {
+                "singular": "Perustuu {ratingcount} arviointiin."
+            },
+            "fr": {
+                "singular": "Basé sur {ratingcount} évaluations."
+            },
+            "fr-BE": {
+                "singular": "Basé sur {ratingcount} évaluations."
+            },
+            "fr-CA": {
+                "singular": "Basé sur {ratingcount} évaluations."
+            },
+            "fr-CH": {
+                "singular": "Basé sur {ratingcount} évaluations."
+            },
+            "fr-FR": {
+                "singular": "Basé sur {ratingcount} évaluations."
+            },
+            "hr": {
+                "singular": "Broj ocjena: {ratingcount}."
+            },
+            "it": {
+                "singular": "Basato su {ratingcount} valutazioni."
+            },
+            "it-CH": {
+                "singular": "Basato su {ratingcount} valutazioni."
+            },
+            "it-IT": {
+                "singular": "Basato su {ratingcount} valutazioni."
+            },
+            "nl": {
+                "singular": "Based on {ratingcount} ratings."
+            },
+            "nl-BE": {
+                "singular": "Op basis van {ratingcount} beoordelingen."
+            },
+            "nl-NL": {
+                "singular": "Gebaseerd op {ratingcount} beoordelingen."
+            },
+            "no": {
+                "singular": "Basert på {ratingcount} vurderinger."
+            },
+            "pl": {
+                "singular": "Oparte na {ratingcount} ocenach."
+            },
+            "pt": {
+                "singular": "Com base em {ratingcount} classificações."
+            },
+            "ru": {
+                "singular": "Основано на {ratingcount} оценках."
+            },
+            "sv": {
+                "singular": "Baserat på {ratingcount} betyg."
+            }
+        }
+    }
+}
