@@ -1,0 +1,1353 @@
+{
+    "id": "",
+    "name": "",
+    "path": "redirects/www.interhome.se",
+    "folder": "",
+    "full_slug": "",
+    "slug": "",
+    "locale": "",
+    "suffix": "",
+    "mime": "",
+    "type": "Redirects",
+    "content": {
+        "domain": "www.interhome.se",
+        "redirects": [
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/switzerland/ticino/calonico-faido",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/switzerland/ticino/calonico/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/favorites",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/favourites",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/about-us/company-profile",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/company-profile/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/casa",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/luxury-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/france/pyrenees-orientales/llauro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/france/pyrenees-orientales/torderes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/ski-holiday",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/winter-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/skiopening",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/collection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/collection/?partnerid=SE1000101",
+                            "targettokens": [
+                                "partnerid=SE1000101"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/bankkort",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/bankkort/?partnerid=SE1000332",
+                            "targettokens": [
+                                "partnerid=SE1000332"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/behandling-av-personuppgifter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundservice/behandling-av-personuppgifter/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/about-us/sustainability",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/villa-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/villa-with-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/insurances/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/important-notes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/family-kids",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/family/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/france/cote-d-azur/agay",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundservice/bokningsvillkor/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/hallbarhet",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/om-interhome/hallbarhet/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/destinationer/hus-laegenhet-italien",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/italien/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/terms-conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/conditions/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/sherlockholmes",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/swisspeakresorts/?partnerid=CH1001911",
+                            "targettokens": [
+                                "partnerid=CH1001911"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/platinum",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/platinum/?partnerid=SE1000101",
+                            "targettokens": [
+                                "partnerid=SE1000101"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/frankrike/franska-rivieran/agay",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankrike/franska-rivieran/agay-saint-raphael/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/lastminute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/sista-minuten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/last-minute-holiday-rentals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/search/searchresult.aspx",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/motor",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=SE1000035",
+                            "targettokens": [
+                                "partnerid=SE1000035"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/imprint/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/terms-of-use",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/group-accommodation",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/for-groups/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/semestertips/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/at-the-beach",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/beach-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/allkort",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=SE1000099",
+                            "targettokens": [
+                                "partnerid=SE1000099"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/partner",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/faqs",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/faq/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/winter",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/winter-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/pages/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/my-choice",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/favorites/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/with-pool",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/villa-with-pool/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/pages/hoestresor",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/semestertips/hoestresor/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/switzerland/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/switzerland/mittelbuenden/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/ski-children-families",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/family-friendly/skiing-snowboarding/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/special-offers",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/any-special-offer/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/schweiz/mittelbuenden/lain-muldain-zorten-lenzerheide",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/schweiz/mittelbuenden/lain-zorten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/kundservice/cookies",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundservice/behandling-av-personuppgifter/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/dnb",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/se-dnb/?partnerid=SE1000375",
+                            "targettokens": [
+                                "partnerid=SE1000375"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/on-piste",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/near-slopes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/kundservice/travel-insurance/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/early-booking-discount",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/early-bird-deals/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/all-destinations",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/ecster",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/ecster/?partnerid=SE1000417",
+                            "targettokens": [
+                                "partnerid=SE1000417"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/visainfinite",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=SE1000100",
+                            "targettokens": [
+                                "partnerid=SE1000100"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/circlekmasterno",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/no-circlekmaster/?partnerID=NO1000087",
+                            "targettokens": [
+                                "partnerID=NO1000087"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/aboutus/sustainability-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/travel-insurance",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/travel-insurance/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/om-interhome/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/norway/southern-fjord-norway",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/norway/fjord-norway",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/conditions",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/conditions/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/exklusivt-och-lyxigt",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/semestertips/casa-selection/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/about-us",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/offer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/partners",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://partners.interhome.group/portal",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/frankrike/pyrenees-orientales/llauro",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankrike/pyrenees-orientales/torderes/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/data-protection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/customer-service/privacy-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/last-minute/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/customer-service/imprint",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/imprint/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/sommar",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/semestertips/sommar-semester/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/last-minute",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/semestertips/sista-minuten/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/skiset",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/travel-extras/skiset/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/nordeaprivate",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/se-nordeaprivate/?partnerID=SE1000247",
+                            "targettokens": [
+                                "partnerID=SE1000247"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/summer",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/summer-holiday/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/om-interhome/hallbarhet-old",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/om-interhome/hallbarhet/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/destinationer/hus-laegenhet-frankrike",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/frankrike/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/pages/autumn",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/autumn-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/family",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/family/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/travel-ideas/new-year-eve",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/holiday-ideas/public-holidays/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/semestertips/solsemester",
+                    "querymaps": [
+                        {
+                            "query": [
+                                "partnerid=SE0470051"
+                            ],
+                            "target": "/semestertips/strandsemester/?partnerid=SE0470051",
+                            "targettokens": [
+                                "partnerid=SE0470051"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/circlekmasterse",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/se-statoilmastersese/?partnerID=SE1000316",
+                            "targettokens": [
+                                "partnerID=SE1000316"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/important-notes/review-policy",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/customer-service/review-policy/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/challenge",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "https://wiki.hotelplan.com/display/IHIHMAR/Challenge",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/about-us/safety-in-your-holiday-home",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/aboutus/safety-in-your-holiday-home/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/swisspeakresorts",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/sustainability",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/en/aboutus/sustainability/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/selection",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/?partnerid=SE1000100",
+                            "targettokens": [
+                                "partnerid=SE1000100"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/nordeagold",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/nordeagold/?partnerID=SE1000019",
+                            "targettokens": [
+                                "partnerID=SE1000019"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/okq8",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/pages/se-okq8/?partnerID=SE1000306",
+                            "targettokens": [
+                                "partnerID=SE1000306"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/holiday-with-dog",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/holiday-ideas/pets/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/Øresundsbron",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/tyskland/?partnerid=SE1000072",
+                            "targettokens": [
+                                "partnerid=SE1000072"
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "domain": "www.interhome.se",
+                "matchdef": {
+                    "domainpath": "/en/holiday-ideas/chalet-ski-cottage",
+                    "querymaps": [
+                        {
+                            "query": null,
+                            "target": "/chalet/",
+                            "targettokens": []
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
