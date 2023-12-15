@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.onRequest.send",
+    "name": "send",
+    "path": "text-resources/booking/onRequest/send",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/send",
+    "slug": "send",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "send"
+    ],
     "content": {
         "key": "booking.onRequest.send",
         "pluralization": 0,

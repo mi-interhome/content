@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.download",
+    "name": "download",
+    "path": "text-resources/webccSalesportal/payments/download",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/download",
+    "slug": "download",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "download"
+    ],
     "content": {
         "key": "webccSalesportal.payments.download",
         "pluralization": 0,

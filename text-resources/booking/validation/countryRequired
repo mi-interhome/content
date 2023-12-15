@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.countryRequired",
+    "name": "countryRequired",
+    "path": "text-resources/booking/validation/countryRequired",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/countryRequired",
+    "slug": "countryRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "countryRequired"
+    ],
     "content": {
         "key": "booking.validation.countryRequired",
         "pluralization": 0,

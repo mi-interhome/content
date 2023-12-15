@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.expiry_date",
+    "name": "expiry_date",
+    "path": "text-resources/webccSalesportal/reservationdetail/expiry_date",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/expiry_date",
+    "slug": "expiry_date",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "expiry_date"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.expiry_date",
         "pluralization": 0,

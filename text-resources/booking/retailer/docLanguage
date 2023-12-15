@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.retailer.docLanguage",
+    "name": "docLanguage",
+    "path": "text-resources/booking/retailer/docLanguage",
+    "folder": "text-resources",
+    "full_slug": "booking/retailer/docLanguage",
+    "slug": "docLanguage",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "retailer",
+        "docLanguage"
+    ],
     "content": {
         "key": "booking.retailer.docLanguage",
         "pluralization": 0,

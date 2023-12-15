@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.why.title",
+    "name": "title",
+    "path": "text-resources/reservations/why/title",
+    "folder": "text-resources",
+    "full_slug": "reservations/why/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "why",
+        "title"
+    ],
     "content": {
         "key": "reservations.why.title",
         "pluralization": 0,

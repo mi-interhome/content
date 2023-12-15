@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.modify",
+    "name": "modify",
+    "path": "text-resources/booking/infoCustomer/modify",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/modify",
+    "slug": "modify",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "modify"
+    ],
     "content": {
         "key": "booking.infoCustomer.modify",
         "pluralization": 0,

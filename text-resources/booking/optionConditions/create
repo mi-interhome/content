@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.optionConditions.create",
+    "name": "create",
+    "path": "text-resources/booking/optionConditions/create",
+    "folder": "text-resources",
+    "full_slug": "booking/optionConditions/create",
+    "slug": "create",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "optionConditions",
+        "create"
+    ],
     "content": {
         "key": "booking.optionConditions.create",
         "pluralization": 0,

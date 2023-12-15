@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.home.your_office",
+    "name": "your_office",
+    "path": "text-resources/webccSalesportal/home/your_office",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/home/your_office",
+    "slug": "your_office",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "home",
+        "your_office"
+    ],
     "content": {
         "key": "webccSalesportal.home.your_office",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.banners",
+    "name": "banners",
+    "path": "text-resources/webccSalesportal/header/banners",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/banners",
+    "slug": "banners",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "banners"
+    ],
     "content": {
         "key": "webccSalesportal.header.banners",
         "pluralization": 0,

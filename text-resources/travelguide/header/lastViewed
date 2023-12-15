@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.header.lastViewed",
+    "name": "lastViewed",
+    "path": "text-resources/travelguide/header/lastViewed",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/lastViewed",
+    "slug": "lastViewed",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "lastViewed"
+    ],
     "content": {
         "key": "travelguide.header.lastViewed",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.datepicker.choose_departure",
+    "name": "choose_departure",
+    "path": "text-resources/components/datepicker/choose_departure",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/choose_departure",
+    "slug": "choose_departure",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "choose_departure"
+    ],
     "content": {
         "key": "components.datepicker.choose_departure",
         "pluralization": 0,

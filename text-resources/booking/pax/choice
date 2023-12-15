@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.pax.choice",
+    "name": "choice",
+    "path": "text-resources/booking/pax/choice",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/choice",
+    "slug": "choice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "choice"
+    ],
     "content": {
         "key": "booking.pax.choice",
         "pluralization": 0,

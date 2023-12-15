@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.reset",
+    "name": "reset",
+    "path": "text-resources/webccSalesportal/login/reset",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/reset",
+    "slug": "reset",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "reset"
+    ],
     "content": {
         "key": "webccSalesportal.login.reset",
         "pluralization": 0,

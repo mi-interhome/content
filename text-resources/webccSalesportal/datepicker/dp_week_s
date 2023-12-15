@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.datepicker.dp_week_s",
+    "name": "dp_week_s",
+    "path": "text-resources/webccSalesportal/datepicker/dp_week_s",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/dp_week_s",
+    "slug": "dp_week_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "dp_week_s"
+    ],
     "content": {
         "key": "webccSalesportal.datepicker.dp_week_s",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.price.occupancy_s",
+    "name": "occupancy_s",
+    "path": "text-resources/booking/price/occupancy_s",
+    "folder": "text-resources",
+    "full_slug": "booking/price/occupancy_s",
+    "slug": "occupancy_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "price",
+        "occupancy_s"
+    ],
     "content": {
         "key": "booking.price.occupancy_s",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.paymentLink",
+    "name": "paymentLink",
+    "path": "text-resources/webccSalesportal/reservationoverview/paymentLink",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/paymentLink",
+    "slug": "paymentLink",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "paymentLink"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.paymentLink",
         "pluralization": 0,

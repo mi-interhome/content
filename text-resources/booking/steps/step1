@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.steps.step1",
+    "name": "step1",
+    "path": "text-resources/booking/steps/step1",
+    "folder": "text-resources",
+    "full_slug": "booking/steps/step1",
+    "slug": "step1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "steps",
+        "step1"
+    ],
     "content": {
         "key": "booking.steps.step1",
         "pluralization": 0,

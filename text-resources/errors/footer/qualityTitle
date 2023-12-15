@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.qualityTitle",
+    "name": "qualityTitle",
+    "path": "text-resources/errors/footer/qualityTitle",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/qualityTitle",
+    "slug": "qualityTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "qualityTitle"
+    ],
     "content": {
         "key": "errors.footer.qualityTitle",
         "pluralization": 0,

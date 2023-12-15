@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.manage_reservations",
+    "name": "manage_reservations",
+    "path": "text-resources/webccSalesportal/reservationoverview/manage_reservations",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/manage_reservations",
+    "slug": "manage_reservations",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "manage_reservations"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.manage_reservations",
         "pluralization": 0,

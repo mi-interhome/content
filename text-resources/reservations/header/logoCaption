@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.header.logoCaption",
+    "name": "logoCaption",
+    "path": "text-resources/reservations/header/logoCaption",
+    "folder": "text-resources",
+    "full_slug": "reservations/header/logoCaption",
+    "slug": "logoCaption",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "header",
+        "logoCaption"
+    ],
     "content": {
         "key": "reservations.header.logoCaption",
         "pluralization": 0,

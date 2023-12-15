@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.header.phoneAvailability",
+    "name": "phoneAvailability",
+    "path": "text-resources/reservations/header/phoneAvailability",
+    "folder": "text-resources",
+    "full_slug": "reservations/header/phoneAvailability",
+    "slug": "phoneAvailability",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "header",
+        "phoneAvailability"
+    ],
     "content": {
         "key": "reservations.header.phoneAvailability",
         "pluralization": 0,

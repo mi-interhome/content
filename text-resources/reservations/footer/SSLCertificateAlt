@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.footer.SSLCertificateAlt",
+    "name": "SSLCertificateAlt",
+    "path": "text-resources/reservations/footer/SSLCertificateAlt",
+    "folder": "text-resources",
+    "full_slug": "reservations/footer/SSLCertificateAlt",
+    "slug": "SSLCertificateAlt",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "footer",
+        "SSLCertificateAlt"
+    ],
     "content": {
         "key": "reservations.footer.SSLCertificateAlt",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.footer.qualityCheckAlt",
+    "name": "qualityCheckAlt",
+    "path": "text-resources/reservations/footer/qualityCheckAlt",
+    "folder": "text-resources",
+    "full_slug": "reservations/footer/qualityCheckAlt",
+    "slug": "qualityCheckAlt",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "footer",
+        "qualityCheckAlt"
+    ],
     "content": {
         "key": "reservations.footer.qualityCheckAlt",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.nav_booking_reports",
+    "name": "nav_booking_reports",
+    "path": "text-resources/webccSalesportal/header/nav_booking_reports",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/nav_booking_reports",
+    "slug": "nav_booking_reports",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "nav_booking_reports"
+    ],
     "content": {
         "key": "webccSalesportal.header.nav_booking_reports",
         "pluralization": 0,

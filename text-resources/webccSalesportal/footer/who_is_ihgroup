@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.who_is_ihgroup",
+    "name": "who_is_ihgroup",
+    "path": "text-resources/webccSalesportal/footer/who_is_ihgroup",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/who_is_ihgroup",
+    "slug": "who_is_ihgroup",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "who_is_ihgroup"
+    ],
     "content": {
         "key": "webccSalesportal.footer.who_is_ihgroup",
         "pluralization": 0,

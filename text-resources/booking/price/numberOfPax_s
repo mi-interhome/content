@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.price.numberOfPax_s",
+    "name": "numberOfPax_s",
+    "path": "text-resources/booking/price/numberOfPax_s",
+    "folder": "text-resources",
+    "full_slug": "booking/price/numberOfPax_s",
+    "slug": "numberOfPax_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "price",
+        "numberOfPax_s"
+    ],
     "content": {
         "key": "booking.price.numberOfPax_s",
         "pluralization": 0,

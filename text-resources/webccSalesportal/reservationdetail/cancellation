@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.cancellation",
+    "name": "cancellation",
+    "path": "text-resources/webccSalesportal/reservationdetail/cancellation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/cancellation",
+    "slug": "cancellation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "cancellation"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.cancellation",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_comission",
+    "name": "ih_cms_affiliates_booking_comission",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_cms_affiliates_booking_comission",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_comission",
+    "slug": "ih_cms_affiliates_booking_comission",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_comission"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_comission",
         "pluralization": 0,

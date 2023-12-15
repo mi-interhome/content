@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.changepassword.sent",
+    "name": "sent",
+    "path": "text-resources/webccSalesportal/changepassword/sent",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/changepassword/sent",
+    "slug": "sent",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "changepassword",
+        "sent"
+    ],
     "content": {
         "key": "webccSalesportal.changepassword.sent",
         "pluralization": 0,

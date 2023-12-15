@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.nav_make_booking",
+    "name": "nav_make_booking",
+    "path": "text-resources/webccSalesportal/header/nav_make_booking",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/nav_make_booking",
+    "slug": "nav_make_booking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "nav_make_booking"
+    ],
     "content": {
         "key": "webccSalesportal.header.nav_make_booking",
         "pluralization": 0,

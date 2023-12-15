@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.total",
+    "name": "total",
+    "path": "text-resources/webccSalesportal/reservationoverview/total",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/total",
+    "slug": "total",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "total"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.total",
         "pluralization": 0,

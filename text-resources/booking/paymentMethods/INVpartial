@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.paymentMethods.INVpartial",
+    "name": "INVpartial",
+    "path": "text-resources/booking/paymentMethods/INVpartial",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/INVpartial",
+    "slug": "INVpartial",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "INVpartial"
+    ],
     "content": {
         "key": "booking.paymentMethods.INVpartial",
         "pluralization": 0,

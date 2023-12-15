@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.privacyPolicy.pleaseAccept",
+    "name": "pleaseAccept",
+    "path": "text-resources/booking/privacyPolicy/pleaseAccept",
+    "folder": "text-resources",
+    "full_slug": "booking/privacyPolicy/pleaseAccept",
+    "slug": "pleaseAccept",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "privacyPolicy",
+        "pleaseAccept"
+    ],
     "content": {
         "key": "booking.privacyPolicy.pleaseAccept",
         "pluralization": 0,

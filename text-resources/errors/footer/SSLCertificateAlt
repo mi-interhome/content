@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.SSLCertificateAlt",
+    "name": "SSLCertificateAlt",
+    "path": "text-resources/errors/footer/SSLCertificateAlt",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/SSLCertificateAlt",
+    "slug": "SSLCertificateAlt",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "SSLCertificateAlt"
+    ],
     "content": {
         "key": "errors.footer.SSLCertificateAlt",
         "pluralization": 0,

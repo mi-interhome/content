@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.footer.securityText",
+    "name": "securityText",
+    "path": "text-resources/reservations/footer/securityText",
+    "folder": "text-resources",
+    "full_slug": "reservations/footer/securityText",
+    "slug": "securityText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "footer",
+        "securityText"
+    ],
     "content": {
         "key": "reservations.footer.securityText",
         "pluralization": 0,

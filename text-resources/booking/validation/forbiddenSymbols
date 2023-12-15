@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.forbiddenSymbols",
+    "name": "forbiddenSymbols",
+    "path": "text-resources/booking/validation/forbiddenSymbols",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/forbiddenSymbols",
+    "slug": "forbiddenSymbols",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "forbiddenSymbols"
+    ],
     "content": {
         "key": "booking.validation.forbiddenSymbols",
         "pluralization": 0,

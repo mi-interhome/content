@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.optionConditions.XX",
+    "name": "XX",
+    "path": "text-resources/booking/optionConditions/XX",
+    "folder": "text-resources",
+    "full_slug": "booking/optionConditions/XX",
+    "slug": "XX",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "optionConditions",
+        "XX"
+    ],
     "content": {
         "key": "booking.optionConditions.XX",
         "pluralization": 0,

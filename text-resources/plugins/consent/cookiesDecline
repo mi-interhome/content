@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.consent.cookiesDecline",
+    "name": "cookiesDecline",
+    "path": "text-resources/plugins/consent/cookiesDecline",
+    "folder": "text-resources",
+    "full_slug": "plugins/consent/cookiesDecline",
+    "slug": "cookiesDecline",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "consent",
+        "cookiesDecline"
+    ],
     "content": {
         "key": "plugins.consent.cookiesDecline",
         "pluralization": 0,

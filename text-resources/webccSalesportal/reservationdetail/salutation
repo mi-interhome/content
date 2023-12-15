@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.salutation",
+    "name": "salutation",
+    "path": "text-resources/webccSalesportal/reservationdetail/salutation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/salutation",
+    "slug": "salutation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "salutation"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.salutation",
         "pluralization": 0,

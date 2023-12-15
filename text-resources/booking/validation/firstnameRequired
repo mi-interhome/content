@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.firstnameRequired",
+    "name": "firstnameRequired",
+    "path": "text-resources/booking/validation/firstnameRequired",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/firstnameRequired",
+    "slug": "firstnameRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "firstnameRequired"
+    ],
     "content": {
         "key": "booking.validation.firstnameRequired",
         "pluralization": 0,

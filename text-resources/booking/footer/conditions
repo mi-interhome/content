@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.conditions",
+    "name": "conditions",
+    "path": "text-resources/booking/footer/conditions",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/conditions",
+    "slug": "conditions",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "conditions"
+    ],
     "content": {
         "key": "booking.footer.conditions",
         "pluralization": 0,

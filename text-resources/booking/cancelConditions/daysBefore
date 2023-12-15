@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.cancelConditions.daysBefore",
+    "name": "daysBefore",
+    "path": "text-resources/booking/cancelConditions/daysBefore",
+    "folder": "text-resources",
+    "full_slug": "booking/cancelConditions/daysBefore",
+    "slug": "daysBefore",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "cancelConditions",
+        "daysBefore"
+    ],
     "content": {
         "key": "booking.cancelConditions.daysBefore",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.request",
+    "name": "request",
+    "path": "text-resources/booking/customer/request",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/request",
+    "slug": "request",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "request"
+    ],
     "content": {
         "key": "booking.customer.request",
         "pluralization": 0,

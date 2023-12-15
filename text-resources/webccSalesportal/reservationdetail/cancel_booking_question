@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.cancel_booking_question",
+    "name": "cancel_booking_question",
+    "path": "text-resources/webccSalesportal/reservationdetail/cancel_booking_question",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/cancel_booking_question",
+    "slug": "cancel_booking_question",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "cancel_booking_question"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.cancel_booking_question",
         "pluralization": 0,

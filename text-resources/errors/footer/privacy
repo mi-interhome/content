@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.privacy",
+    "name": "privacy",
+    "path": "text-resources/errors/footer/privacy",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/privacy",
+    "slug": "privacy",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "privacy"
+    ],
     "content": {
         "key": "errors.footer.privacy",
         "pluralization": 0,

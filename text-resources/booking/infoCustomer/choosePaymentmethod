@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.choosePaymentmethod",
+    "name": "choosePaymentmethod",
+    "path": "text-resources/booking/infoCustomer/choosePaymentmethod",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/choosePaymentmethod",
+    "slug": "choosePaymentmethod",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "choosePaymentmethod"
+    ],
     "content": {
         "key": "booking.infoCustomer.choosePaymentmethod",
         "pluralization": 0,

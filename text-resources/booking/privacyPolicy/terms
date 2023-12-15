@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.privacyPolicy.terms",
+    "name": "terms",
+    "path": "text-resources/booking/privacyPolicy/terms",
+    "folder": "text-resources",
+    "full_slug": "booking/privacyPolicy/terms",
+    "slug": "terms",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "privacyPolicy",
+        "terms"
+    ],
     "content": {
         "key": "booking.privacyPolicy.terms",
         "pluralization": 0,

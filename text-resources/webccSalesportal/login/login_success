@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.login_success",
+    "name": "login_success",
+    "path": "text-resources/webccSalesportal/login/login_success",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/login_success",
+    "slug": "login_success",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "login_success"
+    ],
     "content": {
         "key": "webccSalesportal.login.login_success",
         "pluralization": 0,

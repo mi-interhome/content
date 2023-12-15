@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.nav_banner_generator",
+    "name": "nav_banner_generator",
+    "path": "text-resources/webccSalesportal/header/nav_banner_generator",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/nav_banner_generator",
+    "slug": "nav_banner_generator",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "nav_banner_generator"
+    ],
     "content": {
         "key": "webccSalesportal.header.nav_banner_generator",
         "pluralization": 0,

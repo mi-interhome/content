@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.address_field_street",
+    "name": "address_field_street",
+    "path": "text-resources/webccSalesportal/reservationdetail/address_field_street",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/address_field_street",
+    "slug": "address_field_street",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "address_field_street"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.address_field_street",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.securityText",
+    "name": "securityText",
+    "path": "text-resources/booking/footer/securityText",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/securityText",
+    "slug": "securityText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "securityText"
+    ],
     "content": {
         "key": "booking.footer.securityText",
         "pluralization": 0,

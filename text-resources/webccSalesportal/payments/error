@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.error",
+    "name": "error",
+    "path": "text-resources/webccSalesportal/payments/error",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "error"
+    ],
     "content": {
         "key": "webccSalesportal.payments.error",
         "pluralization": 0,

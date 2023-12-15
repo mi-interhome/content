@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.messages.invalidToken",
+    "name": "invalidToken",
+    "path": "text-resources/errors/messages/invalidToken",
+    "folder": "text-resources",
+    "full_slug": "errors/messages/invalidToken",
+    "slug": "invalidToken",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "messages",
+        "invalidToken"
+    ],
     "content": {
         "key": "errors.messages.invalidToken",
         "pluralization": 0,

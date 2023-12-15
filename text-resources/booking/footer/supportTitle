@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.supportTitle",
+    "name": "supportTitle",
+    "path": "text-resources/booking/footer/supportTitle",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/supportTitle",
+    "slug": "supportTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "supportTitle"
+    ],
     "content": {
         "key": "booking.footer.supportTitle",
         "pluralization": 0,

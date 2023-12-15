@@ -1,14 +1,18 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.title",
+    "name": "title",
+    "path": "text-resources/errors/title",
+    "folder": "text-resources",
+    "full_slug": "errors/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "title"
+    ],
     "content": {
         "key": "errors.title",
         "pluralization": 0,

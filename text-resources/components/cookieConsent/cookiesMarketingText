@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.cookieConsent.cookiesMarketingText",
+    "name": "cookiesMarketingText",
+    "path": "text-resources/components/cookieConsent/cookiesMarketingText",
+    "folder": "text-resources",
+    "full_slug": "components/cookieConsent/cookiesMarketingText",
+    "slug": "cookiesMarketingText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "cookieConsent",
+        "cookiesMarketingText"
+    ],
     "content": {
         "key": "components.cookieConsent.cookiesMarketingText",
         "pluralization": 0,

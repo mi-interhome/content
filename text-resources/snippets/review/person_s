@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "snippets.review.person_s",
+    "name": "person_s",
+    "path": "text-resources/snippets/review/person_s",
+    "folder": "text-resources",
+    "full_slug": "snippets/review/person_s",
+    "slug": "person_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "snippets",
+        "review",
+        "person_s"
+    ],
     "content": {
         "key": "snippets.review.person_s",
         "pluralization": 0,

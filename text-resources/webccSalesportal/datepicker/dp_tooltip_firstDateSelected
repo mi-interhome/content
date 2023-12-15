@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.datepicker.dp_tooltip_firstDateSelected",
+    "name": "dp_tooltip_firstDateSelected",
+    "path": "text-resources/webccSalesportal/datepicker/dp_tooltip_firstDateSelected",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/dp_tooltip_firstDateSelected",
+    "slug": "dp_tooltip_firstDateSelected",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "dp_tooltip_firstDateSelected"
+    ],
     "content": {
         "key": "webccSalesportal.datepicker.dp_tooltip_firstDateSelected",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.month",
+    "name": "month",
+    "path": "text-resources/webccSalesportal/payments/month",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/month",
+    "slug": "month",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "month"
+    ],
     "content": {
         "key": "webccSalesportal.payments.month",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.chatbot.minutes",
+    "name": "minutes",
+    "path": "text-resources/plugins/chatbot/minutes",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/minutes",
+    "slug": "minutes",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "minutes"
+    ],
     "content": {
         "key": "plugins.chatbot.minutes",
         "pluralization": 0,

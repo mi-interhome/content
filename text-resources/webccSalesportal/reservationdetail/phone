@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.phone",
+    "name": "phone",
+    "path": "text-resources/webccSalesportal/reservationdetail/phone",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/phone",
+    "slug": "phone",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "phone"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.phone",
         "pluralization": 0,

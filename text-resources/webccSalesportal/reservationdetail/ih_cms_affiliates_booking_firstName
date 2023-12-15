@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_firstName",
+    "name": "ih_cms_affiliates_booking_firstName",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_cms_affiliates_booking_firstName",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_firstName",
+    "slug": "ih_cms_affiliates_booking_firstName",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_firstName"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_firstName",
         "pluralization": 0,

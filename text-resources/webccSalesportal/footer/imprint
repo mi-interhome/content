@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.imprint",
+    "name": "imprint",
+    "path": "text-resources/webccSalesportal/footer/imprint",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/imprint",
+    "slug": "imprint",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "imprint"
+    ],
     "content": {
         "key": "webccSalesportal.footer.imprint",
         "pluralization": 0,

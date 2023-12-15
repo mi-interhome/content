@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.onRequest.ssl",
+    "name": "ssl",
+    "path": "text-resources/booking/onRequest/ssl",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/ssl",
+    "slug": "ssl",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "ssl"
+    ],
     "content": {
         "key": "booking.onRequest.ssl",
         "pluralization": 0,

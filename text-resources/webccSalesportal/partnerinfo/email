@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.partnerinfo.email",
+    "name": "email",
+    "path": "text-resources/webccSalesportal/partnerinfo/email",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/email",
+    "slug": "email",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "email"
+    ],
     "content": {
         "key": "webccSalesportal.partnerinfo.email",
         "pluralization": 0,

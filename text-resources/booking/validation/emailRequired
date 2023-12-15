@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.emailRequired",
+    "name": "emailRequired",
+    "path": "text-resources/booking/validation/emailRequired",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/emailRequired",
+    "slug": "emailRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "emailRequired"
+    ],
     "content": {
         "key": "booking.validation.emailRequired",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.searchbar.more_criteria",
+    "name": "more_criteria",
+    "path": "text-resources/components/searchbar/more_criteria",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/more_criteria",
+    "slug": "more_criteria",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "more_criteria"
+    ],
     "content": {
         "key": "components.searchbar.more_criteria",
         "pluralization": 0,

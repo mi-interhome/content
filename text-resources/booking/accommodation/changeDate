@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.accommodation.changeDate",
+    "name": "changeDate",
+    "path": "text-resources/booking/accommodation/changeDate",
+    "folder": "text-resources",
+    "full_slug": "booking/accommodation/changeDate",
+    "slug": "changeDate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "accommodation",
+        "changeDate"
+    ],
     "content": {
         "key": "booking.accommodation.changeDate",
         "pluralization": 0,

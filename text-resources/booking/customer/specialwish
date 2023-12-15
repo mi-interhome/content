@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.specialwish",
+    "name": "specialwish",
+    "path": "text-resources/booking/customer/specialwish",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/specialwish",
+    "slug": "specialwish",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "specialwish"
+    ],
     "content": {
         "key": "booking.customer.specialwish",
         "pluralization": 0,

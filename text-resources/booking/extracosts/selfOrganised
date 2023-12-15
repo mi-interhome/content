@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.extracosts.selfOrganised",
+    "name": "selfOrganised",
+    "path": "text-resources/booking/extracosts/selfOrganised",
+    "folder": "text-resources",
+    "full_slug": "booking/extracosts/selfOrganised",
+    "slug": "selfOrganised",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "extracosts",
+        "selfOrganised"
+    ],
     "content": {
         "key": "booking.extracosts.selfOrganised",
         "pluralization": 0,

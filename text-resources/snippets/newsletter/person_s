@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "snippets.newsletter.person_s",
+    "name": "person_s",
+    "path": "text-resources/snippets/newsletter/person_s",
+    "folder": "text-resources",
+    "full_slug": "snippets/newsletter/person_s",
+    "slug": "person_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "snippets",
+        "newsletter",
+        "person_s"
+    ],
     "content": {
         "key": "snippets.newsletter.person_s",
         "pluralization": 0,

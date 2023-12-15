@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.header.faq",
+    "name": "faq",
+    "path": "text-resources/travelguide/header/faq",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/faq",
+    "slug": "faq",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "faq"
+    ],
     "content": {
         "key": "travelguide.header.faq",
         "pluralization": 0,

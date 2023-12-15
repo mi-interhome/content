@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.street",
+    "name": "street",
+    "path": "text-resources/booking/customer/street",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/street",
+    "slug": "street",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "street"
+    ],
     "content": {
         "key": "booking.customer.street",
         "pluralization": 0,

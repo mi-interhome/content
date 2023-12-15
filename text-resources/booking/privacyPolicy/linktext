@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.privacyPolicy.linktext",
+    "name": "linktext",
+    "path": "text-resources/booking/privacyPolicy/linktext",
+    "folder": "text-resources",
+    "full_slug": "booking/privacyPolicy/linktext",
+    "slug": "linktext",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "privacyPolicy",
+        "linktext"
+    ],
     "content": {
         "key": "booking.privacyPolicy.linktext",
         "pluralization": 0,

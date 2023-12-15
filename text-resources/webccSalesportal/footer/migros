@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.migros",
+    "name": "migros",
+    "path": "text-resources/webccSalesportal/footer/migros",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/migros",
+    "slug": "migros",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "migros"
+    ],
     "content": {
         "key": "webccSalesportal.footer.migros",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.footer.contactText24h",
+    "name": "contactText24h",
+    "path": "text-resources/travelguide/footer/contactText24h",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/contactText24h",
+    "slug": "contactText24h",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "contactText24h"
+    ],
     "content": {
         "key": "travelguide.footer.contactText24h",
         "pluralization": 0,

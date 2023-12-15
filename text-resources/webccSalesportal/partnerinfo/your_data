@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.partnerinfo.your_data",
+    "name": "your_data",
+    "path": "text-resources/webccSalesportal/partnerinfo/your_data",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/your_data",
+    "slug": "your_data",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "your_data"
+    ],
     "content": {
         "key": "webccSalesportal.partnerinfo.your_data",
         "pluralization": 0,

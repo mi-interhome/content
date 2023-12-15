@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.privacy_policy",
+    "name": "privacy_policy",
+    "path": "text-resources/webccSalesportal/footer/privacy_policy",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/privacy_policy",
+    "slug": "privacy_policy",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "privacy_policy"
+    ],
     "content": {
         "key": "webccSalesportal.footer.privacy_policy",
         "pluralization": 0,

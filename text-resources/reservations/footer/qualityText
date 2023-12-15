@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "reservations.footer.qualityText",
+    "name": "qualityText",
+    "path": "text-resources/reservations/footer/qualityText",
+    "folder": "text-resources",
+    "full_slug": "reservations/footer/qualityText",
+    "slug": "qualityText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "reservations",
+        "footer",
+        "qualityText"
+    ],
     "content": {
         "key": "reservations.footer.qualityText",
         "pluralization": 0,

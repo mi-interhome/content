@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.SSLCertificateAlt",
+    "name": "SSLCertificateAlt",
+    "path": "text-resources/booking/footer/SSLCertificateAlt",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/SSLCertificateAlt",
+    "slug": "SSLCertificateAlt",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "SSLCertificateAlt"
+    ],
     "content": {
         "key": "booking.footer.SSLCertificateAlt",
         "pluralization": 0,

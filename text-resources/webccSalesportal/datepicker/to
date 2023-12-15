@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.datepicker.to",
+    "name": "to",
+    "path": "text-resources/webccSalesportal/datepicker/to",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/to",
+    "slug": "to",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "to"
+    ],
     "content": {
         "key": "webccSalesportal.datepicker.to",
         "pluralization": 0,

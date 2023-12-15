@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.consent.cookiesInfotextBefore",
+    "name": "cookiesInfotextBefore",
+    "path": "text-resources/plugins/consent/cookiesInfotextBefore",
+    "folder": "text-resources",
+    "full_slug": "plugins/consent/cookiesInfotextBefore",
+    "slug": "cookiesInfotextBefore",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "consent",
+        "cookiesInfotextBefore"
+    ],
     "content": {
         "key": "plugins.consent.cookiesInfotextBefore",
         "pluralization": 0,

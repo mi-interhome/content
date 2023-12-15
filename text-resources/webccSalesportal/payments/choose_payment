@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.choose_payment",
+    "name": "choose_payment",
+    "path": "text-resources/webccSalesportal/payments/choose_payment",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/choose_payment",
+    "slug": "choose_payment",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "choose_payment"
+    ],
     "content": {
         "key": "webccSalesportal.payments.choose_payment",
         "pluralization": 0,

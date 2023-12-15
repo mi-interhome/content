@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.holidayContact",
+    "name": "holidayContact",
+    "path": "text-resources/booking/customer/holidayContact",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/holidayContact",
+    "slug": "holidayContact",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "holidayContact"
+    ],
     "content": {
         "key": "booking.customer.holidayContact",
         "pluralization": 0,

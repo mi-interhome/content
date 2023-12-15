@@ -1,14 +1,18 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.reload",
+    "name": "reload",
+    "path": "text-resources/errors/reload",
+    "folder": "text-resources",
+    "full_slug": "errors/reload",
+    "slug": "reload",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "reload"
+    ],
     "content": {
         "key": "errors.reload",
         "pluralization": 0,

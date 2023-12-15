@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.retailer.heading",
+    "name": "heading",
+    "path": "text-resources/booking/retailer/heading",
+    "folder": "text-resources",
+    "full_slug": "booking/retailer/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "retailer",
+        "heading"
+    ],
     "content": {
         "key": "booking.retailer.heading",
         "pluralization": 0,

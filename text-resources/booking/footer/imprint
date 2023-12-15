@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.imprint",
+    "name": "imprint",
+    "path": "text-resources/booking/footer/imprint",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/imprint",
+    "slug": "imprint",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "imprint"
+    ],
     "content": {
         "key": "booking.footer.imprint",
         "pluralization": 0,

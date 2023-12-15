@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.buttons.back",
+    "name": "back",
+    "path": "text-resources/booking/buttons/back",
+    "folder": "text-resources",
+    "full_slug": "booking/buttons/back",
+    "slug": "back",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "buttons",
+        "back"
+    ],
     "content": {
         "key": "booking.buttons.back",
         "pluralization": 0,

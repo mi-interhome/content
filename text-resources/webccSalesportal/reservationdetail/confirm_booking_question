@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.confirm_booking_question",
+    "name": "confirm_booking_question",
+    "path": "text-resources/webccSalesportal/reservationdetail/confirm_booking_question",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/confirm_booking_question",
+    "slug": "confirm_booking_question",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "confirm_booking_question"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.confirm_booking_question",
         "pluralization": 0,

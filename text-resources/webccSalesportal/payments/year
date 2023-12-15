@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.year",
+    "name": "year",
+    "path": "text-resources/webccSalesportal/payments/year",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/year",
+    "slug": "year",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "year"
+    ],
     "content": {
         "key": "webccSalesportal.payments.year",
         "pluralization": 0,

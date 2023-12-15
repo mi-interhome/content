@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.datepicker.dp_night_s",
+    "name": "dp_night_s",
+    "path": "text-resources/components/datepicker/dp_night_s",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/dp_night_s",
+    "slug": "dp_night_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "dp_night_s"
+    ],
     "content": {
         "key": "components.datepicker.dp_night_s",
         "pluralization": 0,

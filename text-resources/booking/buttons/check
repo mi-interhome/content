@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.buttons.check",
+    "name": "check",
+    "path": "text-resources/booking/buttons/check",
+    "folder": "text-resources",
+    "full_slug": "booking/buttons/check",
+    "slug": "check",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "buttons",
+        "check"
+    ],
     "content": {
         "key": "booking.buttons.check",
         "pluralization": 0,

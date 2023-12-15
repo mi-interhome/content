@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.reservation_details_header",
+    "name": "reservation_details_header",
+    "path": "text-resources/webccSalesportal/reservationdetail/reservation_details_header",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/reservation_details_header",
+    "slug": "reservation_details_header",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "reservation_details_header"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.reservation_details_header",
         "pluralization": 0,

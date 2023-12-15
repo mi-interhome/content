@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.header.favourites",
+    "name": "favourites",
+    "path": "text-resources/travelguide/header/favourites",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/favourites",
+    "slug": "favourites",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "favourites"
+    ],
     "content": {
         "key": "travelguide.header.favourites",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.maxlen80",
+    "name": "maxlen80",
+    "path": "text-resources/booking/validation/maxlen80",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/maxlen80",
+    "slug": "maxlen80",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "maxlen80"
+    ],
     "content": {
         "key": "booking.validation.maxlen80",
         "pluralization": 0,

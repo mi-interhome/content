@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.payment_date",
+    "name": "payment_date",
+    "path": "text-resources/webccSalesportal/payments/payment_date",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/payment_date",
+    "slug": "payment_date",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "payment_date"
+    ],
     "content": {
         "key": "webccSalesportal.payments.payment_date",
         "pluralization": 0,

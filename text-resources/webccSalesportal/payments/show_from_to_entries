@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.show_from_to_entries",
+    "name": "show_from_to_entries",
+    "path": "text-resources/webccSalesportal/payments/show_from_to_entries",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/show_from_to_entries",
+    "slug": "show_from_to_entries",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "show_from_to_entries"
+    ],
     "content": {
         "key": "webccSalesportal.payments.show_from_to_entries",
         "pluralization": 0,

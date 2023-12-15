@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.booking",
+    "name": "booking",
+    "path": "text-resources/webccSalesportal/reservationdetail/booking",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/booking",
+    "slug": "booking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "booking"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.booking",
         "pluralization": 0,

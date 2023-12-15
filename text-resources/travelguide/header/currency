@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.header.currency",
+    "name": "currency",
+    "path": "text-resources/travelguide/header/currency",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/currency",
+    "slug": "currency",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "currency"
+    ],
     "content": {
         "key": "travelguide.header.currency",
         "pluralization": 0,

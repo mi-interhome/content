@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.new_reservation",
+    "name": "new_reservation",
+    "path": "text-resources/webccSalesportal/reservationoverview/new_reservation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/new_reservation",
+    "slug": "new_reservation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "new_reservation"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.new_reservation",
         "pluralization": 0,

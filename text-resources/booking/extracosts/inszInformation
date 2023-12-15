@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.extracosts.inszInformation",
+    "name": "inszInformation",
+    "path": "text-resources/booking/extracosts/inszInformation",
+    "folder": "text-resources",
+    "full_slug": "booking/extracosts/inszInformation",
+    "slug": "inszInformation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "extracosts",
+        "inszInformation"
+    ],
     "content": {
         "key": "booking.extracosts.inszInformation",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.partner_id",
+    "name": "partner_id",
+    "path": "text-resources/webccSalesportal/header/partner_id",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/partner_id",
+    "slug": "partner_id",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "partner_id"
+    ],
     "content": {
         "key": "webccSalesportal.header.partner_id",
         "pluralization": 0,

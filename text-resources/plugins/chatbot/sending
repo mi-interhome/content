@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.chatbot.sending",
+    "name": "sending",
+    "path": "text-resources/plugins/chatbot/sending",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/sending",
+    "slug": "sending",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "sending"
+    ],
     "content": {
         "key": "plugins.chatbot.sending",
         "pluralization": 0,

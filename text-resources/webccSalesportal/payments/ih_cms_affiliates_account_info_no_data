@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.ih_cms_affiliates_account_info_no_data",
+    "name": "ih_cms_affiliates_account_info_no_data",
+    "path": "text-resources/webccSalesportal/payments/ih_cms_affiliates_account_info_no_data",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/ih_cms_affiliates_account_info_no_data",
+    "slug": "ih_cms_affiliates_account_info_no_data",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "ih_cms_affiliates_account_info_no_data"
+    ],
     "content": {
         "key": "webccSalesportal.payments.ih_cms_affiliates_account_info_no_data",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.copy_hhd_ag",
+    "name": "copy_hhd_ag",
+    "path": "text-resources/webccSalesportal/footer/copy_hhd_ag",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/copy_hhd_ag",
+    "slug": "copy_hhd_ag",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "copy_hhd_ag"
+    ],
     "content": {
         "key": "webccSalesportal.footer.copy_hhd_ag",
         "pluralization": 0,

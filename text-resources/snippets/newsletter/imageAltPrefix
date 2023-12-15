@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "snippets.newsletter.imageAltPrefix",
+    "name": "imageAltPrefix",
+    "path": "text-resources/snippets/newsletter/imageAltPrefix",
+    "folder": "text-resources",
+    "full_slug": "snippets/newsletter/imageAltPrefix",
+    "slug": "imageAltPrefix",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "snippets",
+        "newsletter",
+        "imageAltPrefix"
+    ],
     "content": {
         "key": "snippets.newsletter.imageAltPrefix",
         "pluralization": 0,

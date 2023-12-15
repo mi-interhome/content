@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.qualityText",
+    "name": "qualityText",
+    "path": "text-resources/booking/footer/qualityText",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/qualityText",
+    "slug": "qualityText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "qualityText"
+    ],
     "content": {
         "key": "booking.footer.qualityText",
         "pluralization": 0,

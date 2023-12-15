@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.registration.regards",
+    "name": "regards",
+    "path": "text-resources/webccSalesportal/registration/regards",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/registration/regards",
+    "slug": "regards",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "registration",
+        "regards"
+    ],
     "content": {
         "key": "webccSalesportal.registration.regards",
         "pluralization": 0,

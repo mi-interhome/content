@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.cancel_conditions_from_to",
+    "name": "cancel_conditions_from_to",
+    "path": "text-resources/webccSalesportal/reservationdetail/cancel_conditions_from_to",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/cancel_conditions_from_to",
+    "slug": "cancel_conditions_from_to",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "cancel_conditions_from_to"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.cancel_conditions_from_to",
         "pluralization": 0,

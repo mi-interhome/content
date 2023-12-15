@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.error.language_unavailable",
+    "name": "language_unavailable",
+    "path": "text-resources/webccSalesportal/error/language_unavailable",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/error/language_unavailable",
+    "slug": "language_unavailable",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "error",
+        "language_unavailable"
+    ],
     "content": {
         "key": "webccSalesportal.error.language_unavailable",
         "pluralization": 0,

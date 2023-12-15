@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.memberMigros",
+    "name": "memberMigros",
+    "path": "text-resources/errors/footer/memberMigros",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/memberMigros",
+    "slug": "memberMigros",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "memberMigros"
+    ],
     "content": {
         "key": "errors.footer.memberMigros",
         "pluralization": 0,

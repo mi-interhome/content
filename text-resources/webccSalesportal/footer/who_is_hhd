@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.who_is_hhd",
+    "name": "who_is_hhd",
+    "path": "text-resources/webccSalesportal/footer/who_is_hhd",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/who_is_hhd",
+    "slug": "who_is_hhd",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "who_is_hhd"
+    ],
     "content": {
         "key": "webccSalesportal.footer.who_is_hhd",
         "pluralization": 0,

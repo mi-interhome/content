@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.finalBooking",
+    "name": "finalBooking",
+    "path": "text-resources/booking/infoCustomer/finalBooking",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/finalBooking",
+    "slug": "finalBooking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "finalBooking"
+    ],
     "content": {
         "key": "booking.infoCustomer.finalBooking",
         "pluralization": 0,

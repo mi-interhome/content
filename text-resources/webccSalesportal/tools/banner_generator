@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.tools.banner_generator",
+    "name": "banner_generator",
+    "path": "text-resources/webccSalesportal/tools/banner_generator",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/tools/banner_generator",
+    "slug": "banner_generator",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "tools",
+        "banner_generator"
+    ],
     "content": {
         "key": "webccSalesportal.tools.banner_generator",
         "pluralization": 0,

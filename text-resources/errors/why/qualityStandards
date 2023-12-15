@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.why.qualityStandards",
+    "name": "qualityStandards",
+    "path": "text-resources/errors/why/qualityStandards",
+    "folder": "text-resources",
+    "full_slug": "errors/why/qualityStandards",
+    "slug": "qualityStandards",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "why",
+        "qualityStandards"
+    ],
     "content": {
         "key": "errors.why.qualityStandards",
         "pluralization": 0,

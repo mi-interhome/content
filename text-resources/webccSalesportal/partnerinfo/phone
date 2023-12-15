@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.partnerinfo.phone",
+    "name": "phone",
+    "path": "text-resources/webccSalesportal/partnerinfo/phone",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/phone",
+    "slug": "phone",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "phone"
+    ],
     "content": {
         "key": "webccSalesportal.partnerinfo.phone",
         "pluralization": 0,

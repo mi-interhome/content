@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.confirm",
+    "name": "confirm",
+    "path": "text-resources/webccSalesportal/reservationdetail/confirm",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/confirm",
+    "slug": "confirm",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "confirm"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.confirm",
         "pluralization": 0,

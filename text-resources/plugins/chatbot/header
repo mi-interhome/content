@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.chatbot.header",
+    "name": "header",
+    "path": "text-resources/plugins/chatbot/header",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/header",
+    "slug": "header",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "header"
+    ],
     "content": {
         "key": "plugins.chatbot.header",
         "pluralization": 0,

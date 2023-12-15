@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.datepicker.mostOnSaturday",
+    "name": "mostOnSaturday",
+    "path": "text-resources/webccSalesportal/datepicker/mostOnSaturday",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/mostOnSaturday",
+    "slug": "mostOnSaturday",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "mostOnSaturday"
+    ],
     "content": {
         "key": "webccSalesportal.datepicker.mostOnSaturday",
         "pluralization": 0,

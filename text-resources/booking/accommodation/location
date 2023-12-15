@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.accommodation.location",
+    "name": "location",
+    "path": "text-resources/booking/accommodation/location",
+    "folder": "text-resources",
+    "full_slug": "booking/accommodation/location",
+    "slug": "location",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "accommodation",
+        "location"
+    ],
     "content": {
         "key": "booking.accommodation.location",
         "pluralization": 0,

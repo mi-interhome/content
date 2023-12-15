@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.summary.childrenAgeRange",
+    "name": "childrenAgeRange",
+    "path": "text-resources/booking/summary/childrenAgeRange",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/childrenAgeRange",
+    "slug": "childrenAgeRange",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "childrenAgeRange"
+    ],
     "content": {
         "key": "booking.summary.childrenAgeRange",
         "pluralization": 0,

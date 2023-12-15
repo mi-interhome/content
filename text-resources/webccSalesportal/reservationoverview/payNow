@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.payNow",
+    "name": "payNow",
+    "path": "text-resources/webccSalesportal/reservationoverview/payNow",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/payNow",
+    "slug": "payNow",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "payNow"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.payNow",
         "pluralization": 0,

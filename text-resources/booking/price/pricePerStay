@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.price.pricePerStay",
+    "name": "pricePerStay",
+    "path": "text-resources/booking/price/pricePerStay",
+    "folder": "text-resources",
+    "full_slug": "booking/price/pricePerStay",
+    "slug": "pricePerStay",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "price",
+        "pricePerStay"
+    ],
     "content": {
         "key": "booking.price.pricePerStay",
         "pluralization": 0,

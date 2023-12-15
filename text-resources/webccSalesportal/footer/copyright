@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.copyright",
+    "name": "copyright",
+    "path": "text-resources/webccSalesportal/footer/copyright",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/copyright",
+    "slug": "copyright",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "copyright"
+    ],
     "content": {
         "key": "webccSalesportal.footer.copyright",
         "pluralization": 0,

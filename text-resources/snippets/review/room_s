@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "snippets.review.room_s",
+    "name": "room_s",
+    "path": "text-resources/snippets/review/room_s",
+    "folder": "text-resources",
+    "full_slug": "snippets/review/room_s",
+    "slug": "room_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "snippets",
+        "review",
+        "room_s"
+    ],
     "content": {
         "key": "snippets.review.room_s",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.ih_booking_cancel_days_before",
+    "name": "ih_booking_cancel_days_before",
+    "path": "text-resources/webccSalesportal/reservationdetail/ih_booking_cancel_days_before",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_booking_cancel_days_before",
+    "slug": "ih_booking_cancel_days_before",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_booking_cancel_days_before"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.ih_booking_cancel_days_before",
         "pluralization": 0,

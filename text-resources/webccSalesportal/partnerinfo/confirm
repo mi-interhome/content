@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.partnerinfo.confirm",
+    "name": "confirm",
+    "path": "text-resources/webccSalesportal/partnerinfo/confirm",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/confirm",
+    "slug": "confirm",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "confirm"
+    ],
     "content": {
         "key": "webccSalesportal.partnerinfo.confirm",
         "pluralization": 0,

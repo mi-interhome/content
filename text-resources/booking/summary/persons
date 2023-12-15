@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.summary.persons",
+    "name": "persons",
+    "path": "text-resources/booking/summary/persons",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/persons",
+    "slug": "persons",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "persons"
+    ],
     "content": {
         "key": "booking.summary.persons",
         "pluralization": 0,

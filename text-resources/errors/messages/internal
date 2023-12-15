@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.messages.internal",
+    "name": "internal",
+    "path": "text-resources/errors/messages/internal",
+    "folder": "text-resources",
+    "full_slug": "errors/messages/internal",
+    "slug": "internal",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "messages",
+        "internal"
+    ],
     "content": {
         "key": "errors.messages.internal",
         "pluralization": 0,

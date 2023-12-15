@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.footer.copyright",
+    "name": "copyright",
+    "path": "text-resources/travelguide/footer/copyright",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/copyright",
+    "slug": "copyright",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "copyright"
+    ],
     "content": {
         "key": "travelguide.footer.copyright",
         "pluralization": 0,

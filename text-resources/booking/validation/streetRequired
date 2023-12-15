@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.streetRequired",
+    "name": "streetRequired",
+    "path": "text-resources/booking/validation/streetRequired",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/streetRequired",
+    "slug": "streetRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "streetRequired"
+    ],
     "content": {
         "key": "booking.validation.streetRequired",
         "pluralization": 0,

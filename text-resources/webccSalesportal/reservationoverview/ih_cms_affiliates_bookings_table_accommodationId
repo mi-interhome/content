@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.ih_cms_affiliates_bookings_table_accommodationId",
+    "name": "ih_cms_affiliates_bookings_table_accommodationId",
+    "path": "text-resources/webccSalesportal/reservationoverview/ih_cms_affiliates_bookings_table_accommodationId",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/ih_cms_affiliates_bookings_table_accommodationId",
+    "slug": "ih_cms_affiliates_bookings_table_accommodationId",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "ih_cms_affiliates_bookings_table_accommodationId"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.ih_cms_affiliates_bookings_table_accommodationId",
         "pluralization": 0,

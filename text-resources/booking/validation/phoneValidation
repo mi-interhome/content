@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.phoneValidation",
+    "name": "phoneValidation",
+    "path": "text-resources/booking/validation/phoneValidation",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/phoneValidation",
+    "slug": "phoneValidation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "phoneValidation"
+    ],
     "content": {
         "key": "booking.validation.phoneValidation",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.buttons.checkB2B",
+    "name": "checkB2B",
+    "path": "text-resources/booking/buttons/checkB2B",
+    "folder": "text-resources",
+    "full_slug": "booking/buttons/checkB2B",
+    "slug": "checkB2B",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "buttons",
+        "checkB2B"
+    ],
     "content": {
         "key": "booking.buttons.checkB2B",
         "pluralization": 0,

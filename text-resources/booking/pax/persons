@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.pax.persons",
+    "name": "persons",
+    "path": "text-resources/booking/pax/persons",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/persons",
+    "slug": "persons",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "persons"
+    ],
     "content": {
         "key": "booking.pax.persons",
         "pluralization": 0,

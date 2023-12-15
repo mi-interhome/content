@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.nav_commission_payments",
+    "name": "nav_commission_payments",
+    "path": "text-resources/webccSalesportal/header/nav_commission_payments",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/nav_commission_payments",
+    "slug": "nav_commission_payments",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "nav_commission_payments"
+    ],
     "content": {
         "key": "webccSalesportal.header.nav_commission_payments",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.ih_cms_login_failed_invalid_partner_id_format",
+    "name": "ih_cms_login_failed_invalid_partner_id_format",
+    "path": "text-resources/webccSalesportal/login/ih_cms_login_failed_invalid_partner_id_format",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/ih_cms_login_failed_invalid_partner_id_format",
+    "slug": "ih_cms_login_failed_invalid_partner_id_format",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "ih_cms_login_failed_invalid_partner_id_format"
+    ],
     "content": {
         "key": "webccSalesportal.login.ih_cms_login_failed_invalid_partner_id_format",
         "pluralization": 0,

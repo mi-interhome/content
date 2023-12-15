@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.chatbot.now",
+    "name": "now",
+    "path": "text-resources/plugins/chatbot/now",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/now",
+    "slug": "now",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "now"
+    ],
     "content": {
         "key": "plugins.chatbot.now",
         "pluralization": 0,

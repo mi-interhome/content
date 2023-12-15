@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.phone",
+    "name": "phone",
+    "path": "text-resources/booking/infoCustomer/phone",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/phone",
+    "slug": "phone",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "phone"
+    ],
     "content": {
         "key": "booking.infoCustomer.phone",
         "pluralization": 0,

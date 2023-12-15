@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.salutation",
+    "name": "salutation",
+    "path": "text-resources/booking/customer/salutation",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/salutation",
+    "slug": "salutation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "salutation"
+    ],
     "content": {
         "key": "booking.customer.salutation",
         "pluralization": 0,

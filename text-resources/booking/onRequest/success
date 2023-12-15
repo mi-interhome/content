@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.onRequest.success",
+    "name": "success",
+    "path": "text-resources/booking/onRequest/success",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/success",
+    "slug": "success",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "success"
+    ],
     "content": {
         "key": "booking.onRequest.success",
         "pluralization": 0,

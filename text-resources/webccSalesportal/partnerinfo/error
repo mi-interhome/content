@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.partnerinfo.error",
+    "name": "error",
+    "path": "text-resources/webccSalesportal/partnerinfo/error",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "error"
+    ],
     "content": {
         "key": "webccSalesportal.partnerinfo.error",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.partnerinfo.request_change",
+    "name": "request_change",
+    "path": "text-resources/webccSalesportal/partnerinfo/request_change",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/request_change",
+    "slug": "request_change",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "request_change"
+    ],
     "content": {
         "key": "webccSalesportal.partnerinfo.request_change",
         "pluralization": 0,

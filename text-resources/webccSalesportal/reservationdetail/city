@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.city",
+    "name": "city",
+    "path": "text-resources/webccSalesportal/reservationdetail/city",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/city",
+    "slug": "city",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "city"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.city",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.accommodation.nights",
+    "name": "nights",
+    "path": "text-resources/booking/accommodation/nights",
+    "folder": "text-resources",
+    "full_slug": "booking/accommodation/nights",
+    "slug": "nights",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "accommodation",
+        "nights"
+    ],
     "content": {
         "key": "booking.accommodation.nights",
         "pluralization": 0,

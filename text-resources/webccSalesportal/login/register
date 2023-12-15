@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.register",
+    "name": "register",
+    "path": "text-resources/webccSalesportal/login/register",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/register",
+    "slug": "register",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "register"
+    ],
     "content": {
         "key": "webccSalesportal.login.register",
         "pluralization": 0,

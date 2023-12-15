@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.paymentMethods.required",
+    "name": "required",
+    "path": "text-resources/booking/paymentMethods/required",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/required",
+    "slug": "required",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "required"
+    ],
     "content": {
         "key": "booking.paymentMethods.required",
         "pluralization": 0,

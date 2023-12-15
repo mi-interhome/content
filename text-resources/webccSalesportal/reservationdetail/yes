@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.yes",
+    "name": "yes",
+    "path": "text-resources/webccSalesportal/reservationdetail/yes",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/yes",
+    "slug": "yes",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "yes"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.yes",
         "pluralization": 0,

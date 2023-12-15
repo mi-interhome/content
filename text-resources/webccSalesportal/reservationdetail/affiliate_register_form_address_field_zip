@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.affiliate_register_form_address_field_zip",
+    "name": "affiliate_register_form_address_field_zip",
+    "path": "text-resources/webccSalesportal/reservationdetail/affiliate_register_form_address_field_zip",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/affiliate_register_form_address_field_zip",
+    "slug": "affiliate_register_form_address_field_zip",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "affiliate_register_form_address_field_zip"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.affiliate_register_form_address_field_zip",
         "pluralization": 0,

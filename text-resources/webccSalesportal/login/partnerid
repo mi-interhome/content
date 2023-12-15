@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.partnerid",
+    "name": "partnerid",
+    "path": "text-resources/webccSalesportal/login/partnerid",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/partnerid",
+    "slug": "partnerid",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "partnerid"
+    ],
     "content": {
         "key": "webccSalesportal.login.partnerid",
         "pluralization": 0,

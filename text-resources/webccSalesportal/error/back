@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.error.back",
+    "name": "back",
+    "path": "text-resources/webccSalesportal/error/back",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/error/back",
+    "slug": "back",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "error",
+        "back"
+    ],
     "content": {
         "key": "webccSalesportal.error.back",
         "pluralization": 0,

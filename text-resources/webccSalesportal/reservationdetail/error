@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.error",
+    "name": "error",
+    "path": "text-resources/webccSalesportal/reservationdetail/error",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "error"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.error",
         "pluralization": 0,

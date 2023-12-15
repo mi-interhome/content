@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.newbooking.new_booking",
+    "name": "new_booking",
+    "path": "text-resources/webccSalesportal/newbooking/new_booking",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/newbooking/new_booking",
+    "slug": "new_booking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "newbooking",
+        "new_booking"
+    ],
     "content": {
         "key": "webccSalesportal.newbooking.new_booking",
         "pluralization": 0,

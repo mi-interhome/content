@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.onRequest.pageTitle",
+    "name": "pageTitle",
+    "path": "text-resources/booking/onRequest/pageTitle",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/pageTitle",
+    "slug": "pageTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "pageTitle"
+    ],
     "content": {
         "key": "booking.onRequest.pageTitle",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.email",
+    "name": "email",
+    "path": "text-resources/webccSalesportal/reservationdetail/email",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/email",
+    "slug": "email",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "email"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.email",
         "pluralization": 0,

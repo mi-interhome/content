@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.searchbar.quickSearch_placeholder",
+    "name": "quickSearch_placeholder",
+    "path": "text-resources/components/searchbar/quickSearch_placeholder",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/quickSearch_placeholder",
+    "slug": "quickSearch_placeholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "quickSearch_placeholder"
+    ],
     "content": {
         "key": "components.searchbar.quickSearch_placeholder",
         "pluralization": 0,

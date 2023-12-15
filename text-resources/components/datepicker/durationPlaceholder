@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.datepicker.durationPlaceholder",
+    "name": "durationPlaceholder",
+    "path": "text-resources/components/datepicker/durationPlaceholder",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/durationPlaceholder",
+    "slug": "durationPlaceholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "durationPlaceholder"
+    ],
     "content": {
         "key": "components.datepicker.durationPlaceholder",
         "pluralization": 0,

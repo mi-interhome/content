@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.nav_manage_bookings",
+    "name": "nav_manage_bookings",
+    "path": "text-resources/webccSalesportal/header/nav_manage_bookings",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/nav_manage_bookings",
+    "slug": "nav_manage_bookings",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "nav_manage_bookings"
+    ],
     "content": {
         "key": "webccSalesportal.header.nav_manage_bookings",
         "pluralization": 0,

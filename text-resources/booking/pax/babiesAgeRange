@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.pax.babiesAgeRange",
+    "name": "babiesAgeRange",
+    "path": "text-resources/booking/pax/babiesAgeRange",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/babiesAgeRange",
+    "slug": "babiesAgeRange",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "babiesAgeRange"
+    ],
     "content": {
         "key": "booking.pax.babiesAgeRange",
         "pluralization": 0,

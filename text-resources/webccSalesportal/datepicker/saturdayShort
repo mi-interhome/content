@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.datepicker.saturdayShort",
+    "name": "saturdayShort",
+    "path": "text-resources/webccSalesportal/datepicker/saturdayShort",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/saturdayShort",
+    "slug": "saturdayShort",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "saturdayShort"
+    ],
     "content": {
         "key": "webccSalesportal.datepicker.saturdayShort",
         "pluralization": 0,

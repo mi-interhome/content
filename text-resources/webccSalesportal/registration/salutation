@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.registration.salutation",
+    "name": "salutation",
+    "path": "text-resources/webccSalesportal/registration/salutation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/registration/salutation",
+    "slug": "salutation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "registration",
+        "salutation"
+    ],
     "content": {
         "key": "webccSalesportal.registration.salutation",
         "pluralization": 0,

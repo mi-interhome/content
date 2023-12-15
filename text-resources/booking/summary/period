@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.summary.period",
+    "name": "period",
+    "path": "text-resources/booking/summary/period",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/period",
+    "slug": "period",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "period"
+    ],
     "content": {
         "key": "booking.summary.period",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.choose_reservation",
+    "name": "choose_reservation",
+    "path": "text-resources/webccSalesportal/reservationoverview/choose_reservation",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/choose_reservation",
+    "slug": "choose_reservation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "choose_reservation"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.choose_reservation",
         "pluralization": 0,

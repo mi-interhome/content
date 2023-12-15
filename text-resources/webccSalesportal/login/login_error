@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.login_error",
+    "name": "login_error",
+    "path": "text-resources/webccSalesportal/login/login_error",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/login_error",
+    "slug": "login_error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "login_error"
+    ],
     "content": {
         "key": "webccSalesportal.login.login_error",
         "pluralization": 0,

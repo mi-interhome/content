@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.searchbar.where",
+    "name": "where",
+    "path": "text-resources/components/searchbar/where",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/where",
+    "slug": "where",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "where"
+    ],
     "content": {
         "key": "components.searchbar.where",
         "pluralization": 0,

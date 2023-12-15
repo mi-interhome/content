@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.onRequest.hotline",
+    "name": "hotline",
+    "path": "text-resources/booking/onRequest/hotline",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/hotline",
+    "slug": "hotline",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "hotline"
+    ],
     "content": {
         "key": "booking.onRequest.hotline",
         "pluralization": 0,

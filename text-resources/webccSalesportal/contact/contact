@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.contact.contact",
+    "name": "contact",
+    "path": "text-resources/webccSalesportal/contact/contact",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/contact/contact",
+    "slug": "contact",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "contact",
+        "contact"
+    ],
     "content": {
         "key": "webccSalesportal.contact.contact",
         "pluralization": 0,

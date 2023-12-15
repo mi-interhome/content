@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.header.logoCaption",
+    "name": "logoCaption",
+    "path": "text-resources/errors/header/logoCaption",
+    "folder": "text-resources",
+    "full_slug": "errors/header/logoCaption",
+    "slug": "logoCaption",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "header",
+        "logoCaption"
+    ],
     "content": {
         "key": "errors.header.logoCaption",
         "pluralization": 0,

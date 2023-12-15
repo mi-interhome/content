@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.extracosts.inPriceIncluded",
+    "name": "inPriceIncluded",
+    "path": "text-resources/booking/extracosts/inPriceIncluded",
+    "folder": "text-resources",
+    "full_slug": "booking/extracosts/inPriceIncluded",
+    "slug": "inPriceIncluded",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "extracosts",
+        "inPriceIncluded"
+    ],
     "content": {
         "key": "booking.extracosts.inPriceIncluded",
         "pluralization": 0,

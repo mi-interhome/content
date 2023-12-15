@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.zip",
+    "name": "zip",
+    "path": "text-resources/booking/customer/zip",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/zip",
+    "slug": "zip",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "zip"
+    ],
     "content": {
         "key": "booking.customer.zip",
         "pluralization": 0,

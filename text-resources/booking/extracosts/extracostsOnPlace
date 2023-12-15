@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.extracosts.extracostsOnPlace",
+    "name": "extracostsOnPlace",
+    "path": "text-resources/booking/extracosts/extracostsOnPlace",
+    "folder": "text-resources",
+    "full_slug": "booking/extracosts/extracostsOnPlace",
+    "slug": "extracostsOnPlace",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "extracosts",
+        "extracostsOnPlace"
+    ],
     "content": {
         "key": "booking.extracosts.extracostsOnPlace",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.self_organized_services",
+    "name": "self_organized_services",
+    "path": "text-resources/webccSalesportal/reservationdetail/self_organized_services",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/self_organized_services",
+    "slug": "self_organized_services",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "self_organized_services"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.self_organized_services",
         "pluralization": 0,

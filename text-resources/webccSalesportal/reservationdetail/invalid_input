@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.invalid_input",
+    "name": "invalid_input",
+    "path": "text-resources/webccSalesportal/reservationdetail/invalid_input",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/invalid_input",
+    "slug": "invalid_input",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "invalid_input"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.invalid_input",
         "pluralization": 0,

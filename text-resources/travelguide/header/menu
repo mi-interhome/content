@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.header.menu",
+    "name": "menu",
+    "path": "text-resources/travelguide/header/menu",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/menu",
+    "slug": "menu",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "menu"
+    ],
     "content": {
         "key": "travelguide.header.menu",
         "pluralization": 0,

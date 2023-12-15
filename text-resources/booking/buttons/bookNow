@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.buttons.bookNow",
+    "name": "bookNow",
+    "path": "text-resources/booking/buttons/bookNow",
+    "folder": "text-resources",
+    "full_slug": "booking/buttons/bookNow",
+    "slug": "bookNow",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "buttons",
+        "bookNow"
+    ],
     "content": {
         "key": "booking.buttons.bookNow",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.datepicker.dp_tooltip_previous_months",
+    "name": "dp_tooltip_previous_months",
+    "path": "text-resources/components/datepicker/dp_tooltip_previous_months",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/dp_tooltip_previous_months",
+    "slug": "dp_tooltip_previous_months",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "dp_tooltip_previous_months"
+    ],
     "content": {
         "key": "components.datepicker.dp_tooltip_previous_months",
         "pluralization": 0,

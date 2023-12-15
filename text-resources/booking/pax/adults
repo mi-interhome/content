@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.pax.adults",
+    "name": "adults",
+    "path": "text-resources/booking/pax/adults",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/adults",
+    "slug": "adults",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "adults"
+    ],
     "content": {
         "key": "booking.pax.adults",
         "pluralization": 0,

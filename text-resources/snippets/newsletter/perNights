@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "snippets.newsletter.perNights",
+    "name": "perNights",
+    "path": "text-resources/snippets/newsletter/perNights",
+    "folder": "text-resources",
+    "full_slug": "snippets/newsletter/perNights",
+    "slug": "perNights",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "snippets",
+        "newsletter",
+        "perNights"
+    ],
     "content": {
         "key": "snippets.newsletter.perNights",
         "pluralization": 0,

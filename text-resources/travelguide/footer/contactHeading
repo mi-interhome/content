@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.footer.contactHeading",
+    "name": "contactHeading",
+    "path": "text-resources/travelguide/footer/contactHeading",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/contactHeading",
+    "slug": "contactHeading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "contactHeading"
+    ],
     "content": {
         "key": "travelguide.footer.contactHeading",
         "pluralization": 0,

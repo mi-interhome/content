@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.interhome_group",
+    "name": "interhome_group",
+    "path": "text-resources/webccSalesportal/footer/interhome_group",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/interhome_group",
+    "slug": "interhome_group",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "interhome_group"
+    ],
     "content": {
         "key": "webccSalesportal.footer.interhome_group",
         "pluralization": 0,

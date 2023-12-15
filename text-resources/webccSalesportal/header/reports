@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.reports",
+    "name": "reports",
+    "path": "text-resources/webccSalesportal/header/reports",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/reports",
+    "slug": "reports",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "reports"
+    ],
     "content": {
         "key": "webccSalesportal.header.reports",
         "pluralization": 0,

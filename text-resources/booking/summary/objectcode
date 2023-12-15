@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.summary.objectcode",
+    "name": "objectcode",
+    "path": "text-resources/booking/summary/objectcode",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/objectcode",
+    "slug": "objectcode",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "objectcode"
+    ],
     "content": {
         "key": "booking.summary.objectcode",
         "pluralization": 0,

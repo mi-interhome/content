@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.datepicker.mostOnSaturday",
+    "name": "mostOnSaturday",
+    "path": "text-resources/components/datepicker/mostOnSaturday",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/mostOnSaturday",
+    "slug": "mostOnSaturday",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "mostOnSaturday"
+    ],
     "content": {
         "key": "components.datepicker.mostOnSaturday",
         "pluralization": 0,

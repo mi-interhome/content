@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.address",
+    "name": "address",
+    "path": "text-resources/booking/infoCustomer/address",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/address",
+    "slug": "address",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "address"
+    ],
     "content": {
         "key": "booking.infoCustomer.address",
         "pluralization": 0,

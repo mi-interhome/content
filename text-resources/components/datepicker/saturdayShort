@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.datepicker.saturdayShort",
+    "name": "saturdayShort",
+    "path": "text-resources/components/datepicker/saturdayShort",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/saturdayShort",
+    "slug": "saturdayShort",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "saturdayShort"
+    ],
     "content": {
         "key": "components.datepicker.saturdayShort",
         "pluralization": 0,

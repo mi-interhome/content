@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.compulsory_services",
+    "name": "compulsory_services",
+    "path": "text-resources/webccSalesportal/reservationdetail/compulsory_services",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/compulsory_services",
+    "slug": "compulsory_services",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "compulsory_services"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.compulsory_services",
         "pluralization": 0,

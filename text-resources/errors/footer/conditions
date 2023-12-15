@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.conditions",
+    "name": "conditions",
+    "path": "text-resources/errors/footer/conditions",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/conditions",
+    "slug": "conditions",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "conditions"
+    ],
     "content": {
         "key": "errors.footer.conditions",
         "pluralization": 0,

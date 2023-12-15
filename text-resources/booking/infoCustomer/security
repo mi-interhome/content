@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.security",
+    "name": "security",
+    "path": "text-resources/booking/infoCustomer/security",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/security",
+    "slug": "security",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "security"
+    ],
     "content": {
         "key": "booking.infoCustomer.security",
         "pluralization": 0,

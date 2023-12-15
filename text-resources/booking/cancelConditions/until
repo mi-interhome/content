@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.cancelConditions.until",
+    "name": "until",
+    "path": "text-resources/booking/cancelConditions/until",
+    "folder": "text-resources",
+    "full_slug": "booking/cancelConditions/until",
+    "slug": "until",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "cancelConditions",
+        "until"
+    ],
     "content": {
         "key": "booking.cancelConditions.until",
         "pluralization": 0,

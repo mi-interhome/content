@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.login_header",
+    "name": "login_header",
+    "path": "text-resources/webccSalesportal/login/login_header",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/login_header",
+    "slug": "login_header",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "login_header"
+    ],
     "content": {
         "key": "webccSalesportal.login.login_header",
         "pluralization": 0,

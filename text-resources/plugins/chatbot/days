@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "plugins.chatbot.days",
+    "name": "days",
+    "path": "text-resources/plugins/chatbot/days",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/days",
+    "slug": "days",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "days"
+    ],
     "content": {
         "key": "plugins.chatbot.days",
         "pluralization": 0,

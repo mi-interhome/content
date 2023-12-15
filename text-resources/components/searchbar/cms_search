@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.searchbar.cms_search",
+    "name": "cms_search",
+    "path": "text-resources/components/searchbar/cms_search",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/cms_search",
+    "slug": "cms_search",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "cms_search"
+    ],
     "content": {
         "key": "components.searchbar.cms_search",
         "pluralization": 0,

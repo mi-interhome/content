@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.mr",
+    "name": "mr",
+    "path": "text-resources/webccSalesportal/reservationdetail/mr",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/mr",
+    "slug": "mr",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "mr"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.mr",
         "pluralization": 0,

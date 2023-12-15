@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.why.qualityHomes",
+    "name": "qualityHomes",
+    "path": "text-resources/errors/why/qualityHomes",
+    "folder": "text-resources",
+    "full_slug": "errors/why/qualityHomes",
+    "slug": "qualityHomes",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "why",
+        "qualityHomes"
+    ],
     "content": {
         "key": "errors.why.qualityHomes",
         "pluralization": 0,

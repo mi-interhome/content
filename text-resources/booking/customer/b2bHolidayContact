@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.b2bHolidayContact",
+    "name": "b2bHolidayContact",
+    "path": "text-resources/booking/customer/b2bHolidayContact",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/b2bHolidayContact",
+    "slug": "b2bHolidayContact",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "b2bHolidayContact"
+    ],
     "content": {
         "key": "booking.customer.b2bHolidayContact",
         "pluralization": 0,

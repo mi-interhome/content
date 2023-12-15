@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.options",
+    "name": "options",
+    "path": "text-resources/webccSalesportal/reservationoverview/options",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/options",
+    "slug": "options",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "options"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.options",
         "pluralization": 0,

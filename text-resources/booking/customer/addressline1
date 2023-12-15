@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.addressline1",
+    "name": "addressline1",
+    "path": "text-resources/booking/customer/addressline1",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/addressline1",
+    "slug": "addressline1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "addressline1"
+    ],
     "content": {
         "key": "booking.customer.addressline1",
         "pluralization": 0,

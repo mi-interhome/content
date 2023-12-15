@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.extracosts.costsOnInvoice",
+    "name": "costsOnInvoice",
+    "path": "text-resources/booking/extracosts/costsOnInvoice",
+    "folder": "text-resources",
+    "full_slug": "booking/extracosts/costsOnInvoice",
+    "slug": "costsOnInvoice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "extracosts",
+        "costsOnInvoice"
+    ],
     "content": {
         "key": "booking.extracosts.costsOnInvoice",
         "pluralization": 0,

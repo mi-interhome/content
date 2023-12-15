@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.changepassword.enterID",
+    "name": "enterID",
+    "path": "text-resources/webccSalesportal/changepassword/enterID",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/changepassword/enterID",
+    "slug": "enterID",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "changepassword",
+        "enterID"
+    ],
     "content": {
         "key": "webccSalesportal.changepassword.enterID",
         "pluralization": 0,

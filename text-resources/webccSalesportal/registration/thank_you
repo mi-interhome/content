@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.registration.thank_you",
+    "name": "thank_you",
+    "path": "text-resources/webccSalesportal/registration/thank_you",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/registration/thank_you",
+    "slug": "thank_you",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "registration",
+        "thank_you"
+    ],
     "content": {
         "key": "webccSalesportal.registration.thank_you",
         "pluralization": 0,

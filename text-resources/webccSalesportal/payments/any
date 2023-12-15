@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.payments.any",
+    "name": "any",
+    "path": "text-resources/webccSalesportal/payments/any",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/any",
+    "slug": "any",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "any"
+    ],
     "content": {
         "key": "webccSalesportal.payments.any",
         "pluralization": 0,

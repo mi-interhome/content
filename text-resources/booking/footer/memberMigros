@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.footer.memberMigros",
+    "name": "memberMigros",
+    "path": "text-resources/booking/footer/memberMigros",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/memberMigros",
+    "slug": "memberMigros",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "memberMigros"
+    ],
     "content": {
         "key": "booking.footer.memberMigros",
         "pluralization": 0,

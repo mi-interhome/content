@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.coupons.confirm",
+    "name": "confirm",
+    "path": "text-resources/booking/coupons/confirm",
+    "folder": "text-resources",
+    "full_slug": "booking/coupons/confirm",
+    "slug": "confirm",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "coupons",
+        "confirm"
+    ],
     "content": {
         "key": "booking.coupons.confirm",
         "pluralization": 0,

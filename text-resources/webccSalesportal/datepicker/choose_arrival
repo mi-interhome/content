@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.datepicker.choose_arrival",
+    "name": "choose_arrival",
+    "path": "text-resources/webccSalesportal/datepicker/choose_arrival",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/datepicker/choose_arrival",
+    "slug": "choose_arrival",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "datepicker",
+        "choose_arrival"
+    ],
     "content": {
         "key": "webccSalesportal.datepicker.choose_arrival",
         "pluralization": 0,

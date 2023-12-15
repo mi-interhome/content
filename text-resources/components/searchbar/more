@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.searchbar.more",
+    "name": "more",
+    "path": "text-resources/components/searchbar/more",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/more",
+    "slug": "more",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "more"
+    ],
     "content": {
         "key": "components.searchbar.more",
         "pluralization": 0,

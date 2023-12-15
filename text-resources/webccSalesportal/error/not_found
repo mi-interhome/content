@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.error.not_found",
+    "name": "not_found",
+    "path": "text-resources/webccSalesportal/error/not_found",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/error/not_found",
+    "slug": "not_found",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "error",
+        "not_found"
+    ],
     "content": {
         "key": "webccSalesportal.error.not_found",
         "pluralization": 0,

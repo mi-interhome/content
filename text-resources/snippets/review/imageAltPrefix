@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "snippets.review.imageAltPrefix",
+    "name": "imageAltPrefix",
+    "path": "text-resources/snippets/review/imageAltPrefix",
+    "folder": "text-resources",
+    "full_slug": "snippets/review/imageAltPrefix",
+    "slug": "imageAltPrefix",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "snippets",
+        "review",
+        "imageAltPrefix"
+    ],
     "content": {
         "key": "snippets.review.imageAltPrefix",
         "pluralization": 0,

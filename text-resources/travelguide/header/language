@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.header.language",
+    "name": "language",
+    "path": "text-resources/travelguide/header/language",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/language",
+    "slug": "language",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "language"
+    ],
     "content": {
         "key": "travelguide.header.language",
         "pluralization": 0,

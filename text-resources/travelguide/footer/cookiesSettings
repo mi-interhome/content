@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.footer.cookiesSettings",
+    "name": "cookiesSettings",
+    "path": "text-resources/travelguide/footer/cookiesSettings",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/cookiesSettings",
+    "slug": "cookiesSettings",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "cookiesSettings"
+    ],
     "content": {
         "key": "travelguide.footer.cookiesSettings",
         "pluralization": 0,

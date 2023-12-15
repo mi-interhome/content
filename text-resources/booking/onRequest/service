@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.onRequest.service",
+    "name": "service",
+    "path": "text-resources/booking/onRequest/service",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/service",
+    "slug": "service",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "service"
+    ],
     "content": {
         "key": "booking.onRequest.service",
         "pluralization": 0,

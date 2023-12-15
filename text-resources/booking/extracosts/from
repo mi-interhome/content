@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.extracosts.from",
+    "name": "from",
+    "path": "text-resources/booking/extracosts/from",
+    "folder": "text-resources",
+    "full_slug": "booking/extracosts/from",
+    "slug": "from",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "extracosts",
+        "from"
+    ],
     "content": {
         "key": "booking.extracosts.from",
         "pluralization": 0,

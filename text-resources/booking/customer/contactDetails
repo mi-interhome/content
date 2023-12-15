@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.contactDetails",
+    "name": "contactDetails",
+    "path": "text-resources/booking/customer/contactDetails",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/contactDetails",
+    "slug": "contactDetails",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "contactDetails"
+    ],
     "content": {
         "key": "booking.customer.contactDetails",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationoverview.next",
+    "name": "next",
+    "path": "text-resources/webccSalesportal/reservationoverview/next",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/next",
+    "slug": "next",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "next"
+    ],
     "content": {
         "key": "webccSalesportal.reservationoverview.next",
         "pluralization": 0,

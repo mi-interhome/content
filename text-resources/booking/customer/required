@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.required",
+    "name": "required",
+    "path": "text-resources/booking/customer/required",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/required",
+    "slug": "required",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "required"
+    ],
     "content": {
         "key": "booking.customer.required",
         "pluralization": 0,

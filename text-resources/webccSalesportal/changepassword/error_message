@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.changepassword.error_message",
+    "name": "error_message",
+    "path": "text-resources/webccSalesportal/changepassword/error_message",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/changepassword/error_message",
+    "slug": "error_message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "changepassword",
+        "error_message"
+    ],
     "content": {
         "key": "webccSalesportal.changepassword.error_message",
         "pluralization": 0,

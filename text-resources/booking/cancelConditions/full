@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.cancelConditions.full",
+    "name": "full",
+    "path": "text-resources/booking/cancelConditions/full",
+    "folder": "text-resources",
+    "full_slug": "booking/cancelConditions/full",
+    "slug": "full",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "cancelConditions",
+        "full"
+    ],
     "content": {
         "key": "booking.cancelConditions.full",
         "pluralization": 0,

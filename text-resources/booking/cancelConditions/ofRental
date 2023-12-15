@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.cancelConditions.ofRental",
+    "name": "ofRental",
+    "path": "text-resources/booking/cancelConditions/ofRental",
+    "folder": "text-resources",
+    "full_slug": "booking/cancelConditions/ofRental",
+    "slug": "ofRental",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "cancelConditions",
+        "ofRental"
+    ],
     "content": {
         "key": "booking.cancelConditions.ofRental",
         "pluralization": 0,

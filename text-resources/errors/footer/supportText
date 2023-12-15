@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.supportText",
+    "name": "supportText",
+    "path": "text-resources/errors/footer/supportText",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/supportText",
+    "slug": "supportText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "supportText"
+    ],
     "content": {
         "key": "errors.footer.supportText",
         "pluralization": 0,

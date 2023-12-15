@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.headingB2b",
+    "name": "headingB2b",
+    "path": "text-resources/booking/infoCustomer/headingB2b",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/headingB2b",
+    "slug": "headingB2b",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "headingB2b"
+    ],
     "content": {
         "key": "booking.infoCustomer.headingB2b",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.why.title",
+    "name": "title",
+    "path": "text-resources/errors/why/title",
+    "folder": "text-resources",
+    "full_slug": "errors/why/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "why",
+        "title"
+    ],
     "content": {
         "key": "errors.why.title",
         "pluralization": 0,

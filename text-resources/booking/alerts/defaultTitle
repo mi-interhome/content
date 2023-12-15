@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.alerts.defaultTitle",
+    "name": "defaultTitle",
+    "path": "text-resources/booking/alerts/defaultTitle",
+    "folder": "text-resources",
+    "full_slug": "booking/alerts/defaultTitle",
+    "slug": "defaultTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "alerts",
+        "defaultTitle"
+    ],
     "content": {
         "key": "booking.alerts.defaultTitle",
         "pluralization": 0,

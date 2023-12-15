@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "components.searchbar.arrival_simple",
+    "name": "arrival_simple",
+    "path": "text-resources/components/searchbar/arrival_simple",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/arrival_simple",
+    "slug": "arrival_simple",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "arrival_simple"
+    ],
     "content": {
         "key": "components.searchbar.arrival_simple",
         "pluralization": 0,

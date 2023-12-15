@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.registration.email_body",
+    "name": "email_body",
+    "path": "text-resources/webccSalesportal/registration/email_body",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/registration/email_body",
+    "slug": "email_body",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "registration",
+        "email_body"
+    ],
     "content": {
         "key": "webccSalesportal.registration.email_body",
         "pluralization": 0,

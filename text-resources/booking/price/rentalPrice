@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.price.rentalPrice",
+    "name": "rentalPrice",
+    "path": "text-resources/booking/price/rentalPrice",
+    "folder": "text-resources",
+    "full_slug": "booking/price/rentalPrice",
+    "slug": "rentalPrice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "price",
+        "rentalPrice"
+    ],
     "content": {
         "key": "booking.price.rentalPrice",
         "pluralization": 0,

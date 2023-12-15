@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.customer.country",
+    "name": "country",
+    "path": "text-resources/booking/customer/country",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/country",
+    "slug": "country",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "country"
+    ],
     "content": {
         "key": "booking.customer.country",
         "pluralization": 0,

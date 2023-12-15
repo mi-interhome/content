@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.retailer.reference",
+    "name": "reference",
+    "path": "text-resources/booking/retailer/reference",
+    "folder": "text-resources",
+    "full_slug": "booking/retailer/reference",
+    "slug": "reference",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "retailer",
+        "reference"
+    ],
     "content": {
         "key": "booking.retailer.reference",
         "pluralization": 0,

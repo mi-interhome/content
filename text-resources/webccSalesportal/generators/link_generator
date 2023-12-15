@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.generators.link_generator",
+    "name": "link_generator",
+    "path": "text-resources/webccSalesportal/generators/link_generator",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/generators/link_generator",
+    "slug": "link_generator",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "generators",
+        "link_generator"
+    ],
     "content": {
         "key": "webccSalesportal.generators.link_generator",
         "pluralization": 0,

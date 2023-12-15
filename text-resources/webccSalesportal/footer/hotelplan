@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.footer.hotelplan",
+    "name": "hotelplan",
+    "path": "text-resources/webccSalesportal/footer/hotelplan",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/hotelplan",
+    "slug": "hotelplan",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "hotelplan"
+    ],
     "content": {
         "key": "webccSalesportal.footer.hotelplan",
         "pluralization": 0,

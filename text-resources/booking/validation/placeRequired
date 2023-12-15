@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.validation.placeRequired",
+    "name": "placeRequired",
+    "path": "text-resources/booking/validation/placeRequired",
+    "folder": "text-resources",
+    "full_slug": "booking/validation/placeRequired",
+    "slug": "placeRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "validation",
+        "placeRequired"
+    ],
     "content": {
         "key": "booking.validation.placeRequired",
         "pluralization": 0,

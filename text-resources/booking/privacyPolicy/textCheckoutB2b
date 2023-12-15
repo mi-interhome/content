@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.privacyPolicy.textCheckoutB2b",
+    "name": "textCheckoutB2b",
+    "path": "text-resources/booking/privacyPolicy/textCheckoutB2b",
+    "folder": "text-resources",
+    "full_slug": "booking/privacyPolicy/textCheckoutB2b",
+    "slug": "textCheckoutB2b",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "privacyPolicy",
+        "textCheckoutB2b"
+    ],
     "content": {
         "key": "booking.privacyPolicy.textCheckoutB2b",
         "pluralization": 0,

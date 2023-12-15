@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.infoCustomer.checkEntries",
+    "name": "checkEntries",
+    "path": "text-resources/booking/infoCustomer/checkEntries",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/checkEntries",
+    "slug": "checkEntries",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "checkEntries"
+    ],
     "content": {
         "key": "booking.infoCustomer.checkEntries",
         "pluralization": 0,

@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.reservationdetail.checkout",
+    "name": "checkout",
+    "path": "text-resources/webccSalesportal/reservationdetail/checkout",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/checkout",
+    "slug": "checkout",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "checkout"
+    ],
     "content": {
         "key": "webccSalesportal.reservationdetail.checkout",
         "pluralization": 0,

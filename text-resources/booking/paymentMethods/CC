@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.paymentMethods.CC",
+    "name": "CC",
+    "path": "text-resources/booking/paymentMethods/CC",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/CC",
+    "slug": "CC",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "CC"
+    ],
     "content": {
         "key": "booking.paymentMethods.CC",
         "pluralization": 0,

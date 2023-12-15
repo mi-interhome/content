@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.footer.about-usHeading",
+    "name": "about-usHeading",
+    "path": "text-resources/travelguide/footer/about-usHeading",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/about-usHeading",
+    "slug": "about-usHeading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "about-usHeading"
+    ],
     "content": {
         "key": "travelguide.footer.about-usHeading",
         "pluralization": 0,

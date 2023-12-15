@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.notifications.generic_error",
+    "name": "generic_error",
+    "path": "text-resources/webccSalesportal/notifications/generic_error",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/notifications/generic_error",
+    "slug": "generic_error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "notifications",
+        "generic_error"
+    ],
     "content": {
         "key": "webccSalesportal.notifications.generic_error",
         "pluralization": 0,

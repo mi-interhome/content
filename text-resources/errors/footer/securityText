@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "errors.footer.securityText",
+    "name": "securityText",
+    "path": "text-resources/errors/footer/securityText",
+    "folder": "text-resources",
+    "full_slug": "errors/footer/securityText",
+    "slug": "securityText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "errors",
+        "footer",
+        "securityText"
+    ],
     "content": {
         "key": "errors.footer.securityText",
         "pluralization": 0,

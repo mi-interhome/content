@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "booking.paymentMethods.CCpartialInfo",
+    "name": "CCpartialInfo",
+    "path": "text-resources/booking/paymentMethods/CCpartialInfo",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/CCpartialInfo",
+    "slug": "CCpartialInfo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "CCpartialInfo"
+    ],
     "content": {
         "key": "booking.paymentMethods.CCpartialInfo",
         "pluralization": 0,

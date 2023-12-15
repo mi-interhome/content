@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "travelguide.footer.langaugeDomainChooserHeading",
+    "name": "langaugeDomainChooserHeading",
+    "path": "text-resources/travelguide/footer/langaugeDomainChooserHeading",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/langaugeDomainChooserHeading",
+    "slug": "langaugeDomainChooserHeading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "langaugeDomainChooserHeading"
+    ],
     "content": {
         "key": "travelguide.footer.langaugeDomainChooserHeading",
         "pluralization": 0,

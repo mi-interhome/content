@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.login.register_or_reset",
+    "name": "register_or_reset",
+    "path": "text-resources/webccSalesportal/login/register_or_reset",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/register_or_reset",
+    "slug": "register_or_reset",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "register_or_reset"
+    ],
     "content": {
         "key": "webccSalesportal.login.register_or_reset",
         "pluralization": 0,

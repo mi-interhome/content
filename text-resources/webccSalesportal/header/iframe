@@ -1,14 +1,19 @@
 {
-    "id": "",
-    "name": "",
-    "path": "",
-    "folder": "",
-    "full_slug": "",
-    "slug": "",
-    "locale": "",
-    "suffix": "",
-    "mime": "",
+    "id": "webccSalesportal.header.iframe",
+    "name": "iframe",
+    "path": "text-resources/webccSalesportal/header/iframe",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/iframe",
+    "slug": "iframe",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
     "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "iframe"
+    ],
     "content": {
         "key": "webccSalesportal.header.iframe",
         "pluralization": 0,
