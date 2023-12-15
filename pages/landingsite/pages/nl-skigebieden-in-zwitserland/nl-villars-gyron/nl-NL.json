@@ -1,0 +1,149 @@
+{
+    "id": "24871",
+    "name": "NL - Villars Gyron",
+    "path": "pages/landingsite/pages/nl-skigebieden-in-zwitserland/nl-villars-gyron/nl-NL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/nl-skigebieden-in-zwitserland/nl-villars-gyron",
+    "slug": "nl-villars-gyron",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "nl-skigebieden-in-zwitserland",
+        "nl-villars-gyron"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.nl/pages/zwitserland-skigebieden/villars-gyron/",
+            "title": "Wintersportchalets in Villars-Gyron | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/NL - Skigebieden in Zwitserland/NL - Villars Gyron/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/",
+                            "label": "Skigebieden in Zwitserland"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/villars-gyron/",
+                            "label": "Wintersportchalets in Villars-Gyron"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersportchalets in Villars-Gyron",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eVillars-sur-Ollon ligt midden in de Waadtländer Alpen. Het is een plateau op 1300 meter hoogte boven het Rhônedal en kijkt over het zuiden uit. U kunt er de Dents-du-Midi of het Mont Blanc-massief zien, maar heeft ook een ruim uitzicht in de richting van het \u003ca href=\"/zwitserland/meer-van-geneve/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=e22abb59-c4bc-93dd-0d72-b73a8b7498c4\"\u003eMeer van Genève\u003c/a\u003e. Een prachtig gebied dat in de winter een al even mooi wintersportgebied is. Voor uw komende skivakantie is dit gebied dan ook hele interessante optie. Het biedt alle mogelijkheden die u van een skigebied verwacht. En misschien nog wel wat meer.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome biedt in de volgende dorpen in de Villars-Gyron vakantiewoningen aan:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/alpen-vaudoises/villars/\"\u003eVillars\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/alpen-vaudoises/les-diablerets/\"\u003eLes Diablerets \u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/alpen-vaudoises/gryon/\"\u003eGryon \u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"VG\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/24467/1405411-1-dut-NL/switzerland-2025736_960_720.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24872\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/24468/1405416-1-dut-NL/ski-lift-999226_960_720.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24873\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/24470/1405426-1-dut-NL/para-3304959_960_720.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24875\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/zwitserland/skien-snowboarden\"\u003e\u0026gt;\u0026gt; Chalets in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/zwitserland-skigebieden/\"\u003e\u0026gt;\u0026gt; Skigebieden in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003ch3\u003eWintersport in ski-resort Villars-Gryon\u003c/h3\u003e\u003cp\u003eHet skigebied van Villars-Gryon bestaat uit twee deelgebieden. Allereerst het deelgebied bij Villars/Bretaye en daarnaast het deelgebied bij Gryon. Er is inmiddels ook een verbinding aanwezig met de skigebieden van \u003ca href=\"/zwitserland/alpen-vaudoises/les-diablerets/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=e22abb59-c4bc-93dd-0d72-b73a8b7498c4\"\u003eLes Diablerets\u003c/a\u003e. Daarbij hoort ook een uitgebreid gletsjerskigebied op 3000 meter hoogte. Overigens zult u niet alleen naar dit gletsjerpark willen om er te skiën of te snowboarden. Op dit hoogste punt van de Waadtländer Alpen heeft u ook gewoon een magnifiek uitzicht over de bergtoppen.\u003c/p\u003e\u003cp\u003eHet ski gebied Villars-Gryon loopt vanaf 1300 meter hoogte door tot aan 2200 meter. Het heeft zo’n 44 skistations en 125 kilometer pistes. Ongeveer de helft van de pistes is eenvoudig. Van de andere helft is een groot deel van een gemiddelde moeilijkheidsgraad en daarnaast zijn er nog wat zwarte pistes. Niet een bijzonder veeleisend gebied, maar voor veel mensen biedt het meer dan voldoende variatie.\u003c/p\u003e\u003ch3\u003eAndere winterse activiteiten\u003c/h3\u003e\u003cp\u003eEr is natuurlijk veel meer te doen hier dan alleen skiën of snowboarden. Dat begint al met de liefhebbers van Freestyle skiën of snowboarden. Die vinden in de omgeving drie snowparks. Ook zijn er rodelpaden en kunt u via een netwerk van 44 kilometer loipes het gebied al langlaufend verkennen. Gaat u liever winterwandelen? Ook uitstekend, er zijn tal van winterwandelroutes in het gebied uitgezet.\u003c/p\u003e\u003ch3\u003eDe skidorpen bij Villars-Gryon\u003c/h3\u003e\u003cp\u003eDe dorpen in het gebied rondom Villars-Gryon hebben allemaal toegang tot hun eigen skigebieden. Zo vinden we bij Villars het deelgebied Villars-Bretaye met zo’n 40 kilometer aan pistes. Het gebied loopt uit in verschillende richtingen vanuit het centrale punt Bretaye dat op 1819 meter ligt. U kunt vanuit het gebied afdalen naar Villars en dan met de gondel weer omhoog.\u003c/p\u003e\u003cp\u003eBij Gryon ligt een relatief laag liggend en wat kleiner skigebied. Daar vindt u zo’n 20 kilometer aan afdalingen, inclusief een afdaling vanaf het punt les Chaux (op 1750 meter hoogte) het dal in richting Sodoleuvre. Daar is het gebied verbonden met het skigebied van Villars-Bretaye.\u003c/p\u003e\u003cp\u003eTenslotte zijn er de skigebieden bij het dorp Les Diablerets. Dit rustige en ontspannen skidorp ligt in de \u003ca href=\"/zwitserland/alpen-vaudoises/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=e22abb59-c4bc-93dd-0d72-b73a8b7498c4\"\u003eAlpes Vaudoises\u003c/a\u003e. Het skigebied Meilleret staat in directe verbinding met het skigebied Villars-Bretaye. Aan de andere kant van het dorp gaan de liften naar het deelgebied Isenau. Vanaf het hoogste punt van dat gebied kun je een aantal behoorlijk moeilijke pistes afdalen, maar u kunt ook via een bergkam naar Col du Pillon skiën. Dat is de toegang tot de 'Les Diablerets Glacier 3000', het gletsjer skigebied.\u003c/p\u003e\u003ch3\u003eWintersportchalet\u003c/h3\u003e\u003cp\u003eVillars-Gryon biedt u een keuze uit vijf verschillende deelgebieden met allemaal hun eigen karakter. Voor iedere type wintersporter is er iets te vinden in dit gebied. De verschillende dorpen geven allemaal toegang tot hun eigen deelgebiedjes en hebben ook prima accommodaties en faciliteiten voor het verblijf tijdens uw wintersportvakantie. Of u nu een winter sportchalet zoekt, of juist een eenvoudig appartement in het ski-resort Villars-Gryon, de keuze is aan u.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

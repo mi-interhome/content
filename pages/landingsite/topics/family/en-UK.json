@@ -1,0 +1,150 @@
+{
+    "id": "15502",
+    "name": "family",
+    "path": "pages/landingsite/topics/family/en-UK.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/family",
+    "slug": "family",
+    "locale": "en-UK",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "family"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.co.uk/holiday-ideas/family/",
+            "title": "Book your family holiday house online with Interhome | Interhome",
+            "description": "Enjoy your next holiday in a family holiday house and choose a great location that will have something for everyone.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/family/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Familienurlaub im Ferienhaus",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1400x480_family-holidays/980246-3-ger-XX/Header_1400x480_family-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/holiday-ideas/",
+                            "label": "Safe, enjoyable holidays – take a look at our holiday ideas"
+                        },
+                        {
+                            "href": "/holiday-ideas/family/",
+                            "label": "Family Villa Holidays"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Family Villa Holidays",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003ePrecious Time with the Family\u003c/h3\u003e\u003cp\u003eA villa holiday with the family is the perfect way to spend your summer holiday relaxing in the company of loved ones or enjoying fun and games with the children. You can take time contemplating the day ahead over a leisurely breakfast or make the most of a few hours splashing around with the kids in the pool.  Our holiday time with the family is precious to us all so why not make it as enjoyable and relaxing as possible in your own holiday villa in the sun.  Interhome offers a vast range of \u003ca href=\"/spain/?sorting=descLastBookDay\"\u003eholiday villas Spain\u003c/a\u003e, Italy, France and in many more popular destinations, both in well-known beach locations or in beautiful green countryside.  The choice is completely yours!  Our range of villas includes great value accommodation for those families travelling on a budget,  to more luxurious houses with stunning pools and beachside locations.  Explore our many European destinations, such as \u003ca href=\"/france/familiy-friendly/?filters=10:3,10:4,10:1\"\u003eFrance\u003c/a\u003e, \u003ca href=\"/spain/familiy-friendly/?filters=10:3,10:4,10:1\"\u003eSpain\u003c/a\u003e, \u003ca href=\"/italy/familiy-friendly/?filters=10:3,10:4,10:1\"\u003eItaly\u003c/a\u003e and \u003ca href=\"/portugal/familiy-friendly/?filters=10:3,10:4,10:1\"\u003ePortugal\u003c/a\u003e or take the family further afield to a \u003ca href=\"/usa/florida/\"\u003eholiday house in Florida\u003c/a\u003e or even to one of our  villas in Mauritius.  A holiday at an Interhome family villa is the perfect choice for your well-earned summer break, giving you and your loved ones the freedom and flexibility to enjoy every day of your stay to the full and explore some of the most beautiful and fascinating resorts in Europe and beyond.  You choose when and where you spend your time – discovering the local countryside,  spending  fun-filled hours in your own pool, playing in the sun with your children or sampling the local delicacies on your very own terrace.  A family villa offers freedom and flexibility to you and your family.  \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eWhether staying by the beach, in the countryside, or in the city, there is plenty of adventure to be had by guests of all ages.\u003c/p\u003e\u003cp\u003eHave fun exploring with your family and friends. Relax in a \"home-away-from-home\" holiday apartment or villa and spend the days according to your own rules and pace.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hand-picked and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "In-resort service and a 24/7 helpline",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and information about your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why choose Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it than in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, experience the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or indulge yourself in the luxury of a \u003ca href=\"/spain/#hitlist\"\u003eSpanish Villa\u003c/a\u003e. Be inspired by our \u003ca href=\"/holiday-ideas/\"\u003etravel ideas\u003c/a\u003e and book online with us - it is quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your own holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eA stay in a holiday house or apartment offers so many advantages: spend your time exactly the way you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules and pace. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Kick back and enjoy lots of room, flexibility and freedom in your own holiday letting.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

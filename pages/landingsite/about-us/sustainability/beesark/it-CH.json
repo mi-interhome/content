@@ -1,0 +1,181 @@
+{
+    "id": "39569",
+    "name": "Beesark",
+    "path": "pages/landingsite/about-us/sustainability/beesark/it-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/beesark",
+    "slug": "beesark",
+    "locale": "it-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "beesark"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/it/chi-siamo/sostenibilita/beesark/",
+            "title": "Save the bee – save our earth! | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/Beesark/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/it/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/it/chi-siamo/",
+                            "label": "Chi siamo"
+                        },
+                        {
+                            "href": "/it/chi-siamo/sostenibilita/",
+                            "label": "Rispetta la natura: la salvaguardia dell'ambiente riguarda tutti noi"
+                        },
+                        {
+                            "href": "/it/chi-siamo/sostenibilita/beesark/",
+                            "label": "Save the bee – save our earth!"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Save the bee – save our earth!",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e\"Se l’ape scomparisse dalla faccia della Terra, all’umanità non resterebbero che quattro anni di vita; niente più api, niente più impollinazione, niente piante, niente alberi, niente esseri umani.\" (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group desidera assumere un ruolo di primo piano nel rispetto dell’ambiente: vogliamo impegnarci per rendere il turismo nelle case vacanza sempre più sostenibile.\u003c/p\u003e\u003cp\u003ePrendiamo sul serio la nostra responsabilità sociale e vogliamo contribuire alla conservazione e alla protezione delle api: Interhome Group si impegna a sostenere finanziariamente il progetto a tutela delle api del nostro partner BEESark. In Austria verranno piantati 100’000 m\u003csup\u003e2\u003c/sup\u003e di campi fioriti. In un campo, vengono stoccati nella biomassa 87.37g di CO\u003csub\u003e2\u003c/sub\u003e/m\u003csup\u003e2\u003c/sup\u003e, mentre vengono prodotti 72.81g/m\u003csup\u003e2\u003c/sup\u003e di ossigeno.\u003c/p\u003e\u003cp\u003eUlteriori informazioni riguardo BEESark sono disponibili sul sito \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eProteggere le api preserva il nostro futuro\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eI fiori piantati deriveranno solo da piante autoctone regionali e da semi di piante selvatiche raccolti nella regione stessa\u003c/li\u003e\n\u003cli\u003eQueste piante sono adatte al clima, al suolo e ad altri fattori regionali e sono altamente resistenti\u003c/li\u003e\n\u003cli\u003eVengono preparate diverse miscele assortite, sempre di origine regionale, per le varie località\u003c/li\u003e\n\u003cli\u003eUna fioritura ricca, continua e duratura, oltre alle comuni infiorescenze dovute alle stagionalità, attira l’attenzione e preserva il pool genetico regionale\u003c/li\u003e\n\u003cli\u003eAlto valore ecologico: gli assortimenti contengono spesso tra 20 e 40 specie diverse, che si rivelano utili come colture foraggere\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eAttualità\u003c/h3\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11 settembre 2023: Preserviamo le api per il bene del nostro pianeta!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eDieci appassionati collaboratori del Gruppo Interhome provenienti da sei paesi diversi hanno intrapreso un viaggio in treno verso Klagenfurt, Austria, con l'obiettivo di approfondire le loro conoscenze sulla biodiversità e conoscere il nostro ambizioso progetto sulle api.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNegli ultimi due anni, Interhome Group ha collaborato con BEESark, con sede in Carinzia, per sostenere un'iniziativa sulla biodiversità. BEESark seleziona ogni anno oltre 35 specie di fiori indigeni per sostenere le popolazioni di api. Il contadino locale Peter Janezic di St. Jakob im Rosental ha dedicato 100.000 m\u003csup\u003e2\u003c/sup\u003e di terreno alla coltivazione di questi fiori diversi, creando un santuario delle api. Anche a settembre i fiori brulicavano di innumerevoli insetti.\u003c/p\u003e\u003cp\u003eAbbiamo partecipato a un'escursione didattica sulle api guidata dall'esperto di api Peter Lautemann di Moosburg per ottenere informazioni più approfondite sull'habitat, sul comportamento e sul ciclo di vita delle api. Peter gestisce un'azienda agricola biologica con più di 100 colonie di api.\u003c/p\u003e\u003cp\u003eQuesto progetto è una straordinaria testimonianza della conservazione della biodiversità regionale. Dopo due anni BEESark ha condotto dei test sul terreno che confermano che i nostri 100.000 metri quadrati di prati fioriti hanno ridotto di circa 200 tonnellate le emissioni di CO\u003csub\u003e2\u003c/sub\u003e. Questo risultato segna un passo significativo verso il nostro obiettivo di ridurre le emissioni di carbonio del 50% entro il 2030.\u003c/p\u003e\u003cp\u003eSiamo immensamente grati a BEESark per aver dato vita alla nostra partnership e per il loro infaticabile supporto e siamo molto orgogliosi della nostra proficua collaborazione.\u003c/p\u003e\u003cp\u003eDopo la nostra esperienza con le api, abbiamo preso parte ad alcune attività di volontariato. Puoi saperne di più cliccando qui: \u003ca href=\"/it/chi-siamo/sostenibilita/lavoro-di-volontariato/\"\u003eInterhome | Lavoro di volontariato\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11 luglio 2022: Un paradiso per le api nei prati fioriti del Interhome Group\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group ha fatto seminare 100.000 m\u003csup\u003e2\u003c/sup\u003e di prati fioriti dal suo partner BEESark per dare un importante contributo alla biodiversità. Lena Unterkircher e Saskia Weber hanno visitato i prati di api in Carinzia, in Austria, e sono entusiaste della loro realizzazione.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIl fondatore di BEESark, Matthias Breznik, è un personaggio originale. La sua carriera passa dalla programmazione di robot all'allenatore di ipnosi, dal consulente ambientale all'agricoltore. BEESark realizza progetti individuali di protezione del clima e sostenibilità regionale a un nuovo livello. Per conto del Interhome Group, BEESark ha ingaggiato l'agricoltore biologico Peter Janezic, che ha convertito 1/6 del suo terreno coltivabile in prati fioriti. Dopo un'attenta analisi del terreno, al posto di mais e patate sono state piantate innumerevoli specie floreali regionali. I due campi si trovano intorno all'idilliaco villaggio di Sankt Jakob im Rosenthal, in Carinzia. Qui i fiori piantati in primavera sono in fiore e vengono attivamente visitati e impollinati da api da miele e api selvatiche. Nei prati, l'apicoltore locale Franz Fugger ha messo a disposizione le sue arnie. Il 75% delle api attive qui sono api mellifere o api domestiche, il 25% sono api selvatiche.\u003c/p\u003e\u003cp\u003eL'apicoltore Franz ci ha raccontato con grande gioia di aver già vinto un premio per il suo miele proveniente da questi campi, per il fatto che il suo miele è al 100% privo di sostanze inquinanti. Dall'agricoltore Peter all'apicoltore, fino ai dipendenti di BEESark, tutti lavorano con sudore e cuore per seminare e mantenere i prati fioriti e offrire alle api un paradiso. L'intenso ronzio e il ronzio nei campi è una gioia da guardare e ascoltare. Le api, così come molti altri insetti, si sentono ovviamente a casa loro e godono appieno della natura. Il mese prossimo il contadino effettuerà il primo taglio, in modo che il prato fiorito ricresca in tutto il suo splendore e le api trovino di nuovo fiori freschi. In autunno, le api mellifere saranno svernate dall'apicoltore; nel caso delle api selvatiche, solo la regina gravida potrà ronzare nuovamente nei prati fioriti nel 2023.\u003c/p\u003e\u003cp\u003ePer garantire che questo importante contributo alla biodiversità nei campi sia misurabile, BEESark ha sviluppato un proprio software per calcolare con precisione il bilancio di CO\u003csub\u003e2\u003c/sub\u003e dei prati in fiore. BEESark ha ottenuto la certificazione TÜV e la certificazione ISO 9001.\u003c/p\u003e\u003cp\u003ePer Lena e Saskia è stato davvero impressionante e meraviglioso vedere e sentire che gli investimenti di Interhome sono finiti al 100% nelle mani giuste con BEESark. BEESark è un partner che realizza i nostri obiettivi di sostenibilità esattamente come volevamo. La nostra visita in loco ha consolidato una buona base per un'ulteriore collaborazione.\u003c/p\u003e\u003cp\u003eNon vediamo l'ora di ricevere altri resoconti sui nostri prati in fiore e di vedere un nuovo campo fantasticamente colorato nel 2023.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/it/chi-siamo/sostenibilita/\"\u003e\u0026gt;\u0026gt; Maggiori informazioni sui progetti relativi alla sostenibilità supportati da Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nelle Sua casa per Vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/it/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello garantita",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "In una casa per vacanze la privacy è garantita",
+                    "support": "Assistenza in loco"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna delle chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/it/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/it/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"https://www.interhome.it/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"https://www.interhome.it/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

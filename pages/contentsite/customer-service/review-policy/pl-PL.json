@@ -1,0 +1,153 @@
+{
+    "id": "10183",
+    "name": "review-policy",
+    "path": "pages/contentsite/customer-service/review-policy/pl-PL.json",
+    "folder": "pages",
+    "full_slug": "contentsite/customer-service/review-policy",
+    "slug": "review-policy",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "customer-service",
+        "review-policy"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.pl/strefa-klienta/review-policy/",
+            "title": "Polityka dotycząca recenzji klientów | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/customer-service/review-policy/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/strefa-klienta/",
+                            "label": "Serwis dla Klientów"
+                        },
+                        {
+                            "href": "/strefa-klienta/review-policy/",
+                            "label": "Polityka dotycząca recenzji klientów"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Polityka dotycząca recenzji klientów",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003cp\u003eChcielibyśmy, by każdy Państwa pobyt w swoim wymarzonym domu lub apartamencie wakacyjnym był jeszcze bardziej satysfakcjonujący, dlatego z góry dziękujemy za podzielenie się z nami Państwa opinią. Zarazem uprzejmie prosimy o zapoznanie się z naszymi zasadami publikacji recenzji Klientów. Za weryfikację, tłumaczenie oraz publikację recenzji Klientów odpowiadają pracownicy centrali głównej Interhome w Szwajcarii, w związku z tym pojawienie się opinii na stronie internetowej nie odbywa się automatycznie i może potrwać nawet kilka tygodni. W przypadku, gdyby Państwa opinia została odrzucona jako niespełniająca kryteriów publikacji, zostaną Państwo poinformowani drogą mailową. \u003c/p\u003e\u003cp\u003e\u003ca href=\"https://images.interhome.group/ezcms/original/1039529-pol-PL/Richtlinien_Kundenbewertungen_IH_PL.pdf\"\u003ePolityka dotycząca recenzji klientów\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003ca href=\"/strefa-klienta/polityka-prywatnosci/\"\u003ePolityka prywatności\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eObowiązek informacyjny\u003c/h4\u003e\u003cp\u003eZgodnie z art. 13 Rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (zwane dalej RODO) informuje się, iż:\u003cbr\u003e1) Pani/Pana dane osobowe będą przetwarzane przez \u003cstrong\u003e\u003cstrong\u003eHHD Sp. z o.o.\u003c/strong\u003e\u003c/strong\u003e, ul. St. Kostki Potockiego 24B, 02-958 Warszawa (zwany dalej Interhome) w celu zgodnej z prawem realizacji umowy o pracę (umowy cywilnoprawnej) na podstawie art. 6 ust. 1 lit. B i C RODO;\u003cbr\u003e2) w Interhome wyznaczony jest inspektor ochrony danych, z którym można skontaktować się poprzez e-mail: dpo@interhome.pl lub pisemnie na adres Interhome wskazany w pkt. 1;\u003cbr\u003e3) dotyczące Pani/Pana dane osobowe nie będą udostępniane, z wyjątkiem sytuacji, gdy podanie takich danych wynikać będzie z obowiązujących przepisów prawa;\u003cbr\u003e4) Pani/Pana dane osobowe nie będą przekazywane do państwa trzeciego/organizacji międzynarodowej;\u003cbr\u003e5) Pani/Pana dane osobowe będą przetwarzane przez okres zatrudnienia, a po jego zakończeniu w sposób określony w przepisach obowiązującego prawa;\u003cbr\u003e6) przysługuje Pani/Panu prawo żądania dostępu do danych osobowych dotyczących Pani/Pana osoby, ich sprostowania, usunięcia lub ograniczenia przetwarzania oraz prawo do wniesienia sprzeciwu wobec przetwarzania, a także prawo do przenoszenia danych;\u003cbr\u003e7) przysługuje Pani/Panu prawo do złożenia skargi do organu nadzorczego zajmującego się ochroną danych osobowych, gdy uzna Pani/Pan, że przetwarzanie danych osobowych Pani/Pana dotyczących narusza przepisy RODO;\u003cbr\u003e8) podanie przez Panią/Pana danych osobowych jest dobrowolne, przy czym niezbędne \u003cbr\u003edo zawarcia umowy o pracę (umowy cywilnoprawnej);\u003cbr\u003e9) Pani/Pana dane osobowe nie będą podlegały zautomatyzowanemu podejmowaniu decyzji, ani nie będą profilowane\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Wynajem domu wakacyjnego z zachowaniem wszelkich zasad bezpieczeństwa!",
+                    "link": {
+                        "href": "/o-nas/bezpieczenstwo-w-domu-wakacyjnym/",
+                        "label": "Więcej informacji"
+                    },
+                    "car": "Własny dojazd",
+                    "cleaning": "Kontrola czystości",
+                    "independence": "Swoboda i niezależność",
+                    "key": "Odbiór kluczy z zachowaniem zasad bezpieczeństwa",
+                    "privacy": "Prywatność w domu wakacyjnym",
+                    "support": "Pomoc na miejscu"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Tylko wybrane i sprawdzone oferty ",
+                            "subtitle": "Jakość jest naszym najwyższym priorytetem",
+                            "caption": "Każda nasza oferta jest sprawdzana przez pracowników biur lokalnych, by zagwarantować najwyższy standard i udany urlop. "
+                        },
+                        {
+                            "title": "Gwarantowana dostępność i serwis na miejscu",
+                            "subtitle": "Skorzystaj z naszego doświadczenia ",
+                            "caption": "Wszędzie tam, gdzie znajdują się nasze biura lokalne, odbiór kluczy odbywa się za pośrednictwem naszych pracowników, którzy czekają, by udzielić dodatkowych informacji, polecić najlepszą restaurację czy podzielić się swoim doświadczeniem.  "
+                        },
+                        {
+                            "title": "Niezapomniane wakacje",
+                            "subtitle": "Prywatność i swoboda gwarantowane",
+                            "caption": "Interhome to urlop na własnych zasadach. Żadnych zbiórek i stałych godzin posiłków, w naszych domach i apartamentach wakacyjnych macie nie tylko pełną swobodę, lecz również mnóstwo miejsca dla całej rodziny i przyjaciół. "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Dlaczego Interhome? ",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003ePonieważ od 1965 roku realizujemy marzenia o idealnych wakacjach. Przemawia za nami szwajcarska jakość, przejrzysty system gwiazdek i doskonałe opinie od zadowolonych klientów. Rezerwując dom lub apartament wakacyjny z własnym dojazdem w jednym z 27 krajów z oferty Interhome można odkryć najpiękniejsze turystyczne zakątki. Z nami wyruszycie na rodzinne wakacje do Chorwacji i na Sylwestra w Zakopanem. Rozkoszujcie się więc wakacjami we Włoszech, wybierzcie się z nami na urlop w apartamencie we Francji lub spędźcie wymarzone wczasy z dojazdem własnym w willi w Hiszpanii. Odkrywajcie nowe smaki, obserwujcie podobieństwa i różnice kulturowe. Warto dać się zainspirować, wybrać idealną dla siebie ofertę i zarezerwować ją bez problemu online na stronie Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Swoboda, prywatność i komfort",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eOferujemy sprawdzone, komfortowe mieszkania w miastach Europy na city-break, na rodzinne wakacje nad morzem, domy z prywatnym basenem, domki w górach na narty w Alpach i noclegi nad jeziorami. Zalet takiego indywidualnie zorganizowanego wypoczynku jest wiele. Największą jest jednak niczym nieograniczona swoboda. Żadnych terminów i ściśle wyznaczonych godzin. W pełni wyposażonej kuchni do indywidualnego użytku można swobodnie przygotować posiłki dla wszystkich towarzyszy wyjazdu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

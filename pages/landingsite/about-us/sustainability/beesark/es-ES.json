@@ -1,0 +1,181 @@
+{
+    "id": "39569",
+    "name": "Beesark",
+    "path": "pages/landingsite/about-us/sustainability/beesark/es-ES.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/beesark",
+    "slug": "beesark",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "beesark"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.es/sobre-interhome/sostenibilidad/beesark/",
+            "title": "Salvar a las abejas – salvar nuestra Tierra | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/Beesark/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/sobre-interhome/",
+                            "label": "Sobre Interhome"
+                        },
+                        {
+                            "href": "/sobre-interhome/sostenibilidad/",
+                            "label": "Love nature – la conservación nos concierne a todos"
+                        },
+                        {
+                            "href": "/sobre-interhome/sostenibilidad/beesark/",
+                            "label": "Salvar a las abejas – salvar nuestra Tierra"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Salvar a las abejas – salvar nuestra Tierra",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e«Si la abeja desapareciera de la faz de la Tierra, al hombre sólo le quedarían cuatro años de vida. No más abejas, no más polinización, no más plantas, no más animales, no más hombre.» (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group asume un papel de liderazgo en materia de sostenibilidad. Estamos continuamente comprometidos con un turismo de viviendas vacacionales sostenible para el futuro.\u003c/p\u003e\u003cp\u003eNos tomamos muy en serio nuestra responsabilidad y nos comprometemos con la conservación de las poblaciones de abejas. Interhome Group se compromete a contribuir económicamente al programa de conservación de abejas de nuestro socio BEESark. Se plantará un campo de 100’000 m\u003csup\u003e2\u003c/sup\u003e de con flores en Austria. En la biomasa de un campo están vinculados 87,37g de CO\u003csub\u003e2\u003c/sub\u003e por m\u003csup\u003e2\u003c/sup\u003e y se liberan 72,81g/m\u003csup\u003e2\u003c/sup\u003e de oxígeno.\u003c/p\u003e\u003cp\u003eMás información sobre BEESark en \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eProteger a las abejas preserva nuestro futuro\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eLos campos de flores con plantas autóctonas de la región contienen únicamente semillas de flores silvestres recogidas en la región\u003c/li\u003e\n\u003cli\u003eEstas plantas están óptimamente adaptadas al clima, el suelo y otros factores de la región y son muy competitivas en sus condiciones naturales\u003c/li\u003e\n\u003cli\u003eSe ofrecen mezclas variadas de origen regional para varias localizaciones\u003c/li\u003e\n\u003cli\u003eUna floración de larga duración durante décadas y una floración aún más rápida en combinación con periodos de floración anuales, que atraen la atención con una rica floración mientras se preserva la reserva genética regional\u003c/li\u003e\n\u003cli\u003eAlto valor ecológico: los surtidos suelen contener entre 20 y 40 especies diferentes que sirven de forraje para razas especiales y raras\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNoticias\u003c/h3\u003e\u003ch4\u003e11 de Septiembre del 2023: ¡Preservar las abejas por el bien de nuestro planeta!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eDiez miembros del Grupo Interhome procedentes de seis países diferentes se embarcaron en un viaje en tren a Klagenfurt (Austria) con la misión de profundizar en el conocimiento de la biodiversidad y en nuestro ambicioso proyecto apícola.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDurante los dos últimos años, Interhome Group ha colaborado con BEESark, situada en Carinthia, para apoyar una iniciativa de biodiversidad. BEESark selecciona anualmente más de 35 especies de flores autóctonas para mantener las poblaciones de abejas. El agricultor local Peter Janezic, de St. Jakob im Rosental, dedicó 100.000 m\u003csup\u003e2\u003c/sup\u003e de terreno a cultivar estas flores diversas, creando un santuario de abejas. Incluso en septiembre, las flores tenían innumerables insectos.\u003c/p\u003e\u003cp\u003eNos unimos a una excursión sobre abejas guiada por el experto en abejas Peter Lautemann, de Moosburg, para profundizar en el hábitat, el comportamiento y el ciclo vital de las abejas. Peter gestiona una granja ecológica con más de 100 colonias de abejas.\u003c/p\u003e\u003cp\u003eEste proyecto es un testimonio notable de la conservación de la biodiversidad regional. Después de dos años, BEESark realizó análisis del suelo que confirmaron que nuestros 100.000 metros cuadrados de prados en flor redujeron aproximadamente 200 toneladas de emisiones de CO\u003csub\u003e2\u003c/sub\u003e. Este logro supone un importante avance hacia nuestro objetivo de reducir las emisiones de carbono en un 50% para 2030.\u003c/p\u003e\u003cp\u003eEstamos inmensamente agradecidos a BEESark por su extraordinario apoyo y colaboración, y nos sentimos muy orgullosos de nuestra productiva colaboración.\u003c/p\u003e\u003cp\u003eTras nuestra experiencia apícola, participamos en algunas actividades de voluntariado. Puede obtener más información haciendo clic aquí: \u003ca href=\"/sobre-interhome/sostenibilidad/voluntariado/\"\u003eInterhome | Voluntariado\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11 de julio de 2022: Un paraíso para las abejas en los prados floridos del Interhome Group\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group ha encargado a su socio BEESark la siembra de 100.000 m\u003csup\u003e2\u003c/sup\u003e de praderas con flores para hacer una importante contribución a la biodiversidad. Lena Unterkircher y Saskia Weber han visitado los prados de abejas en Carintia (Austria) y están entusiasmadas con la implantación.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEl fundador de BEESark, Matthias Breznik, es un original. Su trayectoria profesional pasa por la programación de robots, el coach de hipnosis y el consultor medioambiental, además de agricultor. BEESark lleva a cabo proyectos individuales de protección del clima con sostenibilidad regional a un nuevo nivel. Por encargo del Interhome Group, BEESark contrató al agricultor ecológico Peter Janezic, que convirtió 1/6 de sus tierras de cultivo en praderas con flores. Tras un cuidadoso análisis del suelo, se plantaron aquí innumerables especies florales regionales en lugar de maíz o patatas. Los dos campos están situados alrededor del idílico pueblo de Sankt Jakob im Rosenthal, en Carintia. Aquí, las flores plantadas en primavera florecen y son visitadas y polinizadas activamente por abejas melíferas y silvestres. En los prados, el apicultor local Franz Fugger ha puesto a disposición sus colmenas. El 75% de las abejas activas aquí son abejas melíferas asentadas o abejas domésticas y el 25% son abejas silvestres.\u003c/p\u003e\u003cp\u003eEl apicultor Franz nos contó con mucha alegría que ya ha ganado un premio por su miel de estos campos, por el hecho de que su miel está 100% libre de contaminantes. Desde el agricultor Peter hasta el apicultor y los empleados de BEESark, todos trabajan con mucho sudor y corazón para sembrar y mantener los prados en flor y ofrecer a las abejas un paraíso. El ajetreado zumbido de los campos es un placer de ver y escuchar. Es evidente que las abejas, al igual que muchos otros insectos, se sienten muy a gusto aquí y disfrutan al máximo de la naturaleza. El mes que viene el agricultor hará la primera tala, para que el prado de flores vuelva a crecer en todo su esplendor y las abejas vuelvan a encontrar flores frescas. En otoño, las abejas melíferas serán invernadas por el apicultor; en el caso de las abejas silvestres, sólo la reina preñada podrá volver a zumbar en los prados de flores en 2023.\u003c/p\u003e\u003cp\u003ePara garantizar que esta importante contribución a la biodiversidad en los campos sea medible, BEESark ha desarrollado su propio software para calcular con precisión el balance de CO\u003csup\u003e2\u003c/sup\u003e de las praderas en flor. BEESark cuenta con la auditoría TÜV y la certificación ISO 9001.\u003c/p\u003e\u003cp\u003ePara Lena y Saskia fue muy impresionante y maravilloso ver y sentir que las inversiones de Interhome han aterrizado al 100% en las manos adecuadas con BEESark. BEESark es un socio que implementa nuestros objetivos sostenibles exactamente como queríamos. Nuestra visita in situ ha consolidado una buena base para seguir cooperando.\u003c/p\u003e\u003cp\u003eYa estamos esperando más informes sobre nuestros prados en flor y un nuevo campo fantásticamente colorido en 2023.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/sobre-interhome/sostenibilidad/\"\u003e\u0026gt;\u0026gt; Consulte otros proyectos de sostenibilidad apoyados por Interhome Group\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Siéntase seguro en su casa de vacaciones!",
+                    "link": {
+                        "href": "/sobre-interhome/seguridad-en-su-casa-de-vacaciones/",
+                        "label": "Más información"
+                    },
+                    "car": "Desplazamiento particular",
+                    "cleaning": "Protocolo específico de limpieza",
+                    "independence": "Libertad y flexibilidad",
+                    "key": "Entrega de llaves segura",
+                    "privacy": "Privacidad en su casa de vacaciones",
+                    "support": "Atención personal en destino"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Alojamientos verificados y de calidad",
+                            "subtitle": "La calidad nuestra prioridad",
+                            "caption": "Cada una de nuestras propiedades es revisada antes de su llegada para asegurar la mejor estancia posible."
+                        },
+                        {
+                            "title": "Disponibilidad garantizada y servicio in-situ",
+                            "subtitle": "Aproveche al máximo nuestra experiencia",
+                            "caption": "La recogida de llaves está organizada por nuestro atento personal. Disponible las 24 horas del día, los 7 días de la semana y en nuestras oficinas locales para ayudarlo con todas sus preguntas, por ejemplo: consejos, preguntas sobre su destino de vacaciones..."
+                        },
+                        {
+                            "title": "Una experencia inolvidable",
+                            "subtitle": "Privacidad y libertad en su propia casa de vacaciones",
+                            "caption": "Sin horarios para comer y con sus propias reglas, disfrute de su tiempo en familia o con amigos."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por qué Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca ha sido fácil organizar las vacaciones perfectas. ¿Quieres explorar nuevos destinos? No hay mejor manera de hacerlo que desde un apartamento de vacaciones. Disfruta de la dolce vita en \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, descubre el encanto de \u003ca href=\"/francia/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e o empápate del \u003ca href=\"/espana/\"\u003eestilo de vida español\u003c/a\u003e. Inspírate con nuestras ideas para viajar y haz tu reserva online: con Interhome es fácil y seguro. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Libertad, privacidad y espacio en su casa de vacaciones",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSu estancia en una casa o apartamento de vacaciones está llena de ventajas: invierta su tiempo como quiera. Sin molestias de otros clientes o personal del hotel, simplemente disfrute de sus vacaciones marcándose sus propias reglas. Tanto como si busca una escapada a una ciudad, como unas relajantes vacaciones en familia o con amigos. Simplemente disfrute de la estancia, flexibilidad y libertad que le ofrece su casa de vacaciones.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

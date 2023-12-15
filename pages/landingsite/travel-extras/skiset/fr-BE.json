@@ -1,0 +1,149 @@
+{
+    "id": "19202",
+    "name": "skiset",
+    "path": "pages/landingsite/travel-extras/skiset/fr-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/travel-extras/skiset",
+    "slug": "skiset",
+    "locale": "fr-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "travel-extras",
+        "skiset"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/fr/nos-partenaires-vacances/skiset/",
+            "title": "Matériel de ski Skiset | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/travel-extras/skiset/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_skiset_31_10_2023_2/2277277-1-eng-XX/Header_1200x410_IH_Skiset_31_10_2023_2.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/nos-partenaires-vacances/",
+                            "label": "Nos partenaires vacances"
+                        },
+                        {
+                            "href": "/fr/nos-partenaires-vacances/skiset/",
+                            "label": "Matériel de sports d'hiver avec SKISET"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Matériel de sports d'hiver avec SKISET",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eLouez facilement votre équipement de ski et de snowboard en station. En tant que client Interhome, vous pouvez bénéficier de prix réduits avec SKISET. Si vous réservez à l'avance en ligne, votre équipement de sports d'hiver sera prêt et vous pourrez le récupérer à votre arrivée.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eUn large réseau de magasins dans les grandes stations de ski\u003c/li\u003e\n\u003cli\u003eLe top du matériel de ski et de snowboard pour les pros et les amateurs de sports d’hiver\u003c/li\u003e\n\u003cli\u003eUn service professionnel et des conseils sur place\u003c/li\u003e\n\u003cli\u003eDes vacances qui débutent en toute sérénité\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eVous trouverez l’offre en ligne et toutes les implantations SKISET ici:\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/37089/1994332-1-eng-XX/Skiset.jpg\" width=\"155\" height=\"40\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"right\" data-id=\"37896\" data-type=\"image\" data-content=\"\"\u003e\u003ccustom name=\"html\"\u003e\u003cp\u003e\u003ciframe id=\"iframe_skiset\" src=\"https://partner.skiset.com/interhome/motor/full?country=2\u0026amp;lang=fr\u0026amp;custom_show_header=0\u0026amp;custom_show_inputs=1\u0026amp;custom_show_bg=1\" frameborder=\"0\" width=\"100%\" height=\"580\" scrolling=\"no\"\u003e\u003c/iframe\u003e\u003c/p\u003e\u003c/custom\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"/fr/idees-vacances/\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité. Qu'importe vos envies...Interhome vous propose 40.000 maisons et appartements de vacances dans 28 pays.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eD'un \u003ca href=\"/fr/chalet/\"\u003echalet à la montagne\u003c/a\u003e à une \u003ca href=\"/fr/villa/piscine/\"\u003evilla avec piscine\u003c/a\u003e ou à un château, nous avons la location qui vous convient. Vous pouvez réserver votre location directement depuis notre site internet. Interhome vous fournit toutes les informations nécessaires avant votre départ et s'occupe du nettoyage dès votre départ. De plus, vous profitez de \u003ca href=\"/fr/a-propos-d-interhome/standards-qualite/\"\u003ela qualité\u003c/a\u003e de nos logements grâce à un système suisse de classification par étoile.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

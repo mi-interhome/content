@@ -1,0 +1,153 @@
+{
+    "id": "10164",
+    "name": "company-profile",
+    "path": "pages/contentsite/about-us/company-profile/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "contentsite/about-us/company-profile",
+    "slug": "company-profile",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "about-us",
+        "company-profile"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/over-interhome/bedrijfsprofiel/",
+            "title": "Bedrijfsprofiel | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/company-profile/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/over-interhome/",
+                            "label": "Over Interhome"
+                        },
+                        {
+                            "href": "/over-interhome/bedrijfsprofiel/",
+                            "label": "Bedrijfsprofiel"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Bedrijfsprofiel",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eManagement\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eJörg Herrmann, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eSylvia Epaillard, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eThomas Buschta, Chief Financial Officer (CFO)\u003c/li\u003e\n\u003cli\u003eRoger Müller, Chief Procurement Officer (CPO)\u003c/li\u003e\n\u003cli\u003eMichael Figlestahler, Chief Revenue \u0026amp; Innovation Officer (CRIO)\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e   \u003c/p\u003e\u003ch3\u003eGeschiedenis\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003e1965 \u003c/strong\u003e\u003cbr\u003eSwiss Chalet wordt in Londen door de beide Zwitserse pioniers in toerisme, Bruno Franzen en Werner Frey, opgericht. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1966 \u003c/strong\u003e\u003cbr\u003eDe eerste buitenlandse vestiging in Amstelveen (Anneke Vonk). \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1969 \u003c/strong\u003e\u003cbr\u003eHet elektronische reserveringssysteem wordt gekoppeld aan IBM rekencentrum in Basel (ponskaarten). \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1970 \u003c/strong\u003e\u003cbr\u003eInterhome wordt opgericht om buitenlandse bestemmingen aan te bieden. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1975-77 \u003c/strong\u003e\u003cbr\u003eDe beide ondernemingen fuseren tot Swiss Chalets-Interhome, met 105 medewerkers in 16 kantoren. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1977 \u003c/strong\u003e\u003cbr\u003eDe onderneming wordt omgedoopt tot Interhome. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1980 \u003c/strong\u003e\u003cbr\u003eInterhome voert als pionier in de toeristensector een EDV-reserveringssysteem in en is nu online verbonden met alle buitenlandse vestigingen. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1986 \u003c/strong\u003e\u003cbr\u003eDe brochure verschijnt in een oplage van 2 miljoen exemplaren, in 8 talen en gedistribueerd in 12 landen. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1989 \u003c/strong\u003e\u003cbr\u003eHotelplan, de op één na grootste Zwitserse reisorganisatie en dochter van Migros, neemt Interhome over. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1995 \u003c/strong\u003e\u003cbr\u003eHet aanbod van Interhome is intussen uitgegroeid tot 75.000 bedden in 11 landen – nu ook in Duitsland, Tsjechië en Polen. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1998 \u003c/strong\u003e\u003cbr\u003eAls een der eerste in de branche gaat Interhome online en kan men naast het vinden van informatie, ook brochures online bestellen en zijn vanaf 1999 online boekingen mogelijk. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2000\u003c/strong\u003e \u003cbr\u003eHet Interhome-netwerk omvat onderhand 75 lokale kantoren en 30 partners, zodat wij onze cliënten ter plaatse een betere service kunnen bieden. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2003\u003c/strong\u003e \u003cbr\u003eInterhome verhuist naar het kantoor van Hotelplan om zo van een gemeenschappelijke infrastructuur te kunnen profiteren. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e \u003cbr\u003eSimon Lehman wordt de nieuwe CEO van Interhome. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e \u003cbr\u003eMet het nieuw ingevoerde 1-to-1-systeem kan Interhome haar cliënten een nog individueler aanbod doen en een betere service garanderen. Elke cliënt wordt beschouwd als gast. \u003cbr\u003eDe specialisten op het gebied van vakantiewoningen Casa Club, Frances Villas en Solemar worden in de portfolio geïntegreerd. Interhome vermeerdert daarmee haar aanbod aan exclusieve villa’s in Toscane en de Provence. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e \u003cbr\u003eDe website wordt geheel vernieuwd, zodat u uw droomvakantie nog sneller en eenvoudiger kunt boeken. Bovendien wordt de website met veel tips, aanvullende informatie en serviceaanbod uitgebreid! \u003cbr\u003eInterhome is nu in bijna alle landen van Europa vertegenwoordigd, waaronder Rusland en Kroatië. Ook zijn er samenwerkingsverbanden aangegaan met sterke partners in Denemarken, België en Nederland. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008 \u003c/strong\u003e\u003cbr\u003eInterhome gaat een partnerschap aan met ResortQuest in de USA en met Lomarengas in Finland en breidt daarmee haar portfolio uit. \u003cbr\u003ePer 1 maart heeft Interhome een complete ‘rebranding’ ondergaan. Het oude logo wijkt voor een nieuw, modern en dynamisch beeldmerk, met daarin echter - als voorheen - de Interhome-‘bird’. \u003cbr\u003ePer 1 april wordt VACANDO gelanceerd – een platvorm voor de ongeorganiseerde markt. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2009 \u003c/strong\u003e\u003cbr\u003eDe Indische markt wordt ontsloten: in India wordt een Interhome sales office geopend. \u003cbr\u003eInterhome is een strategisch partnerschap met Zwitserland Toerisme aangegaan om de internationale positie van Zwitserland als toeristisch topmerk te verstevigen. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2010\u003c/strong\u003e \u003cbr\u003eTotaal herontwerp van de webpagina en start genavigeerd zoeken. Nieuwe bestemmingen: Marokko en El Gouna/Egypte. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2011 \u003c/strong\u003e\u003cbr\u003eOvername van de Duitse marktleider Inter Chalet in 2013. Nieuwe bestemmingen: Israël en Cyprus toegevoegd. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2012 \u003c/strong\u003e\u003cbr\u003eExclusieve samenwerking met TripAdvisor, ’s werelds grootste reissite.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2013\u003c/strong\u003e\u003cbr\u003eHet nieuwe boekingssysteem krijgt een gouden plak in de categorie 'Usability' en zilver in 'Business Efficiency' als beste van de Swiss Web Awards.\u003c/p\u003e\u003cp\u003eInterhome werd online portal test winnaar in de Stiftung warentest. Doorslaggevend is de zoekmachine die erg overzichtelijk en gedetailleerd is.\u003cbr\u003eDe eerste vakantiehuizen specialist in een Duits sprekende wereld met een app voor de iPad die u voorziet van een uitgebreide keuze uit verschillende vakantiehuizen en apartementen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003cbr\u003eKoni Iten neemt het stuur over als CEO. Het bedrijf bereikt onder zijn leiding topresultaten. \u003cbr\u003eTevens is het eiland Mauritius sinds dit jaar toegevoegd als nieuwe bestemming.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003cbr\u003eInterhome viert dit jaar haar 50-jarig bestaan. Wederom een succesvol jaar sinds de geïntroduceerde nieuwe aanpak in 2014.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003cbr\u003eInterhome blijft aan de weg timmeren. Voor het eerst in ons bestaan heeft ons bedrijf meer dan 660.000 gasten voorzien van hun ideale vakantiehuis. De omzet steeg naar CHF186.6 Miljoen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003cbr\u003eInterhome en zijn dochtermaatschappij Inter Chalet komen dichter bij elkaar op directieniveau zodat de synergiën beter worden benut. Koni Iten gaat met pensioen en Thomas Stirnimann, CEO Hotelplan Group, neemt zijn taken over tot nader order. Het aantal klanten dat kiest voor Interhome stijgt met 5% tot 695.000\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003cbr\u003eInterhome zag een verdere stijging in het aantal verblijfsgasten. Alles samen verbleven 730.000 personen in een Interhome vakantiehuis of appartement.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003cbr\u003eInterhome en haar zusteronderneming Interchalet worden nu gezamenlijk geleid als \"HHD AG\". De namen Interhome en Interchalet zullen ook in de toekomst als merken in de reisindustrie blijven fungeren. Daarnaast neemt Jörg Herrmann als CEO de leiding van HHD AG over.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2020\u003c/strong\u003e\u003cbr\u003eNa een succesvolle start van het winterseizoen, werd de start van het zomerseizoen zwaar getroffen door de Corona pandemie. De grootste operationele uitdagingen waren de dagelijkse updates van reisbeperkingen, niet alleen met betrekking tot de 27 bestemmingen met individuele regelgeving, variërend per regio, maar ook met betrekking tot wereldwijde bronmarkten.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2021\u003c/strong\u003e\u003cbr\u003eHet jaar 2021 staat in het teken van het standaardiseren en stroomlijnen van interne processen voor de toekomst. Als onderdeel van deze verandering besluit HHD AG voortaan te opereren onder de naam Interhome Group. Voor directe klanten blijft de Interhome Group in Duitsland het merk Interchalet gebruiken en het merk Interhome in Zwitserland en de overige Europese landen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2022\u003c/strong\u003e\u003cbr\u003eHet jaar 2022 gaat de geschiedenis in als een recordjaar in het 57-jarige bestaan van de Interhome Group – met 9 miljoen overnachtingen en een omzet van CHF 371,0 miljoen. De nadruk ligt op de voortdurende uitbreiding van het netwerk van lokale servicekantoren, die een optimale ondersteuning en uitgebreide service voor gasten en huiseigenaren direct op de bestemming garanderen. Workation, de combinatie van werk en vakantie, wordt als nieuw onderdeel geïntegreerd en de daarvoor geschikte vakantieverblijven worden gecategoriseerd. Andere centrale thema's zijn digitalisering en de stap om pionier te worden op het gebied van duurzaam vakantiewoning-toerisme. Er worden verschillende klimaatbeschermingsprojecten gelanceerd, internationale duurzaamheidsteams opgericht en de “Glasgow Declaration on Climate Action in Tourism” van de VN Wereldorganisatie voor Toerisme wordt ondertekend.\u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

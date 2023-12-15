@@ -1,0 +1,149 @@
+{
+    "id": "15504",
+    "name": "beach-holiday",
+    "path": "pages/landingsite/topics/beach-holiday/Me-CO.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/beach-holiday",
+    "slug": "beach-holiday",
+    "locale": "Me-CO",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "beach-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.com/holiday-ideas/beach-holiday/",
+            "title": "Book a holiday apartment at the beach online | Interhome",
+            "description": "Book a holiday house at the sea; whether looking for adventure or relaxation, the beach is the perfect destination for everyone looking for a change of pace.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/beach-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_summer4_beach_holidays_2020/1804310-1-eng-XX/Header_1200x410_Summer4_Beach_Holidays_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/holiday-ideas/",
+                            "label": "Safe, enjoyable holidays - discover our holiday ideas"
+                        },
+                        {
+                            "href": "/holiday-ideas/beach-holiday/",
+                            "label": "Beach holidays"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Beach holidays",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eUnder a bright blue sky and warm sun, a holiday home at the sea is a great way to spend your next holiday. Whether you are booking a holiday for two or the \u003ca href=\"/holiday-ideas/family/\"\u003ewhole family\u003c/a\u003e, interhome has holiday apartments for every taste and need. Stay on the coast of a romantic \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity\u003c/a\u003e, and enjoy quiet days and exciting nights on the town. You can also book your holiday house at the beach away from it all and enjoy the peaceful sounds of the waves crashing into the shore. In a holiday home at the beach you can plan your own schedule, or even have no schedule at all. For those looking for a little more adventure, a beach holiday has much to offer.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDestinations\u003c/strong\u003e: \u003ca href=\"/italy/sardinia/beach-sea/\"\u003eSardinia\u003c/a\u003e, \u003ca href=\"/italy/sicily/beach-sea/\"\u003eSicily\u003c/a\u003e, \u003ca href=\"/italy/beach-sea/\"\u003eTuscany Coast\u003c/a\u003e, \u003ca href=\"/italy/amalfi-coast/beach-sea/\"\u003eAmalfi Coast\u003c/a\u003e and \u003ca href=\"/italy/friuli-venezia-giulia/beach-sea/\"\u003eAdria\u003c/a\u003e; \u003ca href=\"/croatia/istria/beach-sea/\"\u003eIstria\u003c/a\u003e, \u003ca href=\"/croatia/dalmatia/beach-sea/\"\u003eDalmatia\u003c/a\u003e and \u003ca href=\"/croatia/kvarner/beach-sea/\"\u003eKvarn Bay\u003c/a\u003e; \u003ca href=\"/france/cote-d-azur/beach-sea/\"\u003eCôte d'Azur\u003c/a\u003e, \u003ca href=\"/france/languedoc-roussillon/beach-sea/\"\u003eLanguedoc-Roussillon\u003c/a\u003e and \u003ca href=\"/france/normandy/beach-sea/\"\u003eNormandy\u003c/a\u003e, \u003ca href=\"/spain/costa-blanca/beach-sea/\"\u003eCosta Blanca\u003c/a\u003e, \u003ca href=\"/spain/costa-daurada/beach-sea/\"\u003eCosta Daurada\u003c/a\u003e and \u003ca href=\"/spain/costa-brava/beach-sea/\"\u003eCosta Brava\u003c/a\u003e; and \u003ca href=\"/spain/balearic-islands/beach-sea/\"\u003eBalearics\u003c/a\u003e or the \u003ca href=\"/spain/canary-islands/beach-sea/\"\u003eCanaries\u003c/a\u003e.\u003c/p\u003e\u003cp\u003eCheck out our Last Minute offers: \u003ca href=\"/holiday-ideas/last-minute/\"\u003eLast Minute Offers\u003c/a\u003e.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Only selected and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "Guaranteed availability and on-site service",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and insights for your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/italy/\"\u003eItaly\u003c/a\u003e, feel the charming lifestyle of the \u003ca href=\"/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or the \u003ca href=\"/spain/\"\u003eSpanish way of life\u003c/a\u003e. Be inspired by our \u003ca href=\"\"\u003etravel ideas\u003c/a\u003e and book online - quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eYour stay in a holiday house or a holiday apartment offers plenty of advantages: spend your time exactly as you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules. Whether you are looking for a \u003ca href=\"/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Simply enjoy lots of room, flexibility and freedom in your holiday home.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

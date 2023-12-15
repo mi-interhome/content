@@ -1,0 +1,144 @@
+{
+    "id": "15434",
+    "name": "benidorm-es040",
+    "path": "pages/officesite/spain/benidorm-es040/de-AT.json",
+    "folder": "pages",
+    "full_slug": "officesite/spain/benidorm-es040",
+    "slug": "benidorm-es040",
+    "locale": "de-AT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "officesite",
+        "spain",
+        "benidorm-es040"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.at/service-vor-ort/interhome-benidorm-es040/",
+            "title": "Lokales Interhome Büro: Benidorm | Interhome",
+            "description": "Lokaler Interhome Partner: Benidorm",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/officesite/Spain/benidorm-es040",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "height": 600,
+                            "src": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254142-51-ger-XX/Test-Image-for-Release.jpg",
+                            "width": 1440
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/service-vor-ort/",
+                            "label": "Service vor Ort"
+                        },
+                        {
+                            "href": "/service-vor-ort/interhome-benidorm-es040/",
+                            "label": "Local Interhome partner: Benidorm"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Lokaler Interhome Partner: Benidorm",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

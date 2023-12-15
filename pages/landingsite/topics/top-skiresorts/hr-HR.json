@@ -1,0 +1,168 @@
+{
+    "id": "18404",
+    "name": "top-skiresorts",
+    "path": "pages/landingsite/topics/top-skiresorts/hr-HR.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/top-skiresorts",
+    "slug": "top-skiresorts",
+    "locale": "hr-HR",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "top-skiresorts"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.hr/inspiracije/najljepska-skijalista/",
+            "title": "Chaleti, kuće za odmor i apartmani u najljepšim skijalištima | Interhome",
+            "description": "Skijanje u najljepšim europskim regijama - uz Interhome u vlastitom chaletu, kući za odmor ili apartmanu",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/top-skiresorts/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_winter_1_top_ski_resorts_20202/1789557-1-eng-XX/Header_1200x410_Winter_1_Top_ski_resorts_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspiracije/",
+                            "label": "Inspiracije"
+                        },
+                        {
+                            "href": "/inspiracije/najljepska-skijalista/",
+                            "label": "Skijanje u najljepšim europskim regijama"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Skijanje u najljepšim europskim regijama",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eOtkrijte najljepša europska skijališta i provedite nezaboravne trenutke uz Interhome. Naši udobni chaleti, predivne kuće za odmor direktno uz skijaške staze ili jedinstveni apartmani u srcu mjesta nam pružaju sigurnost da imamo savršen smještaj za svaki ukus i svaki novčanik.\u003c/p\u003e\u003cp\u003eNeovisno putujete li kao par, grupa prijatelja ili cijela obitelj, vjerujemo da ćete pronaći nešto za sebe u našim destinacijama kao štu su \u003ca href=\"/austrija/koruska/bad-kleinkirchheim/?skiing=true\u0026season=winter\"\u003eBad Kleinkirchheim\u003c/a\u003e, \u003ca href=\"/austrija/gasteinertal/bad-gastein/\"\u003eBad Gastein,\u003c/a\u003e \u003ca href=\"/austrija/tirol/seefeld-in-tirol/?skiing=true\u0026season=winter\"\u003eSeefeld\u003c/a\u003e, \u003ca href=\"/austrija/zillertal/mayrhofen/\"\u003eMayrhofen\u003c/a\u003e, \u003ca href=\"/francuska/savoie-haute-savoie/chamonix/\"\u003eChamonix\u003c/a\u003e, \u003ca href=\"/francuska/savoie-haute-savoie/val-thorens/?skiing=true\u0026season=winter\"\u003eVal Thorens\u003c/a\u003e, \u003ca href=\"/francuska/savoie-haute-savoie/tignes/\"\u003eTignes\u003c/a\u003e, \u003ca href=\"/svicarska/valais/zermatt/\"\u003eZermatt\u003c/a\u003e, \u003ca href=\"/svicarska/engadin/st-moritz/\"\u003eSt. Moritz\u003c/a\u003e ili \u003ca href=\"/svicarska/valais/saas-fee/\"\u003eSaas Fee\u003c/a\u003e.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eSkijanje, snowboard ili skijaško trčanje - što god je Vaš izbor, čekaju Vas nevjerojatno prostrana skijališta uz stotine kilometara širokih staza, svježi snijeg i neograničene mogućnosti uživanja. A navečer se u Vašoj kući za odmor možete opustiti u potpunoj privatnosti i udobnosti, možda i uz romantično pucketanje kamina. Ili se možete zaputiti na neku od brojnih après ski zabava. \u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Samo najljepša europska skijališta:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Heading",
+                "content": {
+                    "title": "Ostale pogodnosti za Interhome goste:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Sigurnost u vašoj kući za odmor!",
+                    "link": {
+                        "href": "/o-interhomeu/sigurnost-u-kuci-za-odmor/",
+                        "label": "Više informacija"
+                    },
+                    "car": "Pojedinačni dolasci",
+                    "cleaning": "Kvalitetno kontrolirano čišćenje",
+                    "independence": "Sloboda i neovisnost",
+                    "key": "Sigurna predaja ključa na licu mjesta",
+                    "privacy": "Privatnost u vašoj kući za odmor",
+                    "support": "Uslužnost na licu mjesta"
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Samo odabrane i provjerene kuće za odmor",
+                            "subtitle": "Kvaliteta je naš apsolutni prioritet",
+                            "caption": "Svaka kuća za odmor je provjerena od strane naših stručnjaka kako bismo Vam omogućili bezbrižan odmor."
+                        },
+                        {
+                            "title": "Garancija raspoloživosti i usluga na licu mjesta",
+                            "subtitle": "Uz nas se možete opustiti",
+                            "caption": "Ključeve preuzimate od domaćina ili u jednom od naših lokalnih ureda koji su Vam na raspolaganju za sva Vaša pitanja i želje tijekom boravka. A tu je i naša 24/7 služba za korisnike."
+                        },
+                        {
+                            "title": "Potpuni užitak i opuštanje",
+                            "subtitle": "Privatnost i sloboda vlastite kuće za odmor",
+                            "caption": "Bez prilagođavanja satnicama i rasporedima, u kući za odmor uživajte u danu prema svojim željama. Uz dovoljno prostora za cijelu obitelj ili prijatelje."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Odaberite Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNikad nije bilo lakše pronaći savršenu kuću za Vaš odmor. Želite li otkriti nove destinacije? Otkrijte nova mjesta ili otoke u \u003ca href=\"/hrvatska/\"\u003eHrvatskoj\u003c/a\u003e, iskusite što znači \"la dolce vita\" u \u003ca href=\"/italija/\"\u003eItaliji\u003c/a\u003e ili posjetite šarmantnu \u003ca href=\"/francuska/azurna-obala/\"\u003eFrancusku rivijeru\u003c/a\u003e. Neka Vas inspirira naša široka ponuda kuća za odmor i apartmana, a uz Interhome rezervirajte brzo, jednostavno i sigurno.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Sloboda, privatnost i dovoljno prostora za cijelu obitelj",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBoravak u kući za odmor ima broje prednosti: provodite vrijeme prema svojem rasporedu. Bez smetnji hotelskog osoblja ili drugih gostiju možete se potpuno opustiti. Neovisno tražlite li novu \u003ca href=\"/inspiracije/gradske-avanture/\"\u003egradsku avanturu\u003c/a\u003e ili opuštajući \u003ca href=\"/inspiracije/odmor-obitelji/\"\u003eodmor s obitelji\u003c/a\u003e, imamo nešto za svaki ukus i svaki džep.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

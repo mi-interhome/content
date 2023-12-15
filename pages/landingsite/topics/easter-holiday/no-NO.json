@@ -1,0 +1,181 @@
+{
+    "id": "18394",
+    "name": "easter-holiday",
+    "path": "pages/landingsite/topics/easter-holiday/no-NO.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/easter-holiday",
+    "slug": "easter-holiday",
+    "locale": "no-NO",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "easter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.no/inspirasjonskilder/paskeferie/",
+            "title": "Påskeferie i et feriehus | Interhome",
+            "description": "Tilbring en uforglemmelig påskeferie i en av Interhomes ferieleiligheter eller i et stort feriehus med massevis av plass for hele familien.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/easter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienwohnung zu Ostern ",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_easter-holidays/980241-1-ger-XX/Header_1400x480_easter-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspirasjonskilder/",
+                            "label": "Ferieideer"
+                        },
+                        {
+                            "href": "/inspirasjonskilder/paskeferie/",
+                            "label": "Påske"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Påske",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eNyt påsken og slapp av\u003c/p\u003e\u003cp\u003eUansett om det bare er for noen dager, eller for en utvidet påskeferie- nyt vårens ankomst i din egne feriebolig. Fargerike blomsterenger, varmen fra vårsolen og en koselig, rimelig ferieleilighet eller kanskje et romslig feriehus for hele familien- hva mer trenger du for skikkelig avslapping?\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"#traumziele\"\u003eMange attraktive destinasjoner\u003c/a\u003e \u0026gt;\u0026gt; \u003ca href=\"#empfehlungen\"\u003eVåre anbefalinger\u003c/a\u003e\u003c/p\u003e\u003cp\u003eTilbring en familieferie i et feriehus Foretrekker du naturskjønne omgivelser på en lang tur i fjellene, eller er vinteren tiden der du begynner å se fram til den neste ferien ved sjøen? Ønsker du å overraske din partner med en romantisk ferie i en ferieleilighet? Eller er du på jakt etter muligheter for en opplevelsesfylt familiepåskeferie med base i et romslig feriehus? Uansett hvor du helst vil tilbringe påskeferien din og uavhengig av hvem du ønsker å tilbringe den sammen med, vil du finne det riktige stedet til den riktig prisen hos Interhome. Hvorfor ikke booke en idyllisk ferieleilighet med sjøutsikt, en koselig hytte i fjellene eller et feriehus med mange soverom og nok plass for den utvidete familien. Hos Interhome finner det innkvarteringstilbudet som passer for deg.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Mange attraktive destinasjoner",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003cstrong\u003ePåskeferie i Tyskland\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDrømmer du å tilbringe en påskeferie i \u003cstrong\u003eTyskland\u003c/strong\u003e? Dette kan være en god ide, her vil du kunne oppdage vakre landskap og levende byer. La deg overraskes av blomstrende vårlandskap, forfriskende bad i Nordsjøen eller utfordrende fotturer i Schwarzwald. Uavhengig av hvilken type ferie du ser for deg, er det sikkert at du vil finne idylliske plasser i mangfoldige Tyskland som vil svare til dine forventinger. Og med Interhome vil du finne den rette leiligheten for opplevelsene. For de som foretrekker litt mer plass kan det være en god ide med et feriehus– på den måten kan ferien bli veldig koselig.\u003cbr\u003e\u003ca href=\"/tyskland/\"\u003eTyskland\u003c/a\u003e | \u003ca href=\"/tyskland/nordsjoen/\"\u003eNordsjøen\u003c/a\u003e | \u003ca href=\"/tyskland/schwarzwald/\"\u003eSchwarzwald\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePåskeferie i Nederland\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eTilbring påsken i \u003cstrong\u003eNederland\u003c/strong\u003e og nyt de fargerike gatene i Amsterdam. Eller slapp av i en ferieleilghet ved nordsjøen. Om det er i Noord-Nederland eller Zuid-Nederland: en tur til Nederland vil alltid være verdt det! \u003cbr\u003e\u003ca href=\"/nederland/\"\u003eNederland\u003c/a\u003e | \u003ca href=\"/nederland/nord-holland/\"\u003eNoord-Holland\u003c/a\u003e | \u003ca href=\"/nederland/sor-holland/\"\u003eZuid-Holland\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePåske i Italia\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eUansett om det er Gardasjøen, Toscana eller Venezia: den unike kulturen, historiske bygninger og den gode maten er bare noen av de mange grunnene til å bli imponert i \u003cstrong\u003eItalia\u003c/strong\u003e. Den perfekte blandingen av avslapping og opplevelser. \u003cbr\u003e\u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e | \u003ca href=\"/italia/gardasjoen/\"\u003eGardasjøen\u003c/a\u003e | \u003ca href=\"/italia/toscana/\"\u003eToscana\u003c/a\u003e | \u003ca href=\"/italia/veneto/venezia/\"\u003eVenezia\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePåskeferie i Spania\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e¡Felices Pascuas! I \u003cstrong\u003eSpania\u003c/strong\u003e er det like mange gode reisemål som i Tyskland, Nederland, Frankrike og Italia. Ha en fantastisk påskeferie på Mallorca. Fra midten av April er temperaturene slik at det vanligvis mulig å nyte en dukkert i havet. Perfekte temperaturer for barnas lek, avslapping i bortgjemte bukter, fotturer eller å slå seg løs på klubbene langs strandkanten. Costa Blanca på Spanias østkyst er også et flott sted å tilbringe påskeferien. \u003cbr\u003e\u003ca href=\"/spania\"\u003eSpania\u003c/a\u003e | \u003ca href=\"/spania/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/spania/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePåskeferie i Frankrike\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDe som foretrekker å lete etter påskeegget sitt i \u003cstrong\u003eFrankrike\u003c/strong\u003e kan tilbringe påskeferien i idylliske franska rivieran: Côte d'Azur.  De som ikke ønsker å reise så langt kan nyte Bretagne vest i Frankrike, og ta en dukkert i Atlanterhavet for et oppfriskende vårbad.\u003cbr\u003e\u003ca href=\"/frankrike\"\u003eFrankrike\u003c/a\u003e | \u003ca href=\"/frankrike/cote-d-azur/\"\u003eDen franske rivieraen\u003c/a\u003e | \u003ca href=\"/frankrike/bretagne/\"\u003eBretagne\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eStorbyferie i påsken\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn storbyferie i en spennende storby denne påsken er en glimrende mulighet for alle som foretrekker å bruke feriedagene på sommeren, men som likevel ønsker en pause fra hverdagen. Tilbring påskeferien i Berlin, Paris, Roma eller i en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003e\u003cstrong\u003eannen storby i Europa\u003c/strong\u003e\u003c/a\u003e. Med Interhome vil du finne det perfekte feriehuset for oppholdet\u003cbr\u003e\u003ca href=\"/tyskland/brandenburg/berlin/\"\u003eBerlin\u003c/a\u003e | \u003ca href=\"/frankrike/ile-de-france/paris/\"\u003eParis\u003c/a\u003e | \u003ca href=\"/italia/lazio/roma/\"\u003eRoma\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLast-minute påskeferie\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePåskeferien nærmer seg, men du har enda ikke funnet overnatting for ferien? Ta en titt på våre \u003ca href=\"/inspirasjonskilder/last-minute/\"\u003elast-minute tilbud\u003c/a\u003e. Ved last-minute booking vil få rabatter på opp til 33% på mange av våre feriehus og leiligheter. Så for den som ønsker å være litt spontan og dra på ferie med en venn/ parter eller med hele familien vil kunne finne akkurat det den ser etter hos Interhome, og dessuten spare litt penger underveis.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Heading",
+                "content": {
+                    "title": "Mange attraktive destinasjoner",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eEaster in Italy\u003c/h4\u003e\u003cp\u003eBe it Lake Garda, Tuscany or Venice: the unique culture, historical buildings and excellent food are just some of the reasons to be impressed by Italy. The perfect mix of relaxation and adventure!\u003cbr\u003e\u003ca href=\"/italia/\"\u003eItaly\u003c/a\u003e | \u003ca href=\"/italia/gardasjoen/\"\u003eLake Garda\u003c/a\u003e | \u003ca href=\"/italia/veneto/\"\u003eAdria/Veneto\u003c/a\u003e | \u003ca href=\"/italia/toscana/\"\u003eTuscany\u003c/a\u003e | \u003ca href=\"/italia/veneto/venezia/\"\u003eVenice\u003c/a\u003e | \u003ca href=\"/italia/firenze-citta-and-surroundings/firenze/\"\u003eFlorence\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003eAn Easter break to France\u003c/h4\u003e\u003cp\u003eThose who prefer to hunt for their Easter eggs in France can spend their Easter holiday on the picturesque Côte d'Azur. Those not wanting to travel that far can enjoy Brittany in the west of France and dive into the Atlantic for a refreshing spring swim. \u003cbr\u003e\u003ca href=\"/frankrike/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/frankrike/cote-d-azur/nar-sjoen/\"\u003eCôte d'Azur\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003eEaster holidays in Austria: hiking and wellness\u003c/h4\u003e\u003cp\u003eThe Easter holidays are perfect to visit the regions of Austria away from the crowds. Depending on the weather and your preferences, you can plan beautiful hiking trips, e.g in the Salzkammergut, Gasteinertal, Lungau, in Tyrol, Carinthia, Vorarlberg or Styria. Be enchanted by the blossoming spring landscapes and enjoy the culinary delights of the region. And after your hiking tour, you may enjoy the in-house sauna or spa offered in some of our holiday homes. No matter what kind of holidays you are looking for, in Austria you are sure to find a heavenly place to suit your taste ... and the perfect holiday apartment with Interhome. And if you like it more spacious, you can also book one of the many holiday houses that we offer in Tyrol where you can make yourself comfortable and feel right at home.\u003cbr\u003e\u003ca href=\"/osterrike/\"\u003eAustria\u003c/a\u003e | \u003ca href=\"/\"\u003eSalzburg\u003c/a\u003e | \u003ca href=\"/osterrike/tyrol/\"\u003eTyrol\u003c/a\u003e | \u003ca href=\"/osterrike/kaernten/\"\u003eCarinthia\u003c/a\u003e | \u003ca href=\"/osterrike/vorarlberg/\"\u003eVorarlberg\u003c/a\u003e | \u003ca href=\"/osterrike/styria/\"\u003eStyria\u003c/a\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e   \u003c/strong\u003e\u003c/p\u003e\u003ch4\u003eEaster holidays in Spain\u003c/h4\u003e\u003cp\u003e¡Felices Pascuas! Spain offers some wonderful locations for your Easter break. Have a great time on an Easter trip to Mallorca. In mid-April you’ll generally be able to enjoy a dip in the sea in some lovely warm temperatures. Perfect for the kids to play around in, as well as for relaxing in secluded bays, hiking or for letting your hair down in the clubs along the beachfront. The Costa Blanca on Spain’s east coast is also a great place to spend the Easter holidays.\u003cbr\u003e\u003ca href=\"/spania/\"\u003eSpain\u003c/a\u003e | \u003ca href=\"/spania/mallorca/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/spania/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003eCity breaks in the Easter holidays\u003c/h4\u003e\u003cp\u003e\u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003eA city break\u003c/a\u003e to a fascinating big city is a great idea for all those who prefer to take their annual leave in summer but who would nevertheless like to get away for a couple of days over Easter. Spend your Easter holidays in Berlin, Paris, Rome or in another major city in Europe. With Interhome, you’ll be able to find the right holiday accommodation for your stay.\u003cbr\u003e\u003ca href=\"/tsjekkia/praha-og-omegn/\"\u003ePrague\u003c/a\u003e | \u003ca href=\"/frankrike/ile-de-france/\"\u003eParis\u003c/a\u003e | \u003ca href=\"/italia/rome-city/roma/\"\u003eRome\u003c/a\u003e | \u003ca href=\"/osterrike/wien/wien/\"\u003eVienna\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003eA last minute Easter break\u003c/h4\u003e\u003cp\u003eEaster is getting ever closer and you still haven’t found any accommodation for your Easter holiday? Then take a look at our \u003ca href=\"/inspirasjonskilder/last-minute/\"\u003elast minute offers\u003c/a\u003e. Those who book last minute can expect a discount of up to 33 percent on many holiday houses and apartments. So all those who book on the spur of the moment and want to get away with a friend/partner or with the whole family will be sure to find the right accommodation with Interhome and even save some hard cash along the way!\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

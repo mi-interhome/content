@@ -1,0 +1,166 @@
+{
+    "id": "18667",
+    "name": "mountains",
+    "path": "pages/landingsite/topics/mountains/sv-SE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/mountains",
+    "slug": "mountains",
+    "locale": "sv-SE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "mountains"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.se/semestertips/bergen/",
+            "title": "Holiday homes in the mountains | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/mountains/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_mountains_autumn_2020/1991724-1-eng-XX/Header_1200x410_IH_Mountains_Autumn_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/semestertips/",
+                            "label": "Säkra och lyckliga semestrar - upptäck våra semesteridéer"
+                        },
+                        {
+                            "href": "/semestertips/bergen/",
+                            "label": "Stugor och semesterhus i bergen"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Stugor och semesterhus i bergen",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eOavsett om det är \u003ca href=\"/schweiz/?filters=17:2\u0026amp;season=summer\"\u003eSchweiz\u003c/a\u003e, \u003ca href=\"/oesterrike/?filters=17:2\u0026amp;season=summer\"\u003eÖsterrike\u003c/a\u003e, \u003ca href=\"/frankrike/?filters=17:2\u0026amp;season=summer\u0026amp;sorting=descAverageRating\"\u003eFrankrike\u003c/a\u003e eller \u003ca href=\"/tyskland/?filters=17:2\u0026amp;season=summer\"\u003eTyskland\u003c/a\u003e: Efter en lång vandring på bergstopparna är det oslagbart att komma hem till ditt härliga semesterhus, stuga eller lägenhet, lägga upp fötterna och hälla upp ett glas vin och blicka ut över det fantastiska landskapet och planera för nästa dags äventyr.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eDramatiska klippor, lugna stillsamma bergsjöar och idylliska utsikter – ja, bergen är inte bara en vinter- och snödestination. Alla årstider är den perfekta tiden för att njuta av magnifika utsikter och fylla  på med energi långt bort från vardagen.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Frisk bergsluft direkt utanför dörren – våra rekommendationer: ",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e Att spendera en sommar i bergen är underbart! Kolla in våra alternativ nedan, börja planera och dröm dig bort:\u003c/p\u003e\u003ctable class=\"\" border=\"\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/tyskland/?filters=17:2\u0026amp;season=summer\"\u003eEn naturupplevelse - Välkommen till de tyska bergen\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/schweiz/?filters=17:2\u0026amp;season=summer\"\u003eDe schweiziska alperna - Fantastiska vyer\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/oesterrike/?filters=17:2\u0026amp;season=summer\"\u003eÖsterriska alperna – Kärvänlighet och matupplevelser\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/frankrike/?filters=17:2\u0026amp;season=summer\u0026amp;sorting=descAverageRating\"\u003eFranska alperna – från höga toppar till Medelhavet\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003cp\u003eDet spelar ingen roll vilken topp du väljer – Interhome erbjuder ett stort utbud av exklusiva semesterhus och lägenheter i alla fyra länder. De vackra bergen ger ett lika fantastiskt intryck oavsett vilket land eller område de ligger i. Fördelen med de olika länderna och dess bergiga regioner är även där gemensam – de ligger alla nära och bidrar till lugn, ro och avslappning till alla dem som får uppleva bergen. En semester i bergen är mer än bara vila och avslappning: det är en medicin för både kropp och själ. Se mer om våra semesterhus och lägenheter nedan. \u003cbr\u003eOavsett om du reser med som en barnfamilj eller par, om du är 20 eller 70, om du åker med din hund eller ensam: en semester i bergen är den perfekta platsen för avslappning för många turister varje år. Utöver att vara prisvärd, en semester i bergen är framför allt perfekt för er som gillar traditioner och familjevärderingar. Ingen annan stans kan man spendera en så jordnära men samtidigt lyxig semester som i bergen. I linje med mottot ”tillbaka till verkligheten” kommer du att kunna njuta av din semester i hjärtat av regionen. \u003cbr\u003eLika härligt som att upptäcka nya saker kan också återupptäcka det gamla vara minst lika kul och det tillåter också resenären att få en känsla för säkerhet och tillit på vägen. Vilket är något som alla turister i bergen uppskattar och inte längre kommer att vilja leva utan. \u003cbr\u003eVi vill med glädje välkomna dig till en semester i bergen!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg är du i ditt fritidshus!",
+                    "link": {
+                        "href": "/om-interhome/säkerhet-i-ditt-semesterhus/",
+                        "label": "Mer information"
+                    },
+                    "car": "Individuell ankomstresa",
+                    "cleaning": "Kontrollerad städning",
+                    "independence": "Fri och oberoende",
+                    "key": "Säkert nyckelöverläm nande på plats",
+                    "privacy": "Privatsfär i ditt fritidshus",
+                    "support": "Personlig hjälp på plats under vistelsen"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Endast kvalitetssäkrade semesterbostäder",
+                            "subtitle": "Kvalitet är vår främsta prioritet",
+                            "caption": "Varje fastighet kontrolleras före ankomst för att garantera bästa möjliga vistelse"
+                        },
+                        {
+                            "title": "Garanterad tillgänglighet och service på plats ",
+                            "subtitle": "Få det bästa ut av vår expertis",
+                            "caption": "Nyckelhantering arrangeras av vår hjälpsamma personal. Tillgänglig dygnet runt eller på plats för att hjälpa dig med alla dina frågor, till exempel: med tips och kunskap om ditt semestermål och ditt bokade boende."
+                        },
+                        {
+                            "title": "En minnesvärd semesterupplevelse",
+                            "subtitle": "Privatliv och frihet i ditt eget semesterboende",
+                            "caption": "Var din egen chef, äta när du vill och njut av gott om plats för alla dina vänner och familj"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Varför boka boende med Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig varit lättare att hitta det perfekta huset, stugan eller lägenheten för semestern. Vill du utforska nya resmål? Det finns inget bättre sätt än att göra det i ett semesterhus: \u003ca href=\"/spanien/\"\u003eHyr ett hus i Spanien\u003c/a\u003e, eller en \u003ca href=\"/sverige/\"\u003estuga i Sverige\u003c/a\u003e, eller varför inte \u003ca href=\"/italien/\"\u003ehyra en villa i Italien\u003c/a\u003e. Bli inspirerad av våra \u003ca href=\"\"\u003esemestertips\u003c/a\u003e och boka online - snabbt, enkelt och säkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAtt hyra en stuga, hus eller lägenhet för semestern erbjuder många fördelar: Bland annat kan du spendera din tid precis som du vill. Ingen störning från andra gäster eller hotellpersonal, bara njuta av din semester och följa dina egna regler. Oavsett om du letar efter en \u003ca href=\"/semestertips/storstadssemester/\"\u003estorstadssemester\u003c/a\u003e, en avkopplande semester med \u003ca href=\"/semestertips/semesterboende-barnfamiljer/\"\u003edin familj eller med vänner\u003c/a\u003e. Helt enkelt njut av mycket utrymme, flexibilitet och frihet i ditt eget semesterboende.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

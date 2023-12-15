@@ -1,0 +1,151 @@
+{
+    "id": "38347",
+    "name": "BE - Pasar",
+    "path": "pages/landingsite/pages/be-pasar/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/be-pasar",
+    "slug": "be-pasar",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "be-pasar"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/pages/pasar/",
+            "title": "Partnerpagina Pasar | Interhome Vakantiewoningen",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/BE - Pasar/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/pasar/",
+                            "label": "Geniet van 5% korting op uw Interhome verblijf dankzij Pasar "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Geniet van 5% korting op uw Interhome verblijf dankzij Pasar ",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eBent u op zoek naar een villa met privézwembad in Spanje, een chalet in de Alpen, een stadsappartement voor een citytrip of een woning aan de Belgische kust? Dan bent u bij Interhome aan het juiste adres! Met 33.000 vakantiewoningen in meer dan 30 landen vindt u bij Interhome altijd het verblijf dat voldoet aan al uw wensen.\u003c/p\u003e\u003cp\u003eReeds meer dan 55 jaar is Interhome de referentie voor vakantiewoningen. Leden van Pasar kunnen exclusief gebruik maken van 5% korting op het gehele aanbod. Deze korting is zelfs cumuleerbaar met promoties en andere kortingen.\u003c/p\u003e\u003ch3\u003eHoe geniet u van deze korting?\u003c/h3\u003e\u003cp\u003eU kan het gehele aanbod terugvinden op onze website. De actie kan u activeren door te klikken op deze \u003ca href=\"/?partnerid=BE0600093\"\u003elink\u003c/a\u003e. \u003cbr\u003eOm te genieten van de 5% korting gebruikt u de actiecode: PASAR5 in het veld ‘Corporate Partner’ op de boekingspagina.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cimg src=\"https://images.interhome.group/ezcms/media/inter-chalet/images/logos/pasar-met-baseline_cmyk3/2042310-1-dut-BE/Pasar-met-baseline_CMYK.jpg\" width=\"600\" height=\"199\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"center\" data-id=\"38359\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

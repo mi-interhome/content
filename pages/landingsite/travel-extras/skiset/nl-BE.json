@@ -1,0 +1,149 @@
+{
+    "id": "19202",
+    "name": "skiset",
+    "path": "pages/landingsite/travel-extras/skiset/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/travel-extras/skiset",
+    "slug": "skiset",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "travel-extras",
+        "skiset"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/service/skiset/",
+            "title": "Wintersportuitrusting van SKISET | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/travel-extras/skiset/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_skiset_31_10_2023_2/2277277-1-eng-XX/Header_1200x410_IH_Skiset_31_10_2023_2.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/service/",
+                            "label": "Service"
+                        },
+                        {
+                            "href": "/service/skiset/",
+                            "label": "Wintersportuitrusting van SKISET"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersportuitrusting van SKISET",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eHuur uw ski- en snowboardmateriaal gemakkelijk ter plaatse. Als klant van Interhome profiteert u van kortingen bij SKISET. Wanneer u vooraf online reserveert, wordt uw wintersportuitrusting voor u gereserveerd en staat deze bij aankomst klaar om opgehaald te worden.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eGroot netwerk met locaties in het hart van skiresorts\u003c/li\u003e\n\u003cli\u003eDe nieuwste ski's en snowboards voor professionals en wintersportliefhebbers\u003c/li\u003e\n\u003cli\u003eProfessionele service en advies ter plekke\u003c/li\u003e\n\u003cli\u003eEen zorgeloze start van uw skivakantie\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003eU vindt het online-aanbod en alle SKISET-locaties hier:\u003c/p\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/37089/1994332-1-eng-XX/Skiset.jpg\" width=\"155\" height=\"40\" data-view=\"embed\" data-offset=\"\" data-limit=\"\" data-align=\"right\" data-id=\"37896\" data-type=\"image\" data-content=\"\"\u003e\u003ccustom name=\"html\"\u003e\u003cp\u003e\u003ciframe id=\"iframe_skiset\" src=\"https://partner.skiset.com/interhome/motor/full?country=2\u0026amp;lang=nl\u0026amp;custom_show_header=0\u0026amp;custom_show_inputs=1\u0026amp;custom_show_bg=1\" frameborder=\"0\" width=\"100%\" height=\"580\" scrolling=\"no\"\u003e\u003c/iframe\u003e\u003c/p\u003e\u003c/custom\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

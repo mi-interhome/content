@@ -1,0 +1,150 @@
+{
+    "id": "15508",
+    "name": "cheepcheep",
+    "path": "pages/landingsite/topics/cheepcheep/it-IT.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/cheepcheep",
+    "slug": "cheepcheep",
+    "locale": "it-IT",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "cheepcheep"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.it/tipo-di-vacanza/vacanza-convenienti/",
+            "title": "Case e appartamenti di vacanza convenienti | Interhome",
+            "description": "Hai voglia di un nuovo viaggio ma il salvadanaio piange? Prenota uno dei nostri appartamenti più convenienti senza dover rinunciare alla qualità!",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/cheepcheep/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Günstige Ferienhäuser bei Interhome",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_cheap-holidays/980236-1-ger-XX/Header_1400x480_cheap-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/tipo-di-vacanza/",
+                            "label": "Vacanze sicure e divertenti – scoprite cosa possiamo offrirvi  "
+                        },
+                        {
+                            "href": "/tipo-di-vacanza/vacanza-convenienti/",
+                            "label": "Case vacanza convenienti"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Case vacanza convenienti",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eRisparmia senza rinunciare al comfort e alla qualità!\u003c/h3\u003e\u003cp\u003eHai finalmente deciso di concederti un po' di relax con la tua famiglia o con i tuoi amici? Se non vedi l'ora di partire, ma desideri anche risparmiare, organizza il tuo viaggio in modo intelligente.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eInterhome mette a tua disposizione molti appartamenti dai prezzi particolarmente convenienti, nei quali potrai organizzare le tue giornate in totale libertà, disponendo di tutte le comodità che solo una casa vacanze è in grado di offrirti. Soluzioni non di lusso, ma accoglienti, curate e dotate di tutti i comfort più essenziali.\u003c/p\u003e\u003cp\u003eScegli subito la casa vacanze che fa per te e prenotala direttamente online!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Nella tua casa vacanze in totale sicurezza!",
+                    "link": {
+                        "href": "/chi-siamo/sicurezza-nella-sua-casa-vacanze/",
+                        "label": "Maggiori informazioni"
+                    },
+                    "car": "Arrivi individuali",
+                    "cleaning": "Pulizia di alto livello",
+                    "independence": "Libertà e indipendenza",
+                    "key": "Consegna sicura delle chiavi",
+                    "privacy": "Privacy garantita",
+                    "support": "Assistenza in loco"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Solo case vacanza di qualità",
+                            "subtitle": "La qualità è la nostra priorità numero 1",
+                            "caption": "Ogni casa vacanze viene preparata con cura prima dell'arrivo dei clienti."
+                        },
+                        {
+                            "title": "Assistenza e servizi in loco",
+                            "subtitle": "Siamo sempre a tua disposizione",
+                            "caption": "La consegna chiavi della casa vacanze viene effettuata dai nostri collaboratori. Il nostro servizio clienti è a tua disposizione 24h su 24 per aiutarti in caso di necessità.\r\n"
+                        },
+                        {
+                            "title": "Vacanze uniche",
+                            "subtitle": "All'insegna della privacy e della libertà",
+                            "caption": "Il programma delle tue giornate lo decidi tu ed avrai sempre a disposizione tanto spazio per te, per la tua famiglia o i tuoi amici."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Perché scegliere Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003ePerché con noi troverai certamente la casa vacanze dei tuoi sogni. Dal moderno \u003ca href=\"/tipo-di-vacanza/vacanza-in-citta/\"\u003eappartamento in città \u003c/a\u003e all'elegante\u003ca href=\"/tipo-di-vacanza/vacanze-con-piscina/\"\u003e villa con piscina\u003c/a\u003e, dal rustico \u003ca href=\"/ricerca/?filters=34:6\"\u003ecasale\u003c/a\u003e immerso nella campagna al romantico \u003ca href=\"/chalet/\"\u003echalet di montagna\u003c/a\u003e... abbiamo soluzioni per tutte le esigenze!\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "I vantaggi di una casa vacanze",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIn vacanza è importante sentirsi sempre a proprio agio, quindi perché accontentarsi di una stanza d'albergo? Non rinunciare ai tuoi spazi e alle tue abitudini, goditi tutta l'indipendenza e la privacy che solo una vacanza in casa potrà offrirti!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "id": "15514",
+    "name": "last-minute",
+    "path": "pages/landingsite/topics/last-minute/sv-SE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/last-minute",
+    "slug": "last-minute",
+    "locale": "sv-SE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "last-minute"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.se/semestertips/sista-minuten/",
+            "title": "Lägenheter och semesterhus med Sista Minuten-rabatt | Interhome",
+            "description": "Känner du för att boka en semesterresa spontant? Med Interhomes Sista Minuten-erbjudanden kan du hyra semesterhus eller lägenheter och få rabatt!",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/last-minute/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_last_minute_autumn_2020/2079758-5-eng-XX/Header_1200x410_IH_Last_Minute_Autumn_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/semestertips/",
+                            "label": "Säkra och lyckliga semestrar - upptäck våra semesteridéer"
+                        },
+                        {
+                            "href": "/semestertips/sista-minuten/",
+                            "label": "Hyr Hus, Stugor och Lägenheter till Sista-Minuten och få rabatt"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Hyr Hus, Stugor och Lägenheter till Sista-Minuten och få rabatt",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eFick du möjlighet att ta en veckas semester med kort varsel? Titta på våra generösa Sista Minuten-erbjudanden! Vi erbjuder alltid extra bra pris om du bokar din semesterbostad 2-8 dagar före ankomst. Boka ett av våra rabatterade hus och upptäck ett nytt resmål, som du kanske inte hade upptäckt annars.\u003c/p\u003e\u003cp\u003e Några saker som kan vara bra att tänka på när man är på jakt efter grymma sista minuten deals:\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eSe till att alla resandes pass och försäkringar fortfarande är giltiga!\u003c/li\u003e\n\u003cli\u003eFörsök att utnyttja sista minuten erbjudanden från flygbolag när ni bokar flygresan!\u003c/li\u003e\n\u003cli\u003eVar gärna inte så noga med destination och exakta datum, detta kommer hjälpa er att hitta de allra bästa erbjudanden!\u003c/li\u003e\n\u003cli\u003eVar snabb! Sista minuten finns inte hur länge som helst, det är ju hela poängen!\u003c/li\u003e\n\u003c/ul\u003e\u003ch3\u003eUpptäck Europa med Interhomes Sista minuten erbjudanden\u003c/h3\u003e\u003cp\u003eDet har aldrig varit enklare att åka med familjen, kompisgäng, partner eller själv och utforska allt som finns att se i Europa!\u003c/p\u003e\u003cp\u003eHyr lägenhet i Spanien sista minuten och ta med familjen på en solig och härlig resa. Eller varför inte hyra ett hus med pool på Kreta till ett grymt pris och ta med hela kompisgänget? Vi erbjuder även möjligheten att hyra stugor i alperna till sista minuten så att du kan få en härlig skidresa i vinter med oslagbara backar. Eller en romantisk vecka i en stor villa i Italien med din partner kanske låter lockande? Hursomhelst så finns det ett sista minuten erbjudande för alla. Det är värt att vara spontan!\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eOBS: Online-bokning är endast möjlig fram till 3 dagar före ankomst. För bokningar med mindre än 3 dagar till ankomst, vänligen ring vår kundtjänst på \u003cstrong\u003e08-21 65 50\u003c/strong\u003e.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg är du i ditt fritidshus!",
+                    "link": {
+                        "href": "/om-interhome/säkerhet-i-ditt-semesterhus/",
+                        "label": "Mer information"
+                    },
+                    "car": "Individuell ankomstresa",
+                    "cleaning": "Kontrollerad städning",
+                    "independence": "Fri och oberoende",
+                    "key": "Säkert nyckelöverläm nande på plats",
+                    "privacy": "Privatsfär i ditt fritidshus",
+                    "support": "Personlig hjälp på plats under vistelsen"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Endast kvalitetssäkrade semesterbostäder",
+                            "subtitle": "Kvalitet är vår främsta prioritet",
+                            "caption": "Varje fastighet kontrolleras före ankomst för att garantera bästa möjliga vistelse"
+                        },
+                        {
+                            "title": "Garanterad tillgänglighet och service på plats ",
+                            "subtitle": "Få det bästa ut av vår expertis",
+                            "caption": "Nyckelhantering arrangeras av vår hjälpsamma personal. Tillgänglig dygnet runt eller på plats för att hjälpa dig med alla dina frågor, till exempel: med tips och kunskap om ditt semestermål och ditt bokade boende."
+                        },
+                        {
+                            "title": "En minnesvärd semesterupplevelse",
+                            "subtitle": "Privatliv och frihet i ditt eget semesterboende",
+                            "caption": "Var din egen chef, äta när du vill och njut av gott om plats för alla dina vänner och familj"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Varför boka boende med Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldrig varit lättare att hitta det perfekta huset, stugan eller lägenheten för semestern. Vill du utforska nya resmål? Det finns inget bättre sätt än att göra det i ett semesterhus: \u003ca href=\"/spanien/\"\u003eHyr ett hus i Spanien\u003c/a\u003e, eller en \u003ca href=\"/sverige/\"\u003estuga i Sverige\u003c/a\u003e, eller varför inte \u003ca href=\"/italien/\"\u003ehyra en villa i Italien\u003c/a\u003e. Bli inspirerad av våra \u003ca href=\"\"\u003esemestertips\u003c/a\u003e och boka online - snabbt, enkelt och säkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eAtt hyra en stuga, hus eller lägenhet för semestern erbjuder många fördelar: Bland annat kan du spendera din tid precis som du vill. Ingen störning från andra gäster eller hotellpersonal, bara njuta av din semester och följa dina egna regler. Oavsett om du letar efter en \u003ca href=\"/semestertips/storstadssemester/\"\u003estorstadssemester\u003c/a\u003e, en avkopplande semester med \u003ca href=\"/semestertips/semesterboende-barnfamiljer/\"\u003edin familj eller med vänner\u003c/a\u003e. Helt enkelt njut av mycket utrymme, flexibilitet och frihet i ditt eget semesterboende.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

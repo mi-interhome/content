@@ -1,0 +1,167 @@
+{
+    "id": "15559",
+    "name": "citytrips",
+    "path": "pages/landingsite/topics/citytrips/es-ES.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/citytrips",
+    "slug": "citytrips",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "citytrips"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.es/ideas-vacaciones/estancias-ciudades/",
+            "title": "Alojamiento en Ciudades | Interhome",
+            "description": "Alojamiento en Ciudades. Disfrute de la mejor manera de descubrir una ciudad. ",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/citytrips/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/images/header_1400x480_city/985978-1-ger-XX/Header_1400x480_city.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ideas-vacaciones/",
+                            "label": "Descubra nuestras ideas de vacaciones – Vacaciones divertidas y seguras"
+                        },
+                        {
+                            "href": "/ideas-vacaciones/estancias-ciudades/",
+                            "label": "Estancias en Ciudades"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Estancias en Ciudades",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003eDisfrute de la mejor manera de descubrir una ciudad.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eCon un apartamento propio, se puede conocer una ciudad a fondo. Éste es el punto de partida de sus paseos de reconocimiento y al mismo tiempo el refugio para tomarse sus merecidos respiros. En pleno centro, sentirá de manera directa el pulso, el ritmo y la energía de la ciudad. \u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003e¿Cuáles son sus planes? ¿Visitas culturales o un maratón de compras? ¿Tranquilos paseos o noches intensas? Sea como sea, aprovechará de las ventajas de su apartamento propio: espacio suficiente, todas las libertades y estar en medio de la acción. Ahórrese la estadía en hoteles con precios exorbitantes; le ofrecemos apartamentos de vacaciones a precios razonables y atractivos.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Sugerencias casa de vacaciones en Cuidades:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003e¿Todavía no tiene planeado que hace en Semana Santa?\u003c/h3\u003e\u003cp\u003eEl clima templado en Abril es perfecto para una escapada a una de las grandes ciudades de Europa. Paris, Roma, Barcelona o en cualquier otra ciudad de ensueño , Interhome le ofrece el mejor alojamiento en ciudad.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"/ideas-vacaciones/semanasanta/\"\u003eOtras ideas para sus vacaciones de Semana Santa\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Siéntase seguro en su casa de vacaciones!",
+                    "link": {
+                        "href": "/sobre-interhome/seguridad-en-su-casa-de-vacaciones/",
+                        "label": "Más información"
+                    },
+                    "car": "Desplazamiento particular",
+                    "cleaning": "Protocolo específico de limpieza",
+                    "independence": "Libertad y flexibilidad",
+                    "key": "Entrega de llaves segura",
+                    "privacy": "Privacidad en su casa de vacaciones",
+                    "support": "Atención personal en destino"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Alojamientos verificados y de calidad",
+                            "subtitle": "La calidad nuestra prioridad",
+                            "caption": "Cada una de nuestras propiedades es revisada antes de su llegada para asegurar la mejor estancia posible."
+                        },
+                        {
+                            "title": "Disponibilidad garantizada y servicio in-situ",
+                            "subtitle": "Aproveche al máximo nuestra experiencia",
+                            "caption": "La recogida de llaves está organizada por nuestro atento personal. Disponible las 24 horas del día, los 7 días de la semana y en nuestras oficinas locales para ayudarlo con todas sus preguntas, por ejemplo: consejos, preguntas sobre su destino de vacaciones..."
+                        },
+                        {
+                            "title": "Una experencia inolvidable",
+                            "subtitle": "Privacidad y libertad en su propia casa de vacaciones",
+                            "caption": "Sin horarios para comer y con sus propias reglas, disfrute de su tiempo en familia o con amigos."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por qué Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca ha sido fácil organizar las vacaciones perfectas. ¿Quieres explorar nuevos destinos? No hay mejor manera de hacerlo que desde un apartamento de vacaciones. Disfruta de la dolce vita en \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, descubre el encanto de \u003ca href=\"/francia/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e o empápate del \u003ca href=\"/espana/\"\u003eestilo de vida español\u003c/a\u003e. Inspírate con nuestras ideas para viajar y haz tu reserva online: con Interhome es fácil y seguro. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Libertad, privacidad y espacio en su casa de vacaciones",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSu estancia en una casa o apartamento de vacaciones está llena de ventajas: invierta su tiempo como quiera. Sin molestias de otros clientes o personal del hotel, simplemente disfrute de sus vacaciones marcándose sus propias reglas. Tanto como si busca una escapada a una ciudad, como unas relajantes vacaciones en familia o con amigos. Simplemente disfrute de la estancia, flexibilidad y libertad que le ofrece su casa de vacaciones.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

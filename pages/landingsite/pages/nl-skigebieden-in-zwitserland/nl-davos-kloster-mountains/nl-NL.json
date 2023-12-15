@@ -1,0 +1,149 @@
+{
+    "id": "24087",
+    "name": "NL - Davos Kloster Mountains",
+    "path": "pages/landingsite/pages/nl-skigebieden-in-zwitserland/nl-davos-kloster-mountains/nl-NL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/nl-skigebieden-in-zwitserland/nl-davos-kloster-mountains",
+    "slug": "nl-davos-kloster-mountains",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "nl-skigebieden-in-zwitserland",
+        "nl-davos-kloster-mountains"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.nl/pages/zwitserland-skigebieden/davos-kloster-mountains/",
+            "title": "Wintersport chalets in Davos Kloster Mountains | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/NL - Skigebieden in Zwitserland/NL - Davos Kloster Mountains/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/",
+                            "label": "Skigebieden in Zwitserland"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/davos-kloster-mountains/",
+                            "label": "Wintersport chalets in Davos Kloster Mountains"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersport chalets in Davos Kloster Mountains",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eIn het kanton \u003ca href=\"/zwitserland/graubuenden/?webSyncID=5b1611b4-b1eb-b37a-ade7-d6269901503a\u0026amp;sessionGUID=edd2ea75-171d-9e06-4842-3e16cbd476b2\"\u003eGraubünden\u003c/a\u003e is Davos-Klosters-mountains een groot aaneengesloten skigebied dat eigenlijk bestaat uit zes losse skigebieden bij elkaar in de buurt. Het gebied is genoemd naar de twee centrale dorpen in het gebied, Davos en Klosters.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome biedt in de volgende dorpen in Davos-Kloster-mountains vakantiewoningen aan:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/praettigau-landwaterdal/davos/\"\u003eDavos\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/praettigau-landwaterdal/davos-schmitten/\"\u003eDavos - Schmitten\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Davos Kloster\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-in-zwitserland2/1398102-1-dut-NL/Vakantiehuisjes-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24092\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-dichtbij-de-skilift2/1398110-1-dut-NL/Vakantiehuisjes-dichtbij-de-Skilift.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24094\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/skigebieden-in-zwitserland2/1398115-1-dut-NL/Skigebieden-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24095\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/zwitserland/skien-snowboarden\"\u003e\u0026gt;\u0026gt; Chalets in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/zwitserland-skigebieden/\"\u003e\u0026gt;\u0026gt; Skigebieden in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003ch3\u003eWintersportgebieden in Davos-Klosters-mountains\u003c/h3\u003e\u003cp\u003eHet bijzondere aan dit gebied is dat de verschillende deelgebieden allemaal een heel eigen karakter hebben, waardoor je in een totaal andere setting kan terechtkomen als je naar een ander skigebied gaat. Van de losse skigebieden is Parsenn-Gotschna het grootste met 115 kilometer aan brede pistes. Het is een typische skiberg met zeer lange afdalingen en wordt wel de bakermat van het Zwitserse skiën genoemd. Al 80 jaar geleden werd hier een kabelspoorweg aangelegd.\u003c/p\u003e\u003cp\u003eHet Madrisa skigebied heeft zich daarentegen gespecialiseerd in skipret voor jonge gezinnen, met allerhande voorzieningen voor de ouders en kinderen. Naast alle wintersportfaciliteiten is er ook gezorgd voor andere ontspanning in de vorm van trampolines, springkastelen etc. Er zijn natuurlijk ook gewoon 50 kilometer pistes aanwezig. De trendy skiër of snowboarder gaat naar Jakobshorn. Het heeft 55 kilometer aan pistes met voor elk wat wils, maar ook het grootste funpark in de Alpen met alle mogelijkheden voor de freestylers om alles uit hun ski’s of snowboard te halen.\u003c/p\u003e\u003cp\u003eOff-piste liefhebbers gaan natuurlijk richting Pischa met al zijn freeride mogelijkheden. Rinerhorn is een beetje een publiek geheim hier. Heerlijk skiën, ook voor de minder geoefende skiër en gezinnen, maar toch veel rustiger dan de andere gebieden.\u003c/p\u003e\u003cp\u003eSchatzalp tenslotte wordt wel de magische berg genoemd boven Davos-Klosters. 15 Kilometer aan afdalingen, rustig glooiend naar beneden en daarom heeft de bergflank ook wel de bijnaam ‘slow mountain’.\u003c/p\u003e\u003ch3\u003eWintersport chalet bij Davos?\u003c/h3\u003e\u003cp\u003eDavos is anders dan veel wintersportplaatsen geen klein dorpje dat zich in de vakantieperiode ‘volzuigt’ met wintersporters. Het is van zichzelf al een grote plaats met werkelijk alle mogelijke faciliteiten voor een fantastische wintersport, waarin het u aan niets zal ontbreken. Weinigen zullen nog weten dat het ooit een mijnwerkersdorp was. Daarna is het een kuuroord geworden en sinds jaar en dag associeert men Davos nu met luxe en wellness. En wintersport natuurlijk. Met de ligging op 1500 meter hoogte is het de hoogstgelegen stad van Europa. Vanuit uw wintersport chalet in Davos heeft u de wintersportgebieden voor het uitkiezen.\u003c/p\u003e\u003ch3\u003eOf toch maar een skivakantie in Klosters?\u003c/h3\u003e\u003cp\u003eAls u niet zoveel heeft met het mondaine en de luxe, is Klosters wellicht een alternatief. U heeft er toegang tot dezelfde skigebieden, maar dan vanuit een wat rustieker, charmant alpendorp. Waar u in Davos in de stad zit, verblijft u hier in een dorp. Een wintersport chalet in Klosters is dan ook een heel aardig alternatief voor Davos.\u003c/p\u003e\u003ch3\u003eWintersportchalet in Davos-Klosters-mountains\u003c/h3\u003e\u003cp\u003eMet zo’n goed verzorgde wintersport chalet in het gebied Davos-Klosters-mountains zit u op een centrale plek in de Zwitserse winterport. U kunt er letterlijk alle kanten op en zit in de buurt van zes verschillende skigebieden, met allemaal hun eigen bijzonderheden. Naast de mooie wintersport mogelijkheden heeft het gebied natuurlijk ook alles in huis voor de après-ski en verdere ontspanning buiten de piste. We kunnen een wintersportchalet in dit bijzondere en stijlvolle wintersportgebied van harte aanbevelen.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "id": "10164",
+    "name": "company-profile",
+    "path": "pages/contentsite/about-us/company-profile/de-DE.json",
+    "folder": "pages",
+    "full_slug": "contentsite/about-us/company-profile",
+    "slug": "company-profile",
+    "locale": "de-DE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "about-us",
+        "company-profile"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.de/ueber-interhome/company-profile/",
+            "title": "Unternehmensprofil | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/about-us/company-profile/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/ueber-interhome/",
+                            "label": "Über uns"
+                        },
+                        {
+                            "href": "/ueber-interhome/company-profile/",
+                            "label": "Unternehmensprofil"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Unternehmensprofil",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ch3\u003eGeschäftsleitung\u003c/h3\u003e\u003cul\u003e\n\u003cli\u003eJörg Herrmann, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eSylvia Epaillard, Chief Executive Officer (Co-CEO)\u003c/li\u003e\n\u003cli\u003eThomas Buschta, Chief Financial Officer (CFO)\u003c/li\u003e\n\u003cli\u003eRoger Müller, Chief Procurement Officer (CPO)\u003c/li\u003e\n\u003cli\u003eMichael Figlestahler, Chief Revenue \u0026amp; Innovation Officer (CRIO)\u003c/li\u003e\n\u003c/ul\u003e\u003cp\u003e    \u003c/p\u003e\u003ch3\u003eGeschichte der Interhome\u003c/h3\u003e\u003cp\u003e\u003cstrong\u003e2022\u003c/strong\u003e\u003cbr\u003eDas Jahr 2022 geht als Rekordjahr in die 57-jährige Geschichte von Interhome Group ein – mit 9 Millionen Übernachtungen und einem Umsatz in Höhe von CHF 371.0 Mio. Der Fokus liegt auf der fortlaufenden Erweiterung des Netzwerks an lokalen Service-Büros, die eine optimale Betreuung und umfangreiche Serviceleistungen für Kundinnen und Kunden sowie Hauseigentümerinnen und Hauseigentümer direkt in der Destination gewährleisten. Workation, die Kombination aus Arbeit und Urlaub, wird als neues Angebot integriert und die dafür geeigneten Urlaubsunterkünfte entsprechend kategorisiert. Weitere zentrale Themen sind die Digitalisierung und die Ausrichtung als Vorreiter für einen nachhaltigen Ferienhaustourismus. Diverse Klimaschutzprojekte werden angestoßen, internationale Nachhaltigkeitsteams geschaffen und die «Glasgow Declaration on Climate Action in Tourism» der UN-Welttourismusorganisation unterzeichnet\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2021\u003c/strong\u003e\u003cbr\u003eDas Jahr 2021 steht im Zeichen der zukunftsorientierten Vereinheitlichung und Verschlankung der internen Prozesse. Im Zuge dieses Wandels entscheidet die HHD AG, künftig unter dem Namen Interhome Group aufzutreten. Gegenüber den Direktkundinnen und Direktkunden wird Interhome Group in Deutschland weiterhin mit der Marke Interchalet präsent sein, in der Schweiz und den restlichen europäischen Ländern mit der Marke Interhome.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e\u003cstrong\u003e2020\u003c/strong\u003e\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eNach einem erfolgreichen Start in die Wintersaison wurde insbesondere der Start der Sommersaison stark von der Corona-Pandemie beeinträchtigt. Die grössten operativen Herausforderungen waren die täglichen Aktualisierungen der Reisebeschränkungen, nicht nur bezogen auf die 27 Destinationen mit einzelnen, je nach Region unterschiedlichen Sonderverordnungen, sondern auch seitens der weltweiten Quellmärkte.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2019\u003c/strong\u003e\u003cbr\u003eInterhome und die Schwesterfirma Interchalet werden neu gemeinsam als Unternehmen \"HHD AG\" geführt. Die Namen Interhome und Interchalet werden weiterhin als Marken in der Reisebranche auftreten. Zudem übernimmt Jörg Herrmann als CEO die Leitung der HHD AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e2018\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eDie Gästezahl von Interhome konnte noch weiter gesteigert werden. Insgesamt haben 730.000 Gäste in einer Ferienwohnung bzw. einem Ferienhaus von Interhome übernachtet.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cstrong\u003e2017\u003c/strong\u003e\u003c/strong\u003e\u003cbr\u003eInterhome und die Schwesterfirma Inter Chalet rücken auf Management-Stufe näher zusammen und Synergien werden noch besser genutzt. Koni Iten wird pensioniert und Thomas Stirnimann, CEO Hotelplan Group, übernimmt bis auf Weiteres die Aufgaben des CEOs. Die Gästezahl von Interhome konnte um 5% auf 695.000 gesteigert werden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2016\u003c/strong\u003e\u003cbr\u003eInterhome ist weiterhin auf Erfolgskurs. Das Unternehmen vermittelt erstmals über 660.000 Feriengäste. Auch der verrechnete Umsatz kann auf CHF 186.6 Mio. gesteigert werden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2015\u003c/strong\u003e\u003cbr\u003eInterhome feiert ihr 50-jähriges Bestehen mit diversen Jubiläumsaktivitäten. Ein weiteres erfolgreiches Geschäftsjahr bestätigt den Erfolg des eingeschlagenen Kurses von 2014.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2014\u003c/strong\u003e\u003cbr\u003eKoni Iten übernimmt als CEO das Steuer. Das Unternehmen erzielt unter seiner Führung ein Spitzenresultat. Neu ist die Insel Mauritius als Destination im Angebot. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2013\u003c/strong\u003e \u003cbr\u003eDas neue Buchungsportal holt die Gold-Auszeichnung in der Kategorie „Usability“ sowie Silber in der Kategorie „Business Efficiency“ bei der Verleihung der „Best of Swiss Web-Awards“. \u003cbr\u003eInterhome wird Onlineportal-Testsieger bei der Stiftung Warentest. Ausschlaggebend für den Sieg ist unter anderem die übersichtliche und detaillierte Suchfunktion.\u003cbr\u003eErster Ferienwohnungsanbieter im deutschsprachigen Raum mit einer iPad APP, welche auch eine detaillierte Ferienwohnungs- und Ferienhaussuche ermöglicht.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2012\u003c/strong\u003e \u003cbr\u003eExklusive Partnerschaft mit TripAdvisor, der weltweit größten Reise-Website.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2011\u003c/strong\u003e \u003cbr\u003eAkquisition des deutschen Marktführers Interchalet bis 2013. Neu die Destinationen Israel und Zypern im Angebot.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2010\u003c/strong\u003e \u003cbr\u003eNeues Design der Website inkl. navigierter Suche. Die Destinationen Marokko und El Gouna / Ägypten werden ins Portfolio aufgenommen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2009\u003c/strong\u003e \u003cbr\u003eDer indische Markt wird erschlossen: In Indien wird ein Interhome Sales Office eröffnet.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2008\u003c/strong\u003e \u003cbr\u003eVACANDO - eine Vermieterplattform für den unorganisierten Ferienwohnungsmarkt - wird per 1. April lanciert. \u003cbr\u003ePer 1. März 2008 wird Interhome einem kompletten Rebranding unterzogen. Das alte Logo weicht einem neuen, modernen und dynamischen Brand, in dem aber der Interhome-\"Bird\" nach wie vor seinen Platz hat. \u003cbr\u003eInterhome geht Partnerschaften mit ResortQuest in USA und Lomarengas in Finnland ein und erweitert so ihr Portfolio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2007\u003c/strong\u003e \u003cbr\u003eRussland und Kroatien werden erschlossen, Kooperationen mit starken Partnern in Dänemark, Belgien und Holland eingegangen. \u003cbr\u003eInterhome ist heute in beinahe allen Ländern Europas vertreten. \u003cbr\u003eDie Webseite wird völlig überarbeitet, damit Sie Ihre Traumferien noch schneller und einfacher finden. Ausserdem um viele Tipps, Zusatz-Infos und Serviceangebote erweitert.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2006\u003c/strong\u003e \u003cbr\u003eDie Ferienhaus-Spezialisten Casaclub, France Villas und Solemar werden ins Portfolio integriert. Interhome stockt damit ihr Angebot an exklusiven Villen in der Toscana und der Provence auf.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2005\u003c/strong\u003e \u003cbr\u003eSimon Lehmann übernimmt als neuer CEO das Steuer.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2003\u003c/strong\u003e \u003cbr\u003eInterhome zieht ins im Hotelplan Gebäude, um von einer gemeinsamen Infrastruktur zu profitieren.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2002\u003c/strong\u003e \u003cbr\u003eMit dem neu eingeführten 1-to-1-System kann Interhome ihren Kunden noch individuellere Angebote und besseren Service garantieren.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e2000\u003c/strong\u003e \u003cbr\u003eDas Interhome SO-Netzwerk umfasst mittlerweile 75 Stellen und 30 Partner – damit wir vor Ort für Sie da sind.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1998\u003c/strong\u003e \u003cbr\u003eAls einer der ersten in der Branche geht Interhome online. Neben Informationen können Kataloge online bestellt werden, bereits ab 1999 sind Online-Buchungen möglich.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1995\u003c/strong\u003e \u003cbr\u003eDas Interhome Angebot umfasst inzwischen 75.000 Betten in 11 Ländern – inzwischen auch Deutschland, Tschechien und Polen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1989\u003c/strong\u003e \u003cbr\u003eHotelplan, der zweitgrößte Schweizer Reiseveranstalter und Migrostochter, übernimmt die Interhome AG.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1986\u003c/strong\u003e \u003cbr\u003eDie Kataloge erscheinen in einer Auflage von 2 Millionen Exemplaren in 12 Ländern und 8 Sprachen.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1984\u003c/strong\u003e \u003cbr\u003eDas neue Logo wird eingeführt – ein Zugvogel als Symbol für Ferien und Freiheit. Alle Service Offices werden einheitlich im CI ausgestattet.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1980\u003c/strong\u003e \u003cbr\u003eInterhome führt als Pionier im Tourismus ein EDV-System ein und ist nun online mit allen ausländischen Geschäftsstellen verbunden.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1977\u003c/strong\u003e \u003cbr\u003eDas Unternehmen wird in Interhome umbenannt.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1975-77\u003c/strong\u003e \u003cbr\u003eBeide Unternehmen fusionieren zu Swiss Chalets-Interhome mit 105 Mitarbeitern in 16 Büros.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e1965\u003c/strong\u003e \u003cbr\u003eSwiss Chalets wird in London durch die beiden Schweizer Tourismuspioniere Bruno Franzen und Werner Frey gegründet.                         \u003c/p\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "So sicher sind Sie in Ihrem Ferienhaus!",
+                    "link": {
+                        "href": "/ueber-interhome/sicherheit-im-ferienhaus/",
+                        "label": "Mehr erfahren"
+                    },
+                    "car": "Individuelle Anreise",
+                    "cleaning": "Kontrollierte Reinigung",
+                    "independence": "Freiheit und Unabhängigkeit",
+                    "key": "Sichere Schlüssel-Übergabe vor Ort",
+                    "privacy": "Privatsphäre in Ihrem Urlaubs-Zuhause",
+                    "support": "Persönliche Betreuung vor Ort"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Nur ausgewählte und geprüfte Unterkünfte",
+                            "subtitle": "Qualität steht bei uns an erster Stelle",
+                            "caption": "Jede Unterkunft muss eine Qualitätsprüfung bestehen. Qualitäts-Checks werden regelmässig wiederholt."
+                        },
+                        {
+                            "title": "Erreichbarkeit und Vor-Ort-Service garantiert",
+                            "subtitle": "Unsere Erfahrung ist Ihr Vorteil",
+                            "caption": "Persönliche Schlüsselübergabe durch unsere Mitarbeiter. Für Ihre Anliegen sind wir jederzeit erreichbar oder vor Ort für Sie da: Mit Tipps rund um Ihren Ferienort oder die Region genau so wie bei spezifischen Fragen zu Ihrer Ferienunterkunft."
+                        },
+                        {
+                            "title": "Schöner, sicherer Urlaub",
+                            "subtitle": "Privatsphäre, Freiheit und die Sicherheit der eigenen vier Wände",
+                            "caption": "Reisen Sie individuell an, wählen Sie Ihr Transportmittel nach Ihren Vorlieben aus, bringen Sie Ihr Haustier mit.\r\n\r\nSie sind Ihr eigener Chef, verfügen über eine eigene Küche und essen was, wann und mit wem Sie wollen.\r\n\r\nProfitieren Sie von reichlich Platz und Privatsphäre für die ganze Familie."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Warum Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSehen Sie selbst, was wir für Ihren Traumurlaub tun können: Wir zeigen Ihnen die beliebtesten Reiseziele für den perfekten Ferienhaus-Urlaub. Entdecken Sie neue Urlaubsregionen hautnah und geniessen Sie die Freiheit in Ihrer Ferienvilla oder in Ihrer Ferienwohnung. Interhome bietet Ihnen eine grosse Auswahl und persönlichen Service im Urlaubsort. Fühlen Sie sich wie zuhause in Ihrem nächsten Urlaub in der Toskana in Italien, in Andalusien, in Spanien oder an der Cote d'Azur in Frankreich.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Das Richtige für jeden Urlaubswunsch",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSommerurlaub am Strand mit der Familie, Skiurlaub oder eine Städtereise - lassen Sie sich inspirieren von unseren Urlaubsideen und geniessen Sie die Vorzüge von Ferienhäusern. Interhome blickt auf langjährige Erfahrung zurück und sichert zuverlässige Qualitätsstandards.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

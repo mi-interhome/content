@@ -1,0 +1,149 @@
+{
+    "id": "24137",
+    "name": "NL - Saastal",
+    "path": "pages/landingsite/pages/nl-skigebieden-in-zwitserland/nl-saastal/nl-NL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/nl-skigebieden-in-zwitserland/nl-saastal",
+    "slug": "nl-saastal",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "nl-skigebieden-in-zwitserland",
+        "nl-saastal"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.nl/pages/zwitserland-skigebieden/saastal/",
+            "title": "Wintersport chalets in Saastal | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/NL - Skigebieden in Zwitserland/NL - Saastal/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/",
+                            "label": "Skigebieden in Zwitserland"
+                        },
+                        {
+                            "href": "/pages/zwitserland-skigebieden/saastal/",
+                            "label": "Wintersport chalets in Saastal"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersport chalets in Saastal",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eIn \u003ca href=\"/zwitserland/wallis/\"\u003eWallis\u003c/a\u003e vindt u het schitterende Saastal, met de skidorpen Saas Grund, Saas Balen en Saas Almagell. Samen vormen ze een erg leuk en gevarieerd skigebied. Het dal biedt een fenomenaal uitzicht want maar liefst 13 alpentoppen van meer dan 4000 meter hoog torenen er bovenuit.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome biedt in de volgende dorpen in Saasland vakantiewoningen aan: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/saas-grund/\"\u003eSaas-Grund\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/saas-almagell/\"\u003eSaas Almagell\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/saas-fee/\"\u003eSaas-Fee\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Saastal\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-in-zwitserland8/1398444-1-dut-NL/Vakantiehuisjes-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24138\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-dichtbij-de-skilift8/1398449-1-dut-NL/Vakantiehuisjes-dichtbij-de-Skilift.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24139\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/skigebieden-in-zwitserland8/1398454-1-dut-NL/Skigebieden-in-Zwitserland.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24140\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/zwitserland/skien-snowboarden\"\u003e\u0026gt;\u0026gt; Chalets in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/zwitserland/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/zwitserland-skigebieden\"\u003e\u0026gt;\u0026gt; Skigebieden in Zwitserland\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\u003ch3\u003eWintersportmogelijkheden in het Saastal\u003c/h3\u003e\u003cp\u003eHet mooie Saastal skigebied heeft 44 kilometer aan goed onderhouden pistes. Mocht dat niet genoeg voor u zijn, dicht erbij ligt Saas-Fee, de toegangpoort van het skigebied Saas-Fee waar u nog eens een extra 100 kilometer skipistes heeft. Deze gebieden samen garanderen een prachtige vakantie. Ook al omdat de skipistes overwegend erg hoog liggen, waardoor er bijna altijd sneeuw ligt. En als extra zekerheid is er natuurlijk bij Saas-Fee nog de gletsjer, waarop altijd – ook zomers – kan worden geskied. Ook beschikt het gebied over goede kunstsneeuw installaties.\u003c/p\u003e\u003ch3\u003eAndere winter activiteiten\u003c/h3\u003e\u003cp\u003eNatuurlijk is er meer te doen in het Saastal dan alleen skiën en snowboarden. Uiteraard kunnen ook langlaufers hier terecht, is er een mooie rodelbaan en kunnen de freestylers hun kunsten vertonen in het funpark.\u003c/p\u003e\u003cp\u003eVoor de liefhebbers van pittige skitochten is dit Saastal een echt paradijs. Een van de meest gewaardeerde routes in het gebied is de 'Haute Route'. De gehele route duurt 7 dagen en loopt vanaf de Britannia-Hütte tot bij de Mont Blanc. Geen peulenschil, maar als u er de ervaring en conditie voor heeft een absolute aanrader, zowel skiënd als boardend.\u003c/p\u003e\u003ch3\u003eDorpjes in het Saastal\u003c/h3\u003e\u003cp\u003eSaas Grund, Saas Balen en Saas Almagell liggen in elkaars verlengde in het dal. Iets verderop ligt ook Saas-Fee met het eigen skigebied. De dorpjes hebben een enorme verscheidenheid aan leuke overnachtingsmogelijkheden en faciliteiten voor uw skivakantie in het Saastal.\u003c/p\u003e\u003cp\u003eSaas Grund is misschien wel het mooiste dorpje van het Saastal. Hoewel u in Saas Grund al verblijft op 1559 meter hoogte, zijn de 13 bergpieken die op u neerkijken nog altijd ruim 2500 meter hoger. Dat is dan ook de manier om je klein en nietig te voelen in dit imposante gebied. Door de hoogte is er meestal volop sneeuw en het is er vaak heerlijk zonnig. In het centrum kunt u direct de kabelbaan naar Kreuzboden en Hohsaas nemen. Direct in Kreuzboden vindt u al een keur een blauwe en rode pistes. De verder gelegen Hohsaas heeft een uitdagender afdaling klaarliggen en bovendien is daar het uitzicht op de toppen geweldig. Overigens is vanuit Saas Grund de skibus naar andere plaatsen gratis.\u003c/p\u003e\u003cp\u003eSaas Almagell ligt wat verderop richting het stuwmeer aan het eind van het dal. Het is erg rustig en familievriendelijk, niet in de laatste plaats omdat er vrijwel geen doorgaand verkeer langskomt. Het dorp heeft een eigen skigebied van 12 kilometer, maar als u meer wilt, is er een prima skibusverbinding met de andere delen van het Saastal skigebied.\u003c/p\u003e\u003ch3\u003eU zoekt in Saastal een Wintersportchalet?\u003c/h3\u003e\u003cp\u003eOnder de indruk van het prachtige Saastal? Waarschijnlijk wel, want met de alpentoppen er omheen en de schitterende pistes op de bergflanken, is het werkelijk een bijzonder wintersportgebied. Het biedt ieder type wintersporter, van beginner tot ervaren, prachtige mogelijkheden en pistes. De accommodaties, van hotelkamer tot wintersport chalet in het Saastal, zijn prachtig verzorgd. Ook de verdere faciliteiten, van liften tot de restaurants, zijn van hoog niveau.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

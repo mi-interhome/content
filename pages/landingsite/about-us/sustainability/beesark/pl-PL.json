@@ -1,0 +1,181 @@
+{
+    "id": "39569",
+    "name": "Beesark",
+    "path": "pages/landingsite/about-us/sustainability/beesark/pl-PL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/beesark",
+    "slug": "beesark",
+    "locale": "pl-PL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "beesark"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.pl/o-nas/zrownowazony-rozwoj/beesark/",
+            "title": "Ratując pszczołę – ratujemy naszą ziemię | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/Beesark/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/o-nas/",
+                            "label": "O nas"
+                        },
+                        {
+                            "href": "/o-nas/zrownowazony-rozwoj/",
+                            "label": "Love Nature – ochrona dotyczy nas wszystkich"
+                        },
+                        {
+                            "href": "/o-nas/zrownowazony-rozwoj/beesark/",
+                            "label": "Ratując pszczołę – ratujemy naszą ziemię"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Ratując pszczołę – ratujemy naszą ziemię",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e«Kiedy wyginie pszczoła, rodzajowi ludzkiemu pozostaną już tylko 4 lata. Nie będzie pszczół, nie będzie zapylania, nie będzie roślin, nie będzie zwierząt, nie będzie nas.» (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group odgrywa ważną rolę w zrównoważonym rozwoju. Nieustannie angażujemy się w zrównoważoną turystykę domów i apartamentów wakacyjnych na przyszłość.\u003c/p\u003e\u003cp\u003ePoważnie traktujemy naszą odpowiedzialność i angażujemy się w ochronę populacji pszczół. Interhome Group zobowiązuje się do wsparcia programu ochrony pszczół swojego Partnera BEESark. 100.000 m\u003csup\u003e2\u003c/sup\u003e pól w Austrii zostanie przekształcone w kwietne łąki. 87,37g CO\u003csub\u003e2\u003c/sub\u003e na m\u003csup\u003e2\u003c/sup\u003e jest wiązane w biomasie na polu i uwalniane jest 72,81g/m\u003csup\u003e2\u003c/sup\u003e tlenu.\u003c/p\u003e\u003cp\u003eWięcej informacji na temat BEESark znajduje się na \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eDzięki ochronie pszczół pomagamy chronić naszą przyszłość\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003ePola kwiatowe z regionalnie rodzimymi roślinami zawierają tylko nasiona dzikich kwiatów zebranych w regionie\u003c/li\u003e\n\u003cli\u003eRośliny te są optymalnie dostosowane do klimatu, gleby i innych czynników regionu oraz są wysoce konkurencyjne w swoich naturalnych warunkach\u003c/li\u003e\n\u003cli\u003eRóżne mieszanki pochodzenia regionalnego są oferowane dla różnych lokalizacji\u003c/li\u003e\n\u003cli\u003eDługotrwałe kwitnienie przez dziesięciolecia i jeszcze szybsze zakwitanie w połączeniu z corocznymi okresami kwitnienia, cieszące wzrok i bogato kwitnące przy jednoczesnym zachowaniu regionalnej puli genów\u003c/li\u003e\n\u003cli\u003eWysoka wartość ekologiczna: mieszanka często zawiera od 20 do 40 różnych gatunków, które służą jako rośliny pastewne dla ras specjalnych i rzadkich\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eAktualności\u003c/h3\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11 września 2023: Chrońmy pszczoły dla dobra Naszej Planety!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eDziesięć wybranych osób z Interhome Group z sześciu różnych krajów wyruszyło w podróż pociągiem do Klagenfurtu w Austrii z misją pogłębienia wiedzy w zakresie różnorodności biologicznej i naszego ważnego projektu dotyczącego pszczół.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePrzez ostatnie dwa lata Interhome Group współpracowało z BEESark z siedzibą w Karyntii, aby wspierać inicjatywę na rzecz różnorodności biologicznej. BEESark co roku wybiera ponad 35 rodzimych gatunków kwiatów, aby wspierać populację pszczół. Lokalny rolnik Peter Janezic z St. Jakob im Rosental przekazał 100.000 m2 ziemi na rzecz uprawy różnorodnych kwiatów by stworzyć ostoję dla pszczół. Nawet we wrześniu kwiaty roiły się od niezliczonych owadów.\u003c/p\u003e\u003cp\u003eUczestniczyliśmy w wycieczce edukacyjnej na temat pszczół prowadzonej przez eksperta z dziedziny zajmującej się życiem pszczół Petera Lautemanna z Moosburga, aby zdobyć i pogłębić wiedzę na temat bytowania, zachowania i cyklu życiowego pszczół. Peter zarządza gospodarstwem ekologicznym, w którym znajduje się ponad 100 pszczelich rodzin.\u003c/p\u003e\u003cp\u003eProjekt ten jest świetnym dowodem na ochronę regionalnej różnorodności biologicznej. Po dwóch latach BEESark przeprowadził badania gleby, które potwierdziły, że nasze 100.000 m\u003csup\u003e2\u003c/sup\u003e łąk kwietnych zmniejszyło emisję CO\u003csub\u003e2\u003c/sub\u003e o około 200 ton. To osiągnięcie to znaczący krok w kierunku naszego celu, jakim jest redukcja emisji gazów cieplarnianych o 50% do roku 2030.\u003c/p\u003e\u003cp\u003eJesteśmy niezmiernie wdzięczni BEESark za ich niesamowite wsparcie i partnerstwo, jesteśmy dumni z naszej efektywnej współpracy.\u003c/p\u003e\u003cp\u003ePodążając za naszymi doświadczeniami z pszczołami, wzięliśmy udział w kolejnym wolontariacie. Więcej na ten temat możecie dowiedzieć się klikając tutaj: \u003ca href=\"/o-nas/zrownowazony-rozwoj/praca-wolontariacka/\"\u003eInterhome | Praca wolontariacka\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11 lipca 2022: Raj dla pszczół na łąkach kwietnych Interhome Group\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group zleciła swojemu partnerowi BEESark obsianie 100.000 m\u003csup\u003e2\u003c/sup\u003e łąk kwietnych, aby w ten sposób wnieść istotny wkład w różnorodność biologiczną. Lena Unterkircher i Saskia Weber odwiedziły łąki pszczele w Karyntii w Austrii i są zachwycone realizacją projektu.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eZałożyciel BEESark, Matthias Breznik, jest oryginałem. Jego kariera prowadzi przez programowanie robotów do trenera hipnozy i konsultanta ds. środowiska do rolnika. BEESark realizuje indywidualne projekty ochrony klimatu z regionalnym zrównoważonym rozwojem na nowym poziomie. Na zlecenie Interhome Group, BEESark zaangażował rolnika ekologicznego Petera Janezica, który przekształcił 1/6 swoich gruntów ornych w łąki kwietne. Po dokładnym zbadaniu gleby, zamiast kukurydzy czy ziemniaków zasadzono tu niezliczone gatunki regionalnych kwiatów. Dwa pola znajdują się wokół idyllicznej wioski Sankt Jakob im Rosenthal w Karyntii. Tutaj posadzone wiosną kwiaty kwitną i są aktywnie odwiedzane i zapylane przez pszczoły miodne i dzikie. Na łąkach miejscowy pszczelarz Franz Fugger udostępnił swoje ule. 75% aktywnych tu pszczół to osiadłe pszczoły miodne lub domowe 25% to dzikie pszczoły.\u003c/p\u003e\u003cp\u003ePszczelarz Franz z wielką radością powiedział nam, że za miód z tych pól zdobył już nagrodę, za to, że jego miód jest w 100% wolny od zanieczyszczeń. Od rolnika Petera, przez pszczelarza, aż po pracowników BEESark - wszyscy pracują w pocie czoła i z sercem, aby zasiać i utrzymać kwitnące łąki i zapewnić pszczołom raj. Pracowity szum i brzęczenie na polach to radość, którą można obserwować i słuchać. Pszczoły, jak również wiele innych owadów, czują się tutaj jak w domu i w pełni korzystają z natury. W przyszłym miesiącu rolnik przeprowadzi pierwsze koszenie, dzięki czemu łąka kwiatowa znów wyrośnie w całej swojej okazałości, a pszczoły znów znajdą świeże kwiaty. Jesienią pszczoły miodne zostaną przezimowane przez pszczelarza; w przypadku dzikich pszczół tylko ciężarna królowa będzie mogła ponownie brzęczeć na kwitnących łąkach w 2023 roku.\u003c/p\u003e\u003cp\u003eAby zapewnić, że ten ważny wkład w bioróżnorodność na polach jest mierzalny, BEESark opracował własne oprogramowanie do dokładnego obliczania bilansu CO\u003csub\u003e2\u003c/sub\u003e na kwitnących łąkach. BEESark posiada zarówno audyt TÜV jak i certyfikat ISO 9001.\u003c/p\u003e\u003cp\u003eDla Leny i Saskia było to bardzo imponujące i wspaniałe zobaczyć i poczuć, że inwestycje Interhome wylądowały w 100% we właściwych rękach dzięki BEESark. BEESark jest partnerem, który realizuje nasze zrównoważone cele dokładnie tak, jak tego chcieliśmy. Nasza wizyta na miejscu ugruntowała dobre podstawy do dalszej współpracy.\u003c/p\u003e\u003cp\u003eJuż teraz czekamy na kolejne relacje z naszych kwitnących łąk i nowe, fantastycznie kolorowe pole w 2023 roku.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/o-nas/zrownowazony-rozwoj/\"\u003e\u0026gt;\u0026gt; Dowiedz się więcej o projektach zrównoważonego rozwoju, w które angażuje się Interhome Group.\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Wynajem domu wakacyjnego z zachowaniem wszelkich zasad bezpieczeństwa!",
+                    "link": {
+                        "href": "/o-nas/bezpieczenstwo-w-domu-wakacyjnym/",
+                        "label": "Więcej informacji"
+                    },
+                    "car": "Własny dojazd",
+                    "cleaning": "Kontrola czystości",
+                    "independence": "Swoboda i niezależność",
+                    "key": "Odbiór kluczy z zachowaniem zasad bezpieczeństwa",
+                    "privacy": "Prywatność w domu wakacyjnym",
+                    "support": "Pomoc na miejscu"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Tylko wybrane i sprawdzone oferty ",
+                            "subtitle": "Jakość jest naszym najwyższym priorytetem",
+                            "caption": "Każda nasza oferta jest sprawdzana przez pracowników biur lokalnych, by zagwarantować najwyższy standard i udany urlop. "
+                        },
+                        {
+                            "title": "Gwarantowana dostępność i serwis na miejscu",
+                            "subtitle": "Skorzystaj z naszego doświadczenia ",
+                            "caption": "Wszędzie tam, gdzie znajdują się nasze biura lokalne, odbiór kluczy odbywa się za pośrednictwem naszych pracowników, którzy czekają, by udzielić dodatkowych informacji, polecić najlepszą restaurację czy podzielić się swoim doświadczeniem.  "
+                        },
+                        {
+                            "title": "Niezapomniane wakacje",
+                            "subtitle": "Prywatność i swoboda gwarantowane",
+                            "caption": "Interhome to urlop na własnych zasadach. Żadnych zbiórek i stałych godzin posiłków, w naszych domach i apartamentach wakacyjnych macie nie tylko pełną swobodę, lecz również mnóstwo miejsca dla całej rodziny i przyjaciół. "
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Dlaczego Interhome? ",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003ePonieważ od 1965 roku realizujemy marzenia o idealnych wakacjach. Przemawia za nami szwajcarska jakość, przejrzysty system gwiazdek i doskonałe opinie od zadowolonych klientów. Rezerwując dom lub apartament wakacyjny z własnym dojazdem w jednym z 27 krajów z oferty Interhome można odkryć najpiękniejsze turystyczne zakątki. Z nami wyruszycie na rodzinne wakacje do Chorwacji i na Sylwestra w Zakopanem. Rozkoszujcie się więc wakacjami we Włoszech, wybierzcie się z nami na urlop w apartamencie we Francji lub spędźcie wymarzone wczasy z dojazdem własnym w willi w Hiszpanii. Odkrywajcie nowe smaki, obserwujcie podobieństwa i różnice kulturowe. Warto dać się zainspirować, wybrać idealną dla siebie ofertę i zarezerwować ją bez problemu online na stronie Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Swoboda, prywatność i komfort",
+                            "subtitle": "",
+                            "caption": "\u003cp align=\"justify\"\u003eOferujemy sprawdzone, komfortowe mieszkania w miastach Europy na city-break, na rodzinne wakacje nad morzem, domy z prywatnym basenem, domki w górach na narty w Alpach i noclegi nad jeziorami. Zalet takiego indywidualnie zorganizowanego wypoczynku jest wiele. Największą jest jednak niczym nieograniczona swoboda. Żadnych terminów i ściśle wyznaczonych godzin. W pełni wyposażonej kuchni do indywidualnego użytku można swobodnie przygotować posiłki dla wszystkich towarzyszy wyjazdu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

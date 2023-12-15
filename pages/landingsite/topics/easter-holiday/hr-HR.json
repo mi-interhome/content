@@ -1,0 +1,165 @@
+{
+    "id": "18394",
+    "name": "easter-holiday",
+    "path": "pages/landingsite/topics/easter-holiday/hr-HR.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/easter-holiday",
+    "slug": "easter-holiday",
+    "locale": "hr-HR",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "easter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.hr/inspiracije/uskrsnji-praznici/",
+            "title": "Uskršnji praznici u kući za odmor | Interhome",
+            "description": "Provedite nezaboravne Uskršnje praznike s obitelji u udobnosti Interhome kuće za odmor ili apartmana",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/easter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienwohnung zu Ostern ",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_easter-holidays/980241-1-ger-XX/Header_1400x480_easter-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspiracije/",
+                            "label": "Inspiracije"
+                        },
+                        {
+                            "href": "/inspiracije/uskrsnji-praznici/",
+                            "label": "Provedite Uskršnje praznike u kući za odmor"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Provedite Uskršnje praznike u kući za odmor",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003e\u003cstrong\u003eUživajte u Uskršnjim praznicima i opustite se\u003c/strong\u003e\u003c/h3\u003e\u003cp\u003eNa samo nekoliko dana ili za duži odmor - uživajte u Uskršnjim praznicima i dolasku proljeća uz udobnost vlastite kuće za odmor. Šarena cvjetna polja, tople zrake proljetnog sunca i šarmantan apartman ili prostrana kuća za odmor za cijelu obitelj - što Vam još treba za pravo opuštanje?\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Neka Vas inspirira naša široka ponuda:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eUskrs na Jadranu\u003c/h4\u003e\u003cp\u003eAko želite uživati u predivnoj prirodi, moru i plažama, a izbjeći ljetne gužve i vrućine, zaputite se prema obali već za Uskrs. Luksuzna vila u Istri, romantične kuće za odmor na nekom od dalmatinskih otoka ili možda apartman u Dubrovniku? Uz Interhome ćete pronaći baš ono što tražite!\u003cbr\u003e\u003ca href=\"/hrvatska/istra/\"\u003eIstra\u003c/a\u003e | \u003ca href=\"/hrvatska/kvarner/\"\u003eKvarner\u003c/a\u003e | \u003ca href=\"/hrvatska/juzna-dalmacija/\"\u003eJužna Dalmacija\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eUskrs u Italiji\u003c/h4\u003e\u003cp\u003eJezero Garda, Toskana ili Venecija: jedinstvena kultura, povijest i gastronomski užici su samo neki od razloga zašto volimo Italiju. Savršen spoj odmora i avanture!\u003cbr\u003e\u003ca href=\"/italija/\"\u003eItaliji\u003c/a\u003e | \u003ca href=\"/italija/jezero-garda/\"\u003eJezero Garda\u003c/a\u003e | \u003ca href=\"/italija/toskana/\"\u003eToskana\u003c/a\u003e | \u003ca href=\"/italija/veneto/venecija/\"\u003eVenecija\u003c/a\u003e\u003c/p\u003e\u003ch4\u003e\u003cstrong\u003eUskrs u Francuskoj\u003c/strong\u003e\u003c/h4\u003e\u003cp\u003eZa one koji žele Uskrs proslaviti u Francuskoj, Azurna obala je pravi izbor za predivne proljetne dane. A ako želite “potegnuti” do Atlantika, tu je uvijek šarmantna Bretanja.\u003cbr\u003e\u003ca href=\"/francuska/\"\u003eFrancuska\u003c/a\u003e | \u003ca href=\"/francuska/azurna-obala/\"\u003eAzurna obala\u003c/a\u003e | \u003ca href=\"/francuska/bretanja/\"\u003eBretanja\u003c/a\u003e  \u003c/p\u003e\u003ch4\u003eGradske avanture za Uskrs  \u003c/h4\u003e\u003cp\u003eZa sve one koji vole provesti ljeto na moru, Uskrs je savršena prilika za iskoristiti ugodno vrijeme i posjetiti neku od europskih metropola na nekoliko dana. Provedite Uskrs u Berlinu ili Rimu - uz svu udobnost i praktičnost koje pruža vlastiti apartman.\u003cbr\u003e\u003ca href=\"/njemacka/brandenburg/berlin/\"\u003eBerlin\u003c/a\u003e| \u003ca href=\"/italija/rome-city/rim/\"\u003eRim\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eUskršnji Last minute popusti\u003c/h4\u003e\u003cp\u003eAko se Uskrs približava, a još uvijek niste pronašli savršen smještaj, iskoristite našu \u003ca href=\"/last-minute-popust/\"\u003elast minute ponudu\u003c/a\u003e. Uz Interhome se možete odlučiti u zadnji čas i uštedjeti 33% na stotine kuća za odmor i apartmana diljem Europe.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Sigurnost u vašoj kući za odmor!",
+                    "link": {
+                        "href": "/o-interhomeu/sigurnost-u-kuci-za-odmor/",
+                        "label": "Više informacija"
+                    },
+                    "car": "Pojedinačni dolasci",
+                    "cleaning": "Kvalitetno kontrolirano čišćenje",
+                    "independence": "Sloboda i neovisnost",
+                    "key": "Sigurna predaja ključa na licu mjesta",
+                    "privacy": "Privatnost u vašoj kući za odmor",
+                    "support": "Uslužnost na licu mjesta"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Samo odabrane i provjerene kuće za odmor",
+                            "subtitle": "Kvaliteta je naš apsolutni prioritet",
+                            "caption": "Svaka kuća za odmor je provjerena od strane naših stručnjaka kako bismo Vam omogućili bezbrižan odmor."
+                        },
+                        {
+                            "title": "Garancija raspoloživosti i usluga na licu mjesta",
+                            "subtitle": "Uz nas se možete opustiti",
+                            "caption": "Ključeve preuzimate od domaćina ili u jednom od naših lokalnih ureda koji su Vam na raspolaganju za sva Vaša pitanja i želje tijekom boravka. A tu je i naša 24/7 služba za korisnike."
+                        },
+                        {
+                            "title": "Potpuni užitak i opuštanje",
+                            "subtitle": "Privatnost i sloboda vlastite kuće za odmor",
+                            "caption": "Bez prilagođavanja satnicama i rasporedima, u kući za odmor uživajte u danu prema svojim željama. Uz dovoljno prostora za cijelu obitelj ili prijatelje."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Odaberite Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNikad nije bilo lakše pronaći savršenu kuću za Vaš odmor. Želite li otkriti nove destinacije? Otkrijte nova mjesta ili otoke u \u003ca href=\"/hrvatska/\"\u003eHrvatskoj\u003c/a\u003e, iskusite što znači \"la dolce vita\" u \u003ca href=\"/italija/\"\u003eItaliji\u003c/a\u003e ili posjetite šarmantnu \u003ca href=\"/francuska/azurna-obala/\"\u003eFrancusku rivijeru\u003c/a\u003e. Neka Vas inspirira naša široka ponuda kuća za odmor i apartmana, a uz Interhome rezervirajte brzo, jednostavno i sigurno.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Sloboda, privatnost i dovoljno prostora za cijelu obitelj",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eBoravak u kući za odmor ima broje prednosti: provodite vrijeme prema svojem rasporedu. Bez smetnji hotelskog osoblja ili drugih gostiju možete se potpuno opustiti. Neovisno tražlite li novu \u003ca href=\"/inspiracije/gradske-avanture/\"\u003egradsku avanturu\u003c/a\u003e ili opuštajući \u003ca href=\"/inspiracije/odmor-obitelji/\"\u003eodmor s obitelji\u003c/a\u003e, imamo nešto za svaki ukus i svaki džep.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

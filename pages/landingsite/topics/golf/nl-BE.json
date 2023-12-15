@@ -1,0 +1,157 @@
+{
+    "id": "19716",
+    "name": "golf",
+    "path": "pages/landingsite/topics/golf/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/golf",
+    "slug": "golf",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "golf"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/vakantie-inspiratie/golfvakantie/",
+            "title": "Vakantiehuizen voor uw golfvakantie | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/golf/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/images/teaser-images-header-hero-images/header_1400x480_golf/1056285-1-ger-CH/Header_1400x480_golf.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/",
+                            "label": "Veilige en fijne vakanties - ontdek onze vakantie ideeën"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/golfvakantie/",
+                            "label": "Vakantiehuizen voor uw golfvakantie"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Vakantiehuizen voor uw golfvakantie",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eGolfliefhebbers kunnen zich verheugen op een fantastische golfvakantie! Als vakantiehuizen specialist kunnen we de ideale vakantiewoning aanbieden voor u en uw golfvrienden. Waar kunt u beter een plezierige golfdag bespreken dan op het terras bij uw eigen privé zwembad? Het is bijna zo goed als een hole in one!\u003c/p\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/media/images/golf-legende3/1055744-1-ger-CH/Golf-Legende.jpg\" width=\"231\" height=\"130\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"19722\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003cstrong\u003eVerblijf tijdens uw golfvakantie in uw eigen vakantiehuis:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003eGeniet van totale privacy voor u en uw reisgenoten\u003c/li\u003e\n\u003cli\u003eBeleef het hoogste niveau van comfort, flexibiliteit en rust, net zoals thuis\u003c/li\u003e\n\u003cli\u003eDe beste 18-hole golfbanen op een steenworp afstand\u003c/li\u003e\n\u003cli\u003eOntspan op uw privé terras na een inspannende dag op de golfbaan\u003c/li\u003e\n\u003cli\u003eNeem een verfrissende duik en relax in uw eigen zwembad\u003cstrong\u003e \u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

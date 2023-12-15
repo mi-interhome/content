@@ -1,0 +1,148 @@
+{
+    "id": "10175",
+    "name": "travel-extras",
+    "path": "pages/contentsite/travel-extras/es-ES.json",
+    "folder": "pages",
+    "full_slug": "contentsite/travel-extras",
+    "slug": "travel-extras",
+    "locale": "es-ES",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "travel-extras"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.es/extras-viaje/",
+            "title": "Extras para su viaje | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/travel-extras/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/extras-viaje/",
+                            "label": "Extras para su viaje"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Extras para su viaje",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"travel extras\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eSeguro de viaje ERV \u003c/h3\u003e\n\u003cp\u003eQueremos que tenga gratos recuerdos de sus vacaciones. Por eso incluimos el seguro de cancelación con ERV en su reserva. Además, le damos la oportunidad de ampliar las coberturas contratando el seguro de asistencia en viaje de ERV. \u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/servicio-al-cliente/seguro-de-viaje/\"\u003eMás información sobre el seguro de asistencia en viaje ERV\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eMaterial de esquí SKISET \u003c/h3\u003e\n\u003cp\u003eComo cliente Interhome puede beneficiarse de precios reducidos.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/extras-viaje/skiset/\"\u003eMás información aquí\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/partners/skiset/linkimage_320x118_skiset/999833-1-eng-XX/Linkimage_320x118_Skiset.jpg\" width=\"320\" height=\"118\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"19220\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Siéntase seguro en su casa de vacaciones!",
+                    "link": {
+                        "href": "/sobre-interhome/seguridad-en-su-casa-de-vacaciones/",
+                        "label": "Más información"
+                    },
+                    "car": "Desplazamiento particular",
+                    "cleaning": "Protocolo específico de limpieza",
+                    "independence": "Libertad y flexibilidad",
+                    "key": "Entrega de llaves segura",
+                    "privacy": "Privacidad en su casa de vacaciones",
+                    "support": "Atención personal en destino"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Alojamientos verificados y de calidad",
+                            "subtitle": "La calidad nuestra prioridad",
+                            "caption": "Cada una de nuestras propiedades es revisada antes de su llegada para asegurar la mejor estancia posible."
+                        },
+                        {
+                            "title": "Disponibilidad garantizada y servicio in-situ",
+                            "subtitle": "Aproveche al máximo nuestra experiencia",
+                            "caption": "La recogida de llaves está organizada por nuestro atento personal. Disponible las 24 horas del día, los 7 días de la semana y en nuestras oficinas locales para ayudarlo con todas sus preguntas, por ejemplo: consejos, preguntas sobre su destino de vacaciones..."
+                        },
+                        {
+                            "title": "Una experencia inolvidable",
+                            "subtitle": "Privacidad y libertad en su propia casa de vacaciones",
+                            "caption": "Sin horarios para comer y con sus propias reglas, disfrute de su tiempo en familia o con amigos."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Por qué Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNunca ha sido fácil organizar las vacaciones perfectas. ¿Quieres explorar nuevos destinos? No hay mejor manera de hacerlo que desde un apartamento de vacaciones. Disfruta de la dolce vita en \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, descubre el encanto de \u003ca href=\"/francia/costa-azul/\"\u003eRiviera Francesa\u003c/a\u003e o empápate del \u003ca href=\"/espana/\"\u003eestilo de vida español\u003c/a\u003e. Inspírate con nuestras ideas para viajar y haz tu reserva online: con Interhome es fácil y seguro. \u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Libertad, privacidad y espacio en su casa de vacaciones",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eSu estancia en una casa o apartamento de vacaciones está llena de ventajas: invierta su tiempo como quiera. Sin molestias de otros clientes o personal del hotel, simplemente disfrute de sus vacaciones marcándose sus propias reglas. Tanto como si busca una escapada a una ciudad, como unas relajantes vacaciones en familia o con amigos. Simplemente disfrute de la estancia, flexibilidad y libertad que le ofrece su casa de vacaciones.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

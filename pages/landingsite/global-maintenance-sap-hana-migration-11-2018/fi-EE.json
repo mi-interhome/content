@@ -1,0 +1,144 @@
+{
+    "id": "24434",
+    "name": "GLOBAL - maintenance SAP Hana migration 11.2018",
+    "path": "pages/landingsite/global-maintenance-sap-hana-migration-11-2018/fi-EE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/global-maintenance-sap-hana-migration-11-2018",
+    "slug": "global-maintenance-sap-hana-migration-11-2018",
+    "locale": "fi-EE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "global-maintenance-sap-hana-migration-11-2018"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ee/fi/maintenance/",
+            "title": "Käyttökatko / huoltotyö | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/GLOBAL - maintenance SAP Hana migration 11.2018/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/content/view/full/24063/1402775-2-eng-XX/Header-Maintenance.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fi/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fi/maintenance/",
+                            "label": "Käyttökatko / huoltotyö"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Käyttökatko / huoltotyö",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ca name=\"eztoc_1_1\" id=\"eztoc_1_1\"\u003e\u003c/a\u003e\u003ch2\u003ePalvelumme ei valitettavasti ole käytettävissä juuri nyt.\u003c/h2\u003e\u003cp\u003eSuoritamme sivustomme huoltotyötä \u003cstrong\u003e\u003cstrong\u003eperjantaista 16.11. (21:00 CET)\u003c/strong\u003e ja maanantain 19.11.2018\u003c/strong\u003e välisenä aikana. Palvumme ei valitettavasti ole käytössä kyseisenä aikana.\u003c/p\u003e\u003ca name=\"eztoc_2_1\" id=\"eztoc_2_1\"\u003e\u003c/a\u003e\u003ch2\u003eKiitämme ymmärryksestänne ja kärsivällisyydestänne. Palvelumme on taas käytössä kokonaisuudessaan maanantaista 19.11.2018 lähtien.\u003c/h2\u003e\u003cp\u003eMikäli sinulla on mitä tahansa kysymyksiä, älä epäröi olla yhteydessä meihin sähköpostitse \u003ca href=\"mailto:info@interhome.fi\"\u003einfo@interhome.fi\u003c/a\u003e tai puhelimitse +358 9 819 40 50.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Turvallisesti omassa loma-asunnossa!",
+                    "link": {
+                        "href": "/fi/mika-on-interhome/turvallisesti-loma-asunnossa/",
+                        "label": "Lisätietoja"
+                    },
+                    "car": "Erilliset saapumiset muista",
+                    "cleaning": "Laatuvarmistettu siivous",
+                    "independence": "Vapaus ja riippumattomuus muista",
+                    "key": "Turvallinen avaimenluovutus paikan päällä",
+                    "privacy": "Oman loma-asunnon yksityisyys",
+                    "support": "Henkilökohtainen avustus paikan päällä"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Vain valikoituja ja tarkastettuja loma-asuntoja",
+                            "subtitle": "Laatu on meille tärkein prioriteetti.",
+                            "caption": "Jokainen loma-asunto on tarkastettu ennen saapumistasi onnistunutta lomaasi varten."
+                        },
+                        {
+                            "title": "Henkilökohtainen palvelu paikan päällä",
+                            "subtitle": "Hyödynnä ammattitaitomme ja kokemuksemme.",
+                            "caption": "Avainten nouto onnistuu helposti henkilökuntamme avustuksella. Paikallinen palvelumme auttaa kaikissa kysymyksissäsi ja antaa mielellään vinkkejä lomakohteesta sekä opastaa vuokraamasi loma-asunnon käyttöön."
+                        },
+                        {
+                            "title": "Unohtumaton lomaelämys",
+                            "subtitle": "Rauhaa ja yksityisyyttä omassa loma-asunnossa.",
+                            "caption": "Suunnittele lomasi aikataulu itse ja nauti loma-asunnon tilasta sekä vapaudesta yhdessä seurueesi kanssa."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Miksi Interhome on paras valinta?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome on luotettava, vastuullinen kumppanisi loma-asunnon vuokrauksessa. Jo 50 vuoden kokemuksellaan Interhome vastaa, että vuokraamaasi talo, lomahuoneisto tai huvila on kuvauksen mukainen, ja että olet tyytyväinen myös lomasi jälkeen. Vuokraa lomallesi vaikkapa talo \u003ca href=\"/fi/ranska/\"\u003eRanskassa\u003c/a\u003e, villa \u003ca href=\"/fi/italia/\"\u003eItaliassa\u003c/a\u003e, huvila omalla uima-altaalla \u003ca href=\"/fi/espanja/\"\u003eEspanjassa\u003c/a\u003e, lomahuoneisto meren rannalla \u003ca href=\"/fi/kroatia/\"\u003eKroatiassa\u003c/a\u003e, tai upea chalet, alppimaja tai kodikas mökki Alpeilla \u003ca href=\"/fi/sveitsi/\"\u003eSveitsissä\u003c/a\u003e tai \u003ca href=\"/fi/itaevalta/\"\u003eItävallassa\u003c/a\u003e.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Tilaa, vapautta ja yksityisyyttä omassa loma-asunnossa",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNauti tilasta ja vapaudesta perhelomalla lasten kanssa tai lomalla ystäviesi kanssa - oma mukava talo tai lomahuoneisto on toista kuin hotelli. Valitse kesäloma Ranskan Rivieralla, \u003ca href=\"/fi/ideoita-lomalle/rantalomat/\"\u003erantaloma\u003c/a\u003e Costa Blancalla, \u003ca href=\"/fi/italia/toscana-koko-alue/\"\u003eteemamatka\u003c/a\u003e Toscanassa, \u003ca href=\"/fi/ideoita-lomalle/kaupunkilomat/\"\u003ekaupunkiloma\u003c/a\u003e Roomassa tai \u003ca href=\"/fi/ideoita-lomalle/parhaat-hiihtoalueet/\"\u003elaskettelumatka\u003c/a\u003e Alpeilla. Nauti kiireettömistä aamuista, rentoudu talosi terassilla ja vietä lomaa omilla ehdoillasi. Interhome-loma on laadukas ja uskomattoman edullinen – vertaa hintaa ja laatua valmismatkaan!\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

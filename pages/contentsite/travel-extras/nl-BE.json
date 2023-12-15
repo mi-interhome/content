@@ -1,0 +1,148 @@
+{
+    "id": "10175",
+    "name": "travel-extras",
+    "path": "pages/contentsite/travel-extras/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "contentsite/travel-extras",
+    "slug": "travel-extras",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "contentsite",
+        "travel-extras"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/service/",
+            "title": "Service | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/contentsite/travel-extras/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/service/",
+                            "label": "Service"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Menu",
+                "content": {
+                    "content": [
+                        {
+                            "id": 1,
+                            "component": "Heading",
+                            "content": {
+                                "title": "Service",
+                                "level": 1,
+                                "size": "xl"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "component": "Text",
+                            "content": {
+                                "text": "\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"travel extras\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eSunny Cars - huurauto's in meer dan 100 landen \u003c/h3\u003e\n\u003cp\u003eMet Sunny Cars kunt u uw huurauto eenvoudig in meer dan 100 landen over de hele wereld reserveren. Profiteer van een uitstekende service tegen een redelijke prijs. Trouw aan het motto: Huur een glimlach!\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/service/sunny-cars/\"\u003eVoor meer informatie kunt u terecht Sunny Cars\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/content/sunnycars-logo/984802-1-eng-XX/Sunnycars-logo.jpg\" width=\"144\" height=\"97\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"18405\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eERV Reisverzekering\u003c/h3\u003e\n\u003cp\u003eWij zijn ervan overtuigd dat u altijd goede herinneringen moet overhouden aan uw vakantie. Daarom bieden wij bij iedere boeking u een gratis ERV annuleringsverzekering aan. Wij adviseren u tevens om een optionele reisverzekering van ERV reisverzekering af te sluiten\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/customer-service/verzekeringen/\"\u003eMeer informatie over ERV reisverzekering\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/logos/erv_logo_220px/987631-1-eng-XX/ERV_logo_220px.jpg\" width=\"220\" height=\"77\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"right\" data-id=\"18693\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\n\u003ch3\u003eWintersportuitrusting van SKISET\u003c/h3\u003e\n\u003cp\u003eAls klant van Interhome kunt u profiteren van verlaagde prijzen.\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"/service/skiset/\"\u003eOntdek meer hier\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/images/partners/skiset/linkimage_320x118_skiset/999833-1-eng-XX/Linkimage_320x118_Skiset.jpg\" width=\"320\" height=\"118\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"19220\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n"
+                            }
+                        }
+                    ],
+                    "menu": null
+                }
+            },
+            {
+                "id": 4,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

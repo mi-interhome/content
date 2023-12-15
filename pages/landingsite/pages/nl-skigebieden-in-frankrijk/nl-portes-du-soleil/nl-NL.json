@@ -1,0 +1,149 @@
+{
+    "id": "24209",
+    "name": "NL - Portes du Soleil",
+    "path": "pages/landingsite/pages/nl-skigebieden-in-frankrijk/nl-portes-du-soleil/nl-NL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/pages/nl-skigebieden-in-frankrijk/nl-portes-du-soleil",
+    "slug": "nl-portes-du-soleil",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "pages",
+        "nl-skigebieden-in-frankrijk",
+        "nl-portes-du-soleil"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.nl/pages/frankrijk-skigebieden/portes-du-soleil/",
+            "title": "Wintersport chalet in Portes du Soleil | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/pages/NL - Skigebieden in Frankrijk/NL - Portes du Soleil/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": []
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/pages/",
+                            "label": "Pages"
+                        },
+                        {
+                            "href": "/pages/frankrijk-skigebieden/",
+                            "label": "Skigebieden in Frankrijk"
+                        },
+                        {
+                            "href": "/pages/frankrijk-skigebieden/portes-du-soleil/",
+                            "label": "Wintersport chalet in Portes du Soleil"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Wintersport chalet in Portes du Soleil",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eLes Portes du Soleil is met haar 580 km bijna het grootste skigebied ter wereld. Dit gebied is erg weid en is verspreid over zowel Frankrijk als Zwitserland. Het gebied is door het grote aanbod van eenvoudige blauwe en rode pistes ideaal voor beginnende skiërs. Hiernaast is er door de grootte van het gebied uiteraard ook veel te beleven voor de al wat gevorderde skiërs.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInterhome biedt in de volgende dorpen in Les Portes du Soleil vakantiewoningen aan:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"/frankrijk/haute-savoie/chatel/?skiarea=true\"\u003eChâtel\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/frankrijk/haute-savoie/avoriaz/?skiarea=true\"\u003eAvoriaz\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/frankrijk/haute-savoie/morzine/?skiarea=true\"\u003eMorzine\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/portes-du-soleil/les-crosets/?skiarea=true\"\u003eLes Crosets\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/zwitserland/wallis/champery/?skiarea=true\"\u003eChampery\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/frankrijk/haute-savoie/abondance/?skiarea=true\"\u003eAbondance\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"/frankrijk/haute-savoie/la-chapelle-d-abondance/?skiarea=true\"\u003eLa Chapelle d'Abondance\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Portes du Soleil\"\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-in-frankrijk5/1399088-1-dut-NL/Vakantiehuisjes-in-Frankrijk.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"left\" data-id=\"24213\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/vakantiehuisjes-dichtbij-de-skilift19/1399093-1-dut-NL/Vakantiehuisjes-dichtbij-de-Skilift.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24214\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/media/interhome/images/skigebieden-frankrijk5/1399098-1-dut-NL/Skigebieden-Frankrijk.jpg\" width=\"960\" height=\"640\" data-view=\"full\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"24215\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp align=\"left\"\u003e\u003ca href=\"/frankrijk/skien-snowboarden/\"\u003e\u0026gt;\u0026gt; Chalets in Frankrijk\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/frankrijk/skien-snowboarden/?ski=0-500m\"\u003e\u0026gt;\u0026gt; Chalets bij de skilift\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cp\u003e\u003ca href=\"/pages/frankrijk-skigebieden/\"\u003e\u0026gt;\u0026gt; Skigebieden in Frankrijk\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

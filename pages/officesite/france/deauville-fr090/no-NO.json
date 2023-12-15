@@ -1,0 +1,144 @@
+{
+    "id": "15465",
+    "name": "deauville-fr090",
+    "path": "pages/officesite/france/deauville-fr090/no-NO.json",
+    "folder": "pages",
+    "full_slug": "officesite/france/deauville-fr090",
+    "slug": "deauville-fr090",
+    "locale": "no-NO",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "officesite",
+        "france",
+        "deauville-fr090"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.no/personlig-service/interhome-deauville-fr090/",
+            "title": "Local Interhome partner: Deauville | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/officesite/France/deauville-fr090",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "height": 600,
+                            "src": "https://images.interhome.group/ezcms/interhome/features/hero-images/test-image-for-release/2254172-58-nor-NO/Test-Image-for-Release.jpg",
+                            "width": 1440
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/personlig-service/",
+                            "label": "Personlig service"
+                        },
+                        {
+                            "href": "/personlig-service/interhome-deauville-fr090/",
+                            "label": "Local Interhome office: Deauville"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Interhome kontor:  Deauville",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 5,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Så trygg er du i feriehuset ditt!",
+                    "link": {
+                        "href": "/om-interhome/sikkerhet-i-ditt-feriehus/",
+                        "label": "Mer informasjon"
+                    },
+                    "car": "Individuell ankomst",
+                    "cleaning": "Kontrollert rengjøring",
+                    "independence": "Fri og uavhengig",
+                    "key": "Trygg nøkkelover levering",
+                    "privacy": "I ferieboligen er dere helt for dere selv",
+                    "support": "Personlig støtte under oppholdet"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Bare kvalitetssikrede ferieboliger ",
+                            "subtitle": "Kvalitet er vår primære prioritet",
+                            "caption": "Hver eiendom er sjekket før ankomst for å sikre best mulig opphold"
+                        },
+                        {
+                            "title": "Garantert tilgjengelighet og service på stedet ",
+                            "subtitle": "Få mest mulig ut av vår ekspertise",
+                            "caption": "Nøkkeladministrasjonen arrangeres av vårt hjelpsomme personale. Tilgjengelig døgnet rundt eller på stedet for å hjelpe deg med alle dine spørsmål, for eksempel: med tips og kunnskap om ditt feriemål og din bestilte bolig."
+                        },
+                        {
+                            "title": "En minneverdig ferieopplevelse",
+                            "subtitle": "Privatliv og frihet i ditt eget feriehus",
+                            "caption": "Vær din egen sjef, spis når du vil og ha god plass til alle dine venner og familie"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Hvorfor Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDet har aldri vært enklere å finne din perfekte ferie. Vil du utforske nye reisemål? Det er ingen bedre måte å gjøre det på enn i et feriehus: Nyt \"la dolce vita\" i \u003ca href=\"/italia/\"\u003eItalia\u003c/a\u003e, følg den sjarmerende livsstilen til den \u003ca href=\"/frankrike/?filters=16:6,35:29\u0026amp;_ga=2.41025318.569719799.1524572338-1239135050.1524572338\"\u003efranske riviera\u003c/a\u003e eller \u003ca href=\"/spania/\"\u003espanske\u003c/a\u003e livsstil. Bli inspirert av våre \u003ca href=\"/inspirasjonskilder/\"\u003eferietips\u003c/a\u003e og bestill online - raskt, enkelt og sikkert med Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Frihet, integritet och utrymme i ditt eget semesterboende",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eDitt opphold i et feriehus eller ferieleilighet har mange fordeler: For eksempel kan du tilbringe tiden akkurat slik du vil. Ingen forstyrrelse fra andre gjester eller hotellpersonalet, bare nyt ferien og følg dine egne regler. Enten du er ute etter en \u003ca href=\"/inspirasjonskilder/storbyferie/\"\u003estorbyferie\u003c/a\u003e, en avslappende ferie med familien eller med venner. Bare nyt mye plass, fleksibilitet og frihet i ditt eget feriehus.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

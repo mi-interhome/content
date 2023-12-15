@@ -1,0 +1,181 @@
+{
+    "id": "39569",
+    "name": "Beesark",
+    "path": "pages/landingsite/about-us/sustainability/beesark/nl-NL.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability/beesark",
+    "slug": "beesark",
+    "locale": "nl-NL",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability",
+        "beesark"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.nl/over-interhome/duurzaamheid/beesark/",
+            "title": "Red de bij – red onze aarde | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "noindex, nofollow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/Beesark/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark10/2101632-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK10.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_beesark14/2101637-1-eng-XX/Header_1200x410_IH_Sustainability_BeesARK14.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_linked-in_post/2101642-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_Linked-In_Post.jpg"
+                        },
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_bees_beesark18/2101627-1-eng-XX/Header_1200x410_IH_Sustainability_Bees_BeesARK18.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/over-interhome/",
+                            "label": "Over Interhome"
+                        },
+                        {
+                            "href": "/over-interhome/duurzaamheid/",
+                            "label": "Hou van de natuur – natuurbehoud is voor iedereen belangrijk"
+                        },
+                        {
+                            "href": "/over-interhome/duurzaamheid/beesark/",
+                            "label": "Red de bij – red onze aarde"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Red de bij – red onze aarde",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003e\u003cstrong\u003e«Als de bij van de aardbodem verdwijnt, zou de mens nog maar vier jaar te leven hebben. Geen bijen meer, geen bestuiving meer, geen planten meer, geen dieren meer, geen mensen meer.» (A. Einstein)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eInterhome Group neemt een leidende rol in duurzaamheid. We zetten ons continu in voor duurzaam vakantiehuis-toerisme, voor de toekomst.\u003c/p\u003e\u003cp\u003eWe nemen onze verantwoordelijkheid serieus en zijn toegewijdaan het behoud van bijenpopulaties. Interhome Group zet zich in om financieel bij te dragen aan het bijenbehoudprogramma van onze partner BEESark. In Oostenrijk wordt 100.000 \u003csup\u003em2\u003c/sup\u003e bloemenveld geplant. 87,37g CO\u003csub\u003e2\u003c/sub\u003e per m\u003csup\u003e2\u003c/sup\u003e wordt gebonden in biomassa in een veld en er komt 72,81g/m\u003csup\u003e2\u003c/sup\u003e zuurstof vrij.\u003c/p\u003e\u003cp\u003eVind meer informatie over BEESark op \u003ca href=\"http://www.beesark.com/en\" target=\"_blank\"\u003ewww.beesark.com\u003c/a\u003e\u003c/p\u003e\n",
+                    "textRight": "\u003ch4\u003eBijen beschermen behoudt onze toekomst\u003c/h4\u003e\u003cul\u003e\n\u003cli\u003eDe bloemenvelden met regionaal inheemse planten bevatten alleen zaden van wilde bloemen, geoogst in de regio\u003c/li\u003e\n\u003cli\u003eDeze planten zijn optimaal aangepast aan het klimaat, de grond en andere regionale factoren en zijn zeer competitief onder hun natuurlijke omstandigheden\u003c/li\u003e\n\u003cli\u003eVoor diverse locaties worden verschillende mixen van regionale oorsprong aangeboden\u003c/li\u003e\n\u003cli\u003eLangdurige, decennia lange bloei en een nog snellere bloei in combinatie met jaarlijkse bloeiperiodes, rijkbloeiende blikvangers met behoud van de regionale genenpool\u003c/li\u003e\n\u003cli\u003eHoge ecologische waarde: de assortimenten bevatten vaak tussen de 20 en 40 verschillende soorten die dienen als voedergewassen voor bijzondere en zeldzame rassen\u003c/li\u003e\n\u003c/ul\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eNieuws\u003c/h3\u003e\u003cp\u003e   \u003c/p\u003e\u003ch4\u003e11 september 2023: Het behouden van de bijen voor het welzijn van onze planeet!\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eTien toegewijde leden van de Interhome Group uit zes verschillende landen begonnen aan een treinreis naar Klagenfurt, Oostenrijk, met als missie om onze kennis over biodiversiteit en ons ambitieuze bijenproject te verdiepen.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDe afgelopen twee jaar heeft Interhome Group samengewerkt met BEESark, gevestigd in Karinthië, om een biodiversiteitsinitiatief te ondersteunen. BEESark selecteert jaarlijks meer dan 35 inheemse bloemsoorten om bijenpopulaties te ondersteunen. Lokale boer Peter Janezic in St. Jakob im Rosental heeft 100.000 m\u003csup\u003e2\u003c/sup\u003e land gewijd aan het kweken van deze diverse bloemen, waardoor er een bijenreservaat is ontstaan. Zelfs in september zoemde het van de ontelbare insecten in de bloemen.\u003c/p\u003e\u003cp\u003eWe namen deel aan een bijeneducatie-excursie onder leiding van bijenexpert Peter Lautemann uit Moosburg om dieper inzicht te krijgen in het leefgebied, het gedrag en de levenscyclus van bijen. Peter beheert een biologische boerderij met meer dan 100 bijenkolonies.\u003c/p\u003e\u003cp\u003eDit project is een opmerkelijk bewijs van regionale biodiversiteitsbehoud. Na twee jaar heeft BEESark bodemtesten uitgevoerd waaruit blijkt dat onze 100.000 vierkante meter bloeiende weiden ongeveer 200 ton CO\u003csub\u003e2\u003c/sub\u003e-uitstoot hebben verminderd. Deze prestatie markeert een belangrijke stap richting ons doel om de koolstofuitstoot tegen 2030 met 50% te verminderen.\u003c/p\u003e\u003cp\u003eWe zijn ontzettend dankbaar voor de uitstekende ondersteuning en samenwerking van BEESark, en we zijn erg trots op onze productieve samenwerking.\u003c/p\u003e\u003cp\u003eNa onze bijenervaring hebben we deelgenomen aan vrijwilligerswerk. Je kunt er meer over te weten komen door hier te klikken: \u003ca href=\"/over-interhome/duurzaamheid/vrijwilligerswerk/\"\u003eInterhome | Vrijwilligerswerk\u003c/a\u003e\u003c/p\u003e\u003ctable class=\"default\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"100%\" style=\"width:100%;\" summary=\"Beesark 2023\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41617/2276312-1-eng-XX/Beesark_2023_20230624_195647_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42650\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41619/2276322-1-eng-XX/Beesark_2023_20230905_161509_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42652\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/41618/2276317-1-eng-XX/Beesark_2023_20230905_120939_550x410.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"42651\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\u003ch4\u003e   \u003c/h4\u003e\u003ch4\u003e11 juli 2022: Een bijenparadijs op de bloeiende weiden van Interhome Group\u003c/h4\u003e\u003cp\u003e\u003cstrong\u003eInterhome Group heeft door haar partner BEESark 100.000 m\u003csup\u003e2\u003c/sup\u003e aan bloeiende weiden laten inzaaien om een belangrijke bijdrage te leveren aan de biodiversiteit. Lena Unterkircher en Saskia Weber bezochten de bijenweiden in Karinthië in Oostenrijk en zijn enthousiast over de uitvoering.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDe oprichter van BEESark, Matthias Breznik, is een origineel iemand. Zijn loopbaan loopt via robotprogrammering naar hypnosecoach en milieuconsultant naar boer. BEESark implementeert individuele klimaatbeschermingsprojecten met regionale duurzaamheid op een nieuw niveau. In opdracht van Interhome Group schakelde BEESark biologische boer Peter Janezic in, die 1/6 van zijn akkerland omvormde tot bloeiende weiden. Na zorgvuldig bodemonderzoek werden hier talloze regionale bloemsoorten geplant in plaats van maïs of aardappelen. De twee velden liggen rond het idyllische dorpje Sankt Jakob im Rosenthal in Karinthië. Hier staan de in het voorjaar geplante bloemen in bloei en worden ze actief bezocht en bestoven door honingbijen en wilde bijen. Op de weiden heeft de plaatselijke imker Franz Fugger zijn bijenkasten ter beschikking gesteld. 75% van de bijen die hier actief zijn, zijn gevestigde honingbijen of huisbijen 25% zijn wilde bijen.\u003c/p\u003e\u003cp\u003eDe imker Franz vertelde ons met veel vreugde dat hij al een prijs heeft gewonnen voor zijn honing van deze velden, voor het feit dat zijn honing 100% vrij is van verontreinigende stoffen. Van boer Peter tot imker tot de medewerkers van BEESark, iedereen werkt met veel zweet en hart om de bloeiende weilanden in te zaaien en te onderhouden en de bijen een paradijs te bieden. Het drukke gezoem en gezoem op de akkers is een genot om naar te kijken en te luisteren. De bijen, maar ook vele andere insecten, voelen zich hier duidelijk erg thuis en genieten met volle teugen van de natuur. Volgende maand wordt er voor het eerst gemaaid door de boer, zodat de bloemenweide weer in volle glorie zal opgroeien en de bijen weer verse bloemen zullen vinden. De honingbijen zullen in het najaar door de imker worden overwinterd; bij de wilde bijen zal alleen de drachtige koningin in 2023 weer in de bloeiende weiden kunnen zoemen.\u003c/p\u003e\u003cp\u003eOm ervoor te zorgen dat deze belangrijke bijdrage aan de biodiversiteit op de akkers meetbaar is, heeft BEESark eigen software ontwikkeld om de CO\u003csub\u003e2\u003c/sub\u003e-balans van de bloeiende weiden nauwkeurig te berekenen. BEESark is zowel TÜV geauditeerd als ISO 9001 gecertificeerd.\u003c/p\u003e\u003cp\u003eVoor Lena en Saskia was het zeer indrukwekkend en geweldig om te zien en te voelen dat de investeringen van Interhome met BEESark voor 100% in de juiste handen terecht zijn gekomen. BEESark is een partner die onze duurzame doelstellingen precies uitvoert zoals wij dat wilden. Ons bezoek ter plaatse heeft een goede basis gelegd voor verdere samenwerking.\u003c/p\u003e\u003cp\u003eWe kijken nu al uit naar meer berichten over onze bloeiende weiden en een nieuw, fantastisch kleurrijk veld in 2023.\u003c/p\u003e\u003ctable class=\"\" border=\"0\" cellpadding=\"2\" cellspacing=\"0\" width=\"\" style=\"width:;\" summary=\"news-2022-07-11\"\u003e\u003ctr\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38966/2172062-1-eng-XX/Beesark_2022_Bilder_Hoogle_Imker-Franz_Lena_Rainer_Saskia_Peter.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39884\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38965/2172057-1-eng-XX/Beesark_2022_Bilder_Hoogle_Biene.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39883\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003ctd valign=\"top\" style=\"vertical-align: top;\"\u003e\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38967/2172067-1-eng-XX/Beesark_2022_Bilder_Hoogle_Lena-Saskia.jpg\" width=\"550\" height=\"410\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39885\" data-type=\"image\" data-content=\"\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003e\u003ca href=\"/over-interhome/duurzaamheid/\"\u003e\u0026gt;\u0026gt; Lees meer over andere duurzaamheidsprojecten die door de Interhome Group worden ondersteund\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Voordelen van een vakantiehuis! ",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke service ter plaatse"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 50 personen. Interhome is 24/7 telefonisch bereikbaar.\u003c/p\u003e\u003cp\u003e\u003ca href=\"/portugal/algarve/\"\u003eAlgarve\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/calpe-calp/\"\u003eCalpe\u003c/a\u003e |\u003ca href=\"/italie/comomeer/\"\u003eComomeer\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e | \u003ca href=\"/spanje/costa-brava/\"\u003eCosta Brava\u003c/a\u003e | \u003ca href=\"/spanje/costa-del-sol/\"\u003eCosta del Sol\u003c/a\u003e | \u003ca href=\"/italie/dolomieten/\"\u003eDolomieten\u003c/a\u003e | \u003ca href=\"/italie/gardameer/\"\u003eGardameer \u003c/a\u003e| \u003ca href=\"/italie/\"\u003eItalië\u003c/a\u003e | \u003ca href=\"/spanje/costa-blanca/javea-xabia/\"\u003eJávea\u003c/a\u003e | \u003ca href=\"/kroatie/\"\u003eKroatië\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eLago Maggiore\u003c/a\u003e | \u003ca href=\"/italie/lago-maggiore/\"\u003eMallorca\u003c/a\u003e | \u003ca href=\"/oostenrijk/\"\u003eOostenrijk\u003c/a\u003e | \u003ca href=\"/italie/sardinie/\"\u003eSardinië \u003c/a\u003e| \u003ca href=\"/spanje/\"\u003eSpanje\u003c/a\u003e | \u003ca href=\"/oostenrijk/tirol/\"\u003eTirol\u003c/a\u003e | \u003ca href=\"/duitsland/zwarte-woud/\"\u003eZwarte Woud\u003c/a\u003e | \u003ca href=\"/zwitserland/\"\u003eZwitserland\u003c/a\u003e\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een citytrip of een ontspannende vakantie met het gezin of vrienden heeft. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

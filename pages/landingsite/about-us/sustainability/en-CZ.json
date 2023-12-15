@@ -1,0 +1,192 @@
+{
+    "id": "39564",
+    "name": "sustainability",
+    "path": "pages/landingsite/about-us/sustainability/en-CZ.json",
+    "folder": "pages",
+    "full_slug": "landingsite/about-us/sustainability",
+    "slug": "sustainability",
+    "locale": "en-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "about-us",
+        "sustainability"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.cz/en/aboutus/sustainability/",
+            "title": "Sustainability | Interhome",
+            "description": "Sustainable holiday home tourism with Interhome Group",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/about-us/sustainability/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_sustainability_2022/2101099-1-eng-XX/Header_1200x410_IH_sustainability_2022.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/en/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/en/aboutus/",
+                            "label": "About us"
+                        },
+                        {
+                            "href": "/en/aboutus/sustainability/",
+                            "label": "Love nature – conservation concerns all"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Love nature – conservation concerns all",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eThe Interhome Group is a role model when it comes to sustainability. We see it as our duty to leave an intact environment for future generations. This way, you as our customer can make a climate protection contribution for your holiday home stay. The full amount is applied to sustainability projects led by the M Climate Fund via our partner myclimate.\u003c/p\u003e\u003cp\u003eWe have committed ourselves to climate protection not only towards our customers and our mother company Migros, but also internationally. Interhome Group has signed the UN World Tourism Organization’s “Glasgow Declaration on Climate Action in Tourism” and thus committed to reduce the greenhouse gas emissions caused by 2030 by half and to achieve net zero by 2050 at the latest.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003cp\u003eRead more about our goals, our cooperation with myclimate and our bee protection program. Our sustainability team has put together helpful tips, not just for holidays, but also for every day living, especially for you. Sustainability has no end date, which is why we are continuously and persistently committed to sustainable holiday home tourism for today and tomorrow.\u003c/p\u003e\u003cul\u003e\n\u003cli\u003e\u003ca href=\"#Biodiversity\"\u003eBiodiversity\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#ClimateChange\"\u003eClimate change\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurCustomers\"\u003eOur customers\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPartners\"\u003eOur partners\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#OurPlaces\"\u003eOur places\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Staff\"\u003eStaff\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"#Office\"\u003eOffice\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n",
+                    "textRight": "\u003cimg src=\"https://images.interhome.group/ezcms/content/view/full/38924/2141767-2-eng-XX/Sustainability_2022_wheel_en_titles_420px.png\" width=\"420\" height=\"420\" data-view=\"embed\" data-offset=\"0\" data-limit=\"5\" data-align=\"\" data-id=\"39837\" data-type=\"image\" data-content=\"\"\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Biodiversity\"\u003e\u003c/a\u003eBiodiversity\u003c/h4\u003e\u003cp\u003eClimate change has a significant impact on biodiversity, which in turn affects tourism. Biodiversity is the variety of life on earth, including plants, animals, and microorganisms. As the climate changes, ecosystems are altered, and biodiversity is threatened. This can lead to the loss of important habitats, extinction of species, and changes in the timing and location of natural events, such as flowering or migration.\u003c/p\u003e\u003cp\u003eThese changes have a direct impact on tourism, as many travellers are attracted to natural areas and wildlife. For example, coral reefs, which are vital to marine biodiversity, are being damaged by rising sea temperatures and ocean acidification, making them less attractive to tourists. Similarly, changes in the distribution of wildlife can make it harder for tourists to spot certain species, affecting their overall experience.\u003c/p\u003e\u003cp\u003eTourism can also contribute to climate change, which exacerbates the problem. The industry is a major producer of greenhouse gases, particularly through transportation and energy use. Therefore, sustainable tourism minimises carbon emissions and reduces the impact on natural ecosystems - all essential to mitigate the negative effects of climate change on biodiversity.\u003c/p\u003e\u003cp\u003eIn conclusion, climate change and biodiversity loss have a significant impact on tourism, and the industry must take action to minimize its contribution to the problem and adapt to the changing environment. By promoting sustainable tourism practices, we can help to protect biodiversity and ensure that future generations can continue to enjoy the natural beauty of our planet.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"ClimateChange\"\u003e\u003c/a\u003eClimate change\u003c/h4\u003e\u003cp\u003eClimate change is caused by the increase of greenhouse gases in the Earth's atmosphere, such as carbon dioxide, methane, and nitrous oxide. These gases trap heat from the sun and cause the planet's temperature to rise, resulting in changes in weather patterns, sea levels, and the natural environment. The accommodation sector of the tourism industry is a significant contributor to greenhouse gas emissions due to its high energy consumption and reliance on fossil fuels. Sustainable tourism practices, such as using renewable energy sources, reducing energy consumption, and implementing waste reduction strategies, can help to minimise the impact of the accommodation sector on climate change and promote environmental sustainability.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"OurCustomers\"\u003e\u003c/a\u003eOur customers\u003c/h4\u003e\u003cp\u003eAs you travel, make it a point to visit local landmarks, immerse yourself in local people and culture, and support the community by shopping locally. Explore the vibrant offerings of local markets to embrace the richness and authenticity of your surroundings while leaving a positive footprint on the local economy and community. In doing so, you will not only create memorable moments, but also contribute to sustainable development, preserve the destinations you visit and actively participate in climate protection.\u003c/p\u003e\u003cp\u003eOur commitment to building a better future extends beyond our day-to-day operations. We recognize the importance of protecting the environment while on holida, and we are determined to motivate our customers to join us in this important mission. With this in mind, we have curated a collection of recommendations to help you effortlessly make a positive impact on the environment whilst on holiday.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPartners\"\u003e\u003c/a\u003eOur partners\u003c/h4\u003e\u003cp\u003eTravel cannot be sustainable without our shareholder, partners and supply chain engaged and supportive. Bringing them on this journey, learning and inspiring one another and demanding change.\u003c/p\u003e\u003ch4\u003e\n\u003ca id=\"OurPlaces\"\u003e\u003c/a\u003eOur places\u003c/h4\u003e\u003cp\u003eAt our company, we place a strong emphasis on the welfare of our guests and the environment. To fulfill this commitment, we meticulously assess each of our holiday homes against our sustainability checklist. Additionally, we cultivate a close working relationship with homeowners, fostering collaboration to continually improve the sustainability practices of our holiday homes.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 12,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Staff\"\u003e\u003c/a\u003eStaff\u003c/h4\u003e\u003cp\u003eAt our company, we are deeply committed to promoting environmental consciousness and sustainability. As part of our dedication to these values, our goal is to ensure that every employee actively participates in the Climate Fresk initiative. The Climate Fresk project is a collaborative initiative aimed at raising awareness and understanding of climate change. It involves interactive workshops where participants engage in a game-like format to explore the causes, impacts, and potential solutions to climate change. These workshops utilize a combination of scientific information and group discussions to educate and empower individuals to take action against climate change. By providing a platform for dialogue and knowledge sharing, the Climate Fresk project not only fosters a sense of urgency but also inspires collective efforts in addressing this global issue. We believe that by actively engaging our employees in the Climate Fresk workshops, we can equip them with valuable insights and empower them to make informed choices towards building sustainable and climate-resilient futures.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 14,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003e\n\u003ca id=\"Office\"\u003e\u003c/a\u003eOffice\u003c/h4\u003e\u003cp\u003eTo improve our environmental impact, we have thoroughly assessed each office within our organization. This includes evaluating the electricity source, heating systems, and even smaller details like paper and cleaning supplies. Armed with this valuable information, we are creating clear guidelines to drive environmental improvements in our offices.\u003c/p\u003e\u003cp\u003eBy understanding the environmental implications of our operations, we can implement targeted strategies to reduce our ecological footprint. This involves optimizing energy sources, improving heating system efficiency, adopting sustainable paper alternatives, and using eco-friendly cleaning supplies. These steps are essential for aligning our offices with sustainable practices and minimizing our overall environmental impact.\u003c/p\u003e\u003cp\u003eThrough our ongoing commitment to responsible resource management and waste reduction, we aim to set a positive example within our industry and inspire others to do the same. We understand that even small changes can have a significant impact when multiplied across our organization.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 15,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Safety in your holiday home!",
+                    "link": {
+                        "href": "/en/aboutus/safety-in-your-holiday-home/",
+                        "label": "More info"
+                    },
+                    "car": "Individual arrivals",
+                    "cleaning": "Quality controlled cleaning",
+                    "independence": "Freedom and independence",
+                    "key": "Safe hand-over of the key on-site",
+                    "privacy": "Privacy in your holiday home",
+                    "support": "Personal assistance on-site"
+                }
+            },
+            {
+                "id": 16,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Only selected and tested accommodation",
+                            "subtitle": "Quality is our number one priority",
+                            "caption": "Every property is checked before your arrival to ensure the best possible stay."
+                        },
+                        {
+                            "title": "Guaranteed availability and on-site service",
+                            "subtitle": "Make the most of our experience",
+                            "caption": "Key collection is arranged by our helpful staff.  Available 24/7 or on-site service to help you with all your questions, e.g.: tips and insights for your holiday destination and your booked accommodation."
+                        },
+                        {
+                            "title": "A memorable holiday experience",
+                            "subtitle": "Privacy and freedom in your own holiday home",
+                            "caption": "Be your own boss, eat whenever you want and make the most of plenty of space for all your friends and family."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 17,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Why Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIt has never been easier to find your perfect holiday. Do you want to explore new travel destinations? There is no better way than doing it in a holiday home: Enjoy \"la dolce vita\" in \u003ca href=\"/en/italy/\"\u003eItaly\u003c/a\u003e, feel the charming lifestyle of the \u003ca href=\"/en/france/cote-d-azur/\"\u003eFrench Riviera\u003c/a\u003e or the \u003ca href=\"/en/spain/\"\u003eSpanish way of life\u003c/a\u003e. Be inspired by our \u003ca href=\"\"\u003etravel ideas\u003c/a\u003e and book online - quick, easy, and secure with Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Freedom, privacy and space in your holiday home",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eYour stay in a holiday house or a holiday apartment offers plenty of advantages: spend your time exactly as you want. No disturbance from other guests or hotel staff, just spend your holiday according to your own rules. Whether you are looking for a \u003ca href=\"/en/holiday-ideas/city-trips/\"\u003ecity trip\u003c/a\u003e, a relaxing \u003ca href=\"/en/holiday-ideas/family/\"\u003eholiday with your family\u003c/a\u003e or with friends. Simply enjoy lots of room, flexibility and freedom in your holiday home.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

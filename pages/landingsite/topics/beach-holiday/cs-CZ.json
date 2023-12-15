@@ -1,0 +1,149 @@
+{
+    "id": "15504",
+    "name": "beach-holiday",
+    "path": "pages/landingsite/topics/beach-holiday/cs-CZ.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/beach-holiday",
+    "slug": "beach-holiday",
+    "locale": "cs-CZ",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "beach-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.cz/inspirace/more-a-plaz/",
+            "title": "Rekreační domy a apartmány u moře | Interhome",
+            "description": "Rekreační apartmány u moře - široká nabídka od Interhome",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/beach-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_summer4_beach_holidays_2020/1804310-1-eng-XX/Header_1200x410_Summer4_Beach_Holidays_2020.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/inspirace/",
+                            "label": "Bezpečná a příjemná dovolená – objevte naše prázdninové nápady"
+                        },
+                        {
+                            "href": "/inspirace/more-a-plaz/",
+                            "label": "Moře a pláž"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Moře a pláž",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eDen na pláži a budete se cítit volní – mimo každodenní shon. Šumění mořských vln, horký písek, hrad z písku, hledání mušlí – zábava pro malé i velké.\u003c/p\u003e\u003cp\u003eProžijte slunečné období v některém z našich rekreačních domů na nejkrásnějších plážích a malebných pobřežích po celé Evropě. Najděte si ideální dovolenou kousek od pláže. Vyberte si nádhernou vilu s vlastním bazénem a terasou – pro posezení s přáteli nebo romantické chvilky ve dvou.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 6,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Takto jste ve svém rekreačním objektu v bezpečí",
+                    "link": {
+                        "href": "/o-interhome/bezpečí-ve-Vašem-rekreačním-domě/",
+                        "label": "Více informací"
+                    },
+                    "car": "Individuální příjezd",
+                    "cleaning": "Kontrola úklidu a pořádku",
+                    "independence": "Volnost a nezávislost",
+                    "key": "Zajištěné předání klíčů přímo na místě",
+                    "privacy": "Klid a soukromí",
+                    "support": "Osobní asistence během pobytu"
+                }
+            },
+            {
+                "id": 7,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pouze vybraná a prověřená ubytování",
+                            "subtitle": "Kvalita je naší prioritou",
+                            "caption": "Každý rekreační objekt je před Vaším příjezdem zkontrolován, abychom Vám zajistili ten nejlepší možný pobyt."
+                        },
+                        {
+                            "title": "Garance dostupnosti a servis v místě",
+                            "subtitle": "Využijte naše zkušenosti",
+                            "caption": "Předání klíčů zajišťuje náš vstřícný personál. K dispozici 24 hod. denně nebo servis přímo v místě, který zodpoví Vaše dotazy a pomůže tipy a poznatky k Vaší prázdninové destinaci a rezervovanému ubytování."
+                        },
+                        {
+                            "title": "Nezapomenutelná dovolená",
+                            "subtitle": "Soukromí a volnost ve Vašem rekreačním domě nebo apartmánu",
+                            "caption": "Buďte svým vlastním pánem, stravujte se bez ohledu na čas a maximálně využijte prostor pro Vaše přátele a rodinu."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Proč Interhome",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eNajít svou ideální dovolenou nikdy nebylo snazší. Chcete objevovat nové destinace? Není lepší způsob než vyrážet za dobrodružstvím ze zázemí rekreačního domu nebo apartmánu. Užijte si \"la dolce vita\" v \u003ca href=\"/italie/\"\u003eItálii\u003c/a\u003e, nechte se okouzlit životním stylem na \u003ca href=\"/francie/azurove-pobrezi/\"\u003eFrancouzské riviéře\u003c/a\u003e nebo okuste \u003ca href=\"/spanelsko/\"\u003ešpanělský temperament\u003c/a\u003e. Inspirujte se našimi \u003ca href=\"\"\u003etipy na dovolenou\u003c/a\u003e a rezervujte online - rychle, jednoduše a bezpečně s Interhome.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Volnost, soukromí a spousta prostoru v rekreačním domě nebo apartmánu",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVáš pobyt v rekreačním domě nebo apartmánu nabízí spoustu výhod: užijte si čas přesně tak, jak chcete a podle vlastních pravidel, aniž byste byli rušeni ostatními hosty nebo hotelovým personálem. Ať už plánujete \u003ca href=\"/inspirace/mesta/\"\u003evýlet do města\u003c/a\u003e, odpočinkovou \u003ca href=\"/inspirace/rodinna-dovolena/\"\u003edovolenou s rodinou\u003c/a\u003e nebo přáteli, dopřejte si spoustu prostoru, volnosti a flexibility v rekreačním domě nebo apartmánu.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

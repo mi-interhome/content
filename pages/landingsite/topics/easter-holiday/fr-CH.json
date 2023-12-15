@@ -1,0 +1,182 @@
+{
+    "id": "18394",
+    "name": "easter-holiday",
+    "path": "pages/landingsite/topics/easter-holiday/fr-CH.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/easter-holiday",
+    "slug": "easter-holiday",
+    "locale": "fr-CH",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "easter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.ch/fr/theme/vacances-de-paques/",
+            "title": "Des vacances de Pâques dans une maison de vacances | Interhome",
+            "description": "Passez des vacances de Pâques inoubliables dans un appartement de vacances cosy ou une grande maison pour accueillir toute la famille.",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/easter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "Ferienwohnung zu Ostern ",
+                            "src": "https://images.interhome.group/ezcms/media/images/content/header_1400x480_easter-holidays/980241-1-ger-XX/Header_1400x480_easter-holidays.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/fr/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/fr/theme/",
+                            "label": "Idées vacances tout confort"
+                        },
+                        {
+                            "href": "/fr/theme/vacances-de-paques/",
+                            "label": "Votre location de vacances à Pâques"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Votre location de vacances à Pâques",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eProfitez des vacances de Pâques pour vous détendre\u003c/h3\u003e\u003cp\u003eQue vous décidiez de partir pour un court séjour à Pâques ou bien pour des vacances plus longues, profitez de l'arrivée du Printemps dans une maison de vacances. \u003cbr\u003eLes champs remplis de fleurs colorées, les premiers rayons de soleil chauffants, un appartement de vacances confortable à un bon rapport qualité-prix ou bien une maison de vacances spacieuse pour la famille, qu'espérer de mieux pour des vacances relaxantes?\u003c/p\u003e\u003cp\u003e\u0026gt;\u0026gt; \u003ca href=\"#destinations\"\u003eDes destinations idéales\u003c/a\u003e\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\n",
+                    "textRight": "\u003ch3\u003ePassez les vacances de Pâques en famille\u003c/h3\u003e\u003cp\u003eVous prévoyez de partir en famille et retrouver vos proches pour les vacances ou le week-end de Pâques? Ne cherchez pas plus loin le lieu idéal de votre séjour, Interhome propose un large choix de locations: de l’appartement cosy à la grande maison de vacances en passant par le chalet à la montagne ou la maison de campagne! Réservez votre appartement avec vue mer ou bien votre maison avec de nombreuses chambres pour que tout le monde trouve sa place. Si vous prévoyez de passer les vacances de Pâques en Espagne, votre villa avec piscine devrait vous ravir! Peu importe vos besoins, vous trouverez certainement la location qui vous conviendra.\u003c/p\u003e\u003cp\u003e   \u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Heading",
+                "content": {
+                    "title": "Découvrez notre sélection selon vos envies:",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003ePourquoi ne pas réserver un appartement de vacances idyllique avec vue sur la mer, un chalet confortable dans les montagnes ou encore une villa avec de nombreuses chambres et assez d'espace pour accueillir toute la famille pour Pâques? Vous trouverez sûrement l'hébergement qui répondra à vos attentes et besoins avec Interhome.\u003c/p\u003e\u003cp\u003e   \u003ca id=\"destinations\"\u003e\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "Heading",
+                "content": {
+                    "title": "Des destinations idéales",
+                    "level": 3,
+                    "size": "md"
+                }
+            },
+            {
+                "id": 10,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch4\u003eVacances de Pâques en Suisse\u003c/h4\u003e\u003cp\u003eOptez pour des vacances dans votre pays est une excellente idée. Soyez surpris par les paysages printaniers fleuris, profitez d'un climat méditerranéen ou profitez d'une randonnée dans le Valais, les Grisons ou l'Oberland bernois. Quel que soit le type de vacances que vous recherchez, vous êtes sûr de trouver un endroit idyllique et diversifié en Suisse qui répondra à vos attentes... Et avec Interhome, vous trouverez la bonne location de vacances.\u003cbr\u003e\u003ca href=\"/fr/suisse/\"\u003eSuisse\u003c/a\u003e | \u003ca href=\"/fr/suisse/tessin/\"\u003eTessin\u003c/a\u003e | \u003ca href=\"/fr/suisse/valais/\"\u003eValais\u003c/a\u003e | \u003ca href=\"/fr/suisse/grisons/\"\u003eGrisons\u003c/a\u003e | \u003ca href=\"/fr/suisse/oberland-bernois/\"\u003eOberland Bernois\u003c/a\u003e | \u003ca href=\"/fr/suisse/alpes-vaudoises/\"\u003eAlpes Vaudoises\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eVacances de Pâques aux Pays-Bas\u003c/h4\u003e\u003cp\u003ePassez vos vacances de Pâques aux Pays-Bas et admirez les rues colorées d'Amsterdam. Ou détendez-vous dans un appartement de vacances près de la mer du Nord. Que ce soit en Hollande du Nord ou en Hollande du Sud: un voyage aux Pays-Bas en vaut toujours la peine. \u003cbr\u003e\u003ca href=\"/fr/pays-bas/\"\u003ePays-Bas\u003c/a\u003e | \u003ca href=\"/fr/pays-bas/nord-hollande/\"\u003eAmsterdam\u003c/a\u003e | \u003ca href=\"/fr/pays-bas/nord-hollande/\"\u003eNord de la Hollande\u003c/a\u003e | \u003ca href=\"/fr/pays-bas/sud-holland/\"\u003eSud de la Hollande\u003c/a\u003e \u003c/p\u003e\u003ch4\u003eVacances de Pâques en Italie\u003c/h4\u003e\u003cp\u003eLe lac de Garde, la Toscane ou encore Venise, la culture unique, les bâtiments historiques ou la nourriture italienne, toutes ces raisons font qu'il est agréable et dépaysant de passer un séjour à Pâques en Italie.\u003cbr\u003e\u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e | \u003ca href=\"/fr/italie/lac-de-garde/\"\u003eLac de Garde\u003c/a\u003e | \u003ca href=\"/fr/italie/toscane/\"\u003eToscane\u003c/a\u003e | \u003ca href=\"/fr/italie/venetie/venise/\"\u003eVenise\u003c/a\u003e | \u003ca href=\"/fr/italie/florence-ville-et-environs/florence/\"\u003eFlorence\u003c/a\u003e | \u003ca href=\"/fr/italie/sardaigne/\"\u003eSardaigne\u003c/a\u003e | \u003ca href=\"/fr/italie/sicile/\"\u003eSicile\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eSéjour à Pâques en Espagne\u003c/h4\u003e\u003cp\u003eL’Espagne offre de nombreuses destinations pour les vacances de Pâques. Partez à Majorque à la mi-avril, vous êtes généralement en mesure de profiter d’un plongeon dans la mer au milieu des températures douces. Plus haut en Espagne, partez sur la Costa Blanca avec des stations idéales pour passer des moments fantastiques et faire le plein de souvenirs. \u003cbr\u003e\u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e | \u003ca href=\"/fr/espagne/majorque-mallorca/\"\u003eMajorque\u003c/a\u003e | \u003ca href=\"/fr/espagne/costa-blanca/\"\u003eCosta Blanca\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eVacances de Pâques en France\u003c/h4\u003e\u003cp\u003ePartez à la chasse aux œufs dans une des nombreuses régions de France! Passez vos vacances de Pâques en Bretagne et profitez de balades revigorantes au bord de la mer. Choisissez de partir à Pâques sur la Côte d’Azur ou bien dans le Luberon pour découvrir ou redécouvrir toute la beauté de l’arrière-pays. Célébrez Pâques en Normandie et arpentez les ruelles d’Honfleur ou les célèbres planches de Deauville. \u003cbr\u003e\u003ca href=\"/fr/france/\"\u003eFrance\u003c/a\u003e | \u003ca href=\"/fr/france/bretagne/\"\u003eBretagne\u003c/a\u003e | \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e | \u003ca href=\"/fr/france/normandie/\"\u003eNormandie\u003c/a\u003e | \u003ca href=\"/fr/france/provence/\"\u003eProvence\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eCity breaks pour les vacances de Pâques\u003c/h4\u003e\u003cp\u003eEnvie de changer d’air avant l’été? Profitez du week-end de Pâques pour partir à la découverte d’une \u003ca href=\"/fr/theme/jours-en-ville/\"\u003egrande ville européenne\u003c/a\u003e. Séjournez dans la capitale française: laissez-vous vivre, faites une balade en bateau mouche, arpentez les différents arrondissements, dégustez un verre de vin, montez à la Tour Eiffel! Si vous préférez partir à Pâques dans un autre pays et découvrir les cultures locales, pourquoi ne pas opter pour un séjour à Rome, c’est bien connu, tous les chemins y mènent! La capitale italienne regorge de bâtiments d’exception, les temples, amphithéâtres, églises et fontaines font de cette ville un lieu unique. Pour un week-end de Pâques en amoureux, rien de tel que la ville de Prague: vous serez transporté dans une ambiance romantique dans cette ville pleine de magie. Barcelone et Vienne vous feront également vivre de beaux moments.\u003cbr\u003e\u003ca href=\"/fr/espagne/barcelone/barcelone/\"\u003ePrague\u003c/a\u003e | \u003ca href=\"/fr/france/ile-de-france/\"\u003eParis\u003c/a\u003e | \u003ca href=\"/fr/italie/rome-city/rome/\"\u003eRome\u003c/a\u003e | \u003ca href=\"/fr/autriche/vienne/vienne/\"\u003eVienne\u003c/a\u003e | \u003ca href=\"/fr/espagne/barcelone/barcelone/\"\u003eBarcelone\u003c/a\u003e\u003c/p\u003e\u003ch4\u003eDes vacances de Pâques en Dernière Minute?\u003c/h4\u003e\u003cp\u003eVous préférez attendre le dernier moment pour réserver et ainsi bénéficier d’offres avantageuses? En réservant 8 jours avant votre départ, vous pouvez profiter de réductions exclusives sur une sélection de \u003ca href=\"/fr/theme/last-minute/\"\u003elogements en Dernière Minute\u003c/a\u003e! Attention, en optant pour cette offre, le choix des locations à quelques jours de vos vacances, sera plus restreint. \u003cbr\u003eVous ne pouvez pas attendre plus longtemps et souhaitez partir maintenant en vacances? Retrouvez toutes nos offres Dernière Minute pour un départ dans les prochains jours!\u003cbr\u003e\u003ca href=\"/fr/derniere-minute/\"\u003eOffres Dernière Minute\u003c/a\u003e\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 11,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Soyez en sécurité dans votre logement de vacances!",
+                    "link": {
+                        "href": "/fr/a-propos-d-interhome/securite-dans-votre-logement-de-vacances/",
+                        "label": "Plus d'informations"
+                    },
+                    "car": "Voyage individuel",
+                    "cleaning": "Nettoyage contrôlé",
+                    "independence": "Liberté et indépendance",
+                    "key": "Remise des clés sur place en sécurité",
+                    "privacy": "Intimité dans votre logement de vacances",
+                    "support": "Prise en charge personnalisée sur place"
+                }
+            },
+            {
+                "id": 12,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Locations de vacances sélectionnées et testées",
+                            "subtitle": "La qualité est notre 1ère priorité.",
+                            "caption": "Nous contrôlons chaque location avant votre arrivée pour vous assurer le meilleur séjour possible. "
+                        },
+                        {
+                            "title": "Disponibilité garantie et services sur place",
+                            "subtitle": "Profitez au maximum de notre expérience.",
+                            "caption": "Remise des clés dans nos agences locales. Disponible 24h/24 et 7j/7 pour vous conseiller et répondre à toutes vos questions."
+                        },
+                        {
+                            "title": "Des vacances particulièrement agréables",
+                            "subtitle": "Intimité et liberté dans votre location.",
+                            "caption": "Organisez vos journées comme bon vous semble sans contrainte. Profitez simplement de tout l'espace à votre disposition en famille ou entre amis."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 13,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Pourquoi choisir Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eIl n’a jamais été aussi simple de trouver ses prochaines vacances. Voulez-vous découvrir de nouvelles destinations? La meilleure solution est d’opter pour la location de vacances. Appréciez «la Dolce Vita» en \u003ca href=\"/fr/italie/\"\u003eItalie\u003c/a\u003e, laissez-vous séduire par le charme de la \u003ca href=\"/fr/france/cote-d-azur/\"\u003eCôte d'Azur\u003c/a\u003e ou encore par le style de vie en \u003ca href=\"/fr/espagne/\"\u003eEspagne\u003c/a\u003e. Laissez-vous inspirer par nos \u003ca href=\"\"\u003eidées vacances\u003c/a\u003e et réservez une location Interhome – en toute simplicité et en toute sécurité.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Liberté et intimité dans votre location",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eVotre séjour dans une maison de vacances ou un appartement de vacances vous permet d’organiser vos journées comme vous le souhaitez. Que ce soit pour un \u003ca href=\"/fr/theme/jours-en-ville/\"\u003eséjour en ville\u003c/a\u003e ou bien pour des vacances reposantes \u003ca href=\"/fr/theme/vacances-famille/\"\u003eavec votre famille\u003c/a\u003e ou entre amis, trouvez l'appartement ou la \u003ca href=\"/fr/theme/villa-piscine/\"\u003emaison de vacances avec piscine\u003c/a\u003e qui vous convient. Nos équipes dans les agences locales vous accueillent sur place, vous remettent les clés de votre logement et s'occupent du ménage entre chaque séjour. Elles sont votre contact pendant la durée de votre séjour. Vous bénéficiez de l'expérience d'Interhome et de la certification de la qualité de nos logements corroborés par des avis clients positifs. Réservez en toute tranquillité avec Interhome.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

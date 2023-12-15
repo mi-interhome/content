@@ -1,0 +1,164 @@
+{
+    "id": "15553",
+    "name": "winter-holiday",
+    "path": "pages/landingsite/topics/winter-holiday/nl-BE.json",
+    "folder": "pages",
+    "full_slug": "landingsite/topics/winter-holiday",
+    "slug": "winter-holiday",
+    "locale": "nl-BE",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "ContentPage",
+    "tags": [
+        "landingsite",
+        "topics",
+        "winter-holiday"
+    ],
+    "content": {
+        "head": {
+            "canonical": "https://www.interhome.be/vakantie-inspiratie/wintersport-chalets/",
+            "title": "Wintervakantie in de bergen | Interhome",
+            "description": "",
+            "keywords": null,
+            "robots": "index, follow",
+            "og": {
+                "title": "",
+                "description": "",
+                "image": "",
+                "url": "",
+                "type": ""
+            }
+        },
+        "og": {
+            "title": "",
+            "description": "",
+            "image": "",
+            "url": "",
+            "type": "other"
+        },
+        "virtpath": "/landingsite/topics/winter-holiday/",
+        "body": [
+            {
+                "id": 1,
+                "component": "SearchBar",
+                "content": {
+                    "images": [
+                        {
+                            "alt": "",
+                            "src": "https://images.interhome.group/ezcms/media/interhome/images/teaser-images-header,-hero-images/header_1200x410_ih_winter_2023/2204539-2-eng-XX/Header_1200x410_IH_Winter_2023.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 2,
+                "component": "Breadcrumbs",
+                "content": {
+                    "links": [
+                        {
+                            "href": "/",
+                            "label": "Home"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/",
+                            "label": "Veilige en fijne vakanties - ontdek onze vakantie ideeën"
+                        },
+                        {
+                            "href": "/vakantie-inspiratie/wintersport-chalets/",
+                            "label": "Wintervakantie in de bergen"
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 3,
+                "component": "Heading",
+                "content": {
+                    "title": "Wintervakantie in de bergen",
+                    "level": 1,
+                    "size": "xl"
+                }
+            },
+            {
+                "id": 4,
+                "component": "TextColumns",
+                "content": {
+                    "textLeft": "\u003ch3\u003eWintervakantie in de bergen\u003c/h3\u003e\u003cp\u003eTerwijl de open haard gezellig knettert in uw \u003ca href=\"/oostenrijk/skien-snowboarden/?season=winter\"\u003ewintersport chalet in Oostenrijk\u003c/a\u003e, kijkt u terug op een dag ultiem genieten. Samen met het hele gezin skiën en sleeën terwijl de kinderen een reusachtige sneeuwpop maken. Weer binnen lekker opwarmen met warme choco voor de kinderen en voor uzelf een heerlijk glaasje glühwein. Spelletjes erbij… Dát is quality time in een winterwoning van Interhome.\u003c/p\u003e\u003cp\u003eOf u nu op zoek bent naar een ruim \u003ca href=\"/zwitserland/skien-snowboarden/?season=winter\"\u003ewintersport chalet in Zwitserland\u003c/a\u003e voor een grote groep of juist naar een knus appartement voor met z’n tweetjes, bij Interhome bent u altijd aan het juiste adres. Laat u inspireren door ons aanbod of neem contact met ons op.\u003c/p\u003e\n",
+                    "textRight": "\u003cp\u003eDe beste wintersportvakanties zijn een combinatie van perfecte sneeuw en een onderkomen dat aan uw verwachtingen voldoet. Als u kiest voor een van de wintersport chalets van Interhome zit het met dat laatste punt beslist goed! Wie eenmaal genoten heeft van een wintersportvakantie, heeft dikwijls de smaak te pakken. Er is dan ook weinig wat zoveel voldoening geeft als de hele dag actief bezig zijn in de sneeuw en de zuivere berglucht. Als het vakantiehuis of appartement waarin u verblijft dan ook nog aan uw wensen voldoet, kunt u terugkijken op een geslaagde skivakantie.\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 5,
+                "component": "Text",
+                "content": {
+                    "text": "\u003cp\u003eOnze top 6 bestemmingen: \u003ca href=\"/zwitserland/wallis/zermatt/?skiing=true\u0026season=winter\"\u003eZermatt\u003c/a\u003e, \u003ca href=\"/zwitserland/wallis/nendaz/?skiing=true\u0026season=winter\"\u003eNendaz\u003c/a\u003e, \u003ca href=\"/zwitserland/engadin/st-moritz/?skiing=true\u0026season=winter\"\u003eSt. Moritz\u003c/a\u003e, \u003ca href=\"/zwitserland/praettigau/davos/?skiing=true\u0026season=winter\"\u003eDavos\u003c/a\u003e, \u003ca href=\"/zwitserland/wallis/crans-montana/?skiing=true\u0026season=winter\"\u003eCrans Montana\u003c/a\u003e, \u003ca href=\"/zwitserland/berner-oberland/grindelwald/?skiing=true\u0026season=winter\"\u003eGrindelwald\u003c/a\u003e\u003c/p\u003e\u003cp\u003eBekijk ons \u003ca href=\"/skien-snowboarden/\"\u003ecomplete wintersportaanbod\u003c/a\u003e \u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 7,
+                "component": "Text",
+                "content": {
+                    "text": "\u003ch3\u003eWintersport chalets\u003c/h3\u003e\u003cp\u003eDe beste wintersportvakanties zijn een combinatie van perfecte sneeuw en een onderkomen dat aan uw verwachtingen voldoet. Als u kiest voor een van de wintersport chalets van Interhome zit het met dat laatste punt beslist goed! Wie eenmaal genoten heeft van een wintersportvakantie, heeft dikwijls de smaak te pakken. Er is dan ook weinig wat zoveel voldoening geeft als de hele dag actief bezig zijn in de sneeuw en de zuivere berglucht. Als het vakantiehuis of appartement waarin u verblijft dan ook nog aan uw wensen voldoet, kunt u terugkijken op een geslaagde skivakantie.\u003c/p\u003e\u003ch3\u003eAlle bekende skioorden\u003c/h3\u003e\u003cp\u003eAls u gaat skiën, hebt u ongetwijfeld uw voorkeuren als het gaat om het land waar u heengaat of het soort skigebied. Interhome heeft zoals u aan ons verhuurbestand kunt zien wintersport chalets in alle bekende Europese skioorden. Als u uw skivakantie gaat plannen, kunt u bij ons dus terecht voor complete appartementen of chalets in \u003ca href=\"/oostenrijk/skien-snowboarden/?season=winter\"\u003eOostenrijk\u003c/a\u003e, \u003ca href=\"/zwitserland/skien-snowboarden/?season=winter\"\u003eZwitserland\u003c/a\u003e, \u003ca href=\"/frankrijk/skien-snowboarden/?season=winter\"\u003eFrankrijk\u003c/a\u003e, \u003ca href=\"/italie/skien-snowboarden/?season=winter\"\u003eItalië\u003c/a\u003e en \u003ca href=\"/tsjechie/skien-snowboarden/?season=winter\"\u003eTsjechië\u003c/a\u003e. Kiest u voor Les Trois Vallées, de Aosta-vallei, \u003ca href=\"/zwitserland/wallis/crans-montana/\"\u003eCrans-Montana\u003c/a\u003e, Lipno of een van de vele andere bekende wintersportbestemmingen? Interhome is er thuis! Ook iets dichter bij huis, in \u003ca href=\"/duitsland/skien-snowboarden/\"\u003eDuitsland\u003c/a\u003e, bieden wij wintersport chalets die een goede uitvalsbasis zijn voor sportieve activiteiten in de sneeuw.\u003c/p\u003e\u003ch3\u003eAan de piste\u003c/h3\u003e\u003cp\u003eUiteraard wilt u voordat u een vakantiehuis voor uw sneeuwvakantie boekt wel zeker weten dat de accommodatie aan uw eisen voldoet. Op onze website kunt u op eenvoudige wijze nagaan welke wintersportfaciliteiten de locaties die u aanspreken te bieden hebben. In de uitgebreide en duidelijke informatie die onze site per vakantiewoning of appartement biedt, kunt u nalezen wat de kenmerken van de residentie en de omgeving zijn. Daarnaast kunt u zien op welke afstand de betreffende wintersport chalets zich bevinden tot de dichtstbijzijnde skilift of bergtrein. Als u tijdens uw wintersport optimaal wilt profiteren van de pistes kunt u zelfs kiezen voor wintersport chalets die op maximaal honderd meter van de skilift liggen. Is een vakantiehuis aan de piste uw grootste ideaal? U maakt het waar met Interhome!\u003c/p\u003e\u003ch3\u003eWintersport chalets naar wens\u003c/h3\u003e\u003cp\u003eEen van de aangename punten aan een wintersportvakantie is dat het een actieve manier van vakantievieren is. Na een lange dag van intensieve beweging op de piste voelt u zich moe, maar vooral ook voldaan. In een dergelijke toestand is het prettig als u na alle inspanningen terug kunt keren naar een wintersport chalet dat qua comfort aansluit bij uw behoeften. Nu is het zo dat u via Interhome appartementen en vakantiehuizen kunt boeken in alle soorten en maten – en dus ook voor ieder budget. Als een eenvoudig onderkomen voor u voldoet, dan vindt u bij ons wat u zoekt. Maar ook gasten die hoge eisen stellen aan hun wintersport chalets zijn bij Interhome aan het juiste adres. Wilt u gebruik kunnen maken van een sauna of een \u003ca href=\"/vakantie-inspiratie/villa-met-zwembad/\"\u003ezwembad\u003c/a\u003e na uw ski-avonturen? Uw spieren na het skiën laten ontspannen in de bubbelbad? Vink uw wensen aan en laat u verrassen door de mogelijkheden!\u003c/p\u003e\u003ch3\u003eEn de après-ski?\u003c/h3\u003e\u003cp\u003eVoor menig wintersportliefhebber is niet alleen het skiën zelf belangrijk, maar ook dat wat er na de actie op de piste plaatsvindt: de après-ski. Op onze site kunt u zien hoever de wintersport chalets van een ‘stadscentrum’ af liggen. Bevindt uw vakantiehuis zich in of nabij het centrum van een skioord, dan weet u zich verzekerd van volop après-skigelegenheden. Ook een culinair verantwoord diner is in zo’n geval op loopafstand te vinden. En dat kan een heerlijke gedachte zijn als u de hele dag op de lange latten hebt gestaan.\u003c/p\u003e\u003cp\u003eGaat u met het hele gezin op wintersport, dan wilt u wellicht weten of uw vakantiehuis ‘\u003ca href=\"/vakantie-inspiratie/op-vakantie-met-de-hele-familie/\"\u003egezinsvriendelijk\u003c/a\u003e’ is; vanzelfsprekend vindt u ook hierover informatie op deze website. Onze wintersport chalets die kindvriendelijk zijn, voldoen in ieder geval aan de vastgestelde eisen qua veiligheid. Daarnaast zijn er in de buurt dikwijls activiteiten speciaal voor kinderen.\u003c/p\u003e\u003ch3\u003eZorgeloos genieten\u003c/h3\u003e\u003cp\u003eBij Interhome beseffen we als geen ander dat een vakantie vooral een succes is als u kunt rekenen op een zorgeloos verblijf. En die zorgeloosheid is precies wat wij u te bieden hebben: boeken via Interhome is namelijk boeken met vertrouwen. Onze organisatie staat voor gecontroleerde, Zwitserse kwaliteit en met onze vijftig jaar ervaring kunnen wij ons met recht dé vakantiewoningenspecialist van Europa noemen. Wij zorgen voor een vakkundige afhandeling van het boekingsproces, een duidelijke sleuteloverdracht en – uiteraard – de eindschoonmaak. De sterrenclassificatie waarmee we werken geeft u in één oogopslag inzicht in het comfort dat u van onze wintersport chalets mag verwachten. Als u zorgeloos wilt kunnen genieten van uw wintersport, dan zit u goed bij Interhome!\u003c/p\u003e\n"
+                }
+            },
+            {
+                "id": 8,
+                "component": "USPBar",
+                "content": {
+                    "headline": "Veiligheid in uw vakantiewoning!",
+                    "link": {
+                        "href": "/over-interhome/voordelen-van-een-vakantiehuis/",
+                        "label": "Meer info"
+                    },
+                    "car": "Individuele aankomsten",
+                    "cleaning": "Kwaliteits gecontroleerde schoonmaak",
+                    "independence": "Vrijheid en onafhankelijkheid",
+                    "key": "Veilige sleuteloverdracht ter plaatse",
+                    "privacy": "Privacy in uw vakantiewoning",
+                    "support": "Persoonlijke assistentie ter plaatse"
+                }
+            },
+            {
+                "id": 9,
+                "component": "USPCards",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Grootste aanbod gecontroleerde woningen",
+                            "subtitle": "Kwaliteit komt bij ons op de eerste plaats",
+                            "caption": "Elke woning wordt voor uw aankomst gecontroleerd om u een zo goed mogelijk verblijf te garanderen.\r\n"
+                        },
+                        {
+                            "title": "Service ter plaatse en een 24/7 hulplijn",
+                            "subtitle": "Maak het beste van uw vakantie",
+                            "caption": "De sleuteloverdracht wordt geregeld door ons behulpzame personeel die 24/7 online of ter plaatse beschikbaar zijn voor al uw vragen.\r\n"
+                        },
+                        {
+                            "title": "Vakantiehuizen specialist sinds 1965",
+                            "subtitle": "Zwitserse kwaliteit \u0026 zekerheid",
+                            "caption": "Interhome heeft vele succesvolle decennia ervaring in de huizenverhuur. Onze klanten waarderen ons op Trustpilot met een 8.7."
+                        }
+                    ]
+                }
+            },
+            {
+                "id": 10,
+                "component": "USPColumns",
+                "content": {
+                    "elements": [
+                        {
+                            "title": "Waarom kiest u voor Interhome?",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eInterhome is al sinds 1965 Europa's leidende aanbieder van vakantiewoningen, met meer dan 35.000 unieke vakantiehuizen, appartementen en chalets in 27 landen. Wij verhuren voornamelijk vakantiewoningen van privé-eigenaren, maar ook op vakantieparken. Interhome biedt vakantiewoningen voor kleine en grote gezelschappen, variërend van 2 tot 45 personen. Interhome is 24 uur op 24, 7 dagen op 7 telefonisch bereikbaar.\u003c/p\u003e\n"
+                        },
+                        {
+                            "title": "Vrijheid, privacy en ruimte in uw vakantiehuis",
+                            "subtitle": "",
+                            "caption": "\u003cp\u003eEen verblijf in een vakantiehuis of appartement biedt zoveel voordelen: breng uw tijd door zoals u het zelf wilt. Geen overlast van andere gasten of hotelpersoneel, u brengt uw tijd door volgens uw eigen regels en tempo. Of u nu een \u003ca href=\"/vakantie-inspiratie/citytrips/\"\u003ecity trip\u003c/a\u003e, een ontspannende \u003ca href=\"/vakantiehuis/gezinsvriendelijk/?sea=500\u0026sea_or_lake_view=true\"\u003evakantie met het gezin\u003c/a\u003e of vrienden. Ontspan en geniet van de ruimte, flexibiliteit en vrijheid in uw eigen vakantieverblijf.\u003c/p\u003e\n"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
