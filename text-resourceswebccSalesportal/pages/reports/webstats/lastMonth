@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.lastMonth",
+    "name": "lastMonth",
+    "path": "text-resourceswebccSalesportal/pages/reports/webstats/lastMonth",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/lastMonth",
+    "slug": "lastMonth",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "lastMonth"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.lastMonth",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "minulý měsíc"
+            },
+            "da": {
+                "singular": "sidste måned"
+            },
+            "de": {
+                "singular": "Letzer Monat"
+            },
+            "de-AT": {
+                "singular": "Letzer Monat"
+            },
+            "de-CH": {
+                "singular": "Letzer Monat"
+            },
+            "de-DE": {
+                "singular": "Letzer Monat"
+            },
+            "en": {
+                "singular": "Last Month"
+            },
+            "en-AU": {
+                "singular": "Last Month"
+            },
+            "en-CA": {
+                "singular": "Last Month"
+            },
+            "en-GB": {
+                "singular": "Last Month"
+            },
+            "en-IE": {
+                "singular": "Last Month"
+            },
+            "en-US": {
+                "singular": "Last Month"
+            },
+            "es": {
+                "singular": "el mes pasado"
+            },
+            "fi": {
+                "singular": "viime kuukausi"
+            },
+            "fi-EE": {
+                "singular": "viime kuukausi"
+            },
+            "fi-FI": {
+                "singular": "viime kuukausi"
+            },
+            "fr": {
+                "singular": "le mois dernier"
+            },
+            "fr-BE": {
+                "singular": "le mois dernier"
+            },
+            "fr-CA": {
+                "singular": "le mois dernier"
+            },
+            "fr-CH": {
+                "singular": "le mois dernier"
+            },
+            "fr-FR": {
+                "singular": "le mois dernier"
+            },
+            "hr": {
+                "singular": "prošli mjesec"
+            },
+            "it": {
+                "singular": "il mese scorso"
+            },
+            "it-CH": {
+                "singular": "il mese scorso"
+            },
+            "it-IT": {
+                "singular": "il mese scorso"
+            },
+            "nl": {
+                "singular": "vorige maand"
+            },
+            "nl-BE": {
+                "singular": "vorige maand"
+            },
+            "nl-NL": {
+                "singular": "vorige maand"
+            },
+            "no": {
+                "singular": "forrige måned"
+            },
+            "pl": {
+                "singular": "ostatni miesiąc"
+            },
+            "pt": {
+                "singular": "mês passado"
+            },
+            "ru": {
+                "singular": "прошлый месяц"
+            },
+            "sv": {
+                "singular": "förra månaden"
+            }
+        }
+    }
+}

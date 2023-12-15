@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.CancelConditions.full",
+    "name": "full",
+    "path": "text-resourceswww/components/views/details/CancelConditions/full",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/CancelConditions/full",
+    "slug": "full",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "CancelConditions",
+        "full"
+    ],
+    "content": {
+        "key": "www.components.views.details.CancelConditions.full",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "den před začátkem pobytu a v den nástupu je splatná celá fakturovaná částka"
+            },
+            "da": {
+                "singular": "dag før lejeperiodens start og på ankomstdagen er hele fakturabeløbet opkrævet"
+            },
+            "de": {
+                "singular": "Tag vor Mietbeginn und am Anreisetag ist der gesamte Rechnungsbetrag geschuldet."
+            },
+            "de-AT": {
+                "singular": "Tag vor Mietbeginn und am Anreisetag ist der gesamte Rechnungsbetrag geschuldet."
+            },
+            "de-CH": {
+                "singular": "Tag vor Mietbeginn und am Anreisetag ist der gesamte Rechnungsbetrag geschuldet."
+            },
+            "de-DE": {
+                "singular": "Tag vor Mietbeginn und am Anreisetag ist der gesamte Rechnungsbetrag geschuldet."
+            },
+            "en": {
+                "singular": "day before the start of the rental period and on the arrival date the full invoice amount is payable"
+            },
+            "en-AU": {
+                "singular": "day before the start of the rental period and on the arrival date the full invoice amount is payable"
+            },
+            "en-CA": {
+                "singular": "day before the start of the rental period and on the arrival date the full invoice amount is payable"
+            },
+            "en-GB": {
+                "singular": "day before the start of the rental period and on the arrival date the full invoice amount is payable"
+            },
+            "en-IE": {
+                "singular": "day before the start of the rental period and on the arrival date the full invoice amount is payable"
+            },
+            "en-US": {
+                "singular": "day before the start of the rental period and on the arrival date the full invoice amount is payable"
+            },
+            "es": {
+                "singular": "un día antes del inicio del período de alquiler y en la fecha de llegada se paga el monto completo de la factura"
+            },
+            "fi": {
+                "singular": "päivä ennen vuokrauksen alkua tai myöhemmin, veloitamme koko vuokran."
+            },
+            "fi-EE": {
+                "singular": "päivä ennen vuokrauksen alkua tai myöhemmin, veloitamme koko vuokran."
+            },
+            "fi-FI": {
+                "singular": "päivä ennen vuokrauksen alkua tai myöhemmin, veloitamme koko vuokran."
+            },
+            "fr": {
+                "singular": "jour avant le début du séjour et le jour d'arrivée la totalité du séjour reste due"
+            },
+            "fr-BE": {
+                "singular": "jour avant le début du séjour et le jour d'arrivée la totalité du séjour reste due"
+            },
+            "fr-CA": {
+                "singular": "jour avant le début du séjour et le jour d'arrivée la totalité du séjour reste due"
+            },
+            "fr-CH": {
+                "singular": "jour avant le début du séjour et le jour d'arrivée la totalité du séjour reste due"
+            },
+            "fr-FR": {
+                "singular": "jour avant le début du séjour et le jour d'arrivée la totalité du séjour reste due"
+            },
+            "hr": {
+                "singular": "dana prije polaska i na dan dolaska plaća se puni iznos rezervacije"
+            },
+            "it": {
+                "singular": "giorno prima dell’inizio della locazione o il giorno stesso dell’arrivo: penale del 100% sulla quota soggiorno"
+            },
+            "it-CH": {
+                "singular": "giorno prima dell’inizio della locazione o il giorno stesso dell’arrivo: penale del 100% sulla quota soggiorno"
+            },
+            "it-IT": {
+                "singular": "giorno prima dell’inizio della locazione o il giorno stesso dell’arrivo: penale del 100% sulla quota soggiorno"
+            },
+            "nl": {
+                "singular": "kalenderdag vóór de dag van aankomst: 100% annuleringskosten over de huursom"
+            },
+            "nl-BE": {
+                "singular": "kalenderdag vóór de dag van aankomst: 100% annuleringskosten over de huursom"
+            },
+            "nl-NL": {
+                "singular": "kalenderdag vóór de dag van aankomst: 100% annuleringskosten over de huursom"
+            },
+            "no": {
+                "singular": "dag før leieperioden begynner og på ankomstdagen belastes hele fakturabeløpet"
+            },
+            "pl": {
+                "singular": "dni przed rozpoczęciem pobytu: 80% ceny wynajmu"
+            },
+            "pt": {
+                "singular": "dia antes do início do período de aluguer e na data de chegada o montante total da fatura é pago"
+            },
+            "ru": {
+                "singular": "Полная оплата требуется за день до заезда и в день начала аренды"
+            },
+            "sv": {
+                "singular": "dag före hyresperiodens början och vid ankomstdagen debiteras hela fakturabeloppet"
+            }
+        }
+    }
+}

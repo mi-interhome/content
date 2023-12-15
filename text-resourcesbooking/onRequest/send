@@ -1,0 +1,124 @@
+{
+    "id": "booking.onRequest.send",
+    "name": "send",
+    "path": "text-resourcesbooking/onRequest/send",
+    "folder": "text-resources",
+    "full_slug": "booking/onRequest/send",
+    "slug": "send",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "onRequest",
+        "send"
+    ],
+    "content": {
+        "key": "booking.onRequest.send",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odeslat"
+            },
+            "da": {
+                "singular": "Send forespørgsel"
+            },
+            "de": {
+                "singular": "Anfrage absenden"
+            },
+            "de-AT": {
+                "singular": "Anfrage absenden"
+            },
+            "de-CH": {
+                "singular": "Anfrage absenden"
+            },
+            "de-DE": {
+                "singular": "Anfrage absenden"
+            },
+            "en": {
+                "singular": "Send request"
+            },
+            "en-AU": {
+                "singular": "Send request"
+            },
+            "en-CA": {
+                "singular": "Send request"
+            },
+            "en-GB": {
+                "singular": "Send request"
+            },
+            "en-IE": {
+                "singular": "Send request"
+            },
+            "en-US": {
+                "singular": "Send request"
+            },
+            "es": {
+                "singular": "Enviar petición"
+            },
+            "fi": {
+                "singular": "Lähetä kysely"
+            },
+            "fi-EE": {
+                "singular": "Lähetä pyyntö"
+            },
+            "fi-FI": {
+                "singular": "Lähetä kysely"
+            },
+            "fr": {
+                "singular": "Envoyer votre message"
+            },
+            "fr-BE": {
+                "singular": "Envoyer votre message"
+            },
+            "fr-CA": {
+                "singular": "Envoyer votre message"
+            },
+            "fr-CH": {
+                "singular": "Envoyer votre message"
+            },
+            "fr-FR": {
+                "singular": "Envoyer votre message"
+            },
+            "hr": {
+                "singular": "Pošalji upit"
+            },
+            "it": {
+                "singular": "Invia richiesta"
+            },
+            "it-CH": {
+                "singular": "Invia richiesta"
+            },
+            "it-IT": {
+                "singular": "Invia richiesta"
+            },
+            "nl": {
+                "singular": "Aanvraag versturen"
+            },
+            "nl-BE": {
+                "singular": "Aanvraag versturen"
+            },
+            "nl-NL": {
+                "singular": "Aanvraag versturen"
+            },
+            "no": {
+                "singular": "Send forespørsel"
+            },
+            "pl": {
+                "singular": "Wyślij"
+            },
+            "pt": {
+                "singular": "Enviar pedido"
+            },
+            "ru": {
+                "singular": "Послать запрос"
+            },
+            "sv": {
+                "singular": "Sänd förfrågan"
+            }
+        }
+    }
+}

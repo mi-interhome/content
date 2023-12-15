@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.iframe.fullprice",
+    "name": "fullprice",
+    "path": "text-resourcesbooking/payment/iframe/fullprice",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/iframe/fullprice",
+    "slug": "fullprice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "iframe",
+        "fullprice"
+    ],
+    "content": {
+        "key": "booking.payment.iframe.fullprice",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Celková cena"
+            },
+            "da": {
+                "singular": "Totalpris"
+            },
+            "de": {
+                "singular": "Gesamtpreis"
+            },
+            "de-AT": {
+                "singular": "Gesamtpreis"
+            },
+            "de-CH": {
+                "singular": "Gesamtpreis"
+            },
+            "de-DE": {
+                "singular": "Gesamtpreis"
+            },
+            "en": {
+                "singular": "Total price"
+            },
+            "en-AU": {
+                "singular": "Total price"
+            },
+            "en-CA": {
+                "singular": "Total price"
+            },
+            "en-GB": {
+                "singular": "Total price"
+            },
+            "en-IE": {
+                "singular": "Total price"
+            },
+            "en-US": {
+                "singular": "Total price"
+            },
+            "es": {
+                "singular": "Precio total"
+            },
+            "fi": {
+                "singular": "Kokonaishinta"
+            },
+            "fi-EE": {
+                "singular": "Kokonaishinta"
+            },
+            "fi-FI": {
+                "singular": "Kokonaishinta"
+            },
+            "fr": {
+                "singular": "Total"
+            },
+            "fr-BE": {
+                "singular": "Total"
+            },
+            "fr-CA": {
+                "singular": "Total"
+            },
+            "fr-CH": {
+                "singular": "Total"
+            },
+            "fr-FR": {
+                "singular": "Total"
+            },
+            "hr": {
+                "singular": "Ukupna cijena"
+            },
+            "it": {
+                "singular": "prezzo totale"
+            },
+            "it-CH": {
+                "singular": "prezzo totale"
+            },
+            "it-IT": {
+                "singular": "Prezzo totale"
+            },
+            "nl": {
+                "singular": "Totaalprijs"
+            },
+            "nl-BE": {
+                "singular": "Totaalprijs"
+            },
+            "nl-NL": {
+                "singular": "Totaalprijs"
+            },
+            "no": {
+                "singular": "Totalpris"
+            },
+            "pl": {
+                "singular": "Całkowita kwota"
+            },
+            "pt": {
+                "singular": "Preço Total"
+            },
+            "ru": {
+                "singular": "Стоимость отдыха"
+            },
+            "sv": {
+                "singular": "Totalpris"
+            }
+        }
+    }
+}

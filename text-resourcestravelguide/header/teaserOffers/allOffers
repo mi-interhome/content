@@ -1,0 +1,125 @@
+{
+    "id": "travelguide.header.teaserOffers.allOffers",
+    "name": "allOffers",
+    "path": "text-resourcestravelguide/header/teaserOffers/allOffers",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/teaserOffers/allOffers",
+    "slug": "allOffers",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "teaserOffers",
+        "allOffers"
+    ],
+    "content": {
+        "key": "travelguide.header.teaserOffers.allOffers",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Všechny nabídky"
+            },
+            "da": {
+                "singular": "Alle tilbud"
+            },
+            "de": {
+                "singular": "Alle Sonderangebote"
+            },
+            "de-AT": {
+                "singular": "Alle Sonderangebote"
+            },
+            "de-CH": {
+                "singular": "Alle Sonderangebote"
+            },
+            "de-DE": {
+                "singular": "Alle Sonderangebote"
+            },
+            "en": {
+                "singular": "All offers"
+            },
+            "en-AU": {
+                "singular": "All offers"
+            },
+            "en-CA": {
+                "singular": "All offers"
+            },
+            "en-GB": {
+                "singular": "All offers"
+            },
+            "en-IE": {
+                "singular": "All offers"
+            },
+            "en-US": {
+                "singular": "All offers"
+            },
+            "es": {
+                "singular": "Todas las ofertas"
+            },
+            "fi": {
+                "singular": "Kaikki tarjoukset"
+            },
+            "fi-EE": {
+                "singular": "Kaikki tarjoukset"
+            },
+            "fi-FI": {
+                "singular": "Kaikki tarjoukset"
+            },
+            "fr": {
+                "singular": "Toutes les offres"
+            },
+            "fr-BE": {
+                "singular": "Toutes les offres"
+            },
+            "fr-CA": {
+                "singular": "Toutes les offres"
+            },
+            "fr-CH": {
+                "singular": "Toutes les offres"
+            },
+            "fr-FR": {
+                "singular": "Toutes les offres"
+            },
+            "hr": {
+                "singular": "Sve ponude"
+            },
+            "it": {
+                "singular": "Tutte le offerte"
+            },
+            "it-CH": {
+                "singular": "Tutte le offerte"
+            },
+            "it-IT": {
+                "singular": "Tutte le offerte"
+            },
+            "nl": {
+                "singular": "Alle aanbiedingen"
+            },
+            "nl-BE": {
+                "singular": "Alle aanbiedingen"
+            },
+            "nl-NL": {
+                "singular": "Alle aanbiedingen"
+            },
+            "no": {
+                "singular": "Alle tilbud"
+            },
+            "pl": {
+                "singular": "Wszystkie oferty"
+            },
+            "pt": {
+                "singular": "Todas as ofertas"
+            },
+            "ru": {
+                "singular": "Все предложения "
+            },
+            "sv": {
+                "singular": "Alla erbjudanden"
+            }
+        }
+    }
+}

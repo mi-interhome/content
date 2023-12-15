@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.MobileBar.tooltip.dependentPrice",
+    "name": "dependentPrice",
+    "path": "text-resourceswww/components/views/details/MobileBar/tooltip/dependentPrice",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/MobileBar/tooltip/dependentPrice",
+    "slug": "dependentPrice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "MobileBar",
+        "tooltip",
+        "dependentPrice"
+    ],
+    "content": {
+        "key": "www.components.views.details.MobileBar.tooltip.dependentPrice",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena závisí na termínu a počtu osob"
+            },
+            "da": {
+                "singular": "Prisen afhænger af periode og antal personer"
+            },
+            "de": {
+                "singular": "Preis abhängig von Zeitraum und Personenzahl"
+            },
+            "de-AT": {
+                "singular": "Preis abhängig von Zeitraum und Personenzahl"
+            },
+            "de-CH": {
+                "singular": "Preis abhängig von Zeitraum und Personenzahl"
+            },
+            "de-DE": {
+                "singular": "Preis abhängig von Zeitraum und Personenzahl"
+            },
+            "en": {
+                "singular": "Price depends on period and number of people"
+            },
+            "en-AU": {
+                "singular": "Price depends on period and number of people"
+            },
+            "en-CA": {
+                "singular": "Price depends on period and number of people"
+            },
+            "en-GB": {
+                "singular": "Price depends on period and number of people"
+            },
+            "en-IE": {
+                "singular": "Price depends on period and number of people"
+            },
+            "en-US": {
+                "singular": "Price depends on period and number of people"
+            },
+            "es": {
+                "singular": "El precio depende del período y número de personas"
+            },
+            "fi": {
+                "singular": "Hinta riippuu loman ajankohdasta ja henkilömäärästä"
+            },
+            "fi-EE": {
+                "singular": "Hinta riippuu loman ajankohdasta ja henkilömäärästä"
+            },
+            "fi-FI": {
+                "singular": "Hinta riippuu loman ajankohdasta ja henkilömäärästä"
+            },
+            "fr": {
+                "singular": "Le prix dépend des dates de séjour et du nombre de personnes"
+            },
+            "fr-BE": {
+                "singular": "Le prix dépend des dates de séjour et du nombre de personnes"
+            },
+            "fr-CA": {
+                "singular": "Le prix dépend des dates de séjour et du nombre de personnes"
+            },
+            "fr-CH": {
+                "singular": "Le prix dépend des dates de séjour et du nombre de personnes"
+            },
+            "fr-FR": {
+                "singular": "Le prix dépend des dates de séjour et du nombre de personnes"
+            },
+            "hr": {
+                "singular": "Cijena ovisi o terminu i broju osoba."
+            },
+            "it": {
+                "singular": "Il prezzo dipende dal periodo e dal numero delle persone; potrebbero essere applicati costi aggiuntivi"
+            },
+            "it-CH": {
+                "singular": "Il prezzo dipende dal periodo e dal numero delle persone; potrebbero essere applicati costi aggiuntivi"
+            },
+            "it-IT": {
+                "singular": "Il prezzo dipende dal periodo e dal numero delle persone; potrebbero essere applicati costi aggiuntivi"
+            },
+            "nl": {
+                "singular": "De prijs is afhankelijk van de gekozen periode. "
+            },
+            "nl-BE": {
+                "singular": "De prijs is afhankelijk van de gekozen periode. "
+            },
+            "nl-NL": {
+                "singular": "De prijs is afhankelijk van de gekozen periode. "
+            },
+            "no": {
+                "singular": "Pris avhenger av periode og antall personer"
+            },
+            "pl": {
+                "singular": "Cena jest zależna od terminu i liczby osób."
+            },
+            "pt": {
+                "singular": "Tarifas dependem do período de tempo e do número de pessoas"
+            },
+            "ru": {
+                "singular": "Цена зависит от периода и количества человек"
+            },
+            "sv": {
+                "singular": "Priset beror på period och antal personer"
+            }
+        }
+    }
+}

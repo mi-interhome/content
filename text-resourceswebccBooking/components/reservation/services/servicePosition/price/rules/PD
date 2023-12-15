@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.services.servicePosition.price.rules.PD",
+    "name": "PD",
+    "path": "text-resourceswebccBooking/components/reservation/services/servicePosition/price/rules/PD",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/servicePosition/price/rules/PD",
+    "slug": "PD",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "servicePosition",
+        "price",
+        "rules",
+        "PD"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.servicePosition.price.rules.PD",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "za osobu a den"
+            },
+            "da": {
+                "singular": "per person og dag"
+            },
+            "de": {
+                "singular": "pro Person und Tag"
+            },
+            "de-AT": {
+                "singular": "pro Person und Tag"
+            },
+            "de-CH": {
+                "singular": "pro Person und Tag"
+            },
+            "de-DE": {
+                "singular": "pro Person und Tag"
+            },
+            "en": {
+                "singular": "per person per day"
+            },
+            "en-AU": {
+                "singular": "per person per day"
+            },
+            "en-CA": {
+                "singular": "per person per day"
+            },
+            "en-GB": {
+                "singular": "per person per day"
+            },
+            "en-IE": {
+                "singular": "per person per day"
+            },
+            "en-US": {
+                "singular": "per person per day"
+            },
+            "es": {
+                "singular": "por persona y día"
+            },
+            "fi": {
+                "singular": "per hlö per pvä"
+            },
+            "fi-EE": {
+                "singular": "per hlö per pvä"
+            },
+            "fi-FI": {
+                "singular": "per hlö per pvä"
+            },
+            "fr": {
+                "singular": "par personne et par jour"
+            },
+            "fr-BE": {
+                "singular": "par personne et par jour"
+            },
+            "fr-CA": {
+                "singular": "par personne et par jour"
+            },
+            "fr-CH": {
+                "singular": "par personne et par jour"
+            },
+            "fr-FR": {
+                "singular": "par personne et par jour"
+            },
+            "hr": {
+                "singular": "po osobi po danu"
+            },
+            "it": {
+                "singular": "per persona al giorno"
+            },
+            "it-CH": {
+                "singular": "per persona al giorno"
+            },
+            "it-IT": {
+                "singular": "per persona al giorno"
+            },
+            "nl": {
+                "singular": "per persoon per dag"
+            },
+            "nl-BE": {
+                "singular": "per persoon per dag"
+            },
+            "nl-NL": {
+                "singular": "per persoon per dag"
+            },
+            "no": {
+                "singular": "per person og dag"
+            },
+            "pl": {
+                "singular": "za osobę/za dzień"
+            },
+            "pt": {
+                "singular": "por pessoa e dia"
+            },
+            "ru": {
+                "singular": "за человека в день"
+            },
+            "sv": {
+                "singular": "per person och dag"
+            }
+        }
+    }
+}

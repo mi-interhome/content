@@ -1,0 +1,80 @@
+{
+    "id": "checkout.pages.booking.onrequest.successTitle",
+    "name": "successTitle",
+    "path": "text-resourcescheckout/pages/booking/onrequest/successTitle",
+    "folder": "text-resources",
+    "full_slug": "checkout/pages/booking/onrequest/successTitle",
+    "slug": "successTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "pages",
+        "booking",
+        "onrequest",
+        "successTitle"
+    ],
+    "content": {
+        "key": "checkout.pages.booking.onrequest.successTitle",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Danke für Ihre Anfrage"
+            },
+            "de-AT": {
+                "singular": "Danke für Ihre Anfrage"
+            },
+            "de-CH": {
+                "singular": "Danke für Ihre Anfrage"
+            },
+            "de-DE": {
+                "singular": "Danke für Ihre Anfrage"
+            },
+            "en": {
+                "singular": "Thank you for your enquiry"
+            },
+            "en-AU": {
+                "singular": "Thank you for your enquiry"
+            },
+            "en-CA": {
+                "singular": "Thank you for your enquiry"
+            },
+            "en-GB": {
+                "singular": "Thank you for your enquiry"
+            },
+            "en-IE": {
+                "singular": "Thank you for your enquiry"
+            },
+            "en-US": {
+                "singular": "Thank you for your enquiry"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

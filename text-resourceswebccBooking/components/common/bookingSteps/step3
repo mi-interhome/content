@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.common.bookingSteps.step3",
+    "name": "step3",
+    "path": "text-resourceswebccBooking/components/common/bookingSteps/step3",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/common/bookingSteps/step3",
+    "slug": "step3",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "common",
+        "bookingSteps",
+        "step3"
+    ],
+    "content": {
+        "key": "webccBooking.components.common.bookingSteps.step3",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potvrzení rezervace"
+            },
+            "da": {
+                "singular": "Reservationsbekræftelse"
+            },
+            "de": {
+                "singular": "Bestätigung"
+            },
+            "de-AT": {
+                "singular": "Bestätigung"
+            },
+            "de-CH": {
+                "singular": "Bestätigung"
+            },
+            "de-DE": {
+                "singular": "Bestätigung"
+            },
+            "en": {
+                "singular": "Confirmation"
+            },
+            "en-AU": {
+                "singular": "Confirmation"
+            },
+            "en-CA": {
+                "singular": "Confirmation"
+            },
+            "en-GB": {
+                "singular": "Confirmation"
+            },
+            "en-IE": {
+                "singular": "Confirmation"
+            },
+            "en-US": {
+                "singular": "Confirmation"
+            },
+            "es": {
+                "singular": "Confirmación"
+            },
+            "fi": {
+                "singular": "Varausvahvistus"
+            },
+            "fi-EE": {
+                "singular": "Varausvahvistus"
+            },
+            "fi-FI": {
+                "singular": "Varausvahvistus"
+            },
+            "fr": {
+                "singular": "Confirmation de réservation"
+            },
+            "fr-BE": {
+                "singular": "Confirmation de réservation"
+            },
+            "fr-CA": {
+                "singular": "Confirmation de réservation"
+            },
+            "fr-CH": {
+                "singular": "Confirmation de réservation"
+            },
+            "fr-FR": {
+                "singular": "Confirmation de réservation"
+            },
+            "hr": {
+                "singular": "Potvrda"
+            },
+            "it": {
+                "singular": "Conferma"
+            },
+            "it-CH": {
+                "singular": "Conferma"
+            },
+            "it-IT": {
+                "singular": "Conferma"
+            },
+            "nl": {
+                "singular": "Bevestiging"
+            },
+            "nl-BE": {
+                "singular": "Bevestiging"
+            },
+            "nl-NL": {
+                "singular": "Bevestiging"
+            },
+            "no": {
+                "singular": "Bookingbekreftelse"
+            },
+            "pl": {
+                "singular": "Potwierdzenie"
+            },
+            "pt": {
+                "singular": "Confirmação"
+            },
+            "ru": {
+                "singular": "Подтверждение бронирования"
+            },
+            "sv": {
+                "singular": "Bokningsbekräftelse"
+            }
+        }
+    }
+}

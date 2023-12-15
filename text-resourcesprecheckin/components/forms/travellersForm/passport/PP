@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.passport.PP",
+    "name": "PP",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/passport/PP",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/passport/PP",
+    "slug": "PP",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "passport",
+        "PP"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.passport.PP",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cestovní pas"
+            },
+            "da": {
+                "singular": "Pas"
+            },
+            "de": {
+                "singular": "Pass"
+            },
+            "de-AT": {
+                "singular": "Pass"
+            },
+            "de-CH": {
+                "singular": "Pass"
+            },
+            "de-DE": {
+                "singular": "Pass"
+            },
+            "en": {
+                "singular": "Passport"
+            },
+            "en-AU": {
+                "singular": "Passport"
+            },
+            "en-CA": {
+                "singular": "Passport"
+            },
+            "en-GB": {
+                "singular": "Passport"
+            },
+            "en-IE": {
+                "singular": "Passport"
+            },
+            "en-US": {
+                "singular": "Passport"
+            },
+            "es": {
+                "singular": "Pasaporte"
+            },
+            "fi": {
+                "singular": "Passi"
+            },
+            "fi-EE": {
+                "singular": "Passi"
+            },
+            "fi-FI": {
+                "singular": "Passi"
+            },
+            "fr": {
+                "singular": "Passeport"
+            },
+            "fr-BE": {
+                "singular": "Passeport"
+            },
+            "fr-CA": {
+                "singular": "Passeport"
+            },
+            "fr-CH": {
+                "singular": "Passeport"
+            },
+            "fr-FR": {
+                "singular": "Passeport"
+            },
+            "hr": {
+                "singular": "Putovnica"
+            },
+            "it": {
+                "singular": "Passaporto"
+            },
+            "it-CH": {
+                "singular": "Passaporto"
+            },
+            "it-IT": {
+                "singular": "Passaporto"
+            },
+            "nl": {
+                "singular": "Paspoort"
+            },
+            "nl-BE": {
+                "singular": "Paspoort"
+            },
+            "nl-NL": {
+                "singular": "Paspoort"
+            },
+            "no": {
+                "singular": "Pass"
+            },
+            "pl": {
+                "singular": "Paszport"
+            },
+            "pt": {
+                "singular": "Passaporte"
+            },
+            "ru": {
+                "singular": "Паспорт"
+            },
+            "sv": {
+                "singular": "Pass"
+            }
+        }
+    }
+}

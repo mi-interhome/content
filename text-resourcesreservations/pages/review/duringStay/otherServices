@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.duringStay.otherServices",
+    "name": "otherServices",
+    "path": "text-resourcesreservations/pages/review/duringStay/otherServices",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/duringStay/otherServices",
+    "slug": "otherServices",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "duringStay",
+        "otherServices"
+    ],
+    "content": {
+        "key": "reservations.pages.review.duringStay.otherServices",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další zařízení a vybavení"
+            },
+            "da": {
+                "singular": "Andre faciliteter"
+            },
+            "de": {
+                "singular": "Andere Ausstattungs- \u0026 Serviceleistungen"
+            },
+            "de-AT": {
+                "singular": "Andere Ausstattungs- \u0026 Serviceleistungen"
+            },
+            "de-CH": {
+                "singular": "Andere Ausstattungs- \u0026 Serviceleistungen"
+            },
+            "de-DE": {
+                "singular": "Andere Ausstattungs- \u0026 Serviceleistungen"
+            },
+            "en": {
+                "singular": "Other facilities \u0026 amenities"
+            },
+            "en-AU": {
+                "singular": "Other facilities \u0026 amenities"
+            },
+            "en-CA": {
+                "singular": "Other facilities \u0026 amenities"
+            },
+            "en-GB": {
+                "singular": "Other facilities \u0026 amenities"
+            },
+            "en-IE": {
+                "singular": "Other facilities \u0026 amenities"
+            },
+            "en-US": {
+                "singular": "Other facilities \u0026 amenities"
+            },
+            "es": {
+                "singular": "Otros servicios e instalaciones"
+            },
+            "fi": {
+                "singular": "Muita palveluita"
+            },
+            "fi-EE": {
+                "singular": "Muut tilat ja palvelut"
+            },
+            "fi-FI": {
+                "singular": "Muita palveluita"
+            },
+            "fr": {
+                "singular": "Autres équipements"
+            },
+            "fr-BE": {
+                "singular": "Autres équipements"
+            },
+            "fr-CA": {
+                "singular": "Autres équipements"
+            },
+            "fr-CH": {
+                "singular": "Autres équipements"
+            },
+            "fr-FR": {
+                "singular": "Autres équipements"
+            },
+            "hr": {
+                "singular": "Ostali sadržaji"
+            },
+            "it": {
+                "singular": "Altri servizi"
+            },
+            "it-CH": {
+                "singular": "Altri servizi"
+            },
+            "it-IT": {
+                "singular": "Altri servizi"
+            },
+            "nl": {
+                "singular": "Overige faciliteiten \u0026 voorzieningen"
+            },
+            "nl-BE": {
+                "singular": "Overige faciliteiten \u0026 voorzieningen"
+            },
+            "nl-NL": {
+                "singular": "Overige faciliteiten \u0026 voorzieningen"
+            },
+            "no": {
+                "singular": "Andre fasiliteter og bekvemmeligheter"
+            },
+            "pl": {
+                "singular": "Inne udogodnienia"
+            },
+            "pt": {
+                "singular": "Demais instalações e serviços"
+            },
+            "ru": {
+                "singular": "Другие услуги и удобства"
+            },
+            "sv": {
+                "singular": "Andra lokaler och bekvämligheter"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "booking.paymentMethods.partial",
+    "name": "partial",
+    "path": "text-resourcesbooking/paymentMethods/partial",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/partial",
+    "slug": "partial",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "partial"
+    ],
+    "content": {
+        "key": "booking.paymentMethods.partial",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Záloha: ({deposit}). Doplatek: ({balance})"
+            },
+            "da": {
+                "singular": "Depositum: ({deposit}). Restbetaling: ({balance})"
+            },
+            "de": {
+                "singular": "Anzahlungsbetrag jetzt ({deposit}). Restbetrag später: ({balance})"
+            },
+            "de-AT": {
+                "singular": "Anzahlungsbetrag jetzt ({deposit}). Restbetrag später: ({balance})"
+            },
+            "de-CH": {
+                "singular": "Anzahlungsbetrag jetzt ({deposit}). Restbetrag später: ({balance})"
+            },
+            "de-DE": {
+                "singular": "Anzahlungsbetrag jetzt ({deposit}). Restbetrag später: ({balance})"
+            },
+            "en": {
+                "singular": "Deposit: ({deposit}). Balance: ({balance})"
+            },
+            "en-AU": {
+                "singular": "Deposit: ({deposit}). Balance: ({balance})"
+            },
+            "en-CA": {
+                "singular": "Deposit: ({deposit}). Balance: ({balance})"
+            },
+            "en-GB": {
+                "singular": "Deposit: ({deposit}). Balance: ({balance})"
+            },
+            "en-IE": {
+                "singular": "Deposit: ({deposit}). Balance: ({balance})"
+            },
+            "en-US": {
+                "singular": "Deposit: ({deposit}). Balance: ({balance})"
+            },
+            "es": {
+                "singular": "Depósito: ({deposit}). Balance: ({balance})"
+            },
+            "fi": {
+                "singular": "Varausmaksu: ({deposit}). Loppumaksu: ({balance})"
+            },
+            "fi-EE": {
+                "singular": "Varausmaksu: ({deposit}). Loppumaksu: ({balance})"
+            },
+            "fi-FI": {
+                "singular": "Varausmaksu: ({deposit}). Loppumaksu: ({balance})"
+            },
+            "fr": {
+                "singular": "Acompte: ({deposit}). Solde: ({balance})"
+            },
+            "fr-BE": {
+                "singular": "Acompte: ({deposit}). Solde: ({balance})"
+            },
+            "fr-CA": {
+                "singular": "Acompte: ({deposit}). Solde: ({balance})"
+            },
+            "fr-CH": {
+                "singular": "Acompte: ({deposit}). Solde: ({balance})"
+            },
+            "fr-FR": {
+                "singular": "Acompte : ({deposit}). Solde : ({balance})"
+            },
+            "hr": {
+                "singular": "Predujam: ({deposit}). Ostatak iznosa rezervacije: ({balance})"
+            },
+            "it": {
+                "singular": "Acconto: ({deposit}). Saldo: ({balance})"
+            },
+            "it-CH": {
+                "singular": "Acconto: ({deposit}). Saldo: ({balance})"
+            },
+            "it-IT": {
+                "singular": "Acconto: ({deposit}). Saldo: ({balance})"
+            },
+            "nl": {
+                "singular": "Alleen aanbetaling ({deposit}), resterende bedrag ({balance}) later betalen."
+            },
+            "nl-BE": {
+                "singular": "Alleen aanbetaling ({deposit}), resterende bedrag ({balance}) later betalen."
+            },
+            "nl-NL": {
+                "singular": "Alleen aanbetaling ({deposit}), resterende bedrag ({balance}) later betalen."
+            },
+            "no": {
+                "singular": "Depositum: ({deposit}). Sluttbetaling: ({balance})"
+            },
+            "pl": {
+                "singular": "Zaliczka: ({deposit}). Saldo: ({balance})"
+            },
+            "pt": {
+                "singular": "Depósito: ({deposit}). Balanço: ({balance})"
+            },
+            "ru": {
+                "singular": "Предоплата: ({deposit}). Доплата: ({balance}). "
+            },
+            "sv": {
+                "singular": "Anmälningsavgift:({deposit}).Slutbetalningen: ({balance})"
+            }
+        }
+    }
+}

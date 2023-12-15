@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.services.creditCards.newCard",
+    "name": "newCard",
+    "path": "text-resourcesprecheckin/components/services/creditCards/newCard",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/services/creditCards/newCard",
+    "slug": "newCard",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "services",
+        "creditCards",
+        "newCard"
+    ],
+    "content": {
+        "key": "precheckin.components.services.creditCards.newCard",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Změnit kreditní kartu"
+            },
+            "da": {
+                "singular": "Brug et andet kreditkort "
+            },
+            "de": {
+                "singular": "Kreditkarte ändern"
+            },
+            "de-AT": {
+                "singular": "Kreditkarte ändern"
+            },
+            "de-CH": {
+                "singular": "Kreditkarte ändern"
+            },
+            "de-DE": {
+                "singular": "Kreditkarte ändern"
+            },
+            "en": {
+                "singular": "Use a different credit card"
+            },
+            "en-AU": {
+                "singular": "Use a different credit card"
+            },
+            "en-CA": {
+                "singular": "Use a different credit card"
+            },
+            "en-GB": {
+                "singular": "Use a different credit card"
+            },
+            "en-IE": {
+                "singular": "Use a different credit card"
+            },
+            "en-US": {
+                "singular": "Use a different credit card"
+            },
+            "es": {
+                "singular": "Utilice otra tarjeta"
+            },
+            "fi": {
+                "singular": "Käytä toista luottokorttia"
+            },
+            "fi-EE": {
+                "singular": "Käytä toista luottokorttia"
+            },
+            "fi-FI": {
+                "singular": "Käytä toista luottokorttia"
+            },
+            "fr": {
+                "singular": "Utiliser une autre carte de crédit"
+            },
+            "fr-BE": {
+                "singular": "Utiliser une autre carte de crédit"
+            },
+            "fr-CA": {
+                "singular": "Utiliser une autre carte de crédit"
+            },
+            "fr-CH": {
+                "singular": "Utiliser une autre carte de crédit"
+            },
+            "fr-FR": {
+                "singular": "Utiliser une autre carte de crédit"
+            },
+            "hr": {
+                "singular": "Koristi drugu karticu"
+            },
+            "it": {
+                "singular": "Utilizzare una carta di credito differente"
+            },
+            "it-CH": {
+                "singular": "Utilizzare una carta di credito differente"
+            },
+            "it-IT": {
+                "singular": "Utilizzare una carta di credito differente"
+            },
+            "nl": {
+                "singular": "Gebruik een andere creditcard"
+            },
+            "nl-BE": {
+                "singular": "Gebruik een andere creditcard"
+            },
+            "nl-NL": {
+                "singular": "Gebruik een andere creditcard"
+            },
+            "no": {
+                "singular": "Bruke et annet kredittkort"
+            },
+            "pl": {
+                "singular": "Użyj innej karty kredytowej"
+            },
+            "pt": {
+                "singular": "Usar um cartão de crédito diferente"
+            },
+            "ru": {
+                "singular": "Использовать другую банковскую карту"
+            },
+            "sv": {
+                "singular": "Använd ett annat kreditkort"
+            }
+        }
+    }
+}

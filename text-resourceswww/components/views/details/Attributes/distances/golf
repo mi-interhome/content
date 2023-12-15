@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.distances.golf",
+    "name": "golf",
+    "path": "text-resourceswww/components/views/details/Attributes/distances/golf",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/distances/golf",
+    "slug": "golf",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "distances",
+        "golf"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.distances.golf",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Golfové hřiště: {distance}"
+            },
+            "da": {
+                "singular": "Golfplads {distance}"
+            },
+            "de": {
+                "singular": "Golfplatz {distance}"
+            },
+            "de-AT": {
+                "singular": "Golfplatz {distance}"
+            },
+            "de-CH": {
+                "singular": "Golfplatz {distance}"
+            },
+            "de-DE": {
+                "singular": "Golfplatz {distance}"
+            },
+            "en": {
+                "singular": "Proximity to golf course {distance}"
+            },
+            "en-AU": {
+                "singular": "Proximity to golf course {distance}"
+            },
+            "en-CA": {
+                "singular": "Proximity to golf course {distance}"
+            },
+            "en-GB": {
+                "singular": "Proximity to golf course {distance}"
+            },
+            "en-IE": {
+                "singular": "Proximity to golf course {distance}"
+            },
+            "en-US": {
+                "singular": "Proximity to golf course {distance}"
+            },
+            "es": {
+                "singular": "Distancia al campo de golf {distance}"
+            },
+            "fi": {
+                "singular": "Lähin golf-kenttä {distance}"
+            },
+            "fi-EE": {
+                "singular": "Lähin golf-kenttä {distance}"
+            },
+            "fi-FI": {
+                "singular": "Lähin golf-kenttä {distance}"
+            },
+            "fr": {
+                "singular": "Golf {distance}"
+            },
+            "fr-BE": {
+                "singular": "Golf {distance}"
+            },
+            "fr-CA": {
+                "singular": "Golf {distance}"
+            },
+            "fr-CH": {
+                "singular": "Golf {distance}"
+            },
+            "fr-FR": {
+                "singular": "Golf {distance}"
+            },
+            "hr": {
+                "singular": "Udaljenost od golf igrališta {distance}"
+            },
+            "it": {
+                "singular": "Distanza dal campo da golf {distance}"
+            },
+            "it-CH": {
+                "singular": "Distanza dal campo da golf {distance}"
+            },
+            "it-IT": {
+                "singular": "Distanza dal campo da golf {distance}"
+            },
+            "nl": {
+                "singular": "Afstand tot golfbaan {distance}"
+            },
+            "nl-BE": {
+                "singular": "Afstand tot golfbaan {distance}"
+            },
+            "nl-NL": {
+                "singular": "Afstand tot golfbaan {distance}"
+            },
+            "no": {
+                "singular": "Golfbane {distance}"
+            },
+            "pl": {
+                "singular": "Pole golfowe {distance}"
+            },
+            "pt": {
+                "singular": "Distância até ao campo de golfe {distance}"
+            },
+            "ru": {
+                "singular": "Расстояние до поля для гольфа {distance}"
+            },
+            "sv": {
+                "singular": "Golfbana {distance}"
+            }
+        }
+    }
+}

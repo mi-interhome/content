@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.options.veryGood",
+    "name": "veryGood",
+    "path": "text-resourcesreservations/pages/review/options/veryGood",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/options/veryGood",
+    "slug": "veryGood",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "options",
+        "veryGood"
+    ],
+    "content": {
+        "key": "reservations.pages.review.options.veryGood",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Skvělé"
+            },
+            "da": {
+                "singular": "Fantastisk"
+            },
+            "de": {
+                "singular": "Sehr gut"
+            },
+            "de-AT": {
+                "singular": "Sehr gut"
+            },
+            "de-CH": {
+                "singular": "Sehr gut"
+            },
+            "de-DE": {
+                "singular": "Sehr gut"
+            },
+            "en": {
+                "singular": "Very good"
+            },
+            "en-AU": {
+                "singular": "Very good"
+            },
+            "en-CA": {
+                "singular": "Very good"
+            },
+            "en-GB": {
+                "singular": "Very good"
+            },
+            "en-IE": {
+                "singular": "Very good"
+            },
+            "en-US": {
+                "singular": "Very good"
+            },
+            "es": {
+                "singular": "Estupendo"
+            },
+            "fi": {
+                "singular": "Upea"
+            },
+            "fi-EE": {
+                "singular": "Upea"
+            },
+            "fi-FI": {
+                "singular": "Upea"
+            },
+            "fr": {
+                "singular": "Excellent"
+            },
+            "fr-BE": {
+                "singular": "Excellent"
+            },
+            "fr-CA": {
+                "singular": "Excellent"
+            },
+            "fr-CH": {
+                "singular": "Excellent"
+            },
+            "fr-FR": {
+                "singular": "Excellent"
+            },
+            "hr": {
+                "singular": "Odlično"
+            },
+            "it": {
+                "singular": "Ottimo"
+            },
+            "it-CH": {
+                "singular": "Ottimo"
+            },
+            "it-IT": {
+                "singular": "Eccellente"
+            },
+            "nl": {
+                "singular": "Zeer Goed"
+            },
+            "nl-BE": {
+                "singular": "Zeer Goed"
+            },
+            "nl-NL": {
+                "singular": "Zeer Goed"
+            },
+            "no": {
+                "singular": "Flott"
+            },
+            "pl": {
+                "singular": "Super"
+            },
+            "pt": {
+                "singular": "Ótimo"
+            },
+            "ru": {
+                "singular": "Отлично"
+            },
+            "sv": {
+                "singular": "Mycket bra"
+            }
+        }
+    }
+}

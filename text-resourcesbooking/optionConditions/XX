@@ -1,0 +1,124 @@
+{
+    "id": "booking.optionConditions.XX",
+    "name": "XX",
+    "path": "text-resourcesbooking/optionConditions/XX",
+    "folder": "text-resources",
+    "full_slug": "booking/optionConditions/XX",
+    "slug": "XX",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "optionConditions",
+        "XX"
+    ],
+    "content": {
+        "key": "booking.optionConditions.XX",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše opce automaticky propadne {expirydate}, pokud ji do tohoto data sami nepotvrdíte. Opci můžete potvrdit na našem partnerském portálu nebo telefonicky."
+            },
+            "da": {
+                "singular": "Din option booking kommer automatisk til å fjernes den {expirydate}, om den ikke bekræftes av dig før denne dato. Du kan bekræfte option bookingen via din partner portal eller per telefon."
+            },
+            "de": {
+                "singular": "Ihre Option verfällt automatisch am {expirydate}, sofern sie nicht vorher bestätigt wird. Sie können die Option in unserem Partner Portal oder telefonisch bestätigen."
+            },
+            "de-AT": {
+                "singular": "Ihre Option verfällt automatisch am {expirydate}, sofern sie nicht vorher bestätigt wird. Sie können die Option in unserem Partner Portal oder telefonisch bestätigen."
+            },
+            "de-CH": {
+                "singular": "Ihre Option verfällt automatisch am {expirydate}, sofern sie nicht vorher bestätigt wird. Sie können die Option in unserem Partner Portal oder telefonisch bestätigen."
+            },
+            "de-DE": {
+                "singular": "Ihre Option verfällt automatisch am {expirydate}, sofern sie nicht vorher bestätigt wird. Sie können die Option in unserem Partner Portal oder telefonisch bestätigen."
+            },
+            "en": {
+                "singular": "Your option will automatically expire on {expirydate}, unless it is confirmed by you beforehand. You can confirm the option in our partner portal or by telephone."
+            },
+            "en-AU": {
+                "singular": "Your option will automatically expire on {expirydate}, unless it is confirmed by you beforehand. You can confirm the option in our partner portal or by telephone."
+            },
+            "en-CA": {
+                "singular": "Your option will automatically expire on {expirydate}, unless it is confirmed by you beforehand. You can confirm the option in our partner portal or by telephone."
+            },
+            "en-GB": {
+                "singular": "Your option will automatically expire on {expirydate}, unless it is confirmed by you beforehand. You can confirm the option in our partner portal or by telephone."
+            },
+            "en-IE": {
+                "singular": "Your option will automatically expire on {expirydate}, unless it is confirmed by you beforehand. You can confirm the option in our partner portal or by telephone."
+            },
+            "en-US": {
+                "singular": "Your option will automatically expire on {expirydate}, unless it is confirmed by you beforehand. You can confirm the option in our partner portal or by telephone."
+            },
+            "es": {
+                "singular": "Su bloqueo opcional caducará el {expirydate}, a menos que lo confirme con anterioridad. Puede confirmar su bloqueo a través del partner portal o por teléfono."
+            },
+            "fi": {
+                "singular": "Alustava varauksesi peruuntuu automaattisesti {expirydate}, mikäli et vahvista sitä erikseen aiemmin. Voit vahvistaa varauksen partner-portaalissamme tai puhelimitse."
+            },
+            "fi-EE": {
+                "singular": "Alustava varauksesi peruuntuu automaattisesti {expirydate}, mikäli et vahvista sitä erikseen aiemmin. Voit vahvistaa varauksen partner-portaalissamme tai puhelimitse."
+            },
+            "fi-FI": {
+                "singular": "Alustava varauksesi peruuntuu automaattisesti {expirydate}, mikäli et vahvista sitä erikseen aiemmin. Voit vahvistaa varauksen partner-portaalissamme tai puhelimitse."
+            },
+            "fr": {
+                "singular": "Votre option arrivera automatiquement à expiration le {expirydate}, à moins que vous ne la confirmiez préalablement. Vous pouvez la confirmer sur votre espace partenaire ou par téléphone."
+            },
+            "fr-BE": {
+                "singular": "Votre option arrivera automatiquement à expiration le {expirydate}, à moins que vous ne la confirmiez préalablement. Vous pouvez la confirmer sur votre espace partenaire ou par téléphone."
+            },
+            "fr-CA": {
+                "singular": "Votre option arrivera automatiquement à expiration le {expirydate}, à moins que vous ne la confirmiez préalablement. Vous pouvez la confirmer sur votre espace partenaire ou par téléphone."
+            },
+            "fr-CH": {
+                "singular": "Votre option arrivera automatiquement à expiration le {expirydate}, à moins que vous ne la confirmiez préalablement. Vous pouvez la confirmer sur votre espace partenaire ou par téléphone."
+            },
+            "fr-FR": {
+                "singular": "Votre option arrivera automatiquement à expiration le {expirydate}, à moins que vous ne la confirmiez préalablement. Vous pouvez la confirmer sur votre espace partenaire ou par téléphone."
+            },
+            "hr": {
+                "singular": "Vaša opcija automatski ističe {expirydate}, ukoliko je prethodno niste potvrdili kao fiksnu rezervaciju. Opciju možete potvrditi putem partnerskoga portala ili telefonski."
+            },
+            "it": {
+                "singular": "L’ opzione scadrà automaticamente il {expirydate}, a meno che non venga confermata prima di tale scadenza. È possibile confermare l'opzione accedendo al nostro portale partner o per telefono."
+            },
+            "it-CH": {
+                "singular": "L’ opzione scadrà automaticamente il {expirydate}, a meno che non venga confermata prima di tale scadenza. È possibile confermare l'opzione accedendo al nostro portale partner o per telefono."
+            },
+            "it-IT": {
+                "singular": "L’ opzione scadrà automaticamente il {expirydate}, a meno che non venga confermata prima di tale scadenza. È possibile confermare l'opzione accedendo al nostro portale partner o per telefono."
+            },
+            "nl": {
+                "singular": "Uw optie vervalt automatisch op {expirydate}, tenzij u deze voor de vervaldatum bevestigd. U kunt de optie via het partner portaal of telefonisch bevestigen."
+            },
+            "nl-BE": {
+                "singular": "Uw optie vervalt automatisch op {expirydate}, tenzij u deze voor de vervaldatum bevestigd. U kunt de optie via het partner portaal of telefonisch bevestigen."
+            },
+            "nl-NL": {
+                "singular": "Uw optie vervalt automatisch op {expirydate}, tenzij u deze voor de vervaldatum bevestigd. U kunt de optie via het partner portaal of telefonisch bevestigen."
+            },
+            "no": {
+                "singular": "Din option booking kommer automatisk til å fjernes den {expirydate}, om den ikke bekreftes av deg før denne dato. Du kan bekrefte option bookingen via din partner portal eller per telefon."
+            },
+            "pl": {
+                "singular": "Jeśli nie potwierdzą Państwo wcześniej swojej rezerwacji na opcji to anuluje się ona automatycznie w dniu {expirydate}. Rezerwację można potwierdzić w portalu dla partnerów lub telefonicznie. "
+            },
+            "pt": {
+                "singular": "A sua opção irá expirar automaticamente em {expirydate}, a menos que seja previamente confirmada por si. Pode confirmar a opção no nosso portal de parceiros ou por telefone."
+            },
+            "ru": {
+                "singular": "Срок действия опции автоматически истечет {expirydate}, если она не была подтверждена Вами ранее. Вы можете подтвердить её в личном кабинете или по телефону."
+            },
+            "sv": {
+                "singular": "Din preliminärbokning kommer automatisk att avbokas den {expirydate}, om den inte blir bekräftat av dig innan dess. Du kan bekräfta preliminärbokningen via din partnerportal eller per telefon. "
+            }
+        }
+    }
+}

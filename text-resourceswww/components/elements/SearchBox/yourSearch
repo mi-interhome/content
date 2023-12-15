@@ -1,0 +1,126 @@
+{
+    "id": "www.components.elements.SearchBox.yourSearch",
+    "name": "yourSearch",
+    "path": "text-resourceswww/components/elements/SearchBox/yourSearch",
+    "folder": "text-resources",
+    "full_slug": "www/components/elements/SearchBox/yourSearch",
+    "slug": "yourSearch",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "elements",
+        "SearchBox",
+        "yourSearch"
+    ],
+    "content": {
+        "key": "www.components.elements.SearchBox.yourSearch",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Váš výběr"
+            },
+            "da": {
+                "singular": "Din søgning"
+            },
+            "de": {
+                "singular": "Ihre Suche"
+            },
+            "de-AT": {
+                "singular": "Ihre Suche"
+            },
+            "de-CH": {
+                "singular": "Ihre Suche"
+            },
+            "de-DE": {
+                "singular": "Ihre Suche"
+            },
+            "en": {
+                "singular": "Your search"
+            },
+            "en-AU": {
+                "singular": "Your search"
+            },
+            "en-CA": {
+                "singular": "Your search"
+            },
+            "en-GB": {
+                "singular": "Your search"
+            },
+            "en-IE": {
+                "singular": "Your search"
+            },
+            "en-US": {
+                "singular": "Your search"
+            },
+            "es": {
+                "singular": "Su búsqueda"
+            },
+            "fi": {
+                "singular": "Hakusi"
+            },
+            "fi-EE": {
+                "singular": "Hakusi"
+            },
+            "fi-FI": {
+                "singular": "Hakusi"
+            },
+            "fr": {
+                "singular": "Votre recherche"
+            },
+            "fr-BE": {
+                "singular": "Votre recherche"
+            },
+            "fr-CA": {
+                "singular": "Votre recherche"
+            },
+            "fr-CH": {
+                "singular": "Votre recherche"
+            },
+            "fr-FR": {
+                "singular": "Votre recherche"
+            },
+            "hr": {
+                "singular": "Vaša pretraga"
+            },
+            "it": {
+                "singular": "La tua ricerca"
+            },
+            "it-CH": {
+                "singular": "La tua ricerca"
+            },
+            "it-IT": {
+                "singular": "La tua ricerca"
+            },
+            "nl": {
+                "singular": "Uw zoekopdracht"
+            },
+            "nl-BE": {
+                "singular": "Uw zoekopdracht"
+            },
+            "nl-NL": {
+                "singular": "Uw zoekopdracht"
+            },
+            "no": {
+                "singular": "Ditt søk"
+            },
+            "pl": {
+                "singular": "Twoje wyszukiwanie"
+            },
+            "pt": {
+                "singular": "Your search"
+            },
+            "ru": {
+                "singular": "Ваш выбор"
+            },
+            "sv": {
+                "singular": "Din sökning"
+            }
+        }
+    }
+}

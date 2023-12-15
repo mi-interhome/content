@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.manage_reservations",
+    "name": "manage_reservations",
+    "path": "text-resourceswebccSalesportal/reservationoverview/manage_reservations",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/manage_reservations",
+    "slug": "manage_reservations",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "manage_reservations"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.manage_reservations",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zkontrolujte a upravte své rezervace"
+            },
+            "da": {
+                "singular": "Gennemgå og ændre bookinger"
+            },
+            "de": {
+                "singular": "Buchungen verwalten"
+            },
+            "de-AT": {
+                "singular": "Buchungen verwalten"
+            },
+            "de-CH": {
+                "singular": "Buchungen verwalten"
+            },
+            "de-DE": {
+                "singular": "Buchungen verwalten"
+            },
+            "en": {
+                "singular": "Manage Bookings"
+            },
+            "en-AU": {
+                "singular": "Manage Bookings"
+            },
+            "en-CA": {
+                "singular": "Manage Bookings"
+            },
+            "en-GB": {
+                "singular": "Manage Bookings"
+            },
+            "en-IE": {
+                "singular": "Manage Bookings"
+            },
+            "en-US": {
+                "singular": "Manage Bookings"
+            },
+            "es": {
+                "singular": "Revise y edite sus reservas"
+            },
+            "fi": {
+                "singular": "Tarkasta ja muuta varauksiasi"
+            },
+            "fi-EE": {
+                "singular": "Tarkasta ja muuta varauksiasi"
+            },
+            "fi-FI": {
+                "singular": "Tarkasta ja muuta varauksiasi"
+            },
+            "fr": {
+                "singular": "Gérer mes réservations"
+            },
+            "fr-BE": {
+                "singular": "Gérer mes réservations"
+            },
+            "fr-CA": {
+                "singular": "Gérer mes réservations"
+            },
+            "fr-CH": {
+                "singular": "Gérer mes réservations"
+            },
+            "fr-FR": {
+                "singular": "Gérer mes réservations"
+            },
+            "hr": {
+                "singular": "Upravljanje rezervacijama"
+            },
+            "it": {
+                "singular": "Gestione prenotazioni"
+            },
+            "it-CH": {
+                "singular": "Gestione prenotazioni"
+            },
+            "it-IT": {
+                "singular": "Gestione prenotazioni"
+            },
+            "nl": {
+                "singular": "Beheer Boekingen"
+            },
+            "nl-BE": {
+                "singular": "Beheer Boekingen"
+            },
+            "nl-NL": {
+                "singular": "Beheer Boekingen"
+            },
+            "no": {
+                "singular": "Se gjennom og endre bookinger"
+            },
+            "pl": {
+                "singular": "Podgląd i edycja rezerwacji"
+            },
+            "pt": {
+                "singular": "Revise e edite suas reservas"
+            },
+            "ru": {
+                "singular": "Управление бронированием"
+            },
+            "sv": {
+                "singular": "Granska och ändra dina bokningar"
+            }
+        }
+    }
+}

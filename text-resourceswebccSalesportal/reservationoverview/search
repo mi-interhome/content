@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.search",
+    "name": "search",
+    "path": "text-resourceswebccSalesportal/reservationoverview/search",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/search",
+    "slug": "search",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "search"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.search",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyhledat"
+            },
+            "da": {
+                "singular": "Søg"
+            },
+            "de": {
+                "singular": "Suchen"
+            },
+            "de-AT": {
+                "singular": "Suchen"
+            },
+            "de-CH": {
+                "singular": "Suchen"
+            },
+            "de-DE": {
+                "singular": "Suchen"
+            },
+            "en": {
+                "singular": "Search"
+            },
+            "en-AU": {
+                "singular": "Search"
+            },
+            "en-CA": {
+                "singular": "Search"
+            },
+            "en-GB": {
+                "singular": "Search"
+            },
+            "en-IE": {
+                "singular": "Search"
+            },
+            "en-US": {
+                "singular": "Search"
+            },
+            "es": {
+                "singular": "Buscar"
+            },
+            "fi": {
+                "singular": "Etsintä"
+            },
+            "fi-EE": {
+                "singular": "Etsintä"
+            },
+            "fi-FI": {
+                "singular": "Etsintä"
+            },
+            "fr": {
+                "singular": "Rechercher"
+            },
+            "fr-BE": {
+                "singular": "Rechercher"
+            },
+            "fr-CA": {
+                "singular": "Rechercher"
+            },
+            "fr-CH": {
+                "singular": "Rechercher"
+            },
+            "fr-FR": {
+                "singular": "Rechercher"
+            },
+            "hr": {
+                "singular": "Traži"
+            },
+            "it": {
+                "singular": "Cerca"
+            },
+            "it-CH": {
+                "singular": "Cerca"
+            },
+            "it-IT": {
+                "singular": "Cerca"
+            },
+            "nl": {
+                "singular": "Zoek"
+            },
+            "nl-BE": {
+                "singular": "Zoek"
+            },
+            "nl-NL": {
+                "singular": "Zoek"
+            },
+            "no": {
+                "singular": "Søk"
+            },
+            "pl": {
+                "singular": "Szukaj"
+            },
+            "pt": {
+                "singular": "Procurar"
+            },
+            "ru": {
+                "singular": "Искать"
+            },
+            "sv": {
+                "singular": "Sök"
+            }
+        }
+    }
+}

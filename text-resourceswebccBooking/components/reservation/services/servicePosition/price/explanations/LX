@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.services.servicePosition.price.explanations.LX",
+    "name": "LX",
+    "path": "text-resourceswebccBooking/components/reservation/services/servicePosition/price/explanations/LX",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/servicePosition/price/explanations/LX",
+    "slug": "LX",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "servicePosition",
+        "price",
+        "explanations",
+        "LX"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.servicePosition.price.explanations.LX",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena za litr"
+            },
+            "da": {
+                "singular": "Pris per liter"
+            },
+            "de": {
+                "singular": "Preis pro Liter"
+            },
+            "de-AT": {
+                "singular": "Preis pro Liter"
+            },
+            "de-CH": {
+                "singular": "Preis pro Liter"
+            },
+            "de-DE": {
+                "singular": "Preis pro Liter"
+            },
+            "en": {
+                "singular": "Price per litre"
+            },
+            "en-AU": {
+                "singular": "Price per litre"
+            },
+            "en-CA": {
+                "singular": "Price per litre"
+            },
+            "en-GB": {
+                "singular": "Price per litre"
+            },
+            "en-IE": {
+                "singular": "Price per litre"
+            },
+            "en-US": {
+                "singular": "Price per litre"
+            },
+            "es": {
+                "singular": "Precio por litro"
+            },
+            "fi": {
+                "singular": "Hinta per litra"
+            },
+            "fi-EE": {
+                "singular": "Hinta per litra"
+            },
+            "fi-FI": {
+                "singular": "Hinta per litra"
+            },
+            "fr": {
+                "singular": "Prix par litre"
+            },
+            "fr-BE": {
+                "singular": "Prix par litre"
+            },
+            "fr-CA": {
+                "singular": "Prix par litre"
+            },
+            "fr-CH": {
+                "singular": "Prix par litre"
+            },
+            "fr-FR": {
+                "singular": "Prix par litre"
+            },
+            "hr": {
+                "singular": "Cijena po litri"
+            },
+            "it": {
+                "singular": "Prezzo al litro"
+            },
+            "it-CH": {
+                "singular": "Prezzo al litro"
+            },
+            "it-IT": {
+                "singular": "Prezzo al litro"
+            },
+            "nl": {
+                "singular": "Prijs per liter"
+            },
+            "nl-BE": {
+                "singular": "Prijs per liter"
+            },
+            "nl-NL": {
+                "singular": "Prijs per liter"
+            },
+            "no": {
+                "singular": "pris per liter"
+            },
+            "pl": {
+                "singular": "Cena za litr"
+            },
+            "pt": {
+                "singular": "Preço por litro"
+            },
+            "ru": {
+                "singular": "Цена за литр"
+            },
+            "sv": {
+                "singular": "Pris per liter"
+            }
+        }
+    }
+}

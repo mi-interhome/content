@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.cancelConditions.from",
+    "name": "from",
+    "path": "text-resourceswebccBooking/components/reservation/cancellation/cancelConditions/from",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/cancelConditions/from",
+    "slug": "from",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "cancelConditions",
+        "from"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.cancelConditions.from",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Od {days}"
+            },
+            "da": {
+                "singular": "fra {dager}"
+            },
+            "de": {
+                "singular": "ab {days}"
+            },
+            "de-AT": {
+                "singular": "ab {days}"
+            },
+            "de-CH": {
+                "singular": "ab {days}"
+            },
+            "de-DE": {
+                "singular": "ab {days}"
+            },
+            "en": {
+                "singular": "from {days}"
+            },
+            "en-AU": {
+                "singular": "from {days}"
+            },
+            "en-CA": {
+                "singular": "from {days}"
+            },
+            "en-GB": {
+                "singular": "from {days}"
+            },
+            "en-IE": {
+                "singular": "from {days}"
+            },
+            "en-US": {
+                "singular": "from {days}"
+            },
+            "es": {
+                "singular": "desde {days}"
+            },
+            "fi": {
+                "singular": "saapuminen {days}"
+            },
+            "fi-EE": {
+                "singular": "saapuminen {days}"
+            },
+            "fi-FI": {
+                "singular": "saapuminen {days}"
+            },
+            "fr": {
+                "singular": "à partir de {days}"
+            },
+            "fr-BE": {
+                "singular": "à partir de {days}"
+            },
+            "fr-CA": {
+                "singular": "à partir de {days}"
+            },
+            "fr-CH": {
+                "singular": "à partir de {days}"
+            },
+            "fr-FR": {
+                "singular": "à partir de {days}"
+            },
+            "hr": {
+                "singular": "od {days}"
+            },
+            "it": {
+                "singular": "dal {days}"
+            },
+            "it-CH": {
+                "singular": "dal {days}"
+            },
+            "it-IT": {
+                "singular": "dal {days}"
+            },
+            "nl": {
+                "singular": "Vanaf {days}"
+            },
+            "nl-BE": {
+                "singular": "Vanaf {days}"
+            },
+            "nl-NL": {
+                "singular": "Vanaf {days}"
+            },
+            "no": {
+                "singular": "fra {days}"
+            },
+            "pl": {
+                "singular": "od {days}"
+            },
+            "pt": {
+                "singular": "de {days}"
+            },
+            "ru": {
+                "singular": "от  {days}"
+            },
+            "sv": {
+                "singular": "från {days}"
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.houseType.detached",
+    "name": "detached",
+    "path": "text-resourceswww/components/views/search/newFilter/filterSections/houseType/detached",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/houseType/detached",
+    "slug": "detached",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "houseType",
+        "detached"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.houseType.detached",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Samostatný dům"
+            },
+            "da": {
+                "singular": "Fritstående hus"
+            },
+            "de": {
+                "singular": "Alleinstehendes Haus"
+            },
+            "de-AT": {
+                "singular": "Alleinstehendes Haus"
+            },
+            "de-CH": {
+                "singular": "Alleinstehendes Haus"
+            },
+            "de-DE": {
+                "singular": "Alleinstehendes Haus"
+            },
+            "en": {
+                "singular": "Detached house"
+            },
+            "en-AU": {
+                "singular": "Detached house"
+            },
+            "en-CA": {
+                "singular": "Detached house"
+            },
+            "en-GB": {
+                "singular": "Detached house"
+            },
+            "en-IE": {
+                "singular": "Detached house"
+            },
+            "en-US": {
+                "singular": "Detached house"
+            },
+            "es": {
+                "singular": "Casa independiente"
+            },
+            "fi": {
+                "singular": "Erillistalo"
+            },
+            "fi-EE": {
+                "singular": "Erillistalo"
+            },
+            "fi-FI": {
+                "singular": "Erillistalo"
+            },
+            "fr": {
+                "singular": "Maison individuelle"
+            },
+            "fr-BE": {
+                "singular": "Maison individuelle"
+            },
+            "fr-CA": {
+                "singular": "Maison individuelle"
+            },
+            "fr-CH": {
+                "singular": "Maison individuelle"
+            },
+            "fr-FR": {
+                "singular": "Maison individuelle"
+            },
+            "hr": {
+                "singular": "Zasebna kuća"
+            },
+            "it": {
+                "singular": "Casa singola"
+            },
+            "it-CH": {
+                "singular": "Casa singola"
+            },
+            "it-IT": {
+                "singular": "Casa singola"
+            },
+            "nl": {
+                "singular": "Vrijstaand huis"
+            },
+            "nl-BE": {
+                "singular": "Vrijstaand huis"
+            },
+            "nl-NL": {
+                "singular": "Vrijstaand huis"
+            },
+            "no": {
+                "singular": "Frittstående hus"
+            },
+            "pl": {
+                "singular": "Dom wolnostojący"
+            },
+            "pt": {
+                "singular": "Casa independente"
+            },
+            "ru": {
+                "singular": "Виллы, шале, замки"
+            },
+            "sv": {
+                "singular": "Fristående hus"
+            }
+        }
+    }
+}

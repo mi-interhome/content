@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Map.activate",
+    "name": "activate",
+    "path": "text-resourceswww/components/views/details/Map/activate",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Map/activate",
+    "slug": "activate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Map",
+        "activate"
+    ],
+    "content": {
+        "key": "www.components.views.details.Map.activate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Aktivace zobrazení mapy"
+            },
+            "da": {
+                "singular": "Vis kortet"
+            },
+            "de": {
+                "singular": "Kartenansicht aktivieren"
+            },
+            "de-AT": {
+                "singular": "Kartenansicht aktivieren"
+            },
+            "de-CH": {
+                "singular": "Kartenansicht aktivieren"
+            },
+            "de-DE": {
+                "singular": "Kartenansicht aktivieren"
+            },
+            "en": {
+                "singular": "Activate map view"
+            },
+            "en-AU": {
+                "singular": "Activate map view"
+            },
+            "en-CA": {
+                "singular": "Activate map view"
+            },
+            "en-GB": {
+                "singular": "Activate map view"
+            },
+            "en-IE": {
+                "singular": "Activate map view"
+            },
+            "en-US": {
+                "singular": "Activate map view"
+            },
+            "es": {
+                "singular": "Active la visión del mapa"
+            },
+            "fi": {
+                "singular": "Näytä kartta"
+            },
+            "fi-EE": {
+                "singular": "Näytä kartta"
+            },
+            "fi-FI": {
+                "singular": "Näytä kartta"
+            },
+            "fr": {
+                "singular": "Activer l'affichage de la carte"
+            },
+            "fr-BE": {
+                "singular": "Activer l'affichage de la carte"
+            },
+            "fr-CA": {
+                "singular": "Activer l'affichage de la carte"
+            },
+            "fr-CH": {
+                "singular": "Activer l'affichage de la carte"
+            },
+            "fr-FR": {
+                "singular": "Activer l'affichage de la carte"
+            },
+            "hr": {
+                "singular": "Prikaz na karti"
+            },
+            "it": {
+                "singular": "Visualizza la mappa"
+            },
+            "it-CH": {
+                "singular": "Visualizza la mappa"
+            },
+            "it-IT": {
+                "singular": "Visualizza la mappa"
+            },
+            "nl": {
+                "singular": "Kaart weergeven"
+            },
+            "nl-BE": {
+                "singular": "Kaart weergeven"
+            },
+            "nl-NL": {
+                "singular": "Kaart weergeven"
+            },
+            "no": {
+                "singular": "Vis kartet"
+            },
+            "pl": {
+                "singular": "Pokaż na mapie"
+            },
+            "pt": {
+                "singular": "Ativar a vista de mapa"
+            },
+            "ru": {
+                "singular": "Открыть карту"
+            },
+            "sv": {
+                "singular": "Visa kartan"
+            }
+        }
+    }
+}

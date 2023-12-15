@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.Content.OfferRequest.address",
+    "name": "address",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/address",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/address",
+    "slug": "address",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "address"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.address",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Osobní detaily"
+            },
+            "da": {
+                "singular": "Kontakt detaljer"
+            },
+            "de": {
+                "singular": "Persönliche Angaben"
+            },
+            "de-AT": {
+                "singular": "Persönliche Angaben"
+            },
+            "de-CH": {
+                "singular": "Persönliche Angaben"
+            },
+            "de-DE": {
+                "singular": "Persönliche Angaben"
+            },
+            "en": {
+                "singular": "Personal Details"
+            },
+            "en-AU": {
+                "singular": "Personal Details"
+            },
+            "en-CA": {
+                "singular": "Personal Details"
+            },
+            "en-GB": {
+                "singular": "Personal Details"
+            },
+            "en-IE": {
+                "singular": "Personal Details"
+            },
+            "en-US": {
+                "singular": "Personal Details"
+            },
+            "es": {
+                "singular": "Datos personales"
+            },
+            "fi": {
+                "singular": "Henkilötiedot"
+            },
+            "fi-EE": {
+                "singular": "Henkilötiedot"
+            },
+            "fi-FI": {
+                "singular": "Henkilötiedot"
+            },
+            "fr": {
+                "singular": "Coordonnées personnelles"
+            },
+            "fr-BE": {
+                "singular": "Coordonnées personnelles"
+            },
+            "fr-CA": {
+                "singular": "Coordonnées personnelles"
+            },
+            "fr-CH": {
+                "singular": "Coordonnées personnelles"
+            },
+            "fr-FR": {
+                "singular": "Coordonnées personnelles"
+            },
+            "hr": {
+                "singular": "Osobni podaci"
+            },
+            "it": {
+                "singular": "Dati personali"
+            },
+            "it-CH": {
+                "singular": "Dati personali"
+            },
+            "it-IT": {
+                "singular": "Dati personali"
+            },
+            "nl": {
+                "singular": "Persoonlijke gegevens"
+            },
+            "nl-BE": {
+                "singular": "Persoonlijke gegevens"
+            },
+            "nl-NL": {
+                "singular": "Persoonlijke gegevens"
+            },
+            "no": {
+                "singular": "Personlige opplysninger"
+            },
+            "pl": {
+                "singular": "Dane osobowe"
+            },
+            "pt": {
+                "singular": "Detalhes pessoais"
+            },
+            "ru": {
+                "singular": "Персональные данные"
+            },
+            "sv": {
+                "singular": "Personuppgifter"
+            }
+        }
+    }
+}

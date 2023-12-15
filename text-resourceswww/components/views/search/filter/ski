@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.filter.ski",
+    "name": "ski",
+    "path": "text-resourceswww/components/views/search/filter/ski",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/filter/ski",
+    "slug": "ski",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "filter",
+        "ski"
+    ],
+    "content": {
+        "key": "www.components.views.search.filter.ski",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vzdálenost ke sjezdovkám / vlekům"
+            },
+            "da": {
+                "singular": "Afstand til skibakke/ bjerglift"
+            },
+            "de": {
+                "singular": "Nähe zu Skipiste / Bergbahn"
+            },
+            "de-AT": {
+                "singular": "Nähe zu Skipiste / Bergbahn"
+            },
+            "de-CH": {
+                "singular": "Nähe zu Skipiste / Bergbahn"
+            },
+            "de-DE": {
+                "singular": "Nähe zu Skipiste / Bergbahn"
+            },
+            "en": {
+                "singular": "Distance to ski slope / mountain lift"
+            },
+            "en-AU": {
+                "singular": "Distance to ski slope / mountain lift"
+            },
+            "en-CA": {
+                "singular": "Distance to ski slope / mountain lift"
+            },
+            "en-GB": {
+                "singular": "Distance to ski slope / mountain lift"
+            },
+            "en-IE": {
+                "singular": "Distance to ski slope / mountain lift"
+            },
+            "en-US": {
+                "singular": "Distance to ski slope / mountain lift"
+            },
+            "es": {
+                "singular": "Distancia a pistas / remontes"
+            },
+            "fi": {
+                "singular": "Etäisyys hiihto-/vuoristohissille"
+            },
+            "fi-EE": {
+                "singular": "Etäisyys vuoristo-/hiihtohissille"
+            },
+            "fi-FI": {
+                "singular": "Etäisyys hiihto-/vuoristohissille"
+            },
+            "fr": {
+                "singular": "Distance pistes ski / remontées mécaniques"
+            },
+            "fr-BE": {
+                "singular": "Distance pistes ski / remontées mécaniques"
+            },
+            "fr-CA": {
+                "singular": "Distance pistes ski / remontées mécaniques"
+            },
+            "fr-CH": {
+                "singular": "Distance pistes ski / remontées mécaniques"
+            },
+            "fr-FR": {
+                "singular": "Distance pistes ski / remontées mécaniques"
+            },
+            "hr": {
+                "singular": "Udaljenost do skijaške staze / žičare"
+            },
+            "it": {
+                "singular": "Distanza piste da Sci / impianti di risalita"
+            },
+            "it-CH": {
+                "singular": "Distanza piste da Sci / impianti di risalita"
+            },
+            "it-IT": {
+                "singular": "Distanza piste da Sci / impianti di risalita"
+            },
+            "nl": {
+                "singular": "Afstand tot skipiste / berglift"
+            },
+            "nl-BE": {
+                "singular": "Afstand tot skipiste / berglift"
+            },
+            "nl-NL": {
+                "singular": "Afstand tot skipiste / berglift"
+            },
+            "no": {
+                "singular": "Avstand til skibakke/fjellheis"
+            },
+            "pl": {
+                "singular": "Odległość od wyciągu/ aktywności zimowych"
+            },
+            "pt": {
+                "singular": "Distância à pista de ski / elevador de montanha"
+            },
+            "ru": {
+                "singular": "До подъёмника"
+            },
+            "sv": {
+                "singular": "Avstånd till skidbacke/bergslift"
+            }
+        }
+    }
+}

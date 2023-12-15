@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.pool.reviews.description",
+    "name": "description",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/pool/reviews/description",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/pool/reviews/description",
+    "slug": "description",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "pool",
+        "reviews",
+        "description"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.pool.reviews.description",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – objevte nejlépe hodnocené domy k pronájmu s bazénem – Vaše dokonalé útočiště pro nezapomenutelnou dovolenou plnou odpočinku!"
+            },
+            "da": {
+                "singular": "Oplev topbedømte feriehuse med pool i {destination} - dit perfekte tilflugtssted til uforglemmelige ferier med masser af fritid!"
+            },
+            "de": {
+                "singular": "Entdecken Sie die besten Ferienhäuser mit Pool in {destination} - Ihr perfekter Rückzugsort für einen unvergesslichen, erlebnisreichen Urlaub!"
+            },
+            "de-AT": {
+                "singular": "Entdecken Sie die besten Ferienhäuser mit Pool in {destination} - Ihr perfekter Rückzugsort für einen unvergesslichen, erlebnisreichen Urlaub!"
+            },
+            "de-CH": {
+                "singular": "Entdecken Sie die besten Ferienhäuser mit Pool in {destination} - Ihr perfekter Rückzugsort für unvergessliche, erlebnisreiche Ferien!"
+            },
+            "de-DE": {
+                "singular": "Entdecken Sie die besten Ferienhäuser mit Pool in {destination} - Ihr perfekter Rückzugsort für einen unvergesslichen, erlebnisreichen Urlaub!"
+            },
+            "en": {
+                "singular": "Discover top-rated holiday houses with pool in {destination} - your perfect retreat for unforgettable, leisure-filled vacations!"
+            },
+            "en-AU": {
+                "singular": "Discover top-rated holiday houses with pool in {destination} - your perfect retreat for unforgettable, leisure-filled vacations!"
+            },
+            "en-CA": {
+                "singular": "Discover top-rated holiday houses with pool in {destination} - your perfect retreat for unforgettable, leisure-filled vacations!"
+            },
+            "en-GB": {
+                "singular": "Discover top-rated holiday houses with pool in {destination} - your perfect retreat for unforgettable, leisure-filled vacations!"
+            },
+            "en-IE": {
+                "singular": "Discover top-rated holiday houses with pool in {destination} - your perfect retreat for unforgettable, leisure-filled vacations!"
+            },
+            "en-US": {
+                "singular": "Discover top-rated holiday houses with pool in {destination} - your perfect retreat for unforgettable, leisure-filled vacations!"
+            },
+            "es": {
+                "singular": "Descubra las casas de vacaciones con piscina mejor valoradas en {destino}: ¡Su refugio para unas vacaciones inolvidables y llenas de ocio!"
+            },
+            "fi": {
+                "singular": "Tutustu parhaiten arvioituihin lomataloihin uima-altaalla paikassa {destination} - täydellinen irtiotto unohtumattomaan, rentouttavaan lomaan!"
+            },
+            "fi-EE": {
+                "singular": "Tutustu parhaiten arvioituihin lomataloihin uima-altaalla paikassa {destination} - täydellinen irtiotto unohtumattomaan, rentouttavaan lomaan!"
+            },
+            "fi-FI": {
+                "singular": "Tutustu parhaiten arvioituihin lomataloihin uima-altaalla paikassa {destination} - täydellinen irtiotto unohtumattomaan, rentouttavaan lomaan!"
+            },
+            "fr": {
+                "singular": "Découvrez les maisons de vacances avec piscine {destination} les mieux notées - votre refuge idéal pour des vacances inoubliables et pleines de loisirs !"
+            },
+            "fr-BE": {
+                "singular": "Découvrez les maisons de vacances avec piscine {destination} les mieux notées - votre refuge idéal pour des vacances inoubliables et pleines de loisirs !"
+            },
+            "fr-CA": {
+                "singular": "Découvrez les maisons de vacances avec piscine {destination} les mieux notées - votre refuge idéal pour des vacances inoubliables et pleines de loisirs !"
+            },
+            "fr-CH": {
+                "singular": "Découvrez les maisons de vacances avec piscine {destination} les mieux notées - votre refuge idéal pour des vacances inoubliables et pleines de loisirs !"
+            },
+            "fr-FR": {
+                "singular": "Découvrez les maisons de vacances avec piscine {destination} les mieux notées - votre refuge idéal pour des vacances inoubliables et pleines de loisirs !"
+            },
+            "hr": {
+                "singular": "Otkrijte najbolje ocijenjene kuće za odmor s bazenom u {destination} - Vaše savršeno utočište za nezaboravne odmore ispunjene ležernošću!"
+            },
+            "it": {
+                "singular": "Scopri le migliori case vacanze con piscina a {destination}: il tuo rifugio perfetto per vacanze indimenticabili e piene di svago!"
+            },
+            "it-CH": {
+                "singular": "Scopri le migliori case vacanze con piscina a {destination}: il tuo rifugio perfetto per vacanze indimenticabili e piene di svago!"
+            },
+            "it-IT": {
+                "singular": "Scopri le migliori case vacanze con piscina a {destination}: il tuo rifugio perfetto per vacanze indimenticabili e piene di svago!"
+            },
+            "nl": {
+                "singular": "Ontdek best beoordeelde vakantiehuizen met zwembad in {bestemming} - de perfecte plek voor een onvergetelijke vakantie vol ontspanning!"
+            },
+            "nl-BE": {
+                "singular": "Ontdek best beoordeelde vakantiehuizen met zwembad in {bestemming} - de perfecte plek voor een onvergetelijke vakantie vol ontspanning!"
+            },
+            "nl-NL": {
+                "singular": "Ontdek best beoordeelde vakantiehuizen met zwembad in {bestemming} - de perfecte plek voor een onvergetelijke vakantie vol ontspanning!"
+            },
+            "no": {
+                "singular": "Finn topprangerte feriehus med basseng i {destination} - det perfekte stedet for uforglemmelige ferier fylt med rekreasjon!"
+            },
+            "pl": {
+                "singular": "Odkryj najlepiej oceniane domy z basenem {destination} - idealne miejsca na beztroskie wakacje z najbliższymi!"
+            },
+            "pt": {
+                "singular": "Encontre as melhores casas de férias com piscina em {destination} - o seu refúgio perfeito para umas férias inesquecíveis repletas de lazer!"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Topprankade semesterhus med pool i {destination} - perfekta platser för en oförglömlig och avkopplande semester!"
+            }
+        }
+    }
+}

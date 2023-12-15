@@ -1,0 +1,192 @@
+{
+    "id": "www.components.views.search.content.WeatherInfo.hr_s",
+    "name": "hr_s",
+    "path": "text-resourceswww/components/views/search/content/WeatherInfo/hr_s",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/content/WeatherInfo/hr_s",
+    "slug": "hr_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "content",
+        "WeatherInfo",
+        "hr_s"
+    ],
+    "content": {
+        "key": "www.components.views.search.content.WeatherInfo.hr_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "{count} hod.",
+                "singular": "{count} hod.",
+                "plural": "{count} hod."
+            },
+            "da": {
+                "zero": "{count} timer",
+                "singular": "{count} time",
+                "plural": "{count} timer"
+            },
+            "de": {
+                "zero": "{count} Std.",
+                "singular": "{count} Std.",
+                "plural": "{count} Std."
+            },
+            "de-AT": {
+                "zero": "{count} Std.",
+                "singular": "{count} Std.",
+                "plural": "{count} Std."
+            },
+            "de-CH": {
+                "zero": "{count} Std.",
+                "singular": "{count} Std.",
+                "plural": "{count} Std."
+            },
+            "de-DE": {
+                "zero": "{count} Std.",
+                "singular": "{count} Std.",
+                "plural": "{count} Std."
+            },
+            "en": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "en-AU": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "en-CA": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "en-GB": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "en-IE": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "en-US": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "es": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "fi": {
+                "zero": "{count} tuntia",
+                "singular": "{count} tunti",
+                "plural": "{count} tuntia"
+            },
+            "fi-EE": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "fi-FI": {
+                "zero": "{count} tuntia",
+                "singular": "{count} tunti",
+                "plural": "{count} tuntia"
+            },
+            "fr": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "fr-BE": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "fr-CA": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "fr-CH": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "fr-FR": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "hr": {
+                "zero": "{count} h ",
+                "singular": "{count} h ",
+                "plural": "{count} h"
+            },
+            "it": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "it-CH": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "it-IT": {
+                "zero": "{count} h",
+                "singular": "{count} h",
+                "plural": "{count} h"
+            },
+            "nl": {
+                "zero": "{count} uur",
+                "singular": "{count} uur",
+                "plural": "{count} uur"
+            },
+            "nl-BE": {
+                "zero": "{count} uur",
+                "singular": "{count} uur",
+                "plural": "{count} uur"
+            },
+            "nl-NL": {
+                "zero": "{count} uur",
+                "singular": "{count} uur",
+                "plural": "{count} uur"
+            },
+            "no": {
+                "zero": "{count} timer",
+                "singular": "{count} time",
+                "plural": "{count} timer"
+            },
+            "pl": {
+                "zero": "{count} godz.",
+                "singular": "{count} godz.",
+                "plural": "{count} godz."
+            },
+            "pt": {
+                "zero": "{count} hrs",
+                "singular": "{count} hr",
+                "plural": "{count} hrs"
+            },
+            "ru": {
+                "singular": "currently no Russian translations"
+            },
+            "sv": {
+                "zero": "{count} timmar",
+                "singular": "{count} timme",
+                "plural": "{count} timmar"
+            }
+        }
+    }
+}

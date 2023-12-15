@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.passportIssueDate",
+    "name": "passportIssueDate",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/labels/passportIssueDate",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/passportIssueDate",
+    "slug": "passportIssueDate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "passportIssueDate"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.passportIssueDate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Datum vydání pasu"
+            },
+            "da": {
+                "singular": "Udstedelsesdato"
+            },
+            "de": {
+                "singular": "Ausstellungsdatum"
+            },
+            "de-AT": {
+                "singular": "Ausstellungsdatum"
+            },
+            "de-CH": {
+                "singular": "Ausstellungsdatum"
+            },
+            "de-DE": {
+                "singular": "Ausstellungsdatum"
+            },
+            "en": {
+                "singular": "Passport issue date"
+            },
+            "en-AU": {
+                "singular": "Passport issue date"
+            },
+            "en-CA": {
+                "singular": "Passport issue date"
+            },
+            "en-GB": {
+                "singular": "Passport issue date"
+            },
+            "en-IE": {
+                "singular": "Passport issue date"
+            },
+            "en-US": {
+                "singular": "Passport issue date"
+            },
+            "es": {
+                "singular": "Fecha de expedición"
+            },
+            "fi": {
+                "singular": "Passin myöntämipäivä"
+            },
+            "fi-EE": {
+                "singular": "Passin myöntämipäivä"
+            },
+            "fi-FI": {
+                "singular": "Passin myöntämipäivä"
+            },
+            "fr": {
+                "singular": "Date d'émission"
+            },
+            "fr-BE": {
+                "singular": "Date d'émission"
+            },
+            "fr-CA": {
+                "singular": "Date d'émission"
+            },
+            "fr-CH": {
+                "singular": "Date d'émission"
+            },
+            "fr-FR": {
+                "singular": "Date d'émission"
+            },
+            "hr": {
+                "singular": "Datum izdavanja"
+            },
+            "it": {
+                "singular": "Data emissione passaporto"
+            },
+            "it-CH": {
+                "singular": "Data emissione passaporto"
+            },
+            "it-IT": {
+                "singular": "Data emissione passaporto"
+            },
+            "nl": {
+                "singular": "Uitgiftedatum paspoort"
+            },
+            "nl-BE": {
+                "singular": "Uitgiftedatum paspoort"
+            },
+            "nl-NL": {
+                "singular": "Uitgiftedatum paspoort"
+            },
+            "no": {
+                "singular": "Utstedt den"
+            },
+            "pl": {
+                "singular": "Data wydania"
+            },
+            "pt": {
+                "singular": "Data de emissão"
+            },
+            "ru": {
+                "singular": "дата выдачи паспорта"
+            },
+            "sv": {
+                "singular": "Utfärdat"
+            }
+        }
+    }
+}

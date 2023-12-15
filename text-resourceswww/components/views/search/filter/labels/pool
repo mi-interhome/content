@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.filter.labels.pool",
+    "name": "pool",
+    "path": "text-resourceswww/components/views/search/filter/labels/pool",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/filter/labels/pool",
+    "slug": "pool",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "filter",
+        "labels",
+        "pool"
+    ],
+    "content": {
+        "key": "www.components.views.search.filter.labels.pool",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Bazén"
+            },
+            "da": {
+                "singular": "Swimmingpool"
+            },
+            "de": {
+                "singular": "Swimming Pool"
+            },
+            "de-AT": {
+                "singular": "Swimming Pool"
+            },
+            "de-CH": {
+                "singular": "Swimming Pool"
+            },
+            "de-DE": {
+                "singular": "Swimming Pool"
+            },
+            "en": {
+                "singular": "Swimming Pool"
+            },
+            "en-AU": {
+                "singular": "Swimming Pool"
+            },
+            "en-CA": {
+                "singular": "Swimming Pool"
+            },
+            "en-GB": {
+                "singular": "Swimming Pool"
+            },
+            "en-IE": {
+                "singular": "Swimming Pool"
+            },
+            "en-US": {
+                "singular": "Swimming Pool"
+            },
+            "es": {
+                "singular": "Piscina"
+            },
+            "fi": {
+                "singular": "Uima-allas"
+            },
+            "fi-EE": {
+                "singular": "Uima-allas"
+            },
+            "fi-FI": {
+                "singular": "Uima-allas"
+            },
+            "fr": {
+                "singular": "Piscine"
+            },
+            "fr-BE": {
+                "singular": "Piscine"
+            },
+            "fr-CA": {
+                "singular": "Piscine"
+            },
+            "fr-CH": {
+                "singular": "Piscine"
+            },
+            "fr-FR": {
+                "singular": "Piscine"
+            },
+            "hr": {
+                "singular": "Bazen"
+            },
+            "it": {
+                "singular": "Piscina"
+            },
+            "it-CH": {
+                "singular": "Piscina"
+            },
+            "it-IT": {
+                "singular": "Piscina"
+            },
+            "nl": {
+                "singular": "Zwembad"
+            },
+            "nl-BE": {
+                "singular": "Zwembad"
+            },
+            "nl-NL": {
+                "singular": "Zwembad"
+            },
+            "no": {
+                "singular": "Svømmebasseng"
+            },
+            "pl": {
+                "singular": "Basen"
+            },
+            "pt": {
+                "singular": "Piscina"
+            },
+            "ru": {
+                "singular": "Бассейн"
+            },
+            "sv": {
+                "singular": "Pool"
+            }
+        }
+    }
+}

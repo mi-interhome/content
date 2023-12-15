@@ -1,0 +1,126 @@
+{
+    "id": "www.components.elements.Search.placeholder",
+    "name": "placeholder",
+    "path": "text-resourceswww/components/elements/Search/placeholder",
+    "folder": "text-resources",
+    "full_slug": "www/components/elements/Search/placeholder",
+    "slug": "placeholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "elements",
+        "Search",
+        "placeholder"
+    ],
+    "content": {
+        "key": "www.components.elements.Search.placeholder",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Země, region, město, kód objektu"
+            },
+            "da": {
+                "singular": "Land, region, sted, objektnummer"
+            },
+            "de": {
+                "singular": "Land, Region, Ort, Objektnummer"
+            },
+            "de-AT": {
+                "singular": "Land, Region, Ort, Objektnummer"
+            },
+            "de-CH": {
+                "singular": "Land, Region, Ort, Objektnummer"
+            },
+            "de-DE": {
+                "singular": "Land, Region, Ort, Objektnummer"
+            },
+            "en": {
+                "singular": "Country, region, city, property reference"
+            },
+            "en-AU": {
+                "singular": "Country, region, city, property reference"
+            },
+            "en-CA": {
+                "singular": "Country, region, city, property reference"
+            },
+            "en-GB": {
+                "singular": "Country, region, city, property reference"
+            },
+            "en-IE": {
+                "singular": "Country, region, city, property reference"
+            },
+            "en-US": {
+                "singular": "Country, region, city, property reference"
+            },
+            "es": {
+                "singular": "País, región, ciudad, número de referencia"
+            },
+            "fi": {
+                "singular": "Maa, alue, kaupunki, kohdenumero"
+            },
+            "fi-EE": {
+                "singular": "Maa, alue, kaupunki, kohdenumero"
+            },
+            "fi-FI": {
+                "singular": "Maa, alue, kaupunki, kohdenumero"
+            },
+            "fr": {
+                "singular": "Pays, région, ville, référence location"
+            },
+            "fr-BE": {
+                "singular": "Pays, région, ville, référence location"
+            },
+            "fr-CA": {
+                "singular": "Pays, région, ville, référence location"
+            },
+            "fr-CH": {
+                "singular": "Pays, région, ville, référence location"
+            },
+            "fr-FR": {
+                "singular": "Pays, région, ville, référence location"
+            },
+            "hr": {
+                "singular": "Država, regija, grad, ref. broj objekta"
+            },
+            "it": {
+                "singular": "Paese, regione, località, codice casa"
+            },
+            "it-CH": {
+                "singular": "Paese, regione, località, codice casa"
+            },
+            "it-IT": {
+                "singular": "Paese, regione, località, codice casa"
+            },
+            "nl": {
+                "singular": "Land, regio, stad, huiscode"
+            },
+            "nl-BE": {
+                "singular": "Land, regio, stad, huiscode"
+            },
+            "nl-NL": {
+                "singular": "Land, regio, stad, huiscode"
+            },
+            "no": {
+                "singular": "Land, region, sted, objektnummer"
+            },
+            "pl": {
+                "singular": "Kraj, region, miasto, numer obiektu"
+            },
+            "pt": {
+                "singular": "País, região, cidade, referência de propriedade"
+            },
+            "ru": {
+                "singular": "Страна, регион, место, номер объекта"
+            },
+            "sv": {
+                "singular": "Land, region, stad, objektnummer"
+            }
+        }
+    }
+}

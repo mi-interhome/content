@@ -1,0 +1,127 @@
+{
+    "id": "www.components.elements.SearchBox.placeholders.dates",
+    "name": "dates",
+    "path": "text-resourceswww/components/elements/SearchBox/placeholders/dates",
+    "folder": "text-resources",
+    "full_slug": "www/components/elements/SearchBox/placeholders/dates",
+    "slug": "dates",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "elements",
+        "SearchBox",
+        "placeholders",
+        "dates"
+    ],
+    "content": {
+        "key": "www.components.elements.SearchBox.placeholders.dates",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pobyt"
+            },
+            "da": {
+                "singular": "Ophold"
+            },
+            "de": {
+                "singular": "Reisezeitraum"
+            },
+            "de-AT": {
+                "singular": "Reisezeitraum"
+            },
+            "de-CH": {
+                "singular": "Reisezeitraum"
+            },
+            "de-DE": {
+                "singular": "Reisezeitraum"
+            },
+            "en": {
+                "singular": "Stay"
+            },
+            "en-AU": {
+                "singular": "Stay"
+            },
+            "en-CA": {
+                "singular": "Stay"
+            },
+            "en-GB": {
+                "singular": "Stay"
+            },
+            "en-IE": {
+                "singular": "Stay"
+            },
+            "en-US": {
+                "singular": "Stay"
+            },
+            "es": {
+                "singular": "Duración"
+            },
+            "fi": {
+                "singular": "Loman kesto"
+            },
+            "fi-EE": {
+                "singular": "Loman kesto"
+            },
+            "fi-FI": {
+                "singular": "Loman kesto"
+            },
+            "fr": {
+                "singular": "Séjour"
+            },
+            "fr-BE": {
+                "singular": "Séjour"
+            },
+            "fr-CA": {
+                "singular": "Séjour"
+            },
+            "fr-CH": {
+                "singular": "Séjour"
+            },
+            "fr-FR": {
+                "singular": "Séjour"
+            },
+            "hr": {
+                "singular": "Boravak"
+            },
+            "it": {
+                "singular": "Soggiorno"
+            },
+            "it-CH": {
+                "singular": "Soggiorno"
+            },
+            "it-IT": {
+                "singular": "Soggiorno"
+            },
+            "nl": {
+                "singular": "Verblijf"
+            },
+            "nl-BE": {
+                "singular": "Verblijf"
+            },
+            "nl-NL": {
+                "singular": "Verblijf"
+            },
+            "no": {
+                "singular": "Opphold"
+            },
+            "pl": {
+                "singular": "Pobyt"
+            },
+            "pt": {
+                "singular": "Estadia"
+            },
+            "ru": {
+                "singular": "Пребывание"
+            },
+            "sv": {
+                "singular": "Vistelse"
+            }
+        }
+    }
+}

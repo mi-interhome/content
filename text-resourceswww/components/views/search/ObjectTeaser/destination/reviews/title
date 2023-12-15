@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.destination.reviews.title",
+    "name": "title",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/destination/reviews/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/destination/reviews/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "destination",
+        "reviews",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.destination.reviews.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destination} – nejlépe hodnocené domy k pronájmu pro nezapomenutelné pobyty"
+            },
+            "da": {
+                "singular": "Topbedømte ferieboliger i {destination} til uforglemmelige ferier"
+            },
+            "de": {
+                "singular": "Top-bewertete Ferienhäuser in {destination} für einen unvergesslichen Urlaub"
+            },
+            "de-AT": {
+                "singular": "Top-bewertete Ferienhäuser in {destination} für einen unvergesslichen Urlaub"
+            },
+            "de-CH": {
+                "singular": "Top-bewertete Ferienhäuser in {destination} für unvergessliche Ferien"
+            },
+            "de-DE": {
+                "singular": "Top-bewertete Ferienhäuser in {destination} für einen unvergesslichen Urlaub"
+            },
+            "en": {
+                "singular": "Top-rated holiday houses in {destination} for unforgettable getaways"
+            },
+            "en-AU": {
+                "singular": "Top-rated holiday houses in {destination} for unforgettable getaways"
+            },
+            "en-CA": {
+                "singular": "Top-rated holiday houses in {destination} for unforgettable getaways"
+            },
+            "en-GB": {
+                "singular": "Top-rated holiday houses in {destination} for unforgettable getaways"
+            },
+            "en-IE": {
+                "singular": "Top-rated holiday houses in {destination} for unforgettable getaways"
+            },
+            "en-US": {
+                "singular": "Top-rated holiday houses in {destination} for unforgettable getaways"
+            },
+            "es": {
+                "singular": "Las casas de vacaciones mejor valoradas en {destination} para una escapada inolvidable"
+            },
+            "fi": {
+                "singular": "Parhaiksi arvioituja lomataloja paikassa {destination} unohtumattomaan lomaan"
+            },
+            "fi-EE": {
+                "singular": "Parhaiksi arvioituja lomataloja paikassa {destination} unohtumattomaan lomaan"
+            },
+            "fi-FI": {
+                "singular": "Parhaiksi arvioituja lomataloja paikassa {destination} unohtumattomaan lomaan"
+            },
+            "fr": {
+                "singular": "Maisons de vacances {destination} les mieux notées pour des escapades inoubliables"
+            },
+            "fr-BE": {
+                "singular": "Maisons de vacances {destination} les mieux notées pour des escapades inoubliables"
+            },
+            "fr-CA": {
+                "singular": "Maisons de vacances {destination} les mieux notées pour des escapades inoubliables"
+            },
+            "fr-CH": {
+                "singular": "Maisons de vacances {destination} les mieux notées pour des escapades inoubliables"
+            },
+            "fr-FR": {
+                "singular": "Maisons de vacances {destination} les mieux notées pour des escapades inoubliables"
+            },
+            "hr": {
+                "singular": "Najbolje ocijenjene kuće za odmor u {destination} za nezaboravna iskustva"
+            },
+            "it": {
+                "singular": "Le case vacanza in {destination} con le migliori recensioni"
+            },
+            "it-CH": {
+                "singular": "Le case vacanza in {destination} con le migliori recensioni"
+            },
+            "it-IT": {
+                "singular": "Le case vacanza in {destination} con le migliori recensioni"
+            },
+            "nl": {
+                "singular": "Best beoordeelde vakantiehuizen in {destination} voor een onvergetelijke vakantie"
+            },
+            "nl-BE": {
+                "singular": "Best beoordeelde vakantiehuizen in {destination} voor een onvergetelijke vakantie"
+            },
+            "nl-NL": {
+                "singular": "Best beoordeelde vakantiehuizen in {destination} voor een onvergetelijke vakantie"
+            },
+            "no": {
+                "singular": "Topprangerte feriehus i {destination} for uforglemmelige opplevelser"
+            },
+            "pl": {
+                "singular": "{destination} - najlepiej oceniane domy wakacyjne na niezapomniany wypoczynek"
+            },
+            "pt": {
+                "singular": "Casas de férias com as melhores avaliações em {destination} para viagens inesquecíveis"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Topprankade semesterhus i {destination} för en oförglömlig semester."
+            }
+        }
+    }
+}

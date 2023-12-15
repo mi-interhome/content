@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.refund.message",
+    "name": "message",
+    "path": "text-resourceswebccBooking/pages/reservations/overview/refund/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/refund/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "refund",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.refund.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nepodařilo se nám Vám automaticky vrátit uhrazenou zálohu."
+            },
+            "da": {
+                "singular": "Vi kan ikke refundere depositum automatisk."
+            },
+            "de": {
+                "singular": "Wir konnten Ihre Anzahlung nicht automatisch rückerstatten."
+            },
+            "de-AT": {
+                "singular": "Wir konnten Ihre Anzahlung nicht automatisch rückerstatten."
+            },
+            "de-CH": {
+                "singular": "Wir konnten Ihre Anzahlung nicht automatisch rückerstatten."
+            },
+            "de-DE": {
+                "singular": "Wir konnten Ihre Anzahlung nicht automatisch rückerstatten."
+            },
+            "en": {
+                "singular": "We could not automatically refund your deposit."
+            },
+            "en-AU": {
+                "singular": "We could not automatically refund your deposit."
+            },
+            "en-CA": {
+                "singular": "We could not automatically refund your deposit."
+            },
+            "en-GB": {
+                "singular": "We could not automatically refund your deposit."
+            },
+            "en-IE": {
+                "singular": "We could not automatically refund your deposit."
+            },
+            "en-US": {
+                "singular": "We could not automatically refund your deposit."
+            },
+            "es": {
+                "singular": "No podemos reembolsar automáticamente su depósito."
+            },
+            "fi": {
+                "singular": "Emme voineet automaattisesti hyvittää takuumaksuasi."
+            },
+            "fi-EE": {
+                "singular": "Emme voineet automaattisesti hyvittää takuumaksuasi."
+            },
+            "fi-FI": {
+                "singular": "Emme voineet automaattisesti hyvittää takuumaksuasi."
+            },
+            "fr": {
+                "singular": "Votre acompte n'a pas pu être remboursé automatiquement"
+            },
+            "fr-BE": {
+                "singular": "Votre acompte n'a pas pu être remboursé automatiquement"
+            },
+            "fr-CA": {
+                "singular": "Votre acompte n'a pas pu être remboursé automatiquement"
+            },
+            "fr-CH": {
+                "singular": "Votre acompte n'a pas pu être remboursé automatiquement"
+            },
+            "fr-FR": {
+                "singular": "Votre acompte n'a pas pu être remboursé automatiquement"
+            },
+            "hr": {
+                "singular": "Nismo mogli automatski vratiti Vaš depozit."
+            },
+            "it": {
+                "singular": "Non è stato possibile rimborsare automaticamente l'acconto. "
+            },
+            "it-CH": {
+                "singular": "Non è stato possibile rimborsare automaticamente l'acconto. "
+            },
+            "it-IT": {
+                "singular": "Non è stato possibile rimborsare automaticamente l'acconto. "
+            },
+            "nl": {
+                "singular": "Wij kunnen uw borg niet automatisch terugbetalen. "
+            },
+            "nl-BE": {
+                "singular": "Wij kunnen uw borg niet automatisch terugbetalen. "
+            },
+            "nl-NL": {
+                "singular": "Wij kunnen uw borg niet automatisch terugbetalen. "
+            },
+            "no": {
+                "singular": "Vi kan ikke refundere depositumet automatisk."
+            },
+            "pl": {
+                "singular": "Zwrot środków nie mógł być automatycznie zrealizowany."
+            },
+            "pt": {
+                "singular": "Não foi possível reembolsar automaticamente o seu depósito."
+            },
+            "ru": {
+                "singular": "Мы не можем автоматически вернуть предоплату."
+            },
+            "sv": {
+                "singular": "Vi kunde inte återbetala depositionen automatiskt"
+            }
+        }
+    }
+}

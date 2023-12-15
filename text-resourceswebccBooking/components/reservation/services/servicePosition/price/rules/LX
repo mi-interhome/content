@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.services.servicePosition.price.rules.LX",
+    "name": "LX",
+    "path": "text-resourceswebccBooking/components/reservation/services/servicePosition/price/rules/LX",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/servicePosition/price/rules/LX",
+    "slug": "LX",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "servicePosition",
+        "price",
+        "rules",
+        "LX"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.servicePosition.price.rules.LX",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "za litr"
+            },
+            "da": {
+                "singular": "pr. liter"
+            },
+            "de": {
+                "singular": "pro Liter"
+            },
+            "de-AT": {
+                "singular": "pro Liter"
+            },
+            "de-CH": {
+                "singular": "pro Liter"
+            },
+            "de-DE": {
+                "singular": "pro Liter"
+            },
+            "en": {
+                "singular": "per litre"
+            },
+            "en-AU": {
+                "singular": "per litre"
+            },
+            "en-CA": {
+                "singular": "per litre"
+            },
+            "en-GB": {
+                "singular": "per litre"
+            },
+            "en-IE": {
+                "singular": "per litre"
+            },
+            "en-US": {
+                "singular": "per litre"
+            },
+            "es": {
+                "singular": "por litro"
+            },
+            "fi": {
+                "singular": "per litra"
+            },
+            "fi-EE": {
+                "singular": "per litra"
+            },
+            "fi-FI": {
+                "singular": "per litra"
+            },
+            "fr": {
+                "singular": "par litre"
+            },
+            "fr-BE": {
+                "singular": "par litre"
+            },
+            "fr-CA": {
+                "singular": "par litre"
+            },
+            "fr-CH": {
+                "singular": "par litre"
+            },
+            "fr-FR": {
+                "singular": "par litre"
+            },
+            "hr": {
+                "singular": "po litri"
+            },
+            "it": {
+                "singular": "per litro"
+            },
+            "it-CH": {
+                "singular": "per litro"
+            },
+            "it-IT": {
+                "singular": "per litro"
+            },
+            "nl": {
+                "singular": "per liter"
+            },
+            "nl-BE": {
+                "singular": "per liter"
+            },
+            "nl-NL": {
+                "singular": "per liter"
+            },
+            "no": {
+                "singular": "per liter"
+            },
+            "pl": {
+                "singular": "za litr"
+            },
+            "pt": {
+                "singular": "por litro"
+            },
+            "ru": {
+                "singular": "за литр"
+            },
+            "sv": {
+                "singular": "per liter"
+            }
+        }
+    }
+}

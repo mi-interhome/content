@@ -1,0 +1,124 @@
+{
+    "id": "snippets.newsletter.perNights",
+    "name": "perNights",
+    "path": "text-resourcessnippets/newsletter/perNights",
+    "folder": "text-resources",
+    "full_slug": "snippets/newsletter/perNights",
+    "slug": "perNights",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "snippets",
+        "newsletter",
+        "perNights"
+    ],
+    "content": {
+        "key": "snippets.newsletter.perNights",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "za rekreační objekt za {number} nocí"
+            },
+            "da": {
+                "singular": "Per feriebolig for {number} nætter"
+            },
+            "de": {
+                "singular": "pro Objekt für {number} Nächte"
+            },
+            "de-AT": {
+                "singular": "pro Objekt für {number} Nächte"
+            },
+            "de-CH": {
+                "singular": "pro Objekt für {number} Nächte"
+            },
+            "de-DE": {
+                "singular": "pro Objekt für {number} Nächte"
+            },
+            "en": {
+                "singular": "per holiday home for {number} nights"
+            },
+            "en-AU": {
+                "singular": "per holiday home for {number} nights"
+            },
+            "en-CA": {
+                "singular": "per holiday home for {number} nights"
+            },
+            "en-GB": {
+                "singular": "per holiday home for {number} nights"
+            },
+            "en-IE": {
+                "singular": "per holiday home for {number} nights"
+            },
+            "en-US": {
+                "singular": "per vacation home for {number} nights"
+            },
+            "es": {
+                "singular": "por inmueble para {number} noches"
+            },
+            "fi": {
+                "singular": "per loma-asunto {number} yölle"
+            },
+            "fi-EE": {
+                "singular": "per loma-asunto {number} yölle"
+            },
+            "fi-FI": {
+                "singular": "per loma-asunto {number} yölle"
+            },
+            "fr": {
+                "singular": "par location pour {number} nuits"
+            },
+            "fr-BE": {
+                "singular": "par location pour {number} nuits"
+            },
+            "fr-CA": {
+                "singular": "par location pour {number} nuits"
+            },
+            "fr-CH": {
+                "singular": "par location pour {number} nuits"
+            },
+            "fr-FR": {
+                "singular": "par location pour {number} nuits"
+            },
+            "hr": {
+                "singular": "po objektu za {number} noći"
+            },
+            "it": {
+                "singular": "per proprietà per {number} notti"
+            },
+            "it-CH": {
+                "singular": "per proprietà per {number} notti"
+            },
+            "it-IT": {
+                "singular": "per proprietà per {number} notti"
+            },
+            "nl": {
+                "singular": "per vakantiewoning voor {number} nachten"
+            },
+            "nl-BE": {
+                "singular": "per vakantiewoning voor {number} nachten"
+            },
+            "nl-NL": {
+                "singular": "per vakantiewoning voor {number} nachten"
+            },
+            "no": {
+                "singular": "Per feriebolig for {number} netter"
+            },
+            "pl": {
+                "singular": "za obiekt za {number} nocy"
+            },
+            "pt": {
+                "singular": "por casa de férias por {number} noites"
+            },
+            "ru": {
+                "singular": "за объект за {number} ночей "
+            },
+            "sv": {
+                "singular": "per semesterbostad för {number} nätter"
+            }
+        }
+    }
+}

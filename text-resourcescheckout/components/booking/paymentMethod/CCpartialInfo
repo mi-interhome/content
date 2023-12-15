@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.paymentMethod.CCpartialInfo",
+    "name": "CCpartialInfo",
+    "path": "text-resourcescheckout/components/booking/paymentMethod/CCpartialInfo",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/paymentMethod/CCpartialInfo",
+    "slug": "CCpartialInfo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "paymentMethod",
+        "CCpartialInfo"
+    ],
+    "content": {
+        "key": "checkout.components.booking.paymentMethod.CCpartialInfo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokud se nyní rozhodnete zaplatit jen zálohu, doplatek bude v den splatnosti automaticky stržen z Vaší kreditní / platební karty."
+            },
+            "da": {
+                "singular": "Hvis du vælger at betale depositum nu, vil resten af ​​beløbet blive fratrukket fra dit kredit-/betalingskort på forfaldsdagen."
+            },
+            "de": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, wird der Restbetrag zum Fälligkeitsdatum automatisch von Ihrer Kreditkarte abgebucht."
+            },
+            "de-AT": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, wird der Restbetrag zum Fälligkeitsdatum automatisch von Ihrer Kreditkarte abgebucht."
+            },
+            "de-CH": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, wird der Restbetrag zum Fälligkeitsdatum automatisch von Ihrer Kreditkarte abgebucht."
+            },
+            "de-DE": {
+                "singular": "Wenn Sie heute nur den Anzahlungsbetrag bezahlen möchten, wird der Restbetrag zum Fälligkeitsdatum automatisch von Ihrer Kreditkarte abgebucht."
+            },
+            "en": {
+                "singular": "If you choose to just pay the deposit now, the remaining balance will be charged to your credit/debit card automatically by the due date."
+            },
+            "en-AU": {
+                "singular": "If you choose to just pay the deposit now, the remaining balance will be charged to your credit/debit card automatically by the due date. Please note that your credit card provider may charge an overseas transaction fee  when the institution accepting the card is located outside of Australia."
+            },
+            "en-CA": {
+                "singular": "If you choose to just pay the deposit now, the remaining balance will be charged to your credit/debit card automatically by the due date."
+            },
+            "en-GB": {
+                "singular": "If you choose to just pay the deposit now, the remaining balance will be charged to your credit/debit card automatically by the due date."
+            },
+            "en-IE": {
+                "singular": "If you choose to just pay the deposit now, the remaining balance will be charged to your credit/debit card automatically by the due date."
+            },
+            "en-US": {
+                "singular": "If you choose to just pay the deposit now, the remaining balance will be charged to your credit/debit card automatically by the due date."
+            },
+            "es": {
+                "singular": "Si elige pagar ahora la primera parte, el resto será cargado automáticamente en su tarjeta 28 días antes de la llegada."
+            },
+            "fi": {
+                "singular": "Mikäli maksat vain varausmaksun tässä vaiheessa, loppumaksu veloitetaan automaattisesti maksukortiltasi eräpäivänä."
+            },
+            "fi-EE": {
+                "singular": "Mikäli maksat vain varausmaksun tässä vaiheessa, loppumaksu veloitetaan automaattisesti maksukortiltasi eräpäivänä."
+            },
+            "fi-FI": {
+                "singular": "Mikäli maksat vain varausmaksun tässä vaiheessa, loppumaksu veloitetaan automaattisesti maksukortiltasi eräpäivänä."
+            },
+            "fr": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, le solde sera automatiquement débité de votre carte de crédit à la date d'échéance."
+            },
+            "fr-BE": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, le solde sera automatiquement débité de votre carte de crédit à la date d'échéance."
+            },
+            "fr-CA": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, le solde sera automatiquement débité de votre carte de crédit à la date d'échéance."
+            },
+            "fr-CH": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, le solde sera automatiquement débité de votre carte de crédit à la date d'échéance."
+            },
+            "fr-FR": {
+                "singular": "Si vous souhaitez régler uniquement le montant de l'acompte aujourd'hui, le solde sera automatiquement débité de votre carte de crédit à la date d'échéance."
+            },
+            "hr": {
+                "singular": "Ako birate sada uplatiti predujam, za preostali iznos Vaša će kreditna/debitna kartica biti terećena automatizmom na datum dospijeća. "
+            },
+            "it": {
+                "singular": "In caso scegliessi di pagare solo l'acconto ora, ti preghiamo di notare che - a scadenza del termine per effettuare il pagamento - Interhome addebiterà automaticamente sulla carta anche l'importo del saldo."
+            },
+            "it-CH": {
+                "singular": "In caso scegliessi di pagare solo l'acconto ora, ti preghiamo di notare che - a scadenza del termine per effettuare il pagamento - Interhome addebiterà automaticamente sulla carta anche l'importo del saldo."
+            },
+            "it-IT": {
+                "singular": "In caso scegliessi di pagare solo l'acconto ora, ti preghiamo di notare che - a scadenza del termine per effettuare il pagamento - Interhome addebiterà automaticamente sulla carta anche l'importo del saldo."
+            },
+            "nl": {
+                "singular": "Als u ervoor kiest om de aanbetaling nu te betalen, zal het resterende bedrag op de vervaldatum automatisch van uw creditcard worden afgeschreven."
+            },
+            "nl-BE": {
+                "singular": "Als u ervoor kiest om de aanbetaling nu te betalen, zal het resterende bedrag op de vervaldatum automatisch van uw creditcard worden afgeschreven."
+            },
+            "nl-NL": {
+                "singular": "Als u ervoor kiest om de aanbetaling nu te betalen, zal het resterende bedrag op de vervaldatum automatisch van uw creditcard worden afgeschreven."
+            },
+            "no": {
+                "singular": "Hvis du velger å betale depositum nå, vil resten av beløpet trekkes fra ditt kreditt-/debetkort på forfallsdagen."
+            },
+            "pl": {
+                "singular": "W przypadku, gdy w dniu dzisiejszym chcą Państwo zapłacić tylko zaliczkę, druga rata płatności za rezerwację pobierze się automatycznie z podanej karty kredytowej w wyznaczonym dniu.\r\n"
+            },
+            "pt": {
+                "singular": "Se optar por pagar apenas o depósito agora, o saldo restante será debitado no seu cartão de crédito / débito automaticamente na data de vencimento."
+            },
+            "ru": {
+                "singular": "Если Вы сейчас решите внести только предоплату, то остаток будет списан с Вашей кредитной / дебетовой карты автоматически согласно срокам, указанным в подтверждении."
+            },
+            "sv": {
+                "singular": "Om du väljer att endast betala depositionen nu, så kommer resten av beloppet att dras från ditt kredit/kontokort på förfallodatumet."
+            }
+        }
+    }
+}

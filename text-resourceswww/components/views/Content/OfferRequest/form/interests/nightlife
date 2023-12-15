@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.interests.nightlife",
+    "name": "nightlife",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/interests/nightlife",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/interests/nightlife",
+    "slug": "nightlife",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "interests",
+        "nightlife"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.interests.nightlife",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Noční život"
+            },
+            "da": {
+                "singular": "Nattelivet"
+            },
+            "de": {
+                "singular": "Nightlife"
+            },
+            "de-AT": {
+                "singular": "Nightlife"
+            },
+            "de-CH": {
+                "singular": "Nightlife"
+            },
+            "de-DE": {
+                "singular": "Nightlife"
+            },
+            "en": {
+                "singular": "Nightlife"
+            },
+            "en-AU": {
+                "singular": "Nightlife"
+            },
+            "en-CA": {
+                "singular": "Nightlife"
+            },
+            "en-GB": {
+                "singular": "Nightlife"
+            },
+            "en-IE": {
+                "singular": "Nightlife"
+            },
+            "en-US": {
+                "singular": "Nightlife"
+            },
+            "es": {
+                "singular": "Vida nocturna"
+            },
+            "fi": {
+                "singular": "Yöelämä"
+            },
+            "fi-EE": {
+                "singular": "Yöelämä"
+            },
+            "fi-FI": {
+                "singular": "Yöelämä"
+            },
+            "fr": {
+                "singular": "Vie nocturne"
+            },
+            "fr-BE": {
+                "singular": "Vie nocturne"
+            },
+            "fr-CA": {
+                "singular": "Vie nocturne"
+            },
+            "fr-CH": {
+                "singular": "Vie nocturne"
+            },
+            "fr-FR": {
+                "singular": "Vie nocturne"
+            },
+            "hr": {
+                "singular": "Noćni život"
+            },
+            "it": {
+                "singular": "Vita notturna"
+            },
+            "it-CH": {
+                "singular": "Vita notturna"
+            },
+            "it-IT": {
+                "singular": "Vita notturna"
+            },
+            "nl": {
+                "singular": "Nachtleven"
+            },
+            "nl-BE": {
+                "singular": "Nachtleven"
+            },
+            "nl-NL": {
+                "singular": "Nachtleven"
+            },
+            "no": {
+                "singular": "Natteliv"
+            },
+            "pl": {
+                "singular": "Nocne życie"
+            },
+            "pt": {
+                "singular": "Vida noturna"
+            },
+            "ru": {
+                "singular": "Ночная жизнь"
+            },
+            "sv": {
+                "singular": "Nattliv"
+            }
+        }
+    }
+}

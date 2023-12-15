@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.reviews.Summary.labels.1",
+    "name": "1",
+    "path": "text-resourceswww/components/views/reviews/Summary/labels/1",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Summary/labels/1",
+    "slug": "1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Summary",
+        "labels",
+        "1"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Summary.labels.1",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nedostatečné"
+            },
+            "da": {
+                "singular": "Dårligt"
+            },
+            "de": {
+                "singular": "Mangelhaft"
+            },
+            "de-AT": {
+                "singular": "Mangelhaft"
+            },
+            "de-CH": {
+                "singular": "Mangelhaft"
+            },
+            "de-DE": {
+                "singular": "Mangelhaft"
+            },
+            "en": {
+                "singular": "Poor"
+            },
+            "en-AU": {
+                "singular": "Poor"
+            },
+            "en-CA": {
+                "singular": "Poor"
+            },
+            "en-GB": {
+                "singular": "Poor"
+            },
+            "en-IE": {
+                "singular": "Poor"
+            },
+            "en-US": {
+                "singular": "Poor"
+            },
+            "es": {
+                "singular": "Malo"
+            },
+            "fi": {
+                "singular": "Välttävä"
+            },
+            "fi-EE": {
+                "singular": "Välttävä"
+            },
+            "fi-FI": {
+                "singular": "Välttävä"
+            },
+            "fr": {
+                "singular": "Acceptable"
+            },
+            "fr-BE": {
+                "singular": "Acceptable"
+            },
+            "fr-CA": {
+                "singular": "Acceptable"
+            },
+            "fr-CH": {
+                "singular": "Acceptable"
+            },
+            "fr-FR": {
+                "singular": "Acceptable"
+            },
+            "hr": {
+                "singular": "Ispodprosječno"
+            },
+            "it": {
+                "singular": "Accettabile"
+            },
+            "it-CH": {
+                "singular": "Accettabile"
+            },
+            "it-IT": {
+                "singular": "Accettabile"
+            },
+            "nl": {
+                "singular": "Onvoldoende"
+            },
+            "nl-BE": {
+                "singular": "Matig"
+            },
+            "nl-NL": {
+                "singular": "Onvoldoende"
+            },
+            "no": {
+                "singular": "Dårlig"
+            },
+            "pl": {
+                "singular": "Niezadowalający"
+            },
+            "pt": {
+                "singular": "Pobre"
+            },
+            "ru": {
+                "singular": "Плохо"
+            },
+            "sv": {
+                "singular": "Dåligt"
+            }
+        }
+    }
+}

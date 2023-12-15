@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.reviews.SearchTeaserTop.objects",
+    "name": "objects",
+    "path": "text-resourceswww/components/views/reviews/SearchTeaserTop/objects",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/SearchTeaserTop/objects",
+    "slug": "objects",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "SearchTeaserTop",
+        "objects"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.SearchTeaserTop.objects",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "rekreační domy a apartmány"
+            },
+            "da": {
+                "singular": "feriehuse \u0026 ferielejligheder"
+            },
+            "de": {
+                "singular": "Ferienhäuser und Ferienwohnungen"
+            },
+            "de-AT": {
+                "singular": "Ferienhäuser und Ferienwohnungen"
+            },
+            "de-CH": {
+                "singular": "Ferienhäuser und Ferienwohnungen"
+            },
+            "de-DE": {
+                "singular": "Ferienhäuser und Ferienwohnungen"
+            },
+            "en": {
+                "singular": "holiday houses and apartments"
+            },
+            "en-AU": {
+                "singular": "holiday houses and apartments"
+            },
+            "en-CA": {
+                "singular": "holiday houses and apartments"
+            },
+            "en-GB": {
+                "singular": "holiday houses and apartments"
+            },
+            "en-IE": {
+                "singular": "holiday houses and apartments"
+            },
+            "en-US": {
+                "singular": "vacation houses and apartments"
+            },
+            "es": {
+                "singular": "casas y apartamentos"
+            },
+            "fi": {
+                "singular": "loma-asunnot, lomatalot \u0026 lomahuoneistot"
+            },
+            "fi-EE": {
+                "singular": "loma-asunnot, lomatalot \u0026 lomahuoneistot"
+            },
+            "fi-FI": {
+                "singular": "loma-asunnot, lomatalot \u0026 lomahuoneistot"
+            },
+            "fr": {
+                "singular": "appartements et maisons de vacances"
+            },
+            "fr-BE": {
+                "singular": "appartements et maisons de vacances"
+            },
+            "fr-CA": {
+                "singular": "appartements et maisons de vacances"
+            },
+            "fr-CH": {
+                "singular": "appartements et maisons de vacances"
+            },
+            "fr-FR": {
+                "singular": "appartements et maisons de vacances"
+            },
+            "hr": {
+                "singular": "vile, kuće za odmor i apartmani"
+            },
+            "it": {
+                "singular": "case \u0026 appartamenti di vacanze"
+            },
+            "it-CH": {
+                "singular": "case \u0026 appartamenti di vacanze"
+            },
+            "it-IT": {
+                "singular": "case e appartamenti di vacanza"
+            },
+            "nl": {
+                "singular": "vakantiewoningen \u0026 vakantiehuizen"
+            },
+            "nl-BE": {
+                "singular": "vakantiewoningen \u0026 vakantiehuizen"
+            },
+            "nl-NL": {
+                "singular": "vakantiewoningen \u0026 vakantiehuizen"
+            },
+            "no": {
+                "singular": "ferieleiligheter \u0026 feriehus"
+            },
+            "pl": {
+                "singular": "domy \u0026 apartamenty wakacyjne"
+            },
+            "pt": {
+                "singular": "apartamentos \u0026 casas"
+            },
+            "ru": {
+                "singular": "аренда вилл \u0026 апартаментов"
+            },
+            "sv": {
+                "singular": "semesterhus och semesterlägenhet"
+            }
+        }
+    }
+}

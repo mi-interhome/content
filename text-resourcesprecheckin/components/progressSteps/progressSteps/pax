@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.progressSteps.progressSteps.pax",
+    "name": "pax",
+    "path": "text-resourcesprecheckin/components/progressSteps/progressSteps/pax",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/progressSteps/progressSteps/pax",
+    "slug": "pax",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "progressSteps",
+        "progressSteps",
+        "pax"
+    ],
+    "content": {
+        "key": "precheckin.components.progressSteps.progressSteps.pax",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Věkové kategorie"
+            },
+            "da": {
+                "singular": "Alderskategorier"
+            },
+            "de": {
+                "singular": "Alterskategorien"
+            },
+            "de-AT": {
+                "singular": "Alterskategorien"
+            },
+            "de-CH": {
+                "singular": "Alterskategorien"
+            },
+            "de-DE": {
+                "singular": "Alterskategorien"
+            },
+            "en": {
+                "singular": "Age Categories"
+            },
+            "en-AU": {
+                "singular": "Age Categories"
+            },
+            "en-CA": {
+                "singular": "Age Categories"
+            },
+            "en-GB": {
+                "singular": "Age Categories"
+            },
+            "en-IE": {
+                "singular": "Age Categories"
+            },
+            "en-US": {
+                "singular": "Age Categories"
+            },
+            "es": {
+                "singular": "Categorías de edad"
+            },
+            "fi": {
+                "singular": "Ikäryhmät"
+            },
+            "fi-EE": {
+                "singular": "Ikäryhmät"
+            },
+            "fi-FI": {
+                "singular": "Ikäryhmät"
+            },
+            "fr": {
+                "singular": "Catégories d'âge"
+            },
+            "fr-BE": {
+                "singular": "Catégories d'âge"
+            },
+            "fr-CA": {
+                "singular": "Catégories d'âge"
+            },
+            "fr-CH": {
+                "singular": "Catégories d'âge"
+            },
+            "fr-FR": {
+                "singular": "Catégories d'âge"
+            },
+            "hr": {
+                "singular": "Dobne kategorije"
+            },
+            "it": {
+                "singular": "Fascia d'età"
+            },
+            "it-CH": {
+                "singular": "Fascia d'età"
+            },
+            "it-IT": {
+                "singular": "Fascia d'età"
+            },
+            "nl": {
+                "singular": "Leeftijdscategorieën"
+            },
+            "nl-BE": {
+                "singular": "Leeftijdscategorieën"
+            },
+            "nl-NL": {
+                "singular": "Leeftijdscategorieën"
+            },
+            "no": {
+                "singular": "Kategorier for alder"
+            },
+            "pl": {
+                "singular": "Kategorie wiekowe"
+            },
+            "pt": {
+                "singular": "Intervalos de idade"
+            },
+            "ru": {
+                "singular": "Возраст"
+            },
+            "sv": {
+                "singular": "Ålderskategorier"
+            }
+        }
+    }
+}

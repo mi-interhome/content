@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.booking",
+    "name": "booking",
+    "path": "text-resourceswebccSalesportal/reservationdetail/booking",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/booking",
+    "slug": "booking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "booking"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.booking",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rezervace"
+            },
+            "da": {
+                "singular": "Booking"
+            },
+            "de": {
+                "singular": "Buchung"
+            },
+            "de-AT": {
+                "singular": "Buchung"
+            },
+            "de-CH": {
+                "singular": "Buchung"
+            },
+            "de-DE": {
+                "singular": "Buchung"
+            },
+            "en": {
+                "singular": "Booking"
+            },
+            "en-AU": {
+                "singular": "Booking"
+            },
+            "en-CA": {
+                "singular": "Booking"
+            },
+            "en-GB": {
+                "singular": "Booking"
+            },
+            "en-IE": {
+                "singular": "Booking"
+            },
+            "en-US": {
+                "singular": "Booking"
+            },
+            "es": {
+                "singular": "reserva"
+            },
+            "fi": {
+                "singular": "Varaus"
+            },
+            "fi-EE": {
+                "singular": "Varaus"
+            },
+            "fi-FI": {
+                "singular": "Varaus"
+            },
+            "fr": {
+                "singular": "Réservation"
+            },
+            "fr-BE": {
+                "singular": "Réservation"
+            },
+            "fr-CA": {
+                "singular": "Réservation"
+            },
+            "fr-CH": {
+                "singular": "Réservation"
+            },
+            "fr-FR": {
+                "singular": "Réservation"
+            },
+            "hr": {
+                "singular": "Rezervacija"
+            },
+            "it": {
+                "singular": "Prenotazione"
+            },
+            "it-CH": {
+                "singular": "Prenotazione"
+            },
+            "it-IT": {
+                "singular": "Prenotazione"
+            },
+            "nl": {
+                "singular": "Boeking"
+            },
+            "nl-BE": {
+                "singular": "Boeking"
+            },
+            "nl-NL": {
+                "singular": "Boeking"
+            },
+            "no": {
+                "singular": "Booking"
+            },
+            "pl": {
+                "singular": "Rezerwacja"
+            },
+            "pt": {
+                "singular": "Detalhe da Reserva"
+            },
+            "ru": {
+                "singular": "Бронирование"
+            },
+            "sv": {
+                "singular": "Bokning"
+            }
+        }
+    }
+}

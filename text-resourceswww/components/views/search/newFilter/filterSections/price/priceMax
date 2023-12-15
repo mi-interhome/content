@@ -1,0 +1,83 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.price.priceMax",
+    "name": "priceMax",
+    "path": "text-resourceswww/components/views/search/newFilter/filterSections/price/priceMax",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/price/priceMax",
+    "slug": "priceMax",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "price",
+        "priceMax"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.price.priceMax",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Max"
+            },
+            "de-AT": {
+                "singular": "Max"
+            },
+            "de-CH": {
+                "singular": "Max"
+            },
+            "de-DE": {
+                "singular": "Max"
+            },
+            "en": {
+                "singular": "Max"
+            },
+            "en-AU": {
+                "singular": "Max"
+            },
+            "en-CA": {
+                "singular": "Max"
+            },
+            "en-GB": {
+                "singular": "Max"
+            },
+            "en-IE": {
+                "singular": "Max"
+            },
+            "en-US": {
+                "singular": "Max"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

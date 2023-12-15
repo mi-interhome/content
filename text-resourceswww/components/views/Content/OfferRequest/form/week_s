@@ -1,0 +1,160 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.week_s",
+    "name": "week_s",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/week_s",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/week_s",
+    "slug": "week_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "week_s"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.week_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{count} týden",
+                "plural": "{count} týdny"
+            },
+            "da": {
+                "singular": "{count} uge",
+                "plural": "{count} uger"
+            },
+            "de": {
+                "singular": "eine Woche",
+                "plural": "{count} Wochen"
+            },
+            "de-AT": {
+                "singular": "eine Woche",
+                "plural": "{count} Wochen"
+            },
+            "de-CH": {
+                "singular": "eine Woche",
+                "plural": "{count} Wochen"
+            },
+            "de-DE": {
+                "singular": "eine Woche",
+                "plural": "{count} Wochen"
+            },
+            "en": {
+                "singular": "one week",
+                "plural": "{count} weeks"
+            },
+            "en-AU": {
+                "singular": "one week",
+                "plural": "{count} weeks"
+            },
+            "en-CA": {
+                "singular": "one week",
+                "plural": "{count} weeks"
+            },
+            "en-GB": {
+                "singular": "one week",
+                "plural": "{count} weeks"
+            },
+            "en-IE": {
+                "singular": "one week",
+                "plural": "{count} weeks"
+            },
+            "en-US": {
+                "singular": "one week",
+                "plural": "{count} weeks"
+            },
+            "es": {
+                "singular": "una semana",
+                "plural": "{count} semanas"
+            },
+            "fi": {
+                "singular": "{count} viikko",
+                "plural": "{count} viikkoa"
+            },
+            "fi-EE": {
+                "singular": "{count} viikkoa"
+            },
+            "fi-FI": {
+                "singular": "{count} viikko",
+                "plural": "{count} viikkoa"
+            },
+            "fr": {
+                "singular": "{count} semaine",
+                "plural": "{count} semaines"
+            },
+            "fr-BE": {
+                "singular": "{count} semaine",
+                "plural": "{count} semaines"
+            },
+            "fr-CA": {
+                "singular": "{count} semaine",
+                "plural": "{count} semaines"
+            },
+            "fr-CH": {
+                "singular": "{count} semaine",
+                "plural": "{count} semaines"
+            },
+            "fr-FR": {
+                "singular": "{count} semaine",
+                "plural": "{count} semaines"
+            },
+            "hr": {
+                "singular": "{count} tjedan",
+                "plural": "{count} tjedna"
+            },
+            "it": {
+                "singular": "{count} settimana",
+                "plural": "{count} settimane"
+            },
+            "it-CH": {
+                "singular": "{count} settimana",
+                "plural": "{count} settimane"
+            },
+            "it-IT": {
+                "singular": "{count} settimana",
+                "plural": "{count} settimane"
+            },
+            "nl": {
+                "singular": "{count} week",
+                "plural": "{count} weken"
+            },
+            "nl-BE": {
+                "singular": "{count} week",
+                "plural": "{count} weken"
+            },
+            "nl-NL": {
+                "singular": "{count} week",
+                "plural": "{count} weken"
+            },
+            "no": {
+                "singular": "{count} uke",
+                "plural": "{count} uker"
+            },
+            "pl": {
+                "singular": "{count} tydzień",
+                "plural": "{count} tygodnie"
+            },
+            "pt": {
+                "singular": "{count} semana",
+                "plural": "{count} semanas"
+            },
+            "ru": {
+                "singular": "{count} неделя",
+                "plural": "{count} недели"
+            },
+            "sv": {
+                "singular": "{count} vecka",
+                "plural": "{count} veckor"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.options.bad",
+    "name": "bad",
+    "path": "text-resourcesreservations/pages/review/options/bad",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/options/bad",
+    "slug": "bad",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "options",
+        "bad"
+    ],
+    "content": {
+        "key": "reservations.pages.review.options.bad",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Hrozné"
+            },
+            "da": {
+                "singular": "Frygteligt"
+            },
+            "de": {
+                "singular": "Schlecht"
+            },
+            "de-AT": {
+                "singular": "Schlecht"
+            },
+            "de-CH": {
+                "singular": "Schlecht"
+            },
+            "de-DE": {
+                "singular": "Schlecht"
+            },
+            "en": {
+                "singular": "Terrible"
+            },
+            "en-AU": {
+                "singular": "Terrible"
+            },
+            "en-CA": {
+                "singular": "Terrible"
+            },
+            "en-GB": {
+                "singular": "Terrible"
+            },
+            "en-IE": {
+                "singular": "Terrible"
+            },
+            "en-US": {
+                "singular": "Terrible"
+            },
+            "es": {
+                "singular": "Pésimo"
+            },
+            "fi": {
+                "singular": "Todella huono"
+            },
+            "fi-EE": {
+                "singular": "Todella huono"
+            },
+            "fi-FI": {
+                "singular": "Todella huono"
+            },
+            "fr": {
+                "singular": "Horrible"
+            },
+            "fr-BE": {
+                "singular": "Horrible"
+            },
+            "fr-CA": {
+                "singular": "Horrible"
+            },
+            "fr-CH": {
+                "singular": "Horrible"
+            },
+            "fr-FR": {
+                "singular": "Horrible"
+            },
+            "hr": {
+                "singular": "Nezadovoljavajuće"
+            },
+            "it": {
+                "singular": "Pessimo"
+            },
+            "it-CH": {
+                "singular": "Pessimo"
+            },
+            "it-IT": {
+                "singular": "Pessimo"
+            },
+            "nl": {
+                "singular": "Zeer Slecht"
+            },
+            "nl-BE": {
+                "singular": "Zeer Slecht"
+            },
+            "nl-NL": {
+                "singular": "Zeer Slecht"
+            },
+            "no": {
+                "singular": "Forferdelig"
+            },
+            "pl": {
+                "singular": "Bardzo źle"
+            },
+            "pt": {
+                "singular": "Horrível"
+            },
+            "ru": {
+                "singular": "Ужасно"
+            },
+            "sv": {
+                "singular": "Hemskt"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.footer.who_is_hhd",
+    "name": "who_is_hhd",
+    "path": "text-resourceswebccSalesportal/footer/who_is_hhd",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/who_is_hhd",
+    "slug": "who_is_hhd",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "who_is_hhd"
+    ],
+    "content": {
+        "key": "webccSalesportal.footer.who_is_hhd",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Interhome Group je součástí {HOTELPLAN} Group, jejímž vlastníkem je {MIGROS}"
+            },
+            "da": {
+                "singular": "Interhome Group er en del af {HOTELPLAN} -koncernen, der ejes af {MIGROS}"
+            },
+            "de": {
+                "singular": "Interhome Group ist Teil der {HOTELPLAN}-Gruppe, ein Unternehmen der {MIGROS}"
+            },
+            "de-AT": {
+                "singular": "Interhome Group ist Teil der {HOTELPLAN}-Gruppe, ein Unternehmen der {MIGROS}"
+            },
+            "de-CH": {
+                "singular": "Interhome Group ist Teil der {HOTELPLAN}-Gruppe, ein Unternehmen der {MIGROS}"
+            },
+            "de-DE": {
+                "singular": "Interhome Group ist Teil der {HOTELPLAN}-Gruppe, ein Unternehmen der {MIGROS}"
+            },
+            "en": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "en-AU": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "en-CA": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "en-GB": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "en-IE": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "en-US": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "es": {
+                "singular": "Interhome Group es parte del grupo {HOTELPLAN} , perteneciente a {MIGROS}"
+            },
+            "fi": {
+                "singular": "Interhome Group on osa {HOTELPLAN} Groupia, jonka omistaa {MIGROS}"
+            },
+            "fi-EE": {
+                "singular": "Interhome Group is part of the {HOTELPLAN} Group, which is owned by {MIGROS}"
+            },
+            "fi-FI": {
+                "singular": "Interhome Group on osa {HOTELPLAN} Groupia, jonka omistaa {MIGROS}"
+            },
+            "fr": {
+                "singular": "Interhome Group est une filiale du groupe {HOTELPLAN}, appartenant à {MIGROS}"
+            },
+            "fr-BE": {
+                "singular": "Interhome Group est une filiale du groupe {HOTELPLAN}, appartenant à {MIGROS}"
+            },
+            "fr-CA": {
+                "singular": "Interhome Group est une filiale du groupe {HOTELPLAN}, appartenant à {MIGROS}"
+            },
+            "fr-CH": {
+                "singular": "Interhome Group est une filiale du groupe {HOTELPLAN}, appartenant à {MIGROS}"
+            },
+            "fr-FR": {
+                "singular": "Interhome Group est une filiale du groupe {HOTELPLAN}, appartenant à {MIGROS}"
+            },
+            "hr": {
+                "singular": "Interhome Group je dio grupacije {HOTELPLAN}, čiji vlasnik je {MIGROS}"
+            },
+            "it": {
+                "singular": "Interhome Group è parte del gruppo {HOTELPLAN} che è proprietà di {MIGROS}"
+            },
+            "it-CH": {
+                "singular": "Interhome Group è parte del gruppo {HOTELPLAN} che è proprietà di {MIGROS}"
+            },
+            "it-IT": {
+                "singular": "Interhome Group è parte del gruppo {HOTELPLAN} che è proprietà di {MIGROS}"
+            },
+            "nl": {
+                "singular": "Interhome Group is onderdeel van de {HOTELPLAN} Groep, die eigendom is van {MIGROS}"
+            },
+            "nl-BE": {
+                "singular": "Interhome Group is onderdeel van de {HOTELPLAN} Groep, die eigendom is van {MIGROS}"
+            },
+            "nl-NL": {
+                "singular": "Interhome Group is onderdeel van de {HOTELPLAN} Groep, die eigendom is van {MIGROS}"
+            },
+            "no": {
+                "singular": "\"Interhome Group er en del av {HOTELPLAN} -gruppen som eies av {MIGROS}\n\""
+            },
+            "pl": {
+                "singular": "Interhome Group jest częścią Grupy {HOTELPLAN} zarządzanej przez {MIGROS}"
+            },
+            "pt": {
+                "singular": "Interhome Group faz parte do grupo {HOTELPLAN}, de propriedade de {MIGROS}"
+            },
+            "ru": {
+                "singular": "Interhome Group является частью группы {HOTELPLAN}, компании {MIGROS}"
+            },
+            "sv": {
+                "singular": "Interhome Group är en del av gruppen {HOTELPLAN}, som ägs av {MIGROS}\n"
+            }
+        }
+    }
+}

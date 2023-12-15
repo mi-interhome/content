@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.common.bookingSteps.step2",
+    "name": "step2",
+    "path": "text-resourceswebccBooking/components/common/bookingSteps/step2",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/common/bookingSteps/step2",
+    "slug": "step2",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "common",
+        "bookingSteps",
+        "step2"
+    ],
+    "content": {
+        "key": "webccBooking.components.common.bookingSteps.step2",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Způsob platby a kontrola údajů"
+            },
+            "da": {
+                "singular": "Kontrollér oplysninger / Betalingsinformationer"
+            },
+            "de": {
+                "singular": "Angaben prüfen / Zahlungsinformationen"
+            },
+            "de-AT": {
+                "singular": "Angaben prüfen / Zahlungsinformationen"
+            },
+            "de-CH": {
+                "singular": "Angaben prüfen / Zahlungsinformationen"
+            },
+            "de-DE": {
+                "singular": "Angaben prüfen / Zahlungsinformationen"
+            },
+            "en": {
+                "singular": "Check data / Payment method"
+            },
+            "en-AU": {
+                "singular": "Check data / Payment method"
+            },
+            "en-CA": {
+                "singular": "Check data / Payment method"
+            },
+            "en-GB": {
+                "singular": "Check data / Payment method"
+            },
+            "en-IE": {
+                "singular": "Check data / Payment method"
+            },
+            "en-US": {
+                "singular": "Check data / Payment method"
+            },
+            "es": {
+                "singular": "Forma de pago / Comprobación de datos"
+            },
+            "fi": {
+                "singular": "Maksutapa / Tarkista tietosi"
+            },
+            "fi-EE": {
+                "singular": "Maksutapa / Tarkista tietosi"
+            },
+            "fi-FI": {
+                "singular": "Maksutapa / Tarkista tietosi"
+            },
+            "fr": {
+                "singular": "Récapitulatif / Moyens de paiement"
+            },
+            "fr-BE": {
+                "singular": "Récapitulatif / Moyens de paiement"
+            },
+            "fr-CA": {
+                "singular": "Récapitulatif / Moyens de paiement"
+            },
+            "fr-CH": {
+                "singular": "Récapitulatif / Moyens de paiement"
+            },
+            "fr-FR": {
+                "singular": "Récapitulatif / Moyens de paiement"
+            },
+            "hr": {
+                "singular": "Način plaćanja / Provjerite Vaše podatke"
+            },
+            "it": {
+                "singular": "Metodo di pagamento / controlla i tuoi dati"
+            },
+            "it-CH": {
+                "singular": "Metodo di pagamento / controlla i tuoi dati"
+            },
+            "it-IT": {
+                "singular": "Seleziona il metodo di pagamento / controlla i tuoi dati"
+            },
+            "nl": {
+                "singular": "Gegevens controleren / Betalingsinformatie"
+            },
+            "nl-BE": {
+                "singular": "Gegevens controleren / Betalingsinformatie"
+            },
+            "nl-NL": {
+                "singular": "Gegevens controleren / Betalingsinformatie"
+            },
+            "no": {
+                "singular": "Betalingsmåte / kontroller opplysningene dine"
+            },
+            "pl": {
+                "singular": "Sprawdzenie danych / Informacje rozliczeniowe"
+            },
+            "pt": {
+                "singular": "Modo de Pagamento / Cheque seus dados"
+            },
+            "ru": {
+                "singular": "Форма оплаты / Проверьте Ваши данные"
+            },
+            "sv": {
+                "singular": "Betalningssätt / Kontrollera er information"
+            }
+        }
+    }
+}

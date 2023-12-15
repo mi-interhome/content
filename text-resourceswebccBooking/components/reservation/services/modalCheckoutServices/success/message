@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.services.modalCheckoutServices.success.message",
+    "name": "message",
+    "path": "text-resourceswebccBooking/components/reservation/services/modalCheckoutServices/success/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/modalCheckoutServices/success/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "modalCheckoutServices",
+        "success",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.modalCheckoutServices.success.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše služby byly úspěšně rezervovány. Fakturu obdržíte e-mailem."
+            },
+            "da": {
+                "singular": "Dine ydelser er booket. Du vil modtage en faktura per mail."
+            },
+            "de": {
+                "singular": "Ihre Leistungen wurden erfolgreich gebucht. Sie bekommen eine Rechnung per E-Mail."
+            },
+            "de-AT": {
+                "singular": "Ihre Leistungen wurden erfolgreich gebucht. Sie bekommen eine Rechnung per E-Mail."
+            },
+            "de-CH": {
+                "singular": "Ihre Leistungen wurden erfolgreich gebucht. Sie bekommen eine Rechnung per E-Mail."
+            },
+            "de-DE": {
+                "singular": "Ihre Leistungen wurden erfolgreich gebucht. Sie bekommen eine Rechnung per E-Mail."
+            },
+            "en": {
+                "singular": "Your services have been booked successfully. You will receive an invoice by e-mail."
+            },
+            "en-AU": {
+                "singular": "Your services have been booked successfully. You will receive an invoice by e-mail."
+            },
+            "en-CA": {
+                "singular": "Your services have been booked successfully. You will receive an invoice by e-mail."
+            },
+            "en-GB": {
+                "singular": "Your services have been booked successfully. You will receive an invoice by e-mail."
+            },
+            "en-IE": {
+                "singular": "Your services have been booked successfully. You will receive an invoice by e-mail."
+            },
+            "en-US": {
+                "singular": "Your services have been booked successfully. You will receive an invoice by e-mail."
+            },
+            "es": {
+                "singular": "Sus servicios han sido reservados con éxito. Recibirá su factura por correo electrónico."
+            },
+            "fi": {
+                "singular": "Palvelusi on varattu onnistuneesti. Saat laskun sähköpostitse."
+            },
+            "fi-EE": {
+                "singular": "Palvelusi on varattu onnistuneesti. Saat laskun sähköpostitse."
+            },
+            "fi-FI": {
+                "singular": "Palvelusi on varattu onnistuneesti. Saat laskun sähköpostitse."
+            },
+            "fr": {
+                "singular": "Vos services supplémentaires ont été réservés. Vous recevrez une facture par mail."
+            },
+            "fr-BE": {
+                "singular": "Vos services supplémentaires ont été réservés. Vous recevrez une facture par mail."
+            },
+            "fr-CA": {
+                "singular": "Vos services supplémentaires ont été réservés. Vous recevrez une facture par mail."
+            },
+            "fr-CH": {
+                "singular": "Vos services supplémentaires ont été réservés. Vous recevrez une facture par mail."
+            },
+            "fr-FR": {
+                "singular": "Vos services supplémentaires ont été réservés. Vous recevrez une facture par mail."
+            },
+            "hr": {
+                "singular": "Vaše usluge su uspješno rezervirane. Dobiti ćete račun putem e-pošte."
+            },
+            "it": {
+                "singular": "I servizi aggiuntivi sono stati prenotati con successo. Riceverà la fattura via e-mail."
+            },
+            "it-CH": {
+                "singular": "I servizi aggiuntivi sono stati prenotati con successo. Riceverà la fattura via e-mail."
+            },
+            "it-IT": {
+                "singular": "I servizi aggiuntivi sono stati prenotati con successo. Riceverà la fattura via e-mail."
+            },
+            "nl": {
+                "singular": "Uw diensten zijn succesvol geboekt. U ontvangt een factuur per e-mail."
+            },
+            "nl-BE": {
+                "singular": "Uw diensten zijn succesvol geboekt. U ontvangt een factuur per e-mail."
+            },
+            "nl-NL": {
+                "singular": "Uw diensten zijn succesvol geboekt. U ontvangt een factuur per e-mail."
+            },
+            "no": {
+                "singular": "Tjenestene dine er bestilt. Du vil motta en faktura via e-post."
+            },
+            "pl": {
+                "singular": "Serwis dodatkowy został zarezerwowany. Umowę rezerwacji wyślemy w osobnym mailu."
+            },
+            "pt": {
+                "singular": "Os seus serviços foram reservados com sucesso. Irá receber a sua fatura por e-mail."
+            },
+            "ru": {
+                "singular": "Ваши услуги были успешно забронированы. Вы получите счет по электронной почте."
+            },
+            "sv": {
+                "singular": "Dina tilläggstjänster har bokats framgångsrikt. Du kommer att få en faktura via mejl."
+            }
+        }
+    }
+}

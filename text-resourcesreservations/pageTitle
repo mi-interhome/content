@@ -1,0 +1,123 @@
+{
+    "id": "reservations.pageTitle",
+    "name": "pageTitle",
+    "path": "text-resourcesreservations/pageTitle",
+    "folder": "text-resources",
+    "full_slug": "reservations/pageTitle",
+    "slug": "pageTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pageTitle"
+    ],
+    "content": {
+        "key": "reservations.pageTitle",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Správa rezervací"
+            },
+            "da": {
+                "singular": "Reservationsstyring"
+            },
+            "de": {
+                "singular": "Buchungsverwaltung"
+            },
+            "de-AT": {
+                "singular": "Buchungsverwaltung"
+            },
+            "de-CH": {
+                "singular": "Buchungsverwaltung"
+            },
+            "de-DE": {
+                "singular": "Buchungsverwaltung"
+            },
+            "en": {
+                "singular": "Reservation management"
+            },
+            "en-AU": {
+                "singular": "Reservation management"
+            },
+            "en-CA": {
+                "singular": "Reservation management"
+            },
+            "en-GB": {
+                "singular": "Reservation management"
+            },
+            "en-IE": {
+                "singular": "Reservation management"
+            },
+            "en-US": {
+                "singular": "Reservation management"
+            },
+            "es": {
+                "singular": "Gestión de reservas"
+            },
+            "fi": {
+                "singular": "Varauksen hallinta"
+            },
+            "fi-EE": {
+                "singular": "Varauksen hallinta"
+            },
+            "fi-FI": {
+                "singular": "Varauksen hallinta"
+            },
+            "fr": {
+                "singular": "Gestion de la réservation"
+            },
+            "fr-BE": {
+                "singular": "Gestion de la réservation"
+            },
+            "fr-CA": {
+                "singular": "Gestion de la réservation"
+            },
+            "fr-CH": {
+                "singular": "Gestion de la réservation"
+            },
+            "fr-FR": {
+                "singular": "Gestion de la réservation"
+            },
+            "hr": {
+                "singular": "Upravljanje rezervacijama"
+            },
+            "it": {
+                "singular": "Gestione della prenotazione"
+            },
+            "it-CH": {
+                "singular": "Gestione della prenotazione"
+            },
+            "it-IT": {
+                "singular": "Gestione della prenotazione"
+            },
+            "nl": {
+                "singular": "Reserveringsbeheer"
+            },
+            "nl-BE": {
+                "singular": "Reserveringsbeheer"
+            },
+            "nl-NL": {
+                "singular": "Reserveringsbeheer"
+            },
+            "no": {
+                "singular": "Reservasjonsbehandling"
+            },
+            "pl": {
+                "singular": "Zarządzanie rezerwacją"
+            },
+            "pt": {
+                "singular": "Gestão de reservas"
+            },
+            "ru": {
+                "singular": "Управление бронированием"
+            },
+            "sv": {
+                "singular": "Bokningsförvaltning"
+            }
+        }
+    }
+}

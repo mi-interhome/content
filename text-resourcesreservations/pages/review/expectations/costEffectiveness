@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.expectations.costEffectiveness",
+    "name": "costEffectiveness",
+    "path": "text-resourcesreservations/pages/review/expectations/costEffectiveness",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/expectations/costEffectiveness",
+    "slug": "costEffectiveness",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "expectations",
+        "costEffectiveness"
+    ],
+    "content": {
+        "key": "reservations.pages.review.expectations.costEffectiveness",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Získali jste za zaplacenou cenu odpovídající kvalitu?"
+            },
+            "da": {
+                "singular": "Fik du meget for pengene?"
+            },
+            "de": {
+                "singular": "War das Preis-Leistungs-Verhältnis in Ordnung?"
+            },
+            "de-AT": {
+                "singular": "War das Preis-Leistungs-Verhältnis in Ordnung?"
+            },
+            "de-CH": {
+                "singular": "War das Preis-Leistungs-Verhältnis in Ordnung?"
+            },
+            "de-DE": {
+                "singular": "War das Preis-Leistungs-Verhältnis in Ordnung?"
+            },
+            "en": {
+                "singular": "Was it a good value for the price paid?"
+            },
+            "en-AU": {
+                "singular": "Was it a good value for the price paid?"
+            },
+            "en-CA": {
+                "singular": "Was it a good value for the price paid?"
+            },
+            "en-GB": {
+                "singular": "Was it a good value for the price paid?"
+            },
+            "en-IE": {
+                "singular": "Was it a good value for the price paid?"
+            },
+            "en-US": {
+                "singular": "Was it a good value for the price paid?"
+            },
+            "es": {
+                "singular": "¿Te pareció buena la relación calidad-precio?"
+            },
+            "fi": {
+                "singular": "Tarjosiko se vastinetta rahalle?"
+            },
+            "fi-EE": {
+                "singular": "Tarjosiko loma-asunto vastinetta rahalle?"
+            },
+            "fi-FI": {
+                "singular": "Tarjosiko se vastinetta rahalle?"
+            },
+            "fr": {
+                "singular": "Êtes-vous satisfait du rapport qualité/prix?"
+            },
+            "fr-BE": {
+                "singular": "Le rapport qualité-prix était-il bon ?"
+            },
+            "fr-CA": {
+                "singular": "Êtes-vous satisfait du rapport qualité/prix?"
+            },
+            "fr-CH": {
+                "singular": "Le rapport qualité-prix était-il bon ?"
+            },
+            "fr-FR": {
+                "singular": "Le rapport qualité-prix était-il bon ?"
+            },
+            "hr": {
+                "singular": "Je li dobar odnos cijene i kvalitete?"
+            },
+            "it": {
+                "singular": "La casa ha un buon rapporto qualità prezzo?"
+            },
+            "it-CH": {
+                "singular": "Il rapporto qualità/prezzo è risultato buono?"
+            },
+            "it-IT": {
+                "singular": "Il rapporto qualità/prezzo è risultato buono?"
+            },
+            "nl": {
+                "singular": "Bent u tevreden over de prijs/kwaliteitsverhouding?"
+            },
+            "nl-BE": {
+                "singular": "Bent u tevreden over de prijs/kwaliteitsverhouding?"
+            },
+            "nl-NL": {
+                "singular": "Bent u tevreden over de prijs/kwaliteitsverhouding?"
+            },
+            "no": {
+                "singular": "Fikk du god verdi for betalt pris?"
+            },
+            "pl": {
+                "singular": "Czy cena odpowiadała standardowi?"
+            },
+            "pt": {
+                "singular": "O valor pago teve bom custo-benefício?"
+            },
+            "ru": {
+                "singular": "Устроило ли Вас соотношение цены и качества?"
+            },
+            "sv": {
+                "singular": "Fick du valuta för pengarna?"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.maritalStatus",
+    "name": "maritalStatus",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/labels/maritalStatus",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/maritalStatus",
+    "slug": "maritalStatus",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "maritalStatus"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.maritalStatus",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rodinný stav"
+            },
+            "da": {
+                "singular": "MaritalStatus"
+            },
+            "de": {
+                "singular": "Zivilstand"
+            },
+            "de-AT": {
+                "singular": "Zivilstand"
+            },
+            "de-CH": {
+                "singular": "Zivilstand"
+            },
+            "de-DE": {
+                "singular": "Zivilstand"
+            },
+            "en": {
+                "singular": "MaritalStatus"
+            },
+            "en-AU": {
+                "singular": "MaritalStatus"
+            },
+            "en-CA": {
+                "singular": "MaritalStatus"
+            },
+            "en-GB": {
+                "singular": "MaritalStatus"
+            },
+            "en-IE": {
+                "singular": "MaritalStatus"
+            },
+            "en-US": {
+                "singular": "MaritalStatus"
+            },
+            "es": {
+                "singular": "Situación matrimonial"
+            },
+            "fi": {
+                "singular": "Siviilisääty"
+            },
+            "fi-EE": {
+                "singular": "Siviilisääty"
+            },
+            "fi-FI": {
+                "singular": "Siviilisääty"
+            },
+            "fr": {
+                "singular": "Situation matrimoniale"
+            },
+            "fr-BE": {
+                "singular": "Situation matrimoniale"
+            },
+            "fr-CA": {
+                "singular": "Situation matrimoniale"
+            },
+            "fr-CH": {
+                "singular": "Situation matrimoniale"
+            },
+            "fr-FR": {
+                "singular": "Situation matrimoniale"
+            },
+            "hr": {
+                "singular": "Bračni status"
+            },
+            "it": {
+                "singular": "MaritalStatus"
+            },
+            "it-CH": {
+                "singular": "MaritalStatus"
+            },
+            "it-IT": {
+                "singular": "Stato civile"
+            },
+            "nl": {
+                "singular": "Burgerlijke staat"
+            },
+            "nl-BE": {
+                "singular": "Burgerlijke staat"
+            },
+            "nl-NL": {
+                "singular": "Burgerlijke staat"
+            },
+            "no": {
+                "singular": "Sivilstand"
+            },
+            "pl": {
+                "singular": "Stan cywilny"
+            },
+            "pt": {
+                "singular": "Estado Civil"
+            },
+            "ru": {
+                "singular": "MaritalStatus"
+            },
+            "sv": {
+                "singular": "Civilstånd"
+            }
+        }
+    }
+}

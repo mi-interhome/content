@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.buttons.paymentLink",
+    "name": "paymentLink",
+    "path": "text-resourceswebccBooking/components/reservation/cancellation/modalCancellation/buttons/paymentLink",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/buttons/paymentLink",
+    "slug": "paymentLink",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "buttons",
+        "paymentLink"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.buttons.paymentLink",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zaplatit"
+            },
+            "da": {
+                "singular": "Betale"
+            },
+            "de": {
+                "singular": "Bezahlen"
+            },
+            "de-AT": {
+                "singular": "Bezahlen"
+            },
+            "de-CH": {
+                "singular": "Bezahlen"
+            },
+            "de-DE": {
+                "singular": "Bezahlen"
+            },
+            "en": {
+                "singular": "Pay"
+            },
+            "en-AU": {
+                "singular": "Pay"
+            },
+            "en-CA": {
+                "singular": "Pay"
+            },
+            "en-GB": {
+                "singular": "Pay"
+            },
+            "en-IE": {
+                "singular": "Pay"
+            },
+            "en-US": {
+                "singular": "Pay"
+            },
+            "es": {
+                "singular": "Pagar"
+            },
+            "fi": {
+                "singular": "Maksa"
+            },
+            "fi-EE": {
+                "singular": "Maksa"
+            },
+            "fi-FI": {
+                "singular": "Maksa"
+            },
+            "fr": {
+                "singular": "Payer"
+            },
+            "fr-BE": {
+                "singular": "Payer"
+            },
+            "fr-CA": {
+                "singular": "Payer"
+            },
+            "fr-CH": {
+                "singular": "Payer"
+            },
+            "fr-FR": {
+                "singular": "Payer"
+            },
+            "hr": {
+                "singular": "Plati"
+            },
+            "it": {
+                "singular": "Pagare"
+            },
+            "it-CH": {
+                "singular": "Pagare"
+            },
+            "it-IT": {
+                "singular": "Pagare"
+            },
+            "nl": {
+                "singular": "Betaal"
+            },
+            "nl-BE": {
+                "singular": "Betaal"
+            },
+            "nl-NL": {
+                "singular": "Betaal"
+            },
+            "no": {
+                "singular": "Betal"
+            },
+            "pl": {
+                "singular": "Zapłać"
+            },
+            "pt": {
+                "singular": "Pagar"
+            },
+            "ru": {
+                "singular": "Оплатить"
+            },
+            "sv": {
+                "singular": "Betala"
+            }
+        }
+    }
+}

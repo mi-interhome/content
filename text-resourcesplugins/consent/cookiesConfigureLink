@@ -1,0 +1,124 @@
+{
+    "id": "plugins.consent.cookiesConfigureLink",
+    "name": "cookiesConfigureLink",
+    "path": "text-resourcesplugins/consent/cookiesConfigureLink",
+    "folder": "text-resources",
+    "full_slug": "plugins/consent/cookiesConfigureLink",
+    "slug": "cookiesConfigureLink",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "plugins",
+        "consent",
+        "cookiesConfigureLink"
+    ],
+    "content": {
+        "key": "plugins.consent.cookiesConfigureLink",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nastavení"
+            },
+            "da": {
+                "singular": "Konfigurer"
+            },
+            "de": {
+                "singular": "Konfigurieren"
+            },
+            "de-AT": {
+                "singular": "Konfigurieren"
+            },
+            "de-CH": {
+                "singular": "Konfigurieren"
+            },
+            "de-DE": {
+                "singular": "Konfigurieren"
+            },
+            "en": {
+                "singular": "Configure"
+            },
+            "en-AU": {
+                "singular": "Configure"
+            },
+            "en-CA": {
+                "singular": "Configure"
+            },
+            "en-GB": {
+                "singular": "Configure"
+            },
+            "en-IE": {
+                "singular": "Configure"
+            },
+            "en-US": {
+                "singular": "Configure"
+            },
+            "es": {
+                "singular": "Configurar"
+            },
+            "fi": {
+                "singular": "Määritä"
+            },
+            "fi-EE": {
+                "singular": "Määritä"
+            },
+            "fi-FI": {
+                "singular": "Määritä"
+            },
+            "fr": {
+                "singular": "Paramétrer"
+            },
+            "fr-BE": {
+                "singular": "Paramétrer"
+            },
+            "fr-CA": {
+                "singular": "Paramétrer"
+            },
+            "fr-CH": {
+                "singular": "Paramétrer"
+            },
+            "fr-FR": {
+                "singular": "Paramétrer"
+            },
+            "hr": {
+                "singular": "Konfiguriraj"
+            },
+            "it": {
+                "singular": "Configura"
+            },
+            "it-CH": {
+                "singular": "Configura"
+            },
+            "it-IT": {
+                "singular": "Configura"
+            },
+            "nl": {
+                "singular": "Configureren "
+            },
+            "nl-BE": {
+                "singular": "Configureren "
+            },
+            "nl-NL": {
+                "singular": "Configureren "
+            },
+            "no": {
+                "singular": "Konfigurer"
+            },
+            "pl": {
+                "singular": "Skonfiguruj"
+            },
+            "pt": {
+                "singular": "Configurar"
+            },
+            "ru": {
+                "singular": "Настроить"
+            },
+            "sv": {
+                "singular": "Konfigurera"
+            }
+        }
+    }
+}

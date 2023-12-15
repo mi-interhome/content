@@ -1,0 +1,125 @@
+{
+    "id": "reservations.pages.precheckin.heading",
+    "name": "heading",
+    "path": "text-resourcesreservations/pages/precheckin/heading",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/precheckin/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "precheckin",
+        "heading"
+    ],
+    "content": {
+        "key": "reservations.pages.precheckin.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Předběžná registrace k ubytování \"Pre-Check-in\""
+            },
+            "da": {
+                "singular": "Forudindtjekning"
+            },
+            "de": {
+                "singular": "Vorab-Check-in"
+            },
+            "de-AT": {
+                "singular": "Vorab-Check-in"
+            },
+            "de-CH": {
+                "singular": "Vorab-Check-in"
+            },
+            "de-DE": {
+                "singular": "Vorab-Check-in"
+            },
+            "en": {
+                "singular": "Pre-check-in"
+            },
+            "en-AU": {
+                "singular": "Pre-check-in"
+            },
+            "en-CA": {
+                "singular": "Pre-check-in"
+            },
+            "en-GB": {
+                "singular": "Pre-check-in"
+            },
+            "en-IE": {
+                "singular": "Pre-check-in"
+            },
+            "en-US": {
+                "singular": "Pre-check-in"
+            },
+            "es": {
+                "singular": "Pre-check-in"
+            },
+            "fi": {
+                "singular": "Pre Check-In"
+            },
+            "fi-EE": {
+                "singular": "Pre Check-In"
+            },
+            "fi-FI": {
+                "singular": "Pre Check-In"
+            },
+            "fr": {
+                "singular": "Pré check-in"
+            },
+            "fr-BE": {
+                "singular": "Pré check-in"
+            },
+            "fr-CA": {
+                "singular": "Pré check-in"
+            },
+            "fr-CH": {
+                "singular": "Pré check-in"
+            },
+            "fr-FR": {
+                "singular": "Pré check-in"
+            },
+            "hr": {
+                "singular": "Pre-Check-in"
+            },
+            "it": {
+                "singular": "Pre- Check-in"
+            },
+            "it-CH": {
+                "singular": "Pre- Check-in"
+            },
+            "it-IT": {
+                "singular": "Pre- Check-in"
+            },
+            "nl": {
+                "singular": "Pre check-in"
+            },
+            "nl-BE": {
+                "singular": "Pre check-in"
+            },
+            "nl-NL": {
+                "singular": "Pre check-in"
+            },
+            "no": {
+                "singular": "Forhåndsinnsjekking"
+            },
+            "pl": {
+                "singular": "Pre-check-In"
+            },
+            "pt": {
+                "singular": "Pré-Check-in"
+            },
+            "ru": {
+                "singular": "Предварительная регистрация"
+            },
+            "sv": {
+                "singular": "Förhandsincheckning"
+            }
+        }
+    }
+}

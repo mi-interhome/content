@@ -1,0 +1,122 @@
+{
+    "id": "checkout.components.booking.customer.textCheckoutB2b",
+    "name": "textCheckoutB2b",
+    "path": "text-resourcescheckout/components/booking/customer/textCheckoutB2b",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/customer/textCheckoutB2b",
+    "slug": "textCheckoutB2b",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "customer",
+        "textCheckoutB2b"
+    ],
+    "content": {
+        "key": "checkout.components.booking.customer.textCheckoutB2b",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Jméno, adresu, e-mailovou adresu a telefonní číslo používáme podle čl. 6 písm. B) GDPR pro zasílání informací požadovaných tímto formulářem a ukládáme je pro účely uzavření smlouvy a na základě čl. 6 (1) (f) pro zasílání dalších informací o naší nabídce. Více informací o článku 13 GDPR najdete v našich {link}.\n"
+            },
+            "da": {
+                "singular": "Vi bruger navn, adresse, e-mail-adresse og telefonnummer i henhold til Art. 6 (b) GDPR med det formål at sende de anmodede oplysninger med denne formular og gemme dem med henblik på at indgå en kontrakt og, baseret på art. 6 (1) (f) til afsendelse af yderligere oplysninger om vores tilbud. Du finder flere oplysninger om art. 13 GDPR i vores {link}.\n"
+            },
+            "de": {
+                "singular": "Wir verwenden den Namen, die Anschrift, die E-Mail-Adresse und die Telefonnummer auf Grundlage von Art. 6 Abs. b) DSGVO zum Zweck der Zusendung der mit diesem Formular bestellten Informationen, speichern diese zum Zweck des Abschlusses und zur Abwicklung eines Vertrags und auf Grundlage von Art. 6 Abs.1 Buchst f) zur Zusendung weiterer Informationen zu unserem Angebot. Weitere Informationen nach Art. 13 DSGVO erhalten Sie in unserer {link}."
+            },
+            "de-AT": {
+                "singular": "Wir verwenden den Namen, die Anschrift, die E-Mail-Adresse und die Telefonnummer auf Grundlage von Art. 6 Abs. b) DSGVO zum Zweck der Zusendung der mit diesem Formular bestellten Informationen, speichern diese zum Zweck des Abschlusses und zur Abwicklung eines Vertrags und auf Grundlage von Art. 6 Abs.1 Buchst f) zur Zusendung weiterer Informationen zu unserem Angebot. Weitere Informationen nach Art. 13 DSGVO erhalten Sie in unserer {link}."
+            },
+            "de-CH": {
+                "singular": "Wir verwenden den Namen, die Anschrift, die E-Mail-Adresse und die Telefonnummer auf Grundlage von Art. 6 Abs. b) DSGVO zum Zweck der Zusendung der mit diesem Formular bestellten Informationen, speichern diese zum Zweck des Abschlusses und zur Abwicklung eines Vertrags und auf Grundlage von Art. 6 Abs.1 Buchst f) zur Zusendung weiterer Informationen zu unserem Angebot. Weitere Informationen nach Art. 13 DSGVO erhalten Sie in unserer {link}."
+            },
+            "de-DE": {
+                "singular": "Wir verwenden den Namen, die Anschrift, die E-Mail-Adresse und die Telefonnummer auf Grundlage von Art. 6 Abs. b) DSGVO zum Zweck der Zusendung der mit diesem Formular bestellten Informationen, speichern diese zum Zweck des Abschlusses und zur Abwicklung eines Vertrags und auf Grundlage von Art. 6 Abs.1 Buchst f) zur Zusendung weiterer Informationen zu unserem Angebot. Weitere Informationen nach Art. 13 DSGVO erhalten Sie in unserer {link}."
+            },
+            "en": {
+                "singular": "We use the name, address, e-mail address and telephone number according to Art. 6 (b) GDPR for the purpose of sending the information requested with this form and save it for the purpose of concluding a contract and, based on Art. 6 (1) (f) for sending further information about our offer. You will find more information relating to Art. 13 GDPR in our {link}."
+            },
+            "en-AU": {
+                "singular": "We use the name, address, e-mail address and telephone number according to Art. 6 (b) GDPR for the purpose of sending the information requested with this form and save it for the purpose of concluding a contract and, based on Art. 6 (1) (f) for sending further information about our offer. You will find more information relating to Art. 13 GDPR in our {link}."
+            },
+            "en-CA": {
+                "singular": "We use the name, address, e-mail address and telephone number according to Art. 6 (b) GDPR for the purpose of sending the information requested with this form and save it for the purpose of concluding a contract and, based on Art. 6 (1) (f) for sending further information about our offer. You will find more information relating to Art. 13 GDPR in our {link}."
+            },
+            "en-GB": {
+                "singular": "We use the name, address, e-mail address and telephone number according to Art. 6 (b) GDPR for the purpose of sending the information requested with this form and save it for the purpose of concluding a contract and, based on Art. 6 (1) (f) for sending further information about our offer. You will find more information relating to Art. 13 GDPR in our {link}."
+            },
+            "en-IE": {
+                "singular": "We use the name, address, e-mail address and telephone number according to Art. 6 (b) GDPR for the purpose of sending the information requested with this form and save it for the purpose of concluding a contract and, based on Art. 6 (1) (f) for sending further information about our offer. You will find more information relating to Art. 13 GDPR in our {link}."
+            },
+            "en-US": {
+                "singular": "We use the name, address, e-mail address and telephone number according to Art. 6 (b) GDPR for the purpose of sending the information requested with this form and save it for the purpose of concluding a contract and, based on Art. 6 (1) (f) for sending further information about our offer. You will find more information relating to Art. 13 GDPR in our {link}."
+            },
+            "es": {
+                "singular": "Utilizamos el nombre, la dirección, la dirección de correo electrónico y el número de teléfono de acuerdo con el art. 6 (b) GDPR con el propósito de enviar la información solicitada con este formulario y guardarla con el fin de concluir un contrato y, en base al art. 6 (1) (f) para enviar más información sobre nuestra oferta. Encontrará más información relacionada con el art. 13 GDPR en nuestra {link}.\n"
+            },
+            "fi": {
+                "singular": "Käytämme nimeä, osoitetta, sähköpostiosoitetta ja puhelinnumeroa Art 6 (b) GDPR mukaisesti tämän lomakkeen tietojen lähettämiseen ja tallennamme sen ainoastaan sopimuksen täydentämiseen sekä Art. 6 (1) (f) mukaisesti tulevien tarjouksiemme lähettämiseen. Löydät lisää tietoa koskien Art. 13 GDPR {link}.\n"
+            },
+            "fi-EE": {
+                "singular": "Käytämme nimeä, osoitetta, sähköpostiosoitetta ja puhelinnumeroa Art 6 (b) GDPR mukaisesti tämän lomakkeen tietojen lähettämiseen ja tallennamme sen ainoastaan sopimuksen täydentämiseen sekä Art. 6 (1) (f) mukaisesti tulevien tarjouksiemme lähettämiseen. Löydät lisää tietoa koskien Art. 13 GDPR {link}.\n"
+            },
+            "fi-FI": {
+                "singular": "Käytämme nimeä, osoitetta, sähköpostiosoitetta ja puhelinnumeroa Art 6 (b) GDPR mukaisesti tämän lomakkeen tietojen lähettämiseen ja tallennamme sen ainoastaan sopimuksen täydentämiseen sekä Art. 6 (1) (f) mukaisesti tulevien tarjouksiemme lähettämiseen. Löydät lisää tietoa koskien Art. 13 GDPR {link}.\n"
+            },
+            "fr": {
+                "singular": "Nous utilisons le nom, l'adresse, l'adresse e-mail et le numéro de téléphone conformément à l'art. 6 (b) du RGPD dans le but d'envoyer les informations demandées avec ce formulaire et de les sauvegarder dans le cadre de la conclusion d'un contrat et, sur la base de l'art. 6 (1) (f) pour l'envoi d'informations complémentaires sur notre offre. Vous trouverez plus d'informations sur l'art. 13 RGPD dans notre {link}."
+            },
+            "fr-BE": {
+                "singular": "Nous utilisons le nom, l'adresse, l'adresse e-mail et le numéro de téléphone conformément à l'art. 6 (b) du RGPD dans le but d'envoyer les informations demandées avec ce formulaire et de les sauvegarder dans le cadre de la conclusion d'un contrat et, sur la base de l'art. 6 (1) (f) pour l'envoi d'informations complémentaires sur notre offre. Vous trouverez plus d'informations sur l'art. 13 RGPD dans notre {link}."
+            },
+            "fr-CA": {
+                "singular": "Nous utilisons le nom, l'adresse, l'adresse e-mail et le numéro de téléphone conformément à l'art. 6 (b) du RGPD dans le but d'envoyer les informations demandées avec ce formulaire et de les sauvegarder dans le cadre de la conclusion d'un contrat et, sur la base de l'art. 6 (1) (f) pour l'envoi d'informations complémentaires sur notre offre. Vous trouverez plus d'informations sur l'art. 13 RGPD dans notre {link}."
+            },
+            "fr-CH": {
+                "singular": "Nous utilisons le nom, l'adresse, l'adresse e-mail et le numéro de téléphone conformément à l'art. 6 (b) du RGPD dans le but d'envoyer les informations demandées avec ce formulaire et de les sauvegarder dans le cadre de la conclusion d'un contrat et, sur la base de l'art. 6 (1) (f) pour l'envoi d'informations complémentaires sur notre offre. Vous trouverez plus d'informations sur l'art. 13 RGPD dans notre {link}."
+            },
+            "fr-FR": {
+                "singular": "Nous utilisons le nom, l'adresse, l'adresse e-mail et le numéro de téléphone conformément à l'art. 6 (b) du RGPD dans le but d'envoyer les informations demandées avec ce formulaire et de les sauvegarder dans le cadre de la conclusion d'un contrat et, sur la base de l'art. 6 (1) (f) pour l'envoi d'informations complémentaires sur notre offre. Vous trouverez plus d'informations sur l'art. 13 RGPD dans notre {link}."
+            },
+            "hr": {
+                "singular": "Ime, adresu, e-mail adresu i broj telefona koristi se u skladu s člankom 6 (b) GDPR, u svrhu slanja informacija zatraženih putem ovog obrasca i spremaju se u svrhu sklapanja ugovora te, temeljem članka 6 (1)(f) za eventualno buduće slanje informacija o našoj ponudi. Više informacija vezano za članak 13 GDPR možete pronaći na {link}.\n"
+            },
+            "it": {
+                "singular": "Utilizziamo nome, indirizzo, indirizzo e-mail e numero di telefono ai sensi dell'art. 6 (b) GDPR al fine di inviare le informazioni richieste tramite questo modulo e salvarle in relazione alla conclusione di un contratto e, sulla base dell'art. 6 (1) (f), per l'invio di ulteriori informazioni sulla nostra offerta. Troverai maggiori informazioni sull'art. 13 GDPR consultando la nostra {link}.\n"
+            },
+            "it-CH": {
+                "singular": "Utilizziamo nome, indirizzo, indirizzo e-mail e numero di telefono ai sensi dell'art. 6 (b) GDPR al fine di inviare le informazioni richieste tramite questo modulo e salvarle in relazione alla conclusione di un contratto e, sulla base dell'art. 6 (1) (f), per l'invio di ulteriori informazioni sulla nostra offerta. Troverai maggiori informazioni sull'art. 13 GDPR consultando la nostra {link}.\n"
+            },
+            "it-IT": {
+                "singular": "Utilizziamo nome, indirizzo, indirizzo e-mail e numero di telefono ai sensi dell'art. 6 (b) GDPR al fine di inviare le informazioni richieste tramite questo modulo e salvarle in relazione alla conclusione di un contratto e, sulla base dell'art. 6 (1) (f), per l'invio di ulteriori informazioni sulla nostra offerta. Troverai maggiori informazioni sull'art. 13 GDPR consultando la nostra {link}.\n"
+            },
+            "nl": {
+                "singular": "We gebruiken de naam, het adres, het e-mailadres en het telefoonnummer volgens Art. 6 (b) AVG. Dit met als doel de gevraagde informatie in dit formulier te verzenden en op te slaan voor het sluiten van een contract en, op basis van Art. 6 (1) (f), voor het verzenden van verdere informatie over ons aanbod. U vindt meer informatie over Art. 13 AVG in {link}."
+            },
+            "nl-BE": {
+                "singular": "We gebruiken de naam, het adres, het e-mailadres en het telefoonnummer volgens Art. 6 (b) AVG. Dit met als doel de gevraagde informatie in dit formulier te verzenden en op te slaan voor het sluiten van een contract en, op basis van Art. 6 (1) (f), voor het verzenden van verdere informatie over ons aanbod. U vindt meer informatie over Art. 13 AVG in {link}."
+            },
+            "nl-NL": {
+                "singular": "We gebruiken de naam, het adres, het e-mailadres en het telefoonnummer volgens Art. 6 (b) AVG. Dit met als doel de gevraagde informatie in dit formulier te verzenden en op te slaan voor het sluiten van een contract en, op basis van Art. 6 (1) (f), voor het verzenden van verdere informatie over ons aanbod. U vindt meer informatie over Art. 13 AVG in {link}."
+            },
+            "no": {
+                "singular": "Vi bruker navn, adresse, e-postadresse og telefonnummer i henhold til art. 6 (b) GDPR med det formål å sende den forespurte informasjonen med dette skjemaet og lagre den med det formål å inngå en kontrakt og, basert på art. 6 (1) (f) for å sende ytterligere informasjon om tilbudet vårt. Du finner mer informasjon om art. 13 GDPR i våre {link}.\n"
+            },
+            "pl": {},
+            "pt": {
+                "singular": "Utilizamos o nome, endereço, endereço de e-mail e número de telefone de acordo com o art. 6 (b) GDPR com a finalidade de enviar as informões solicitadas com este formulário e salvá-las para concluir um contrato e, com base no art. 6 (1) (f) para enviar mais informações sobre a nossa oferta. Você encontrará mais informações relacionadas ao art. 13 GDPR em nossa {link}.\n"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Vi använder namn, adress, e-postadress och telefonnummer enligt Art. 6 (b) GDPR i syfte att skicka den begärda informationen med detta formulär och spara den i syfte att ingå ett kontrakt och, baserat på art. 6 (1) (f) för att skicka mer information om vårt erbjudande. Mer information om Art. 13 GDPR i vår {link}.\n"
+            }
+        }
+    }
+}

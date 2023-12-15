@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.maritalStatus.m",
+    "name": "m",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/maritalStatus/m",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/maritalStatus/m",
+    "slug": "m",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "maritalStatus",
+        "m"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.maritalStatus.m",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "married"
+            },
+            "da": {
+                "singular": "married"
+            },
+            "de": {
+                "singular": "verheiratet"
+            },
+            "de-AT": {
+                "singular": "verheiratet"
+            },
+            "de-CH": {
+                "singular": "verheiratet"
+            },
+            "de-DE": {
+                "singular": "verheiratet"
+            },
+            "en": {
+                "singular": "married"
+            },
+            "en-AU": {
+                "singular": "married"
+            },
+            "en-CA": {
+                "singular": "married"
+            },
+            "en-GB": {
+                "singular": "married"
+            },
+            "en-IE": {
+                "singular": "married"
+            },
+            "en-US": {
+                "singular": "married"
+            },
+            "es": {
+                "singular": "married"
+            },
+            "fi": {
+                "singular": "married"
+            },
+            "fi-EE": {
+                "singular": "married"
+            },
+            "fi-FI": {
+                "singular": "married"
+            },
+            "fr": {
+                "singular": "marié(e)"
+            },
+            "fr-BE": {
+                "singular": "marié(e)"
+            },
+            "fr-CA": {
+                "singular": "marié(e)"
+            },
+            "fr-CH": {
+                "singular": "marié(e)"
+            },
+            "fr-FR": {
+                "singular": "marié(e)"
+            },
+            "hr": {
+                "singular": "married"
+            },
+            "it": {
+                "singular": "married"
+            },
+            "it-CH": {
+                "singular": "married"
+            },
+            "it-IT": {
+                "singular": "married"
+            },
+            "nl": {
+                "singular": "married"
+            },
+            "nl-BE": {
+                "singular": "married"
+            },
+            "nl-NL": {
+                "singular": "married"
+            },
+            "no": {
+                "singular": "married"
+            },
+            "pl": {
+                "singular": "married"
+            },
+            "pt": {
+                "singular": "married"
+            },
+            "ru": {
+                "singular": "married"
+            },
+            "sv": {
+                "singular": "married"
+            }
+        }
+    }
+}

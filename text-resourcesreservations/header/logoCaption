@@ -1,0 +1,124 @@
+{
+    "id": "reservations.header.logoCaption",
+    "name": "logoCaption",
+    "path": "text-resourcesreservations/header/logoCaption",
+    "folder": "text-resources",
+    "full_slug": "reservations/header/logoCaption",
+    "slug": "logoCaption",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "header",
+        "logoCaption"
+    ],
+    "content": {
+        "key": "reservations.header.logoCaption",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rekreační domy a apartmány"
+            },
+            "da": {
+                "singular": "Feriehuse og lejligheder"
+            },
+            "de": {
+                "singular": "Ferienhäuser \u0026 Wohnungen"
+            },
+            "de-AT": {
+                "singular": "Ferienhäuser \u0026 Wohnungen"
+            },
+            "de-CH": {
+                "singular": "Ferienhäuser \u0026 Wohnungen"
+            },
+            "de-DE": {
+                "singular": "Ferienhäuser \u0026 Wohnungen"
+            },
+            "en": {
+                "singular": "Holiday houses and apartments"
+            },
+            "en-AU": {
+                "singular": "Holiday houses and apartments"
+            },
+            "en-CA": {
+                "singular": "Holiday houses and apartments"
+            },
+            "en-GB": {
+                "singular": "Holiday houses and apartments"
+            },
+            "en-IE": {
+                "singular": "Holiday houses and apartments"
+            },
+            "en-US": {
+                "singular": "Vacation homes and apartments"
+            },
+            "es": {
+                "singular": "Alquileres Turísticos"
+            },
+            "fi": {
+                "singular": "Lomataloja ja -huoneistoja"
+            },
+            "fi-EE": {
+                "singular": "Lomataloja ja -huoneistoja"
+            },
+            "fi-FI": {
+                "singular": "Lomataloja ja -huoneistoja"
+            },
+            "fr": {
+                "singular": "Locations de vacances"
+            },
+            "fr-BE": {
+                "singular": "Locations de vacances"
+            },
+            "fr-CA": {
+                "singular": "Locations de vacances"
+            },
+            "fr-CH": {
+                "singular": "Locations de vacances"
+            },
+            "fr-FR": {
+                "singular": "Locations de vacances"
+            },
+            "hr": {
+                "singular": "Vile, kuće za odmor i apartmani "
+            },
+            "it": {
+                "singular": "Case Vacanza"
+            },
+            "it-CH": {
+                "singular": "Case Vacanza"
+            },
+            "it-IT": {
+                "singular": "Case Vacanza"
+            },
+            "nl": {
+                "singular": "Vakantiewoningen"
+            },
+            "nl-BE": {
+                "singular": "Vakantiewoningen"
+            },
+            "nl-NL": {
+                "singular": "Vakantiewoningen"
+            },
+            "no": {
+                "singular": "Feriehus og leiligheter"
+            },
+            "pl": {
+                "singular": "Domy i apartamenty wakacyjne "
+            },
+            "pt": {
+                "singular": "Aluguer de moradias de férias"
+            },
+            "ru": {
+                "singular": " Дома и апартаменты для отдыха "
+            },
+            "sv": {
+                "singular": "Semesterhus och lägenheter"
+            }
+        }
+    }
+}

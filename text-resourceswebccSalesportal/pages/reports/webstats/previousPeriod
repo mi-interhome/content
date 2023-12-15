@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.previousPeriod",
+    "name": "previousPeriod",
+    "path": "text-resourceswebccSalesportal/pages/reports/webstats/previousPeriod",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/previousPeriod",
+    "slug": "previousPeriod",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "previousPeriod"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.previousPeriod",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Předchozí období"
+            },
+            "da": {
+                "singular": "Forrige periode"
+            },
+            "de": {
+                "singular": "Vorheriger Zeitraum"
+            },
+            "de-AT": {
+                "singular": "Vorheriger Zeitraum"
+            },
+            "de-CH": {
+                "singular": "Vorheriger Zeitraum"
+            },
+            "de-DE": {
+                "singular": "Vorheriger Zeitraum"
+            },
+            "en": {
+                "singular": "Previous period"
+            },
+            "en-AU": {
+                "singular": "Previous period"
+            },
+            "en-CA": {
+                "singular": "Previous period"
+            },
+            "en-GB": {
+                "singular": "Previous period"
+            },
+            "en-IE": {
+                "singular": "Previous period"
+            },
+            "en-US": {
+                "singular": "Previous period"
+            },
+            "es": {
+                "singular": "Período anterior"
+            },
+            "fi": {
+                "singular": "Edellinen jakso"
+            },
+            "fi-EE": {
+                "singular": "Edellinen jakso"
+            },
+            "fi-FI": {
+                "singular": "Edellinen jakso"
+            },
+            "fr": {
+                "singular": "Période précédente"
+            },
+            "fr-BE": {
+                "singular": "Période précédente"
+            },
+            "fr-CA": {
+                "singular": "Période précédente"
+            },
+            "fr-CH": {
+                "singular": "Période précédente"
+            },
+            "fr-FR": {
+                "singular": "Période précédente"
+            },
+            "hr": {
+                "singular": "Prethodno razdoblje"
+            },
+            "it": {
+                "singular": "Periodo precedente"
+            },
+            "it-CH": {
+                "singular": "Periodo precedente"
+            },
+            "it-IT": {
+                "singular": "Periodo precedente"
+            },
+            "nl": {
+                "singular": "Vorige periode"
+            },
+            "nl-BE": {
+                "singular": "Vorige periode"
+            },
+            "nl-NL": {
+                "singular": "Vorige periode"
+            },
+            "no": {
+                "singular": "Forrige periode"
+            },
+            "pl": {
+                "singular": "Poprzedni okres"
+            },
+            "pt": {
+                "singular": "Período anterior"
+            },
+            "ru": {
+                "singular": "Предыдущий период"
+            },
+            "sv": {
+                "singular": "Föregående period"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.expectations.expectionsMet",
+    "name": "expectionsMet",
+    "path": "text-resourcesreservations/pages/review/expectations/expectionsMet",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/expectations/expectionsMet",
+    "slug": "expectionsMet",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "expectations",
+        "expectionsMet"
+    ],
+    "content": {
+        "key": "reservations.pages.review.expectations.expectionsMet",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odpovídalo zařízení inzerovanému popisu?"
+            },
+            "da": {
+                "singular": "Levede ejendommen op til reklamen?"
+            },
+            "de": {
+                "singular": "War die Unterkunft so, wie sie beworben wurde?"
+            },
+            "de-AT": {
+                "singular": "War die Unterkunft so, wie sie beworben wurde?"
+            },
+            "de-CH": {
+                "singular": "War die Unterkunft so, wie sie beworben wurde?"
+            },
+            "de-DE": {
+                "singular": "War die Unterkunft so, wie sie beworben wurde?"
+            },
+            "en": {
+                "singular": "Was the property as advertised?"
+            },
+            "en-AU": {
+                "singular": "Was the property as advertised?"
+            },
+            "en-CA": {
+                "singular": "Was the property as advertised?"
+            },
+            "en-GB": {
+                "singular": "Was the property as advertised?"
+            },
+            "en-IE": {
+                "singular": "Was the property as advertised?"
+            },
+            "en-US": {
+                "singular": "Was the property as advertised?"
+            },
+            "es": {
+                "singular": "¿Se correspondía la propiedad con lo anunciado?"
+            },
+            "fi": {
+                "singular": "Oliko kohde mainoksen mukainen?"
+            },
+            "fi-EE": {
+                "singular": "Oliko kohde kuvauksen mukainen?"
+            },
+            "fi-FI": {
+                "singular": "Oliko kohde mainoksen mukainen?"
+            },
+            "fr": {
+                "singular": "La location était-elle conforme à l'annonce ?"
+            },
+            "fr-BE": {
+                "singular": "La location était-elle conforme à l'annonce ?"
+            },
+            "fr-CA": {
+                "singular": "La location était-elle conforme à l'annonce ?"
+            },
+            "fr-CH": {
+                "singular": "La location était-elle conforme à l'annonce ?"
+            },
+            "fr-FR": {
+                "singular": "La location était-elle conforme à l'annonce ?"
+            },
+            "hr": {
+                "singular": "Je li opis objekta bio točan?"
+            },
+            "it": {
+                "singular": "La struttura corrispondeva alla descrizione fornita?"
+            },
+            "it-CH": {
+                "singular": "La struttura corrispondeva alla descrizione fornita?"
+            },
+            "it-IT": {
+                "singular": "La struttura corrispondeva alla descrizione fornita?"
+            },
+            "nl": {
+                "singular": "Kwam de woning overeen met de beschrijving?"
+            },
+            "nl-BE": {
+                "singular": "Kwam de woning overeen met de beschrijving?"
+            },
+            "nl-NL": {
+                "singular": "Kwam de woning overeen met de beschrijving?"
+            },
+            "no": {
+                "singular": "Var overnattingsstedet som annonsert?"
+            },
+            "pl": {
+                "singular": "Czy obiekt był zgodny z opisem?"
+            },
+            "pt": {
+                "singular": "A propriedade estava de acordo com o que foi anunciado?"
+            },
+            "ru": {
+                "singular": "Соответствовал ли объект своей рекламе?"
+            },
+            "sv": {
+                "singular": "Var verksamheten som i reklamen?"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.header.reports",
+    "name": "reports",
+    "path": "text-resourceswebccSalesportal/header/reports",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/reports",
+    "slug": "reports",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "reports"
+    ],
+    "content": {
+        "key": "webccSalesportal.header.reports",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Reporty"
+            },
+            "da": {
+                "singular": "Rapportering"
+            },
+            "de": {
+                "singular": "Berichte"
+            },
+            "de-AT": {
+                "singular": "Berichte"
+            },
+            "de-CH": {
+                "singular": "Berichte"
+            },
+            "de-DE": {
+                "singular": "Berichte"
+            },
+            "en": {
+                "singular": "Reporting"
+            },
+            "en-AU": {
+                "singular": "Reporting"
+            },
+            "en-CA": {
+                "singular": "Reporting"
+            },
+            "en-GB": {
+                "singular": "Reporting"
+            },
+            "en-IE": {
+                "singular": "Reporting"
+            },
+            "en-US": {
+                "singular": "Reporting"
+            },
+            "es": {
+                "singular": "Informes"
+            },
+            "fi": {
+                "singular": "Raportointi"
+            },
+            "fi-EE": {
+                "singular": "Raportointi"
+            },
+            "fi-FI": {
+                "singular": "Raportointi"
+            },
+            "fr": {
+                "singular": "Rapport"
+            },
+            "fr-BE": {
+                "singular": "Rapport"
+            },
+            "fr-CA": {
+                "singular": "Rapport"
+            },
+            "fr-CH": {
+                "singular": "Rapport"
+            },
+            "fr-FR": {
+                "singular": "Rapport"
+            },
+            "hr": {
+                "singular": "Izvješće"
+            },
+            "it": {
+                "singular": "Report"
+            },
+            "it-CH": {
+                "singular": "Report"
+            },
+            "it-IT": {
+                "singular": "Report"
+            },
+            "nl": {
+                "singular": "Rapportage"
+            },
+            "nl-BE": {
+                "singular": "Rapportage"
+            },
+            "nl-NL": {
+                "singular": "Rapportage"
+            },
+            "no": {
+                "singular": "rapportering"
+            },
+            "pl": {
+                "singular": "Raporty"
+            },
+            "pt": {
+                "singular": "Comunicando"
+            },
+            "ru": {
+                "singular": "Отчеты"
+            },
+            "sv": {
+                "singular": "rapportering"
+            }
+        }
+    }
+}

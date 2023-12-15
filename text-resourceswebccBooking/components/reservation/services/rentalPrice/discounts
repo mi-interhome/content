@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.services.rentalPrice.discounts",
+    "name": "discounts",
+    "path": "text-resourceswebccBooking/components/reservation/services/rentalPrice/discounts",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/rentalPrice/discounts",
+    "slug": "discounts",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "rentalPrice",
+        "discounts"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.rentalPrice.discounts",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "po odečtení všech slev"
+            },
+            "da": {
+                "singular": "fratrukket alle rabatter"
+            },
+            "de": {
+                "singular": "abzüglich aller Rabatte"
+            },
+            "de-AT": {
+                "singular": "abzüglich aller Rabatte"
+            },
+            "de-CH": {
+                "singular": "abzüglich aller Rabatte"
+            },
+            "de-DE": {
+                "singular": "abzüglich aller Rabatte"
+            },
+            "en": {
+                "singular": "less all discounts"
+            },
+            "en-AU": {
+                "singular": "less all discounts"
+            },
+            "en-CA": {
+                "singular": "less all discounts"
+            },
+            "en-GB": {
+                "singular": "less all discounts"
+            },
+            "en-IE": {
+                "singular": "less all discounts"
+            },
+            "en-US": {
+                "singular": "less all discounts"
+            },
+            "es": {
+                "singular": "menos todos los descuentos"
+            },
+            "fi": {
+                "singular": "vähennettynä kaikki alennukset"
+            },
+            "fi-EE": {
+                "singular": "vähennettynä kaikki alennukset"
+            },
+            "fi-FI": {
+                "singular": "vähennettynä kaikki alennukset"
+            },
+            "fr": {
+                "singular": "après réductions"
+            },
+            "fr-BE": {
+                "singular": "après réductions"
+            },
+            "fr-CA": {
+                "singular": "après réductions"
+            },
+            "fr-CH": {
+                "singular": "après réductions"
+            },
+            "fr-FR": {
+                "singular": "après réductions"
+            },
+            "hr": {
+                "singular": "umanjeno za sve popuste"
+            },
+            "it": {
+                "singular": "al netto degli sconti"
+            },
+            "it-CH": {
+                "singular": "al netto degli sconti"
+            },
+            "it-IT": {
+                "singular": "al netto degli sconti"
+            },
+            "nl": {
+                "singular": "min alle kortingen"
+            },
+            "nl-BE": {
+                "singular": "min alle kortingen"
+            },
+            "nl-NL": {
+                "singular": "min alle kortingen"
+            },
+            "no": {
+                "singular": "minus alle rabatter"
+            },
+            "pl": {
+                "singular": "po uwzględnieniu wszystkich rabatów"
+            },
+            "pt": {
+                "singular": "menos todos os descontos"
+            },
+            "ru": {
+                "singular": "за вычетом всех скидок"
+            },
+            "sv": {
+                "singular": "minus alla rabatter"
+            }
+        }
+    }
+}

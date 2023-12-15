@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.overview.precheckin.message",
+    "name": "message",
+    "path": "text-resourcesreservations/pages/overview/precheckin/message",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/overview/precheckin/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "overview",
+        "precheckin",
+        "message"
+    ],
+    "content": {
+        "key": "reservations.pages.overview.precheckin.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pro zajištění příjemného a bezproblémového začátku dovolené je nutné předem vyplnit formulář \"Pre-Check-in\""
+            },
+            "da": {
+                "singular": "For at sikre en afslappende start på din ferie er det vigtigt, at du udfylder formularen til indtjekning på forhånd"
+            },
+            "de": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren Vorab Check-in zu nutzen."
+            },
+            "de-AT": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren Vorab Check-in zu nutzen."
+            },
+            "de-CH": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren Vorab Check-in zu nutzen."
+            },
+            "de-DE": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren Vorab Check-in zu nutzen."
+            },
+            "en": {
+                "singular": "To make the arrival formalities quicker and more convenient for you, we kindly ask you to use our pre-check-in."
+            },
+            "en-AU": {
+                "singular": "To make the arrival formalities quicker and more convenient for you, we kindly ask you to use our pre-check-in."
+            },
+            "en-CA": {
+                "singular": "To make the arrival formalities quicker and more convenient for you, we kindly ask you to use our pre-check-in."
+            },
+            "en-GB": {
+                "singular": "To make the arrival formalities quicker and more convenient for you, we kindly ask you to use our pre-check-in."
+            },
+            "en-IE": {
+                "singular": "To make the arrival formalities quicker and more convenient for you, we kindly ask you to use our pre-check-in."
+            },
+            "en-US": {
+                "singular": "To make the arrival formalities quicker and more convenient for you, we kindly ask you to use our pre-check-in."
+            },
+            "es": {
+                "singular": "Para garantizar un inicio de sus vacaciones y su bono de viaje sin contratiempos, es esencial que rellene el formulario de Pre-Check-in con antelación."
+            },
+            "fi": {
+                "singular": "Taataksemme rentouttavan alun lomallesi, on tärkeää täyttää Pre Check-In lomake etukäteen."
+            },
+            "fi-EE": {
+                "singular": "Taataksemme rentouttavan alun lomallesi, on tärkeää täyttää Pre Check-In lomake etukäteen."
+            },
+            "fi-FI": {
+                "singular": "Taataksemme rentouttavan alun lomallesi, on tärkeää täyttää Pre Check-In lomake etukäteen."
+            },
+            "fr": {
+                "singular": "Afin de démarrer vos vacances en toute sérénité, il est indispensable de remplir le pré check-in."
+            },
+            "fr-BE": {
+                "singular": "Afin de démarrer vos vacances en toute sérénité, il est indispensable de remplir le pré check-in."
+            },
+            "fr-CA": {
+                "singular": "Afin de démarrer vos vacances en toute sérénité, il est indispensable de remplir le pré check-in."
+            },
+            "fr-CH": {
+                "singular": "Afin de démarrer vos vacances en toute sérénité, il est indispensable de remplir le pré check-in."
+            },
+            "fr-FR": {
+                "singular": "Afin de démarrer vos vacances en toute sérénité, il est indispensable de remplir le pré check-in."
+            },
+            "hr": {
+                "singular": "Za opušten početak odmora važno je unaprijed ispuniti Pre-Check-in obrazac."
+            },
+            "it": {
+                "singular": "Compilare il modulo di Pre- Check-in in anticipo è essenziale per iniziare la vacanza al meglio e senza preoccupazioni."
+            },
+            "it-CH": {
+                "singular": "Compilare il modulo di Pre- Check-in in anticipo è essenziale per iniziare la vacanza al meglio e senza preoccupazioni."
+            },
+            "it-IT": {
+                "singular": "Compilare il modulo di Pre- Check-in in anticipo è essenziale per iniziare la vacanza al meglio e senza preoccupazioni."
+            },
+            "nl": {
+                "singular": "Om u te verzekeren van een ontspannen begin van uw vakantie is het essentieel om vooraf het pre check-in formulier in te vullen"
+            },
+            "nl-BE": {
+                "singular": "Om u te verzekeren van een ontspannen begin van uw vakantie is het essentieel om vooraf het pre check-in formulier in te vullen"
+            },
+            "nl-NL": {
+                "singular": "Om u te verzekeren van een ontspannen begin van uw vakantie is het essentieel om vooraf het pre check-in formulier in te vullen"
+            },
+            "no": {
+                "singular": "For å sikre en avslappende start på ferien, er det viktig at du fyller ut forhåndsinnsjekkingsskjemaet på forhånd."
+            },
+            "pl": {
+                "singular": "Przed rozpoczęciem pobytu prosimy koniecznie wypełnić formularz Pre-Check-In"
+            },
+            "pt": {
+                "singular": "Para garantir um início de férias relaxante, é imprescindível preencher o formulário de Pré-Check-in com antecedência."
+            },
+            "ru": {
+                "singular": "Перед началом отпуска, необходимо заранее заполнить форму предварительной регистрации. "
+            },
+            "sv": {
+                "singular": "För att säkra en avslappnande start på din semester är det viktigt att du fyller i blanketten för förhandsincheckning före resan."
+            }
+        }
+    }
+}

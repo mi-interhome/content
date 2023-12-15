@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.pax.pax.babies",
+    "name": "babies",
+    "path": "text-resourcesprecheckin/components/pax/pax/babies",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/pax/pax/babies",
+    "slug": "babies",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "pax",
+        "pax",
+        "babies"
+    ],
+    "content": {
+        "key": "precheckin.components.pax.pax.babies",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "děti"
+            },
+            "da": {
+                "singular": "Børn"
+            },
+            "de": {
+                "singular": "Babys"
+            },
+            "de-AT": {
+                "singular": "Babys"
+            },
+            "de-CH": {
+                "singular": "Babies"
+            },
+            "de-DE": {
+                "singular": "Babys"
+            },
+            "en": {
+                "singular": "Babies"
+            },
+            "en-AU": {
+                "singular": "Babies"
+            },
+            "en-CA": {
+                "singular": "Babies"
+            },
+            "en-GB": {
+                "singular": "Babies"
+            },
+            "en-IE": {
+                "singular": "Babies"
+            },
+            "en-US": {
+                "singular": "Babies"
+            },
+            "es": {
+                "singular": "Bebés"
+            },
+            "fi": {
+                "singular": "Vauvat"
+            },
+            "fi-EE": {
+                "singular": "Vauvat"
+            },
+            "fi-FI": {
+                "singular": "Vauvat"
+            },
+            "fr": {
+                "singular": "Bébés"
+            },
+            "fr-BE": {
+                "singular": "Bébés"
+            },
+            "fr-CA": {
+                "singular": "Bébés"
+            },
+            "fr-CH": {
+                "singular": "Bébés"
+            },
+            "fr-FR": {
+                "singular": "Bébés"
+            },
+            "hr": {
+                "singular": "Bebe"
+            },
+            "it": {
+                "singular": "Infanti"
+            },
+            "it-CH": {
+                "singular": "Infanti"
+            },
+            "it-IT": {
+                "singular": "Infanti"
+            },
+            "nl": {
+                "singular": "Baby's"
+            },
+            "nl-BE": {
+                "singular": "Baby's"
+            },
+            "nl-NL": {
+                "singular": "Baby's"
+            },
+            "no": {
+                "singular": "Barn"
+            },
+            "pl": {
+                "singular": "Niemowlęta"
+            },
+            "pt": {
+                "singular": "Bebês"
+            },
+            "ru": {
+                "singular": "Младенцы"
+            },
+            "sv": {
+                "singular": "Barn"
+            }
+        }
+    }
+}

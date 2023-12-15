@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.customerCodes.remove",
+    "name": "remove",
+    "path": "text-resourcescheckout/components/booking/customerCodes/remove",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/customerCodes/remove",
+    "slug": "remove",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "customerCodes",
+        "remove"
+    ],
+    "content": {
+        "key": "checkout.components.booking.customerCodes.remove",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "vymazat"
+            },
+            "da": {
+                "singular": "Slet"
+            },
+            "de": {
+                "singular": "Löschen"
+            },
+            "de-AT": {
+                "singular": "Löschen"
+            },
+            "de-CH": {
+                "singular": "Löschen"
+            },
+            "de-DE": {
+                "singular": "Löschen"
+            },
+            "en": {
+                "singular": "Clear"
+            },
+            "en-AU": {
+                "singular": "Clear"
+            },
+            "en-CA": {
+                "singular": "Clear"
+            },
+            "en-GB": {
+                "singular": "Clear"
+            },
+            "en-IE": {
+                "singular": "Clear"
+            },
+            "en-US": {
+                "singular": "Clear"
+            },
+            "es": {
+                "singular": "eliminar"
+            },
+            "fi": {
+                "singular": "poista"
+            },
+            "fi-EE": {
+                "singular": "Poista"
+            },
+            "fi-FI": {
+                "singular": "poista"
+            },
+            "fr": {
+                "singular": "Effacer"
+            },
+            "fr-BE": {
+                "singular": "Effacer"
+            },
+            "fr-CA": {
+                "singular": "Effacer"
+            },
+            "fr-CH": {
+                "singular": "Effacer"
+            },
+            "fr-FR": {
+                "singular": "Effacer"
+            },
+            "hr": {
+                "singular": "obriši"
+            },
+            "it": {
+                "singular": "Elimina"
+            },
+            "it-CH": {
+                "singular": "Elimina"
+            },
+            "it-IT": {
+                "singular": "Elimina"
+            },
+            "nl": {
+                "singular": "Verwijderen"
+            },
+            "nl-BE": {
+                "singular": "Verwijderen"
+            },
+            "nl-NL": {
+                "singular": "Verwijderen"
+            },
+            "no": {
+                "singular": "slett"
+            },
+            "pl": {
+                "singular": "Wyczyść"
+            },
+            "pt": {
+                "singular": "eliminar"
+            },
+            "ru": {
+                "singular": "удалить"
+            },
+            "sv": {
+                "singular": "Radera"
+            }
+        }
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "id": "www.components.views.Content.Catalog.form.adsFrom",
+    "name": "adsFrom",
+    "path": "text-resourceswww/components/views/Content/Catalog/form/adsFrom",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/Catalog/form/adsFrom",
+    "slug": "adsFrom",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "Catalog",
+        "form",
+        "adsFrom"
+    ],
+    "content": {
+        "key": "www.components.views.Content.Catalog.form.adsFrom",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Ich möchte gezielt von {company} zu bestimmten Urlaubsthemen beraten und informiert werden."
+            },
+            "de-AT": {
+                "singular": "Ich möchte gezielt von {company} zu bestimmten Urlaubsthemen beraten und informiert werden."
+            },
+            "de-CH": {
+                "singular": "Ich möchte von {company} gezielt zu bestimmten Ferienthemen beraten und informiert werden."
+            },
+            "de-DE": {
+                "singular": "Ich möchte von {company} gezielt zu bestimmten Urlaubsthemen beraten und informiert werden."
+            },
+            "en": {
+                "singular": "I would like to be advised and informed by {company} on specific holiday topics"
+            },
+            "en-AU": {
+                "singular": "I would like to be advised and informed by {company} on specific holiday topics"
+            },
+            "en-CA": {
+                "singular": "I would like to be advised and informed by {company} on specific holiday topics"
+            },
+            "en-GB": {
+                "singular": "I would like to be advised and informed by {company} on specific holiday topics"
+            },
+            "en-IE": {
+                "singular": "I would like to be advised and informed by {company} on specific holiday topics"
+            },
+            "en-US": {
+                "singular": "I would like to be advised and informed by {company} on specific holiday topics"
+            },
+            "es": {
+                "singular": "Me gustaría recibir información sobre específicos tipos de vacaciones."
+            },
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {
+                "singular": "Je souhaite être informé par {company} sur des destinations de vacances spécifiques."
+            },
+            "fr-CA": {},
+            "fr-CH": {
+                "singular": "Je souhaite être informé par {company} sur des destinations de vacances spécifiques."
+            },
+            "fr-FR": {
+                "singular": "Je souhaite être informé par {company} sur des destinations de vacances spécifiques."
+            },
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {
+                "singular": "Desidero ricevere informazioni da {company} riguardo a determinate tipologie di vacanza."
+            },
+            "nl": {},
+            "nl-BE": {
+                "singular": "Ik zou graag door {company} worden geadviseerd en geïnformeerd over specifieke vakantiethema's"
+            },
+            "nl-NL": {
+                "singular": "Ik zou graag door {company} worden geadviseerd en geïnformeerd over specifieke vakantiethema's"
+            },
+            "no": {},
+            "pl": {
+                "singular": "Tak, chcę otrzymywać informacje o aktualnościach i ofertach specjalnych"
+            },
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

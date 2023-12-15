@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.InfoWindowLegacy.objects",
+    "name": "objects",
+    "path": "text-resourceswww/components/views/search/InfoWindowLegacy/objects",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/InfoWindowLegacy/objects",
+    "slug": "objects",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "InfoWindowLegacy",
+        "objects"
+    ],
+    "content": {
+        "key": "www.components.views.search.InfoWindowLegacy.objects",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Počet nabídek: {count}"
+            },
+            "da": {
+                "singular": "{count} tilbud"
+            },
+            "de": {
+                "singular": "{count} Angebote"
+            },
+            "de-AT": {
+                "singular": "{count} Angebote"
+            },
+            "de-CH": {
+                "singular": "{count} Angebote"
+            },
+            "de-DE": {
+                "singular": "{count} Angebote"
+            },
+            "en": {
+                "singular": "{count} offers"
+            },
+            "en-AU": {
+                "singular": "{count} offers"
+            },
+            "en-CA": {
+                "singular": "{count} offers"
+            },
+            "en-GB": {
+                "singular": "{count} offers"
+            },
+            "en-IE": {
+                "singular": "{count} offers"
+            },
+            "en-US": {
+                "singular": "{count} offers"
+            },
+            "es": {
+                "singular": "{count} ofertas"
+            },
+            "fi": {
+                "singular": "{count} majoituskohdetta"
+            },
+            "fi-EE": {
+                "singular": "{count} majoituskohdetta"
+            },
+            "fi-FI": {
+                "singular": "{count} majoituskohdetta"
+            },
+            "fr": {
+                "singular": "{count} offres"
+            },
+            "fr-BE": {
+                "singular": "{count} offres"
+            },
+            "fr-CA": {
+                "singular": "{count} offres"
+            },
+            "fr-CH": {
+                "singular": "{count} offres"
+            },
+            "fr-FR": {
+                "singular": "{count} offres"
+            },
+            "hr": {
+                "singular": "{count} ponuda"
+            },
+            "it": {
+                "singular": "{count} risultati"
+            },
+            "it-CH": {
+                "singular": "{count} risultati"
+            },
+            "it-IT": {
+                "singular": "{count} risultati"
+            },
+            "nl": {
+                "singular": "{count} accommodaties"
+            },
+            "nl-BE": {
+                "singular": "{count} accommodaties"
+            },
+            "nl-NL": {
+                "singular": "{count} accommodaties"
+            },
+            "no": {
+                "singular": "{count} tilby"
+            },
+            "pl": {
+                "singular": " {count} ofert"
+            },
+            "pt": {
+                "singular": "{count} ofertas"
+            },
+            "ru": {
+                "singular": "{count} предложений"
+            },
+            "sv": {
+                "singular": "{count} erbjudanden"
+            }
+        }
+    }
+}

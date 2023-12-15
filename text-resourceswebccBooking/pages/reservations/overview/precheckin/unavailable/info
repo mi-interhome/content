@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.pages.reservations.overview.precheckin.unavailable.info",
+    "name": "info",
+    "path": "text-resourceswebccBooking/pages/reservations/overview/precheckin/unavailable/info",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/precheckin/unavailable/info",
+    "slug": "info",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "precheckin",
+        "unavailable",
+        "info"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.precheckin.unavailable.info",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potřebujeme další informace, abychom mohli připravit Váš příjezd."
+            },
+            "da": {
+                "singular": "For at forberede din ankomst har vi brug for yderligere information."
+            },
+            "de": {
+                "singular": "Um Ihre Ankunft vorzubereiten, benötigen wir weitere Informationen."
+            },
+            "de-AT": {
+                "singular": "Um Ihre Ankunft vorzubereiten, benötigen wir weitere Informationen."
+            },
+            "de-CH": {
+                "singular": "Um Ihre Ankunft vorzubereiten, benötigen wir weitere Informationen."
+            },
+            "de-DE": {
+                "singular": "Um Ihre Ankunft vorzubereiten, benötigen wir weitere Informationen."
+            },
+            "en": {
+                "singular": "In order to prepare your arrival, we need additional information."
+            },
+            "en-AU": {
+                "singular": "In order to prepare your arrival, we need additional information."
+            },
+            "en-CA": {
+                "singular": "In order to prepare your arrival, we need additional information."
+            },
+            "en-GB": {
+                "singular": "In order to prepare your arrival, we need additional information."
+            },
+            "en-IE": {
+                "singular": "In order to prepare your arrival, we need additional information."
+            },
+            "en-US": {
+                "singular": "In order to prepare your arrival, we need additional information."
+            },
+            "es": {
+                "singular": "Para preparar su llegada, necesitamos información adicional."
+            },
+            "fi": {
+                "singular": "Tarvitsemme lisätietoja saapumistasi varten."
+            },
+            "fi-EE": {
+                "singular": "Tarvitsemme lisätietoja saapumistasi varten."
+            },
+            "fi-FI": {
+                "singular": "Tarvitsemme lisätietoja saapumistasi varten."
+            },
+            "fr": {
+                "singular": "Afin de préparer votre arrivée, nous avons besoin d'informations complémentaires"
+            },
+            "fr-BE": {
+                "singular": "Afin de préparer votre arrivée, nous avons besoin d'informations complémentaires"
+            },
+            "fr-CA": {
+                "singular": "Afin de préparer votre arrivée, nous avons besoin d'informations complémentaires"
+            },
+            "fr-CH": {
+                "singular": "Afin de préparer votre arrivée, nous avons besoin d'informations complémentaires"
+            },
+            "fr-FR": {
+                "singular": "Afin de préparer votre arrivée, nous avons besoin d'informations complémentaires"
+            },
+            "hr": {
+                "singular": "Kako bi sve bilo spremno za Vaš dolazak, potrebne su nam dodatne informacije."
+            },
+            "it": {
+                "singular": "Per preparare il tuo arrivo, abbiamo bisogno di ulteriori informazioni."
+            },
+            "it-CH": {
+                "singular": "Per preparare il tuo arrivo, abbiamo bisogno di ulteriori informazioni."
+            },
+            "it-IT": {
+                "singular": "Per preparare il tuo arrivo, abbiamo bisogno di ulteriori informazioni."
+            },
+            "nl": {
+                "singular": "Om uw aankomst voor te kunnen bereiden, hebben wij aanvullende informatie nodig."
+            },
+            "nl-BE": {
+                "singular": "Om uw aankomst voor te kunnen bereiden, hebben wij aanvullende informatie nodig."
+            },
+            "nl-NL": {
+                "singular": "Om uw aankomst voor te kunnen bereiden, hebben wij aanvullende informatie nodig."
+            },
+            "no": {
+                "singular": "For å forberede din ankomst trenger vi ytterligere informasjon."
+            },
+            "pl": {
+                "singular": "W związku ze zbliżającym się Państwa pobytem wymagane jest podanie dodatkowych informacji."
+            },
+            "pt": {
+                "singular": "Para preparar a sua chegada, necessitamos de informações adicionais."
+            },
+            "ru": {},
+            "sv": {
+                "singular": "För att förbereda din ankomst behöver vi ytterligare information."
+            }
+        }
+    }
+}

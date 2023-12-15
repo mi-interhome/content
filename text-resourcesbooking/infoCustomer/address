@@ -1,0 +1,124 @@
+{
+    "id": "booking.infoCustomer.address",
+    "name": "address",
+    "path": "text-resourcesbooking/infoCustomer/address",
+    "folder": "text-resources",
+    "full_slug": "booking/infoCustomer/address",
+    "slug": "address",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "infoCustomer",
+        "address"
+    ],
+    "content": {
+        "key": "booking.infoCustomer.address",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Adresa"
+            },
+            "da": {
+                "singular": "Adresse"
+            },
+            "de": {
+                "singular": "Anschrift"
+            },
+            "de-AT": {
+                "singular": "Anschrift"
+            },
+            "de-CH": {
+                "singular": "Anschrift"
+            },
+            "de-DE": {
+                "singular": "Anschrift"
+            },
+            "en": {
+                "singular": "Address"
+            },
+            "en-AU": {
+                "singular": "Address"
+            },
+            "en-CA": {
+                "singular": "Address"
+            },
+            "en-GB": {
+                "singular": "Address"
+            },
+            "en-IE": {
+                "singular": "Address"
+            },
+            "en-US": {
+                "singular": "Address"
+            },
+            "es": {
+                "singular": "Dirección"
+            },
+            "fi": {
+                "singular": "Osoite"
+            },
+            "fi-EE": {
+                "singular": "Osoite"
+            },
+            "fi-FI": {
+                "singular": "Osoite"
+            },
+            "fr": {
+                "singular": "Adresse"
+            },
+            "fr-BE": {
+                "singular": "Adresse"
+            },
+            "fr-CA": {
+                "singular": "Adresse"
+            },
+            "fr-CH": {
+                "singular": "Adresse"
+            },
+            "fr-FR": {
+                "singular": "Adresse"
+            },
+            "hr": {
+                "singular": "Adresa"
+            },
+            "it": {
+                "singular": "Indirizzo"
+            },
+            "it-CH": {
+                "singular": "Indirizzo"
+            },
+            "it-IT": {
+                "singular": "Indirizzo"
+            },
+            "nl": {
+                "singular": "Adres"
+            },
+            "nl-BE": {
+                "singular": "Adres"
+            },
+            "nl-NL": {
+                "singular": "Adres"
+            },
+            "no": {
+                "singular": "Adresse"
+            },
+            "pl": {
+                "singular": "Dane adresowe"
+            },
+            "pt": {
+                "singular": "Morada"
+            },
+            "ru": {
+                "singular": "Адрес"
+            },
+            "sv": {
+                "singular": "Adress"
+            }
+        }
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "id": "travelguide.header.teaserOffers.additionalOffers",
+    "name": "additionalOffers",
+    "path": "text-resourcestravelguide/header/teaserOffers/additionalOffers",
+    "folder": "text-resources",
+    "full_slug": "travelguide/header/teaserOffers/additionalOffers",
+    "slug": "additionalOffers",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "header",
+        "teaserOffers",
+        "additionalOffers"
+    ],
+    "content": {
+        "key": "travelguide.header.teaserOffers.additionalOffers",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další nabídky"
+            },
+            "da": {
+                "singular": "Yderligere tilbud"
+            },
+            "de": {
+                "singular": "Weitere Angebote"
+            },
+            "de-AT": {
+                "singular": "Weitere Angebote"
+            },
+            "de-CH": {
+                "singular": "Weitere Angebote"
+            },
+            "de-DE": {
+                "singular": "Weitere Angebote"
+            },
+            "en": {
+                "singular": "Additional Offers"
+            },
+            "en-AU": {
+                "singular": "Additional Offers"
+            },
+            "en-CA": {
+                "singular": "Additional Offers"
+            },
+            "en-GB": {
+                "singular": "Additional Offers"
+            },
+            "en-IE": {
+                "singular": "Additional Offers"
+            },
+            "en-US": {
+                "singular": "Additional Offers"
+            },
+            "es": {
+                "singular": "Ofertas adicionales"
+            },
+            "fi": {
+                "singular": "Muut tarjoukset"
+            },
+            "fi-EE": {
+                "singular": "Muut tarjoukset"
+            },
+            "fi-FI": {
+                "singular": "Muut tarjoukset"
+            },
+            "fr": {
+                "singular": "Autres promotions"
+            },
+            "fr-BE": {
+                "singular": "Autres promotions"
+            },
+            "fr-CA": {
+                "singular": "Autres promotions"
+            },
+            "fr-CH": {
+                "singular": "Autres promotions"
+            },
+            "fr-FR": {
+                "singular": "Autres promotions"
+            },
+            "hr": {
+                "singular": "Dodatne ponude"
+            },
+            "it": {
+                "singular": "Altre offerte"
+            },
+            "it-CH": {
+                "singular": "Altre offerte"
+            },
+            "it-IT": {
+                "singular": "Altre offerte"
+            },
+            "nl": {
+                "singular": "Extra aanbiedingen"
+            },
+            "nl-BE": {
+                "singular": "Extra aanbiedingen"
+            },
+            "nl-NL": {
+                "singular": "Extra aanbiedingen"
+            },
+            "no": {
+                "singular": "Ytterligere tilbud"
+            },
+            "pl": {
+                "singular": "Dodatkowe oferty"
+            },
+            "pt": {
+                "singular": "Ofertas adicionais"
+            },
+            "ru": {
+                "singular": "Ещё предложения"
+            },
+            "sv": {
+                "singular": "Ytterligare erbjudanden"
+            }
+        }
+    }
+}

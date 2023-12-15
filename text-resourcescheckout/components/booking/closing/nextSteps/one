@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.closing.nextSteps.one",
+    "name": "one",
+    "path": "text-resourcescheckout/components/booking/closing/nextSteps/one",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/closing/nextSteps/one",
+    "slug": "one",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "closing",
+        "nextSteps",
+        "one"
+    ],
+    "content": {
+        "key": "checkout.components.booking.closing.nextSteps.one",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potvrzení obdržíte brzy e-mailem."
+            },
+            "da": {
+                "singular": "Du vil snart få din bekræftelse via email."
+            },
+            "de": {
+                "singular": "Sie erhalten demnächst Ihre Buchungsbestätigung per E-Mail."
+            },
+            "de-AT": {
+                "singular": "Sie erhalten demnächst Ihre Buchungsbestätigung per E-Mail."
+            },
+            "de-CH": {
+                "singular": "Sie erhalten demnächst Ihre Buchungsbestätigung per E-Mail."
+            },
+            "de-DE": {
+                "singular": "Sie erhalten demnächst Ihre Buchungsbestätigung per E-Mail."
+            },
+            "en": {
+                "singular": "You will receive your booking confirmation via email shortly. "
+            },
+            "en-AU": {
+                "singular": "You will receive your booking confirmation via email shortly. "
+            },
+            "en-CA": {
+                "singular": "You will receive your booking confirmation via email shortly. "
+            },
+            "en-GB": {
+                "singular": "You will receive your booking confirmation via email shortly. "
+            },
+            "en-IE": {
+                "singular": "You will receive your booking confirmation via email shortly. "
+            },
+            "en-US": {
+                "singular": "You will receive your booking confirmation via email shortly. "
+            },
+            "es": {
+                "singular": "Muy pronto recibirá su confirmación vía e-mail"
+            },
+            "fi": {
+                "singular": "Saat pian varausvahvistuksen sähköpostiisi."
+            },
+            "fi-EE": {
+                "singular": "Saat pian varausvahvistuksen sähköpostiisi."
+            },
+            "fi-FI": {
+                "singular": "Saat pian varausvahvistuksen sähköpostiisi."
+            },
+            "fr": {
+                "singular": "Vous recevrez une confirmation par email rapidement."
+            },
+            "fr-BE": {
+                "singular": "Vous recevrez une confirmation par email rapidement."
+            },
+            "fr-CA": {
+                "singular": "Vous recevrez une confirmation par email rapidement."
+            },
+            "fr-CH": {
+                "singular": "Vous recevrez une confirmation par eMail rapidement."
+            },
+            "fr-FR": {
+                "singular": "Vous recevrez une confirmation par email rapidement."
+            },
+            "hr": {
+                "singular": "Uskoro ćete primiti potvrdu na Vašu e-mail adresu."
+            },
+            "it": {
+                "singular": "Riceverai a breve la conferma di prenotazione tramite eMail."
+            },
+            "it-CH": {
+                "singular": "Riceverai a breve la conferma di prenotazione tramite eMail."
+            },
+            "it-IT": {
+                "singular": "Riceverai a breve la conferma di prenotazione tramite eMail."
+            },
+            "nl": {
+                "singular": "U zult uw bevestiging spoeding per e-mail ontvangen."
+            },
+            "nl-BE": {
+                "singular": "U zult uw bevestiging spoeding per e-mail ontvangen."
+            },
+            "nl-NL": {
+                "singular": "U zult uw bevestiging spoeding per e-mail ontvangen."
+            },
+            "no": {
+                "singular": "Du vil snart motta din bekreftelse via e-post."
+            },
+            "pl": {
+                "singular": "Wkrótce otrzymają Państwo potwierdzenie rezerwacji na adres mailowy. "
+            },
+            "pt": {
+                "singular": "Irá receber a sua confirmação via e-mail em breve"
+            },
+            "ru": {
+                "singular": "В ближайшее время Вы получите подтверждение по электронной почте."
+            },
+            "sv": {
+                "singular": "Du kommer snart att få din bekräftelse via e-post."
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.pax.message",
+    "name": "message",
+    "path": "text-resourceswebccBooking/pages/reservations/overview/pax/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/pax/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "pax",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.pax.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zde můžete změnit počet cestujících."
+            },
+            "da": {
+                "singular": "Her kan du ændre antallet af gæster."
+            },
+            "de": {
+                "singular": "Hier können Sie die Anzahl der Reisenden ändern."
+            },
+            "de-AT": {
+                "singular": "Hier können Sie die Anzahl der Reisenden ändern."
+            },
+            "de-CH": {
+                "singular": "Hier können Sie die Anzahl der Reisenden ändern."
+            },
+            "de-DE": {
+                "singular": "Hier können Sie die Anzahl der Reisenden ändern."
+            },
+            "en": {
+                "singular": "Here you can change the number of travellers."
+            },
+            "en-AU": {
+                "singular": "Here you can change the number of travellers."
+            },
+            "en-CA": {
+                "singular": "Here you can change the number of travellers."
+            },
+            "en-GB": {
+                "singular": "Here you can change the number of travellers."
+            },
+            "en-IE": {
+                "singular": "Here you can change the number of travellers."
+            },
+            "en-US": {
+                "singular": "Here you can change the number of travellers."
+            },
+            "es": {
+                "singular": "Aquí puedes cambiar el número de viajeros."
+            },
+            "fi": {
+                "singular": "Täällä voit muuttaa matkustajien määrää"
+            },
+            "fi-EE": {
+                "singular": "Täällä voit muuttaa matkustajien määrää"
+            },
+            "fi-FI": {
+                "singular": "Täällä voit muuttaa matkustajien määrää"
+            },
+            "fr": {
+                "singular": "Ici vous pouvez modifier le nombre de personnes."
+            },
+            "fr-BE": {
+                "singular": "Ici vous pouvez modifier le nombre de personnes."
+            },
+            "fr-CA": {
+                "singular": "Ici vous pouvez modifier le nombre de personnes."
+            },
+            "fr-CH": {
+                "singular": "Ici vous pouvez modifier le nombre de personnes."
+            },
+            "fr-FR": {
+                "singular": "Ici vous pouvez modifier le nombre de personnes."
+            },
+            "hr": {
+                "singular": "Ovdje možete promijeniti broj putnika."
+            },
+            "it": {
+                "singular": "Qui è possibile modificare il numero di ospiti"
+            },
+            "it-CH": {
+                "singular": "Qui è possibile modificare il numero di ospiti"
+            },
+            "it-IT": {
+                "singular": "Qui è possibile modificare il numero di ospiti"
+            },
+            "nl": {
+                "singular": "Hier kunt u het aantal reizigers wijzigen."
+            },
+            "nl-BE": {
+                "singular": "Hier kunt u het aantal reizigers wijzigen."
+            },
+            "nl-NL": {
+                "singular": "Hier kunt u het aantal reizigers wijzigen."
+            },
+            "no": {
+                "singular": "Her kan du endre antall reisende."
+            },
+            "pl": {
+                "singular": "Tu można zmienić liczbę osób w rezerwacji"
+            },
+            "pt": {
+                "singular": "Aqui pode alterar o número de viajantes."
+            },
+            "ru": {
+                "singular": "Здесь Вы можете изменить количетво туристов"
+            },
+            "sv": {
+                "singular": "Här kan du ändra antalet resande"
+            }
+        }
+    }
+}

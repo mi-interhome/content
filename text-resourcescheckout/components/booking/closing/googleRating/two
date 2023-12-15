@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.closing.googleRating.two",
+    "name": "two",
+    "path": "text-resourcescheckout/components/booking/closing/googleRating/two",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/closing/googleRating/two",
+    "slug": "two",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "closing",
+        "googleRating",
+        "two"
+    ],
+    "content": {
+        "key": "checkout.components.booking.closing.googleRating.two",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Můžete prosím odeslat {link}. Děkujeme :-)"
+            },
+            "da": {
+                "singular": "Du er velkommen til at indsende en bedømmelse {link}. Mange tak :-)"
+            },
+            "de": {
+                "singular": "Sie können dazu gerne eine {link} abgeben. Vielen Dank :-)"
+            },
+            "de-AT": {
+                "singular": "Sie können dazu gerne eine {link} abgeben. Vielen Dank :-)"
+            },
+            "de-CH": {
+                "singular": "Sie können dazu gerne eine {link} abgeben. Vielen Dank :-)"
+            },
+            "de-DE": {
+                "singular": "Sie können dazu gerne eine {link} abgeben. Vielen Dank :-)"
+            },
+            "en": {
+                "singular": "You are welcome to submit a {link}. Thank you :-)"
+            },
+            "en-AU": {
+                "singular": "You are welcome to submit a {link}. Thank you :-)"
+            },
+            "en-CA": {
+                "singular": "You are welcome to submit a {link}. Thank you :-)"
+            },
+            "en-GB": {
+                "singular": "You are welcome to submit a {link}. Thank you :-)"
+            },
+            "en-IE": {
+                "singular": "You are welcome to submit a {link}. Thank you :-)"
+            },
+            "en-US": {
+                "singular": "You are welcome to submit a {link}. Thank you :-)"
+            },
+            "es": {
+                "singular": "Le invitamos a enviar una {link}. Gracias :-)"
+            },
+            "fi": {
+                "singular": "Olet lähettämässä arvion {link}. Kiitos :-)"
+            },
+            "fi-EE": {
+                "singular": "Olet lähettämässä arvion {link}. Kiitos :-)"
+            },
+            "fi-FI": {
+                "singular": "Olet lähettämässä arvion {link}. Kiitos :-)"
+            },
+            "fr": {
+                "singular": "Merci de bien vouloir nous faire parvenir votre {link} :-)"
+            },
+            "fr-BE": {
+                "singular": "Merci de bien vouloir nous faire parvenir votre {link} :-)"
+            },
+            "fr-CA": {
+                "singular": "Merci de bien vouloir nous faire parvenir votre {link} :-)"
+            },
+            "fr-CH": {
+                "singular": "Merci de bien vouloir nous faire parvenir votre {link} :-)"
+            },
+            "fr-FR": {
+                "singular": "Merci de bien vouloir nous faire parvenir votre {link} :-)"
+            },
+            "hr": {
+                "singular": "Možete poslati {link}. Hvala Vam :-)"
+            },
+            "it": {
+                "singular": "Ci piacerebbe ricevere un feedback {link}. Grazie :-)"
+            },
+            "it-CH": {
+                "singular": "Ci piacerebbe ricevere un feedback {link}. Grazie :-)"
+            },
+            "it-IT": {
+                "singular": "Ci piacerebbe ricevere un feedback {link}. Grazie :-)"
+            },
+            "nl": {
+                "singular": "U bent welkom om een {link} in te dienen. Bedankt :-)"
+            },
+            "nl-BE": {
+                "singular": "U bent welkom om een {link} in te dienen. Bedankt :-)"
+            },
+            "nl-NL": {
+                "singular": "U bent welkom om een {link} in te dienen. Bedankt :-)"
+            },
+            "no": {
+                "singular": "Du er velkommen til å sende inn en {link}. Tusen takk :-)"
+            },
+            "pl": {
+                "singular": "Tutaj mogą Państwo umieścić swoją {link}. Dziękujemy :-)"
+            },
+            "pt": {
+                "singular": "Deixamos-lhe aqui o convite para que nos envie uma {link}. Muito obrigado :-)"
+            },
+            "ru": {
+                "singular": "Вы можете отправить {link}. Спасибо :-)"
+            },
+            "sv": {
+                "singular": "Du är välkommen att ge ett {link}. Tack så mycket :-)"
+            }
+        }
+    }
+}

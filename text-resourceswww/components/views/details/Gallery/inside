@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Gallery.inside",
+    "name": "inside",
+    "path": "text-resourceswww/components/views/details/Gallery/inside",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Gallery/inside",
+    "slug": "inside",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Gallery",
+        "inside"
+    ],
+    "content": {
+        "key": "www.components.views.details.Gallery.inside",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Interiér"
+            },
+            "da": {
+                "singular": "Indenfor"
+            },
+            "de": {
+                "singular": "Innenbereich"
+            },
+            "de-AT": {
+                "singular": "Innenbereich"
+            },
+            "de-CH": {
+                "singular": "Innenbereich"
+            },
+            "de-DE": {
+                "singular": "Innenbereich"
+            },
+            "en": {
+                "singular": "Inside"
+            },
+            "en-AU": {
+                "singular": "Inside"
+            },
+            "en-CA": {
+                "singular": "Inside"
+            },
+            "en-GB": {
+                "singular": "Inside"
+            },
+            "en-IE": {
+                "singular": "Inside"
+            },
+            "en-US": {
+                "singular": "Inside"
+            },
+            "es": {
+                "singular": "Interior"
+            },
+            "fi": {
+                "singular": "Sisällä"
+            },
+            "fi-EE": {
+                "singular": "Sisällä"
+            },
+            "fi-FI": {
+                "singular": "Sisällä"
+            },
+            "fr": {
+                "singular": "L'intérieur du logement"
+            },
+            "fr-BE": {
+                "singular": "L'intérieur du logement"
+            },
+            "fr-CA": {
+                "singular": "L'intérieur du logement"
+            },
+            "fr-CH": {
+                "singular": "L'intérieur du logement"
+            },
+            "fr-FR": {
+                "singular": "L'intérieur du logement"
+            },
+            "hr": {
+                "singular": "Unutrašnjost"
+            },
+            "it": {
+                "singular": "L'abitazione"
+            },
+            "it-CH": {
+                "singular": "L'abitazione"
+            },
+            "it-IT": {
+                "singular": "L'abitazione"
+            },
+            "nl": {
+                "singular": "Binnen"
+            },
+            "nl-BE": {
+                "singular": "Binnen"
+            },
+            "nl-NL": {
+                "singular": "Binnen"
+            },
+            "no": {
+                "singular": "Inne"
+            },
+            "pl": {
+                "singular": "Wnętrze"
+            },
+            "pt": {
+                "singular": "Dentro"
+            },
+            "ru": {
+                "singular": "Интерьер"
+            },
+            "sv": {
+                "singular": "Inuti"
+            }
+        }
+    }
+}

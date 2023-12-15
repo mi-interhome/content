@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.pax.pax.children",
+    "name": "children",
+    "path": "text-resourcesprecheckin/components/pax/pax/children",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/pax/pax/children",
+    "slug": "children",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "pax",
+        "pax",
+        "children"
+    ],
+    "content": {
+        "key": "precheckin.components.pax.pax.children",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Děti"
+            },
+            "da": {
+                "singular": "Børn"
+            },
+            "de": {
+                "singular": "Kinder"
+            },
+            "de-AT": {
+                "singular": "Kinder"
+            },
+            "de-CH": {
+                "singular": "Kinder"
+            },
+            "de-DE": {
+                "singular": "Kinder"
+            },
+            "en": {
+                "singular": "Children"
+            },
+            "en-AU": {
+                "singular": "Children"
+            },
+            "en-CA": {
+                "singular": "Children"
+            },
+            "en-GB": {
+                "singular": "Children"
+            },
+            "en-IE": {
+                "singular": "Children"
+            },
+            "en-US": {
+                "singular": "Children"
+            },
+            "es": {
+                "singular": "Niños"
+            },
+            "fi": {
+                "singular": "Lapset"
+            },
+            "fi-EE": {
+                "singular": "Lapset"
+            },
+            "fi-FI": {
+                "singular": "Lapset"
+            },
+            "fr": {
+                "singular": "Enfants"
+            },
+            "fr-BE": {
+                "singular": "Enfants"
+            },
+            "fr-CA": {
+                "singular": "Enfants"
+            },
+            "fr-CH": {
+                "singular": "Enfants"
+            },
+            "fr-FR": {
+                "singular": "Enfants"
+            },
+            "hr": {
+                "singular": "Djeca"
+            },
+            "it": {
+                "singular": "Bambini"
+            },
+            "it-CH": {
+                "singular": "Bambini"
+            },
+            "it-IT": {
+                "singular": "Bambini"
+            },
+            "nl": {
+                "singular": "Kinderen"
+            },
+            "nl-BE": {
+                "singular": "Kinderen"
+            },
+            "nl-NL": {
+                "singular": "Kinderen"
+            },
+            "no": {
+                "singular": "Barn"
+            },
+            "pl": {
+                "singular": "Dzieci"
+            },
+            "pt": {
+                "singular": "Crianças"
+            },
+            "ru": {
+                "singular": "Дети"
+            },
+            "sv": {
+                "singular": "Barn"
+            }
+        }
+    }
+}

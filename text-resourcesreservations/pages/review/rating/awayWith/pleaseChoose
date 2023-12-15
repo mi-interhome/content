@@ -1,0 +1,127 @@
+{
+    "id": "reservations.pages.review.rating.awayWith.pleaseChoose",
+    "name": "pleaseChoose",
+    "path": "text-resourcesreservations/pages/review/rating/awayWith/pleaseChoose",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/rating/awayWith/pleaseChoose",
+    "slug": "pleaseChoose",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "rating",
+        "awayWith",
+        "pleaseChoose"
+    ],
+    "content": {
+        "key": "reservations.pages.review.rating.awayWith.pleaseChoose",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte jednu položku"
+            },
+            "da": {
+                "singular": "Vælg en"
+            },
+            "de": {
+                "singular": "Bitte wählen"
+            },
+            "de-AT": {
+                "singular": "Bitte wählen"
+            },
+            "de-CH": {
+                "singular": "Bitte wählen"
+            },
+            "de-DE": {
+                "singular": "Bitte wählen"
+            },
+            "en": {
+                "singular": "Select one"
+            },
+            "en-AU": {
+                "singular": "Select one"
+            },
+            "en-CA": {
+                "singular": "Select one"
+            },
+            "en-GB": {
+                "singular": "Select one"
+            },
+            "en-IE": {
+                "singular": "Select one"
+            },
+            "en-US": {
+                "singular": "Select one"
+            },
+            "es": {
+                "singular": "Selecciona uno"
+            },
+            "fi": {
+                "singular": "Valitse yksi"
+            },
+            "fi-EE": {
+                "singular": "Valitse yksi"
+            },
+            "fi-FI": {
+                "singular": "Valitse yksi"
+            },
+            "fr": {
+                "singular": "Choisissez"
+            },
+            "fr-BE": {
+                "singular": "Choisissez"
+            },
+            "fr-CA": {
+                "singular": "Choisissez"
+            },
+            "fr-CH": {
+                "singular": "Choisissez"
+            },
+            "fr-FR": {
+                "singular": "Choisissez"
+            },
+            "hr": {
+                "singular": "Odaberite jedno"
+            },
+            "it": {
+                "singular": "Seleziona"
+            },
+            "it-CH": {
+                "singular": "Seleziona"
+            },
+            "it-IT": {
+                "singular": "Seleziona"
+            },
+            "nl": {
+                "singular": "Selecteer er een"
+            },
+            "nl-BE": {
+                "singular": "Selecteer er een"
+            },
+            "nl-NL": {
+                "singular": "Selecteer er een"
+            },
+            "no": {
+                "singular": "Velg én"
+            },
+            "pl": {
+                "singular": "Wybierz jedną opcję"
+            },
+            "pt": {
+                "singular": "Selecione um"
+            },
+            "ru": {
+                "singular": "Выберите один пункт"
+            },
+            "sv": {
+                "singular": "Välj en"
+            }
+        }
+    }
+}

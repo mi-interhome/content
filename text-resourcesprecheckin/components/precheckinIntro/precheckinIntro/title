@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.precheckinIntro.precheckinIntro.title",
+    "name": "title",
+    "path": "text-resourcesprecheckin/components/precheckinIntro/precheckinIntro/title",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/precheckinIntro/precheckinIntro/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "precheckinIntro",
+        "precheckinIntro",
+        "title"
+    ],
+    "content": {
+        "key": "precheckin.components.precheckinIntro.precheckinIntro.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Už to nebude trvat dlouho!"
+            },
+            "da": {
+                "singular": "Snart!"
+            },
+            "de": {
+                "singular": "Nicht mehr lange!"
+            },
+            "de-AT": {
+                "singular": "Nicht mehr lange!"
+            },
+            "de-CH": {
+                "singular": "Nicht mehr lange!"
+            },
+            "de-DE": {
+                "singular": "Nicht mehr lange!"
+            },
+            "en": {
+                "singular": "Not long now!"
+            },
+            "en-AU": {
+                "singular": "Not long now!"
+            },
+            "en-CA": {
+                "singular": "Not long now!"
+            },
+            "en-GB": {
+                "singular": "Not long now!"
+            },
+            "en-IE": {
+                "singular": "Not long now!"
+            },
+            "en-US": {
+                "singular": "Not long now!"
+            },
+            "es": {
+                "singular": "¡Ya falta poco!"
+            },
+            "fi": {
+                "singular": "Ei enää pitkään!"
+            },
+            "fi-EE": {
+                "singular": "Ei enää pitkään!"
+            },
+            "fi-FI": {
+                "singular": "Ei enää pitkään!"
+            },
+            "fr": {
+                "singular": "Encore un petit instant s'il vous plait! "
+            },
+            "fr-BE": {
+                "singular": "Encore un petit instant s'il vous plait! "
+            },
+            "fr-CA": {
+                "singular": "Encore un petit instant s'il vous plait! "
+            },
+            "fr-CH": {
+                "singular": "Encore un petit instant s'il vous plait! "
+            },
+            "fr-FR": {
+                "singular": "Encore un petit instant s'il vous plait! "
+            },
+            "hr": {
+                "singular": "Još malo!"
+            },
+            "it": {
+                "singular": "Ci siamo quasi! "
+            },
+            "it-CH": {
+                "singular": "Ci siamo quasi! "
+            },
+            "it-IT": {
+                "singular": "Ci siamo quasi! "
+            },
+            "nl": {
+                "singular": "Niet lang meer!"
+            },
+            "nl-BE": {
+                "singular": "Niet lang meer!"
+            },
+            "nl-NL": {
+                "singular": "Niet lang meer!"
+            },
+            "no": {
+                "singular": "Ikke lenge nå!"
+            },
+            "pl": {
+                "singular": "To nie zajmie dużo czasu!"
+            },
+            "pt": {
+                "singular": "Já falta pouco!"
+            },
+            "ru": {
+                "singular": "Почти готово!"
+            },
+            "sv": {
+                "singular": "Inte långt kvar!"
+            }
+        }
+    }
+}

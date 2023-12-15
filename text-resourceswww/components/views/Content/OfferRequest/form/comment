@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.comment",
+    "name": "comment",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/comment",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/comment",
+    "slug": "comment",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "comment"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.comment",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zpráva"
+            },
+            "da": {
+                "singular": "Kommentar"
+            },
+            "de": {
+                "singular": "Kommentar"
+            },
+            "de-AT": {
+                "singular": "Kommentar"
+            },
+            "de-CH": {
+                "singular": "Kommentar"
+            },
+            "de-DE": {
+                "singular": "Kommentar"
+            },
+            "en": {
+                "singular": "Comment"
+            },
+            "en-AU": {
+                "singular": "Comment"
+            },
+            "en-CA": {
+                "singular": "Comment"
+            },
+            "en-GB": {
+                "singular": "Comment"
+            },
+            "en-IE": {
+                "singular": "Comment"
+            },
+            "en-US": {
+                "singular": "Comment"
+            },
+            "es": {
+                "singular": "Comentario"
+            },
+            "fi": {
+                "singular": "Viesti"
+            },
+            "fi-EE": {
+                "singular": "Viesti"
+            },
+            "fi-FI": {
+                "singular": "Viesti"
+            },
+            "fr": {
+                "singular": "Commentaire"
+            },
+            "fr-BE": {
+                "singular": "Commentaire"
+            },
+            "fr-CA": {
+                "singular": "Commentaire"
+            },
+            "fr-CH": {
+                "singular": "Commentaire"
+            },
+            "fr-FR": {
+                "singular": "Commentaire"
+            },
+            "hr": {
+                "singular": "Komentar"
+            },
+            "it": {
+                "singular": "Commento"
+            },
+            "it-CH": {
+                "singular": "Commento"
+            },
+            "it-IT": {
+                "singular": "Commenti"
+            },
+            "nl": {
+                "singular": "Commentaar"
+            },
+            "nl-BE": {
+                "singular": "Commentaar"
+            },
+            "nl-NL": {
+                "singular": "Commentaar"
+            },
+            "no": {
+                "singular": "Kommentar"
+            },
+            "pl": {
+                "singular": "Komentarze"
+            },
+            "pt": {
+                "singular": "Comentário"
+            },
+            "ru": {
+                "singular": "Комментарии"
+            },
+            "sv": {
+                "singular": "Meddelande"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.duringStay.cleanlinessBathroom",
+    "name": "cleanlinessBathroom",
+    "path": "text-resourcesreservations/pages/review/duringStay/cleanlinessBathroom",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/duringStay/cleanlinessBathroom",
+    "slug": "cleanlinessBathroom",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "duringStay",
+        "cleanlinessBathroom"
+    ],
+    "content": {
+        "key": "reservations.pages.review.duringStay.cleanlinessBathroom",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Čistota koupelny"
+            },
+            "da": {
+                "singular": "Badeværelsets renlighed"
+            },
+            "de": {
+                "singular": "Sauberkeit des Badezimmers"
+            },
+            "de-AT": {
+                "singular": "Sauberkeit des Badezimmers"
+            },
+            "de-CH": {
+                "singular": "Sauberkeit des Badezimmers"
+            },
+            "de-DE": {
+                "singular": "Sauberkeit des Badezimmers"
+            },
+            "en": {
+                "singular": "Bathroom cleanliness"
+            },
+            "en-AU": {
+                "singular": "Bathroom cleanliness"
+            },
+            "en-CA": {
+                "singular": "Bathroom cleanliness"
+            },
+            "en-GB": {
+                "singular": "Bathroom cleanliness"
+            },
+            "en-IE": {
+                "singular": "Bathroom cleanliness"
+            },
+            "en-US": {
+                "singular": "Bathroom cleanliness"
+            },
+            "es": {
+                "singular": "Limpieza del baño"
+            },
+            "fi": {
+                "singular": "Kylpyhuoneen siisteys"
+            },
+            "fi-EE": {
+                "singular": "Kylpyhuoneen siisteys"
+            },
+            "fi-FI": {
+                "singular": "Kylpyhuoneen siisteys"
+            },
+            "fr": {
+                "singular": "Propreté de la salle de bains"
+            },
+            "fr-BE": {
+                "singular": "Propreté de la salle de bains"
+            },
+            "fr-CA": {
+                "singular": "Propreté de la salle de bains"
+            },
+            "fr-CH": {
+                "singular": "Propreté de la salle de bains"
+            },
+            "fr-FR": {
+                "singular": "Propreté de la salle de bains"
+            },
+            "hr": {
+                "singular": "Čistoća kupaonice?"
+            },
+            "it": {
+                "singular": "Pulizia del bagno"
+            },
+            "it-CH": {
+                "singular": "Pulizia del bagno"
+            },
+            "it-IT": {
+                "singular": "Pulizia del bagno"
+            },
+            "nl": {
+                "singular": "Hoe schoon was de badkamer?"
+            },
+            "nl-BE": {
+                "singular": "Hoe schoon was de badkamer?"
+            },
+            "nl-NL": {
+                "singular": "Hoe schoon was de badkamer?"
+            },
+            "no": {
+                "singular": "Baderomsrenhet"
+            },
+            "pl": {
+                "singular": "Czystość łazienki"
+            },
+            "pt": {
+                "singular": "Limpeza dos banheiros"
+            },
+            "ru": {
+                "singular": "Чистота ванной комнаты"
+            },
+            "sv": {
+                "singular": "Rent badrum"
+            }
+        }
+    }
+}

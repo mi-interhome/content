@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.place",
+    "name": "place",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/place",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/place",
+    "slug": "place",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "place"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.place",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Místo"
+            },
+            "da": {
+                "singular": "By"
+            },
+            "de": {
+                "singular": "Ort"
+            },
+            "de-AT": {
+                "singular": "Ort"
+            },
+            "de-CH": {
+                "singular": "Ort"
+            },
+            "de-DE": {
+                "singular": "Ort"
+            },
+            "en": {
+                "singular": "Place"
+            },
+            "en-AU": {
+                "singular": "Place"
+            },
+            "en-CA": {
+                "singular": "Place"
+            },
+            "en-GB": {
+                "singular": "Place"
+            },
+            "en-IE": {
+                "singular": "Place"
+            },
+            "en-US": {
+                "singular": "Place"
+            },
+            "es": {
+                "singular": "Población"
+            },
+            "fi": {
+                "singular": "Paikkakunta"
+            },
+            "fi-EE": {
+                "singular": "Paikkakunta"
+            },
+            "fi-FI": {
+                "singular": "Paikkakunta"
+            },
+            "fr": {
+                "singular": "Localité"
+            },
+            "fr-BE": {
+                "singular": "Localité"
+            },
+            "fr-CA": {
+                "singular": "Localité"
+            },
+            "fr-CH": {
+                "singular": "Localité"
+            },
+            "fr-FR": {
+                "singular": "Localité"
+            },
+            "hr": {
+                "singular": "Mjesto"
+            },
+            "it": {
+                "singular": "Località"
+            },
+            "it-CH": {
+                "singular": "Località"
+            },
+            "it-IT": {
+                "singular": "Località"
+            },
+            "nl": {
+                "singular": "Plaats"
+            },
+            "nl-BE": {
+                "singular": "Plaats"
+            },
+            "nl-NL": {
+                "singular": "Plaats"
+            },
+            "no": {
+                "singular": "Sted \u0026 område"
+            },
+            "pl": {
+                "singular": "Miejscowość"
+            },
+            "pt": {
+                "singular": "Cidade"
+            },
+            "ru": {
+                "singular": "Курорт"
+            },
+            "sv": {
+                "singular": "Ort"
+            }
+        }
+    }
+}

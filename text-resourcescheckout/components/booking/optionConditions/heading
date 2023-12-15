@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.optionConditions.heading",
+    "name": "heading",
+    "path": "text-resourcescheckout/components/booking/optionConditions/heading",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/optionConditions/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "optionConditions",
+        "heading"
+    ],
+    "content": {
+        "key": "checkout.components.booking.optionConditions.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Podmínky opce"
+            },
+            "da": {
+                "singular": "Option regler"
+            },
+            "de": {
+                "singular": "Optionsbedingungen"
+            },
+            "de-AT": {
+                "singular": "Optionsbedingungen"
+            },
+            "de-CH": {
+                "singular": "Optionsbedingungen"
+            },
+            "de-DE": {
+                "singular": "Optionsbedingungen"
+            },
+            "en": {
+                "singular": "Option Conditions"
+            },
+            "en-AU": {
+                "singular": "Option Conditions"
+            },
+            "en-CA": {
+                "singular": "Option Conditions"
+            },
+            "en-GB": {
+                "singular": "Option Conditions"
+            },
+            "en-IE": {
+                "singular": "Option Conditions"
+            },
+            "en-US": {
+                "singular": "Option Conditions"
+            },
+            "es": {
+                "singular": "Condiciones de la opción"
+            },
+            "fi": {
+                "singular": "Alustavan varauksen ehdot"
+            },
+            "fi-EE": {
+                "singular": "Alustavan varauksen ehdot"
+            },
+            "fi-FI": {
+                "singular": "Alustavan varauksen ehdot"
+            },
+            "fr": {
+                "singular": "Conditions concernant les options"
+            },
+            "fr-BE": {
+                "singular": "Conditions concernant les options"
+            },
+            "fr-CA": {
+                "singular": "Conditions concernant les options"
+            },
+            "fr-CH": {
+                "singular": "Conditions concernant les options"
+            },
+            "fr-FR": {
+                "singular": "Conditions concernant les options"
+            },
+            "hr": {
+                "singular": "Uvjeti opcije"
+            },
+            "it": {
+                "singular": "Condizioni di opzione"
+            },
+            "it-CH": {
+                "singular": "Condizioni di opzione"
+            },
+            "it-IT": {
+                "singular": "Condizioni di opzione"
+            },
+            "nl": {
+                "singular": "Optie voorwaarden"
+            },
+            "nl-BE": {
+                "singular": "Optie voorwaarden"
+            },
+            "nl-NL": {
+                "singular": "Optie voorwaarden"
+            },
+            "no": {
+                "singular": "Option betingelser"
+            },
+            "pl": {
+                "singular": "Warunki opcji"
+            },
+            "pt": {
+                "singular": "Condições opcionais"
+            },
+            "ru": {
+                "singular": "Условия по опции"
+            },
+            "sv": {
+                "singular": "Preliminärbokning regler"
+            }
+        }
+    }
+}

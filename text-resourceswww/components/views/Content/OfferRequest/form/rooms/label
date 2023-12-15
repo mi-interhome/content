@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.rooms.label",
+    "name": "label",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/rooms/label",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/rooms/label",
+    "slug": "label",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "rooms",
+        "label"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.rooms.label",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokojů"
+            },
+            "da": {
+                "singular": "Værelser"
+            },
+            "de": {
+                "singular": "Zimmer"
+            },
+            "de-AT": {
+                "singular": "Zimmer"
+            },
+            "de-CH": {
+                "singular": "Zimmer"
+            },
+            "de-DE": {
+                "singular": "Zimmer"
+            },
+            "en": {
+                "singular": "Rooms"
+            },
+            "en-AU": {
+                "singular": "Rooms"
+            },
+            "en-CA": {
+                "singular": "Rooms"
+            },
+            "en-GB": {
+                "singular": "Rooms"
+            },
+            "en-IE": {
+                "singular": "Rooms"
+            },
+            "en-US": {
+                "singular": "Rooms"
+            },
+            "es": {
+                "singular": "Estancias"
+            },
+            "fi": {
+                "singular": "Huonetta"
+            },
+            "fi-EE": {
+                "singular": "Huonetta"
+            },
+            "fi-FI": {
+                "singular": "Huonetta"
+            },
+            "fr": {
+                "singular": "Pièces"
+            },
+            "fr-BE": {
+                "singular": "Pièces"
+            },
+            "fr-CA": {
+                "singular": "Pièces"
+            },
+            "fr-CH": {
+                "singular": "Pièces"
+            },
+            "fr-FR": {
+                "singular": "Pièces"
+            },
+            "hr": {
+                "singular": "Sobe"
+            },
+            "it": {
+                "singular": "Stanze"
+            },
+            "it-CH": {
+                "singular": "Stanze"
+            },
+            "it-IT": {
+                "singular": "Stanze"
+            },
+            "nl": {
+                "singular": "Kamer(s)"
+            },
+            "nl-BE": {
+                "singular": "Kamer(s)"
+            },
+            "nl-NL": {
+                "singular": "Kamer(s)"
+            },
+            "no": {
+                "singular": "Rom"
+            },
+            "pl": {
+                "singular": "Liczba pokoi"
+            },
+            "pt": {
+                "singular": "Quartos"
+            },
+            "ru": {
+                "singular": "комнаты"
+            },
+            "sv": {
+                "singular": "Rum"
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "www.components.site.Header.teasers.inspirations.title",
+    "name": "title",
+    "path": "text-resourceswww/components/site/Header/teasers/inspirations/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/site/Header/teasers/inspirations/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "site",
+        "Header",
+        "teasers",
+        "inspirations",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.site.Header.teasers.inspirations.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{company} tipy na dovolenou"
+            },
+            "da": {
+                "singular": "Rejsetips fra {company}"
+            },
+            "de": {
+                "singular": "Urlaubsideen von {company}"
+            },
+            "de-AT": {
+                "singular": "Urlaubsideen von {company}"
+            },
+            "de-CH": {
+                "singular": "Ferienideen von {company}"
+            },
+            "de-DE": {
+                "singular": "Urlaubsideen von {company}"
+            },
+            "en": {
+                "singular": "Travel ideas from {company}"
+            },
+            "en-AU": {
+                "singular": "Travel ideas from {company}"
+            },
+            "en-CA": {
+                "singular": "Travel ideas from {company}"
+            },
+            "en-GB": {
+                "singular": "Travel ideas from {company}"
+            },
+            "en-IE": {
+                "singular": "Travel ideas from {company}"
+            },
+            "en-US": {
+                "singular": "Travel ideas from {company}"
+            },
+            "es": {
+                "singular": "Ideas de viaje {company}"
+            },
+            "fi": {
+                "singular": "{company} lomaideat"
+            },
+            "fi-EE": {
+                "singular": "{company} lomaideat"
+            },
+            "fi-FI": {
+                "singular": "{company} lomaideat"
+            },
+            "fr": {
+                "singular": "Idées vacances {company}"
+            },
+            "fr-BE": {
+                "singular": "Idées vacances {company}"
+            },
+            "fr-CA": {
+                "singular": "Idées vacances {company}"
+            },
+            "fr-CH": {
+                "singular": "Idées vacances {company}"
+            },
+            "fr-FR": {
+                "singular": "Idées vacances {company}"
+            },
+            "hr": {
+                "singular": "{company} ideje za odmor"
+            },
+            "it": {
+                "singular": "Spunti per le tue vacanze"
+            },
+            "it-CH": {
+                "singular": "Spunti per le tue vacanze"
+            },
+            "it-IT": {
+                "singular": "Spunti per le tue vacanze"
+            },
+            "nl": {
+                "singular": "Reisideeën van {company}"
+            },
+            "nl-BE": {
+                "singular": "Reisideeën van {company}"
+            },
+            "nl-NL": {
+                "singular": "Reisideeën van {company}"
+            },
+            "no": {
+                "singular": "Reisetips fra {company}"
+            },
+            "pl": {
+                "singular": "Inspiracje na wakacje od {company}"
+            },
+            "pt": {
+                "singular": "Ideias de viagem da {company}"
+            },
+            "ru": {
+                "singular": "Идеи для отдыха {company}"
+            },
+            "sv": {
+                "singular": "Restips från {company}"
+            }
+        }
+    }
+}

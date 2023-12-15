@@ -1,0 +1,125 @@
+{
+    "id": "reservations.pages.cancellation.htmlTitle",
+    "name": "htmlTitle",
+    "path": "text-resourcesreservations/pages/cancellation/htmlTitle",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/htmlTitle",
+    "slug": "htmlTitle",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "htmlTitle"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.htmlTitle",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zrušení"
+            },
+            "da": {
+                "singular": "Aflysning"
+            },
+            "de": {
+                "singular": "Stornierung"
+            },
+            "de-AT": {
+                "singular": "Stornierung"
+            },
+            "de-CH": {
+                "singular": "Stornierung"
+            },
+            "de-DE": {
+                "singular": "Stornierung"
+            },
+            "en": {
+                "singular": "Cancellation"
+            },
+            "en-AU": {
+                "singular": "Cancellation"
+            },
+            "en-CA": {
+                "singular": "Cancellation"
+            },
+            "en-GB": {
+                "singular": "Cancellation"
+            },
+            "en-IE": {
+                "singular": "Cancellation"
+            },
+            "en-US": {
+                "singular": "Cancellation"
+            },
+            "es": {
+                "singular": "Cancelación"
+            },
+            "fi": {
+                "singular": "Peruutus"
+            },
+            "fi-EE": {
+                "singular": "Peruutus"
+            },
+            "fi-FI": {
+                "singular": "Peruutus"
+            },
+            "fr": {
+                "singular": "Annulation"
+            },
+            "fr-BE": {
+                "singular": "Annulation"
+            },
+            "fr-CA": {
+                "singular": "Annulation"
+            },
+            "fr-CH": {
+                "singular": "Annulation"
+            },
+            "fr-FR": {
+                "singular": "Annulation"
+            },
+            "hr": {
+                "singular": "Otkaz"
+            },
+            "it": {
+                "singular": "Cancellazione"
+            },
+            "it-CH": {
+                "singular": "Cancellazione"
+            },
+            "it-IT": {
+                "singular": "Cancellazione"
+            },
+            "nl": {
+                "singular": "Annulering"
+            },
+            "nl-BE": {
+                "singular": "Annulering"
+            },
+            "nl-NL": {
+                "singular": "Annulering"
+            },
+            "no": {
+                "singular": "Kansellering"
+            },
+            "pl": {
+                "singular": "Anulacja"
+            },
+            "pt": {
+                "singular": "Cancelamento"
+            },
+            "ru": {
+                "singular": "Отмена"
+            },
+            "sv": {
+                "singular": "Avbeställning"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.ih_cms_affiliates_bookings_table_start_date",
+    "name": "ih_cms_affiliates_bookings_table_start_date",
+    "path": "text-resourceswebccSalesportal/reservationoverview/ih_cms_affiliates_bookings_table_start_date",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/ih_cms_affiliates_bookings_table_start_date",
+    "slug": "ih_cms_affiliates_bookings_table_start_date",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "ih_cms_affiliates_bookings_table_start_date"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.ih_cms_affiliates_bookings_table_start_date",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Check-in"
+            },
+            "da": {
+                "singular": "Ankomst"
+            },
+            "de": {
+                "singular": "Check-in Datum"
+            },
+            "de-AT": {
+                "singular": "Check-in Datum"
+            },
+            "de-CH": {
+                "singular": "Check-in Datum"
+            },
+            "de-DE": {
+                "singular": "Check-in Datum"
+            },
+            "en": {
+                "singular": "Check-in"
+            },
+            "en-AU": {
+                "singular": "Check-in"
+            },
+            "en-CA": {
+                "singular": "Check-in"
+            },
+            "en-GB": {
+                "singular": "Check-in"
+            },
+            "en-IE": {
+                "singular": "Check-in"
+            },
+            "en-US": {
+                "singular": "Check-in"
+            },
+            "es": {
+                "singular": "Entrada"
+            },
+            "fi": {
+                "singular": "Saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Saapumispäivä"
+            },
+            "fr": {
+                "singular": "Date de début de séjour"
+            },
+            "fr-BE": {
+                "singular": "Date de début de séjour"
+            },
+            "fr-CA": {
+                "singular": "Date de début de séjour"
+            },
+            "fr-CH": {
+                "singular": "Date de début de séjour"
+            },
+            "fr-FR": {
+                "singular": "Date de début de séjour"
+            },
+            "hr": {
+                "singular": "Datum dolaska"
+            },
+            "it": {
+                "singular": "Data di inizio soggiorno"
+            },
+            "it-CH": {
+                "singular": "Data di inizio soggiorno"
+            },
+            "it-IT": {
+                "singular": "Data di inizio soggiorno"
+            },
+            "nl": {
+                "singular": "Check-in"
+            },
+            "nl-BE": {
+                "singular": "Check-in"
+            },
+            "nl-NL": {
+                "singular": "Check-in"
+            },
+            "no": {
+                "singular": "Ankomst"
+            },
+            "pl": {
+                "singular": "Data przyjazdu"
+            },
+            "pt": {
+                "singular": "Check-in"
+            },
+            "ru": {
+                "singular": "Заезд"
+            },
+            "sv": {
+                "singular": "Ankomst"
+            }
+        }
+    }
+}

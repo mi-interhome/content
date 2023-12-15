@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.modalVerification.form.placeholder",
+    "name": "placeholder",
+    "path": "text-resourceswebccBooking/components/reservation/modalVerification/form/placeholder",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/modalVerification/form/placeholder",
+    "slug": "placeholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "modalVerification",
+        "form",
+        "placeholder"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.modalVerification.form.placeholder",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ověřovací kód (6-místný)"
+            },
+            "da": {
+                "singular": "Verifikationskode (6 cifre)"
+            },
+            "de": {
+                "singular": "Verifikationscode (6-stellig)"
+            },
+            "de-AT": {
+                "singular": "Verifikationscode (6-stellig)"
+            },
+            "de-CH": {
+                "singular": "Verifikationscode (6-stellig)"
+            },
+            "de-DE": {
+                "singular": "Verifikationscode (6-stellig)"
+            },
+            "en": {
+                "singular": "Verification code (6 digits)"
+            },
+            "en-AU": {
+                "singular": "Verification code (6 digits)"
+            },
+            "en-CA": {
+                "singular": "Verification code (6 digits)"
+            },
+            "en-GB": {
+                "singular": "Verification code (6 digits)"
+            },
+            "en-IE": {
+                "singular": "Verification code (6 digits)"
+            },
+            "en-US": {
+                "singular": "Verification code (6 digits)"
+            },
+            "es": {
+                "singular": "Código de verificación (6 dígitos)"
+            },
+            "fi": {
+                "singular": "Vahvistuskoodi (6 merkkiä)"
+            },
+            "fi-EE": {
+                "singular": "Vahvistuskoodi (6 merkkiä)"
+            },
+            "fi-FI": {
+                "singular": "Vahvistuskoodi (6 merkkiä)"
+            },
+            "fr": {
+                "singular": "Code de vérification (6 chiffres)"
+            },
+            "fr-BE": {
+                "singular": "Code de vérification (6 chiffres)"
+            },
+            "fr-CA": {
+                "singular": "Code de vérification (6 chiffres)"
+            },
+            "fr-CH": {
+                "singular": "Code de vérification (6 chiffres)"
+            },
+            "fr-FR": {
+                "singular": "Code de vérification (6 chiffres)"
+            },
+            "hr": {
+                "singular": "Kod za potvrdu (6 znamenki)"
+            },
+            "it": {
+                "singular": "Codice di verifica (6 cifre)"
+            },
+            "it-CH": {
+                "singular": "Codice di verifica (6 cifre)"
+            },
+            "it-IT": {
+                "singular": "Codice di verifica (6 cifre)"
+            },
+            "nl": {
+                "singular": "Verificatiecode (6 tekens)"
+            },
+            "nl-BE": {
+                "singular": "Verificatiecode (6 tekens)"
+            },
+            "nl-NL": {
+                "singular": "Verificatiecode (6 tekens)"
+            },
+            "no": {
+                "singular": "Bekreftelseskode (6 siffer)"
+            },
+            "pl": {
+                "singular": "Kod weryfikacyjny (6 cyfr)"
+            },
+            "pt": {
+                "singular": "Código de verificação (6 dígitos)"
+            },
+            "ru": {
+                "singular": "Код подтверждения (6 цифр)"
+            },
+            "sv": {
+                "singular": "Bekräftelsekod (6 siffror)"
+            }
+        }
+    }
+}

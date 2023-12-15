@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Reviews.familyKids",
+    "name": "familyKids",
+    "path": "text-resourceswww/components/views/details/Reviews/familyKids",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Reviews/familyKids",
+    "slug": "familyKids",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Reviews",
+        "familyKids"
+    ],
+    "content": {
+        "key": "www.components.views.details.Reviews.familyKids",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Malé děti"
+            },
+            "da": {
+                "singular": "Familie med små børn"
+            },
+            "de": {
+                "singular": "Familie mit kleinen Kindern"
+            },
+            "de-AT": {
+                "singular": "Familie mit kleinen Kindern"
+            },
+            "de-CH": {
+                "singular": "Familie mit kleinen Kindern"
+            },
+            "de-DE": {
+                "singular": "Familie mit kleinen Kindern"
+            },
+            "en": {
+                "singular": "Young Children"
+            },
+            "en-AU": {
+                "singular": "Young Children"
+            },
+            "en-CA": {
+                "singular": "Young Children"
+            },
+            "en-GB": {
+                "singular": "Young Children"
+            },
+            "en-IE": {
+                "singular": "Young Children"
+            },
+            "en-US": {
+                "singular": "Young Children"
+            },
+            "es": {
+                "singular": "Familia con niños pequeños"
+            },
+            "fi": {
+                "singular": "Pienet lapset"
+            },
+            "fi-EE": {
+                "singular": "Pienet lapset"
+            },
+            "fi-FI": {
+                "singular": "Pienet lapset"
+            },
+            "fr": {
+                "singular": "En famille avec jeune(s) enfant(s)"
+            },
+            "fr-BE": {
+                "singular": "En famille avec jeune(s) enfant(s)"
+            },
+            "fr-CA": {
+                "singular": "En famille avec jeune(s) enfant(s)"
+            },
+            "fr-CH": {
+                "singular": "En famille avec jeune(s) enfant(s)"
+            },
+            "fr-FR": {
+                "singular": "En famille avec jeune(s) enfant(s)"
+            },
+            "hr": {
+                "singular": "Obitelj s malom djecom"
+            },
+            "it": {
+                "singular": "Famiglia con bambini"
+            },
+            "it-CH": {
+                "singular": "Famiglia con bambini"
+            },
+            "it-IT": {
+                "singular": "Famiglia con bambini"
+            },
+            "nl": {
+                "singular": "Kleine kinderen"
+            },
+            "nl-BE": {
+                "singular": "Kleine kinderen"
+            },
+            "nl-NL": {
+                "singular": "Kleine kinderen"
+            },
+            "no": {
+                "singular": "Familie med små barn"
+            },
+            "pl": {
+                "singular": "Rodzina z małymi dziećmi"
+            },
+            "pt": {
+                "singular": "Família com crianças pequenas"
+            },
+            "ru": {
+                "singular": "Семья с маленькими детьми"
+            },
+            "sv": {
+                "singular": "Familj med småbarn"
+            }
+        }
+    }
+}

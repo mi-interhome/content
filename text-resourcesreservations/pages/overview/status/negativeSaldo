@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.overview.status.negativeSaldo",
+    "name": "negativeSaldo",
+    "path": "text-resourcesreservations/pages/overview/status/negativeSaldo",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/overview/status/negativeSaldo",
+    "slug": "negativeSaldo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "overview",
+        "status",
+        "negativeSaldo"
+    ],
+    "content": {
+        "key": "reservations.pages.overview.status.negativeSaldo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vrátíme Vám částku ve výši {saldo}."
+            },
+            "da": {
+                "singular": "Vi refunderer {saldo}."
+            },
+            "de": {
+                "singular": "Sie bekommen von uns den Betrag von {saldo} zurückerstattet."
+            },
+            "de-AT": {
+                "singular": "Sie bekommen von uns den Betrag von {saldo} zurückerstattet."
+            },
+            "de-CH": {
+                "singular": "Sie bekommen von uns den Betrag von {saldo} zurückerstattet."
+            },
+            "de-DE": {
+                "singular": "Sie bekommen von uns den Betrag von {saldo} zurückerstattet."
+            },
+            "en": {
+                "singular": "We will refund you the amount of {saldo}."
+            },
+            "en-AU": {
+                "singular": "We will refund you the amount of {saldo}."
+            },
+            "en-CA": {
+                "singular": "We will refund you the amount of {saldo}."
+            },
+            "en-GB": {
+                "singular": "We will refund you the amount of {saldo}."
+            },
+            "en-IE": {
+                "singular": "We will refund you the amount of {saldo}."
+            },
+            "en-US": {
+                "singular": "We will refund you the amount of {saldo}."
+            },
+            "es": {
+                "singular": "Le devolveremos el importe de {saldo}."
+            },
+            "fi": {
+                "singular": "Hyvitämme {saldo}."
+            },
+            "fi-EE": {
+                "singular": "Hyvitämme {saldo}."
+            },
+            "fi-FI": {
+                "singular": "Hyvitämme {saldo}."
+            },
+            "fr": {
+                "singular": "Nous allons rembourser le montant de {saldo}."
+            },
+            "fr-BE": {
+                "singular": "Nous allons rembourser le montant de {saldo}."
+            },
+            "fr-CA": {
+                "singular": "Nous allons rembourser le montant de {saldo}."
+            },
+            "fr-CH": {
+                "singular": "Nous allons rembourser le montant de {saldo}."
+            },
+            "fr-FR": {
+                "singular": "Nous allons rembourser le montant de {saldo}."
+            },
+            "hr": {
+                "singular": "Izvršit ćemo povrat sredstava u visini {saldo}."
+            },
+            "it": {
+                "singular": "Le rimborseremo il seguente importo {saldo}"
+            },
+            "it-CH": {
+                "singular": "Le rimborseremo il seguente importo {saldo}"
+            },
+            "it-IT": {
+                "singular": "Le rimborseremo il seguente importo {saldo}"
+            },
+            "nl": {
+                "singular": "Wij zullen het bedrag van {saldo} terug betalen"
+            },
+            "nl-BE": {
+                "singular": "Wij zullen het bedrag van {saldo} terug betalen"
+            },
+            "nl-NL": {
+                "singular": "Wij zullen het bedrag van {saldo} terug betalen"
+            },
+            "no": {
+                "singular": "Vi refunderer {saldo}."
+            },
+            "pl": {
+                "singular": "Kwota do zwrotu {saldo}."
+            },
+            "pt": {
+                "singular": "Reembolsaremos o valor de {saldo}."
+            },
+            "ru": {
+                "singular": "Мы вернём {saldo}."
+            },
+            "sv": {
+                "singular": "Vi återbetalar {saldo}."
+            }
+        }
+    }
+}

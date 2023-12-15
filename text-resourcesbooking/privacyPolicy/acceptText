@@ -1,0 +1,124 @@
+{
+    "id": "booking.privacyPolicy.acceptText",
+    "name": "acceptText",
+    "path": "text-resourcesbooking/privacyPolicy/acceptText",
+    "folder": "text-resources",
+    "full_slug": "booking/privacyPolicy/acceptText",
+    "slug": "acceptText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "privacyPolicy",
+        "acceptText"
+    ],
+    "content": {
+        "key": "booking.privacyPolicy.acceptText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přečetl/a jsem si {terms} a akceptuji je. Vzal/a jsem na vědomí zásady {policy}."
+            },
+            "da": {
+                "singular": "Jeg har læst {terms} og accepteret dem. Jeg har læst {policy}."
+            },
+            "de": {
+                "singular": "Ich habe die {terms} gelesen und akzeptiere diese. Die {policy} habe ich zur Kenntnis genommen."
+            },
+            "de-AT": {
+                "singular": "Ich habe die {terms} gelesen und akzeptiere diese. Die {policy} habe ich zur Kenntnis genommen."
+            },
+            "de-CH": {
+                "singular": "Ich habe die {terms} gelesen und akzeptiere diese. Die {policy} habe ich zur Kenntnis genommen."
+            },
+            "de-DE": {
+                "singular": "Ich habe die {terms} gelesen und akzeptiere diese. Die {policy} habe ich zur Kenntnis genommen."
+            },
+            "en": {
+                "singular": "I have read the {terms} and accept them. I have taken note of the {policy}."
+            },
+            "en-AU": {
+                "singular": "I have read the {terms} and accept them. I have taken note of the {policy}."
+            },
+            "en-CA": {
+                "singular": "I have read the {terms} and accept them. I have taken note of the {policy}."
+            },
+            "en-GB": {
+                "singular": "I have read the {terms} and accept them. I have taken note of the {policy}."
+            },
+            "en-IE": {
+                "singular": "I have read the {terms} and accept them. I have taken note of the {policy}."
+            },
+            "en-US": {
+                "singular": "I have read the {terms} and accept them. I have taken note of the {policy}."
+            },
+            "es": {
+                "singular": "He leído y acepto los términos y {terms}. He tomado nota de la política de {policy}."
+            },
+            "fi": {
+                "singular": "Olen lukenut ja hyväksynyt {terms}. Olen huomioinut {policy}."
+            },
+            "fi-EE": {
+                "singular": "Olen lukenut ja hyväksynyt {terms}. Skiopening-tarjoukseen pätee MTCH AG (AVRB) yleiset sopimus- ja matkaehdot. Olen huomioinut {policy}."
+            },
+            "fi-FI": {
+                "singular": "Olen lukenut ja hyväksynyt {terms}. Olen huomioinut {policy}."
+            },
+            "fr": {
+                "singular": "J'ai lu et j'accepte les {terms}. J'ai pris connaissance de la politique de {policy}."
+            },
+            "fr-BE": {
+                "singular": "J'ai lu et j'accepte les {terms}. J'ai pris connaissance de la politique de {policy}."
+            },
+            "fr-CA": {
+                "singular": "J'ai lu et j'accepte les {terms}. J'ai pris connaissance de la politique de {policy}."
+            },
+            "fr-CH": {
+                "singular": "J'ai lu et j'accepte les {terms}. J'ai pris connaissance de la politique de {policy}."
+            },
+            "fr-FR": {
+                "singular": "J'ai lu et j'accepte les {terms}. J'ai pris connaissance de la politique de {policy}."
+            },
+            "hr": {
+                "singular": "Pročitao sam i prihvaćam {terms}. Pročitao sam i razumijem {policy}."
+            },
+            "it": {
+                "singular": "Ho letto e accetto le {terms}. Ho preso visione della {policy}.\n"
+            },
+            "it-CH": {
+                "singular": "Ho letto e accetto le {terms}. Ho preso visione della {policy}.\n"
+            },
+            "it-IT": {
+                "singular": "Ho letto e accetto le {terms}. Ho preso visione della {policy}."
+            },
+            "nl": {
+                "singular": "Ik bevestig dat alle ingevulde gegevens correct zijn, ik de {terms} en het {policy} heb gelezen en hiermee akkoord ga."
+            },
+            "nl-BE": {
+                "singular": "Ik bevestig dat alle ingevulde gegevens correct zijn, ik de {terms} en het {policy} heb gelezen en hiermee akkoord ga."
+            },
+            "nl-NL": {
+                "singular": "Ik bevestig dat alle ingevulde gegevens correct zijn, ik de {terms} en het {policy} heb gelezen en hiermee akkoord ga."
+            },
+            "no": {
+                "singular": "Jeg har lest {terms} og betingelsene og aksepterer dem. Jeg har gjort meg kjent med {policy}."
+            },
+            "pl": {
+                "singular": "Tak, zapoznałam/em się i akceptuję {terms}. Zapoznałam/em się z {policy}."
+            },
+            "pt": {
+                "singular": "Eu li os {terms} e aceito-os. Tomei nota da {policy}."
+            },
+            "ru": {
+                "singular": "Я прочитал/а {terms} и принял/а их. Я принял/а к сведению политику конфиденциальности {policy}."
+            },
+            "sv": {
+                "singular": "Jag har läst {terms} och accepterar dom. Jag har noterat {policy}."
+            }
+        }
+    }
+}

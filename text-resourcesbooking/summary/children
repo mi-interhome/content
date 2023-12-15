@@ -1,0 +1,157 @@
+{
+    "id": "booking.summary.children",
+    "name": "children",
+    "path": "text-resourcesbooking/summary/children",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/children",
+    "slug": "children",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "children"
+    ],
+    "content": {
+        "key": "booking.summary.children",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dítě ",
+                "plural": " Děti"
+            },
+            "da": {
+                "singular": "Barn ",
+                "plural": " Børn"
+            },
+            "de": {
+                "singular": "Kind ",
+                "plural": " Kinder"
+            },
+            "de-AT": {
+                "singular": "Kind ",
+                "plural": " Kinder"
+            },
+            "de-CH": {
+                "singular": "Kind ",
+                "plural": " Kinder"
+            },
+            "de-DE": {
+                "singular": "Kind ",
+                "plural": " Kinder"
+            },
+            "en": {
+                "singular": "Child ",
+                "plural": " Children"
+            },
+            "en-AU": {
+                "singular": "Child ",
+                "plural": " Children"
+            },
+            "en-CA": {
+                "singular": "Child ",
+                "plural": " Children"
+            },
+            "en-GB": {
+                "singular": "Child ",
+                "plural": " Children"
+            },
+            "en-IE": {
+                "singular": "Child ",
+                "plural": " Children"
+            },
+            "en-US": {
+                "singular": "Child ",
+                "plural": " Children"
+            },
+            "es": {
+                "singular": "Niños ",
+                "plural": " Niños"
+            },
+            "fi": {
+                "singular": "Lapsi ",
+                "plural": " Lapset"
+            },
+            "fi-EE": {
+                "singular": "Lapsi ",
+                "plural": " Lapset"
+            },
+            "fi-FI": {
+                "singular": "Lapsi ",
+                "plural": " Lapset"
+            },
+            "fr": {
+                "singular": "Enfant ",
+                "plural": " Enfants"
+            },
+            "fr-BE": {
+                "singular": "Enfant ",
+                "plural": " Enfants"
+            },
+            "fr-CA": {
+                "singular": "Enfant ",
+                "plural": " Enfants"
+            },
+            "fr-CH": {
+                "singular": "Enfant ",
+                "plural": " Enfants"
+            },
+            "fr-FR": {
+                "singular": "Enfant ",
+                "plural": " Enfants"
+            },
+            "hr": {
+                "singular": "Djeca ",
+                "plural": " Djeca"
+            },
+            "it": {
+                "singular": "Bambino ",
+                "plural": " Bambini"
+            },
+            "it-CH": {
+                "singular": "Bambino ",
+                "plural": " Bambini"
+            },
+            "it-IT": {
+                "singular": "Bambino ",
+                "plural": " Bambini"
+            },
+            "nl": {
+                "singular": "Kind ",
+                "plural": " Kinderen"
+            },
+            "nl-BE": {
+                "singular": "Kind ",
+                "plural": " Kinderen"
+            },
+            "nl-NL": {
+                "singular": "Kind ",
+                "plural": " Kinderen"
+            },
+            "no": {
+                "singular": "Barn ",
+                "plural": " Barn"
+            },
+            "pl": {
+                "singular": "Dziecko ",
+                "plural": " Dzieci"
+            },
+            "pt": {
+                "singular": "Criança ",
+                "plural": " Crianças"
+            },
+            "ru": {
+                "singular": "ребенок ",
+                "plural": " Дети"
+            },
+            "sv": {
+                "singular": "Barn ",
+                "plural": " Barn"
+            }
+        }
+    }
+}

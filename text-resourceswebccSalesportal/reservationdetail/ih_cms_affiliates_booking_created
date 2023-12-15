@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_created",
+    "name": "ih_cms_affiliates_booking_created",
+    "path": "text-resourceswebccSalesportal/reservationdetail/ih_cms_affiliates_booking_created",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_created",
+    "slug": "ih_cms_affiliates_booking_created",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_created"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_created",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Datum vytvoření"
+            },
+            "da": {
+                "singular": "Bestillingsdato"
+            },
+            "de": {
+                "singular": "Buchungsdatum"
+            },
+            "de-AT": {
+                "singular": "Buchungsdatum"
+            },
+            "de-CH": {
+                "singular": "Buchungsdatum"
+            },
+            "de-DE": {
+                "singular": "Buchungsdatum"
+            },
+            "en": {
+                "singular": "Creation date"
+            },
+            "en-AU": {
+                "singular": "Creation date"
+            },
+            "en-CA": {
+                "singular": "Creation date"
+            },
+            "en-GB": {
+                "singular": "Creation date"
+            },
+            "en-IE": {
+                "singular": "Creation date"
+            },
+            "en-US": {
+                "singular": "Creation date"
+            },
+            "es": {
+                "singular": "Fecha de creación"
+            },
+            "fi": {
+                "singular": "Varauspäivä"
+            },
+            "fi-EE": {
+                "singular": "Varauspäivä"
+            },
+            "fi-FI": {
+                "singular": "Varauspäivä"
+            },
+            "fr": {
+                "singular": "Date de création"
+            },
+            "fr-BE": {
+                "singular": "Date de création"
+            },
+            "fr-CA": {
+                "singular": "Date de création"
+            },
+            "fr-CH": {
+                "singular": "Date de création"
+            },
+            "fr-FR": {
+                "singular": "Date de création"
+            },
+            "hr": {
+                "singular": "Datum izrade rezervacije"
+            },
+            "it": {
+                "singular": "Data di creazione"
+            },
+            "it-CH": {
+                "singular": "Data di creazione"
+            },
+            "it-IT": {
+                "singular": "Data di creazione"
+            },
+            "nl": {
+                "singular": "Boekdatum"
+            },
+            "nl-BE": {
+                "singular": "Boekdatum"
+            },
+            "nl-NL": {
+                "singular": "Boekdatum"
+            },
+            "no": {
+                "singular": "Bookingdato"
+            },
+            "pl": {
+                "singular": "Data utworzenia"
+            },
+            "pt": {
+                "singular": "Data da criação"
+            },
+            "ru": {
+                "singular": "Дата создания"
+            },
+            "sv": {
+                "singular": "Bokningsdatum"
+            }
+        }
+    }
+}

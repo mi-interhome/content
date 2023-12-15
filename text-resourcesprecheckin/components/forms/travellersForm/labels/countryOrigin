@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.countryOrigin",
+    "name": "countryOrigin",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/labels/countryOrigin",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/countryOrigin",
+    "slug": "countryOrigin",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "countryOrigin"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.countryOrigin",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Země původu"
+            },
+            "da": {
+                "singular": "Oprindelsesland"
+            },
+            "de": {
+                "singular": "Domizil"
+            },
+            "de-AT": {
+                "singular": "Domizil"
+            },
+            "de-CH": {
+                "singular": "Domizil"
+            },
+            "de-DE": {
+                "singular": "Domizil"
+            },
+            "en": {
+                "singular": "Country of origin"
+            },
+            "en-AU": {
+                "singular": "Country of origin"
+            },
+            "en-CA": {
+                "singular": "Country of origin"
+            },
+            "en-GB": {
+                "singular": "Country of origin"
+            },
+            "en-IE": {
+                "singular": "Country of origin"
+            },
+            "en-US": {
+                "singular": "Country of origin"
+            },
+            "es": {
+                "singular": "País de origen"
+            },
+            "fi": {
+                "singular": "Synnyinmaa"
+            },
+            "fi-EE": {
+                "singular": "Synnyinmaa"
+            },
+            "fi-FI": {
+                "singular": "Synnyinmaa"
+            },
+            "fr": {
+                "singular": "Pays d'origine"
+            },
+            "fr-BE": {
+                "singular": "Pays d'origine"
+            },
+            "fr-CA": {
+                "singular": "Pays d'origine"
+            },
+            "fr-CH": {
+                "singular": "Pays d'origine"
+            },
+            "fr-FR": {
+                "singular": "Pays d'origine"
+            },
+            "hr": {
+                "singular": "Država"
+            },
+            "it": {
+                "singular": "Paese d'origine"
+            },
+            "it-CH": {
+                "singular": "Paese d'origine"
+            },
+            "it-IT": {
+                "singular": "Paese d'origine"
+            },
+            "nl": {
+                "singular": "Land van herkomst"
+            },
+            "nl-BE": {
+                "singular": "Land van herkomst"
+            },
+            "nl-NL": {
+                "singular": "Land van herkomst"
+            },
+            "no": {
+                "singular": "Nasjonalitet"
+            },
+            "pl": {
+                "singular": "Narodowość"
+            },
+            "pt": {
+                "singular": "Country of origin"
+            },
+            "ru": {
+                "singular": "Гражданство"
+            },
+            "sv": {
+                "singular": "Ursprungsland"
+            }
+        }
+    }
+}

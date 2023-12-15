@@ -1,0 +1,160 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.cancelConditions.day_s",
+    "name": "day_s",
+    "path": "text-resourceswebccBooking/components/reservation/cancellation/cancelConditions/day_s",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/cancelConditions/day_s",
+    "slug": "day_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "cancelConditions",
+        "day_s"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.cancelConditions.day_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Den před příjezdem ",
+                "plural": " {count} dny před příjezdem"
+            },
+            "da": {
+                "singular": "dag før ankomst ",
+                "plural": " {count} dage før ankomst"
+            },
+            "de": {
+                "singular": "Tag vor Anreise ",
+                "plural": " {count} Tage vor Anreise"
+            },
+            "de-AT": {
+                "singular": "Tag vor Anreise ",
+                "plural": " {count} Tage vor Anreise"
+            },
+            "de-CH": {
+                "singular": "Tag vor Anreise ",
+                "plural": " {count} Tage vor Anreise"
+            },
+            "de-DE": {
+                "singular": "Tag vor Anreise ",
+                "plural": " {count} Tage vor Anreise"
+            },
+            "en": {
+                "singular": "day before arrival ",
+                "plural": " {count} days before arrival"
+            },
+            "en-AU": {
+                "singular": "day before arrival ",
+                "plural": " {count} days before arrival"
+            },
+            "en-CA": {
+                "singular": "day before arrival ",
+                "plural": " {count} days before arrival"
+            },
+            "en-GB": {
+                "singular": "day before arrival ",
+                "plural": " {count} days before arrival"
+            },
+            "en-IE": {
+                "singular": "day before arrival ",
+                "plural": " {count} days before arrival"
+            },
+            "en-US": {
+                "singular": "day before arrival ",
+                "plural": " {count} days before arrival"
+            },
+            "es": {
+                "singular": "día antes de la llegada ",
+                "plural": " {count} días antes de la llegada"
+            },
+            "fi": {
+                "singular": "päivä ennen saapumista ",
+                "plural": " {count} päivää ennen saapumista"
+            },
+            "fi-EE": {
+                "singular": "päivä ennen saapumista ",
+                "plural": " {count} päivää ennen saapumista"
+            },
+            "fi-FI": {
+                "singular": "päivä ennen saapumista ",
+                "plural": " {count} päivää ennen saapumista"
+            },
+            "fr": {
+                "singular": "jours avant l'arrivée ",
+                "plural": " {count} jours avant l'arrivée"
+            },
+            "fr-BE": {
+                "singular": "jours avant l'arrivée ",
+                "plural": " {count} jours avant l'arrivée"
+            },
+            "fr-CA": {
+                "singular": "jours avant l'arrivée ",
+                "plural": " {count} jours avant l'arrivée"
+            },
+            "fr-CH": {
+                "singular": "jours avant l'arrivée ",
+                "plural": " {count} jours avant l'arrivée"
+            },
+            "fr-FR": {
+                "singular": "jours avant l'arrivée ",
+                "plural": " {count} jours avant l'arrivée"
+            },
+            "hr": {
+                "singular": "dan prije dolaska ",
+                "plural": " {count} dana prije dolaska"
+            },
+            "it": {
+                "singular": "giorno prima dell'arrivo ",
+                "plural": " {count} giorni prima dell'arrivo"
+            },
+            "it-CH": {
+                "singular": "giorno prima dell'arrivo ",
+                "plural": " {count} giorni prima dell'arrivo"
+            },
+            "it-IT": {
+                "singular": "giorno prima dell'arrivo ",
+                "plural": " {count} giorni prima dell'arrivo"
+            },
+            "nl": {
+                "singular": "dag voor aankomst  ",
+                "plural": " {count} dagen voor aankomst"
+            },
+            "nl-BE": {
+                "singular": "dag voor aankomst  ",
+                "plural": " {count} dagen voor aankomst"
+            },
+            "nl-NL": {
+                "singular": "dag voor aankomst  ",
+                "plural": " {count} dagen voor aankomst"
+            },
+            "no": {
+                "singular": "dag før ankomst ",
+                "plural": " {count} dager før ankomst"
+            },
+            "pl": {
+                "singular": "dzień przed przyjazdem ",
+                "plural": " {count} dni przed przyjazdem"
+            },
+            "pt": {
+                "singular": "dia antes da chegada ",
+                "plural": " {count} dias antes da chegada"
+            },
+            "ru": {
+                "singular": "день до прибытия ",
+                "plural": " {count} дней до прибытия "
+            },
+            "sv": {
+                "singular": "dag före ankomst ",
+                "plural": " {count} dagar före ankomst"
+            }
+        }
+    }
+}

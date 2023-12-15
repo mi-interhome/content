@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.totalRevenueCancellations",
+    "name": "totalRevenueCancellations",
+    "path": "text-resourceswebccSalesportal/pages/reports/webstats/totalRevenueCancellations",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/totalRevenueCancellations",
+    "slug": "totalRevenueCancellations",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "totalRevenueCancellations"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.totalRevenueCancellations",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Příjmy ze zrušení"
+            },
+            "da": {
+                "singular": "Indtægter fra annulleringer"
+            },
+            "de": {
+                "singular": "Stornierungsumsatz"
+            },
+            "de-AT": {
+                "singular": "Stornierungsumsatz"
+            },
+            "de-CH": {
+                "singular": "Stornierungsumsatz"
+            },
+            "de-DE": {
+                "singular": "Stornierungsumsatz"
+            },
+            "en": {
+                "singular": "Total Revenue of cancellations"
+            },
+            "en-AU": {
+                "singular": "Total Revenue of cancellations"
+            },
+            "en-CA": {
+                "singular": "Total Revenue of cancellations"
+            },
+            "en-GB": {
+                "singular": "Total Revenue of cancellations"
+            },
+            "en-IE": {
+                "singular": "Total Revenue of cancellations"
+            },
+            "en-US": {
+                "singular": "Total Revenue of cancellations"
+            },
+            "es": {
+                "singular": "Ingresos por cancelaciones"
+            },
+            "fi": {
+                "singular": "Peruutusten kokonaistulo"
+            },
+            "fi-EE": {
+                "singular": "Peruutusten kokonaistulo"
+            },
+            "fi-FI": {
+                "singular": "Peruutusten kokonaistulo"
+            },
+            "fr": {
+                "singular": "Revenu des annulations"
+            },
+            "fr-BE": {
+                "singular": "Revenu des annulations"
+            },
+            "fr-CA": {
+                "singular": "Revenu des annulations"
+            },
+            "fr-CH": {
+                "singular": "Revenu des annulations"
+            },
+            "fr-FR": {
+                "singular": "Revenu des annulations"
+            },
+            "hr": {
+                "singular": "Prihod od otkazivanja"
+            },
+            "it": {
+                "singular": "Ricavi per cancellazioni"
+            },
+            "it-CH": {
+                "singular": "Ricavi per cancellazioni"
+            },
+            "it-IT": {
+                "singular": "Ricavi per cancellazioni"
+            },
+            "nl": {
+                "singular": "Omzet annuleringen"
+            },
+            "nl-BE": {
+                "singular": "Omzet annuleringen"
+            },
+            "nl-NL": {
+                "singular": "Omzet annuleringen"
+            },
+            "no": {
+                "singular": "Inntekter fra kanselleringer"
+            },
+            "pl": {
+                "singular": "Dochody z anulacji"
+            },
+            "pt": {
+                "singular": "Receita de cancelamentos"
+            },
+            "ru": {
+                "singular": "Доход от отмены"
+            },
+            "sv": {
+                "singular": "Inkomster från avbokningar"
+            }
+        }
+    }
+}

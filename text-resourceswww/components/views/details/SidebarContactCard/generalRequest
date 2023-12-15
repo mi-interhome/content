@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.SidebarContactCard.generalRequest",
+    "name": "generalRequest",
+    "path": "text-resourceswww/components/views/details/SidebarContactCard/generalRequest",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/SidebarContactCard/generalRequest",
+    "slug": "generalRequest",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "SidebarContactCard",
+        "generalRequest"
+    ],
+    "content": {
+        "key": "www.components.views.details.SidebarContactCard.generalRequest",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Kontaktní formulář"
+            },
+            "da": {
+                "singular": "Kontakt formular"
+            },
+            "de": {
+                "singular": "Anfrageformular"
+            },
+            "de-AT": {
+                "singular": "Anfrageformular"
+            },
+            "de-CH": {
+                "singular": "Anfrageformular"
+            },
+            "de-DE": {
+                "singular": "Anfrageformular"
+            },
+            "en": {
+                "singular": "Contact form"
+            },
+            "en-AU": {
+                "singular": "Contact form"
+            },
+            "en-CA": {
+                "singular": "Contact form"
+            },
+            "en-GB": {
+                "singular": "Contact form"
+            },
+            "en-IE": {
+                "singular": "Contact form"
+            },
+            "en-US": {
+                "singular": "Contact form"
+            },
+            "es": {
+                "singular": "Formulario de contacto"
+            },
+            "fi": {
+                "singular": "Yhteydenottolomake"
+            },
+            "fi-EE": {
+                "singular": "Yhteydenottolomake"
+            },
+            "fi-FI": {
+                "singular": "Yhteydenottolomake"
+            },
+            "fr": {
+                "singular": "Formulaire de contact"
+            },
+            "fr-BE": {
+                "singular": "Formulaire de contact"
+            },
+            "fr-CA": {
+                "singular": "Formulaire de contact"
+            },
+            "fr-CH": {
+                "singular": "Formulaire de contact"
+            },
+            "fr-FR": {
+                "singular": "Formulaire de contact"
+            },
+            "hr": {
+                "singular": "Kontakt forma"
+            },
+            "it": {
+                "singular": "Contattaci"
+            },
+            "it-CH": {
+                "singular": "Contattaci"
+            },
+            "it-IT": {
+                "singular": "Contattaci"
+            },
+            "nl": {
+                "singular": "Contactformulier"
+            },
+            "nl-BE": {
+                "singular": "Contactformulier"
+            },
+            "nl-NL": {
+                "singular": "Contactformulier"
+            },
+            "no": {
+                "singular": "Kontaktskjema"
+            },
+            "pl": {
+                "singular": "Formularz kontaktowy"
+            },
+            "pt": {
+                "singular": "Formulário de contacto"
+            },
+            "ru": {
+                "singular": "Форма заявки"
+            },
+            "sv": {
+                "singular": "Kontaktformulär"
+            }
+        }
+    }
+}

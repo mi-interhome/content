@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.services.service.extracostsOnPlaceText",
+    "name": "extracostsOnPlaceText",
+    "path": "text-resourcescheckout/components/booking/services/service/extracostsOnPlaceText",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/service/extracostsOnPlaceText",
+    "slug": "extracostsOnPlaceText",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "service",
+        "extracostsOnPlaceText"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.service.extracostsOnPlaceText",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Náklady placené na místě místnímu provozovateli závislé na počtu osob a skutečné spotřebě."
+            },
+            "da": {
+                "singular": "Som betales lokalt afhængigt af antal personer og forbrug."
+            },
+            "de": {
+                "singular": "Zu zahlen an den lokalen Dienstleister abhängig von der tatsächlichen Belegung bzw. dem tatsächlichen Verbrauch."
+            },
+            "de-AT": {
+                "singular": "Zu zahlen an den lokalen Dienstleister abhängig von der tatsächlichen Belegung bzw. dem tatsächlichen Verbrauch."
+            },
+            "de-CH": {
+                "singular": "Zu zahlen an den lokalen Dienstleister abhängig von der tatsächlichen Belegung bzw. dem tatsächlichen Verbrauch."
+            },
+            "de-DE": {
+                "singular": "Zu zahlen an den lokalen Dienstleister abhängig von der tatsächlichen Belegung bzw. dem tatsächlichen Verbrauch."
+            },
+            "en": {
+                "singular": "To be paid to the local service provider depending on the actual occupancy and according to use."
+            },
+            "en-AU": {
+                "singular": "To be paid to the local service provider depending on the actual occupancy and according to use."
+            },
+            "en-CA": {
+                "singular": "To be paid to the local service provider depending on the actual occupancy and according to use."
+            },
+            "en-GB": {
+                "singular": "To be paid to the local service provider depending on the actual occupancy and according to use."
+            },
+            "en-IE": {
+                "singular": "To be paid to the local service provider depending on the actual occupancy and according to use."
+            },
+            "en-US": {
+                "singular": "To be paid to the local service provider depending on the actual occupancy and according to use."
+            },
+            "es": {
+                "singular": "Se pagará al provedor de servicios locales dependiendo de la ocupación actual y en relación al uso efectivo."
+            },
+            "fi": {
+                "singular": "Maksetaan paikalla. Riippuu majoittujien lukumäärästä sekä käytön määrästä."
+            },
+            "fi-EE": {
+                "singular": "Maksetaan paikalla. Riippuu majoittujien lukumäärästä sekä käytön määrästä."
+            },
+            "fi-FI": {
+                "singular": "Maksetaan paikalla. Riippuu majoittujien lukumäärästä sekä käytön määrästä."
+            },
+            "fr": {
+                "singular": "A régler sur place selon occupation et consommation effective."
+            },
+            "fr-BE": {
+                "singular": "A régler sur place selon occupation et consommation effective."
+            },
+            "fr-CA": {
+                "singular": "A régler sur place selon occupation et consommation effective."
+            },
+            "fr-CH": {
+                "singular": "A régler sur place selon occupation et consommation effective."
+            },
+            "fr-FR": {
+                "singular": "A régler sur place selon occupation et consommation effective."
+            },
+            "hr": {
+                "singular": "Plaćaju se lokalnom pružatelju usluge na licu mjesta ovisno o raspoloživosti i o stvarnom korištenju."
+            },
+            "it": {
+                "singular": "Da pagare in loco secondo l'occupazione ed il consumo effettivo."
+            },
+            "it-CH": {
+                "singular": "Da pagare in loco secondo l'occupazione ed il consumo effettivo."
+            },
+            "it-IT": {
+                "singular": "Da pagare in loco secondo l'occupazione ed il consumo effettivo."
+            },
+            "nl": {
+                "singular": "Ter plaatse te betalen, afhankelijk van het werkelijke aantal personen of het werkelijke verbruik."
+            },
+            "nl-BE": {
+                "singular": "Ter plaatse te betalen, afhankelijk van het werkelijke aantal personen of het werkelijke verbruik."
+            },
+            "nl-NL": {
+                "singular": "Ter plaatse te betalen, afhankelijk van het werkelijke aantal personen of het werkelijke verbruik."
+            },
+            "no": {
+                "singular": "Som betales på stedet avhengig av antall personer og bruk."
+            },
+            "pl": {
+                "singular": "Płatne na miejscu; zależne od liczby osób zgłoszonych do rezerwacji i według zużycia. "
+            },
+            "pt": {
+                "singular": "A ser pago ao prestador de serviços local dependendo da ocupação atual em relação ao uso real."
+            },
+            "ru": {
+                "singular": "Дополнительные расходы должны быть оплачены  на месте в зависимости от фактического пользования и потребления"
+            },
+            "sv": {
+                "singular": "Som betalas på plats beroende på antal personer och förbrukning."
+            }
+        }
+    }
+}

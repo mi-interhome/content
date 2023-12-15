@@ -1,0 +1,193 @@
+{
+    "id": "www.components.views.details.Sidebar.person_s",
+    "name": "person_s",
+    "path": "text-resourceswww/components/views/details/Sidebar/person_s",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Sidebar/person_s",
+    "slug": "person_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Sidebar",
+        "person_s"
+    ],
+    "content": {
+        "key": "www.components.views.details.Sidebar.person_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "žádní hosté",
+                "singular": "jeden host",
+                "plural": "až {count} osob/y"
+            },
+            "da": {
+                "zero": "ingen gæster",
+                "singular": "en gæst",
+                "plural": "op til {count} personer"
+            },
+            "de": {
+                "zero": "keine Personen",
+                "singular": "eine Person",
+                "plural": "bis {count} Personen"
+            },
+            "de-AT": {
+                "zero": "keine Personen",
+                "singular": "eine Person",
+                "plural": "bis {count} Personen"
+            },
+            "de-CH": {
+                "zero": "keine Personen",
+                "singular": "eine Person",
+                "plural": "bis {count} Personen"
+            },
+            "de-DE": {
+                "zero": "keine Personen",
+                "singular": "eine Person",
+                "plural": "bis {count} Personen"
+            },
+            "en": {
+                "zero": "no guests",
+                "singular": "one guest",
+                "plural": "up to {count} guests"
+            },
+            "en-AU": {
+                "zero": "no guests",
+                "singular": "one guest",
+                "plural": "up to {count} guests"
+            },
+            "en-CA": {
+                "zero": "no guests",
+                "singular": "one guest",
+                "plural": "up to {count} guests"
+            },
+            "en-GB": {
+                "zero": "no guests",
+                "singular": "one guest",
+                "plural": "up to {count} guests"
+            },
+            "en-IE": {
+                "zero": "no guests",
+                "singular": "one guest",
+                "plural": "up to {count} guests"
+            },
+            "en-US": {
+                "zero": "no guests",
+                "singular": "one guest",
+                "plural": "up to {count} guests"
+            },
+            "es": {
+                "zero": "Sin huéspedes",
+                "singular": "Un huésped",
+                "plural": "{count} huéspedes"
+            },
+            "fi": {
+                "zero": "ei henkilöitä",
+                "singular": "yksi henkilö",
+                "plural": "{count} Henkilöä "
+            },
+            "fi-EE": {
+                "zero": "ei henkilöitä",
+                "singular": "yksi henkilö",
+                "plural": "korkeintaan {count} henkilöä"
+            },
+            "fi-FI": {
+                "zero": "ei henkilöitä",
+                "singular": "yksi henkilö",
+                "plural": "{count} Henkilöä "
+            },
+            "fr": {
+                "zero": "Pas de capacité",
+                "singular": "1 personne",
+                "plural": "jusqu'à {count} personnes"
+            },
+            "fr-BE": {
+                "zero": "Pas de capacité",
+                "singular": "1 personne",
+                "plural": "jusqu'à {count} personnes"
+            },
+            "fr-CA": {
+                "zero": "Pas de capacité",
+                "singular": "1 personne",
+                "plural": "jusqu'à {count} personnes"
+            },
+            "fr-CH": {
+                "zero": "Pas de capacité",
+                "singular": "1 personne",
+                "plural": "jusqu'à {count} personnes"
+            },
+            "fr-FR": {
+                "zero": "Pas de capacité",
+                "singular": "1 personne",
+                "plural": "jusqu'à {count} personnes"
+            },
+            "hr": {
+                "zero": "bez gostiju",
+                "singular": "jedan gost",
+                "plural": "{count} osoba/-e "
+            },
+            "it": {
+                "zero": "nr. ospiti",
+                "singular": "un ospite",
+                "plural": "fino a {count} ospiti"
+            },
+            "it-CH": {
+                "zero": "nr. ospiti",
+                "singular": "un ospite",
+                "plural": "fino a {count} ospiti"
+            },
+            "it-IT": {
+                "zero": "nr. ospiti",
+                "singular": "un ospite",
+                "plural": "fino a {count} ospiti"
+            },
+            "nl": {
+                "zero": "geen personen",
+                "singular": "1 persoon",
+                "plural": "{count} personen"
+            },
+            "nl-BE": {
+                "zero": "geen personen",
+                "singular": "1 persoon",
+                "plural": "{count} personen"
+            },
+            "nl-NL": {
+                "zero": "geen personen",
+                "singular": "1 persoon",
+                "plural": "{count} personen"
+            },
+            "no": {
+                "zero": "ingen gjester",
+                "singular": "en gjest",
+                "plural": "opp til {count} personer"
+            },
+            "pl": {
+                "zero": "brak osób",
+                "singular": "jedna osoba",
+                "plural": "Do {count} osób"
+            },
+            "pt": {
+                "zero": "sem hóspedes",
+                "singular": "um hóspede",
+                "plural": "até {count} hóspedes"
+            },
+            "ru": {
+                "zero": "0 человек",
+                "singular": "1 чел",
+                "plural": "до {count} чел."
+            },
+            "sv": {
+                "zero": "inga gäster",
+                "singular": "en gäst",
+                "plural": "upp till {count} personer"
+            }
+        }
+    }
+}

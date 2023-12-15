@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.reservation.checkoutBox.erroronpricefetch",
+    "name": "erroronpricefetch",
+    "path": "text-resourceswebccBooking/components/reservation/checkoutBox/erroronpricefetch",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/checkoutBox/erroronpricefetch",
+    "slug": "erroronpricefetch",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "checkoutBox",
+        "erroronpricefetch"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.checkoutBox.erroronpricefetch",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cenu nelze zobrazit."
+            },
+            "da": {
+                "singular": "Prisen kan ikke vises."
+            },
+            "de": {
+                "singular": "Der Preis kann nicht angezeigt werden."
+            },
+            "de-AT": {
+                "singular": "Der Preis kann nicht angezeigt werden."
+            },
+            "de-CH": {
+                "singular": "Der Preis kann nicht angezeigt werden."
+            },
+            "de-DE": {
+                "singular": "Der Preis kann nicht angezeigt werden."
+            },
+            "en": {
+                "singular": "The price can not be displayed."
+            },
+            "en-AU": {
+                "singular": "The price can not be displayed."
+            },
+            "en-CA": {
+                "singular": "The price can not be displayed."
+            },
+            "en-GB": {
+                "singular": "The price can not be displayed."
+            },
+            "en-IE": {
+                "singular": "The price can not be displayed."
+            },
+            "en-US": {
+                "singular": "The price can not be displayed."
+            },
+            "es": {
+                "singular": "El precio no se puede mostrar."
+            },
+            "fi": {
+                "singular": "Hintaa ei voida näyttää"
+            },
+            "fi-EE": {
+                "singular": "Hintaa ei voida näyttää"
+            },
+            "fi-FI": {
+                "singular": "Hintaa ei voida näyttää"
+            },
+            "fr": {
+                "singular": "Le prix ne peut pas être affiché."
+            },
+            "fr-BE": {
+                "singular": "Le prix ne peut pas être affiché."
+            },
+            "fr-CA": {
+                "singular": "Le prix ne peut pas être affiché."
+            },
+            "fr-CH": {
+                "singular": "Le prix ne peut pas être affiché."
+            },
+            "fr-FR": {
+                "singular": "Le prix ne peut pas être affiché."
+            },
+            "hr": {
+                "singular": "Cijena ne može biti prikazana"
+            },
+            "it": {
+                "singular": "Il prezzo non può essere visualizzato"
+            },
+            "it-CH": {
+                "singular": "Il prezzo non può essere visualizzato"
+            },
+            "it-IT": {
+                "singular": "Il prezzo non può essere visualizzato"
+            },
+            "nl": {
+                "singular": "De prijs kan niet worden weergegeven."
+            },
+            "nl-BE": {
+                "singular": "De prijs kan niet worden weergegeven."
+            },
+            "nl-NL": {
+                "singular": "De prijs kan niet worden weergegeven."
+            },
+            "no": {
+                "singular": "Prisen kan ikke vises."
+            },
+            "pl": {
+                "singular": "Nie można wyświetlić ceny"
+            },
+            "pt": {
+                "singular": "O preço não pode ser exibido."
+            },
+            "ru": {
+                "singular": "Цена не может быть отображена. "
+            },
+            "sv": {
+                "singular": "Priset kan inte visas"
+            }
+        }
+    }
+}

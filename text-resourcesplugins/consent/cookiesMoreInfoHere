@@ -1,0 +1,124 @@
+{
+    "id": "plugins.consent.cookiesMoreInfoHere",
+    "name": "cookiesMoreInfoHere",
+    "path": "text-resourcesplugins/consent/cookiesMoreInfoHere",
+    "folder": "text-resources",
+    "full_slug": "plugins/consent/cookiesMoreInfoHere",
+    "slug": "cookiesMoreInfoHere",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "plugins",
+        "consent",
+        "cookiesMoreInfoHere"
+    ],
+    "content": {
+        "key": "plugins.consent.cookiesMoreInfoHere",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "zde"
+            },
+            "da": {
+                "singular": "her"
+            },
+            "de": {
+                "singular": "hier"
+            },
+            "de-AT": {
+                "singular": "hier"
+            },
+            "de-CH": {
+                "singular": "hier"
+            },
+            "de-DE": {
+                "singular": "hier"
+            },
+            "en": {
+                "singular": "here"
+            },
+            "en-AU": {
+                "singular": "here"
+            },
+            "en-CA": {
+                "singular": "here"
+            },
+            "en-GB": {
+                "singular": "here"
+            },
+            "en-IE": {
+                "singular": "here"
+            },
+            "en-US": {
+                "singular": "here"
+            },
+            "es": {
+                "singular": "aquí"
+            },
+            "fi": {
+                "singular": "tästä"
+            },
+            "fi-EE": {
+                "singular": "tästä"
+            },
+            "fi-FI": {
+                "singular": "tästä"
+            },
+            "fr": {
+                "singular": "ici"
+            },
+            "fr-BE": {
+                "singular": "ici"
+            },
+            "fr-CA": {
+                "singular": "ici"
+            },
+            "fr-CH": {
+                "singular": "ici"
+            },
+            "fr-FR": {
+                "singular": "ici"
+            },
+            "hr": {
+                "singular": "Ovdje"
+            },
+            "it": {
+                "singular": "qui"
+            },
+            "it-CH": {
+                "singular": "qui"
+            },
+            "it-IT": {
+                "singular": "qui"
+            },
+            "nl": {
+                "singular": "hier"
+            },
+            "nl-BE": {
+                "singular": "hier"
+            },
+            "nl-NL": {
+                "singular": "hier"
+            },
+            "no": {
+                "singular": "her"
+            },
+            "pl": {
+                "singular": "tutaj"
+            },
+            "pt": {
+                "singular": "aqui"
+            },
+            "ru": {
+                "singular": "здесь"
+            },
+            "sv": {
+                "singular": "här"
+            }
+        }
+    }
+}

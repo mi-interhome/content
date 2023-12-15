@@ -1,0 +1,124 @@
+{
+    "id": "booking.summary.costs",
+    "name": "costs",
+    "path": "text-resourcesbooking/summary/costs",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/costs",
+    "slug": "costs",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "costs"
+    ],
+    "content": {
+        "key": "booking.summary.costs",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rekapitulace nákladů:\r\n"
+            },
+            "da": {
+                "singular": "Omkostningsoversigt:"
+            },
+            "de": {
+                "singular": "Kostenübersicht:"
+            },
+            "de-AT": {
+                "singular": "Kostenübersicht:"
+            },
+            "de-CH": {
+                "singular": "Kostenübersicht:"
+            },
+            "de-DE": {
+                "singular": "Kostenübersicht:"
+            },
+            "en": {
+                "singular": "Summary of costs:\n"
+            },
+            "en-AU": {
+                "singular": "Summary of costs:\n"
+            },
+            "en-CA": {
+                "singular": "Summary of costs:\n"
+            },
+            "en-GB": {
+                "singular": "Summary of costs:\n"
+            },
+            "en-IE": {
+                "singular": "Summary of costs:\n"
+            },
+            "en-US": {
+                "singular": "Summary of costs:\n"
+            },
+            "es": {
+                "singular": "Resumen de gastos:\r\n"
+            },
+            "fi": {
+                "singular": "Yhteenveto kuluista:"
+            },
+            "fi-EE": {
+                "singular": "Yhteenveto kuluista:"
+            },
+            "fi-FI": {
+                "singular": "Yhteenveto kuluista:"
+            },
+            "fr": {
+                "singular": "Récapitulatif des coûts:"
+            },
+            "fr-BE": {
+                "singular": "Récapitulatif des coûts:"
+            },
+            "fr-CA": {
+                "singular": "Récapitulatif des coûts:"
+            },
+            "fr-CH": {
+                "singular": "Récapitulatif des coûts:"
+            },
+            "fr-FR": {
+                "singular": "Récapitulatif des coûts:"
+            },
+            "hr": {
+                "singular": "Pregled troškova:"
+            },
+            "it": {
+                "singular": "Riepilogo dei costi\r\n"
+            },
+            "it-CH": {
+                "singular": "Riepilogo dei costi\r\n"
+            },
+            "it-IT": {
+                "singular": "Riepilogo dei costi\r\n"
+            },
+            "nl": {
+                "singular": "Kostenoverzicht:"
+            },
+            "nl-BE": {
+                "singular": "Kostenoverzicht:"
+            },
+            "nl-NL": {
+                "singular": "Kostenoverzicht:"
+            },
+            "no": {
+                "singular": "Kostnadsoversikt:"
+            },
+            "pl": {
+                "singular": " Podsumowanie kosztów:"
+            },
+            "pt": {
+                "singular": "Resumo dos custos:\r\n"
+            },
+            "ru": {
+                "singular": "Итого:\r\n"
+            },
+            "sv": {
+                "singular": "Kostnadsöversikt:"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "booking.accommodation.selectedDate",
+    "name": "selectedDate",
+    "path": "text-resourcesbooking/accommodation/selectedDate",
+    "folder": "text-resources",
+    "full_slug": "booking/accommodation/selectedDate",
+    "slug": "selectedDate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "accommodation",
+        "selectedDate"
+    ],
+    "content": {
+        "key": "booking.accommodation.selectedDate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zvolený termín pobytu"
+            },
+            "da": {
+                "singular": "Valgte ankomstdato"
+            },
+            "de": {
+                "singular": "Gewähltes Anreisedatum"
+            },
+            "de-AT": {
+                "singular": "Gewähltes Anreisedatum"
+            },
+            "de-CH": {
+                "singular": "Gewähltes Anreisedatum"
+            },
+            "de-DE": {
+                "singular": "Gewähltes Anreisedatum"
+            },
+            "en": {
+                "singular": "Selected arrival date"
+            },
+            "en-AU": {
+                "singular": "Selected arrival date"
+            },
+            "en-CA": {
+                "singular": "Selected arrival date"
+            },
+            "en-GB": {
+                "singular": "Selected arrival date"
+            },
+            "en-IE": {
+                "singular": "Selected arrival date"
+            },
+            "en-US": {
+                "singular": "Selected arrival date"
+            },
+            "es": {
+                "singular": "Seleccione el día de llegada"
+            },
+            "fi": {
+                "singular": "Valittu saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Valittu saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Valittu saapumispäivä"
+            },
+            "fr": {
+                "singular": "Date d'arrivée sélectionnée"
+            },
+            "fr-BE": {
+                "singular": "Date d'arrivée sélectionnée"
+            },
+            "fr-CA": {
+                "singular": "Date d'arrivée sélectionnée"
+            },
+            "fr-CH": {
+                "singular": "Date d'arrivée sélectionnée"
+            },
+            "fr-FR": {
+                "singular": "Date d'arrivée sélectionnée"
+            },
+            "hr": {
+                "singular": "Odabrani datum dolaska"
+            },
+            "it": {
+                "singular": "Data di arrivo selezionata"
+            },
+            "it-CH": {
+                "singular": "Data di arrivo selezionata"
+            },
+            "it-IT": {
+                "singular": "Data di arrivo selezionata"
+            },
+            "nl": {
+                "singular": "Aankomst- en vertrekdatum"
+            },
+            "nl-BE": {
+                "singular": "Aankomst- en vertrekdatum"
+            },
+            "nl-NL": {
+                "singular": "Aankomst- en vertrekdatum"
+            },
+            "no": {
+                "singular": "Valgt dato for ankomst"
+            },
+            "pl": {
+                "singular": "Wybrana data przyjazdu"
+            },
+            "pt": {
+                "singular": "Data de chegada selecionado"
+            },
+            "ru": {
+                "singular": "Даты поездки"
+            },
+            "sv": {
+                "singular": "Valt ankomstdatum"
+            }
+        }
+    }
+}

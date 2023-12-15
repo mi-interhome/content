@@ -1,0 +1,124 @@
+{
+    "id": "booking.paymentMethods.CC",
+    "name": "CC",
+    "path": "text-resourcesbooking/paymentMethods/CC",
+    "folder": "text-resources",
+    "full_slug": "booking/paymentMethods/CC",
+    "slug": "CC",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "paymentMethods",
+        "CC"
+    ],
+    "content": {
+        "key": "booking.paymentMethods.CC",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Platební karta"
+            },
+            "da": {
+                "singular": "Kreditkort"
+            },
+            "de": {
+                "singular": "Kreditkarte"
+            },
+            "de-AT": {
+                "singular": "Kreditkarte"
+            },
+            "de-CH": {
+                "singular": "Kreditkarte"
+            },
+            "de-DE": {
+                "singular": "Kreditkarte"
+            },
+            "en": {
+                "singular": "credit card"
+            },
+            "en-AU": {
+                "singular": "credit card"
+            },
+            "en-CA": {
+                "singular": "credit card"
+            },
+            "en-GB": {
+                "singular": "credit card"
+            },
+            "en-IE": {
+                "singular": "credit card"
+            },
+            "en-US": {
+                "singular": "credit card"
+            },
+            "es": {
+                "singular": "Tarjeta de crédito"
+            },
+            "fi": {
+                "singular": "luottokortti"
+            },
+            "fi-EE": {
+                "singular": "luottokortti"
+            },
+            "fi-FI": {
+                "singular": "luottokortti"
+            },
+            "fr": {
+                "singular": "carte bancaire"
+            },
+            "fr-BE": {
+                "singular": "carte bancaire"
+            },
+            "fr-CA": {
+                "singular": "carte bancaire"
+            },
+            "fr-CH": {
+                "singular": "carte bancaire"
+            },
+            "fr-FR": {
+                "singular": "carte bancaire"
+            },
+            "hr": {
+                "singular": "Kreditna kartica"
+            },
+            "it": {
+                "singular": "Carta di credito"
+            },
+            "it-CH": {
+                "singular": "Carta di credito"
+            },
+            "it-IT": {
+                "singular": "Carta di credito"
+            },
+            "nl": {
+                "singular": "Creditcard"
+            },
+            "nl-BE": {
+                "singular": "Creditcard"
+            },
+            "nl-NL": {
+                "singular": "Creditcard"
+            },
+            "no": {
+                "singular": "Kredittkort"
+            },
+            "pl": {
+                "singular": "karta kredytowa"
+            },
+            "pt": {
+                "singular": "cartão de crédito"
+            },
+            "ru": {
+                "singular": "кредитная карта"
+            },
+            "sv": {
+                "singular": "kreditkort"
+            }
+        }
+    }
+}

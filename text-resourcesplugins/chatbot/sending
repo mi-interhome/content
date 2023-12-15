@@ -1,0 +1,66 @@
+{
+    "id": "plugins.chatbot.sending",
+    "name": "sending",
+    "path": "text-resourcesplugins/chatbot/sending",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/sending",
+    "slug": "sending",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "sending"
+    ],
+    "content": {
+        "key": "plugins.chatbot.sending",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Wird gesendet..."
+            },
+            "de-AT": {
+                "singular": "Wird gesendet..."
+            },
+            "de-CH": {
+                "singular": "Wird gesendet..."
+            },
+            "de-DE": {
+                "singular": "Wird gesendet..."
+            },
+            "en": {},
+            "en-AU": {},
+            "en-CA": {},
+            "en-GB": {},
+            "en-IE": {},
+            "en-US": {},
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

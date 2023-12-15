@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.modalVerification.form.label",
+    "name": "label",
+    "path": "text-resourceswebccBooking/components/reservation/modalVerification/form/label",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/modalVerification/form/label",
+    "slug": "label",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "modalVerification",
+        "form",
+        "label"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.modalVerification.form.label",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Ověřovací kód prosím zadejte zde:"
+            },
+            "da": {
+                "singular": "Indtast verifikationskoden her:"
+            },
+            "de": {
+                "singular": "Bitte geben Sie den Verifikationscode hier ein:"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie den Verifikationscode hier ein:"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie den Verifikationscode hier ein:"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie den Verifikationscode hier ein:"
+            },
+            "en": {
+                "singular": "Please enter the verification code here:"
+            },
+            "en-AU": {
+                "singular": "Please enter the verification code here:"
+            },
+            "en-CA": {
+                "singular": "Please enter the verification code here:"
+            },
+            "en-GB": {
+                "singular": "Please enter the verification code here:"
+            },
+            "en-IE": {
+                "singular": "Please enter the verification code here:"
+            },
+            "en-US": {
+                "singular": "Please enter the verification code here:"
+            },
+            "es": {
+                "singular": "Por favor, introduzca el código de verificación aquí:"
+            },
+            "fi": {
+                "singular": "Ole hyvä ja syötä vahvistuskoodi tähän:"
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja syötä vahvistuskoodi tähän:"
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja syötä vahvistuskoodi tähän:"
+            },
+            "fr": {
+                "singular": "Veuillez saisir le code de vérification ici :"
+            },
+            "fr-BE": {
+                "singular": "Veuillez saisir le code de vérification ici :"
+            },
+            "fr-CA": {
+                "singular": "Veuillez saisir le code de vérification ici :"
+            },
+            "fr-CH": {
+                "singular": "Veuillez saisir le code de vérification ici :"
+            },
+            "fr-FR": {
+                "singular": "Veuillez saisir le code de vérification ici :"
+            },
+            "hr": {
+                "singular": "Molimo unesite kod za potvrdu ovdje:"
+            },
+            "it": {
+                "singular": "La preghiamo di inserire il codice di verifica qui:"
+            },
+            "it-CH": {
+                "singular": "La preghiamo di inserire il codice di verifica qui:"
+            },
+            "it-IT": {
+                "singular": "La preghiamo di inserire il codice di verifica qui:"
+            },
+            "nl": {
+                "singular": "Vul hier uw verificatiecode in"
+            },
+            "nl-BE": {
+                "singular": "Vul hier uw verificatiecode in"
+            },
+            "nl-NL": {
+                "singular": "Vul hier uw verificatiecode in"
+            },
+            "no": {
+                "singular": "Skriv inn bekreftelseskoden her:"
+            },
+            "pl": {
+                "singular": "Prosimy podać kod weryfikacyjny:"
+            },
+            "pt": {
+                "singular": "Insira o código de verificação aqui:"
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите здесь проверочный код:"
+            },
+            "sv": {
+                "singular": "Skriv in bekräftelsekod här:"
+            }
+        }
+    }
+}

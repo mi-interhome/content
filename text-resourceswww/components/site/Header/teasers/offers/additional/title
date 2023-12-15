@@ -1,0 +1,129 @@
+{
+    "id": "www.components.site.Header.teasers.offers.additional.title",
+    "name": "title",
+    "path": "text-resourceswww/components/site/Header/teasers/offers/additional/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/site/Header/teasers/offers/additional/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "site",
+        "Header",
+        "teasers",
+        "offers",
+        "additional",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.site.Header.teasers.offers.additional.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další nabídky"
+            },
+            "da": {
+                "singular": "Flere tilbud"
+            },
+            "de": {
+                "singular": "Weitere Angebote"
+            },
+            "de-AT": {
+                "singular": "Weitere Angebote"
+            },
+            "de-CH": {
+                "singular": "Weitere Angebote"
+            },
+            "de-DE": {
+                "singular": "Weitere Angebote"
+            },
+            "en": {
+                "singular": "More offers"
+            },
+            "en-AU": {
+                "singular": "More offers"
+            },
+            "en-CA": {
+                "singular": "More offers"
+            },
+            "en-GB": {
+                "singular": "More offers"
+            },
+            "en-IE": {
+                "singular": "More offers"
+            },
+            "en-US": {
+                "singular": "More offers"
+            },
+            "es": {
+                "singular": "Más ofertas"
+            },
+            "fi": {
+                "singular": "Lisää majoituskohteita"
+            },
+            "fi-EE": {
+                "singular": "More offers"
+            },
+            "fi-FI": {
+                "singular": "Lisää majoituskohteita"
+            },
+            "fr": {
+                "singular": "Plus d'offres"
+            },
+            "fr-BE": {
+                "singular": "Plus d'offres"
+            },
+            "fr-CA": {
+                "singular": "Plus d'offres"
+            },
+            "fr-CH": {
+                "singular": "Plus d'offres"
+            },
+            "fr-FR": {
+                "singular": "Plus d'offres"
+            },
+            "hr": {
+                "singular": "Više ponuda"
+            },
+            "it": {
+                "singular": "Ulteriori offerte"
+            },
+            "it-CH": {
+                "singular": "Ulteriori offerte"
+            },
+            "it-IT": {
+                "singular": "Ulteriori offerte"
+            },
+            "nl": {
+                "singular": "Meer aanbiedingen "
+            },
+            "nl-BE": {
+                "singular": "Meer aanbiedingen "
+            },
+            "nl-NL": {
+                "singular": "Meer aanbiedingen "
+            },
+            "no": {
+                "singular": "Flere tilbud"
+            },
+            "pl": {
+                "singular": "Więcej ofert"
+            },
+            "pt": {
+                "singular": "Mais ofertas"
+            },
+            "ru": {
+                "singular": "Больше предложений"
+            },
+            "sv": {
+                "singular": "Fler erbjudanden"
+            }
+        }
+    }
+}

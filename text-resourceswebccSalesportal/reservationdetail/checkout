@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.checkout",
+    "name": "checkout",
+    "path": "text-resourceswebccSalesportal/reservationdetail/checkout",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/checkout",
+    "slug": "checkout",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "checkout"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.checkout",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odjezd"
+            },
+            "da": {
+                "singular": "Tjek ud"
+            },
+            "de": {
+                "singular": "Check-out"
+            },
+            "de-AT": {
+                "singular": "Check-out"
+            },
+            "de-CH": {
+                "singular": "Check-out"
+            },
+            "de-DE": {
+                "singular": "Check-out"
+            },
+            "en": {
+                "singular": "Check-out"
+            },
+            "en-AU": {
+                "singular": "Check-out"
+            },
+            "en-CA": {
+                "singular": "Check-out"
+            },
+            "en-GB": {
+                "singular": "Check-out"
+            },
+            "en-IE": {
+                "singular": "Check-out"
+            },
+            "en-US": {
+                "singular": "Check-out"
+            },
+            "es": {
+                "singular": "Salida"
+            },
+            "fi": {
+                "singular": "Lähtöpäivä"
+            },
+            "fi-EE": {
+                "singular": "Lähtöpäivä"
+            },
+            "fi-FI": {
+                "singular": "Lähtöpäivä"
+            },
+            "fr": {
+                "singular": "Date de départ"
+            },
+            "fr-BE": {
+                "singular": "Date de départ"
+            },
+            "fr-CA": {
+                "singular": "Date de départ"
+            },
+            "fr-CH": {
+                "singular": "Date de départ"
+            },
+            "fr-FR": {
+                "singular": "Date de départ"
+            },
+            "hr": {
+                "singular": "Datum odlaska"
+            },
+            "it": {
+                "singular": "Data di fine soggiorno"
+            },
+            "it-CH": {
+                "singular": "Data di fine soggiorno"
+            },
+            "it-IT": {
+                "singular": "Data di fine soggiorno"
+            },
+            "nl": {
+                "singular": "Check-out"
+            },
+            "nl-BE": {
+                "singular": "Check-out"
+            },
+            "nl-NL": {
+                "singular": "Check-out"
+            },
+            "no": {
+                "singular": "Checke ut"
+            },
+            "pl": {
+                "singular": "Data wyjazdu"
+            },
+            "pt": {
+                "singular": "Verificação de saída"
+            },
+            "ru": {
+                "singular": "Дата выезда"
+            },
+            "sv": {
+                "singular": "Utcheckning"
+            }
+        }
+    }
+}

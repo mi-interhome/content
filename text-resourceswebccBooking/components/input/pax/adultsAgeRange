@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.input.pax.adultsAgeRange",
+    "name": "adultsAgeRange",
+    "path": "text-resourceswebccBooking/components/input/pax/adultsAgeRange",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/input/pax/adultsAgeRange",
+    "slug": "adultsAgeRange",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "input",
+        "pax",
+        "adultsAgeRange"
+    ],
+    "content": {
+        "key": "webccBooking.components.input.pax.adultsAgeRange",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "od 18 let"
+            },
+            "da": {
+                "singular": "fra 18 år"
+            },
+            "de": {
+                "singular": "ab 18 Jahren"
+            },
+            "de-AT": {
+                "singular": "ab 18 Jahren"
+            },
+            "de-CH": {
+                "singular": "ab 18 Jahren"
+            },
+            "de-DE": {
+                "singular": "ab 18 Jahren"
+            },
+            "en": {
+                "singular": "from 18 years"
+            },
+            "en-AU": {
+                "singular": "from 18 years"
+            },
+            "en-CA": {
+                "singular": "from 18 years"
+            },
+            "en-GB": {
+                "singular": "from 18 years"
+            },
+            "en-IE": {
+                "singular": "from 18 years"
+            },
+            "en-US": {
+                "singular": "from 18 years"
+            },
+            "es": {
+                "singular": "a partir de los 18 años"
+            },
+            "fi": {
+                "singular": "alkaen 18 vuotta"
+            },
+            "fi-EE": {
+                "singular": "alkaen 18 vuotta"
+            },
+            "fi-FI": {
+                "singular": "alkaen 18 vuotta"
+            },
+            "fr": {
+                "singular": "à partir de 18 ans"
+            },
+            "fr-BE": {
+                "singular": "à partir de 18 ans"
+            },
+            "fr-CA": {
+                "singular": "à partir de 18 ans"
+            },
+            "fr-CH": {
+                "singular": "à partir de 18 ans"
+            },
+            "fr-FR": {
+                "singular": "à partir de 18 ans"
+            },
+            "hr": {
+                "singular": "od 18 godina "
+            },
+            "it": {
+                "singular": "dai 18 anni"
+            },
+            "it-CH": {
+                "singular": "dai 18 anni"
+            },
+            "it-IT": {
+                "singular": "dai 18 anni"
+            },
+            "nl": {
+                "singular": "vanaf 18 jaar"
+            },
+            "nl-BE": {
+                "singular": "vanaf 18 jaar"
+            },
+            "nl-NL": {
+                "singular": "vanaf 18 jaar"
+            },
+            "no": {
+                "singular": "fra 18 år"
+            },
+            "pl": {
+                "singular": "powyżej 18 lat"
+            },
+            "pt": {
+                "singular": "a partir de 18 anos"
+            },
+            "ru": {
+                "singular": "старше 18 лет"
+            },
+            "sv": {
+                "singular": "från 18 år"
+            }
+        }
+    }
+}

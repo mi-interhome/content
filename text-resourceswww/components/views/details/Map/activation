@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Map.activation",
+    "name": "activation",
+    "path": "text-resourceswww/components/views/details/Map/activation",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Map/activation",
+    "slug": "activation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Map",
+        "activation"
+    ],
+    "content": {
+        "key": "www.components.views.details.Map.activation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zde můžete vidět umístění Vašeho ubytování."
+            },
+            "da": {
+                "singular": "Her kan du se, hvor din bolig er placeret."
+            },
+            "de": {
+                "singular": "Lassen Sie sich hier die Lage der Unterkunft anzeigen."
+            },
+            "de-AT": {
+                "singular": "Lassen Sie sich hier die Lage der Unterkunft anzeigen."
+            },
+            "de-CH": {
+                "singular": "Lassen Sie sich hier die Lage der Unterkunft anzeigen."
+            },
+            "de-DE": {
+                "singular": "Lassen Sie sich hier die Lage der Unterkunft anzeigen."
+            },
+            "en": {
+                "singular": "You can see the location of your accommodation here."
+            },
+            "en-AU": {
+                "singular": "You can see the location of your accommodation here."
+            },
+            "en-CA": {
+                "singular": "You can see the location of your accommodation here."
+            },
+            "en-GB": {
+                "singular": "You can see the location of your accommodation here."
+            },
+            "en-IE": {
+                "singular": "You can see the location of your accommodation here."
+            },
+            "en-US": {
+                "singular": "You can see the location of your accommodation here."
+            },
+            "es": {
+                "singular": "Puede ver la localización de su alojamiento aquí."
+            },
+            "fi": {
+                "singular": "Näet loma-asuntosi sijainnin tässä."
+            },
+            "fi-EE": {
+                "singular": "Näet loma-asuntosi sijainnin tässä."
+            },
+            "fi-FI": {
+                "singular": "Näet loma-asuntosi sijainnin tässä."
+            },
+            "fr": {
+                "singular": "Vous pouvez visualiser la localisation de votre logement ici."
+            },
+            "fr-BE": {
+                "singular": "Vous pouvez visualiser la localisation de votre logement ici."
+            },
+            "fr-CA": {
+                "singular": "Vous pouvez visualiser la localisation de votre logement ici."
+            },
+            "fr-CH": {
+                "singular": "Vous pouvez visualiser la localisation de votre logement ici."
+            },
+            "fr-FR": {
+                "singular": "Vous pouvez visualiser la localisation de votre logement ici."
+            },
+            "hr": {
+                "singular": "Ovdje možete vidjeti lokaciju smještajne jedinice."
+            },
+            "it": {
+                "singular": "Puoi vedere qui la posizione della casa vacanze."
+            },
+            "it-CH": {
+                "singular": "Puoi vedere qui la posizione della casa vacanze."
+            },
+            "it-IT": {
+                "singular": "Puoi vedere qui la posizione della casa vacanze."
+            },
+            "nl": {
+                "singular": "Bekijk hier de locatie van uw vakantiewoning."
+            },
+            "nl-BE": {
+                "singular": "Bekijk hier de locatie van uw vakantiewoning."
+            },
+            "nl-NL": {
+                "singular": "Bekijk hier de locatie van uw vakantiewoning."
+            },
+            "no": {
+                "singular": "Her kan du se hvor ferieboligen ligger."
+            },
+            "pl": {
+                "singular": "Pokaż lokalizację."
+            },
+            "pt": {
+                "singular": "Pode ver a localização do seu alojamento aqui."
+            },
+            "ru": {
+                "singular": "Посмотреть расположение этого объекта Вы можете здесь. "
+            },
+            "sv": {
+                "singular": "Här kan du se var ditt boende ligger."
+            }
+        }
+    }
+}

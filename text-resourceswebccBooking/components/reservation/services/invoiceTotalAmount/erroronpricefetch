@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.services.invoiceTotalAmount.erroronpricefetch",
+    "name": "erroronpricefetch",
+    "path": "text-resourceswebccBooking/components/reservation/services/invoiceTotalAmount/erroronpricefetch",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/invoiceTotalAmount/erroronpricefetch",
+    "slug": "erroronpricefetch",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "invoiceTotalAmount",
+        "erroronpricefetch"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.invoiceTotalAmount.erroronpricefetch",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena není k dispozici."
+            },
+            "da": {
+                "singular": "Prisen er ikke tilgængelig."
+            },
+            "de": {
+                "singular": "Preis nicht verfügbar."
+            },
+            "de-AT": {
+                "singular": "Preis nicht verfügbar."
+            },
+            "de-CH": {
+                "singular": "Preis nicht verfügbar."
+            },
+            "de-DE": {
+                "singular": "Preis nicht verfügbar."
+            },
+            "en": {
+                "singular": "Price not available."
+            },
+            "en-AU": {
+                "singular": "Price not available."
+            },
+            "en-CA": {
+                "singular": "Price not available."
+            },
+            "en-GB": {
+                "singular": "Price not available."
+            },
+            "en-IE": {
+                "singular": "Price not available."
+            },
+            "en-US": {
+                "singular": "Price not available."
+            },
+            "es": {
+                "singular": "Precio no disponible."
+            },
+            "fi": {
+                "singular": "Hinta ei ole saatavilla."
+            },
+            "fi-EE": {
+                "singular": "Hinta ei ole saatavilla."
+            },
+            "fi-FI": {
+                "singular": "Hinta ei ole saatavilla."
+            },
+            "fr": {
+                "singular": "Prix non disponible"
+            },
+            "fr-BE": {
+                "singular": "Prix non disponible"
+            },
+            "fr-CA": {
+                "singular": "Prix non disponible"
+            },
+            "fr-CH": {
+                "singular": "Prix non disponible"
+            },
+            "fr-FR": {
+                "singular": "Prix non disponible"
+            },
+            "hr": {
+                "singular": "Cijena nije dostupna"
+            },
+            "it": {
+                "singular": "Prezzo non disponibile"
+            },
+            "it-CH": {
+                "singular": "Prezzo non disponibile"
+            },
+            "it-IT": {
+                "singular": "Prezzo non disponibile"
+            },
+            "nl": {
+                "singular": "Prijs niet beschikbaar."
+            },
+            "nl-BE": {
+                "singular": "Prijs niet beschikbaar."
+            },
+            "nl-NL": {
+                "singular": "Prijs niet beschikbaar."
+            },
+            "no": {
+                "singular": "Pris ikke tilgjengelig."
+            },
+            "pl": {
+                "singular": "Brak możliwości kalkulacji ceny"
+            },
+            "pt": {
+                "singular": "Preço não disponível."
+            },
+            "ru": {
+                "singular": "Цена не указана."
+            },
+            "sv": {
+                "singular": "Pris ej tillgängligt"
+            }
+        }
+    }
+}

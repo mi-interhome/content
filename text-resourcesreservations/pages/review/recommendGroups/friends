@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.recommendGroups.friends",
+    "name": "friends",
+    "path": "text-resourcesreservations/pages/review/recommendGroups/friends",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/recommendGroups/friends",
+    "slug": "friends",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "recommendGroups",
+        "friends"
+    ],
+    "content": {
+        "key": "reservations.pages.review.recommendGroups.friends",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Krátké dovolené s přáteli"
+            },
+            "da": {
+                "singular": "Rejse med vennerne"
+            },
+            "de": {
+                "singular": "Trips mit Freunden"
+            },
+            "de-AT": {
+                "singular": "Trips mit Freunden"
+            },
+            "de-CH": {
+                "singular": "Trips mit Freunden"
+            },
+            "de-DE": {
+                "singular": "Trips mit Freunden"
+            },
+            "en": {
+                "singular": "Friends getaway"
+            },
+            "en-AU": {
+                "singular": "Friends getaway"
+            },
+            "en-CA": {
+                "singular": "Friends getaway"
+            },
+            "en-GB": {
+                "singular": "Friends getaway"
+            },
+            "en-IE": {
+                "singular": "Friends getaway"
+            },
+            "en-US": {
+                "singular": "Friends getaway"
+            },
+            "es": {
+                "singular": "Con amigos"
+            },
+            "fi": {
+                "singular": "Kavereiden lomapaikka"
+            },
+            "fi-EE": {
+                "singular": "Kavereiden lomapaikka"
+            },
+            "fi-FI": {
+                "singular": "Kavereiden lomapaikka"
+            },
+            "fr": {
+                "singular": "Groupe d'amis"
+            },
+            "fr-BE": {
+                "singular": "Groupe d'amis"
+            },
+            "fr-CA": {
+                "singular": "Groupe d'amis"
+            },
+            "fr-CH": {
+                "singular": "Groupe d'amis"
+            },
+            "fr-FR": {
+                "singular": "Groupe d'amis"
+            },
+            "hr": {
+                "singular": "Grupe prijatelja"
+            },
+            "it": {
+                "singular": "Gruppi di amici"
+            },
+            "it-CH": {
+                "singular": "Gruppi di amici"
+            },
+            "it-IT": {
+                "singular": "Gruppi di amici"
+            },
+            "nl": {
+                "singular": "Vakantie met vrienden"
+            },
+            "nl-BE": {
+                "singular": "Vakantie met vrienden"
+            },
+            "nl-NL": {
+                "singular": "Vakantie met vrienden"
+            },
+            "no": {
+                "singular": "Venners utflukter"
+            },
+            "pl": {
+                "singular": "Miejsce na wyjazd ze znajomymi"
+            },
+            "pt": {
+                "singular": "Viajar com amigos"
+            },
+            "ru": {
+                "singular": "Краткосрочные отпуска с друзьями"
+            },
+            "sv": {
+                "singular": "Kompisresa"
+            }
+        }
+    }
+}

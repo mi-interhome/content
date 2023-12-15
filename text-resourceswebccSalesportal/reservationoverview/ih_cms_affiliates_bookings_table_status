@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.ih_cms_affiliates_bookings_table_status",
+    "name": "ih_cms_affiliates_bookings_table_status",
+    "path": "text-resourceswebccSalesportal/reservationoverview/ih_cms_affiliates_bookings_table_status",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/ih_cms_affiliates_bookings_table_status",
+    "slug": "ih_cms_affiliates_bookings_table_status",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "ih_cms_affiliates_bookings_table_status"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.ih_cms_affiliates_bookings_table_status",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Status"
+            },
+            "da": {
+                "singular": "Status"
+            },
+            "de": {
+                "singular": "Status"
+            },
+            "de-AT": {
+                "singular": "Status"
+            },
+            "de-CH": {
+                "singular": "Status"
+            },
+            "de-DE": {
+                "singular": "Status"
+            },
+            "en": {
+                "singular": "Status"
+            },
+            "en-AU": {
+                "singular": "Status"
+            },
+            "en-CA": {
+                "singular": "Status"
+            },
+            "en-GB": {
+                "singular": "Status"
+            },
+            "en-IE": {
+                "singular": "Status"
+            },
+            "en-US": {
+                "singular": "Status"
+            },
+            "es": {
+                "singular": "Estado"
+            },
+            "fi": {
+                "singular": "Tila"
+            },
+            "fi-EE": {
+                "singular": "Tila"
+            },
+            "fi-FI": {
+                "singular": "Tila"
+            },
+            "fr": {
+                "singular": "Statut"
+            },
+            "fr-BE": {
+                "singular": "Statut"
+            },
+            "fr-CA": {
+                "singular": "Statut"
+            },
+            "fr-CH": {
+                "singular": "Statut"
+            },
+            "fr-FR": {
+                "singular": "Statut"
+            },
+            "hr": {
+                "singular": "Status"
+            },
+            "it": {
+                "singular": "Stato"
+            },
+            "it-CH": {
+                "singular": "Stato"
+            },
+            "it-IT": {
+                "singular": "Stato"
+            },
+            "nl": {
+                "singular": "Status"
+            },
+            "nl-BE": {
+                "singular": "Status"
+            },
+            "nl-NL": {
+                "singular": "Status"
+            },
+            "no": {
+                "singular": "Status"
+            },
+            "pl": {
+                "singular": "Status"
+            },
+            "pt": {
+                "singular": "Estado"
+            },
+            "ru": {
+                "singular": "Статус"
+            },
+            "sv": {
+                "singular": "Status"
+            }
+        }
+    }
+}

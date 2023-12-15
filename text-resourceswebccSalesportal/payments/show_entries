@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.payments.show_entries",
+    "name": "show_entries",
+    "path": "text-resourceswebccSalesportal/payments/show_entries",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/payments/show_entries",
+    "slug": "show_entries",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "payments",
+        "show_entries"
+    ],
+    "content": {
+        "key": "webccSalesportal.payments.show_entries",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Záznamy"
+            },
+            "da": {
+                "singular": "Registreringer"
+            },
+            "de": {
+                "singular": "Einträge"
+            },
+            "de-AT": {
+                "singular": "Einträge"
+            },
+            "de-CH": {
+                "singular": "Einträge"
+            },
+            "de-DE": {
+                "singular": "Einträge"
+            },
+            "en": {
+                "singular": "Records"
+            },
+            "en-AU": {
+                "singular": "Records"
+            },
+            "en-CA": {
+                "singular": "Records"
+            },
+            "en-GB": {
+                "singular": "Records"
+            },
+            "en-IE": {
+                "singular": "Records"
+            },
+            "en-US": {
+                "singular": "Records"
+            },
+            "es": {
+                "singular": "Registros"
+            },
+            "fi": {
+                "singular": "Records"
+            },
+            "fi-EE": {
+                "singular": "Records"
+            },
+            "fi-FI": {
+                "singular": "Records"
+            },
+            "fr": {
+                "singular": "Résultats"
+            },
+            "fr-BE": {
+                "singular": "Résultats"
+            },
+            "fr-CA": {
+                "singular": "Résultats"
+            },
+            "fr-CH": {
+                "singular": "Résultats"
+            },
+            "fr-FR": {
+                "singular": "Résultats"
+            },
+            "hr": {
+                "singular": "Arhiva"
+            },
+            "it": {
+                "singular": "Record"
+            },
+            "it-CH": {
+                "singular": "Record"
+            },
+            "it-IT": {
+                "singular": "Record"
+            },
+            "nl": {
+                "singular": "Archief"
+            },
+            "nl-BE": {
+                "singular": "Archief"
+            },
+            "nl-NL": {
+                "singular": "Archief"
+            },
+            "no": {
+                "singular": "Registrer"
+            },
+            "pl": {
+                "singular": "Rekordy"
+            },
+            "pt": {
+                "singular": "Registros"
+            },
+            "ru": {
+                "singular": "Отчетность"
+            },
+            "sv": {
+                "singular": "Register"
+            }
+        }
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": "plugins.chatbot.minutes",
+    "name": "minutes",
+    "path": "text-resourcesplugins/chatbot/minutes",
+    "folder": "text-resources",
+    "full_slug": "plugins/chatbot/minutes",
+    "slug": "minutes",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "plugins",
+        "chatbot",
+        "minutes"
+    ],
+    "content": {
+        "key": "plugins.chatbot.minutes",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "vor {value} Minute(n)"
+            },
+            "de-AT": {
+                "singular": "vor {value} Minute(n)"
+            },
+            "de-CH": {
+                "singular": "vor {value} Minute(n)"
+            },
+            "de-DE": {
+                "singular": "vor {value} Minute(n)"
+            },
+            "en": {},
+            "en-AU": {},
+            "en-CA": {},
+            "en-GB": {},
+            "en-IE": {},
+            "en-US": {},
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

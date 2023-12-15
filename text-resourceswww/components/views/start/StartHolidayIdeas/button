@@ -1,0 +1,125 @@
+{
+    "id": "www.components.views.start.StartHolidayIdeas.button",
+    "name": "button",
+    "path": "text-resourceswww/components/views/start/StartHolidayIdeas/button",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/start/StartHolidayIdeas/button",
+    "slug": "button",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "start",
+        "StartHolidayIdeas",
+        "button"
+    ],
+    "content": {
+        "key": "www.components.views.start.StartHolidayIdeas.button",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zobrazit všechny tipy na dovolenou"
+            },
+            "da": {
+                "singular": "Vis alle ferieideer"
+            },
+            "de": {
+                "singular": "Alle Urlaubsideen anzeigen"
+            },
+            "de-AT": {
+                "singular": "Alle Urlaubsideen anzeigen"
+            },
+            "de-CH": {
+                "singular": "Alle Ferienideen anzeigen"
+            },
+            "de-DE": {
+                "singular": "Alle Urlaubsideen anzeigen"
+            },
+            "en": {
+                "singular": "Show all holiday ideas"
+            },
+            "en-AU": {
+                "singular": "Show all holiday ideas"
+            },
+            "en-CA": {
+                "singular": "Show all holiday ideas"
+            },
+            "en-GB": {
+                "singular": "Show all holiday ideas"
+            },
+            "en-IE": {
+                "singular": "Show all holiday ideas"
+            },
+            "en-US": {
+                "singular": "Show all holiday ideas"
+            },
+            "es": {
+                "singular": "Ver todas las ideas "
+            },
+            "fi": {
+                "singular": "Näytä kaikki lomaideat"
+            },
+            "fi-EE": {
+                "singular": "Näytä kaikki lomaideat"
+            },
+            "fi-FI": {
+                "singular": "Näytä kaikki lomaideat"
+            },
+            "fr": {
+                "singular": "Voir toutes les idées de vacances"
+            },
+            "fr-BE": {
+                "singular": "Voir toutes les idées de vacances"
+            },
+            "fr-CA": {
+                "singular": "Voir toutes les idées de vacances"
+            },
+            "fr-CH": {
+                "singular": "Voir toutes les idées de vacances"
+            },
+            "fr-FR": {
+                "singular": "Voir toutes les idées de vacances"
+            },
+            "hr": {
+                "singular": "Prikaži sve ideje za odmor"
+            },
+            "it": {
+                "singular": "Mostra tutte "
+            },
+            "it-CH": {
+                "singular": "Mostra tutte "
+            },
+            "it-IT": {
+                "singular": "Mostra tutte "
+            },
+            "nl": {
+                "singular": "Toon alle vakantie-ideeën"
+            },
+            "nl-BE": {
+                "singular": "Toon alle vakantie-ideeën"
+            },
+            "nl-NL": {
+                "singular": "Toon alle vakantie-ideeën"
+            },
+            "no": {
+                "singular": "Vis alle ferieidéer"
+            },
+            "pl": {
+                "singular": "Wszystkie pomysły na wakacje"
+            },
+            "pt": {
+                "singular": "Ver todas as ideias para as suas férias"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Visa alla semesteridéer"
+            }
+        }
+    }
+}

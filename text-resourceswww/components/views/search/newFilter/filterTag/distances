@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.newFilter.filterTag.distances",
+    "name": "distances",
+    "path": "text-resourceswww/components/views/search/newFilter/filterTag/distances",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterTag/distances",
+    "slug": "distances",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterTag",
+        "distances"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterTag.distances",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vzdálenosti"
+            },
+            "da": {
+                "singular": "Distance"
+            },
+            "de": {
+                "singular": "Distanzen"
+            },
+            "de-AT": {
+                "singular": "Distanzen"
+            },
+            "de-CH": {
+                "singular": "Distanzen"
+            },
+            "de-DE": {
+                "singular": "Distanzen"
+            },
+            "en": {
+                "singular": "Distances"
+            },
+            "en-AU": {
+                "singular": "Distances"
+            },
+            "en-CA": {
+                "singular": "Distances"
+            },
+            "en-GB": {
+                "singular": "Distances"
+            },
+            "en-IE": {
+                "singular": "Distances"
+            },
+            "en-US": {
+                "singular": "Distances"
+            },
+            "es": {
+                "singular": "Distancias"
+            },
+            "fi": {
+                "singular": "Etäisyydet"
+            },
+            "fi-EE": {
+                "singular": "Etäisyydet"
+            },
+            "fi-FI": {
+                "singular": "Etäisyydet"
+            },
+            "fr": {
+                "singular": "Distances"
+            },
+            "fr-BE": {
+                "singular": "Distances"
+            },
+            "fr-CA": {
+                "singular": "Distances"
+            },
+            "fr-CH": {
+                "singular": "Distances"
+            },
+            "fr-FR": {
+                "singular": "Distances"
+            },
+            "hr": {
+                "singular": "Udaljenosti"
+            },
+            "it": {
+                "singular": "Distanze"
+            },
+            "it-CH": {
+                "singular": "Distanze"
+            },
+            "it-IT": {
+                "singular": "Distanze"
+            },
+            "nl": {
+                "singular": "Afstanden"
+            },
+            "nl-BE": {
+                "singular": "Afstanden"
+            },
+            "nl-NL": {
+                "singular": "Afstanden"
+            },
+            "no": {
+                "singular": "Avstand"
+            },
+            "pl": {
+                "singular": "Odległość"
+            },
+            "pt": {
+                "singular": "distâncias"
+            },
+            "ru": {
+                "singular": "Расстояния"
+            },
+            "sv": {
+                "singular": "Avstånd"
+            }
+        }
+    }
+}

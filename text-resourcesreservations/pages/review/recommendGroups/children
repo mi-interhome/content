@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.recommendGroups.children",
+    "name": "children",
+    "path": "text-resourcesreservations/pages/review/recommendGroups/children",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/recommendGroups/children",
+    "slug": "children",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "recommendGroups",
+        "children"
+    ],
+    "content": {
+        "key": "reservations.pages.review.recommendGroups.children",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Rodiny s malými dětmi"
+            },
+            "da": {
+                "singular": "Familier med små børn"
+            },
+            "de": {
+                "singular": "Familien mit kleinen Kindern"
+            },
+            "de-AT": {
+                "singular": "Familien mit kleinen Kindern"
+            },
+            "de-CH": {
+                "singular": "Familien mit kleinen Kindern"
+            },
+            "de-DE": {
+                "singular": "Familien mit kleinen Kindern"
+            },
+            "en": {
+                "singular": "Families with young children"
+            },
+            "en-AU": {
+                "singular": "Families with young children"
+            },
+            "en-CA": {
+                "singular": "Families with young children"
+            },
+            "en-GB": {
+                "singular": "Families with young children"
+            },
+            "en-IE": {
+                "singular": "Families with young children"
+            },
+            "en-US": {
+                "singular": "Families with young children"
+            },
+            "es": {
+                "singular": "Familias con niños pequeños"
+            },
+            "fi": {
+                "singular": "Perheet, joissa pieniä lapsia"
+            },
+            "fi-EE": {
+                "singular": "Perheet, joissa pieniä lapsia"
+            },
+            "fi-FI": {
+                "singular": "Perheet, joissa pieniä lapsia"
+            },
+            "fr": {
+                "singular": "Familles avec jeunes enfants"
+            },
+            "fr-BE": {
+                "singular": "Familles avec jeunes enfants"
+            },
+            "fr-CA": {
+                "singular": "Familles avec jeunes enfants"
+            },
+            "fr-CH": {
+                "singular": "Familles avec jeunes enfants"
+            },
+            "fr-FR": {
+                "singular": "Familles avec jeunes enfants"
+            },
+            "hr": {
+                "singular": "Obitelji s malom djecom"
+            },
+            "it": {
+                "singular": "Famiglie con bambini"
+            },
+            "it-CH": {
+                "singular": "Famiglie con bambini"
+            },
+            "it-IT": {
+                "singular": "Famiglie con bambini"
+            },
+            "nl": {
+                "singular": "Gezinnen met kleine kinderen"
+            },
+            "nl-BE": {
+                "singular": "Gezinnen met kleine kinderen"
+            },
+            "nl-NL": {
+                "singular": "Gezinnen met kleine kinderen"
+            },
+            "no": {
+                "singular": "Familier med små barn"
+            },
+            "pl": {
+                "singular": "Rodziny z małymi dziećmi"
+            },
+            "pt": {
+                "singular": "Famílias com crianças"
+            },
+            "ru": {
+                "singular": "Семьи с маленькими детьми"
+            },
+            "sv": {
+                "singular": "Familjer med småbarn"
+            }
+        }
+    }
+}

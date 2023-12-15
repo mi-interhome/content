@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.modalVerification.code.request",
+    "name": "request",
+    "path": "text-resourceswebccBooking/components/reservation/modalVerification/code/request",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/modalVerification/code/request",
+    "slug": "request",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "modalVerification",
+        "code",
+        "request"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.modalVerification.code.request",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokud jste žádný kód neobdželi, můžete zde požádat o nový kód. Pokud máte nějaké problémy, kontaktujte prosím osobu uvedenou na Vaší faktuře."
+            },
+            "da": {
+                "singular": "Hvis du ikke har modtaget en kode, kan du anmode om en ny her. Hvis du har problemer, er du velkommen til at kontakte den person, der er angivet på fakturaen."
+            },
+            "de": {
+                "singular": "Sollten Sie keinen Code erhalten haben, können Sie hier einen neuen Code anfordern. Bei Problemen wenden Sie sich bitte an den in Ihrer Rechnung genannten Kontakt."
+            },
+            "de-AT": {
+                "singular": "Sollten Sie keinen Code erhalten haben, können Sie hier einen neuen Code anfordern. Bei Problemen wenden Sie sich bitte an den in Ihrer Rechnung genannten Kontakt."
+            },
+            "de-CH": {
+                "singular": "Sollten Sie keinen Code erhalten haben, können Sie hier einen neuen Code anfordern. Bei Problemen wenden Sie sich bitte an den in Ihrer Rechnung genannten Kontakt."
+            },
+            "de-DE": {
+                "singular": "Sollten Sie keinen Code erhalten haben, können Sie hier einen neuen Code anfordern. Bei Problemen wenden Sie sich bitte an den in Ihrer Rechnung genannten Kontakt."
+            },
+            "en": {
+                "singular": "If you have not received a code, you can request a new code here. If you have any problems, please contact the person named in your invoice."
+            },
+            "en-AU": {
+                "singular": "If you have not received a code, you can request a new code here. If you have any problems, please contact the person named in your invoice."
+            },
+            "en-CA": {
+                "singular": "If you have not received a code, you can request a new code here. If you have any problems, please contact the person named in your invoice."
+            },
+            "en-GB": {
+                "singular": "If you have not received a code, you can request a new code here. If you have any problems, please contact the person named in your invoice."
+            },
+            "en-IE": {
+                "singular": "If you have not received a code, you can request a new code here. If you have any problems, please contact the person named in your invoice."
+            },
+            "en-US": {
+                "singular": "If you have not received a code, you can request a new code here. If you have any problems, please contact the person named in your invoice."
+            },
+            "es": {
+                "singular": "Si no ha recibido un código, puede solicitar uno nuevo aquí. Si tiene algún problema, póngase en contacto con la persona indicada en su factura."
+            },
+            "fi": {
+                "singular": "Mikäli et ole saanut koodia, voit pyytää uuden koodin tästä. Ongelmatapauksissa ole meihin yhteydessä laskusta löytyvillä yhteystiedoilla."
+            },
+            "fi-EE": {
+                "singular": "Mikäli et ole saanut koodia, voit pyytää uuden koodin tästä. Ongelmatapauksissa ole meihin yhteydessä laskusta löytyvillä yhteystiedoilla."
+            },
+            "fi-FI": {
+                "singular": "Mikäli et ole saanut koodia, voit pyytää uuden koodin tästä. Ongelmatapauksissa ole meihin yhteydessä laskusta löytyvillä yhteystiedoilla."
+            },
+            "fr": {
+                "singular": "Si vous n'avez pas reçu de code, vous pouvez en redemander un ici. En cas de problème, veuillez vous adresser à la personne indiquée sur votre facture."
+            },
+            "fr-BE": {
+                "singular": "Si vous n'avez pas reçu de code, vous pouvez en redemander un ici. En cas de problème, veuillez vous adresser à la personne indiquée sur votre facture."
+            },
+            "fr-CA": {
+                "singular": "Si vous n'avez pas reçu de code, vous pouvez en redemander un ici. En cas de problème, veuillez vous adresser à la personne indiquée sur votre facture."
+            },
+            "fr-CH": {
+                "singular": "Si vous n'avez pas reçu de code, vous pouvez en redemander un ici. En cas de problème, veuillez vous adresser à la personne indiquée sur votre facture."
+            },
+            "fr-FR": {
+                "singular": "Si vous n'avez pas reçu de code, vous pouvez en redemander un ici. En cas de problème, veuillez vous adresser à la personne indiquée sur votre facture."
+            },
+            "hr": {
+                "singular": "Ukoliko niste primili kod, novi kod se može zatražiti ovdje. Ukoliko imate bilo kakvih problema, molimo kontaktirajte osobu navedenu na Vašem računu."
+            },
+            "it": {
+                "singular": "Se non ha ricevuto il codice, può richiederne un altro qui. Se dovesse verificarsi un problema, La preghiamo di contattare la persona indicata sulla ricevuta."
+            },
+            "it-CH": {
+                "singular": "Se non ha ricevuto il codice, può richiederne un altro qui. Se dovesse verificarsi un problema, La preghiamo di contattare la persona indicata sulla ricevuta."
+            },
+            "it-IT": {
+                "singular": "Se non ha ricevuto il codice, può richiederne un altro qui. Se dovesse verificarsi un problema, La preghiamo di contattare la persona indicata sulla ricevuta."
+            },
+            "nl": {
+                "singular": "Wanneer u geen code heeft ontvangen kunt u hier een nieuwe code aanvragen. Indien u problemen ondervindt, neem dan contact op met de persoon op uw factuur. "
+            },
+            "nl-BE": {
+                "singular": "Wanneer u geen code heeft ontvangen kunt u hier een nieuwe code aanvragen. Indien u problemen ondervindt, neem dan contact op met de persoon op uw factuur. "
+            },
+            "nl-NL": {
+                "singular": "Wanneer u geen code heeft ontvangen kunt u hier een nieuwe code aanvragen. Indien u problemen ondervindt, neem dan contact op met de persoon op uw factuur. "
+            },
+            "no": {
+                "singular": "Dersom du ikke har mottatt en kode, kan du be om en ny her. Dersom du har problemer, kan du gjerne ta kontakt med personen som står oppført på fakturaen."
+            },
+            "pl": {
+                "singular": "W przypadku braku kodu weryfikacyjnego, prosimy ponowić prośbę o jego podanie. W przypadku problemów prosimy o bezpośredni kontakt z naszym biurem."
+            },
+            "pt": {
+                "singular": "Se não recebeu um código, pode solicitar um novo código aqui. Se tiver algum problema, entre em contacto com a pessoa indicada na sua fatura."
+            },
+            "ru": {
+                "singular": "Если Вы не получили код, Вы можете запросить новый код здесь. Если у Вас возникнут проблемы, свяжитесь с лицом, указанным в Вашем счете. "
+            },
+            "sv": {
+                "singular": "Om du inte fått någon kod, kan du be om en ny här. Om du har några problem, var snäll och ta kontakt med den person som står angiven på fakturan."
+            }
+        }
+    }
+}

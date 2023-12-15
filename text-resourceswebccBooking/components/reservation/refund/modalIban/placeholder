@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalIban.placeholder",
+    "name": "placeholder",
+    "path": "text-resourceswebccBooking/components/reservation/refund/modalIban/placeholder",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalIban/placeholder",
+    "slug": "placeholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalIban",
+        "placeholder"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalIban.placeholder",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "IBAN "
+            },
+            "da": {
+                "singular": "IBAN"
+            },
+            "de": {
+                "singular": "IBAN-Nummer"
+            },
+            "de-AT": {
+                "singular": "IBAN-Nummer"
+            },
+            "de-CH": {
+                "singular": "IBAN-Nummer"
+            },
+            "de-DE": {
+                "singular": "IBAN-Nummer"
+            },
+            "en": {
+                "singular": "IBAN number"
+            },
+            "en-AU": {
+                "singular": "IBAN number"
+            },
+            "en-CA": {
+                "singular": "IBAN number"
+            },
+            "en-GB": {
+                "singular": "IBAN number"
+            },
+            "en-IE": {
+                "singular": "IBAN number"
+            },
+            "en-US": {
+                "singular": "IBAN number"
+            },
+            "es": {
+                "singular": "IBAN "
+            },
+            "fi": {
+                "singular": "IBAN"
+            },
+            "fi-EE": {
+                "singular": "IBAN"
+            },
+            "fi-FI": {
+                "singular": "IBAN"
+            },
+            "fr": {
+                "singular": "IBAN"
+            },
+            "fr-BE": {
+                "singular": "IBAN"
+            },
+            "fr-CA": {
+                "singular": "IBAN"
+            },
+            "fr-CH": {
+                "singular": "IBAN"
+            },
+            "fr-FR": {
+                "singular": "IBAN"
+            },
+            "hr": {
+                "singular": "IBAN"
+            },
+            "it": {
+                "singular": "IBAN"
+            },
+            "it-CH": {
+                "singular": "IBAN"
+            },
+            "it-IT": {
+                "singular": "IBAN"
+            },
+            "nl": {
+                "singular": "IBAN"
+            },
+            "nl-BE": {
+                "singular": "IBAN"
+            },
+            "nl-NL": {
+                "singular": "IBAN"
+            },
+            "no": {
+                "singular": "IBAN"
+            },
+            "pl": {
+                "singular": "IBAN "
+            },
+            "pt": {
+                "singular": "IBAN"
+            },
+            "ru": {
+                "singular": "IBAN"
+            },
+            "sv": {
+                "singular": "IBAN"
+            }
+        }
+    }
+}

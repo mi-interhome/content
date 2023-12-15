@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.pets.reviews.description",
+    "name": "description",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/pets/reviews/description",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/pets/reviews/description",
+    "slug": "description",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "pets",
+        "reviews",
+        "description"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.pets.reviews.description",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destination} – ráj pro vaše domácí mazlíčky. Vyberte si z našich nejlépe hodnocených prázdninových ubytováních, dokonale přizpůsobených pro Vaše chlupaté přátele."
+            },
+            "da": {
+                "singular": "Dit kæledyrsvenlige paradis venter på dig i vores topbedømte ferieboliger i {destination}, perfekt skræddersyet til dine lodne venner."
+            },
+            "de": {
+                "singular": "Ihr haustierfreundliches Paradies erwartet Sie in unseren top-bewerteten Ferienunterkünften in {destination}, die perfekt auf Ihre vierbeinigen Freunde zugeschnitten sind."
+            },
+            "de-AT": {
+                "singular": "Ihr haustierfreundliches Paradies erwartet Sie in unseren top-bewerteten Ferienunterkünften in {destination}, die perfekt auf Ihre vierbeinigen Freunde zugeschnitten sind."
+            },
+            "de-CH": {
+                "singular": "Ihr haustierfreundliches Paradies erwartet Sie in unseren top-bewerteten Ferienunterkünften in {destination}, die perfekt auf Ihre vierbeinigen Freunde zugeschnitten sind."
+            },
+            "de-DE": {
+                "singular": "Ihr haustierfreundliches Paradies erwartet Sie in unseren top-bewerteten Ferienunterkünften in {destination}, die perfekt auf Ihre vierbeinigen Freunde zugeschnitten sind."
+            },
+            "en": {
+                "singular": "Your pet-friendly paradise awaits in our top-rated holiday accommodations in {destination}, perfectly tailored for your furry friends."
+            },
+            "en-AU": {
+                "singular": "Your pet-friendly paradise awaits in our top-rated holiday accommodations in {destination}, perfectly tailored for your furry friends."
+            },
+            "en-CA": {
+                "singular": "Your pet-friendly paradise awaits in our top-rated holiday accommodations in {destination}, perfectly tailored for your furry friends."
+            },
+            "en-GB": {
+                "singular": "Your pet-friendly paradise awaits in our top-rated holiday accommodations in {destination}, perfectly tailored for your furry friends."
+            },
+            "en-IE": {
+                "singular": "Your pet-friendly paradise awaits in our top-rated holiday accommodations in {destination}, perfectly tailored for your furry friends."
+            },
+            "en-US": {
+                "singular": "Your pet-friendly paradise awaits in our top-rated holiday accommodations in {destination}, perfectly tailored for your furry friends."
+            },
+            "es": {
+                "singular": "Su paraíso para mascotas le espera en nuestros alojamientos vacacionales mejor valorados en {destination}, perfectamente adaptados para su mascota."
+            },
+            "fi": {
+                "singular": "Lemmikkiystävälliset lomakohteemme odottavat, parhaiten arvioidut loma-asuntomme paikassa {destination} karvaisille ystävillesi."
+            },
+            "fi-EE": {
+                "singular": "Lemmikkiystävälliset lomakohteemme odottavat, parhaiten arvioidut loma-asuntomme paikassa {destination} karvaisille ystävillesi."
+            },
+            "fi-FI": {
+                "singular": "Lemmikkiystävälliset lomakohteemme odottavat, parhaiten arvioidut loma-asuntomme paikassa {destination} karvaisille ystävillesi."
+            },
+            "fr": {
+                "singular": "Le paradis des animaux de compagnie vous attend dans nos hébergements de vacances {destination}, parfaitement adaptés à vos amis quadrupèdes."
+            },
+            "fr-BE": {
+                "singular": "Le paradis des animaux de compagnie vous attend dans nos hébergements de vacances {destination}, parfaitement adaptés à vos amis quadrupèdes."
+            },
+            "fr-CA": {
+                "singular": "Le paradis des animaux de compagnie vous attend dans nos hébergements de vacances {destination}, parfaitement adaptés à vos amis quadrupèdes."
+            },
+            "fr-CH": {
+                "singular": "Le paradis des animaux de compagnie vous attend dans nos hébergements de vacances {destination}, parfaitement adaptés à vos amis quadrupèdes."
+            },
+            "fr-FR": {
+                "singular": "Le paradis des animaux de compagnie vous attend dans nos hébergements de vacances {destination}, parfaitement adaptés à vos amis quadrupèdes."
+            },
+            "hr": {
+                "singular": "Vaš raj za kućne ljubimce čeka vas u našem najbolje ocijenjenom smještaju za odmor u {destination}, savršeno skrojenom za Vaše krznene prijatelje."
+            },
+            "it": {
+                "singular": "Il tuo paradiso per gli animali domestici ti aspetta nelle nostre migliori sistemazioni per le vacanze a {destination}, perfettamente su misura per i tuoi amici a quattro zampe."
+            },
+            "it-CH": {
+                "singular": "Il tuo paradiso per gli animali domestici ti aspetta nelle nostre migliori sistemazioni per le vacanze a {destination}, perfettamente su misura per i tuoi amici a quattro zampe."
+            },
+            "it-IT": {
+                "singular": "Il tuo paradiso per gli animali domestici ti aspetta nelle nostre migliori sistemazioni per le vacanze a {destination}, perfettamente su misura per i tuoi amici a quattro zampe."
+            },
+            "nl": {
+                "singular": "Uw huisdiervriendelijke paradijs wacht op u in onze best beoordeelde vakantiehuizen in {destination}, perfect voor uw trouwe viervoeters."
+            },
+            "nl-BE": {
+                "singular": "Uw huisdiervriendelijke paradijs wacht op u in onze best beoordeelde vakantiehuizen in {destination}, perfect voor uw trouwe viervoeters."
+            },
+            "nl-NL": {
+                "singular": "Uw huisdiervriendelijke paradijs wacht op u in onze best beoordeelde vakantiehuizen in {destination}, perfect voor uw trouwe viervoeters."
+            },
+            "no": {
+                "singular": "Ditt paradis for kjæledyr venter i våre topprangerte hytter i {destination}, som er perfekt tilrettelagt for pelskledde venner."
+            },
+            "pl": {
+                "singular": "{destination} - najlepiej oceniane domy wakacyjne przyjazne zwierzętom to komfort wypoczynku zarówno dla właściciciela jak i jego czworonożnego przyjaciela."
+            },
+            "pt": {
+                "singular": "O paraíso para os seus animais de estimação espera por si nos nossos melhores alojamentos de férias em {destination}, perfeitamente adaptados para os seus amigos de quatro patas."
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Ett paradis för dina husdjur väntar i våra topprankade semesterbostäder i {destination}, perfekt anpassade för dina pälsklädda vänner."
+            }
+        }
+    }
+}

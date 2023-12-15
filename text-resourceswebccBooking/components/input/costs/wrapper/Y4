@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.input.costs.wrapper.Y4",
+    "name": "Y4",
+    "path": "text-resourceswebccBooking/components/input/costs/wrapper/Y4",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/input/costs/wrapper/Y4",
+    "slug": "Y4",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "input",
+        "costs",
+        "wrapper",
+        "Y4"
+    ],
+    "content": {
+        "key": "webccBooking.components.input.costs.wrapper.Y4",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Povinné vedlejší náklady"
+            },
+            "da": {
+                "singular": "Obligatoriske ekstra omkostninger"
+            },
+            "de": {
+                "singular": "Obligatorische Nebenkosten"
+            },
+            "de-AT": {
+                "singular": "Obligatorische Nebenkosten"
+            },
+            "de-CH": {
+                "singular": "Obligatorische Nebenkosten"
+            },
+            "de-DE": {
+                "singular": "Obligatorische Nebenkosten"
+            },
+            "en": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-AU": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-CA": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-GB": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-IE": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-US": {
+                "singular": "Compulsory extra costs"
+            },
+            "es": {
+                "singular": "Costes extras obligatorios"
+            },
+            "fi": {
+                "singular": "Pakolliset lisäkulut (mikäli erittelyssä mainittu)"
+            },
+            "fi-EE": {
+                "singular": "Pakolliset lisäkulut (mikäli erittelyssä mainittu)"
+            },
+            "fi-FI": {
+                "singular": "Pakolliset lisäkulut (mikäli erittelyssä mainittu)"
+            },
+            "fr": {
+                "singular": "Frais supplémentaires obligatoires"
+            },
+            "fr-BE": {
+                "singular": "Frais supplémentaires obligatoires"
+            },
+            "fr-CA": {
+                "singular": "Frais supplémentaires obligatoires"
+            },
+            "fr-CH": {
+                "singular": "Frais supplémentaires obligatoires"
+            },
+            "fr-FR": {
+                "singular": "Frais supplémentaires obligatoires"
+            },
+            "hr": {
+                "singular": "Obavezni dodatni troškovi"
+            },
+            "it": {
+                "singular": "Costi extra obbligatori"
+            },
+            "it-CH": {
+                "singular": "Costi extra obbligatori"
+            },
+            "it-IT": {
+                "singular": "Costi extra obbligatori"
+            },
+            "nl": {
+                "singular": "Verplichte extra kosten"
+            },
+            "nl-BE": {
+                "singular": "Verplichte extra kosten"
+            },
+            "nl-NL": {
+                "singular": "Verplichte extra kosten"
+            },
+            "no": {
+                "singular": "Obligatoriske ekstrakostnader"
+            },
+            "pl": {
+                "singular": "Obowiązkowe extra koszty"
+            },
+            "pt": {
+                "singular": "Custos suplementares obrigatórios"
+            },
+            "ru": {
+                "singular": "Обязательные дополнительные расходы"
+            },
+            "sv": {
+                "singular": "Obligatoriska extrakostnader"
+            }
+        }
+    }
+}

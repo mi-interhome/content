@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.pets.wlan.title",
+    "name": "title",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/pets/wlan/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/pets/wlan/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "pets",
+        "wlan",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.pets.wlan.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – pohodlné prázdninové domy. Jsou vhodné pro domácí mazlíčky a disponují WiFi připojením."
+            },
+            "da": {
+                "singular": "Perfekte kæledyrsvenlige huse med WiFi i {destination}"
+            },
+            "de": {
+                "singular": "Perfekte haustierfreundliche Unterkünfte mit WiFi in {destination}"
+            },
+            "de-AT": {
+                "singular": "Perfekte haustierfreundliche Unterkünfte mit WiFi in {destination}"
+            },
+            "de-CH": {
+                "singular": "Perfekte haustierfreundliche Unterkünfte mit WiFi in {destination}"
+            },
+            "de-DE": {
+                "singular": "Perfekte haustierfreundliche Unterkünfte mit WiFi in {destination}"
+            },
+            "en": {
+                "singular": "Perfect pet-friendly homes with WiFi in {destination}"
+            },
+            "en-AU": {
+                "singular": "Perfect pet-friendly homes with WiFi in {destination}"
+            },
+            "en-CA": {
+                "singular": "Perfect pet-friendly homes with WiFi in {destination}"
+            },
+            "en-GB": {
+                "singular": "Perfect pet-friendly homes with WiFi in {destination}"
+            },
+            "en-IE": {
+                "singular": "Perfect pet-friendly homes with WiFi in {destination}"
+            },
+            "en-US": {
+                "singular": "Perfect pet-friendly homes with WiFi in {destination}"
+            },
+            "es": {
+                "singular": "Casas perfectas con WiFi y aptas para mascotas en {destination}"
+            },
+            "fi": {
+                "singular": "Täydelliset lomakodit lemmikeille WiFi-yhteyksin paikkakunnalla {destination}"
+            },
+            "fi-EE": {
+                "singular": "Täydelliset lomakodit lemmikeille WiFi-yhteyksin paikkakunnalla {destination}"
+            },
+            "fi-FI": {
+                "singular": "Täydelliset lomakodit lemmikeille WiFi-yhteyksin paikkakunnalla {destination}"
+            },
+            "fr": {
+                "singular": "Des locations avec WiFi parfaites pour les animaux {destination}"
+            },
+            "fr-BE": {
+                "singular": "Des locations avec WiFi parfaites pour les animaux {destination}"
+            },
+            "fr-CA": {
+                "singular": "Des locations avec WiFi parfaites pour les animaux {destination}"
+            },
+            "fr-CH": {
+                "singular": "Des locations avec WiFi parfaites pour les animaux {destination}"
+            },
+            "fr-FR": {
+                "singular": "Des locations avec WiFi parfaites pour les animaux {destination}"
+            },
+            "hr": {
+                "singular": "Savršene pet-friendly kuće s WiFi vezom u {destionation}"
+            },
+            "it": {
+                "singular": "Case perfette per animali domestici con Wi-Fi a {destination}"
+            },
+            "it-CH": {
+                "singular": "Case perfette per animali domestici con Wi-Fi a {destination}"
+            },
+            "it-IT": {
+                "singular": "Case perfette per animali domestici con Wi-Fi a {destination}"
+            },
+            "nl": {
+                "singular": "Ideale huisdiervriendelijke woningen met WiFi in {destination}"
+            },
+            "nl-BE": {
+                "singular": "Ideale huisdiervriendelijke woningen met WiFi in {destination}"
+            },
+            "nl-NL": {
+                "singular": "Ideale huisdiervriendelijke woningen met WiFi in {destination}"
+            },
+            "no": {
+                "singular": "Perfekte kjæledyrvennlige feriehus med Wi-Fi i {destination}."
+            },
+            "pl": {
+                "singular": "Domy z WiFi na wakacje z czworonogiem, {destination}"
+            },
+            "pt": {
+                "singular": "Casas de férias perfeitas para animais de estimação em {destination} e com Wi-Fi"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Perfekta husdjursvänliga hus med WiFi i {destination}"
+            }
+        }
+    }
+}

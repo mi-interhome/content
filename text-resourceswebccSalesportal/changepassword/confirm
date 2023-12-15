@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.changepassword.confirm",
+    "name": "confirm",
+    "path": "text-resourceswebccSalesportal/changepassword/confirm",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/changepassword/confirm",
+    "slug": "confirm",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "changepassword",
+        "confirm"
+    ],
+    "content": {
+        "key": "webccSalesportal.changepassword.confirm",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Potvrdit heslo"
+            },
+            "da": {
+                "singular": "Bekræft kodeord"
+            },
+            "de": {
+                "singular": "Passwort bestätigen"
+            },
+            "de-AT": {
+                "singular": "Passwort bestätigen"
+            },
+            "de-CH": {
+                "singular": "Passwort bestätigen"
+            },
+            "de-DE": {
+                "singular": "Passwort bestätigen"
+            },
+            "en": {
+                "singular": "Confirm Password"
+            },
+            "en-AU": {
+                "singular": "Confirm Password"
+            },
+            "en-CA": {
+                "singular": "Confirm Password"
+            },
+            "en-GB": {
+                "singular": "Confirm Password"
+            },
+            "en-IE": {
+                "singular": "Confirm Password"
+            },
+            "en-US": {
+                "singular": "Confirm Password"
+            },
+            "es": {
+                "singular": "Confirme contraseña"
+            },
+            "fi": {
+                "singular": "Vahvista salasana"
+            },
+            "fi-EE": {
+                "singular": "Vahvista salasana"
+            },
+            "fi-FI": {
+                "singular": "Vahvista salasana"
+            },
+            "fr": {
+                "singular": "Confirmer le mot de passe"
+            },
+            "fr-BE": {
+                "singular": "Confirmer le mot de passe"
+            },
+            "fr-CA": {
+                "singular": "Confirmer le mot de passe"
+            },
+            "fr-CH": {
+                "singular": "Confirmer le mot de passe"
+            },
+            "fr-FR": {
+                "singular": "Confirmer le mot de passe"
+            },
+            "hr": {
+                "singular": "Potvrdi lozinku"
+            },
+            "it": {
+                "singular": "Conferma {TYPE}"
+            },
+            "it-CH": {
+                "singular": "Conferma {TYPE}"
+            },
+            "it-IT": {
+                "singular": "Conferma {TYPE}"
+            },
+            "nl": {
+                "singular": "Bevestig wachtwoord"
+            },
+            "nl-BE": {
+                "singular": "Bevestig wachtwoord"
+            },
+            "nl-NL": {
+                "singular": "Bevestig wachtwoord"
+            },
+            "no": {
+                "singular": "Bekreft passord"
+            },
+            "pl": {
+                "singular": "Potwierdź hasło"
+            },
+            "pt": {
+                "singular": "Confirme a sua senha"
+            },
+            "ru": {
+                "singular": "Подтвердите {TYPE}"
+            },
+            "sv": {
+                "singular": "Bekräfta lösenord"
+            }
+        }
+    }
+}

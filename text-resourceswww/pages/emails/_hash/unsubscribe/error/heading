@@ -1,0 +1,128 @@
+{
+    "id": "www.pages.emails._hash.unsubscribe.error.heading",
+    "name": "heading",
+    "path": "text-resourceswww/pages/emails/_hash/unsubscribe/error/heading",
+    "folder": "text-resources",
+    "full_slug": "www/pages/emails/_hash/unsubscribe/error/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "emails",
+        "_hash",
+        "unsubscribe",
+        "error",
+        "heading"
+    ],
+    "content": {
+        "key": "www.pages.emails._hash.unsubscribe.error.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Bohužel došlo k chybě"
+            },
+            "da": {
+                "singular": "Desværre opstod der en fejl"
+            },
+            "de": {
+                "singular": "Leider ist ein Fehler aufgetreten"
+            },
+            "de-AT": {
+                "singular": "Leider ist ein Fehler aufgetreten"
+            },
+            "de-CH": {
+                "singular": "Leider ist ein Fehler aufgetreten"
+            },
+            "de-DE": {
+                "singular": "Leider ist ein Fehler aufgetreten"
+            },
+            "en": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "en-AU": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "en-CA": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "en-GB": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "en-IE": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "en-US": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "es": {
+                "singular": "Lamentablemente, ocurrió un error."
+            },
+            "fi": {
+                "singular": "Valitettavasti tapahtui virhe."
+            },
+            "fi-EE": {
+                "singular": "Unfortunately an error occurred"
+            },
+            "fi-FI": {
+                "singular": "Valitettavasti tapahtui virhe."
+            },
+            "fr": {
+                "singular": "Malheureusement une erreur est survenue."
+            },
+            "fr-BE": {
+                "singular": "Malheureusement une erreur est survenue."
+            },
+            "fr-CA": {
+                "singular": "Malheureusement une erreur est survenue."
+            },
+            "fr-CH": {
+                "singular": "Malheureusement une erreur est survenue."
+            },
+            "fr-FR": {
+                "singular": "Malheureusement une erreur est survenue."
+            },
+            "hr": {
+                "singular": "Nažalost došo je do pogreške"
+            },
+            "it": {
+                "singular": "Purtroppo si è verificato un errore"
+            },
+            "it-CH": {
+                "singular": "Purtroppo si è verificato un errore"
+            },
+            "it-IT": {
+                "singular": "Purtroppo si è verificato un errore"
+            },
+            "nl": {
+                "singular": "Helaas is er een fout opgetreden"
+            },
+            "nl-BE": {
+                "singular": "Helaas is er een fout opgetreden"
+            },
+            "nl-NL": {
+                "singular": "Helaas is er een fout opgetreden"
+            },
+            "no": {
+                "singular": "Dessverre oppstod det en feil"
+            },
+            "pl": {
+                "singular": "Wystąpił błąd."
+            },
+            "pt": {
+                "singular": "Infelizmente, ocorreu um erro."
+            },
+            "ru": {
+                "singular": "Извините, произошла ошибка"
+            },
+            "sv": {
+                "singular": "Tyvärr uppstod ett fel"
+            }
+        }
+    }
+}

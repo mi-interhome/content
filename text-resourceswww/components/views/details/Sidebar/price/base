@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Sidebar.price.base",
+    "name": "base",
+    "path": "text-resourceswww/components/views/details/Sidebar/price/base",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Sidebar/price/base",
+    "slug": "base",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Sidebar",
+        "price",
+        "base"
+    ],
+    "content": {
+        "key": "www.components.views.details.Sidebar.price.base",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena za osobu a noc\r\n"
+            },
+            "da": {
+                "singular": "Price per person per night"
+            },
+            "de": {
+                "singular": "Preis pro Person und Nacht\r\n"
+            },
+            "de-AT": {
+                "singular": "Preis pro Person und Nacht\r\n"
+            },
+            "de-CH": {
+                "singular": "Preis pro Person und Nacht\r\n"
+            },
+            "de-DE": {
+                "singular": "Preis pro Person und Nacht\r\n"
+            },
+            "en": {
+                "singular": "Price per person per night"
+            },
+            "en-AU": {
+                "singular": "Price per person per night"
+            },
+            "en-CA": {
+                "singular": "Price per person per night"
+            },
+            "en-GB": {
+                "singular": "Price per person per night"
+            },
+            "en-IE": {
+                "singular": "Price per person per night"
+            },
+            "en-US": {
+                "singular": "Price per person per night"
+            },
+            "es": {
+                "singular": "Precio por persona y noche"
+            },
+            "fi": {
+                "singular": "Hinta per henkilö per yö\r\n"
+            },
+            "fi-EE": {
+                "singular": "Price per person per night"
+            },
+            "fi-FI": {
+                "singular": "Hinta per henkilö per yö\r\n"
+            },
+            "fr": {
+                "singular": "Tarif par personne et nuitée"
+            },
+            "fr-BE": {
+                "singular": "Tarif par personne et nuitée"
+            },
+            "fr-CA": {
+                "singular": "Tarif par personne et nuitée"
+            },
+            "fr-CH": {
+                "singular": "Tarif par personne et nuitée"
+            },
+            "fr-FR": {
+                "singular": "Tarif par personne et nuitée"
+            },
+            "hr": {
+                "singular": "Cijena po osobi po noćenju "
+            },
+            "it": {
+                "singular": "Prezzo per persona a notte"
+            },
+            "it-CH": {
+                "singular": "Prezzo per persona a notte"
+            },
+            "it-IT": {
+                "singular": "Prezzo per persona a notte"
+            },
+            "nl": {
+                "singular": "Prijs per persoon per nacht "
+            },
+            "nl-BE": {
+                "singular": "Prijs per persoon per nacht "
+            },
+            "nl-NL": {
+                "singular": "Prijs per persoon per nacht "
+            },
+            "no": {
+                "singular": "Price per person per night"
+            },
+            "pl": {
+                "singular": "Cena za osobę/za dzień"
+            },
+            "pt": {
+                "singular": "Preço por pessoa e noite"
+            },
+            "ru": {
+                "singular": "Цена с человека за ночь"
+            },
+            "sv": {
+                "singular": "Pris per person och natt"
+            }
+        }
+    }
+}

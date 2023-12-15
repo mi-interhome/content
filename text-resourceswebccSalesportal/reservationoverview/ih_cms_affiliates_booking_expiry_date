@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationoverview.ih_cms_affiliates_booking_expiry_date",
+    "name": "ih_cms_affiliates_booking_expiry_date",
+    "path": "text-resourceswebccSalesportal/reservationoverview/ih_cms_affiliates_booking_expiry_date",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationoverview/ih_cms_affiliates_booking_expiry_date",
+    "slug": "ih_cms_affiliates_booking_expiry_date",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationoverview",
+        "ih_cms_affiliates_booking_expiry_date"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationoverview.ih_cms_affiliates_booking_expiry_date",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Datum platnosti"
+            },
+            "da": {
+                "singular": "Udløbsdato"
+            },
+            "de": {
+                "singular": "gültig bis"
+            },
+            "de-AT": {
+                "singular": "gültig bis"
+            },
+            "de-CH": {
+                "singular": "gültig bis"
+            },
+            "de-DE": {
+                "singular": "gültig bis"
+            },
+            "en": {
+                "singular": "Valid until"
+            },
+            "en-AU": {
+                "singular": "Valid until"
+            },
+            "en-CA": {
+                "singular": "Valid until"
+            },
+            "en-GB": {
+                "singular": "Valid until"
+            },
+            "en-IE": {
+                "singular": "Valid until"
+            },
+            "en-US": {
+                "singular": "Valid until"
+            },
+            "es": {
+                "singular": "Válido hasta"
+            },
+            "fi": {
+                "singular": "Erääntymispäivä"
+            },
+            "fi-EE": {
+                "singular": "Erääntymispäivä"
+            },
+            "fi-FI": {
+                "singular": "Erääntymispäivä"
+            },
+            "fr": {
+                "singular": "Date d'expiration"
+            },
+            "fr-BE": {
+                "singular": "Date d'expiration"
+            },
+            "fr-CA": {
+                "singular": "Date d'expiration"
+            },
+            "fr-CH": {
+                "singular": "Date d'expiration"
+            },
+            "fr-FR": {
+                "singular": "Date d'expiration"
+            },
+            "hr": {
+                "singular": "Vrijedi do"
+            },
+            "it": {
+                "singular": "Data di scadenza"
+            },
+            "it-CH": {
+                "singular": "Data di scadenza"
+            },
+            "it-IT": {
+                "singular": "Data di scadenza"
+            },
+            "nl": {
+                "singular": "Geldig tot"
+            },
+            "nl-BE": {
+                "singular": "Geldig tot"
+            },
+            "nl-NL": {
+                "singular": "Geldig tot"
+            },
+            "no": {
+                "singular": "Utløpsdato"
+            },
+            "pl": {
+                "singular": "Ważna do"
+            },
+            "pt": {
+                "singular": "Válido até"
+            },
+            "ru": {
+                "singular": "Срок действия"
+            },
+            "sv": {
+                "singular": "Utgångsdatum"
+            }
+        }
+    }
+}

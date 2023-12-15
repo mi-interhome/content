@@ -1,0 +1,124 @@
+{
+    "id": "booking.summary.childrenAgeRange",
+    "name": "childrenAgeRange",
+    "path": "text-resourcesbooking/summary/childrenAgeRange",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/childrenAgeRange",
+    "slug": "childrenAgeRange",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "childrenAgeRange"
+    ],
+    "content": {
+        "key": "booking.summary.childrenAgeRange",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "(2-17 let)"
+            },
+            "da": {
+                "singular": "(2-17 år)"
+            },
+            "de": {
+                "singular": "(2-17 Jahre)"
+            },
+            "de-AT": {
+                "singular": "(2-17 Jahre)"
+            },
+            "de-CH": {
+                "singular": "(2-17 Jahre)"
+            },
+            "de-DE": {
+                "singular": "(2-17 Jahre)"
+            },
+            "en": {
+                "singular": "(2-17 years)"
+            },
+            "en-AU": {
+                "singular": "(2-17 years)"
+            },
+            "en-CA": {
+                "singular": "(2-17 years)"
+            },
+            "en-GB": {
+                "singular": "(2-17 years)"
+            },
+            "en-IE": {
+                "singular": "(2-17 years)"
+            },
+            "en-US": {
+                "singular": "(2-17 years)"
+            },
+            "es": {
+                "singular": "(3-17 años)"
+            },
+            "fi": {
+                "singular": "(2-17 vuotta)"
+            },
+            "fi-EE": {
+                "singular": "(2-17 vuotta)"
+            },
+            "fi-FI": {
+                "singular": "(2-17 vuotta)"
+            },
+            "fr": {
+                "singular": "(2-17 ans)"
+            },
+            "fr-BE": {
+                "singular": "(2-17 ans)"
+            },
+            "fr-CA": {
+                "singular": "(2-17 ans)"
+            },
+            "fr-CH": {
+                "singular": "(2-17 ans)"
+            },
+            "fr-FR": {
+                "singular": "(2-17 ans)"
+            },
+            "hr": {
+                "singular": "(2-17 godina)"
+            },
+            "it": {
+                "singular": "(2-17 anni)"
+            },
+            "it-CH": {
+                "singular": "(2-17 anni)"
+            },
+            "it-IT": {
+                "singular": "(2-17 anni)"
+            },
+            "nl": {
+                "singular": "(2-17 jaar)"
+            },
+            "nl-BE": {
+                "singular": "(2-17 jaar)"
+            },
+            "nl-NL": {
+                "singular": "(2-17 jaar)"
+            },
+            "no": {
+                "singular": "(2–17 år)"
+            },
+            "pl": {
+                "singular": "(2-17 lat)"
+            },
+            "pt": {
+                "singular": "(2-17 anos)"
+            },
+            "ru": {
+                "singular": "(2-17 лет)"
+            },
+            "sv": {
+                "singular": "(2-17 år)"
+            }
+        }
+    }
+}

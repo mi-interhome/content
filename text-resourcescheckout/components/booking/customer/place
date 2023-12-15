@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.customer.place",
+    "name": "place",
+    "path": "text-resourcescheckout/components/booking/customer/place",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/customer/place",
+    "slug": "place",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "customer",
+        "place"
+    ],
+    "content": {
+        "key": "checkout.components.booking.customer.place",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Místo"
+            },
+            "da": {
+                "singular": "By"
+            },
+            "de": {
+                "singular": "Ort"
+            },
+            "de-AT": {
+                "singular": "Ort"
+            },
+            "de-CH": {
+                "singular": "Ort"
+            },
+            "de-DE": {
+                "singular": "Ort"
+            },
+            "en": {
+                "singular": "City"
+            },
+            "en-AU": {
+                "singular": "City"
+            },
+            "en-CA": {
+                "singular": "City"
+            },
+            "en-GB": {
+                "singular": "City"
+            },
+            "en-IE": {
+                "singular": "City"
+            },
+            "en-US": {
+                "singular": "City"
+            },
+            "es": {
+                "singular": "Población"
+            },
+            "fi": {
+                "singular": "Paikka"
+            },
+            "fi-EE": {
+                "singular": "Paikka"
+            },
+            "fi-FI": {
+                "singular": "Paikka"
+            },
+            "fr": {
+                "singular": "Lieu"
+            },
+            "fr-BE": {
+                "singular": "Lieu"
+            },
+            "fr-CA": {
+                "singular": "Lieu"
+            },
+            "fr-CH": {
+                "singular": "Lieu"
+            },
+            "fr-FR": {
+                "singular": "Lieu"
+            },
+            "hr": {
+                "singular": "Mjesto"
+            },
+            "it": {
+                "singular": "Località"
+            },
+            "it-CH": {
+                "singular": "Località"
+            },
+            "it-IT": {
+                "singular": "Città"
+            },
+            "nl": {
+                "singular": "Plaats"
+            },
+            "nl-BE": {
+                "singular": "Plaats"
+            },
+            "nl-NL": {
+                "singular": "Plaats"
+            },
+            "no": {
+                "singular": "Sted"
+            },
+            "pl": {
+                "singular": "Miejscowość"
+            },
+            "pt": {
+                "singular": "Cidade"
+            },
+            "ru": {
+                "singular": "Город проживания"
+            },
+            "sv": {
+                "singular": "Ort"
+            }
+        }
+    }
+}

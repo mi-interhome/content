@@ -1,0 +1,126 @@
+{
+    "id": "www.components.site.DomainLanguageSwitcher.europe",
+    "name": "europe",
+    "path": "text-resourceswww/components/site/DomainLanguageSwitcher/europe",
+    "folder": "text-resources",
+    "full_slug": "www/components/site/DomainLanguageSwitcher/europe",
+    "slug": "europe",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "site",
+        "DomainLanguageSwitcher",
+        "europe"
+    ],
+    "content": {
+        "key": "www.components.site.DomainLanguageSwitcher.europe",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Evropa"
+            },
+            "da": {
+                "singular": "Europa"
+            },
+            "de": {
+                "singular": "Europa"
+            },
+            "de-AT": {
+                "singular": "Europa"
+            },
+            "de-CH": {
+                "singular": "Europa"
+            },
+            "de-DE": {
+                "singular": "Europa"
+            },
+            "en": {
+                "singular": "Europe"
+            },
+            "en-AU": {
+                "singular": "Europe"
+            },
+            "en-CA": {
+                "singular": "Europe"
+            },
+            "en-GB": {
+                "singular": "Europe"
+            },
+            "en-IE": {
+                "singular": "Europe"
+            },
+            "en-US": {
+                "singular": "Europe"
+            },
+            "es": {
+                "singular": "Europa"
+            },
+            "fi": {
+                "singular": "Eurooppa"
+            },
+            "fi-EE": {
+                "singular": "Eurooppa"
+            },
+            "fi-FI": {
+                "singular": "Eurooppa"
+            },
+            "fr": {
+                "singular": "Europe"
+            },
+            "fr-BE": {
+                "singular": "Europe"
+            },
+            "fr-CA": {
+                "singular": "Europe"
+            },
+            "fr-CH": {
+                "singular": "Europe"
+            },
+            "fr-FR": {
+                "singular": "Europe"
+            },
+            "hr": {
+                "singular": "Europa"
+            },
+            "it": {
+                "singular": "Europe"
+            },
+            "it-CH": {
+                "singular": "Europe"
+            },
+            "it-IT": {
+                "singular": "Europe"
+            },
+            "nl": {
+                "singular": "Europa "
+            },
+            "nl-BE": {
+                "singular": "Europa "
+            },
+            "nl-NL": {
+                "singular": "Europa "
+            },
+            "no": {
+                "singular": "Europa"
+            },
+            "pl": {
+                "singular": "Europa"
+            },
+            "pt": {
+                "singular": "Europa"
+            },
+            "ru": {
+                "singular": "Страны Европы"
+            },
+            "sv": {
+                "singular": "Europa"
+            }
+        }
+    }
+}

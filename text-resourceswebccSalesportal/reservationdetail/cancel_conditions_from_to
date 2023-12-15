@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.cancel_conditions_from_to",
+    "name": "cancel_conditions_from_to",
+    "path": "text-resourceswebccSalesportal/reservationdetail/cancel_conditions_from_to",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/cancel_conditions_from_to",
+    "slug": "cancel_conditions_from_to",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "cancel_conditions_from_to"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.cancel_conditions_from_to",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{FROM} - {TO} dní před začátkem doby pronájmu:"
+            },
+            "da": {
+                "singular": "FRA} - {TO} dage inden lejeperioden starter:"
+            },
+            "de": {
+                "singular": "{FROM} - {TO} Tage vor Anreise:"
+            },
+            "de-AT": {
+                "singular": "{FROM} - {TO} Tage vor Anreise:"
+            },
+            "de-CH": {
+                "singular": "{FROM} - {TO} Tage vor Anreise:"
+            },
+            "de-DE": {
+                "singular": "{FROM} - {TO} Tage vor Anreise:"
+            },
+            "en": {
+                "singular": "{FROM} - {TO} days before the start of the rental period:"
+            },
+            "en-AU": {
+                "singular": "{FROM} - {TO} days before the start of the rental period:"
+            },
+            "en-CA": {
+                "singular": "{FROM} - {TO} days before the start of the rental period:"
+            },
+            "en-GB": {
+                "singular": "{FROM} - {TO} days before the start of the rental period:"
+            },
+            "en-IE": {
+                "singular": "{FROM} - {TO} days before the start of the rental period:"
+            },
+            "en-US": {
+                "singular": "{FROM} - {TO} days before the start of the rental period:"
+            },
+            "es": {
+                "singular": "{FROM} - {TO} días antes del inicio de la reserva:"
+            },
+            "fi": {
+                "singular": "{FROM} - {TO} päivää ennen vuokrauksen alkua:"
+            },
+            "fi-EE": {
+                "singular": "{FROM} - {TO} päivää ennen vuokrauksen alkua:"
+            },
+            "fi-FI": {
+                "singular": "{FROM} - {TO} päivää ennen vuokrauksen alkua:"
+            },
+            "fr": {
+                "singular": "{FROM} – {TO} jours avant la date de début du séjour:"
+            },
+            "fr-BE": {
+                "singular": "{FROM} – {TO} jours avant la date de début du séjour:"
+            },
+            "fr-CA": {
+                "singular": "{FROM} – {TO} jours avant la date de début du séjour:"
+            },
+            "fr-CH": {
+                "singular": "{FROM} – {TO} jours avant la date de début du séjour:"
+            },
+            "fr-FR": {
+                "singular": "{FROM} – {TO} jours avant la date de début du séjour:"
+            },
+            "hr": {
+                "singular": "{FROM} - {TO} dana prije dolaska:"
+            },
+            "it": {
+                "singular": "{FROM} - {TO} giorni prima dell'inizio della locazione:"
+            },
+            "it-CH": {
+                "singular": "{FROM} - {TO} giorni prima dell'inizio della locazione:"
+            },
+            "it-IT": {
+                "singular": "{FROM} - {TO} giorni prima dell'inizio della locazione:"
+            },
+            "nl": {
+                "singular": "{FROM} - {TO} dagen voor de huuraanvang:"
+            },
+            "nl-BE": {
+                "singular": "{FROM} - {TO} dagen voor de start van de verhuring:"
+            },
+            "nl-NL": {
+                "singular": "{FROM} - {TO} dagen voor de huuraanvang:"
+            },
+            "no": {
+                "singular": "FRA} - {TO} dager før leieperioden starter:"
+            },
+            "pl": {
+                "singular": "{FROM} - {TO} dni przed rozpoczęciem pobytu:"
+            },
+            "pt": {
+                "singular": "{DE} - {ATÉ} dias antes do início do período de locação:"
+            },
+            "ru": {
+                "singular": "{ОТ} - {ДО} дней до прибытия:"
+            },
+            "sv": {
+                "singular": "FROM} - {TO} dagar före hyresperiodens början:"
+            }
+        }
+    }
+}

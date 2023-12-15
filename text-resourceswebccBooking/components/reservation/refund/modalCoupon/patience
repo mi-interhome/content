@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalCoupon.patience",
+    "name": "patience",
+    "path": "text-resourceswebccBooking/components/reservation/refund/modalCoupon/patience",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalCoupon/patience",
+    "slug": "patience",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalCoupon",
+        "patience"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalCoupon.patience",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Může to chvíli trvat..."
+            },
+            "da": {
+                "singular": "Dette kan tage noget tid ..."
+            },
+            "de": {
+                "singular": "Das kann ein bisschen dauern..."
+            },
+            "de-AT": {
+                "singular": "Das kann ein bisschen dauern..."
+            },
+            "de-CH": {
+                "singular": "Das kann ein bisschen dauern..."
+            },
+            "de-DE": {
+                "singular": "Das kann ein bisschen dauern..."
+            },
+            "en": {
+                "singular": "This may take a little while..."
+            },
+            "en-AU": {
+                "singular": "This may take a little while..."
+            },
+            "en-CA": {
+                "singular": "This may take a little while..."
+            },
+            "en-GB": {
+                "singular": "This may take a little while..."
+            },
+            "en-IE": {
+                "singular": "This may take a little while..."
+            },
+            "en-US": {
+                "singular": "This may take a little while..."
+            },
+            "es": {
+                "singular": "Esto puede tomar un tiempo…"
+            },
+            "fi": {
+                "singular": "Tässä voi kestää hetken…"
+            },
+            "fi-EE": {
+                "singular": "Tässä voi kestää hetken…"
+            },
+            "fi-FI": {
+                "singular": "Tässä voi kestää hetken…"
+            },
+            "fr": {
+                "singular": "Cela peut durer un instant…"
+            },
+            "fr-BE": {
+                "singular": "Cela peut durer un instant…"
+            },
+            "fr-CA": {
+                "singular": "Cela peut durer un instant…"
+            },
+            "fr-CH": {
+                "singular": "Cela peut durer un instant…"
+            },
+            "fr-FR": {
+                "singular": "Cela peut durer un instant…"
+            },
+            "hr": {
+                "singular": "Ovo bi moglo potrajati..."
+            },
+            "it": {
+                "singular": "Potrebbe volerci un po' di tempo…"
+            },
+            "it-CH": {
+                "singular": "Potrebbe volerci un po' di tempo…"
+            },
+            "it-IT": {
+                "singular": "Potrebbe volerci un po' di tempo…"
+            },
+            "nl": {
+                "singular": "Dit kan even duren.  "
+            },
+            "nl-BE": {
+                "singular": "Dit kan even duren.  "
+            },
+            "nl-NL": {
+                "singular": "Dit kan even duren.  "
+            },
+            "no": {
+                "singular": "Dette kan ta litt tid..."
+            },
+            "pl": {
+                "singular": "Prosimy o chwilę cierpliwości.."
+            },
+            "pt": {
+                "singular": "Isto pode demorar um pouco..."
+            },
+            "ru": {
+                "singular": "Это может занять некоторое время ..."
+            },
+            "sv": {
+                "singular": "Detta kan ta lite tid"
+            }
+        }
+    }
+}

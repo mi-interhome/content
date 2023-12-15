@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.optionConditions.create",
+    "name": "create",
+    "path": "text-resourcescheckout/components/booking/optionConditions/create",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/optionConditions/create",
+    "slug": "create",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "optionConditions",
+        "create"
+    ],
+    "content": {
+        "key": "checkout.components.booking.optionConditions.create",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vytvořit opci"
+            },
+            "da": {
+                "singular": "Lav Option booking"
+            },
+            "de": {
+                "singular": "Option erstellen"
+            },
+            "de-AT": {
+                "singular": "Option erstellen"
+            },
+            "de-CH": {
+                "singular": "Option erstellen"
+            },
+            "de-DE": {
+                "singular": "Option erstellen"
+            },
+            "en": {
+                "singular": "Create Option"
+            },
+            "en-AU": {
+                "singular": "Create Option"
+            },
+            "en-CA": {
+                "singular": "Create Option"
+            },
+            "en-GB": {
+                "singular": "Create Option"
+            },
+            "en-IE": {
+                "singular": "Create Option"
+            },
+            "en-US": {
+                "singular": "Create Option"
+            },
+            "es": {
+                "singular": "Crear una opción"
+            },
+            "fi": {
+                "singular": "Alustava varaus"
+            },
+            "fi-EE": {
+                "singular": "Alustava varaus"
+            },
+            "fi-FI": {
+                "singular": "Alustava varaus"
+            },
+            "fr": {
+                "singular": "Poser une option"
+            },
+            "fr-BE": {
+                "singular": "Poser une option"
+            },
+            "fr-CA": {
+                "singular": "Poser une option"
+            },
+            "fr-CH": {
+                "singular": "Poser une option"
+            },
+            "fr-FR": {
+                "singular": "Poser une option"
+            },
+            "hr": {
+                "singular": "Kreiraj opciju"
+            },
+            "it": {
+                "singular": "Crea un'opzione"
+            },
+            "it-CH": {
+                "singular": "Crea un'opzione"
+            },
+            "it-IT": {
+                "singular": "Crea un'opzione"
+            },
+            "nl": {
+                "singular": "Maak een optie"
+            },
+            "nl-BE": {
+                "singular": "Maak een optie"
+            },
+            "nl-NL": {
+                "singular": "Maak een optie"
+            },
+            "no": {
+                "singular": "Gjør Option booking"
+            },
+            "pl": {
+                "singular": "Stwórz opcję"
+            },
+            "pt": {
+                "singular": "Criar opção"
+            },
+            "ru": {
+                "singular": "Создать опцию"
+            },
+            "sv": {
+                "singular": "Gör preliminärbokning"
+            }
+        }
+    }
+}

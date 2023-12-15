@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.newsletterSignup.cta",
+    "name": "cta",
+    "path": "text-resourcescheckout/components/booking/newsletterSignup/cta",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/newsletterSignup/cta",
+    "slug": "cta",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "newsletterSignup",
+        "cta"
+    ],
+    "content": {
+        "key": "checkout.components.booking.newsletterSignup.cta",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přihlásit"
+            },
+            "da": {
+                "singular": "Abonner"
+            },
+            "de": {
+                "singular": "Anmelden"
+            },
+            "de-AT": {
+                "singular": "Anmelden"
+            },
+            "de-CH": {
+                "singular": "Anmelden"
+            },
+            "de-DE": {
+                "singular": "Anmelden"
+            },
+            "en": {
+                "singular": "Subscribe"
+            },
+            "en-AU": {
+                "singular": "Subscribe"
+            },
+            "en-CA": {
+                "singular": "Subscribe"
+            },
+            "en-GB": {
+                "singular": "Subscribe"
+            },
+            "en-IE": {
+                "singular": "Subscribe"
+            },
+            "en-US": {
+                "singular": "Subscribe"
+            },
+            "es": {
+                "singular": "Suscribirse"
+            },
+            "fi": {
+                "singular": "Liity"
+            },
+            "fi-EE": {
+                "singular": "Liity"
+            },
+            "fi-FI": {
+                "singular": "Liity"
+            },
+            "fr": {
+                "singular": "S'inscrire"
+            },
+            "fr-BE": {
+                "singular": "S'inscrire"
+            },
+            "fr-CA": {
+                "singular": "S'inscrire"
+            },
+            "fr-CH": {
+                "singular": "S'inscrire"
+            },
+            "fr-FR": {
+                "singular": "S'inscrire"
+            },
+            "hr": {
+                "singular": "Prijava"
+            },
+            "it": {
+                "singular": "Iscriviti"
+            },
+            "it-CH": {
+                "singular": "Iscriviti"
+            },
+            "it-IT": {
+                "singular": "Iscriviti"
+            },
+            "nl": {
+                "singular": "Abonneren"
+            },
+            "nl-BE": {
+                "singular": "Abonneren"
+            },
+            "nl-NL": {
+                "singular": "Abonneren"
+            },
+            "no": {
+                "singular": "Abonnere"
+            },
+            "pl": {
+                "singular": "Subskrybuj"
+            },
+            "pt": {
+                "singular": "Subscrever"
+            },
+            "ru": {
+                "singular": "Подписаться"
+            },
+            "sv": {
+                "singular": "Prenumerera"
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "www.components.common.Chatbot.days",
+    "name": "days",
+    "path": "text-resourceswww/components/common/Chatbot/days",
+    "folder": "text-resources",
+    "full_slug": "www/components/common/Chatbot/days",
+    "slug": "days",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "common",
+        "Chatbot",
+        "days"
+    ],
+    "content": {
+        "key": "www.components.common.Chatbot.days",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "vor {value} Tag(en)"
+            },
+            "de-AT": {
+                "singular": "vor {value} Tag(en)"
+            },
+            "de-CH": {
+                "singular": "vor {value} Tag(en)"
+            },
+            "de-DE": {
+                "singular": "vor {value} Tag(en)"
+            },
+            "en": {},
+            "en-AU": {},
+            "en-CA": {},
+            "en-GB": {},
+            "en-IE": {},
+            "en-US": {},
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.equipment.nonsmoking",
+    "name": "nonsmoking",
+    "path": "text-resourceswww/components/views/details/Attributes/equipment/nonsmoking",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/equipment/nonsmoking",
+    "slug": "nonsmoking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "equipment",
+        "nonsmoking"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.equipment.nonsmoking",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nekuřácký"
+            },
+            "da": {
+                "singular": "ygning forbudt"
+            },
+            "de": {
+                "singular": "Nichtraucher"
+            },
+            "de-AT": {
+                "singular": "Nichtraucher"
+            },
+            "de-CH": {
+                "singular": "Nichtraucher"
+            },
+            "de-DE": {
+                "singular": "Nichtraucher"
+            },
+            "en": {
+                "singular": "Non smoking"
+            },
+            "en-AU": {
+                "singular": "Non smoking"
+            },
+            "en-CA": {
+                "singular": "Non smoking"
+            },
+            "en-GB": {
+                "singular": "Non smoking"
+            },
+            "en-IE": {
+                "singular": "Non smoking"
+            },
+            "en-US": {
+                "singular": "Non smoking"
+            },
+            "es": {
+                "singular": "No fumadores"
+            },
+            "fi": {
+                "singular": "Tupakointi kielletty"
+            },
+            "fi-EE": {
+                "singular": "Tupakointi kielletty"
+            },
+            "fi-FI": {
+                "singular": "Tupakointi kielletty"
+            },
+            "fr": {
+                "singular": "Non fumeur"
+            },
+            "fr-BE": {
+                "singular": "Non fumeur"
+            },
+            "fr-CA": {
+                "singular": "Non fumeur"
+            },
+            "fr-CH": {
+                "singular": "Non fumeur"
+            },
+            "fr-FR": {
+                "singular": "Non fumeur"
+            },
+            "hr": {
+                "singular": "Za nepušače"
+            },
+            "it": {
+                "singular": "Non fumatori"
+            },
+            "it-CH": {
+                "singular": "Non fumatori"
+            },
+            "it-IT": {
+                "singular": "Non fumatori"
+            },
+            "nl": {
+                "singular": "Niet-rokers"
+            },
+            "nl-BE": {
+                "singular": "Niet-rokers"
+            },
+            "nl-NL": {
+                "singular": "Niet-rokers"
+            },
+            "no": {
+                "singular": "Røyking forbudt"
+            },
+            "pl": {
+                "singular": "dla niepalących "
+            },
+            "pt": {
+                "singular": "Não fumadores"
+            },
+            "ru": {
+                "singular": "Курение не разрешено"
+            },
+            "sv": {
+                "singular": "Rökning förbjuden"
+            }
+        }
+    }
+}

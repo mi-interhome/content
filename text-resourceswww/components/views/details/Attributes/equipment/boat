@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.equipment.boat",
+    "name": "boat",
+    "path": "text-resourceswww/components/views/details/Attributes/equipment/boat",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/equipment/boat",
+    "slug": "boat",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "equipment",
+        "boat"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.equipment.boat",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Loď"
+            },
+            "da": {
+                "singular": "Båd"
+            },
+            "de": {
+                "singular": "Boot"
+            },
+            "de-AT": {
+                "singular": "Boot"
+            },
+            "de-CH": {
+                "singular": "Boot"
+            },
+            "de-DE": {
+                "singular": "Boot"
+            },
+            "en": {
+                "singular": "Boat"
+            },
+            "en-AU": {
+                "singular": "Boat"
+            },
+            "en-CA": {
+                "singular": "Boat"
+            },
+            "en-GB": {
+                "singular": "Boat"
+            },
+            "en-IE": {
+                "singular": "Boat"
+            },
+            "en-US": {
+                "singular": "Boat"
+            },
+            "es": {
+                "singular": "Barco"
+            },
+            "fi": {
+                "singular": "Vene"
+            },
+            "fi-EE": {
+                "singular": "Vene"
+            },
+            "fi-FI": {
+                "singular": "Vene"
+            },
+            "fr": {
+                "singular": "Bateau"
+            },
+            "fr-BE": {
+                "singular": "Bateau"
+            },
+            "fr-CA": {
+                "singular": "Bateau"
+            },
+            "fr-CH": {
+                "singular": "Bateau"
+            },
+            "fr-FR": {
+                "singular": "Bateau"
+            },
+            "hr": {
+                "singular": "Čamac"
+            },
+            "it": {
+                "singular": "Barca"
+            },
+            "it-CH": {
+                "singular": "Barca"
+            },
+            "it-IT": {
+                "singular": "Barca"
+            },
+            "nl": {
+                "singular": "Boot"
+            },
+            "nl-BE": {
+                "singular": "Boot"
+            },
+            "nl-NL": {
+                "singular": "Boot"
+            },
+            "no": {
+                "singular": "Båt"
+            },
+            "pl": {
+                "singular": "Łódź"
+            },
+            "pt": {
+                "singular": "Barco"
+            },
+            "ru": {
+                "singular": "Лодка"
+            },
+            "sv": {
+                "singular": "Båt"
+            }
+        }
+    }
+}

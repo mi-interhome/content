@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.compulsory_services",
+    "name": "compulsory_services",
+    "path": "text-resourceswebccSalesportal/reservationdetail/compulsory_services",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/compulsory_services",
+    "slug": "compulsory_services",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "compulsory_services"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.compulsory_services",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Povinné vedlejší poplatky"
+            },
+            "da": {
+                "singular": "Obligatoriske ekstraomkostninger"
+            },
+            "de": {
+                "singular": "Nebenkosten (obligatorisch)"
+            },
+            "de-AT": {
+                "singular": "Nebenkosten (obligatorisch)"
+            },
+            "de-CH": {
+                "singular": "Nebenkosten (obligatorisch)"
+            },
+            "de-DE": {
+                "singular": "Nebenkosten (obligatorisch)"
+            },
+            "en": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-AU": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-CA": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-GB": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-IE": {
+                "singular": "Compulsory extra costs"
+            },
+            "en-US": {
+                "singular": "Compulsory extra costs"
+            },
+            "es": {
+                "singular": "Gastos extra obligatorios"
+            },
+            "fi": {
+                "singular": "Pakolliset lisäkulut"
+            },
+            "fi-EE": {
+                "singular": "Pakolliset lisäkulut"
+            },
+            "fi-FI": {
+                "singular": "Pakolliset lisäkulut"
+            },
+            "fr": {
+                "singular": "Services obligatoires"
+            },
+            "fr-BE": {
+                "singular": "Services obligatoires"
+            },
+            "fr-CA": {
+                "singular": "Services obligatoires"
+            },
+            "fr-CH": {
+                "singular": "Services obligatoires"
+            },
+            "fr-FR": {
+                "singular": "Services obligatoires"
+            },
+            "hr": {
+                "singular": "Obavezni dodatni troškovi"
+            },
+            "it": {
+                "singular": "Costi extra oblbigatori"
+            },
+            "it-CH": {
+                "singular": "Costi extra oblbigatori"
+            },
+            "it-IT": {
+                "singular": "Costi extra oblbigatori"
+            },
+            "nl": {
+                "singular": "Verplichte extra kosten"
+            },
+            "nl-BE": {
+                "singular": "Verplichte extra kosten"
+            },
+            "nl-NL": {
+                "singular": "Verplichte extra kosten"
+            },
+            "no": {
+                "singular": "Obligatoriske ekstrakostnader"
+            },
+            "pl": {
+                "singular": "Obowiązkowe koszty dodatkowe"
+            },
+            "pt": {
+                "singular": "Custos adicionais obrigatórios"
+            },
+            "ru": {
+                "singular": "Дополнительные расходы (обязательно)"
+            },
+            "sv": {
+                "singular": "Obligatoriska extrakostnader"
+            }
+        }
+    }
+}

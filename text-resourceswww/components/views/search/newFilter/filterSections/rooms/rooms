@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.rooms.rooms",
+    "name": "rooms",
+    "path": "text-resourceswww/components/views/search/newFilter/filterSections/rooms/rooms",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/rooms/rooms",
+    "slug": "rooms",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "rooms",
+        "rooms"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.rooms.rooms",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokoj a vybavení"
+            },
+            "da": {
+                "singular": "Værelser og inventar"
+            },
+            "de": {
+                "singular": "Zimmer und Einrichtung"
+            },
+            "de-AT": {
+                "singular": "Zimmer und Einrichtung"
+            },
+            "de-CH": {
+                "singular": "Zimmer und Einrichtung"
+            },
+            "de-DE": {
+                "singular": "Zimmer und Einrichtung"
+            },
+            "en": {
+                "singular": "Rooms and facilities"
+            },
+            "en-AU": {
+                "singular": "Rooms and facilities"
+            },
+            "en-CA": {
+                "singular": "Rooms and facilities"
+            },
+            "en-GB": {
+                "singular": "Rooms and facilities"
+            },
+            "en-IE": {
+                "singular": "Rooms and facilities"
+            },
+            "en-US": {
+                "singular": "Rooms and facilities"
+            },
+            "es": {
+                "singular": "Habitación y equipamiento"
+            },
+            "fi": {
+                "singular": "Huoneet ja laitteet"
+            },
+            "fi-EE": {
+                "singular": "Huoneet ja tilat"
+            },
+            "fi-FI": {
+                "singular": "Huoneet ja laitteet"
+            },
+            "fr": {
+                "singular": "Chambres et équipement"
+            },
+            "fr-BE": {
+                "singular": "Chambres et équipement"
+            },
+            "fr-CA": {
+                "singular": "Chambres et équipement"
+            },
+            "fr-CH": {
+                "singular": "Chambres et équipement"
+            },
+            "fr-FR": {
+                "singular": "Chambres et équipement"
+            },
+            "hr": {
+                "singular": "Sobe i sadržaji"
+            },
+            "it": {
+                "singular": "Caratteristiche e servizi"
+            },
+            "it-CH": {
+                "singular": "Caratteristiche e servizi"
+            },
+            "it-IT": {
+                "singular": "Caratteristiche e servizi"
+            },
+            "nl": {
+                "singular": "Kamer en inrichting"
+            },
+            "nl-BE": {
+                "singular": "Kamer en inrichting"
+            },
+            "nl-NL": {
+                "singular": "Kamer en inrichting"
+            },
+            "no": {
+                "singular": "Rom og fasiliteter"
+            },
+            "pl": {
+                "singular": "Pokoje i wyposażenie"
+            },
+            "pt": {
+                "singular": "Quartos e facilidades"
+            },
+            "ru": {
+                "singular": "Номера и удобства"
+            },
+            "sv": {
+                "singular": "Rum och faciliteter"
+            }
+        }
+    }
+}

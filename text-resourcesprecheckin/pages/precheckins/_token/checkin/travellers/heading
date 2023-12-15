@@ -1,0 +1,161 @@
+{
+    "id": "precheckin.pages.precheckins._token.checkin.travellers.heading",
+    "name": "heading",
+    "path": "text-resourcesprecheckin/pages/precheckins/_token/checkin/travellers/heading",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/checkin/travellers/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "checkin",
+        "travellers",
+        "heading"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.checkin.travellers.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Jeden cestující",
+                "plural": "Cestující: {count}"
+            },
+            "da": {
+                "singular": "En gæst",
+                "plural": "{count} gæster"
+            },
+            "de": {
+                "singular": "Ein(e) Reisende(r)",
+                "plural": "{count} Reisende"
+            },
+            "de-AT": {
+                "singular": "Ein(e) Reisende(r)",
+                "plural": "{count} Reisende"
+            },
+            "de-CH": {
+                "singular": "Ein(e) Reisende(r)",
+                "plural": "{count} Reisende"
+            },
+            "de-DE": {
+                "singular": "Ein(e) Reisende(r)",
+                "plural": "{count} Reisende"
+            },
+            "en": {
+                "singular": "One Traveller",
+                "plural": "{count} Travellers"
+            },
+            "en-AU": {
+                "singular": "One Traveller",
+                "plural": "{count} Travellers"
+            },
+            "en-CA": {
+                "singular": "One Traveller",
+                "plural": "{count} Travellers"
+            },
+            "en-GB": {
+                "singular": "One Traveller",
+                "plural": "{count} Travellers"
+            },
+            "en-IE": {
+                "singular": "One Traveller",
+                "plural": "{count} Travellers"
+            },
+            "en-US": {
+                "singular": "One Traveller",
+                "plural": "{count} Travellers"
+            },
+            "es": {
+                "singular": "Un viajero",
+                "plural": "{count} Viajeros"
+            },
+            "fi": {
+                "singular": "Yksi matkustaja",
+                "plural": "{count} matkustajaa"
+            },
+            "fi-EE": {
+                "singular": "Yksi matkustaja",
+                "plural": "{count} matkustajaa"
+            },
+            "fi-FI": {
+                "singular": "Yksi matkustaja",
+                "plural": "{count} matkustajaa"
+            },
+            "fr": {
+                "singular": "Une personne",
+                "plural": "{count} personnes"
+            },
+            "fr-BE": {
+                "singular": "Une personne",
+                "plural": "{count} personnes"
+            },
+            "fr-CA": {
+                "singular": "Une personne",
+                "plural": "{count} personnes"
+            },
+            "fr-CH": {
+                "singular": "Une personne",
+                "plural": "{count} personnes"
+            },
+            "fr-FR": {
+                "singular": "Une personne",
+                "plural": "{count} personnes"
+            },
+            "hr": {
+                "singular": "Jedan putnik",
+                "plural": "{count} putnika"
+            },
+            "it": {
+                "singular": "Un ospite",
+                "plural": "{count} ospiti"
+            },
+            "it-CH": {
+                "singular": "Un ospite",
+                "plural": "{count} ospiti"
+            },
+            "it-IT": {
+                "singular": "Un ospite",
+                "plural": "{count} ospiti"
+            },
+            "nl": {
+                "singular": "Eén reiziger",
+                "plural": "{tel} Reizigers"
+            },
+            "nl-BE": {
+                "singular": "Eén reiziger",
+                "plural": "{tel} Reizigers"
+            },
+            "nl-NL": {
+                "singular": "Eén reiziger",
+                "plural": "{tel} Reizigers"
+            },
+            "no": {
+                "singular": "En reisende",
+                "plural": "{count} Reisende"
+            },
+            "pl": {
+                "singular": "Jeden podróżny",
+                "plural": "{count} podróżnych"
+            },
+            "pt": {
+                "singular": "Um viajante",
+                "plural": "{count} Viajantes"
+            },
+            "ru": {
+                "singular": "Один турист",
+                "plural": "{count} Туристов"
+            },
+            "sv": {
+                "singular": "En resande",
+                "plural": "{count} Resande"
+            }
+        }
+    }
+}

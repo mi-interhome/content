@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.refund.button",
+    "name": "button",
+    "path": "text-resourceswebccBooking/pages/reservations/overview/refund/button",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/refund/button",
+    "slug": "button",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "refund",
+        "button"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.refund.button",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte možnost vrácení peněz"
+            },
+            "da": {
+                "singular": "Vælg mulighed for refusion"
+            },
+            "de": {
+                "singular": "Rückerstattungsoption auswählen"
+            },
+            "de-AT": {
+                "singular": "Rückerstattungsoption auswählen"
+            },
+            "de-CH": {
+                "singular": "Rückerstattungsoption auswählen"
+            },
+            "de-DE": {
+                "singular": "Rückerstattungsoption auswählen"
+            },
+            "en": {
+                "singular": "Select refund option"
+            },
+            "en-AU": {
+                "singular": "Select refund option"
+            },
+            "en-CA": {
+                "singular": "Select refund option"
+            },
+            "en-GB": {
+                "singular": "Select refund option"
+            },
+            "en-IE": {
+                "singular": "Select refund option"
+            },
+            "en-US": {
+                "singular": "Select refund option"
+            },
+            "es": {
+                "singular": "Seleccione la opción de reembolso"
+            },
+            "fi": {
+                "singular": "Valitse hyvitystapa"
+            },
+            "fi-EE": {
+                "singular": "Valitse hyvitystapa"
+            },
+            "fi-FI": {
+                "singular": "Valitse hyvitystapa"
+            },
+            "fr": {
+                "singular": "Sélectionnez une option de remboursement"
+            },
+            "fr-BE": {
+                "singular": "Sélectionnez une option de remboursement"
+            },
+            "fr-CA": {
+                "singular": "Sélectionnez une option de remboursement"
+            },
+            "fr-CH": {
+                "singular": "Sélectionnez une option de remboursement"
+            },
+            "fr-FR": {
+                "singular": "Sélectionnez une option de remboursement"
+            },
+            "hr": {
+                "singular": "Izaberite opciju povrata sredstava"
+            },
+            "it": {
+                "singular": "Selezionare l'opzione di rimborso"
+            },
+            "it-CH": {
+                "singular": "Selezionare l'opzione di rimborso"
+            },
+            "it-IT": {
+                "singular": "Selezionare l'opzione di rimborso"
+            },
+            "nl": {
+                "singular": "Selecteer een terugbetaaloptie"
+            },
+            "nl-BE": {
+                "singular": "Selecteer een terugbetaaloptie"
+            },
+            "nl-NL": {
+                "singular": "Selecteer een terugbetaaloptie"
+            },
+            "no": {
+                "singular": "Velg refusjonsalternativ"
+            },
+            "pl": {
+                "singular": "Opcje zwrotu"
+            },
+            "pt": {
+                "singular": "Selecione a opção de reembolso"
+            },
+            "ru": {
+                "singular": "Выберите способ возврата"
+            },
+            "sv": {
+                "singular": "Välj återbetalningsalternativ"
+            }
+        }
+    }
+}

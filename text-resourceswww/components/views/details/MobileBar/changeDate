@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.MobileBar.changeDate",
+    "name": "changeDate",
+    "path": "text-resourceswww/components/views/details/MobileBar/changeDate",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/MobileBar/changeDate",
+    "slug": "changeDate",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "MobileBar",
+        "changeDate"
+    ],
+    "content": {
+        "key": "www.components.views.details.MobileBar.changeDate",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Změnit termín pobytu"
+            },
+            "da": {
+                "singular": "Ændre rejsedata"
+            },
+            "de": {
+                "singular": "Reisedaten ändern"
+            },
+            "de-AT": {
+                "singular": "Reisedaten ändern"
+            },
+            "de-CH": {
+                "singular": "Reisedaten ändern"
+            },
+            "de-DE": {
+                "singular": "Reisedaten ändern"
+            },
+            "en": {
+                "singular": "Change Date"
+            },
+            "en-AU": {
+                "singular": "Change Date"
+            },
+            "en-CA": {
+                "singular": "Change Date"
+            },
+            "en-GB": {
+                "singular": "Change Date"
+            },
+            "en-IE": {
+                "singular": "Change Date"
+            },
+            "en-US": {
+                "singular": "Change Date"
+            },
+            "es": {
+                "singular": "Cambiar las fechas"
+            },
+            "fi": {
+                "singular": "Muuta päivämäärät"
+            },
+            "fi-EE": {
+                "singular": "Muuta päivämäärät"
+            },
+            "fi-FI": {
+                "singular": "Muuta päivämäärät"
+            },
+            "fr": {
+                "singular": "Modifier les dates de séjour"
+            },
+            "fr-BE": {
+                "singular": "Modifier les dates de séjour"
+            },
+            "fr-CA": {
+                "singular": "Modifier les dates de séjour"
+            },
+            "fr-CH": {
+                "singular": "Modifier les dates de séjour"
+            },
+            "fr-FR": {
+                "singular": "Modifier les dates de séjour"
+            },
+            "hr": {
+                "singular": "Promijeni datum"
+            },
+            "it": {
+                "singular": "Modificare le date del soggiorno"
+            },
+            "it-CH": {
+                "singular": "Modificare le date del soggiorno"
+            },
+            "it-IT": {
+                "singular": "Modificare le date del soggiorno"
+            },
+            "nl": {
+                "singular": "Data veranderen"
+            },
+            "nl-BE": {
+                "singular": "Data veranderen"
+            },
+            "nl-NL": {
+                "singular": "Data veranderen"
+            },
+            "no": {
+                "singular": "Endre reisedata"
+            },
+            "pl": {
+                "singular": "Zmiana daty"
+            },
+            "pt": {
+                "singular": "Mudar as datas"
+            },
+            "ru": {
+                "singular": "изменить дату"
+            },
+            "sv": {
+                "singular": "Ändra uppgifter"
+            }
+        }
+    }
+}

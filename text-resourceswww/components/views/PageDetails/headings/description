@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.PageDetails.headings.description",
+    "name": "description",
+    "path": "text-resourceswww/components/views/PageDetails/headings/description",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/PageDetails/headings/description",
+    "slug": "description",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "PageDetails",
+        "headings",
+        "description"
+    ],
+    "content": {
+        "key": "www.components.views.PageDetails.headings.description",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Popis"
+            },
+            "da": {
+                "singular": "Beskrivelse"
+            },
+            "de": {
+                "singular": "Beschreibung"
+            },
+            "de-AT": {
+                "singular": "Beschreibung"
+            },
+            "de-CH": {
+                "singular": "Beschreibung"
+            },
+            "de-DE": {
+                "singular": "Beschreibung"
+            },
+            "en": {
+                "singular": "Description"
+            },
+            "en-AU": {
+                "singular": "Description"
+            },
+            "en-CA": {
+                "singular": "Description"
+            },
+            "en-GB": {
+                "singular": "Description"
+            },
+            "en-IE": {
+                "singular": "Description"
+            },
+            "en-US": {
+                "singular": "Description"
+            },
+            "es": {
+                "singular": "Descripción"
+            },
+            "fi": {
+                "singular": "Kuvaus"
+            },
+            "fi-EE": {
+                "singular": "Kuvaus"
+            },
+            "fi-FI": {
+                "singular": "Kuvaus"
+            },
+            "fr": {
+                "singular": "Description"
+            },
+            "fr-BE": {
+                "singular": "Description"
+            },
+            "fr-CA": {
+                "singular": "Description"
+            },
+            "fr-CH": {
+                "singular": "Description"
+            },
+            "fr-FR": {
+                "singular": "Description"
+            },
+            "hr": {
+                "singular": "Opis"
+            },
+            "it": {
+                "singular": "Descrizione"
+            },
+            "it-CH": {
+                "singular": "Descrizione"
+            },
+            "it-IT": {
+                "singular": "Descrizione"
+            },
+            "nl": {
+                "singular": "Beschrijving"
+            },
+            "nl-BE": {
+                "singular": "Beschrijving"
+            },
+            "nl-NL": {
+                "singular": "Beschrijving"
+            },
+            "no": {
+                "singular": "Beskrivelse"
+            },
+            "pl": {
+                "singular": "Opis"
+            },
+            "pt": {
+                "singular": "Descrição"
+            },
+            "ru": {
+                "singular": "Описание"
+            },
+            "sv": {
+                "singular": "Beskrivning"
+            }
+        }
+    }
+}

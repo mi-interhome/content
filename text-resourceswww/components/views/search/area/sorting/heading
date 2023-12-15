@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.area.sorting.heading",
+    "name": "heading",
+    "path": "text-resourceswww/components/views/search/area/sorting/heading",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/area/sorting/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "area",
+        "sorting",
+        "heading"
+    ],
+    "content": {
+        "key": "www.components.views.search.area.sorting.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Řazení"
+            },
+            "da": {
+                "singular": "Sortering"
+            },
+            "de": {
+                "singular": "Sortierung"
+            },
+            "de-AT": {
+                "singular": "Sortierung"
+            },
+            "de-CH": {
+                "singular": "Sortierung"
+            },
+            "de-DE": {
+                "singular": "Sortierung"
+            },
+            "en": {
+                "singular": "Sorting"
+            },
+            "en-AU": {
+                "singular": "Sorting"
+            },
+            "en-CA": {
+                "singular": "Sorting"
+            },
+            "en-GB": {
+                "singular": "Sorting"
+            },
+            "en-IE": {
+                "singular": "Sorting"
+            },
+            "en-US": {
+                "singular": "Sorting"
+            },
+            "es": {
+                "singular": "Ordenar por"
+            },
+            "fi": {
+                "singular": "Lajittelu"
+            },
+            "fi-EE": {
+                "singular": "Lajittelu"
+            },
+            "fi-FI": {
+                "singular": "Lajittelu"
+            },
+            "fr": {
+                "singular": "Tri"
+            },
+            "fr-BE": {
+                "singular": "Tri"
+            },
+            "fr-CA": {
+                "singular": "Tri"
+            },
+            "fr-CH": {
+                "singular": "Tri"
+            },
+            "fr-FR": {
+                "singular": "Tri"
+            },
+            "hr": {
+                "singular": "Razvrstaj"
+            },
+            "it": {
+                "singular": "Ordina in base a"
+            },
+            "it-CH": {
+                "singular": "Ordina in base a"
+            },
+            "it-IT": {
+                "singular": "Ordina in base a"
+            },
+            "nl": {
+                "singular": "Sorteren"
+            },
+            "nl-BE": {
+                "singular": "Sorteren"
+            },
+            "nl-NL": {
+                "singular": "Sorteren"
+            },
+            "no": {
+                "singular": "Sortering"
+            },
+            "pl": {
+                "singular": "Sortowanie"
+            },
+            "pt": {
+                "singular": "Organizar por"
+            },
+            "ru": {
+                "singular": "Сортировка"
+            },
+            "sv": {
+                "singular": "Sortering"
+            }
+        }
+    }
+}

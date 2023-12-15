@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.trip.trip.checkin",
+    "name": "checkin",
+    "path": "text-resourcescheckout/components/booking/trip/trip/checkin",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/trip/trip/checkin",
+    "slug": "checkin",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "trip",
+        "trip",
+        "checkin"
+    ],
+    "content": {
+        "key": "checkout.components.booking.trip.trip.checkin",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Příjezd"
+            },
+            "da": {
+                "singular": "Ankomst"
+            },
+            "de": {
+                "singular": "Anreise"
+            },
+            "de-AT": {
+                "singular": "Anreise"
+            },
+            "de-CH": {
+                "singular": "Anreise"
+            },
+            "de-DE": {
+                "singular": "Anreise"
+            },
+            "en": {
+                "singular": "Arrival"
+            },
+            "en-AU": {
+                "singular": "Arrival"
+            },
+            "en-CA": {
+                "singular": "Arrival"
+            },
+            "en-GB": {
+                "singular": "Arrival"
+            },
+            "en-IE": {
+                "singular": "Arrival"
+            },
+            "en-US": {
+                "singular": "Arrival"
+            },
+            "es": {
+                "singular": "Llegada"
+            },
+            "fi": {
+                "singular": "Saapumispäivä"
+            },
+            "fi-EE": {
+                "singular": "Saapumispäivä"
+            },
+            "fi-FI": {
+                "singular": "Saapumispäivä"
+            },
+            "fr": {
+                "singular": "Arrivée"
+            },
+            "fr-BE": {
+                "singular": "Arrivée"
+            },
+            "fr-CA": {
+                "singular": "Arrivée"
+            },
+            "fr-CH": {
+                "singular": "Arrivée"
+            },
+            "fr-FR": {
+                "singular": "Arrivée"
+            },
+            "hr": {
+                "singular": "Dolazak"
+            },
+            "it": {
+                "singular": "Arrivo"
+            },
+            "it-CH": {
+                "singular": "Arrivo"
+            },
+            "it-IT": {
+                "singular": "Arrivo"
+            },
+            "nl": {
+                "singular": "Aankomst"
+            },
+            "nl-BE": {
+                "singular": "Aankomst"
+            },
+            "nl-NL": {
+                "singular": "Aankomst"
+            },
+            "no": {
+                "singular": "Ankomst"
+            },
+            "pl": {
+                "singular": "Data przyjazdu"
+            },
+            "pt": {
+                "singular": "Chegada"
+            },
+            "ru": {
+                "singular": "Заезд"
+            },
+            "sv": {
+                "singular": "Ankomst"
+            }
+        }
+    }
+}

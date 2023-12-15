@@ -1,0 +1,191 @@
+{
+    "id": "www.components.views.PageDetails.review_s",
+    "name": "review_s",
+    "path": "text-resourceswww/components/views/PageDetails/review_s",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/PageDetails/review_s",
+    "slug": "review_s",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "PageDetails",
+        "review_s"
+    ],
+    "content": {
+        "key": "www.components.views.PageDetails.review_s",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "zero": "Neustále shromažďujeme recenze od našich klientů.",
+                "singular": "Jedno hodnocení",
+                "plural": "{count} hodnocení"
+            },
+            "da": {
+                "zero": "Vi er stadig i gang med at samle anmeldelser fra vore kunder.",
+                "singular": "en bedømmelse",
+                "plural": "{count} anmeldelser"
+            },
+            "de": {
+                "zero": "Aktuell liegen uns noch keine Kundenbewertungen zu diesem Objekt vor.",
+                "singular": "eine Bewertung",
+                "plural": "{count} Bewertungen"
+            },
+            "de-AT": {
+                "zero": "Aktuell liegen uns noch keine Kundenbewertungen zu diesem Objekt vor.",
+                "singular": "eine Bewertung",
+                "plural": "{count} Bewertungen"
+            },
+            "de-CH": {
+                "zero": "Aktuell liegen uns noch keine Kundenbewertungen zu diesem Objekt vor.",
+                "singular": "eine Bewertung",
+                "plural": "{count} Kundenbewertungen"
+            },
+            "de-DE": {
+                "zero": "Aktuell liegen uns noch keine Kundenbewertungen zu diesem Objekt vor.",
+                "singular": "eine Bewertung",
+                "plural": "{count} Bewertungen"
+            },
+            "en": {
+                "zero": "We are still in the process of collecting reviews from our customers.",
+                "singular": "One rating",
+                "plural": "{count} reviews"
+            },
+            "en-AU": {
+                "zero": "We are still in the process of collecting reviews from our customers.",
+                "singular": "One rating",
+                "plural": "{count} reviews"
+            },
+            "en-CA": {
+                "zero": "We are still in the process of collecting reviews from our customers.",
+                "singular": "One rating",
+                "plural": "{count} reviews"
+            },
+            "en-GB": {
+                "zero": "We are still in the process of collecting reviews from our customers.",
+                "singular": "One rating",
+                "plural": "{count} reviews"
+            },
+            "en-IE": {
+                "zero": "We are still in the process of collecting reviews from our customers.",
+                "singular": "One rating",
+                "plural": "{count} reviews"
+            },
+            "en-US": {
+                "zero": "We are still in the process of collecting reviews from our customers.",
+                "singular": "One rating",
+                "plural": "{count} reviews"
+            },
+            "es": {
+                "zero": "Estamos todavía en proceso de recolectar opiniones de nuestros clientes",
+                "singular": "Una valoración",
+                "plural": "{count} comentarios"
+            },
+            "fi": {
+                "zero": "Keräämme vielä asiakkaidemme arvioita",
+                "singular": "Yksi arvostelu",
+                "plural": "{count} arvioinnit"
+            },
+            "fi-EE": {
+                "singular": "Keräämme vielä asiakkaidemme arvioita",
+                "plural": "{count} arviota"
+            },
+            "fi-FI": {
+                "zero": "Keräämme vielä asiakkaidemme arvioita",
+                "singular": "Yksi arvostelu",
+                "plural": "{count} arvioinnit"
+            },
+            "fr": {
+                "zero": "Nous sommes en train de recueillir les avis de nos clients.",
+                "singular": "Une évaluation",
+                "plural": "{count} évaluations"
+            },
+            "fr-BE": {
+                "zero": "Nous sommes en train de recueillir les avis de nos clients.",
+                "singular": "Une évaluation",
+                "plural": "{count} évaluations"
+            },
+            "fr-CA": {
+                "zero": "Nous sommes en train de recueillir les avis de nos clients.",
+                "singular": "Une évaluation",
+                "plural": "{count} évaluations"
+            },
+            "fr-CH": {
+                "zero": "Nous sommes en train de recueillir les avis de nos clients.",
+                "singular": "Une évaluation",
+                "plural": "{count} évaluations"
+            },
+            "fr-FR": {
+                "zero": "Nous sommes en train de recueillir les avis de nos clients.",
+                "singular": "Une évaluation",
+                "plural": "{count} évaluations"
+            },
+            "hr": {
+                "zero": "Još smo u procesu prikupljanja ocjena naših gostiju.",
+                "singular": "Jedna recenzija",
+                "plural": "{count} ocjene"
+            },
+            "it": {
+                "zero": "Stiamo raccogliendo le recensioni dei nostri clienti.",
+                "singular": "Una recensione",
+                "plural": "{count} recensioni"
+            },
+            "it-CH": {
+                "zero": "Stiamo raccogliendo le recensioni dei nostri clienti.",
+                "singular": "Una recensione",
+                "plural": "{count} recensioni"
+            },
+            "it-IT": {
+                "zero": "Stiamo raccogliendo le recensioni dei nostri clienti.",
+                "singular": "Una recensione",
+                "plural": "{count} recensioni"
+            },
+            "nl": {
+                "zero": "We zijn nog bezig met het verzamelen van beoordelingen van onze klanten.",
+                "singular": "Een review",
+                "plural": "{count} Reviews"
+            },
+            "nl-BE": {
+                "zero": "We zijn nog bezig met het verzamelen van beoordelingen van onze klanten.",
+                "singular": "Een review",
+                "plural": "{count} Reviews"
+            },
+            "nl-NL": {
+                "zero": "We zijn nog bezig met het verzamelen van beoordelingen van onze klanten.",
+                "singular": "Een review",
+                "plural": "{count} Reviews"
+            },
+            "no": {
+                "zero": "Vi er fortsatt i ferd med å samle anmeldelser fra våre kunder.",
+                "singular": "en vurdering",
+                "plural": "{count} anmeldelser"
+            },
+            "pl": {
+                "zero": "Nadal zbieramy opinie od naszych Klientów. ",
+                "singular": "Jedna ocena",
+                "plural": "{count} oceny"
+            },
+            "pt": {
+                "zero": "Ainda estamos no processo de recolher avaliações dos nossos clientes.",
+                "singular": "Uma avaliação",
+                "plural": "{count} comentários"
+            },
+            "ru": {
+                "zero": "Мы все еще находимся в процессе сбора отзывов от наших клиентов.",
+                "singular": "Один рейтинг",
+                "plural": "{count} pейтинг"
+            },
+            "sv": {
+                "zero": "Vi håller fortfarande på att samla recensioner från våra kunder.",
+                "singular": "Ett betyg",
+                "plural": "{count} recensioner"
+            }
+        }
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "id": "reservations.pages.review.duringStay.customerService",
+    "name": "customerService",
+    "path": "text-resourcesreservations/pages/review/duringStay/customerService",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/duringStay/customerService",
+    "slug": "customerService",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "duringStay",
+        "customerService"
+    ],
+    "content": {
+        "key": "reservations.pages.review.duringStay.customerService",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zákaznický servis v místě"
+            },
+            "da": {},
+            "de": {
+                "singular": "Kundenservice vor Ort/Freundlichkeit"
+            },
+            "de-AT": {
+                "singular": "Kundenservice vor Ort/Freundlichkeit"
+            },
+            "de-CH": {
+                "singular": "Kundenservice vor Ort/Freundlichkeit"
+            },
+            "de-DE": {
+                "singular": "Kundenservice vor Ort/Freundlichkeit"
+            },
+            "en": {
+                "singular": "On-site customer service / friendliness"
+            },
+            "en-AU": {
+                "singular": "On-site customer service / friendliness"
+            },
+            "en-CA": {
+                "singular": "On-site customer service / friendliness"
+            },
+            "en-GB": {
+                "singular": "On-site customer service / friendliness"
+            },
+            "en-IE": {
+                "singular": "On-site customer service / friendliness"
+            },
+            "en-US": {
+                "singular": "On-site customer service / friendliness"
+            },
+            "es": {
+                "singular": "Servicio al cliente en destino/amabilidad"
+            },
+            "fi": {
+                "singular": "Asiakaspalvelu paikan päällä"
+            },
+            "fi-EE": {
+                "singular": "Asiakaspalvelu paikan päällä"
+            },
+            "fi-FI": {
+                "singular": "Asiakaspalvelu paikan päällä"
+            },
+            "fr": {
+                "singular": "Service clientèle sur place / amabilité"
+            },
+            "fr-BE": {
+                "singular": "Service clientèle sur place / amabilité"
+            },
+            "fr-CA": {
+                "singular": "Service clientèle sur place / amabilité"
+            },
+            "fr-CH": {
+                "singular": "Service clientèle sur place/amabilité"
+            },
+            "fr-FR": {
+                "singular": "Service clientèle sur place / amabilité"
+            },
+            "hr": {
+                "singular": "Usluga na licu mjesta / ljubaznost"
+            },
+            "it": {
+                "singular": "Servizio in loco/cortesia"
+            },
+            "it-CH": {
+                "singular": "Servizio in loco/cortesia"
+            },
+            "it-IT": {
+                "singular": "Servizio in loco/cortesia"
+            },
+            "nl": {
+                "singular": "Klantenservice/vriendelijkheid ter plekke"
+            },
+            "nl-BE": {
+                "singular": "Klantenservice/vriendelijkheid ter plekke"
+            },
+            "nl-NL": {
+                "singular": "Klantenservice/vriendelijkheid ter plekke"
+            },
+            "no": {},
+            "pl": {
+                "singular": "Serwis klienta na miejscu / Pomoc"
+            },
+            "pt": {
+                "singular": "Apoio ao cliente no local / simpatia"
+            },
+            "ru": {
+                "singular": "Обслуживание / обслуживание на месте"
+            },
+            "sv": {}
+        }
+    }
+}

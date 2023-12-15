@@ -1,0 +1,126 @@
+{
+    "id": "www.components.ui.alert.importantObjectNote",
+    "name": "importantObjectNote",
+    "path": "text-resourceswww/components/ui/alert/importantObjectNote",
+    "folder": "text-resources",
+    "full_slug": "www/components/ui/alert/importantObjectNote",
+    "slug": "importantObjectNote",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "ui",
+        "alert",
+        "importantObjectNote"
+    ],
+    "content": {
+        "key": "www.components.ui.alert.importantObjectNote",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dbejte následující výstrahy u tohoto objektu"
+            },
+            "da": {
+                "singular": "Bemærk venligst følgende informationer ved dette objekt"
+            },
+            "de": {
+                "singular": "Wichtiger Hinweis zu diesem Objekt"
+            },
+            "de-AT": {
+                "singular": "Wichtiger Hinweis zu diesem Objekt"
+            },
+            "de-CH": {
+                "singular": "Wichtiger Hinweis zu diesem Objekt"
+            },
+            "de-DE": {
+                "singular": "Wichtiger Hinweis zu diesem Objekt"
+            },
+            "en": {
+                "singular": "Accommodation alert"
+            },
+            "en-AU": {
+                "singular": "Accommodation alert"
+            },
+            "en-CA": {
+                "singular": "Accommodation alert"
+            },
+            "en-GB": {
+                "singular": "Accommodation alert"
+            },
+            "en-IE": {
+                "singular": "Accommodation alert"
+            },
+            "en-US": {
+                "singular": "Accommodation alert"
+            },
+            "es": {
+                "singular": "Aviso de alojamiento"
+            },
+            "fi": {
+                "singular": "Tärkeää huomioitavaa loma-asunnossa"
+            },
+            "fi-EE": {
+                "singular": "Tärkeää huomioitavaa loma-asunnossa"
+            },
+            "fi-FI": {
+                "singular": "Tärkeää huomioitavaa loma-asunnossa"
+            },
+            "fr": {
+                "singular": "Ci-après, les alertes à noter sur cet objet"
+            },
+            "fr-BE": {
+                "singular": "Ci-après, les alertes à noter sur cet objet"
+            },
+            "fr-CA": {
+                "singular": "Ci-après, les alertes à noter sur cet objet"
+            },
+            "fr-CH": {
+                "singular": "Ci-après, les alertes à noter sur cet objet"
+            },
+            "fr-FR": {
+                "singular": "Ci-après, les alertes à noter sur cet objet"
+            },
+            "hr": {
+                "singular": "Smještaj - upozorenje"
+            },
+            "it": {
+                "singular": "Ti preghiamo di prestare attenzione agli avvisi riguardanti la casa vacanze"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di prestare attenzione agli avvisi riguardanti la casa vacanze"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di prestare attenzione agli avvisi riguardanti la casa vacanze"
+            },
+            "nl": {
+                "singular": "Voor dit object geldt de volgende ALERT"
+            },
+            "nl-BE": {
+                "singular": "Voor dit object geldt de volgende ALERT"
+            },
+            "nl-NL": {
+                "singular": "Voor dit object geldt de volgende ALERT"
+            },
+            "no": {
+                "singular": "Ferieboligvarsel"
+            },
+            "pl": {
+                "singular": "Ważne informacje"
+            },
+            "pt": {
+                "singular": "Alojamento de alerta"
+            },
+            "ru": {
+                "singular": "Уведомления о статусе объекта"
+            },
+            "sv": {
+                "singular": "Varning boende"
+            }
+        }
+    }
+}

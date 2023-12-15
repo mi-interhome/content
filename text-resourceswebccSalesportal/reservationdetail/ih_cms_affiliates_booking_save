@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_save",
+    "name": "ih_cms_affiliates_booking_save",
+    "path": "text-resourceswebccSalesportal/reservationdetail/ih_cms_affiliates_booking_save",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_save",
+    "slug": "ih_cms_affiliates_booking_save",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_save"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_save",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Uložit změny"
+            },
+            "da": {
+                "singular": "Gem ændringer"
+            },
+            "de": {
+                "singular": "Änderungen speichern"
+            },
+            "de-AT": {
+                "singular": "Änderungen speichern"
+            },
+            "de-CH": {
+                "singular": "Änderungen speichern"
+            },
+            "de-DE": {
+                "singular": "Änderungen speichern"
+            },
+            "en": {
+                "singular": "Save changes"
+            },
+            "en-AU": {
+                "singular": "Save changes"
+            },
+            "en-CA": {
+                "singular": "Save changes"
+            },
+            "en-GB": {
+                "singular": "Save changes"
+            },
+            "en-IE": {
+                "singular": "Save changes"
+            },
+            "en-US": {
+                "singular": "Save changes"
+            },
+            "es": {
+                "singular": "Guardar los cambios"
+            },
+            "fi": {
+                "singular": "Tallenna muutokset"
+            },
+            "fi-EE": {
+                "singular": "Tallenna muutokset"
+            },
+            "fi-FI": {
+                "singular": "Tallenna muutokset"
+            },
+            "fr": {
+                "singular": "Enregistrer les modifications"
+            },
+            "fr-BE": {
+                "singular": "Enregistrer les modifications"
+            },
+            "fr-CA": {
+                "singular": "Enregistrer les modifications"
+            },
+            "fr-CH": {
+                "singular": "Enregistrer les modifications"
+            },
+            "fr-FR": {
+                "singular": "Enregistrer les modifications"
+            },
+            "hr": {
+                "singular": "Spremi promjene"
+            },
+            "it": {
+                "singular": "Salva le modifiche"
+            },
+            "it-CH": {
+                "singular": "Salva le modifiche"
+            },
+            "it-IT": {
+                "singular": "Salva le modifiche"
+            },
+            "nl": {
+                "singular": "Bewaar wijzigingen"
+            },
+            "nl-BE": {
+                "singular": "Bewaar wijzigingen"
+            },
+            "nl-NL": {
+                "singular": "Bewaar wijzigingen"
+            },
+            "no": {
+                "singular": "Lagre endringer"
+            },
+            "pl": {
+                "singular": "Zapisz zmiany"
+            },
+            "pt": {
+                "singular": "Guarde as alterações"
+            },
+            "ru": {
+                "singular": "Сохранить изменения"
+            },
+            "sv": {
+                "singular": "Spara ändringar"
+            }
+        }
+    }
+}

@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.search.newFilter.filterSections.facilities.cots",
+    "name": "cots",
+    "path": "text-resourceswww/components/views/search/newFilter/filterSections/facilities/cots",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterSections/facilities/cots",
+    "slug": "cots",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterSections",
+        "facilities",
+        "cots"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterSections.facilities.cots",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dětská postýlka"
+            },
+            "da": {
+                "singular": "Barneseng"
+            },
+            "de": {
+                "singular": "Babybett"
+            },
+            "de-AT": {
+                "singular": "Babybett"
+            },
+            "de-CH": {
+                "singular": "Babybett"
+            },
+            "de-DE": {
+                "singular": "Babybett"
+            },
+            "en": {
+                "singular": "Baby cot"
+            },
+            "en-AU": {
+                "singular": "Baby cot"
+            },
+            "en-CA": {
+                "singular": "Baby cot"
+            },
+            "en-GB": {
+                "singular": "Baby cot"
+            },
+            "en-IE": {
+                "singular": "Baby cot"
+            },
+            "en-US": {
+                "singular": "Baby crib "
+            },
+            "es": {
+                "singular": "Cuna"
+            },
+            "fi": {
+                "singular": "Vauvansänky"
+            },
+            "fi-EE": {
+                "singular": "Vauvansänky"
+            },
+            "fi-FI": {
+                "singular": "Vauvansänky"
+            },
+            "fr": {
+                "singular": "Lit bébé"
+            },
+            "fr-BE": {
+                "singular": "Lit bébé"
+            },
+            "fr-CA": {
+                "singular": "Lit bébé"
+            },
+            "fr-CH": {
+                "singular": "Lit bébé"
+            },
+            "fr-FR": {
+                "singular": "Lit bébé"
+            },
+            "hr": {
+                "singular": "Krevetić za bebe"
+            },
+            "it": {
+                "singular": "Culla per bambini"
+            },
+            "it-CH": {
+                "singular": "Culla per bambini"
+            },
+            "it-IT": {
+                "singular": "Culla per bambini"
+            },
+            "nl": {
+                "singular": "Babybed"
+            },
+            "nl-BE": {
+                "singular": "Babybed"
+            },
+            "nl-NL": {
+                "singular": "Babybed"
+            },
+            "no": {
+                "singular": "Babyseng"
+            },
+            "pl": {
+                "singular": "Łóżeczko dla dziecka"
+            },
+            "pt": {
+                "singular": "Berço"
+            },
+            "ru": {
+                "singular": "Детская кроватка"
+            },
+            "sv": {
+                "singular": "Barnbädd"
+            }
+        }
+    }
+}

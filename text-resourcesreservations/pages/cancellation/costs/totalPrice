@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.cancellation.costs.totalPrice",
+    "name": "totalPrice",
+    "path": "text-resourcesreservations/pages/cancellation/costs/totalPrice",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/costs/totalPrice",
+    "slug": "totalPrice",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "costs",
+        "totalPrice"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.costs.totalPrice",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Přehled dokladů"
+            },
+            "da": {
+                "singular": "Regningsoversigt"
+            },
+            "de": {
+                "singular": "Buchungstotalbetrag"
+            },
+            "de-AT": {
+                "singular": "Buchungstotalbetrag"
+            },
+            "de-CH": {
+                "singular": "Buchungstotalbetrag"
+            },
+            "de-DE": {
+                "singular": "Buchungstotalbetrag"
+            },
+            "en": {
+                "singular": "Booking total"
+            },
+            "en-AU": {
+                "singular": "Booking total"
+            },
+            "en-CA": {
+                "singular": "Booking total"
+            },
+            "en-GB": {
+                "singular": "Booking total"
+            },
+            "en-IE": {
+                "singular": "Booking total"
+            },
+            "en-US": {
+                "singular": "Booking total"
+            },
+            "es": {
+                "singular": "Resumen da la factura"
+            },
+            "fi": {
+                "singular": "Lasku yhteenveto"
+            },
+            "fi-EE": {
+                "singular": "Lasku yhteenveto"
+            },
+            "fi-FI": {
+                "singular": "Lasku yhteenveto"
+            },
+            "fr": {
+                "singular": "Récapitulatif des factures"
+            },
+            "fr-BE": {
+                "singular": "Récapitulatif des factures"
+            },
+            "fr-CA": {
+                "singular": "Récapitulatif des factures"
+            },
+            "fr-CH": {
+                "singular": "Récapitulatif des factures"
+            },
+            "fr-FR": {
+                "singular": "Récapitulatif des factures"
+            },
+            "hr": {
+                "singular": "Pregled računa"
+            },
+            "it": {
+                "singular": "Panoramica della fattura"
+            },
+            "it-CH": {
+                "singular": "Panoramica della fattura"
+            },
+            "it-IT": {
+                "singular": "Panoramica della fattura"
+            },
+            "nl": {
+                "singular": "Factuuroverzicht"
+            },
+            "nl-BE": {
+                "singular": "Factuuroverzicht"
+            },
+            "nl-NL": {
+                "singular": "Factuuroverzicht"
+            },
+            "no": {
+                "singular": "Oversikt over regning"
+            },
+            "pl": {
+                "singular": "Podgląd umowy rezerwacji"
+            },
+            "pt": {
+                "singular": "Visão geral da fatura"
+            },
+            "ru": {
+                "singular": "Посмотреть счет"
+            },
+            "sv": {
+                "singular": "Översikt över faktura"
+            }
+        }
+    }
+}

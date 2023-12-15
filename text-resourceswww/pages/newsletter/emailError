@@ -1,0 +1,125 @@
+{
+    "id": "www.pages.newsletter.emailError",
+    "name": "emailError",
+    "path": "text-resourceswww/pages/newsletter/emailError",
+    "folder": "text-resources",
+    "full_slug": "www/pages/newsletter/emailError",
+    "slug": "emailError",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "newsletter",
+        "emailError"
+    ],
+    "content": {
+        "key": "www.pages.newsletter.emailError",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím platnou e-mailovou adresu"
+            },
+            "da": {
+                "singular": "Oplys venligst gyldig mailadresse"
+            },
+            "de": {
+                "singular": "Bitte geben Sie eine gültige E-Mail Adresse an"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie eine gültige E-Mail Adresse an"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie eine gültige eMail Adresse an"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie eine gültige E-Mail Adresse an"
+            },
+            "en": {
+                "singular": "Please enter a valid email address"
+            },
+            "en-AU": {
+                "singular": "Please enter a valid email address"
+            },
+            "en-CA": {
+                "singular": "Please enter a valid email address"
+            },
+            "en-GB": {
+                "singular": "Please enter a valid email address"
+            },
+            "en-IE": {
+                "singular": "Please enter a valid email address"
+            },
+            "en-US": {
+                "singular": "Please enter a valid email address"
+            },
+            "es": {
+                "singular": "Por favor proporcione un email válido"
+            },
+            "fi": {
+                "singular": "Lisää käytössä oleva sähköpostiosoite"
+            },
+            "fi-EE": {
+                "singular": "Lisää käytössä oleva sähköpostiosoite"
+            },
+            "fi-FI": {
+                "singular": "Lisää käytössä oleva sähköpostiosoite"
+            },
+            "fr": {
+                "singular": "Merci d'indiquer une adresse email valide"
+            },
+            "fr-BE": {
+                "singular": "Merci d'indiquer une adresse email valide"
+            },
+            "fr-CA": {
+                "singular": "Merci d'indiquer une adresse email valide"
+            },
+            "fr-CH": {
+                "singular": "Merci d'indiquer une adresse eMail valide"
+            },
+            "fr-FR": {
+                "singular": "Merci d'indiquer une adresse email valide"
+            },
+            "hr": {
+                "singular": "Molimo unesite valjanu e-mail adresu"
+            },
+            "it": {
+                "singular": "Ti preghiamo di inserire un indirizzo eMail valido"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di inserire un indirizzo eMail valido"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di inserire un indirizzo eMail valido"
+            },
+            "nl": {
+                "singular": "Gelieve een geldig e-mailadres invoeren"
+            },
+            "nl-BE": {
+                "singular": "Gelieve een geldig e-mailadres invoeren"
+            },
+            "nl-NL": {
+                "singular": "Gelieve een geldig e-mailadres invoeren"
+            },
+            "no": {
+                "singular": "Vennligst velg en gjyldig e-post adresse"
+            },
+            "pl": {
+                "singular": "Proszę wprowadzić poprawny adres e-mail"
+            },
+            "pt": {
+                "singular": "Por favor, insira o seu e-mail válido."
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите действительный адрес электронной почты"
+            },
+            "sv": {
+                "singular": "Vänligen ange en giltig e-postadress"
+            }
+        }
+    }
+}

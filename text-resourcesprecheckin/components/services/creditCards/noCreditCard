@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.services.creditCards.noCreditCard",
+    "name": "noCreditCard",
+    "path": "text-resourcesprecheckin/components/services/creditCards/noCreditCard",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/services/creditCards/noCreditCard",
+    "slug": "noCreditCard",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "services",
+        "creditCards",
+        "noCreditCard"
+    ],
+    "content": {
+        "key": "precheckin.components.services.creditCards.noCreditCard",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Pokud nevlastníte platební kartu, ozvěte se nám prosím, abychom Vám mohli odeslat cestovní dokumenty."
+            },
+            "da": {
+                "singular": "Hvis du ikke har et kreditkort i besiddelse, så kontakt os, så vi kan sende dig rejsedokumenterne."
+            },
+            "de": {
+                "singular": "Falls Sie keine Kreditkarte besitzen, kontaktieren Sie uns bitte, damit wir Ihnen die Reiseunterlagen zukommen lassen können."
+            },
+            "de-AT": {
+                "singular": "Falls Sie keine Kreditkarte besitzen, kontaktieren Sie uns bitte, damit wir Ihnen die Reiseunterlagen zukommen lassen können."
+            },
+            "de-CH": {
+                "singular": "Falls Sie keine Kreditkarte besitzen, kontaktieren Sie uns bitte, damit wir Ihnen die Reiseunterlagen zukommen lassen können."
+            },
+            "de-DE": {
+                "singular": "Falls Sie keine Kreditkarte besitzen, kontaktieren Sie uns bitte, damit wir Ihnen die Reiseunterlagen zukommen lassen können."
+            },
+            "en": {
+                "singular": "If you do not have a credit card in possession, please contact us so we can send you the travel documents."
+            },
+            "en-AU": {
+                "singular": "If you do not have a credit card in possession, please contact us so we can send you the travel documents."
+            },
+            "en-CA": {
+                "singular": "If you do not have a credit card in possession, please contact us so we can send you the travel documents."
+            },
+            "en-GB": {
+                "singular": "If you do not have a credit card in possession, please contact us so we can send you the travel documents."
+            },
+            "en-IE": {
+                "singular": "If you do not have a credit card in possession, please contact us so we can send you the travel documents."
+            },
+            "en-US": {
+                "singular": "If you do not have a credit card in possession, please contact us so we can send you the travel documents."
+            },
+            "es": {
+                "singular": "Si no tiene una tarjeta de crédito, por favor infórmenos y le enviaremos sus documentos de viaje."
+            },
+            "fi": {
+                "singular": "Mikäli sinulla ei ole luottokorttia, ota yhteyttä asiakaspalveluumme saadaksesi vuokrausasiakirjat."
+            },
+            "fi-EE": {
+                "singular": "Mikäli sinulla ei ole luottokorttia, ota yhteyttä asiakaspalveluumme saadaksesi vuokrausasiakirjat."
+            },
+            "fi-FI": {
+                "singular": "Mikäli sinulla ei ole luottokorttia, ota yhteyttä asiakaspalveluumme saadaksesi vuokrausasiakirjat."
+            },
+            "fr": {
+                "singular": "Si vous n’avez pas de carte de credit en votre possession, veuillez prendre contact avec nous afin que nous fassions parvenir vos documents de voyage."
+            },
+            "fr-BE": {
+                "singular": "Si vous n’avez pas de carte de credit en votre possession, veuillez prendre contact avec nous afin que nous fassions parvenir vos documents de voyage."
+            },
+            "fr-CA": {
+                "singular": "Si vous n’avez pas de carte de credit en votre possession, veuillez prendre contact avec nous afin que nous fassions parvenir vos documents de voyage."
+            },
+            "fr-CH": {
+                "singular": "Si vous n’avez pas de carte de credit en votre possession, veuillez prendre contact avec nous afin que nous fassions parvenir vos documents de voyage."
+            },
+            "fr-FR": {
+                "singular": "Si vous n’avez pas de carte de credit en votre possession, veuillez prendre contact avec nous afin que nous fassions parvenir vos documents de voyage."
+            },
+            "hr": {
+                "singular": "Ukoliko ne posjedujete kreditnu karticu, molimo da nas kontaktirate kako bismo Vam dostavili putne dokumente."
+            },
+            "it": {
+                "singular": "Se non siete in possesso di una carta di credito vi preghiamo di contattarci per ricevere i documenti di viaggio."
+            },
+            "it-CH": {
+                "singular": "Se non siete in possesso di una carta di credito vi preghiamo di contattarci per ricevere i documenti di viaggio."
+            },
+            "it-IT": {
+                "singular": "Se non sei in possesso di una carta di credito ti preghiamo di contattarci per ricevere i documenti di viaggio."
+            },
+            "nl": {
+                "singular": "Mocht u niet in het bezit zijn van een Creditcard, dan kunt u contact met ons opnemen zodat wij u de reisdocumenten kunnen toesturen."
+            },
+            "nl-BE": {
+                "singular": "Mocht u niet in het bezit zijn van een Creditcard, dan kunt u contact met ons opnemen zodat wij u de reisdocumenten kunnen toesturen."
+            },
+            "nl-NL": {
+                "singular": "Mocht u niet in het bezit zijn van een Creditcard, dan kunt u contact met ons opnemen zodat wij u de reisdocumenten kunnen toesturen."
+            },
+            "no": {
+                "singular": "Hvis du ikke har et kredittkort i besittelse, kan du kontakte oss slik at vi kan sende deg reisedokumenter."
+            },
+            "pl": {
+                "singular": "Jeśli nie dysponują Państwo kartą kredytową, prosimy o kontakt z nami abyśmy mogli wysłać dokumenty podróży."
+            },
+            "pt": {
+                "singular": "Se não possui cartão de crédito, por favor entre em contato conosco para que possamos enviar-lhe os documentos de viagem."
+            },
+            "ru": {
+                "singular": "Если у Вас нет кредитной карты, пожалуйста, сообщите нам, мы вышлем Вам документы"
+            },
+            "sv": {
+                "singular": "Om du inte har ett kreditkort i besittning, kontakta oss så att vi kan skicka dig de resehandlingar."
+            }
+        }
+    }
+}

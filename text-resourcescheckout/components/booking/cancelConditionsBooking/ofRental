@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.cancelConditionsBooking.ofRental",
+    "name": "ofRental",
+    "path": "text-resourcescheckout/components/booking/cancelConditionsBooking/ofRental",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/cancelConditionsBooking/ofRental",
+    "slug": "ofRental",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "cancelConditionsBooking",
+        "ofRental"
+    ],
+    "content": {
+        "key": "checkout.components.booking.cancelConditionsBooking.ofRental",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "z ceny pronájmu"
+            },
+            "da": {
+                "singular": "af lejen"
+            },
+            "de": {
+                "singular": "des Mietpreises"
+            },
+            "de-AT": {
+                "singular": "des Mietpreises"
+            },
+            "de-CH": {
+                "singular": "des Mietpreises"
+            },
+            "de-DE": {
+                "singular": "des Mietpreises"
+            },
+            "en": {
+                "singular": "of the rental"
+            },
+            "en-AU": {
+                "singular": "of the rental"
+            },
+            "en-CA": {
+                "singular": "of the rental"
+            },
+            "en-GB": {
+                "singular": "of the rental"
+            },
+            "en-IE": {
+                "singular": "of the rental"
+            },
+            "en-US": {
+                "singular": "of the rental"
+            },
+            "es": {
+                "singular": "del alquiler"
+            },
+            "fi": {
+                "singular": "vuokrasta"
+            },
+            "fi-EE": {
+                "singular": "vuokrasta"
+            },
+            "fi-FI": {
+                "singular": "vuokrasta"
+            },
+            "fr": {
+                "singular": "du loyer"
+            },
+            "fr-BE": {
+                "singular": "du loyer"
+            },
+            "fr-CA": {
+                "singular": "du loyer"
+            },
+            "fr-CH": {
+                "singular": "du loyer"
+            },
+            "fr-FR": {
+                "singular": "du loyer"
+            },
+            "hr": {
+                "singular": "cijene smještaja"
+            },
+            "it": {
+                "singular": "della quota soggiorno"
+            },
+            "it-CH": {
+                "singular": "della quota soggiorno"
+            },
+            "it-IT": {
+                "singular": "della quota soggiorno"
+            },
+            "nl": {
+                "singular": "van de huur"
+            },
+            "nl-BE": {
+                "singular": "van de huur"
+            },
+            "nl-NL": {
+                "singular": "van de huur"
+            },
+            "no": {
+                "singular": "av utleieprisen"
+            },
+            "pl": {
+                "singular": "ceny wynajmu"
+            },
+            "pt": {
+                "singular": "do aluguer"
+            },
+            "ru": {
+                "singular": "аренды"
+            },
+            "sv": {
+                "singular": "av uthyrningspriset"
+            }
+        }
+    }
+}

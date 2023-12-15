@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.filter.mountainbiking",
+    "name": "mountainbiking",
+    "path": "text-resourceswww/components/views/search/filter/mountainbiking",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/filter/mountainbiking",
+    "slug": "mountainbiking",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "filter",
+        "mountainbiking"
+    ],
+    "content": {
+        "key": "www.components.views.search.filter.mountainbiking",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Horská cyklistika"
+            },
+            "da": {
+                "singular": "Mountainbike-ture"
+            },
+            "de": {
+                "singular": "Mountainbike"
+            },
+            "de-AT": {
+                "singular": "Mountainbike"
+            },
+            "de-CH": {
+                "singular": "Mountainbike"
+            },
+            "de-DE": {
+                "singular": "Mountainbike"
+            },
+            "en": {
+                "singular": "Mountain-Biking"
+            },
+            "en-AU": {
+                "singular": "Mountain-Biking"
+            },
+            "en-CA": {
+                "singular": "Mountain-Biking"
+            },
+            "en-GB": {
+                "singular": "Mountain-Biking"
+            },
+            "en-IE": {
+                "singular": "Mountain-Biking"
+            },
+            "en-US": {
+                "singular": "Mountain-Biking"
+            },
+            "es": {
+                "singular": "Mountain Bike MTB"
+            },
+            "fi": {
+                "singular": "Maastopyöräily"
+            },
+            "fi-EE": {
+                "singular": "Maastopyöräily"
+            },
+            "fi-FI": {
+                "singular": "Maastopyöräily"
+            },
+            "fr": {
+                "singular": "VTT"
+            },
+            "fr-BE": {
+                "singular": "VTT"
+            },
+            "fr-CA": {
+                "singular": "VTT"
+            },
+            "fr-CH": {
+                "singular": "VTT"
+            },
+            "fr-FR": {
+                "singular": "VTT"
+            },
+            "hr": {
+                "singular": "Mountain bike"
+            },
+            "it": {
+                "singular": "Mountain bike"
+            },
+            "it-CH": {
+                "singular": "Mountain bike"
+            },
+            "it-IT": {
+                "singular": "Mountain bike"
+            },
+            "nl": {
+                "singular": "Mountainbiken"
+            },
+            "nl-BE": {
+                "singular": "Mountainbiken"
+            },
+            "nl-NL": {
+                "singular": "Mountainbiken"
+            },
+            "no": {
+                "singular": "Terrengsykling"
+            },
+            "pl": {
+                "singular": "Rowery górskie"
+            },
+            "pt": {
+                "singular": "Mountain bike"
+            },
+            "ru": {
+                "singular": "Катание на горных велосипедах"
+            },
+            "sv": {
+                "singular": "Mountain-Biking"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.header.webstats",
+    "name": "webstats",
+    "path": "text-resourceswebccSalesportal/header/webstats",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/header/webstats",
+    "slug": "webstats",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "header",
+        "webstats"
+    ],
+    "content": {
+        "key": "webccSalesportal.header.webstats",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Statistiky"
+            },
+            "da": {
+                "singular": "Webb-statistik"
+            },
+            "de": {
+                "singular": "Statistiken"
+            },
+            "de-AT": {
+                "singular": "Statistiken"
+            },
+            "de-CH": {
+                "singular": "Statistiken"
+            },
+            "de-DE": {
+                "singular": "Statistiken"
+            },
+            "en": {
+                "singular": "Webstats"
+            },
+            "en-AU": {
+                "singular": "Webstats"
+            },
+            "en-CA": {
+                "singular": "Webstats"
+            },
+            "en-GB": {
+                "singular": "Webstats"
+            },
+            "en-IE": {
+                "singular": "Webstats"
+            },
+            "en-US": {
+                "singular": "Webstats"
+            },
+            "es": {
+                "singular": "Webstats"
+            },
+            "fi": {
+                "singular": "Webstats"
+            },
+            "fi-EE": {
+                "singular": "Webstats"
+            },
+            "fi-FI": {
+                "singular": "Webstats"
+            },
+            "fr": {
+                "singular": "Statistiques"
+            },
+            "fr-BE": {
+                "singular": "Statistiques"
+            },
+            "fr-CA": {
+                "singular": "Statistiques"
+            },
+            "fr-CH": {
+                "singular": "Statistiques"
+            },
+            "fr-FR": {
+                "singular": "Statistiques"
+            },
+            "hr": {
+                "singular": "Web statistika"
+            },
+            "it": {
+                "singular": "Statistiche web"
+            },
+            "it-CH": {
+                "singular": "Statistiche web"
+            },
+            "it-IT": {
+                "singular": "Statistiche web"
+            },
+            "nl": {
+                "singular": "Statistieken"
+            },
+            "nl-BE": {
+                "singular": "Statistieken"
+            },
+            "nl-NL": {
+                "singular": "Statistieken"
+            },
+            "no": {
+                "singular": "Webbstatistikk"
+            },
+            "pl": {
+                "singular": "Statystyki strony"
+            },
+            "pt": {
+                "singular": "Webstats"
+            },
+            "ru": {
+                "singular": "Статистика"
+            },
+            "sv": {
+                "singular": "Webbstatistik"
+            }
+        }
+    }
+}

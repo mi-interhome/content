@@ -1,0 +1,125 @@
+{
+    "id": "www.pages.favorites.close",
+    "name": "close",
+    "path": "text-resourceswww/pages/favorites/close",
+    "folder": "text-resources",
+    "full_slug": "www/pages/favorites/close",
+    "slug": "close",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "favorites",
+        "close"
+    ],
+    "content": {
+        "key": "www.pages.favorites.close",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zavřít"
+            },
+            "da": {
+                "singular": "Luk"
+            },
+            "de": {
+                "singular": "Schließen"
+            },
+            "de-AT": {
+                "singular": "Schließen"
+            },
+            "de-CH": {
+                "singular": "Schließen"
+            },
+            "de-DE": {
+                "singular": "Schließen"
+            },
+            "en": {
+                "singular": "Close"
+            },
+            "en-AU": {
+                "singular": "Close"
+            },
+            "en-CA": {
+                "singular": "Close"
+            },
+            "en-GB": {
+                "singular": "Close"
+            },
+            "en-IE": {
+                "singular": "Close"
+            },
+            "en-US": {
+                "singular": "Close"
+            },
+            "es": {
+                "singular": "Cerrar"
+            },
+            "fi": {
+                "singular": "Sulje"
+            },
+            "fi-EE": {
+                "singular": "Sulje"
+            },
+            "fi-FI": {
+                "singular": "Sulje"
+            },
+            "fr": {
+                "singular": "Fermer"
+            },
+            "fr-BE": {
+                "singular": "Fermer"
+            },
+            "fr-CA": {
+                "singular": "Fermer"
+            },
+            "fr-CH": {
+                "singular": "Fermer"
+            },
+            "fr-FR": {
+                "singular": "Fermer"
+            },
+            "hr": {
+                "singular": "Zatvori"
+            },
+            "it": {
+                "singular": "Chiudi"
+            },
+            "it-CH": {
+                "singular": "Chiudi"
+            },
+            "it-IT": {
+                "singular": "Chiudi"
+            },
+            "nl": {
+                "singular": "Sluiten"
+            },
+            "nl-BE": {
+                "singular": "Sluiten"
+            },
+            "nl-NL": {
+                "singular": "Sluiten"
+            },
+            "no": {
+                "singular": "Steng"
+            },
+            "pl": {
+                "singular": "Zamknij"
+            },
+            "pt": {
+                "singular": "Fechar"
+            },
+            "ru": {
+                "singular": "Закрыть"
+            },
+            "sv": {
+                "singular": "Stäng"
+            }
+        }
+    }
+}

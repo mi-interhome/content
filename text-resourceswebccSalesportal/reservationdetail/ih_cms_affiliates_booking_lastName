@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_lastName",
+    "name": "ih_cms_affiliates_booking_lastName",
+    "path": "text-resourceswebccSalesportal/reservationdetail/ih_cms_affiliates_booking_lastName",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_lastName",
+    "slug": "ih_cms_affiliates_booking_lastName",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_lastName"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_lastName",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Příjmení"
+            },
+            "da": {
+                "singular": "Feriebolig"
+            },
+            "de": {
+                "singular": "Nachname"
+            },
+            "de-AT": {
+                "singular": "Nachname"
+            },
+            "de-CH": {
+                "singular": "Nachname"
+            },
+            "de-DE": {
+                "singular": "Nachname"
+            },
+            "en": {
+                "singular": "Last name"
+            },
+            "en-AU": {
+                "singular": "Last name"
+            },
+            "en-CA": {
+                "singular": "Last name"
+            },
+            "en-GB": {
+                "singular": "Last name"
+            },
+            "en-IE": {
+                "singular": "Last name"
+            },
+            "en-US": {
+                "singular": "Last name"
+            },
+            "es": {
+                "singular": "Apellidos"
+            },
+            "fi": {
+                "singular": "Sukunimi"
+            },
+            "fi-EE": {
+                "singular": "Sukunimi"
+            },
+            "fi-FI": {
+                "singular": "Sukunimi"
+            },
+            "fr": {
+                "singular": "Nom"
+            },
+            "fr-BE": {
+                "singular": "Nom"
+            },
+            "fr-CA": {
+                "singular": "Nom"
+            },
+            "fr-CH": {
+                "singular": "Nom"
+            },
+            "fr-FR": {
+                "singular": "Nom"
+            },
+            "hr": {
+                "singular": "Prezime"
+            },
+            "it": {
+                "singular": "Cognome"
+            },
+            "it-CH": {
+                "singular": "Cognome"
+            },
+            "it-IT": {
+                "singular": "Cognome"
+            },
+            "nl": {
+                "singular": "Achternaam"
+            },
+            "nl-BE": {
+                "singular": "Familienaam"
+            },
+            "nl-NL": {
+                "singular": "Achternaam"
+            },
+            "no": {
+                "singular": "Etternavn"
+            },
+            "pl": {
+                "singular": "Nazwisko"
+            },
+            "pt": {
+                "singular": "Nome"
+            },
+            "ru": {
+                "singular": "Фамилия"
+            },
+            "sv": {
+                "singular": "Efternamn"
+            }
+        }
+    }
+}

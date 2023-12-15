@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.partnerinfo.request_change",
+    "name": "request_change",
+    "path": "text-resourceswebccSalesportal/partnerinfo/request_change",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/partnerinfo/request_change",
+    "slug": "request_change",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "partnerinfo",
+        "request_change"
+    ],
+    "content": {
+        "key": "webccSalesportal.partnerinfo.request_change",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Požádat o změnu"
+            },
+            "da": {
+                "singular": "Bed om en ændring"
+            },
+            "de": {
+                "singular": "Änderung anfordern"
+            },
+            "de-AT": {
+                "singular": "Änderung anfordern"
+            },
+            "de-CH": {
+                "singular": "Änderung anfordern"
+            },
+            "de-DE": {
+                "singular": "Änderung anfordern"
+            },
+            "en": {
+                "singular": "Request a change"
+            },
+            "en-AU": {
+                "singular": "Request a change"
+            },
+            "en-CA": {
+                "singular": "Request a change"
+            },
+            "en-GB": {
+                "singular": "Request a change"
+            },
+            "en-IE": {
+                "singular": "Request a change"
+            },
+            "en-US": {
+                "singular": "Request a change"
+            },
+            "es": {
+                "singular": "Solicitar un cambio"
+            },
+            "fi": {
+                "singular": "Pyydä muutosta"
+            },
+            "fi-EE": {
+                "singular": "Pyydä muutosta"
+            },
+            "fi-FI": {
+                "singular": "Pyydä muutosta"
+            },
+            "fr": {
+                "singular": "Demander une modification"
+            },
+            "fr-BE": {
+                "singular": "Demander une modification"
+            },
+            "fr-CA": {
+                "singular": "Demander une modification"
+            },
+            "fr-CH": {
+                "singular": "Demander une modification"
+            },
+            "fr-FR": {
+                "singular": "Demander une modification"
+            },
+            "hr": {
+                "singular": "Zahtjev za promjenu"
+            },
+            "it": {
+                "singular": "Richiedi una modifica"
+            },
+            "it-CH": {
+                "singular": "Richiedi una modifica"
+            },
+            "it-IT": {
+                "singular": "Richiedi una modifica"
+            },
+            "nl": {
+                "singular": "Vraag een wijziging aan"
+            },
+            "nl-BE": {
+                "singular": "Vraag een wijziging aan"
+            },
+            "nl-NL": {
+                "singular": "Vraag een wijziging aan"
+            },
+            "no": {
+                "singular": "Be om en endring"
+            },
+            "pl": {
+                "singular": "Poproś o zmianę"
+            },
+            "pt": {
+                "singular": "Solicitar uma alteração"
+            },
+            "ru": {
+                "singular": "Запросить изменения"
+            },
+            "sv": {
+                "singular": "Begär en ändring"
+            }
+        }
+    }
+}

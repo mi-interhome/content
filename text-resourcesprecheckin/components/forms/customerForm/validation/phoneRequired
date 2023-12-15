@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.customerForm.validation.phoneRequired",
+    "name": "phoneRequired",
+    "path": "text-resourcesprecheckin/components/forms/customerForm/validation/phoneRequired",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/customerForm/validation/phoneRequired",
+    "slug": "phoneRequired",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "customerForm",
+        "validation",
+        "phoneRequired"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.customerForm.validation.phoneRequired",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Uveďte prosím telefonní číslo pro případné dotazy"
+            },
+            "da": {
+                "singular": "Oplys venligst i tilfælde af eventuelle spørgsmål"
+            },
+            "de": {
+                "singular": "Bitte Telefonnummer für eventuelle Rückfragen angeben."
+            },
+            "de-AT": {
+                "singular": "Bitte Telefonnummer für eventuelle Rückfragen angeben."
+            },
+            "de-CH": {
+                "singular": "Bitte Telefonnummer für eventuelle Rückfragen angeben."
+            },
+            "de-DE": {
+                "singular": "Bitte Telefonnummer für eventuelle Rückfragen angeben."
+            },
+            "en": {
+                "singular": "Please provide a telephone number for possible queries"
+            },
+            "en-AU": {
+                "singular": "Please provide a telephone number for possible queries"
+            },
+            "en-CA": {
+                "singular": "Please provide a telephone number for possible queries"
+            },
+            "en-GB": {
+                "singular": "Please provide a telephone number for possible queries"
+            },
+            "en-IE": {
+                "singular": "Please provide a telephone number for possible queries"
+            },
+            "en-US": {
+                "singular": "Please provide a telephone number for possible questions"
+            },
+            "es": {
+                "singular": "Por favor indique un teléfono para posibles contactos"
+            },
+            "fi": {
+                "singular": "Lisää puhelinnumero mahdollisia yhteydenottoja varten"
+            },
+            "fi-EE": {
+                "singular": "Lisää puhelinnumero mahdollisia yhteydenottoja varten"
+            },
+            "fi-FI": {
+                "singular": "Lisää puhelinnumero mahdollisia yhteydenottoja varten"
+            },
+            "fr": {
+                "singular": "Merci d'indiquer un numéro de téléphone dans le cas où nos équipes devraient vous contacter"
+            },
+            "fr-BE": {
+                "singular": "Merci d'indiquer un numéro de téléphone dans le cas où nos équipes devraient vous contacter"
+            },
+            "fr-CA": {
+                "singular": "Merci d'indiquer un numéro de téléphone dans le cas où nos équipes devraient vous contacter"
+            },
+            "fr-CH": {
+                "singular": "Merci d'indiquer un numéro de téléphone dans le cas où nos équipes devraient vous contacter"
+            },
+            "fr-FR": {
+                "singular": "Merci d'indiquer un numéro de téléphone dans le cas où nos équipes devraient vous contacter"
+            },
+            "hr": {
+                "singular": "Molimo unesite broj mobitela"
+            },
+            "it": {
+                "singular": "Ti preghiamo di inserire un recapito telefonico al quale contattarti in caso di necessità"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di inserire un recapito telefonico al quale contattarti in caso di necessità"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di inserire un recapito telefonico al quale contattarti in caso di necessità"
+            },
+            "nl": {
+                "singular": "Gelieve een telefoonnummer invoeren voor eventuele vragen"
+            },
+            "nl-BE": {
+                "singular": "Gelieve een telefoonnummer invoeren voor eventuele vragen"
+            },
+            "nl-NL": {
+                "singular": "Gelieve een telefoonnummer invoeren voor eventuele vragen"
+            },
+            "no": {
+                "singular": "Vennligst oppgi et telefonnummer for eventuelle spørsmål"
+            },
+            "pl": {
+                "singular": "Prosimy o podanie numeru kontaktowego"
+            },
+            "pt": {
+                "singular": "Por favor, facilite um número de telefone para possíveis consultas"
+            },
+            "ru": {
+                "singular": "Укажите контактный номер телефона "
+            },
+            "sv": {
+                "singular": "Vänligen ange ett telefonnummer för eventuella frågor"
+            }
+        }
+    }
+}

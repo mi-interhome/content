@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.login.ih_cms_login_failed_invalid_partner_id_format",
+    "name": "ih_cms_login_failed_invalid_partner_id_format",
+    "path": "text-resourceswebccSalesportal/login/ih_cms_login_failed_invalid_partner_id_format",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/login/ih_cms_login_failed_invalid_partner_id_format",
+    "slug": "ih_cms_login_failed_invalid_partner_id_format",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "login",
+        "ih_cms_login_failed_invalid_partner_id_format"
+    ],
+    "content": {
+        "key": "webccSalesportal.login.ih_cms_login_failed_invalid_partner_id_format",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Neplatné ID partnera: Zadejte prosím své ID včetně dvoumístné předpony kódu země, např. CZ201234"
+            },
+            "da": {
+                "singular": "Ugyldig partner-ID: Indtast dit ID, inklusive præfikset til tocifret landekode, f.eks. DK1000022"
+            },
+            "de": {
+                "singular": "Ungültige Partner ID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. DE590012 bzw. Interchalet Agenturen IC590012)"
+            },
+            "de-AT": {
+                "singular": "Ungültige Partner ID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. DE590012 bzw. Interchalet Agenturen IC590012)"
+            },
+            "de-CH": {
+                "singular": "Ungültige PartnerID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. CH0201234)"
+            },
+            "de-DE": {
+                "singular": "Ungültige Partner ID: bitte geben Sie Ihre Agenturnummer mit führendem Länderkürzel ein (z.B. DE590012 bzw. Interchalet Agenturen IC590012)"
+            },
+            "en": {
+                "singular": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234"
+            },
+            "en-AU": {
+                "singular": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234"
+            },
+            "en-CA": {
+                "singular": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234"
+            },
+            "en-GB": {
+                "singular": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234"
+            },
+            "en-IE": {
+                "singular": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234"
+            },
+            "en-US": {
+                "singular": "Invalid Partner ID: Please enter your ID including the 2-digit country code prefix, e.g. GB201234"
+            },
+            "es": {
+                "singular": "Partner ID inválido: Por favor, introduzca su ID con el código país de 2 letras (ES1234567)"
+            },
+            "fi": {
+                "singular": "Väärä Partner ID. Syötä tunnuksesi sisältäen 2-merkkisen maakoodin, esim. FI123456"
+            },
+            "fi-EE": {
+                "singular": "Väärä Partner ID. Syötä tunnuksesi sisältäen 2-merkkisen maakoodin, esim. FI123456"
+            },
+            "fi-FI": {
+                "singular": "Väärä Partner ID. Syötä tunnuksesi sisältäen 2-merkkisen maakoodin, esim. FI123456"
+            },
+            "fr": {
+                "singular": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. FR123456)"
+            },
+            "fr-BE": {
+                "singular": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. BE123456)"
+            },
+            "fr-CA": {
+                "singular": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. FR123456)"
+            },
+            "fr-CH": {
+                "singular": "Erreur d'identifiant: merci d'insérer votre code partenaire (ex. CH0201234)"
+            },
+            "fr-FR": {
+                "singular": "Erreur d'identifiant : merci d'insérer votre code partenaire (ex. FR123456)"
+            },
+            "hr": {
+                "singular": "Neispravna šifra partnera: molimo unesite svoju šifru s uključenom oznakom države, npr. HR201234"
+            },
+            "it": {
+                "singular": "Codice partner non valido: ti preghiamo di inserire nuovamente il codice, incluse le due lettere iniziali indicanti il paese di appartenenza (carattere maiuscolo), es: IT123456"
+            },
+            "it-CH": {
+                "singular": "Codice partner non valido: ti preghiamo di inserire nuovamente il codice, incluse le due lettere iniziali indicanti il paese di appartenenza (carattere maiuscolo), es: IT123456"
+            },
+            "it-IT": {
+                "singular": "Codice partner non valido: ti preghiamo di inserire nuovamente il codice, incluse le due lettere iniziali indicanti il paese di appartenenza (carattere maiuscolo), es: IT123456"
+            },
+            "nl": {
+                "singular": "Ongeldig Partner ID: Gelieve uw ID in te geven met inbegrip van de tweedelige landcode. Voorbeeld: NL3101120"
+            },
+            "nl-BE": {
+                "singular": "Ongeldig Partner ID: Gelieve uw ID in te geven met inbegrip van de tweedelige landcode. Voorbeeld: BE3101120"
+            },
+            "nl-NL": {
+                "singular": "Ongeldig Partner ID: Gelieve uw ID in te geven met inbegrip van de tweedelige landcode. Voorbeeld: NL3101120"
+            },
+            "no": {
+                "singular": "Ugyldig partner-ID: Angi ID-en din, inkludert prefikset for to-sifret landskode, f.eks. NO1000022 "
+            },
+            "pl": {
+                "singular": "Nieprawidłowy Partner ID: Wprowadź swój ID uwzględniając kod kraju, np. PL201234"
+            },
+            "pt": {
+                "singular": "Inválida Parceiro ID: Digite seu ID, incluindo o indicativo de país de 2 dígitos, por exemplo, PT201234\n"
+            },
+            "ru": {
+                "singular": "Неверный идентификатор партнера: пожалуйста, введите номер вашего агентства с ведущим кодом страны (например, RU490039)"
+            },
+            "sv": {
+                "singular": "Ogiltigt partner-ID: Ange ditt ID inklusive prefixet för tvåsiffriga landskoder, t.ex. SE1000022"
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.customerForm.labels.lastname",
+    "name": "lastname",
+    "path": "text-resourcesprecheckin/components/forms/customerForm/labels/lastname",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/customerForm/labels/lastname",
+    "slug": "lastname",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "customerForm",
+        "labels",
+        "lastname"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.customerForm.labels.lastname",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Příjmení"
+            },
+            "da": {
+                "singular": "Efternavn"
+            },
+            "de": {
+                "singular": "Nachname"
+            },
+            "de-AT": {
+                "singular": "Nachname"
+            },
+            "de-CH": {
+                "singular": "Nachname"
+            },
+            "de-DE": {
+                "singular": "Nachname"
+            },
+            "en": {
+                "singular": "Surname"
+            },
+            "en-AU": {
+                "singular": "Surname"
+            },
+            "en-CA": {
+                "singular": "Surname"
+            },
+            "en-GB": {
+                "singular": "Surname"
+            },
+            "en-IE": {
+                "singular": "Surname"
+            },
+            "en-US": {
+                "singular": "Surname"
+            },
+            "es": {
+                "singular": "Apellidos"
+            },
+            "fi": {
+                "singular": "Sukunimi"
+            },
+            "fi-EE": {
+                "singular": "Sukunimi"
+            },
+            "fi-FI": {
+                "singular": "Sukunimi"
+            },
+            "fr": {
+                "singular": "Nom"
+            },
+            "fr-BE": {
+                "singular": "Nom"
+            },
+            "fr-CA": {
+                "singular": "Nom"
+            },
+            "fr-CH": {
+                "singular": "Nom"
+            },
+            "fr-FR": {
+                "singular": "Nom"
+            },
+            "hr": {
+                "singular": "Prezime"
+            },
+            "it": {
+                "singular": "Cognome"
+            },
+            "it-CH": {
+                "singular": "Cognome"
+            },
+            "it-IT": {
+                "singular": "Cognome"
+            },
+            "nl": {
+                "singular": "Achternaam"
+            },
+            "nl-BE": {
+                "singular": "Achternaam"
+            },
+            "nl-NL": {
+                "singular": "Achternaam"
+            },
+            "no": {
+                "singular": "Etternavn"
+            },
+            "pl": {
+                "singular": "Nazwisko"
+            },
+            "pt": {
+                "singular": "Sobrenome"
+            },
+            "ru": {
+                "singular": "Фамилия"
+            },
+            "sv": {
+                "singular": "Efternamn"
+            }
+        }
+    }
+}

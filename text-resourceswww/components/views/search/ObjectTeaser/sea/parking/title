@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.sea.parking.title",
+    "name": "title",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/sea/parking/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/sea/parking/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "sea",
+        "parking",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.sea.parking.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – prázdninové domy u moře s parkováním"
+            },
+            "da": {
+                "singular": "Ferieboliger ved havet med parkeringsplads i {destination}"
+            },
+            "de": {
+                "singular": "Ferienhäuser am Meer mit Parkplatz in {destination}"
+            },
+            "de-AT": {
+                "singular": "Ferienhäuser am Meer mit Parkplatz in {destination}"
+            },
+            "de-CH": {
+                "singular": "Ferienhäuser am Meer mit Parkplatz in {destination}"
+            },
+            "de-DE": {
+                "singular": "Ferienhäuser am Meer mit Parkplatz in {destination}"
+            },
+            "en": {
+                "singular": "Holiday homes by the sea with parking in {destination}"
+            },
+            "en-AU": {
+                "singular": "Holiday homes by the sea with parking in {destination}"
+            },
+            "en-CA": {
+                "singular": "Holiday homes by the sea with parking in {destination}"
+            },
+            "en-GB": {
+                "singular": "Holiday homes by the sea with parking in {destination}"
+            },
+            "en-IE": {
+                "singular": "Holiday homes by the sea with parking in {destination}"
+            },
+            "en-US": {
+                "singular": "Holiday homes by the sea with parking in {destination}"
+            },
+            "es": {
+                "singular": "Casas de vacaciones junto al mar con aparcamiento en {destination}"
+            },
+            "fi": {
+                "singular": "Lomatalot meren äärellä ja kätevin pysäköintimahdollisuuksin paikkakunnalla {destination}"
+            },
+            "fi-EE": {
+                "singular": "Lomatalot meren äärellä ja kätevin pysäköintimahdollisuuksin paikkakunnalla {destination}"
+            },
+            "fi-FI": {
+                "singular": "Lomatalot meren äärellä ja kätevin pysäköintimahdollisuuksin paikkakunnalla {destination}"
+            },
+            "fr": {
+                "singular": "Locations de vacances au bord de la mer avec parking {destination}"
+            },
+            "fr-BE": {
+                "singular": "Locations de vacances au bord de la mer avec parking {destination}"
+            },
+            "fr-CA": {
+                "singular": "Locations de vacances au bord de la mer avec parking {destination}"
+            },
+            "fr-CH": {
+                "singular": "Locations de vacances au bord de la mer avec parking {destination}"
+            },
+            "fr-FR": {
+                "singular": "Locations de vacances au bord de la mer avec parking {destination}"
+            },
+            "hr": {
+                "singular": "Kuće za odmor uz more s parkingom u {destination}"
+            },
+            "it": {
+                "singular": "Case vacanza al mare con parcheggio a {destination}"
+            },
+            "it-CH": {
+                "singular": "Case vacanza al mare con parcheggio a {destination}"
+            },
+            "it-IT": {
+                "singular": "Case vacanza al mare con parcheggio a {destination}"
+            },
+            "nl": {
+                "singular": "Vakantiehuizen aan zee met parkeerplaats in {destination}"
+            },
+            "nl-BE": {
+                "singular": "Vakantiehuizen aan zee met parkeerplaats in {destination}"
+            },
+            "nl-NL": {
+                "singular": "Vakantiehuizen aan zee met parkeerplaats in {destination}"
+            },
+            "no": {
+                "singular": "Feriehus ved sjøen som også har parkering i {destination}."
+            },
+            "pl": {
+                "singular": "{destination}, apartamenty i domy blisko plaży i z parkingiem"
+            },
+            "pt": {
+                "singular": "Casas de férias à beira-mar com estacionamento em {destination}"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Semesterhus vid havet med parkering i {destination}"
+            }
+        }
+    }
+}

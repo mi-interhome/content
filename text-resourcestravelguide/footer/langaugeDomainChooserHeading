@@ -1,0 +1,124 @@
+{
+    "id": "travelguide.footer.langaugeDomainChooserHeading",
+    "name": "langaugeDomainChooserHeading",
+    "path": "text-resourcestravelguide/footer/langaugeDomainChooserHeading",
+    "folder": "text-resources",
+    "full_slug": "travelguide/footer/langaugeDomainChooserHeading",
+    "slug": "langaugeDomainChooserHeading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "travelguide",
+        "footer",
+        "langaugeDomainChooserHeading"
+    ],
+    "content": {
+        "key": "travelguide.footer.langaugeDomainChooserHeading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Změnit zemi a jazyk"
+            },
+            "da": {
+                "singular": "Skift land og sprog"
+            },
+            "de": {
+                "singular": "Region und Sprache ändern"
+            },
+            "de-AT": {
+                "singular": "Region und Sprache ändern"
+            },
+            "de-CH": {
+                "singular": "Region und Sprache ändern"
+            },
+            "de-DE": {
+                "singular": "Region und Sprache ändern"
+            },
+            "en": {
+                "singular": "Change country and language"
+            },
+            "en-AU": {
+                "singular": "Change country and language"
+            },
+            "en-CA": {
+                "singular": "Change country and language"
+            },
+            "en-GB": {
+                "singular": "Change country and language"
+            },
+            "en-IE": {
+                "singular": "Change country and language"
+            },
+            "en-US": {
+                "singular": "Change country and language"
+            },
+            "es": {
+                "singular": "Cambiar país e idioma"
+            },
+            "fi": {
+                "singular": "Vaihda maa ja kieli"
+            },
+            "fi-EE": {
+                "singular": "Vaihda maa ja kieli "
+            },
+            "fi-FI": {
+                "singular": "Vaihda maa ja kieli"
+            },
+            "fr": {
+                "singular": "Changer le pays et la langue"
+            },
+            "fr-BE": {
+                "singular": "Changer le pays et la langue"
+            },
+            "fr-CA": {
+                "singular": "Changer le pays et la langue"
+            },
+            "fr-CH": {
+                "singular": "Changer le pays et la langue"
+            },
+            "fr-FR": {
+                "singular": "Changer le pays et la langue"
+            },
+            "hr": {
+                "singular": "Promijeni državu i jezik"
+            },
+            "it": {
+                "singular": "Seleziona Paese e Lingua"
+            },
+            "it-CH": {
+                "singular": "Seleziona Paese e Lingua"
+            },
+            "it-IT": {
+                "singular": "Seleziona Paese e Lingua"
+            },
+            "nl": {
+                "singular": "Verander land en taal"
+            },
+            "nl-BE": {
+                "singular": "Verander land en taal"
+            },
+            "nl-NL": {
+                "singular": "Verander land en taal"
+            },
+            "no": {
+                "singular": "Endre land og språk"
+            },
+            "pl": {
+                "singular": "Zmień kraj i język"
+            },
+            "pt": {
+                "singular": "Mudar país e idioma"
+            },
+            "ru": {
+                "singular": "Выберите страну и язык"
+            },
+            "sv": {
+                "singular": "Ändra land och språk"
+            }
+        }
+    }
+}

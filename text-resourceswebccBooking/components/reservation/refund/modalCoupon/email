@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalCoupon.email",
+    "name": "email",
+    "path": "text-resourceswebccBooking/components/reservation/refund/modalCoupon/email",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalCoupon/email",
+    "slug": "email",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalCoupon",
+        "email"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalCoupon.email",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Kód poukazu byl také zaslán na Vaši registrovanou e-mailovou adresu {email}."
+            },
+            "da": {
+                "singular": "En voucherkode blev sendt til den registrerede e-mail-adresse {email}."
+            },
+            "de": {
+                "singular": "Der Gutscheincode wurde auch an die von Ihnen hinterlegte Email {email} gesendet."
+            },
+            "de-AT": {
+                "singular": "Der Gutscheincode wurde auch an die von Ihnen hinterlegte Email {email} gesendet."
+            },
+            "de-CH": {
+                "singular": "Der Gutscheincode wurde auch an die von Ihnen hinterlegte Email {email} gesendet."
+            },
+            "de-DE": {
+                "singular": "Der Gutscheincode wurde auch an die von Ihnen hinterlegte Email {email} gesendet."
+            },
+            "en": {
+                "singular": "The voucher code was also sent to the email {email}."
+            },
+            "en-AU": {
+                "singular": "The voucher code was also sent to the email {email}."
+            },
+            "en-CA": {
+                "singular": "The voucher code was also sent to the email {email}."
+            },
+            "en-GB": {
+                "singular": "The voucher code was also sent to the email {email}."
+            },
+            "en-IE": {
+                "singular": "The voucher code was also sent to the email {email}."
+            },
+            "en-US": {
+                "singular": "The voucher code was also sent to the email {email}."
+            },
+            "es": {
+                "singular": "El código del bono también fue enviado a su dirección de correo electrónico registrada {email}."
+            },
+            "fi": {
+                "singular": "Voucherin koodi on myös lähetetty rekisteröityneeseen sähköpostiosoitteeseesi {email}."
+            },
+            "fi-EE": {
+                "singular": "Voucherin koodi on myös lähetetty rekisteröityneeseen sähköpostiosoitteeseesi {email}."
+            },
+            "fi-FI": {
+                "singular": "Voucherin koodi on myös lähetetty rekisteröityneeseen sähköpostiosoitteeseesi {email}."
+            },
+            "fr": {
+                "singular": "Nous vous avons de même envoyé le code à l'adresse email enregistrée {email}."
+            },
+            "fr-BE": {
+                "singular": "Nous vous avons de même envoyé le code à l'adresse email enregistrée {email}."
+            },
+            "fr-CA": {
+                "singular": "Nous vous avons de même envoyé le code à l'adresse email enregistrée {email}."
+            },
+            "fr-CH": {
+                "singular": "Nous vous avons de même envoyé le code à l'adresse email enregistrée {email}."
+            },
+            "fr-FR": {
+                "singular": "Nous vous avons de même envoyé le code à l'adresse email enregistrée {email}."
+            },
+            "hr": {
+                "singular": "Kod za voucher je također poslan na Vašu navedenu adresu e-pošte {email}."
+            },
+            "it": {
+                "singular": "Il codice voucher è stato inviato all'email fornita {email}."
+            },
+            "it-CH": {
+                "singular": "Il codice voucher è stato inviato all'email fornita {email}."
+            },
+            "it-IT": {
+                "singular": "Il codice voucher è stato inviato all'email fornita {email}."
+            },
+            "nl": {
+                "singular": "De vouchercode is ook verstuurd naar het geregistreerde emailadres {email}."
+            },
+            "nl-BE": {
+                "singular": "De vouchercode is ook verstuurd naar het geregistreerde emailadres {email}."
+            },
+            "nl-NL": {
+                "singular": "De vouchercode is ook verstuurd naar het geregistreerde emailadres {email}."
+            },
+            "no": {
+                "singular": "En voucher-kode ble sendt til den registrerte e-post-adresse {email}."
+            },
+            "pl": {
+                "singular": "Voucher z kodem został przesłany na podany adres email  {email}."
+            },
+            "pt": {
+                "singular": "O código do voucher também foi enviado para o seu endereço de e-mail registado {email}."
+            },
+            "ru": {
+                "singular": "Код ваучера был также отправлен на ваш зарегистрированный адрес электронной почты {email}."
+            },
+            "sv": {
+                "singular": "En voucher-kod sändes även till den registrerade mailadressen {email}. "
+            }
+        }
+    }
+}

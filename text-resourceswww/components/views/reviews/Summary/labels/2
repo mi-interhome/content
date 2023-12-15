@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.reviews.Summary.labels.2",
+    "name": "2",
+    "path": "text-resourceswww/components/views/reviews/Summary/labels/2",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Summary/labels/2",
+    "slug": "2",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Summary",
+        "labels",
+        "2"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Summary.labels.2",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Průměrné"
+            },
+            "da": {
+                "singular": "Godt"
+            },
+            "de": {
+                "singular": "Befriedigend"
+            },
+            "de-AT": {
+                "singular": "Befriedigend"
+            },
+            "de-CH": {
+                "singular": "Befriedigend"
+            },
+            "de-DE": {
+                "singular": "Befriedigend"
+            },
+            "en": {
+                "singular": "Average"
+            },
+            "en-AU": {
+                "singular": "Average"
+            },
+            "en-CA": {
+                "singular": "Average"
+            },
+            "en-GB": {
+                "singular": "Average"
+            },
+            "en-IE": {
+                "singular": "Average"
+            },
+            "en-US": {
+                "singular": "Average"
+            },
+            "es": {
+                "singular": "Correcto"
+            },
+            "fi": {
+                "singular": "Keskiverto"
+            },
+            "fi-EE": {
+                "singular": "Keskiverto"
+            },
+            "fi-FI": {
+                "singular": "Keskiverto"
+            },
+            "fr": {
+                "singular": "Bien"
+            },
+            "fr-BE": {
+                "singular": "Bien"
+            },
+            "fr-CA": {
+                "singular": "Bien"
+            },
+            "fr-CH": {
+                "singular": "Bien"
+            },
+            "fr-FR": {
+                "singular": "Bien"
+            },
+            "hr": {
+                "singular": "Prosječno"
+            },
+            "it": {
+                "singular": "Buono"
+            },
+            "it-CH": {
+                "singular": "Buono"
+            },
+            "it-IT": {
+                "singular": "Buono"
+            },
+            "nl": {
+                "singular": "Gemiddeld"
+            },
+            "nl-BE": {
+                "singular": "Gemiddeld"
+            },
+            "nl-NL": {
+                "singular": "Gemiddeld"
+            },
+            "no": {
+                "singular": "Helt greit"
+            },
+            "pl": {
+                "singular": "Średni"
+            },
+            "pt": {
+                "singular": "Médio"
+            },
+            "ru": {
+                "singular": "Удовлетворительно"
+            },
+            "sv": {
+                "singular": "Medel"
+            }
+        }
+    }
+}

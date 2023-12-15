@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.reviews.Item.byDeepl",
+    "name": "byDeepl",
+    "path": "text-resourceswww/components/views/reviews/Item/byDeepl",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Item/byDeepl",
+    "slug": "byDeepl",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Item",
+        "byDeepl"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Item.byDeepl",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Automatický překlad podle DeepL"
+            },
+            "da": {
+                "singular": "Automatisk oversættelse af DeepL"
+            },
+            "de": {
+                "singular": "Automatische Übersetzung von DeepL"
+            },
+            "de-AT": {
+                "singular": "Automatische Übersetzung von DeepL"
+            },
+            "de-CH": {
+                "singular": "Automatische Übersetzung von DeepL"
+            },
+            "de-DE": {
+                "singular": "Automatische Übersetzung von DeepL"
+            },
+            "en": {
+                "singular": "Automatic translation by DeepL"
+            },
+            "en-AU": {
+                "singular": "Automatic translation by DeepL"
+            },
+            "en-CA": {
+                "singular": "Automatic translation by DeepL"
+            },
+            "en-GB": {
+                "singular": "Automatic translation by DeepL"
+            },
+            "en-IE": {
+                "singular": "Automatic translation by DeepL"
+            },
+            "en-US": {
+                "singular": "Automatic translation by DeepL"
+            },
+            "es": {
+                "singular": "Traducción automática por DeepL"
+            },
+            "fi": {
+                "singular": "DeepL:n automaattisesti kääntämä"
+            },
+            "fi-EE": {
+                "singular": "DeepL:n automaattisesti kääntämä"
+            },
+            "fi-FI": {
+                "singular": "DeepL:n automaattisesti kääntämä"
+            },
+            "fr": {
+                "singular": "Traduction automatique de DeepL"
+            },
+            "fr-BE": {
+                "singular": "Traduction automatique de DeepL"
+            },
+            "fr-CA": {
+                "singular": "Traduction automatique de DeepL"
+            },
+            "fr-CH": {
+                "singular": "Traduction automatique de DeepL"
+            },
+            "fr-FR": {
+                "singular": "Traduction automatique de DeepL"
+            },
+            "hr": {
+                "singular": "Automatski prijevod DeepL"
+            },
+            "it": {
+                "singular": "Tradotto automaticamente da DeepL."
+            },
+            "it-CH": {
+                "singular": "Tradotto automaticamente da DeepL."
+            },
+            "it-IT": {
+                "singular": "Tradotto automaticamente da DeepL."
+            },
+            "nl": {
+                "singular": "Automatische vertaling door DeepL"
+            },
+            "nl-BE": {
+                "singular": "Automatische vertaling door DeepL"
+            },
+            "nl-NL": {
+                "singular": "Automatische vertaling door DeepL"
+            },
+            "no": {
+                "singular": "Automatisk oversettelse av DeepL"
+            },
+            "pl": {
+                "singular": "tłumaczenie automatyczne DeepL"
+            },
+            "pt": {
+                "singular": "Tradução automática por DeepL"
+            },
+            "ru": {
+                "singular": "Автоматический перевод DeepL"
+            },
+            "sv": {
+                "singular": "automatisk översättning genom DeepL"
+            }
+        }
+    }
+}

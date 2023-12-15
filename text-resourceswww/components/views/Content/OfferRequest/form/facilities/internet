@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.facilities.internet",
+    "name": "internet",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/facilities/internet",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/facilities/internet",
+    "slug": "internet",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "facilities",
+        "internet"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.facilities.internet",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Internet"
+            },
+            "da": {
+                "singular": "Internet"
+            },
+            "de": {
+                "singular": "Internet"
+            },
+            "de-AT": {
+                "singular": "Internet"
+            },
+            "de-CH": {
+                "singular": "Internet"
+            },
+            "de-DE": {
+                "singular": "Internet"
+            },
+            "en": {
+                "singular": "Internet"
+            },
+            "en-AU": {
+                "singular": "Internet"
+            },
+            "en-CA": {
+                "singular": "Internet"
+            },
+            "en-GB": {
+                "singular": "Internet"
+            },
+            "en-IE": {
+                "singular": "Internet"
+            },
+            "en-US": {
+                "singular": "Internet"
+            },
+            "es": {
+                "singular": "Internet"
+            },
+            "fi": {
+                "singular": "Internet"
+            },
+            "fi-EE": {
+                "singular": "Internet"
+            },
+            "fi-FI": {
+                "singular": "Internet"
+            },
+            "fr": {
+                "singular": "Internet"
+            },
+            "fr-BE": {
+                "singular": "Internet"
+            },
+            "fr-CA": {
+                "singular": "Internet"
+            },
+            "fr-CH": {
+                "singular": "Internet"
+            },
+            "fr-FR": {
+                "singular": "Internet"
+            },
+            "hr": {
+                "singular": "Internet"
+            },
+            "it": {
+                "singular": "Internet"
+            },
+            "it-CH": {
+                "singular": "Internet"
+            },
+            "it-IT": {
+                "singular": "Internet"
+            },
+            "nl": {
+                "singular": "Internet"
+            },
+            "nl-BE": {
+                "singular": "Internet"
+            },
+            "nl-NL": {
+                "singular": "Internet"
+            },
+            "no": {
+                "singular": "Internet"
+            },
+            "pl": {
+                "singular": "Internet"
+            },
+            "pt": {
+                "singular": "Internet"
+            },
+            "ru": {
+                "singular": "Интернет"
+            },
+            "sv": {
+                "singular": "Internet"
+            }
+        }
+    }
+}

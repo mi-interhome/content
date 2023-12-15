@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.services.summaryRentalPrice.pricePerStay",
+    "name": "pricePerStay",
+    "path": "text-resourcescheckout/components/booking/services/summaryRentalPrice/pricePerStay",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/summaryRentalPrice/pricePerStay",
+    "slug": "pricePerStay",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "summaryRentalPrice",
+        "pricePerStay"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.summaryRentalPrice.pricePerStay",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cena za pobyt"
+            },
+            "da": {
+                "singular": "Ferieopholdets pris"
+            },
+            "de": {
+                "singular": "Preis für den Aufenthalt"
+            },
+            "de-AT": {
+                "singular": "Preis für den Aufenthalt"
+            },
+            "de-CH": {
+                "singular": "Preis für den Aufenthalt"
+            },
+            "de-DE": {
+                "singular": "Preis für den Aufenthalt"
+            },
+            "en": {
+                "singular": "Holiday Price"
+            },
+            "en-AU": {
+                "singular": "Holiday Price"
+            },
+            "en-CA": {
+                "singular": "Holiday Price"
+            },
+            "en-GB": {
+                "singular": "Holiday Price"
+            },
+            "en-IE": {
+                "singular": "Holiday Price"
+            },
+            "en-US": {
+                "singular": "Vacation Price"
+            },
+            "es": {
+                "singular": "Precio por estancia"
+            },
+            "fi": {
+                "singular": "Vuokrahinta"
+            },
+            "fi-EE": {
+                "singular": "Vuokrahinta"
+            },
+            "fi-FI": {
+                "singular": "Vuokrahinta"
+            },
+            "fr": {
+                "singular": "Prix du séjour"
+            },
+            "fr-BE": {
+                "singular": "Prix du séjour"
+            },
+            "fr-CA": {
+                "singular": "Prix du séjour"
+            },
+            "fr-CH": {
+                "singular": "Prix du séjour"
+            },
+            "fr-FR": {
+                "singular": "Prix du séjour"
+            },
+            "hr": {
+                "singular": "Cijena boravka"
+            },
+            "it": {
+                "singular": "Prezzo a soggiorno"
+            },
+            "it-CH": {
+                "singular": "Prezzo a soggiorno"
+            },
+            "it-IT": {
+                "singular": "Prezzo a soggiorno"
+            },
+            "nl": {
+                "singular": "Kostenoverzicht"
+            },
+            "nl-BE": {
+                "singular": "Kostenoverzicht"
+            },
+            "nl-NL": {
+                "singular": "Kostenoverzicht"
+            },
+            "no": {
+                "singular": "Pris for ferien"
+            },
+            "pl": {
+                "singular": "Koszt pobytu"
+            },
+            "pt": {
+                "singular": "Preço para o feriado"
+            },
+            "ru": {
+                "singular": "Стоимость отдыха"
+            },
+            "sv": {
+                "singular": "Hyrespris"
+            }
+        }
+    }
+}

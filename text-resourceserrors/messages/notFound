@@ -1,0 +1,124 @@
+{
+    "id": "errors.messages.notFound",
+    "name": "notFound",
+    "path": "text-resourceserrors/messages/notFound",
+    "folder": "text-resources",
+    "full_slug": "errors/messages/notFound",
+    "slug": "notFound",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "errors",
+        "messages",
+        "notFound"
+    ],
+    "content": {
+        "key": "errors.messages.notFound",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Požadovanou stránku bohužel není možné najít."
+            },
+            "da": {
+                "singular": "Beklager, den side, du anmodede om, kunne ikke findes."
+            },
+            "de": {
+                "singular": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
+            },
+            "de-AT": {
+                "singular": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
+            },
+            "de-CH": {
+                "singular": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
+            },
+            "de-DE": {
+                "singular": "Die von Ihnen aufgerufene Seite konnte leider nicht gefunden werden."
+            },
+            "en": {
+                "singular": "Sorry, the page you requested could not be found."
+            },
+            "en-AU": {
+                "singular": "Sorry, the page you requested could not be found."
+            },
+            "en-CA": {
+                "singular": "Sorry, the page you requested could not be found."
+            },
+            "en-GB": {
+                "singular": "Sorry, the page you requested could not be found."
+            },
+            "en-IE": {
+                "singular": "Sorry, the page you requested could not be found."
+            },
+            "en-US": {
+                "singular": "Sorry, the page you requested could not be found."
+            },
+            "es": {
+                "singular": "Lo sentimos, pero la página solicitada no está disponible."
+            },
+            "fi": {
+                "singular": "Pahoittelumme, etsimäsi sivua ei löytynyt."
+            },
+            "fi-EE": {
+                "singular": "Pahoittelumme, etsimäsi sivua ei löytynyt."
+            },
+            "fi-FI": {
+                "singular": "Pahoittelumme, etsimäsi sivua ei löytynyt."
+            },
+            "fr": {
+                "singular": "Le site demandé n'a malheureusement pas pu être trouvé."
+            },
+            "fr-BE": {
+                "singular": "Le site demandé n'a malheureusement pas pu être trouvé."
+            },
+            "fr-CA": {
+                "singular": "Le site demandé n'a malheureusement pas pu être trouvé."
+            },
+            "fr-CH": {
+                "singular": "Le site demandé n'a malheureusement pas pu être trouvé."
+            },
+            "fr-FR": {
+                "singular": "Le site demandé n'a malheureusement pas pu être trouvé."
+            },
+            "hr": {
+                "singular": "Ne možemo pronaći stranicu koju ste tražili."
+            },
+            "it": {
+                "singular": "Siamo spiacenti, la pagina richiesta non è stata trovata."
+            },
+            "it-CH": {
+                "singular": "Siamo spiacenti, la pagina richiesta non è stata trovata."
+            },
+            "it-IT": {
+                "singular": "Siamo spiacenti, la pagina richiesta non è stata trovata."
+            },
+            "nl": {
+                "singular": "Sorry, de door u opgevraagde pagina kon niet worden gevonden."
+            },
+            "nl-BE": {
+                "singular": "Sorry, de door u opgevraagde pagina kon niet worden gevonden."
+            },
+            "nl-NL": {
+                "singular": "Sorry, de door u opgevraagde pagina kon niet worden gevonden."
+            },
+            "no": {
+                "singular": "Finner dessverre ikke siden du søker etter."
+            },
+            "pl": {
+                "singular": "Przepraszamy, strona której szukasz nie istnieje."
+            },
+            "pt": {
+                "singular": "Infelizmente a página que solicitou não foi encontrada."
+            },
+            "ru": {
+                "singular": "К сожалению, запрошенная страница не найдена."
+            },
+            "sv": {
+                "singular": "Tyvärr kan vi inte hitta sidan du söker."
+            }
+        }
+    }
+}

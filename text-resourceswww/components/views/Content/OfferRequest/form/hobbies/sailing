@@ -1,0 +1,129 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.hobbies.sailing",
+    "name": "sailing",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/hobbies/sailing",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/hobbies/sailing",
+    "slug": "sailing",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "hobbies",
+        "sailing"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.hobbies.sailing",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Plachtění"
+            },
+            "da": {
+                "singular": "Sejlsport"
+            },
+            "de": {
+                "singular": "Segeln"
+            },
+            "de-AT": {
+                "singular": "Segeln"
+            },
+            "de-CH": {
+                "singular": "Segeln"
+            },
+            "de-DE": {
+                "singular": "Segeln"
+            },
+            "en": {
+                "singular": "Sailing"
+            },
+            "en-AU": {
+                "singular": "Sailing"
+            },
+            "en-CA": {
+                "singular": "Sailing"
+            },
+            "en-GB": {
+                "singular": "Sailing"
+            },
+            "en-IE": {
+                "singular": "Sailing"
+            },
+            "en-US": {
+                "singular": "Sailing"
+            },
+            "es": {
+                "singular": "Sailing"
+            },
+            "fi": {
+                "singular": "Purjehdus"
+            },
+            "fi-EE": {
+                "singular": "Purjehdus"
+            },
+            "fi-FI": {
+                "singular": "Purjehdus"
+            },
+            "fr": {
+                "singular": "Yachting"
+            },
+            "fr-BE": {
+                "singular": "Yachting"
+            },
+            "fr-CA": {
+                "singular": "Yachting"
+            },
+            "fr-CH": {
+                "singular": "Yachting"
+            },
+            "fr-FR": {
+                "singular": "Yachting"
+            },
+            "hr": {
+                "singular": "Jedrenje"
+            },
+            "it": {
+                "singular": "Vela"
+            },
+            "it-CH": {
+                "singular": "Vela"
+            },
+            "it-IT": {
+                "singular": "Vela"
+            },
+            "nl": {
+                "singular": "Zeilen"
+            },
+            "nl-BE": {
+                "singular": "Zeilen"
+            },
+            "nl-NL": {
+                "singular": "Zeilen"
+            },
+            "no": {
+                "singular": "Seiling"
+            },
+            "pl": {
+                "singular": "Żeglarstwo"
+            },
+            "pt": {
+                "singular": "Velejar"
+            },
+            "ru": {
+                "singular": "Парусный спорт"
+            },
+            "sv": {
+                "singular": "Segling"
+            }
+        }
+    }
+}

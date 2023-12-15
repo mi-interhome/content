@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.MonthlyPrices.title",
+    "name": "title",
+    "path": "text-resourceswww/components/views/details/MonthlyPrices/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/MonthlyPrices/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "MonthlyPrices",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.details.MonthlyPrices.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cenový index"
+            },
+            "da": {
+                "singular": "Prisindeks"
+            },
+            "de": {
+                "singular": "Preisindex"
+            },
+            "de-AT": {
+                "singular": "Preisindex"
+            },
+            "de-CH": {
+                "singular": "Preisindex"
+            },
+            "de-DE": {
+                "singular": "Preisindex"
+            },
+            "en": {
+                "singular": "Price index"
+            },
+            "en-AU": {
+                "singular": "Price index"
+            },
+            "en-CA": {
+                "singular": "Price index"
+            },
+            "en-GB": {
+                "singular": "Price index"
+            },
+            "en-IE": {
+                "singular": "Price index"
+            },
+            "en-US": {
+                "singular": "Price index"
+            },
+            "es": {
+                "singular": "Índice de precio"
+            },
+            "fi": {
+                "singular": "Hinta-asteikko"
+            },
+            "fi-EE": {
+                "singular": "Hinta-asteikko"
+            },
+            "fi-FI": {
+                "singular": "Hinta-asteikko"
+            },
+            "fr": {
+                "singular": "Indice des prix"
+            },
+            "fr-BE": {
+                "singular": "Indice des prix"
+            },
+            "fr-CA": {
+                "singular": "Indice des prix"
+            },
+            "fr-CH": {
+                "singular": "Indice des prix"
+            },
+            "fr-FR": {
+                "singular": "Indice des prix"
+            },
+            "hr": {
+                "singular": "Pregled cijena"
+            },
+            "it": {
+                "singular": "Indice dei prezzi"
+            },
+            "it-CH": {
+                "singular": "Indice dei prezzi"
+            },
+            "it-IT": {
+                "singular": "Indice dei prezzi"
+            },
+            "nl": {
+                "singular": "Prijzen"
+            },
+            "nl-BE": {
+                "singular": "Prijzen"
+            },
+            "nl-NL": {
+                "singular": "Prijzen"
+            },
+            "no": {
+                "singular": "Prisindeks"
+            },
+            "pl": {
+                "singular": "Tabela cenowa"
+            },
+            "pt": {
+                "singular": "Índice de preço"
+            },
+            "ru": {
+                "singular": "Индекс цены"
+            },
+            "sv": {
+                "singular": "Prisindex"
+            }
+        }
+    }
+}

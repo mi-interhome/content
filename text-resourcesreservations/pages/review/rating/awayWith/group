@@ -1,0 +1,127 @@
+{
+    "id": "reservations.pages.review.rating.awayWith.group",
+    "name": "group",
+    "path": "text-resourcesreservations/pages/review/rating/awayWith/group",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/rating/awayWith/group",
+    "slug": "group",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "rating",
+        "awayWith",
+        "group"
+    ],
+    "content": {
+        "key": "reservations.pages.review.rating.awayWith.group",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Velká skupina"
+            },
+            "da": {
+                "singular": "Stor gruppe/grupperejse"
+            },
+            "de": {
+                "singular": "Großer Gruppe"
+            },
+            "de-AT": {
+                "singular": "Großer Gruppe"
+            },
+            "de-CH": {
+                "singular": "Grosser Gruppe"
+            },
+            "de-DE": {
+                "singular": "Großer Gruppe"
+            },
+            "en": {
+                "singular": "Large Group"
+            },
+            "en-AU": {
+                "singular": "Large Group"
+            },
+            "en-CA": {
+                "singular": "Large Group"
+            },
+            "en-GB": {
+                "singular": "Large Group"
+            },
+            "en-IE": {
+                "singular": "Large Group"
+            },
+            "en-US": {
+                "singular": "Large Group"
+            },
+            "es": {
+                "singular": "Grupo/Viaje organizado"
+            },
+            "fi": {
+                "singular": "Suuri ryhmä"
+            },
+            "fi-EE": {
+                "singular": "Suuri ryhmä"
+            },
+            "fi-FI": {
+                "singular": "Suuri ryhmä"
+            },
+            "fr": {
+                "singular": "En grand groupe / Visite guidée"
+            },
+            "fr-BE": {
+                "singular": "En grand groupe / Visite guidée"
+            },
+            "fr-CA": {
+                "singular": "En grand groupe / Visite guidée"
+            },
+            "fr-CH": {
+                "singular": "En grand groupe/Visite guidée"
+            },
+            "fr-FR": {
+                "singular": "En grand groupe / Visite guidée"
+            },
+            "hr": {
+                "singular": "Velika grupa"
+            },
+            "it": {
+                "singular": "Gruppo/Viaggio organizzato"
+            },
+            "it-CH": {
+                "singular": "Gruppo/Viaggio organizzato"
+            },
+            "it-IT": {
+                "singular": "Gruppo"
+            },
+            "nl": {
+                "singular": "Grote groep/tour"
+            },
+            "nl-BE": {
+                "singular": "Grote groep/tour"
+            },
+            "nl-NL": {
+                "singular": "Grote groep/tour"
+            },
+            "no": {
+                "singular": "Stor gruppe / gruppereise"
+            },
+            "pl": {
+                "singular": "Duża grupa/wycieczka"
+            },
+            "pt": {
+                "singular": "Grupo grande/excursão"
+            },
+            "ru": {
+                "singular": "Большая группа / тур"
+            },
+            "sv": {
+                "singular": "Större grupp/gruppresa"
+            }
+        }
+    }
+}

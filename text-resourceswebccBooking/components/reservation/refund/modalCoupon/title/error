@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalCoupon.title.error",
+    "name": "error",
+    "path": "text-resourceswebccBooking/components/reservation/refund/modalCoupon/title/error",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalCoupon/title/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalCoupon",
+        "title",
+        "error"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalCoupon.title.error",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyskytla se chyba"
+            },
+            "da": {
+                "singular": "En fejl opstod"
+            },
+            "de": {
+                "singular": "Es ist ein Fehler aufgetreten"
+            },
+            "de-AT": {
+                "singular": "Es ist ein Fehler aufgetreten"
+            },
+            "de-CH": {
+                "singular": "Es ist ein Fehler aufgetreten"
+            },
+            "de-DE": {
+                "singular": "Es ist ein Fehler aufgetreten"
+            },
+            "en": {
+                "singular": "An error has occurred"
+            },
+            "en-AU": {
+                "singular": "An error has occurred"
+            },
+            "en-CA": {
+                "singular": "An error has occurred"
+            },
+            "en-GB": {
+                "singular": "An error has occurred"
+            },
+            "en-IE": {
+                "singular": "An error has occurred"
+            },
+            "en-US": {
+                "singular": "An error has occurred"
+            },
+            "es": {
+                "singular": "Se ha producido un error"
+            },
+            "fi": {
+                "singular": "Virhe tapahtui"
+            },
+            "fi-EE": {
+                "singular": "Virhe tapahtui"
+            },
+            "fi-FI": {
+                "singular": "Virhe tapahtui"
+            },
+            "fr": {
+                "singular": "Une erreur est survenue"
+            },
+            "fr-BE": {
+                "singular": "Une erreur est survenue"
+            },
+            "fr-CA": {
+                "singular": "Une erreur est survenue"
+            },
+            "fr-CH": {
+                "singular": "Une erreur est survenue"
+            },
+            "fr-FR": {
+                "singular": "Une erreur est survenue"
+            },
+            "hr": {
+                "singular": "Dogodila se greška"
+            },
+            "it": {
+                "singular": "Si è verificato un errore"
+            },
+            "it-CH": {
+                "singular": "Si è verificato un errore"
+            },
+            "it-IT": {
+                "singular": "Si è verificato un errore"
+            },
+            "nl": {
+                "singular": "Er heeft zich een foutmelding voorgedaan"
+            },
+            "nl-BE": {
+                "singular": "Er heeft zich een foutmelding voorgedaan"
+            },
+            "nl-NL": {
+                "singular": "Er heeft zich een foutmelding voorgedaan"
+            },
+            "no": {
+                "singular": "Det oppsto en feil"
+            },
+            "pl": {
+                "singular": "Wystąpił błąd"
+            },
+            "pt": {
+                "singular": "Ocorreu um erro"
+            },
+            "ru": {
+                "singular": "Произошла ошибка"
+            },
+            "sv": {
+                "singular": "Det uppstod ett fel"
+            }
+        }
+    }
+}

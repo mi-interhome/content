@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Calendar.departureOnly",
+    "name": "departureOnly",
+    "path": "text-resourceswww/components/views/details/Calendar/departureOnly",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Calendar/departureOnly",
+    "slug": "departureOnly",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Calendar",
+        "departureOnly"
+    ],
+    "content": {
+        "key": "www.components.views.details.Calendar.departureOnly",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "odjezd pouze"
+            },
+            "da": {
+                "singular": "Kun afrejse"
+            },
+            "de": {
+                "singular": "Nur Abreise"
+            },
+            "de-AT": {
+                "singular": "Nur Abreise"
+            },
+            "de-CH": {
+                "singular": "Nur Abreise"
+            },
+            "de-DE": {
+                "singular": "Nur Abreise"
+            },
+            "en": {
+                "singular": "Departure only"
+            },
+            "en-AU": {
+                "singular": "Departure only"
+            },
+            "en-CA": {
+                "singular": "Departure only"
+            },
+            "en-GB": {
+                "singular": "Departure only"
+            },
+            "en-IE": {
+                "singular": "Departure only"
+            },
+            "en-US": {
+                "singular": "Departure only"
+            },
+            "es": {
+                "singular": "solo salidas"
+            },
+            "fi": {
+                "singular": "vain lähtöpäivä"
+            },
+            "fi-EE": {
+                "singular": "vain lähtöpäivä"
+            },
+            "fi-FI": {
+                "singular": "vain lähtöpäivä"
+            },
+            "fr": {
+                "singular": "Départ uniquement"
+            },
+            "fr-BE": {
+                "singular": "Départ uniquement"
+            },
+            "fr-CA": {
+                "singular": "Départ uniquement"
+            },
+            "fr-CH": {
+                "singular": "Départ uniquement"
+            },
+            "fr-FR": {
+                "singular": "Départ uniquement"
+            },
+            "hr": {
+                "singular": "samo odlazak moguć"
+            },
+            "it": {
+                "singular": "solo partenza"
+            },
+            "it-CH": {
+                "singular": "solo partenza"
+            },
+            "it-IT": {
+                "singular": "solo partenza"
+            },
+            "nl": {
+                "singular": "alleen vertrek"
+            },
+            "nl-BE": {
+                "singular": "alleen vertrek"
+            },
+            "nl-NL": {
+                "singular": "alleen vertrek"
+            },
+            "no": {
+                "singular": "Bare avreise"
+            },
+            "pl": {
+                "singular": "Tylko wyjazd"
+            },
+            "pt": {
+                "singular": "apenas partida"
+            },
+            "ru": {
+                "singular": "выезд только "
+            },
+            "sv": {
+                "singular": "endast avresa"
+            }
+        }
+    }
+}

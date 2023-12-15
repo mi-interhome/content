@@ -1,0 +1,128 @@
+{
+    "id": "precheckin.pages.precheckins._token.checkin.customer.phone",
+    "name": "phone",
+    "path": "text-resourcesprecheckin/pages/precheckins/_token/checkin/customer/phone",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/checkin/customer/phone",
+    "slug": "phone",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "checkin",
+        "customer",
+        "phone"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.checkin.customer.phone",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Telefonní číslo"
+            },
+            "da": {
+                "singular": "Telefonnummer"
+            },
+            "de": {
+                "singular": "Telefonnummer"
+            },
+            "de-AT": {
+                "singular": "Telefonnummer"
+            },
+            "de-CH": {
+                "singular": "Telefonnummer"
+            },
+            "de-DE": {
+                "singular": "Telefonnummer"
+            },
+            "en": {
+                "singular": "Phone number"
+            },
+            "en-AU": {
+                "singular": "Phone number"
+            },
+            "en-CA": {
+                "singular": "Phone number"
+            },
+            "en-GB": {
+                "singular": "Phone number"
+            },
+            "en-IE": {
+                "singular": "Phone number"
+            },
+            "en-US": {
+                "singular": "Phone number"
+            },
+            "es": {
+                "singular": "Teléfono"
+            },
+            "fi": {
+                "singular": "Puhelinnumero"
+            },
+            "fi-EE": {
+                "singular": "Puhelinnumero"
+            },
+            "fi-FI": {
+                "singular": "Puhelinnumero"
+            },
+            "fr": {
+                "singular": "Téléphone"
+            },
+            "fr-BE": {
+                "singular": "Téléphone"
+            },
+            "fr-CA": {
+                "singular": "Téléphone"
+            },
+            "fr-CH": {
+                "singular": "Téléphone"
+            },
+            "fr-FR": {
+                "singular": "Téléphone"
+            },
+            "hr": {
+                "singular": "Broj telefona"
+            },
+            "it": {
+                "singular": "Numero di telefono"
+            },
+            "it-CH": {
+                "singular": "Numero di telefono"
+            },
+            "it-IT": {
+                "singular": "Numero di telefono"
+            },
+            "nl": {
+                "singular": "Telefoonnummer"
+            },
+            "nl-BE": {
+                "singular": "Telefoonnummer"
+            },
+            "nl-NL": {
+                "singular": "Telefoonnummer"
+            },
+            "no": {
+                "singular": "Telefonnummer"
+            },
+            "pl": {
+                "singular": "Numer telefonu"
+            },
+            "pt": {
+                "singular": "Número de telefone"
+            },
+            "ru": {
+                "singular": "Номер телефона"
+            },
+            "sv": {
+                "singular": "Telefonnummer"
+            }
+        }
+    }
+}

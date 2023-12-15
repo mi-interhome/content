@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.pax.pax.teenager",
+    "name": "teenager",
+    "path": "text-resourcesprecheckin/components/pax/pax/teenager",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/pax/pax/teenager",
+    "slug": "teenager",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "pax",
+        "pax",
+        "teenager"
+    ],
+    "content": {
+        "key": "precheckin.components.pax.pax.teenager",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Adolescent"
+            },
+            "da": {
+                "singular": "Teenagere"
+            },
+            "de": {
+                "singular": "Jugendliche"
+            },
+            "de-AT": {
+                "singular": "Jugendliche"
+            },
+            "de-CH": {
+                "singular": "Jugendliche"
+            },
+            "de-DE": {
+                "singular": "Jugendliche"
+            },
+            "en": {
+                "singular": "Teenager"
+            },
+            "en-AU": {
+                "singular": "Teenager"
+            },
+            "en-CA": {
+                "singular": "Teenager"
+            },
+            "en-GB": {
+                "singular": "Teenager"
+            },
+            "en-IE": {
+                "singular": "Teenager"
+            },
+            "en-US": {
+                "singular": "Teenager"
+            },
+            "es": {
+                "singular": "Adolescentes"
+            },
+            "fi": {
+                "singular": "Nuoret"
+            },
+            "fi-EE": {
+                "singular": "Nuoret"
+            },
+            "fi-FI": {
+                "singular": "Nuoret"
+            },
+            "fr": {
+                "singular": "Adolescents"
+            },
+            "fr-BE": {
+                "singular": "Adolescents"
+            },
+            "fr-CA": {
+                "singular": "Adolescents"
+            },
+            "fr-CH": {
+                "singular": "Adolescents"
+            },
+            "fr-FR": {
+                "singular": "Adolescents"
+            },
+            "hr": {
+                "singular": "Adolescenti"
+            },
+            "it": {
+                "singular": "Adolescenti"
+            },
+            "it-CH": {
+                "singular": "Adolescenti"
+            },
+            "it-IT": {
+                "singular": "Adolescenti"
+            },
+            "nl": {
+                "singular": "Tieners"
+            },
+            "nl-BE": {
+                "singular": "Tieners"
+            },
+            "nl-NL": {
+                "singular": "Tieners"
+            },
+            "no": {
+                "singular": "Tenåringer"
+            },
+            "pl": {
+                "singular": "Nastolatkowie"
+            },
+            "pt": {
+                "singular": "Adolescentes"
+            },
+            "ru": {
+                "singular": "подросток"
+            },
+            "sv": {
+                "singular": "Tonåring"
+            }
+        }
+    }
+}

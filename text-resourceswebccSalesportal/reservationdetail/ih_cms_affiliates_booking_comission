@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_comission",
+    "name": "ih_cms_affiliates_booking_comission",
+    "path": "text-resourceswebccSalesportal/reservationdetail/ih_cms_affiliates_booking_comission",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_comission",
+    "slug": "ih_cms_affiliates_booking_comission",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_comission"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_comission",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Provize"
+            },
+            "da": {
+                "singular": "Provision"
+            },
+            "de": {
+                "singular": "Provision"
+            },
+            "de-AT": {
+                "singular": "Provision"
+            },
+            "de-CH": {
+                "singular": "Kommission"
+            },
+            "de-DE": {
+                "singular": "Provision"
+            },
+            "en": {
+                "singular": "Commission"
+            },
+            "en-AU": {
+                "singular": "Commission"
+            },
+            "en-CA": {
+                "singular": "Commission"
+            },
+            "en-GB": {
+                "singular": "Commission"
+            },
+            "en-IE": {
+                "singular": "Commission"
+            },
+            "en-US": {
+                "singular": "Commission"
+            },
+            "es": {
+                "singular": "Comisión"
+            },
+            "fi": {
+                "singular": "Komissio"
+            },
+            "fi-EE": {
+                "singular": "Komissio"
+            },
+            "fi-FI": {
+                "singular": "Komissio"
+            },
+            "fr": {
+                "singular": "Commission"
+            },
+            "fr-BE": {
+                "singular": "Commission"
+            },
+            "fr-CA": {
+                "singular": "Commission"
+            },
+            "fr-CH": {
+                "singular": "Commission"
+            },
+            "fr-FR": {
+                "singular": "Commission"
+            },
+            "hr": {
+                "singular": "Provizija"
+            },
+            "it": {
+                "singular": "Commissione"
+            },
+            "it-CH": {
+                "singular": "Commissione"
+            },
+            "it-IT": {
+                "singular": "Commissione"
+            },
+            "nl": {
+                "singular": "Commissie"
+            },
+            "nl-BE": {
+                "singular": "Commissie"
+            },
+            "nl-NL": {
+                "singular": "Commissie"
+            },
+            "no": {
+                "singular": "Provisjon"
+            },
+            "pl": {
+                "singular": "Prowizja"
+            },
+            "pt": {
+                "singular": "Comissão"
+            },
+            "ru": {
+                "singular": "Комиссия"
+            },
+            "sv": {
+                "singular": "Provision"
+            }
+        }
+    }
+}

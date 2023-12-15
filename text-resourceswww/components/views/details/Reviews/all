@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Reviews.all",
+    "name": "all",
+    "path": "text-resourceswww/components/views/details/Reviews/all",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Reviews/all",
+    "slug": "all",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Reviews",
+        "all"
+    ],
+    "content": {
+        "key": "www.components.views.details.Reviews.all",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vše"
+            },
+            "da": {
+                "singular": "Alle"
+            },
+            "de": {
+                "singular": "Alle"
+            },
+            "de-AT": {
+                "singular": "Alle"
+            },
+            "de-CH": {
+                "singular": "Alle"
+            },
+            "de-DE": {
+                "singular": "Alle"
+            },
+            "en": {
+                "singular": "All"
+            },
+            "en-AU": {
+                "singular": "All"
+            },
+            "en-CA": {
+                "singular": "All"
+            },
+            "en-GB": {
+                "singular": "All"
+            },
+            "en-IE": {
+                "singular": "All"
+            },
+            "en-US": {
+                "singular": "All"
+            },
+            "es": {
+                "singular": "Todas"
+            },
+            "fi": {
+                "singular": "Kaikki"
+            },
+            "fi-EE": {
+                "singular": "Kaikki"
+            },
+            "fi-FI": {
+                "singular": "Kaikki"
+            },
+            "fr": {
+                "singular": "Tous"
+            },
+            "fr-BE": {
+                "singular": "Tous"
+            },
+            "fr-CA": {
+                "singular": "Tous"
+            },
+            "fr-CH": {
+                "singular": "Tous"
+            },
+            "fr-FR": {
+                "singular": "Tous"
+            },
+            "hr": {
+                "singular": "Sve"
+            },
+            "it": {
+                "singular": "Tutte"
+            },
+            "it-CH": {
+                "singular": "Tutte"
+            },
+            "it-IT": {
+                "singular": "Tutte"
+            },
+            "nl": {
+                "singular": "Alle"
+            },
+            "nl-BE": {
+                "singular": "Alle"
+            },
+            "nl-NL": {
+                "singular": "Alle"
+            },
+            "no": {
+                "singular": "Alt"
+            },
+            "pl": {
+                "singular": "Wszystko"
+            },
+            "pt": {
+                "singular": "Tudo"
+            },
+            "ru": {
+                "singular": "Все"
+            },
+            "sv": {
+                "singular": "Allt"
+            }
+        }
+    }
+}

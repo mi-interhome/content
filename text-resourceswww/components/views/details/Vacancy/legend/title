@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Vacancy.legend.title",
+    "name": "title",
+    "path": "text-resourceswww/components/views/details/Vacancy/legend/title",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Vacancy/legend/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Vacancy",
+        "legend",
+        "title"
+    ],
+    "content": {
+        "key": "www.components.views.details.Vacancy.legend.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Popis"
+            },
+            "da": {
+                "singular": "Legende"
+            },
+            "de": {
+                "singular": "Legende"
+            },
+            "de-AT": {
+                "singular": "Legende"
+            },
+            "de-CH": {
+                "singular": "Legende"
+            },
+            "de-DE": {
+                "singular": "Legende"
+            },
+            "en": {
+                "singular": "Key"
+            },
+            "en-AU": {
+                "singular": "Key"
+            },
+            "en-CA": {
+                "singular": "Key"
+            },
+            "en-GB": {
+                "singular": "Key"
+            },
+            "en-IE": {
+                "singular": "Key"
+            },
+            "en-US": {
+                "singular": "Key"
+            },
+            "es": {
+                "singular": "Leyenda"
+            },
+            "fi": {
+                "singular": "Selitys"
+            },
+            "fi-EE": {
+                "singular": "Selitys"
+            },
+            "fi-FI": {
+                "singular": "Selitys"
+            },
+            "fr": {
+                "singular": "Légende"
+            },
+            "fr-BE": {
+                "singular": "Légende"
+            },
+            "fr-CA": {
+                "singular": "Légende"
+            },
+            "fr-CH": {
+                "singular": "Légende"
+            },
+            "fr-FR": {
+                "singular": "Légende"
+            },
+            "hr": {
+                "singular": "Legenda"
+            },
+            "it": {
+                "singular": "Legenda"
+            },
+            "it-CH": {
+                "singular": "Legenda"
+            },
+            "it-IT": {
+                "singular": "Legenda"
+            },
+            "nl": {
+                "singular": "Legenda"
+            },
+            "nl-BE": {
+                "singular": "Legenda"
+            },
+            "nl-NL": {
+                "singular": "Legenda"
+            },
+            "no": {
+                "singular": "Legende"
+            },
+            "pl": {
+                "singular": "Legenda"
+            },
+            "pt": {
+                "singular": "Lenda"
+            },
+            "ru": {
+                "singular": "Перечень условных обозначений"
+            },
+            "sv": {
+                "singular": "Legend"
+            }
+        }
+    }
+}

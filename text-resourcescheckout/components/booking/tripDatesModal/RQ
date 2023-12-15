@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.tripDatesModal.RQ",
+    "name": "RQ",
+    "path": "text-resourcescheckout/components/booking/tripDatesModal/RQ",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/tripDatesModal/RQ",
+    "slug": "RQ",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "tripDatesModal",
+        "RQ"
+    ],
+    "content": {
+        "key": "checkout.components.booking.tripDatesModal.RQ",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Tento termín lze v současné době rezervovat pouze na vyžádání"
+            },
+            "da": {
+                "singular": "Disse rejsedatoer kan i øjeblikket kun reserveres på forespørgsel"
+            },
+            "de": {
+                "singular": "Diese Reisedaten sind derzeit nur auf Anfrage buchbar"
+            },
+            "de-AT": {
+                "singular": "Diese Reisedaten sind derzeit nur auf Anfrage buchbar"
+            },
+            "de-CH": {
+                "singular": "Diese Reisedaten sind derzeit nur auf Anfrage buchbar"
+            },
+            "de-DE": {
+                "singular": "Diese Reisedaten sind derzeit nur auf Anfrage buchbar"
+            },
+            "en": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "en-AU": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "en-CA": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "en-GB": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "en-IE": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "en-US": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "es": {
+                "singular": "Estas fechas solo se pueden reservar bajo petición"
+            },
+            "fi": {
+                "singular": "Valitsemillesi matkustuspäiville voi tällä hetkellä tehdä ainoastaan varauskyselyn"
+            },
+            "fi-EE": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "fi-FI": {
+                "singular": "Valitsemillesi matkustuspäiville voi tällä hetkellä tehdä ainoastaan varauskyselyn"
+            },
+            "fr": {
+                "singular": "Ces dates de séjour sont uniquement disponibles \"en demande\""
+            },
+            "fr-BE": {
+                "singular": "Ces dates de séjour sont uniquement disponibles \"en demande\""
+            },
+            "fr-CA": {
+                "singular": "Ces dates de séjour sont uniquement disponibles \"en demande\""
+            },
+            "fr-CH": {
+                "singular": "Ces dates de séjour sont uniquement disponibles \"en demande\""
+            },
+            "fr-FR": {
+                "singular": "Ces dates de séjour sont uniquement disponibles \"en demande\""
+            },
+            "hr": {
+                "singular": "Odabrani termini putovanja trenutno su dostupni samo na upit."
+            },
+            "it": {
+                "singular": "Queste date di soggiorno sono attualmente prenotabili solo su richiesta"
+            },
+            "it-CH": {
+                "singular": "Queste date di soggiorno sono attualmente prenotabili solo su richiesta"
+            },
+            "it-IT": {
+                "singular": "Queste date di soggiorno sono attualmente prenotabili solo su richiesta"
+            },
+            "nl": {
+                "singular": "Deze reisdata zijn momenteel alleen op aanvraag te boeken"
+            },
+            "nl-BE": {
+                "singular": "Deze reisdata zijn momenteel alleen op aanvraag te boeken"
+            },
+            "nl-NL": {
+                "singular": "Deze reisdata zijn momenteel alleen op aanvraag te boeken"
+            },
+            "no": {
+                "singular": "Disse reisedatoene kan for øyeblikket kun bestilles på forespørsel"
+            },
+            "pl": {
+                "singular": "Wybrany termin pobytu dostępny jest tylko \"na zapytanie\""
+            },
+            "pt": {
+                "singular": "Estas datas só podem ser reservadas mediante pedido"
+            },
+            "ru": {
+                "singular": "These travel dates are currently only bookable on request"
+            },
+            "sv": {
+                "singular": "Dessa resedatum är för närvarande endast bokningsbara på begäran"
+            }
+        }
+    }
+}

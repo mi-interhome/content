@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.reviews.Item.response",
+    "name": "response",
+    "path": "text-resourceswww/components/views/reviews/Item/response",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/reviews/Item/response",
+    "slug": "response",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "reviews",
+        "Item",
+        "response"
+    ],
+    "content": {
+        "key": "www.components.views.reviews.Item.response",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odpověď {company}"
+            },
+            "da": {
+                "singular": "Svar fra {company}"
+            },
+            "de": {
+                "singular": "Antwort von {company}"
+            },
+            "de-AT": {
+                "singular": "Antwort von {company}"
+            },
+            "de-CH": {
+                "singular": "Anwort von {company}"
+            },
+            "de-DE": {
+                "singular": "Antwort von {company}"
+            },
+            "en": {
+                "singular": "Answer from {company}"
+            },
+            "en-AU": {
+                "singular": "Answer from {company}"
+            },
+            "en-CA": {
+                "singular": "Answer from {company}"
+            },
+            "en-GB": {
+                "singular": "Answer from {company}"
+            },
+            "en-IE": {
+                "singular": "Answer from {company}"
+            },
+            "en-US": {
+                "singular": "Answer from {company}"
+            },
+            "es": {
+                "singular": "Respuesta de {company}"
+            },
+            "fi": {
+                "singular": "{company} vastaus"
+            },
+            "fi-EE": {
+                "singular": "{company} vastaus"
+            },
+            "fi-FI": {
+                "singular": "{company} vastaus"
+            },
+            "fr": {
+                "singular": "Réponse de l'équipe {company}"
+            },
+            "fr-BE": {
+                "singular": "Réponse de l'équipe {company}"
+            },
+            "fr-CA": {
+                "singular": "Réponse de l'équipe {company}"
+            },
+            "fr-CH": {
+                "singular": "Réponse de l'équipe {company}"
+            },
+            "fr-FR": {
+                "singular": "Réponse de l'équipe {company}"
+            },
+            "hr": {
+                "singular": "{company} odgovor"
+            },
+            "it": {
+                "singular": "Risposta di Interhome"
+            },
+            "it-CH": {
+                "singular": "Risposta di Interhome"
+            },
+            "it-IT": {
+                "singular": "Risposta di Interhome"
+            },
+            "nl": {
+                "singular": "Antwoord van {company}"
+            },
+            "nl-BE": {
+                "singular": "Antwoord van {company}"
+            },
+            "nl-NL": {
+                "singular": "Antwoord van {company}"
+            },
+            "no": {
+                "singular": "Svar fra {company}"
+            },
+            "pl": {
+                "singular": "Odpowiedź od {company}"
+            },
+            "pt": {
+                "singular": "Resposta do {company}"
+            },
+            "ru": {
+                "singular": "Ответ от {company}"
+            },
+            "sv": {
+                "singular": "Svar från {company}"
+            }
+        }
+    }
+}

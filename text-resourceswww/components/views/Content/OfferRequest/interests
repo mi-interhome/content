@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.Content.OfferRequest.interests",
+    "name": "interests",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/interests",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/interests",
+    "slug": "interests",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "interests"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.interests",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zájmy / Motivace pro dovolenou"
+            },
+            "da": {
+                "singular": "Interesser / Feriegrunde"
+            },
+            "de": {
+                "singular": "Ihre Interessen / Motivation für den Urlaub"
+            },
+            "de-AT": {
+                "singular": "Ihre Interessen / Motivation für den Urlaub"
+            },
+            "de-CH": {
+                "singular": "Ihre Interessen / Motivation für den Urlaub"
+            },
+            "de-DE": {
+                "singular": "Ihre Interessen / Motivation für den Urlaub"
+            },
+            "en": {
+                "singular": "Your interests / motivation for holiday"
+            },
+            "en-AU": {
+                "singular": "Your interests / motivation for holiday"
+            },
+            "en-CA": {
+                "singular": "Your interests / motivation for holiday"
+            },
+            "en-GB": {
+                "singular": "Your interests / motivation for holiday"
+            },
+            "en-IE": {
+                "singular": "Your interests / motivation for holiday"
+            },
+            "en-US": {
+                "singular": "Your interests / motivation for vacation"
+            },
+            "es": {
+                "singular": "Sus intereses / Motivación para las vacaciones"
+            },
+            "fi": {
+                "singular": "Lomalla tärkeintä / Kiinnostavinta"
+            },
+            "fi-EE": {
+                "singular": "Lomalla tärkeintä / kiinnostavinta"
+            },
+            "fi-FI": {
+                "singular": "Lomalla tärkeintä / Kiinnostavinta"
+            },
+            "fr": {
+                "singular": "Vos intérêts / Motivations pour les vacances"
+            },
+            "fr-BE": {
+                "singular": "Vos intérêts / Motivations pour les vacances"
+            },
+            "fr-CA": {
+                "singular": "Vos intérêts / Motivations pour les vacances"
+            },
+            "fr-CH": {
+                "singular": "Vos intérêts / Motivations pour les vacances"
+            },
+            "fr-FR": {
+                "singular": "Vos intérêts / Motivations pour les vacances"
+            },
+            "hr": {
+                "singular": "Vaši interesi / Motivacije za odmor"
+            },
+            "it": {
+                "singular": "Vacanze a tema / Motivazione per vacanze"
+            },
+            "it-CH": {
+                "singular": "Vacanze a tema / Motivazione per vacanze"
+            },
+            "it-IT": {
+                "singular": "I tuoi interessi in vacanza"
+            },
+            "nl": {
+                "singular": "Interesses"
+            },
+            "nl-BE": {
+                "singular": "Interesses"
+            },
+            "nl-NL": {
+                "singular": "Interesses"
+            },
+            "no": {
+                "singular": "Dine innteresser / Feriemotivasjon"
+            },
+            "pl": {
+                "singular": "Twoje zainteresowania / Preferencje"
+            },
+            "pt": {
+                "singular": "Os seus interesses / Motivação para as férias"
+            },
+            "ru": {
+                "singular": "Ваши интересы / мотивация для отдыха"
+            },
+            "sv": {
+                "singular": "Intressen / Motiv för semestern"
+            }
+        }
+    }
+}

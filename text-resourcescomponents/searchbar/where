@@ -1,0 +1,124 @@
+{
+    "id": "components.searchbar.where",
+    "name": "where",
+    "path": "text-resourcescomponents/searchbar/where",
+    "folder": "text-resources",
+    "full_slug": "components/searchbar/where",
+    "slug": "where",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "searchbar",
+        "where"
+    ],
+    "content": {
+        "key": "components.searchbar.where",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Kam byste rádi jeli?"
+            },
+            "da": {
+                "singular": "Hvor vil du tilbringe ferien?"
+            },
+            "de": {
+                "singular": "Wo wollen Sie Ihren Urlaub verbringen?"
+            },
+            "de-AT": {
+                "singular": "Wo wollen Sie Ihren Urlaub verbringen?"
+            },
+            "de-CH": {
+                "singular": "Wo wollen Sie Ihre Ferien verbringen?"
+            },
+            "de-DE": {
+                "singular": "Wo wollen Sie Ihren Urlaub verbringen?"
+            },
+            "en": {
+                "singular": "Where do you want to go?"
+            },
+            "en-AU": {
+                "singular": "Where do you want to go?"
+            },
+            "en-CA": {
+                "singular": "Where do you want to go?"
+            },
+            "en-GB": {
+                "singular": "Where do you want to go?"
+            },
+            "en-IE": {
+                "singular": "Where do you want to go?"
+            },
+            "en-US": {
+                "singular": "Where do you want to go?"
+            },
+            "es": {
+                "singular": "¿Dónde quiere pasar sus vacaciones?"
+            },
+            "fi": {
+                "singular": "Minne haluaisit lähteä lomalle?"
+            },
+            "fi-EE": {
+                "singular": " Minne haluaisit lähteä lomalle?"
+            },
+            "fi-FI": {
+                "singular": "Minne haluaisit lähteä lomalle?"
+            },
+            "fr": {
+                "singular": "Où souhaitez-vous passer vos vacances?"
+            },
+            "fr-BE": {
+                "singular": "Où souhaitez-vous passer vos vacances?"
+            },
+            "fr-CA": {
+                "singular": "Où souhaitez-vous passer vos vacances?"
+            },
+            "fr-CH": {
+                "singular": "Où souhaitez-vous passer vos vacances?"
+            },
+            "fr-FR": {
+                "singular": "Où souhaitez-vous passer vos vacances?"
+            },
+            "hr": {
+                "singular": "Kamo želite ići?"
+            },
+            "it": {
+                "singular": "Dove vorresti trascorrere le tue vacanze?"
+            },
+            "it-CH": {
+                "singular": "Dove vorresti trascorrere le tue vacanze?"
+            },
+            "it-IT": {
+                "singular": "Dove vorresti trascorrere le tue vacanze?"
+            },
+            "nl": {
+                "singular": "Waar wilt u naartoe?"
+            },
+            "nl-BE": {
+                "singular": "Waar wilt u naartoe?"
+            },
+            "nl-NL": {
+                "singular": "Waar wilt u naartoe?"
+            },
+            "no": {
+                "singular": "Hvor vil du tilbringe ferien?"
+            },
+            "pl": {
+                "singular": "Gdzie chcą Państwo spędzić wakacje? "
+            },
+            "pt": {
+                "singular": "Onde quer ir?"
+            },
+            "ru": {
+                "singular": "Куда Вы хотите поехать?"
+            },
+            "sv": {
+                "singular": "Vart vill du tillbringa din semester?"
+            }
+        }
+    }
+}

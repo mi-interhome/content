@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.Content.OfferRequest.form.region",
+    "name": "region",
+    "path": "text-resourceswww/components/views/Content/OfferRequest/form/region",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/OfferRequest/form/region",
+    "slug": "region",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "OfferRequest",
+        "form",
+        "region"
+    ],
+    "content": {
+        "key": "www.components.views.Content.OfferRequest.form.region",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Oblast"
+            },
+            "da": {
+                "singular": "Region"
+            },
+            "de": {
+                "singular": "Region"
+            },
+            "de-AT": {
+                "singular": "Region"
+            },
+            "de-CH": {
+                "singular": "Region"
+            },
+            "de-DE": {
+                "singular": "Region"
+            },
+            "en": {
+                "singular": "Region"
+            },
+            "en-AU": {
+                "singular": "Region"
+            },
+            "en-CA": {
+                "singular": "Region"
+            },
+            "en-GB": {
+                "singular": "Region"
+            },
+            "en-IE": {
+                "singular": "Region"
+            },
+            "en-US": {
+                "singular": "Region"
+            },
+            "es": {
+                "singular": "Región"
+            },
+            "fi": {
+                "singular": "Alue"
+            },
+            "fi-EE": {
+                "singular": "Alue"
+            },
+            "fi-FI": {
+                "singular": "Alue"
+            },
+            "fr": {
+                "singular": "Région"
+            },
+            "fr-BE": {
+                "singular": "Région"
+            },
+            "fr-CA": {
+                "singular": "Région"
+            },
+            "fr-CH": {
+                "singular": "Région"
+            },
+            "fr-FR": {
+                "singular": "Région"
+            },
+            "hr": {
+                "singular": "Regija"
+            },
+            "it": {
+                "singular": "Regione"
+            },
+            "it-CH": {
+                "singular": "Regione"
+            },
+            "it-IT": {
+                "singular": "Regione"
+            },
+            "nl": {
+                "singular": "Regio"
+            },
+            "nl-BE": {
+                "singular": "Regio"
+            },
+            "nl-NL": {
+                "singular": "Regio"
+            },
+            "no": {
+                "singular": "Region"
+            },
+            "pl": {
+                "singular": "Region"
+            },
+            "pt": {
+                "singular": "Região"
+            },
+            "ru": {
+                "singular": "Регион"
+            },
+            "sv": {
+                "singular": "Region"
+            }
+        }
+    }
+}

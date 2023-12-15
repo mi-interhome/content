@@ -1,0 +1,81 @@
+{
+    "id": "components.booking.cnas.error",
+    "name": "error",
+    "path": "text-resourcescomponents/booking/cnas/error",
+    "folder": "text-resources",
+    "full_slug": "components/booking/cnas/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "booking",
+        "cnas",
+        "error"
+    ],
+    "content": {
+        "key": "components.booking.cnas.error",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {},
+            "de-AT": {},
+            "de-CH": {},
+            "de-DE": {},
+            "en": {
+                "singular": "_"
+            },
+            "en-AU": {
+                "singular": "_"
+            },
+            "en-CA": {
+                "singular": "_"
+            },
+            "en-GB": {
+                "singular": "_"
+            },
+            "en-IE": {
+                "singular": "_"
+            },
+            "en-US": {
+                "singular": "_"
+            },
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {
+                "singular": "Votre identification n’a pas fonctionné, merci de réessayer sur la page {linkstart}https://www.cnas.fr/catalogue/organismes-sejours-et-voyages-location-france-etranger/interhome{linkend} ou contacter votre administrateur."
+            },
+            "fr-BE": {
+                "singular": "Votre identification n’a pas fonctionné, merci de réessayer sur la page {linkstart}https://www.cnas.fr/catalogue/organismes-sejours-et-voyages-location-france-etranger/interhome{linkend} ou contacter votre administrateur."
+            },
+            "fr-CA": {
+                "singular": "Votre identification n’a pas fonctionné, merci de réessayer sur la page {linkstart}https://www.cnas.fr/catalogue/organismes-sejours-et-voyages-location-france-etranger/interhome{linkend} ou contacter votre administrateur."
+            },
+            "fr-CH": {
+                "singular": "Votre identification n’a pas fonctionné, merci de réessayer sur la page {linkstart}https://www.cnas.fr/catalogue/organismes-sejours-et-voyages-location-france-etranger/interhome{linkend} ou contacter votre administrateur."
+            },
+            "fr-FR": {
+                "singular": "Votre identification n’a pas fonctionné, merci de réessayer sur la page {linkstart}https://www.cnas.fr/catalogue/organismes-sejours-et-voyages-location-france-etranger/interhome{linkend} ou contacter votre administrateur."
+            },
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

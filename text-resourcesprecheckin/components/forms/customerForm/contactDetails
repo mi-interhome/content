@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.forms.customerForm.contactDetails",
+    "name": "contactDetails",
+    "path": "text-resourcesprecheckin/components/forms/customerForm/contactDetails",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/customerForm/contactDetails",
+    "slug": "contactDetails",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "customerForm",
+        "contactDetails"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.customerForm.contactDetails",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte své kontaktní údaje, abychom Vás mohli kontaktovat s případnými dotazy a zaslat Vám cestovní dokumenty. Vaše osobní údaje jsou přísně důvěrné."
+            },
+            "da": {
+                "singular": "Udfyld gerne dine kontaktinformationer så vi kan kontakte dig vedr. forespørgslen. Dine kontaktoplysninger behandles fortroligt."
+            },
+            "de": {
+                "singular": "Geben Sie hier Ihre Kontaktdaten an, damit wir Sie bei allfälligen Fragen kontaktieren und Ihnen unsere Reiseunterlagen zustellen können. Ihre persönlichen Daten werden von uns absolut vertraulich behandelt."
+            },
+            "de-AT": {
+                "singular": "Geben Sie hier Ihre Kontaktdaten an, damit wir Sie bei allfälligen Fragen kontaktieren und Ihnen unsere Reiseunterlagen zustellen können. Ihre persönlichen Daten werden von uns absolut vertraulich behandelt."
+            },
+            "de-CH": {
+                "singular": "Geben Sie hier Ihre Kontaktdaten an, damit wir Sie bei allfälligen Fragen kontaktieren und Ihnen unsere Reiseunterlagen zustellen können. Ihre persönlichen Daten werden von uns absolut vertraulich behandelt."
+            },
+            "de-DE": {
+                "singular": "Geben Sie hier Ihre Kontaktdaten an, damit wir Sie bei allfälligen Fragen kontaktieren und Ihnen unsere Reiseunterlagen zustellen können. Ihre persönlichen Daten werden von uns absolut vertraulich behandelt."
+            },
+            "en": {
+                "singular": "Enter your contact details so that we can contact you with any questions and you can see your travel documents. Your personal information is strictly confidential."
+            },
+            "en-AU": {
+                "singular": "Enter your contact details so that we can contact you with any questions and you can see your travel documents. Your personal information is strictly confidential."
+            },
+            "en-CA": {
+                "singular": "Enter your contact details so that we can contact you with any questions and you can see your travel documents. Your personal information is strictly confidential."
+            },
+            "en-GB": {
+                "singular": "Enter your contact details so that we can contact you with any questions and you can see your travel documents. Your personal information is strictly confidential."
+            },
+            "en-IE": {
+                "singular": "Enter your contact details so that we can contact you with any questions and you can see your travel documents. Your personal information is strictly confidential."
+            },
+            "en-US": {
+                "singular": "Enter your contact details so that we can contact you with any questions and you can see your travel documents. Your personal information is strictly confidential."
+            },
+            "es": {
+                "singular": "Por favor indíquenos sus datos personales para contactarlo y podrá ver sus documentos de viaje. Su información personal es estríctamente confidencial."
+            },
+            "fi": {
+                "singular": "Lisää yhteystietosi, jotta voimme olla sinuun yhteydessä mahdollisissa lisäkysymyksissä. Ilmoittamiasi tietoja käsitellään luottamuksella."
+            },
+            "fi-EE": {
+                "singular": "Lisää yhteystietosi, jotta voimme olla sinuun yhteydessä mahdollisissa lisäkysymyksissä. Ilmoittamiasi tietoja käsitellään luottamuksellisesti."
+            },
+            "fi-FI": {
+                "singular": "Lisää yhteystietosi, jotta voimme olla sinuun yhteydessä mahdollisissa lisäkysymyksissä. Ilmoittamiasi tietoja käsitellään luottamuksella."
+            },
+            "fr": {
+                "singular": "Indiquez vos coordonnées afin de pouvoir vous contacter pour toutes questions et de vous donner accès à vos documents de voyage. Vos informations personnelles sont strictement confidentielles."
+            },
+            "fr-BE": {
+                "singular": "Indiquez vos coordonnées afin de pouvoir vous contacter pour toutes questions et de vous donner accès à vos documents de voyage. Vos informations personnelles sont strictement confidentielles."
+            },
+            "fr-CA": {
+                "singular": "Indiquez vos coordonnées afin de pouvoir vous contacter pour toutes questions et de vous donner accès à vos documents de voyage. Vos informations personnelles sont strictement confidentielles."
+            },
+            "fr-CH": {
+                "singular": "Indiquez vos coordonnées afin de pouvoir vous contacter pour toutes questions et de vous donner accès à vos documents de voyage. Vos informations personnelles sont strictement confidentielles."
+            },
+            "fr-FR": {
+                "singular": "Indiquez vos coordonnées afin de pouvoir vous contacter pour toutes questions et de vous donner accès à vos documents de voyage. Vos informations personnelles sont strictement confidentielles."
+            },
+            "hr": {
+                "singular": "Unesite Vaše kontakt podatke kako bi Vas mogli kontaktirati u slučaju potrebe i kako bi Vam omogućili pristup Vašim putnim dokumentima. Vaše osobne informacije su strogo povjerljive."
+            },
+            "it": {
+                "singular": "Ti preghiamo di fornirci i tuoi recapiti così possiamo contattarti in merito alle tue richieste e darti accesso ai tuoi documenti di viaggio. I tuoi dati personali verranno ovviamente trattati in modo strettamente confidenziale."
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di fornirci i tuoi recapiti così possiamo contattarti in merito alle tue richieste e darti accesso ai tuoi documenti di viaggio. I tuoi dati personali verranno ovviamente trattati in modo strettamente confidenziale."
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di fornirci i tuoi recapiti, in questo modo possiamo contattarti in merito a tue eventuali richieste e darti accesso ai tuoi documenti di viaggio. I tuoi dati personali verranno trattati in modo strettamente confidenziale."
+            },
+            "nl": {
+                "singular": "Vul uw contactgegevens in zodat wij u kunnen bereiken bij eventuele vragen. U ontvangt de boekingsbevestiging op het door u opgeven e-mailadres. "
+            },
+            "nl-BE": {
+                "singular": "Vul uw contactgegevens in zodat wij u kunnen bereiken bij eventuele vragen. U ontvangt de boekingsbevestiging op het door u opgeven e-mailadres. "
+            },
+            "nl-NL": {
+                "singular": "Vul uw contactgegevens in zodat wij u kunnen bereiken bij eventuele vragen. U ontvangt de boekingsbevestiging op het door u opgeven e-mailadres. "
+            },
+            "no": {
+                "singular": "Fyll inn din kontaktinformasjon slik at vi kan kontakte deg for ytterligere spørsmål. Dine data blir behandlet konfidensielt."
+            },
+            "pl": {
+                "singular": "Prosimy wpisać w tym miejscu dane kontaktowe, tak abyśmy mogli skontaktować się z Państwem w przypadku pytań oraz przesłać dokumenty podróży. Informacje te będą traktowane jako ściśle poufne."
+            },
+            "pt": {
+                "singular": "Introduza os seus dados de contato para que possamos entrar em contato com todas as perguntas e você pode ver seus documentos de viagem. A sua informação pessoal é estritamente confidencial."
+            },
+            "ru": {
+                "singular": "Введите Ваши контактные данные, чтобы мы могли связаться с Вами, и Вы могли получить проездные документы. Ваша личная информация является строго конфиденциальной."
+            },
+            "sv": {
+                "singular": "Fyll i dina kontaktuppgifter så att vi kan kontakta dig för ytterligare frågor. Dina uppgifter behandlas konfidentiellt."
+            }
+        }
+    }
+}

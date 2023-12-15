@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.customerCodes.corporate.header",
+    "name": "header",
+    "path": "text-resourcescheckout/components/booking/customerCodes/corporate/header",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/customerCodes/corporate/header",
+    "slug": "header",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "customerCodes",
+        "corporate",
+        "header"
+    ],
+    "content": {
+        "key": "checkout.components.booking.customerCodes.corporate.header",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Partner"
+            },
+            "da": {
+                "singular": "Samarbejdspartner"
+            },
+            "de": {
+                "singular": "Corporate Partner"
+            },
+            "de-AT": {
+                "singular": "Corporate Partner"
+            },
+            "de-CH": {
+                "singular": "Corporate Partner"
+            },
+            "de-DE": {
+                "singular": "Corporate Partner"
+            },
+            "en": {
+                "singular": "Corporate Partner"
+            },
+            "en-AU": {
+                "singular": "Corporate Partner"
+            },
+            "en-CA": {
+                "singular": "Corporate Partner"
+            },
+            "en-GB": {
+                "singular": "Corporate Partner"
+            },
+            "en-IE": {
+                "singular": "Corporate Partner"
+            },
+            "en-US": {
+                "singular": "Corporate Partner"
+            },
+            "es": {
+                "singular": "Código descuento"
+            },
+            "fi": {
+                "singular": "Partner"
+            },
+            "fi-EE": {
+                "singular": "Partner"
+            },
+            "fi-FI": {
+                "singular": "Partner"
+            },
+            "fr": {
+                "singular": "Code de réduction partenaire"
+            },
+            "fr-BE": {
+                "singular": "Code de réduction partenaire"
+            },
+            "fr-CA": {
+                "singular": "Code de réduction partenaire"
+            },
+            "fr-CH": {
+                "singular": "Code de réduction partenaire"
+            },
+            "fr-FR": {
+                "singular": "Code de réduction partenaire"
+            },
+            "hr": {
+                "singular": "Korporativni partner"
+            },
+            "it": {
+                "singular": "Partner corporate"
+            },
+            "it-CH": {
+                "singular": "Partner corporate"
+            },
+            "it-IT": {
+                "singular": "Partner corporate"
+            },
+            "nl": {
+                "singular": "Corporate Partner"
+            },
+            "nl-BE": {
+                "singular": "Corporate Partner"
+            },
+            "nl-NL": {
+                "singular": "Actiecode"
+            },
+            "no": {
+                "singular": "Firmakunde"
+            },
+            "pl": {
+                "singular": "Corporate Partner"
+            },
+            "pt": {
+                "singular": "Parceiro Corporativo"
+            },
+            "ru": {
+                "singular": "Корпоративный партнер"
+            },
+            "sv": {
+                "singular": "Företagspartner"
+            }
+        }
+    }
+}

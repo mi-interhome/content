@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.sea.parking.description",
+    "name": "description",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/sea/parking/description",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/sea/parking/description",
+    "slug": "description",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "sea",
+        "parking",
+        "description"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.sea.parking.description",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destinace} – užijte si pobyt v našich přímořských domech k pronájmu, které Vás ohromí neopakovatelnými výhledy a potěší vlastním parkovacím místem pro Vaše pohodlí."
+            },
+            "da": {
+                "singular": "Nyd vores ferieboliger ved havet i {destination}, som giver dig en enestående udsigt og din egen parkeringskomfort."
+            },
+            "de": {
+                "singular": "Erfreuen Sie sich an unseren Ferienunterkünften am Meer in {destination} mit unvergleichlicher Aussicht und eigenem Parkplatz."
+            },
+            "de-AT": {
+                "singular": "Erfreuen Sie sich an unseren Ferienunterkünften am Meer in {destination} mit unvergleichlicher Aussicht und eigenem Parkplatz."
+            },
+            "de-CH": {
+                "singular": "Erfreuen Sie sich an unseren Ferienunterkünften am Meer in {destination} mit unvergleichlicher Aussicht und eigenem Parkplatz."
+            },
+            "de-DE": {
+                "singular": "Erfreuen Sie sich an unseren Ferienunterkünften am Meer in {destination} mit unvergleichlicher Aussicht und eigenem Parkplatz."
+            },
+            "en": {
+                "singular": "Relish in our seaside holiday rentals in {destination}, providing you with unparalleled views and your own parking convenience."
+            },
+            "en-AU": {
+                "singular": "Relish in our seaside holiday rentals in {destination}, providing you with unparalleled views and your own parking convenience."
+            },
+            "en-CA": {
+                "singular": "Relish in our seaside holiday rentals in {destination}, providing you with unparalleled views and your own parking convenience."
+            },
+            "en-GB": {
+                "singular": "Relish in our seaside holiday rentals in {destination}, providing you with unparalleled views and your own parking convenience."
+            },
+            "en-IE": {
+                "singular": "Relish in our seaside holiday rentals in {destination}, providing you with unparalleled views and your own parking convenience."
+            },
+            "en-US": {
+                "singular": "Relish in our seaside holiday rentals in {destination}, providing you with unparalleled views and your own parking convenience."
+            },
+            "es": {
+                "singular": "Disfrute de nuestros alojamientos de vacaciones junto al mar en {destination}, que le ofrecen unas vistas incomparables y la comodidad de tener su propio aparcamiento."
+            },
+            "fi": {
+                "singular": "Nauti vuokrattavissa loma-asunnoissamme meren äärellä paikassa {destination}, näkymät vertaansa vailla ja pysäköinti huomioituna."
+            },
+            "fi-EE": {
+                "singular": "Nauti vuokrattavissa loma-asunnoissamme meren äärellä paikassa {destination}, näkymät vertaansa vailla ja pysäköinti huomioituna."
+            },
+            "fi-FI": {
+                "singular": "Nauti vuokrattavissa loma-asunnoissamme meren äärellä paikassa {destination}, näkymät vertaansa vailla ja pysäköinti huomioituna."
+            },
+            "fr": {
+                "singular": "Profitez de nos locations de vacances en bord de mer {destination} qui vous offrent des vues incomparables et votre parking privé."
+            },
+            "fr-BE": {
+                "singular": "Profitez de nos locations de vacances en bord de mer {destination} qui vous offrent des vues incomparables et votre parking privé."
+            },
+            "fr-CA": {
+                "singular": "Profitez de nos locations de vacances en bord de mer {destination} qui vous offrent des vues incomparables et votre parking privé."
+            },
+            "fr-CH": {
+                "singular": "Profitez de nos locations de vacances en bord de mer {destination} qui vous offrent des vues incomparables et votre parking privé."
+            },
+            "fr-FR": {
+                "singular": "Profitez de nos locations de vacances en bord de mer {destination} qui vous offrent des vues incomparables et votre parking privé."
+            },
+            "hr": {
+                "singular": "Uživajte u našem smještaju za odmor uz more u {destination}, koji Vam pružaju neusporediv pogled i vlastito parkiralište."
+            },
+            "it": {
+                "singular": "Assapora le nostre case vacanza al mare a {destination}, ti offrono viste impareggiabili e la comodità del tuo parcheggio."
+            },
+            "it-CH": {
+                "singular": "Assapora le nostre case vacanza al mare a {destination}, ti offrono viste impareggiabili e la comodità del tuo parcheggio."
+            },
+            "it-IT": {
+                "singular": "Assapora le nostre case vacanza al mare a {destination}, ti offrono viste impareggiabili e la comodità del tuo parcheggio."
+            },
+            "nl": {
+                "singular": "Geniet van onze vakantiewoningen aan zee in {destination} met een uniek uitzicht en eigen parkeerplek."
+            },
+            "nl-BE": {
+                "singular": "Geniet van onze vakantiewoningen aan zee in {destination} met een uniek uitzicht en eigen parkeerplek."
+            },
+            "nl-NL": {
+                "singular": "Geniet van onze vakantiewoningen aan zee in {destination} met een uniek uitzicht en eigen parkeerplek."
+            },
+            "no": {
+                "singular": "Nyt våre hytter ved sjøen i {destination}, med enestående utsikt og egen parkeringsplass."
+            },
+            "pl": {
+                "singular": "{destination} na urlop blisko plaży. Bezpieczne miejsce parkingowe pozwoli Ci się skoncentrować tylko na wypoczynku i podziwianiu widoku na morze."
+            },
+            "pt": {
+                "singular": "Usufrua das nossas casas de férias à beira-mar em {destination}, com vistas deslumbrantes e estacionamento privativo"
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Njut i våra semesterhus vid havet i {destination}, med oöverträffad utsikt och egen parkering."
+            }
+        }
+    }
+}

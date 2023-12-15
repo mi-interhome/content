@@ -1,0 +1,98 @@
+{
+    "id": "www.components.views.Content.Catalog.form.targetCountries",
+    "name": "targetCountries",
+    "path": "text-resourceswww/components/views/Content/Catalog/form/targetCountries",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/Content/Catalog/form/targetCountries",
+    "slug": "targetCountries",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "Content",
+        "Catalog",
+        "form",
+        "targetCountries"
+    ],
+    "content": {
+        "key": "www.components.views.Content.Catalog.form.targetCountries",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Ich möchte gezielt von Interhome zu bestimmten Urlaubsthemen beraten und informiert werden."
+            },
+            "de-AT": {
+                "singular": "Ich möchte gezielt von Interhome zu bestimmten Urlaubsthemen beraten und informiert werden."
+            },
+            "de-CH": {
+                "singular": "Ich möchte von Interhome gezielt zu bestimmten Ferienthemen beraten und informiert werden."
+            },
+            "de-DE": {
+                "singular": "Ich möchte von Interhome gezielt zu bestimmten Urlaubsthemen beraten und informiert werden."
+            },
+            "en": {
+                "singular": "I would like to be advised and informed by Interhome on specific holiday topics."
+            },
+            "en-AU": {
+                "singular": "I would like to be advised and informed by Interhome on specific holiday topics."
+            },
+            "en-CA": {
+                "singular": "I would like to be advised and informed by Interhome on specific holiday topics."
+            },
+            "en-GB": {
+                "singular": "I would like to be advised and informed by Interhome on specific holiday topics."
+            },
+            "en-IE": {
+                "singular": "I would like to be advised and informed by Interhome on specific holiday topics."
+            },
+            "en-US": {
+                "singular": "I would like to be advised and informed by Interhome on specific holiday topics."
+            },
+            "es": {
+                "singular": "Me gustaría recibir información sobre específicos tipos de vacaciones."
+            },
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {
+                "singular": "Je souhaite être informé par Interhome sur des destinations de vacances spécifiques."
+            },
+            "fr-CA": {},
+            "fr-CH": {
+                "singular": "Je souhaite être informé par Interhome sur des destinations de vacances spécifiques."
+            },
+            "fr-FR": {
+                "singular": "Je souhaite être informé par Interhome sur des destinations de vacances spécifiques."
+            },
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {
+                "singular": "Desidero ricevere informazioni da Interhome riguardo a determinate tipologie di vacanza."
+            },
+            "nl": {},
+            "nl-BE": {
+                "singular": "Ik zou graag door Interhome worden geadviseerd en geïnformeerd over specifieke vakantiethema's"
+            },
+            "nl-NL": {
+                "singular": "Ik zou graag door Interhome worden geadviseerd en geïnformeerd over specifieke vakantiethema's"
+            },
+            "no": {},
+            "pl": {
+                "singular": "Tak, chcę otrzymywać informacje o aktualnościach i ofertach specjalnych"
+            },
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

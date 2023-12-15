@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.forms.servicesForm.payBeforeArrival",
+    "name": "payBeforeArrival",
+    "path": "text-resourcesprecheckin/components/forms/servicesForm/payBeforeArrival",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/servicesForm/payBeforeArrival",
+    "slug": "payBeforeArrival",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "servicesForm",
+        "payBeforeArrival"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.servicesForm.payBeforeArrival",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Tato částka vám bude stržena z platební karty při vašem příjezdu."
+            },
+            "da": {
+                "singular": "Dette beløb vil blive debiteret på dit kreditkort ved ankomst"
+            },
+            "de": {
+                "singular": "Dieser Betrag wird erst bei Anreise Ihrer Kreditkarte belastet."
+            },
+            "de-AT": {
+                "singular": "Dieser Betrag wird erst bei Anreise Ihrer Kreditkarte belastet."
+            },
+            "de-CH": {
+                "singular": "Dieser Betrag wird erst bei Anreise Ihrer Kreditkarte belastet."
+            },
+            "de-DE": {
+                "singular": "Dieser Betrag wird erst bei Anreise Ihrer Kreditkarte belastet."
+            },
+            "en": {
+                "singular": "This amount will be charged on your credit card on arrival."
+            },
+            "en-AU": {
+                "singular": "This amount will be charged on your credit card on arrival."
+            },
+            "en-CA": {
+                "singular": "This amount will be charged on your credit card on arrival."
+            },
+            "en-GB": {
+                "singular": "This amount will be charged on your credit card on arrival."
+            },
+            "en-IE": {
+                "singular": "This amount will be charged on your credit card on arrival."
+            },
+            "en-US": {
+                "singular": "This amount will be charged on your credit card on arrival."
+            },
+            "es": {
+                "singular": "Esta cantidad será cargada en su tarjeta de crédito a su llegada"
+            },
+            "fi": {
+                "singular": "Tämä summa veloitetaan saapuessasi luottokortiltasi."
+            },
+            "fi-EE": {
+                "singular": "Tämä summa veloitetaan saapuessasi luottokortiltasi."
+            },
+            "fi-FI": {
+                "singular": "Tämä summa veloitetaan saapuessasi luottokortiltasi."
+            },
+            "fr": {
+                "singular": "Ce montant sera débité de votre carte de crédit à votre arrivée."
+            },
+            "fr-BE": {
+                "singular": "Ce montant sera débité de votre carte de crédit à votre arrivée."
+            },
+            "fr-CA": {
+                "singular": "Ce montant sera débité de votre carte de crédit à votre arrivée."
+            },
+            "fr-CH": {
+                "singular": "Ce montant sera débité de votre carte de crédit à votre arrivée."
+            },
+            "fr-FR": {
+                "singular": "Ce montant sera débité de votre carte de crédit à votre arrivée."
+            },
+            "hr": {
+                "singular": "Vaša kreditna kartica će biti terećena za ovaj iznos po dolasku."
+            },
+            "it": {
+                "singular": "Questo importo verrà addebitato sulla tua carta di credito all'arrivo."
+            },
+            "it-CH": {
+                "singular": "Questo importo verrà addebitato sulla tua carta di credito all'arrivo."
+            },
+            "it-IT": {
+                "singular": "Questo importo verrà addebitato sulla tua carta di credito all'arrivo."
+            },
+            "nl": {
+                "singular": "Dit bedrag wordt bij aankomst op uw Creditcard belast."
+            },
+            "nl-BE": {
+                "singular": "Dit bedrag wordt bij aankomst op uw Creditcard belast."
+            },
+            "nl-NL": {
+                "singular": "Dit bedrag wordt bij aankomst op uw Creditcard belast."
+            },
+            "no": {
+                "singular": "Dette beløpet vil bli debitert fra ditt kreditkort ved ankomst."
+            },
+            "pl": {
+                "singular": "Ta kwota zostanie pobrana z karty kredytowej w dniu przyjazdu."
+            },
+            "pt": {
+                "singular": "Esse valor será cobrado em seu cartão de crédito no momento da chegada"
+            },
+            "ru": {
+                "singular": "Эта сумма будет снята с Вашей кредитной карты по прибытии"
+            },
+            "sv": {
+                "singular": "Detta belopp kommer att debiteras ert kreditkort vid ankomst"
+            }
+        }
+    }
+}

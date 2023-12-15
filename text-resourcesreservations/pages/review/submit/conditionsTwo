@@ -1,0 +1,124 @@
+{
+    "id": "reservations.pages.review.submit.conditionsTwo",
+    "name": "conditionsTwo",
+    "path": "text-resourcesreservations/pages/review/submit/conditionsTwo",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/submit/conditionsTwo",
+    "slug": "conditionsTwo",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "submit",
+        "conditionsTwo"
+    ],
+    "content": {
+        "key": "reservations.pages.review.submit.conditionsTwo",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "zásady zákaznických recenzí"
+            },
+            "da": {},
+            "de": {
+                "singular": "Richtlinien zu Kundenbewertungen."
+            },
+            "de-AT": {
+                "singular": "Richtlinien zu Kundenbewertungen."
+            },
+            "de-CH": {
+                "singular": "Richtlinien zu Kundenbewertungen."
+            },
+            "de-DE": {
+                "singular": "Richtlinien zu Kundenbewertungen."
+            },
+            "en": {
+                "singular": "customer review policy."
+            },
+            "en-AU": {
+                "singular": "customer review policy."
+            },
+            "en-CA": {
+                "singular": "customer review policy."
+            },
+            "en-GB": {
+                "singular": "customer review policy."
+            },
+            "en-IE": {
+                "singular": "customer review policy."
+            },
+            "en-US": {
+                "singular": "customer review policy."
+            },
+            "es": {
+                "singular": "política de opinion de clientes."
+            },
+            "fi": {
+                "singular": "asiakasarvioinnin käyttöehdot."
+            },
+            "fi-EE": {
+                "singular": "asiakasarvioinnin käyttöehdot."
+            },
+            "fi-FI": {
+                "singular": "asiakasarvioinnin käyttöehdot."
+            },
+            "fr": {
+                "singular": "politique d'évaluation des clients"
+            },
+            "fr-BE": {
+                "singular": "politique d'évaluation des clients"
+            },
+            "fr-CA": {
+                "singular": "politique d'évaluation des clients"
+            },
+            "fr-CH": {
+                "singular": "politique d'évaluation des clients"
+            },
+            "fr-FR": {
+                "singular": "politique d'évaluation des clients"
+            },
+            "hr": {
+                "singular": "pravila ocjena gostiju."
+            },
+            "it": {
+                "singular": "il regolamento per la pubblicazione delle recensioni dei clienti."
+            },
+            "it-CH": {
+                "singular": "il regolamento per la pubblicazione delle recensioni dei clienti."
+            },
+            "it-IT": {
+                "singular": "il regolamento per la pubblicazione delle recensioni dei clienti."
+            },
+            "nl": {
+                "singular": "klantevaluatiebeleid"
+            },
+            "nl-BE": {
+                "singular": "klantevaluatiebeleid"
+            },
+            "nl-NL": {
+                "singular": "klantevaluatiebeleid"
+            },
+            "no": {
+                "singular": "vilkårene for kundeanmeldelse. "
+            },
+            "pl": {
+                "singular": "polityki dotyczącej recenzji Klientów"
+            },
+            "pt": {
+                "singular": "política de revisão do cliente."
+            },
+            "ru": {
+                "singular": "политика отзывов клиентов."
+            },
+            "sv": {
+                "singular": "villkoren för kundomdömmen. "
+            }
+        }
+    }
+}

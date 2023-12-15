@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.ModalGallery.share",
+    "name": "share",
+    "path": "text-resourceswww/components/views/details/ModalGallery/share",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/ModalGallery/share",
+    "slug": "share",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "ModalGallery",
+        "share"
+    ],
+    "content": {
+        "key": "www.components.views.details.ModalGallery.share",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "sdílet"
+            },
+            "da": {
+                "singular": "Dele"
+            },
+            "de": {
+                "singular": "Teilen"
+            },
+            "de-AT": {
+                "singular": "Teilen"
+            },
+            "de-CH": {
+                "singular": "Teilen"
+            },
+            "de-DE": {
+                "singular": "Teilen"
+            },
+            "en": {
+                "singular": "share"
+            },
+            "en-AU": {
+                "singular": "share"
+            },
+            "en-CA": {
+                "singular": "share"
+            },
+            "en-GB": {
+                "singular": "share"
+            },
+            "en-IE": {
+                "singular": "share"
+            },
+            "en-US": {
+                "singular": "share"
+            },
+            "es": {
+                "singular": "compartido"
+            },
+            "fi": {
+                "singular": "jaa"
+            },
+            "fi-EE": {
+                "singular": "jaa"
+            },
+            "fi-FI": {
+                "singular": "jaa"
+            },
+            "fr": {
+                "singular": "partagé"
+            },
+            "fr-BE": {
+                "singular": "partagé"
+            },
+            "fr-CA": {
+                "singular": "partagé"
+            },
+            "fr-CH": {
+                "singular": "partagé"
+            },
+            "fr-FR": {
+                "singular": "partagé"
+            },
+            "hr": {
+                "singular": "podijeli"
+            },
+            "it": {
+                "singular": "condividi"
+            },
+            "it-CH": {
+                "singular": "condividi"
+            },
+            "it-IT": {
+                "singular": "condividi"
+            },
+            "nl": {
+                "singular": "deel"
+            },
+            "nl-BE": {
+                "singular": "deel"
+            },
+            "nl-NL": {
+                "singular": "deel"
+            },
+            "no": {
+                "singular": "Dele"
+            },
+            "pl": {
+                "singular": "udostępnij"
+            },
+            "pt": {
+                "singular": "partilhar"
+            },
+            "ru": {
+                "singular": "поделиться"
+            },
+            "sv": {
+                "singular": "dela"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "www.components.footer.payment.heading",
+    "name": "heading",
+    "path": "text-resourceswww/components/footer/payment/heading",
+    "folder": "text-resources",
+    "full_slug": "www/components/footer/payment/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "footer",
+        "payment",
+        "heading"
+    ],
+    "content": {
+        "key": "www.components.footer.payment.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Platební metody"
+            },
+            "da": {
+                "singular": "Betalingsmetoder"
+            },
+            "de": {
+                "singular": "Zahlungsarten"
+            },
+            "de-AT": {
+                "singular": "Zahlungsarten"
+            },
+            "de-CH": {
+                "singular": "Zahlungsarten"
+            },
+            "de-DE": {
+                "singular": "Zahlungsarten"
+            },
+            "en": {
+                "singular": "Payment methods"
+            },
+            "en-AU": {
+                "singular": "Payment methods"
+            },
+            "en-CA": {
+                "singular": "Payment methods"
+            },
+            "en-GB": {
+                "singular": "Payment methods"
+            },
+            "en-IE": {
+                "singular": "Payment methods"
+            },
+            "en-US": {
+                "singular": "Payment methods"
+            },
+            "es": {
+                "singular": "Métodos de pago"
+            },
+            "fi": {
+                "singular": "Maksutavat"
+            },
+            "fi-EE": {
+                "singular": "Maksutavat"
+            },
+            "fi-FI": {
+                "singular": "Maksutavat"
+            },
+            "fr": {
+                "singular": "Moyens de paiement"
+            },
+            "fr-BE": {
+                "singular": "Moyens de paiement"
+            },
+            "fr-CA": {
+                "singular": "Moyens de paiement"
+            },
+            "fr-CH": {
+                "singular": "Moyens de paiement"
+            },
+            "fr-FR": {
+                "singular": "Moyens de paiement"
+            },
+            "hr": {
+                "singular": "Načini plaćanja"
+            },
+            "it": {
+                "singular": "Metodi di pagamento"
+            },
+            "it-CH": {
+                "singular": "Metodi di pagamento"
+            },
+            "it-IT": {
+                "singular": "Metodi di pagamento"
+            },
+            "nl": {
+                "singular": "Betaalmethoden"
+            },
+            "nl-BE": {
+                "singular": "Betalingsmethodes"
+            },
+            "nl-NL": {
+                "singular": "Betalingsmethoden"
+            },
+            "no": {
+                "singular": "Betalingsmåter"
+            },
+            "pl": {
+                "singular": "Sposób płatności"
+            },
+            "pt": {
+                "singular": "Métodos de Pagamento"
+            },
+            "ru": {
+                "singular": "Оплата"
+            },
+            "sv": {
+                "singular": "Betalningssätt"
+            }
+        }
+    }
+}

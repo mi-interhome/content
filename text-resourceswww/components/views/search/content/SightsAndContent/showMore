@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.content.SightsAndContent.showMore",
+    "name": "showMore",
+    "path": "text-resourceswww/components/views/search/content/SightsAndContent/showMore",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/content/SightsAndContent/showMore",
+    "slug": "showMore",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "content",
+        "SightsAndContent",
+        "showMore"
+    ],
+    "content": {
+        "key": "www.components.views.search.content.SightsAndContent.showMore",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zobrazit více"
+            },
+            "da": {
+                "singular": "Vis flere muligheder"
+            },
+            "de": {
+                "singular": "Mehr zeigen"
+            },
+            "de-AT": {
+                "singular": "Mehr zeigen"
+            },
+            "de-CH": {
+                "singular": "Mehr anzeigen"
+            },
+            "de-DE": {
+                "singular": "Mehr zeigen"
+            },
+            "en": {
+                "singular": "Show more"
+            },
+            "en-AU": {
+                "singular": "Show more"
+            },
+            "en-CA": {
+                "singular": "Show more"
+            },
+            "en-GB": {
+                "singular": "Show more"
+            },
+            "en-IE": {
+                "singular": "Show more"
+            },
+            "en-US": {
+                "singular": "Show more"
+            },
+            "es": {
+                "singular": "Mostrar más"
+            },
+            "fi": {
+                "singular": "Näytä kaikki"
+            },
+            "fi-EE": {
+                "singular": "Näytä kaikki"
+            },
+            "fi-FI": {
+                "singular": "Näytä kaikki"
+            },
+            "fr": {
+                "singular": "Plus"
+            },
+            "fr-BE": {
+                "singular": "Plus"
+            },
+            "fr-CA": {
+                "singular": "Plus"
+            },
+            "fr-CH": {
+                "singular": "Plus"
+            },
+            "fr-FR": {
+                "singular": "Plus"
+            },
+            "hr": {
+                "singular": "Prikaži više"
+            },
+            "it": {
+                "singular": "Continua a leggere"
+            },
+            "it-CH": {
+                "singular": "Continua a leggere"
+            },
+            "it-IT": {
+                "singular": "Mostra di più"
+            },
+            "nl": {
+                "singular": "Vertoon meer"
+            },
+            "nl-BE": {
+                "singular": "Vertoon meer"
+            },
+            "nl-NL": {
+                "singular": "Vertoon meer"
+            },
+            "no": {
+                "singular": "vis mer"
+            },
+            "pl": {
+                "singular": "Pokaż więcej"
+            },
+            "pt": {
+                "singular": "Mostrar mais"
+            },
+            "ru": {
+                "singular": "Показать больше"
+            },
+            "sv": {
+                "singular": "Visa fler alternativ"
+            }
+        }
+    }
+}

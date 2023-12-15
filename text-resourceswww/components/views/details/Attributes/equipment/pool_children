@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.equipment.pool_children",
+    "name": "pool_children",
+    "path": "text-resourceswww/components/views/details/Attributes/equipment/pool_children",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/equipment/pool_children",
+    "slug": "pool_children",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "equipment",
+        "pool_children"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.equipment.pool_children",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Dětský bazén"
+            },
+            "da": {
+                "singular": "Børnepool"
+            },
+            "de": {
+                "singular": "Kinderpool"
+            },
+            "de-AT": {
+                "singular": "Kinderpool"
+            },
+            "de-CH": {
+                "singular": "Kinderpool"
+            },
+            "de-DE": {
+                "singular": "Kinderpool"
+            },
+            "en": {
+                "singular": "Children Pool"
+            },
+            "en-AU": {
+                "singular": "Children Pool"
+            },
+            "en-CA": {
+                "singular": "Children Pool"
+            },
+            "en-GB": {
+                "singular": "Children Pool"
+            },
+            "en-IE": {
+                "singular": "Children Pool"
+            },
+            "en-US": {
+                "singular": "Children Pool"
+            },
+            "es": {
+                "singular": "Piscina para niños"
+            },
+            "fi": {
+                "singular": "Lastenallas"
+            },
+            "fi-EE": {
+                "singular": "Lastenallas"
+            },
+            "fi-FI": {
+                "singular": "Lastenallas"
+            },
+            "fr": {
+                "singular": "Piscine enfants"
+            },
+            "fr-BE": {
+                "singular": "Piscine enfants"
+            },
+            "fr-CA": {
+                "singular": "Piscine enfants"
+            },
+            "fr-CH": {
+                "singular": "Piscine enfants"
+            },
+            "fr-FR": {
+                "singular": "Piscine enfants"
+            },
+            "hr": {
+                "singular": "Dječji bazen"
+            },
+            "it": {
+                "singular": "Piscina per bambini"
+            },
+            "it-CH": {
+                "singular": "Piscina per bambini"
+            },
+            "it-IT": {
+                "singular": "Piscina per bambini"
+            },
+            "nl": {
+                "singular": "Kinderzwembad"
+            },
+            "nl-BE": {
+                "singular": "Kinderzwembad"
+            },
+            "nl-NL": {
+                "singular": "Kinderzwembad"
+            },
+            "no": {
+                "singular": "Barnebasseng"
+            },
+            "pl": {
+                "singular": "Basen dla dzieci"
+            },
+            "pt": {
+                "singular": "Piscina para crianças"
+            },
+            "ru": {
+                "singular": "Детский бассейн"
+            },
+            "sv": {
+                "singular": "Barnpool"
+            }
+        }
+    }
+}

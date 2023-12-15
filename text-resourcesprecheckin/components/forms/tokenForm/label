@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.forms.tokenForm.label",
+    "name": "label",
+    "path": "text-resourcesprecheckin/components/forms/tokenForm/label",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/tokenForm/label",
+    "slug": "label",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "tokenForm",
+        "label"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.tokenForm.label",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Elektronický klíč je poslední část odkazu na storno rezervace, který Vám byl zaslán e-mailem."
+            },
+            "da": {
+                "singular": "Dit token er den sidste del af annulleringslinket, der blev sendt til dig via e-mail."
+            },
+            "de": {
+                "singular": "Das Token ist der letzte Teil des Links, der Ihnen per E-Mail zugeschickt wurde."
+            },
+            "de-AT": {
+                "singular": "Das Token ist der letzte Teil des Links, der Ihnen per E-Mail zugeschickt wurde."
+            },
+            "de-CH": {
+                "singular": "Das Token ist der letzte Teil des Links, der Ihnen per E-Mail zugeschickt wurde."
+            },
+            "de-DE": {
+                "singular": "Das Token ist der letzte Teil des Links, der Ihnen per E-Mail zugeschickt wurde."
+            },
+            "en": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "en-AU": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "en-CA": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "en-GB": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "en-IE": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "en-US": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "es": {
+                "singular": "El token es la última parte del enlace de cancelación que se le envió por correo electrónico"
+            },
+            "fi": {
+                "singular": "Tunniste on viimeinen osa peruutuslinkistä, jonka sait sähköpostitse"
+            },
+            "fi-EE": {
+                "singular": "The token is the last part of the cancellation link which was sent to you by E-Mail"
+            },
+            "fi-FI": {
+                "singular": "Tunniste on viimeinen osa peruutuslinkistä, jonka sait sähköpostitse"
+            },
+            "fr": {
+                "singular": "Le token est la dernière partie du lien qui vous a été envoyé par courriel."
+            },
+            "fr-BE": {
+                "singular": "Le token est la dernière partie du lien qui vous a été envoyé par courriel."
+            },
+            "fr-CA": {
+                "singular": "Le token est la dernière partie du lien qui vous a été envoyé par courriel."
+            },
+            "fr-CH": {
+                "singular": "Le token est la dernière partie du lien qui vous a été envoyé par courriel."
+            },
+            "fr-FR": {
+                "singular": "Le token est la dernière partie du lien qui vous a été envoyé par courriel."
+            },
+            "hr": {
+                "singular": "Token je posljednji dio linka za otkazivanje koji vam je poslan e-poštom"
+            },
+            "it": {
+                "singular": "Il token si trova nell'ultima parte del link di cancellazione che Le è stato inviato via e-mail."
+            },
+            "it-CH": {
+                "singular": "Il token si trova nell'ultima parte del link di cancellazione che Le è stato inviato via e-mail."
+            },
+            "it-IT": {
+                "singular": "Il token si trova nell'ultima parte del link di cancellazione che Le è stato inviato via e-mail."
+            },
+            "nl": {
+                "singular": "De token is het laatste gedeelte van de annuleringslink die u per e-mail heeft ontvangen."
+            },
+            "nl-BE": {
+                "singular": "De token is het laatste gedeelte van de annuleringslink die u per e-mail heeft ontvangen."
+            },
+            "nl-NL": {
+                "singular": "De token is het laatste gedeelte van de annuleringslink die u per e-mail heeft ontvangen."
+            },
+            "no": {
+                "singular": "Tokenet er den siste delen av kanselleringslenken som ble sendt til deg via e-post"
+            },
+            "pl": {
+                "singular": "Token to końcówka linku dotyczącego anulacji, który został wysłany do Państwa e-mailem"
+            },
+            "pt": {
+                "singular": "O token é a última parte do link de cancelamento enviado por e-mail"
+            },
+            "ru": {
+                "singular": "Токен - это последняя часть ссылки для отмены, которая была отправлена Вам по электронной почте."
+            },
+            "sv": {
+                "singular": "Din kod är den sista delen av avbeställningslänken som skickades till dig via mejl."
+            }
+        }
+    }
+}

@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.services.service.inszRecommendation",
+    "name": "inszRecommendation",
+    "path": "text-resourcescheckout/components/booking/services/service/inszRecommendation",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/services/service/inszRecommendation",
+    "slug": "inszRecommendation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "services",
+        "service",
+        "inszRecommendation"
+    ],
+    "content": {
+        "key": "checkout.components.booking.services.service.inszRecommendation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Doporučujeme uzavřít pojistnou smlouvu."
+            },
+            "da": {
+                "singular": "Vi anbefaler at du tegner en rejseforsikring"
+            },
+            "de": {
+                "singular": "Wir empfehlen Ihnen den Abschluss des ERV Reiseschutzes."
+            },
+            "de-AT": {
+                "singular": "Wir empfehlen Ihnen den Abschluss des ERV Reiseschutzes."
+            },
+            "de-CH": {
+                "singular": "Wir empfehlen Ihnen den Abschluss des ERV Reiseschutzes."
+            },
+            "de-DE": {
+                "singular": "Wir empfehlen Ihnen den Abschluss des ERV Reiseschutzes."
+            },
+            "en": {
+                "singular": "Travel insurance is recommended."
+            },
+            "en-AU": {
+                "singular": "Travel insurance is recommended."
+            },
+            "en-CA": {
+                "singular": "Travel insurance is recommended."
+            },
+            "en-GB": {
+                "singular": "Travel insurance is recommended."
+            },
+            "en-IE": {
+                "singular": "Travel insurance is recommended."
+            },
+            "en-US": {
+                "singular": "Travel insurance is recommended."
+            },
+            "es": {
+                "singular": "Le recomendamos contratar un seguro"
+            },
+            "fi": {
+                "singular": "Suosittelemme lisäksi ERV matkavakuutusta."
+            },
+            "fi-EE": {
+                "singular": "Suosittelemme lisäksi ERV matkavakuutusta."
+            },
+            "fi-FI": {
+                "singular": "Suosittelemme lisäksi ERV matkavakuutusta."
+            },
+            "fr": {
+                "singular": "Nous vous conseillons de souscrire à une assurance."
+            },
+            "fr-BE": {
+                "singular": "Nous vous conseillons de souscrire à une assurance."
+            },
+            "fr-CA": {
+                "singular": "Nous vous conseillons de souscrire à une assurance."
+            },
+            "fr-CH": {
+                "singular": "Nous vous conseillons de souscrire à une assurance."
+            },
+            "fr-FR": {
+                "singular": "Nous vous conseillons de souscrire à une assurance."
+            },
+            "hr": {
+                "singular": "Preporučamo Vam dodatno osiguranje."
+            },
+            "it": {
+                "singular": "Ti consigliamo di sottoscrivere un'assicurazione viaggio integrativa."
+            },
+            "it-CH": {
+                "singular": "Ti consigliamo di sottoscrivere un'assicurazione viaggio integrativa."
+            },
+            "it-IT": {
+                "singular": "Ti consigliamo di sottoscrivere un'assicurazione viaggio integrativa."
+            },
+            "nl": {
+                "singular": "Zonder zorgen op reis! Met deze verzekering draai je niet zelf op voor kosten bij niet gebruikte reisdiensten, diefstal \u0026 medische hulp. "
+            },
+            "nl-BE": {
+                "singular": "Zonder zorgen op reis! Met deze verzekering draai je niet zelf op voor kosten bij niet gebruikte reisdiensten, diefstal \u0026 medische hulp. "
+            },
+            "nl-NL": {
+                "singular": "Zonder zorgen op reis! Met deze verzekering draai je niet zelf op voor kosten bij niet gebruikte reisdiensten, diefstal \u0026 medische hulp. "
+            },
+            "no": {
+                "singular": "Vi anbefaler at du tegner reiseforsikring"
+            },
+            "pl": {
+                "singular": "Przypominamy o możliwości skorzystania z dodatkowego ubezpieczenia."
+            },
+            "pt": {
+                "singular": "Recomendamos que consulte o documento do contrato do seguro."
+            },
+            "ru": {
+                "singular": "Напоминаем вам о возможности использования дополнительного страхования."
+            },
+            "sv": {
+                "singular": "Vi rekommenderar att du tecknar reseförsäkring"
+            }
+        }
+    }
+}

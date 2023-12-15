@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Reviews.filters",
+    "name": "filters",
+    "path": "text-resourceswww/components/views/details/Reviews/filters",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Reviews/filters",
+    "slug": "filters",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Reviews",
+        "filters"
+    ],
+    "content": {
+        "key": "www.components.views.details.Reviews.filters",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Hodnocení od"
+            },
+            "da": {
+                "singular": "Bedømmelser fra"
+            },
+            "de": {
+                "singular": "Bewertungen von"
+            },
+            "de-AT": {
+                "singular": "Bewertungen von"
+            },
+            "de-CH": {
+                "singular": "Bewertungen von"
+            },
+            "de-DE": {
+                "singular": "Bewertungen von"
+            },
+            "en": {
+                "singular": "Reviews from"
+            },
+            "en-AU": {
+                "singular": "Reviews from"
+            },
+            "en-CA": {
+                "singular": "Reviews from"
+            },
+            "en-GB": {
+                "singular": "Reviews from"
+            },
+            "en-IE": {
+                "singular": "Reviews from"
+            },
+            "en-US": {
+                "singular": "Reviews from"
+            },
+            "es": {
+                "singular": "Valoraciones desde"
+            },
+            "fi": {
+                "singular": "Arvostelut alkaen"
+            },
+            "fi-EE": {
+                "singular": "Arvostelut alkaen"
+            },
+            "fi-FI": {
+                "singular": "Arvostelut alkaen"
+            },
+            "fr": {
+                "singular": "Commentaires de"
+            },
+            "fr-BE": {
+                "singular": "Commentaires de"
+            },
+            "fr-CA": {
+                "singular": "Commentaires de"
+            },
+            "fr-CH": {
+                "singular": "Commentaires de"
+            },
+            "fr-FR": {
+                "singular": "Commentaires de"
+            },
+            "hr": {
+                "singular": "Recenzije"
+            },
+            "it": {
+                "singular": "Recensioni da"
+            },
+            "it-CH": {
+                "singular": "Recensioni da"
+            },
+            "it-IT": {
+                "singular": "Recensioni da"
+            },
+            "nl": {
+                "singular": "Reviews van "
+            },
+            "nl-BE": {
+                "singular": "Reviews van "
+            },
+            "nl-NL": {
+                "singular": "Reviews van "
+            },
+            "no": {
+                "singular": "Vurderinger fra"
+            },
+            "pl": {
+                "singular": "Opinie od"
+            },
+            "pt": {
+                "singular": "Avaliações de"
+            },
+            "ru": {
+                "singular": "Отзывы от"
+            },
+            "sv": {
+                "singular": "Recensioner från"
+            }
+        }
+    }
+}

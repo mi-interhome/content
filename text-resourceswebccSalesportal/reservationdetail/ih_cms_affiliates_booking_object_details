@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_object_details",
+    "name": "ih_cms_affiliates_booking_object_details",
+    "path": "text-resourceswebccSalesportal/reservationdetail/ih_cms_affiliates_booking_object_details",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_booking_object_details",
+    "slug": "ih_cms_affiliates_booking_object_details",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_booking_object_details"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_booking_object_details",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Objekt"
+            },
+            "da": {
+                "singular": "Objektnummer"
+            },
+            "de": {
+                "singular": "Objektcodierung"
+            },
+            "de-AT": {
+                "singular": "Objektcodierung"
+            },
+            "de-CH": {
+                "singular": "Objektcodierung"
+            },
+            "de-DE": {
+                "singular": "Objektcodierung"
+            },
+            "en": {
+                "singular": "Object"
+            },
+            "en-AU": {
+                "singular": "Object"
+            },
+            "en-CA": {
+                "singular": "Object"
+            },
+            "en-GB": {
+                "singular": "Object"
+            },
+            "en-IE": {
+                "singular": "Object"
+            },
+            "en-US": {
+                "singular": "Object"
+            },
+            "es": {
+                "singular": "Alojamiento Nº"
+            },
+            "fi": {
+                "singular": "Kohde"
+            },
+            "fi-EE": {
+                "singular": "Kohde"
+            },
+            "fi-FI": {
+                "singular": "Kohde"
+            },
+            "fr": {
+                "singular": "Référence location"
+            },
+            "fr-BE": {
+                "singular": "Référence location"
+            },
+            "fr-CA": {
+                "singular": "Référence location"
+            },
+            "fr-CH": {
+                "singular": "Référence location"
+            },
+            "fr-FR": {
+                "singular": "Référence location"
+            },
+            "hr": {
+                "singular": "Objekt"
+            },
+            "it": {
+                "singular": "Casa vacanze"
+            },
+            "it-CH": {
+                "singular": "Casa vacanze"
+            },
+            "it-IT": {
+                "singular": "Casa vacanze"
+            },
+            "nl": {
+                "singular": "Accommodatie"
+            },
+            "nl-BE": {
+                "singular": "Accommodatie"
+            },
+            "nl-NL": {
+                "singular": "Accommodatie"
+            },
+            "no": {
+                "singular": "Feriehus"
+            },
+            "pl": {
+                "singular": "Obiekt"
+            },
+            "pt": {
+                "singular": "Referência"
+            },
+            "ru": {
+                "singular": "Объект"
+            },
+            "sv": {
+                "singular": "Semesterhus"
+            }
+        }
+    }
+}

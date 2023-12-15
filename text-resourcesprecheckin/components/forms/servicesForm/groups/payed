@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.servicesForm.groups.payed",
+    "name": "payed",
+    "path": "text-resourcesprecheckin/components/forms/servicesForm/groups/payed",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/servicesForm/groups/payed",
+    "slug": "payed",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "servicesForm",
+        "groups",
+        "payed"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.servicesForm.groups.payed",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Služby zahrnuté v ceně a již zaplacené"
+            },
+            "da": {
+                "singular": "Inkluderet i den forudbetalte lejepris"
+            },
+            "de": {
+                "singular": "Inkludierte und bereits bezahlte Leistungen"
+            },
+            "de-AT": {
+                "singular": "Inkludierte und bereits bezahlte Leistungen"
+            },
+            "de-CH": {
+                "singular": "Inkludierte und bereits bezahlte Leistungen"
+            },
+            "de-DE": {
+                "singular": "Inkludierte und bereits bezahlte Leistungen"
+            },
+            "en": {
+                "singular": "Included and already paid services"
+            },
+            "en-AU": {
+                "singular": "Included and already paid services"
+            },
+            "en-CA": {
+                "singular": "Included and already paid services"
+            },
+            "en-GB": {
+                "singular": "Included and already paid services"
+            },
+            "en-IE": {
+                "singular": "Included and already paid services"
+            },
+            "en-US": {
+                "singular": "Included and already paid services"
+            },
+            "es": {
+                "singular": "Servicios incluídos y pagados"
+            },
+            "fi": {
+                "singular": "Sisältyvät ja etukäteen maksetut palvelut"
+            },
+            "fi-EE": {
+                "singular": "Sisältyvät ja etukäteen maksetut palvelut"
+            },
+            "fi-FI": {
+                "singular": "Sisältyvät ja etukäteen maksetut palvelut"
+            },
+            "fr": {
+                "singular": "Services inclus et déjà payés"
+            },
+            "fr-BE": {
+                "singular": "Services inclus et déjà payés"
+            },
+            "fr-CA": {
+                "singular": "Services inclus et déjà payés"
+            },
+            "fr-CH": {
+                "singular": "Services inclus et déjà payés"
+            },
+            "fr-FR": {
+                "singular": "Services inclus et déjà payés"
+            },
+            "hr": {
+                "singular": "Uključene i već plaćene usluge"
+            },
+            "it": {
+                "singular": "Servizi inclusi e già pagati"
+            },
+            "it-CH": {
+                "singular": "Servizi inclusi e già pagati"
+            },
+            "it-IT": {
+                "singular": "Servizi inclusi e già pagati"
+            },
+            "nl": {
+                "singular": "Inclusief en al betaalde services"
+            },
+            "nl-BE": {
+                "singular": "Inclusief en al betaalde services"
+            },
+            "nl-NL": {
+                "singular": "Inclusief en al betaalde services"
+            },
+            "no": {
+                "singular": "Inkludert og allerede betalt service."
+            },
+            "pl": {
+                "singular": "Usługi wliczone w cenę lub już opłacone"
+            },
+            "pt": {
+                "singular": "Serviços incluídos e pagos"
+            },
+            "ru": {
+                "singular": "Включенные в цену и уже оплаченные услуги"
+            },
+            "sv": {
+                "singular": "Inkluderad och redan betald service."
+            }
+        }
+    }
+}

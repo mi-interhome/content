@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.validation.zipValidation",
+    "name": "zipValidation",
+    "path": "text-resourcescheckout/components/booking/validation/zipValidation",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/validation/zipValidation",
+    "slug": "zipValidation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "validation",
+        "zipValidation"
+    ],
+    "content": {
+        "key": "checkout.components.booking.validation.zipValidation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Prosím zadejte platné PSČ"
+            },
+            "da": {
+                "singular": "Angiv venligst et gyldigt postnummer"
+            },
+            "de": {
+                "singular": "Bitte geben Sie eine gültige Postleitzahl an"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie eine gültige Postleitzahl an"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie eine gültige Postleitzahl an"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie eine gültige Postleitzahl an"
+            },
+            "en": {
+                "singular": "Please enter a valid postcode"
+            },
+            "en-AU": {
+                "singular": "Please enter a valid postcode"
+            },
+            "en-CA": {
+                "singular": "Please enter a valid postcode"
+            },
+            "en-GB": {
+                "singular": "Please enter a valid postcode"
+            },
+            "en-IE": {
+                "singular": "Please enter a valid postcode"
+            },
+            "en-US": {
+                "singular": "Please enter a valid postcode"
+            },
+            "es": {
+                "singular": "Por favor ingrese un código postal válido"
+            },
+            "fi": {
+                "singular": "Lisää kelvollinen postinumero"
+            },
+            "fi-EE": {
+                "singular": "Please enter a valid postcode"
+            },
+            "fi-FI": {
+                "singular": "Lisää kelvollinen postinumero"
+            },
+            "fr": {
+                "singular": "Veuillez indiquer un code postal valide"
+            },
+            "fr-BE": {
+                "singular": "Veuillez indiquer un code postal valide"
+            },
+            "fr-CA": {
+                "singular": "Veuillez indiquer un code postal valide"
+            },
+            "fr-CH": {
+                "singular": "Veuillez indiquer un code postal valide"
+            },
+            "fr-FR": {
+                "singular": "Veuillez indiquer un code postal valide"
+            },
+            "hr": {
+                "singular": "Molimo unijeti važeći poštanski broj"
+            },
+            "it": {
+                "singular": "Prego inserire un codice postale valido"
+            },
+            "it-CH": {
+                "singular": "Prego inserire un codice postale valido"
+            },
+            "it-IT": {
+                "singular": "Prego inserire un codice postale valido"
+            },
+            "nl": {
+                "singular": "Voer alstublieft een geldige postcode in"
+            },
+            "nl-BE": {
+                "singular": "Voer alstublieft een geldige postcode in"
+            },
+            "nl-NL": {
+                "singular": "Voer alstublieft een geldige postcode in"
+            },
+            "no": {
+                "singular": "Skriv inn et gyldig postnummer"
+            },
+            "pl": {
+                "singular": "Prosimy podać prawidłowy kod pocztowy"
+            },
+            "pt": {
+                "singular": "Introduza um código postal válido"
+            },
+            "ru": {
+                "singular": "Please enter a valid postcode"
+            },
+            "sv": {
+                "singular": "Ange ett giltigt postnummer"
+            }
+        }
+    }
+}

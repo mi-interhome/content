@@ -1,0 +1,126 @@
+{
+    "id": "reservations.pages.review.expectations.recommendLocation",
+    "name": "recommendLocation",
+    "path": "text-resourcesreservations/pages/review/expectations/recommendLocation",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/expectations/recommendLocation",
+    "slug": "recommendLocation",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "expectations",
+        "recommendLocation"
+    ],
+    "content": {
+        "key": "reservations.pages.review.expectations.recommendLocation",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Doporučili byste umístění tohoto zařízení?"
+            },
+            "da": {
+                "singular": "Ville du anbefale denne ejendoms beliggenhed?"
+            },
+            "de": {
+                "singular": "Würden Sie den Standort der Unterkunft empfehlen?"
+            },
+            "de-AT": {
+                "singular": "Würden Sie den Standort der Unterkunft empfehlen?"
+            },
+            "de-CH": {
+                "singular": "Würden Sie den Standort der Unterkunft empfehlen?"
+            },
+            "de-DE": {
+                "singular": "Würden Sie den Standort der Unterkunft empfehlen?"
+            },
+            "en": {
+                "singular": "Would you recommend the location of this property?"
+            },
+            "en-AU": {
+                "singular": "Would you recommend the location of this property?"
+            },
+            "en-CA": {
+                "singular": "Would you recommend the location of this property?"
+            },
+            "en-GB": {
+                "singular": "Would you recommend the location of this property?"
+            },
+            "en-IE": {
+                "singular": "Would you recommend the location of this property?"
+            },
+            "en-US": {
+                "singular": "Would you recommend the location of this property?"
+            },
+            "es": {
+                "singular": "¿Recomendarías la ubicación del alquiler vacacional?"
+            },
+            "fi": {
+                "singular": "Suosittelisitko kohteen sijaintia?"
+            },
+            "fi-EE": {
+                "singular": "Suosittelisitko loma-asuntoa sijainnin perusteella?"
+            },
+            "fi-FI": {
+                "singular": "Suosittelisitko kohteen sijaintia?"
+            },
+            "fr": {
+                "singular": "Recommanderiez-vous cette location ?"
+            },
+            "fr-BE": {
+                "singular": "Recommanderiez-vous cette location ?"
+            },
+            "fr-CA": {
+                "singular": "Recommanderiez-vous cette location ?"
+            },
+            "fr-CH": {
+                "singular": "Recommanderiez-vous cette location?"
+            },
+            "fr-FR": {
+                "singular": "Recommanderiez-vous cette location ?"
+            },
+            "hr": {
+                "singular": "Biste li preporučli lokaciju ovog objekta?"
+            },
+            "it": {
+                "singular": "Consiglieresti la località in cui si trova questa struttura?"
+            },
+            "it-CH": {
+                "singular": "Consiglieresti la località in cui si trova questa struttura?"
+            },
+            "it-IT": {
+                "singular": "Consiglieresti la località in cui si trova questa struttura?"
+            },
+            "nl": {
+                "singular": "Zou u deze woning aanraden op basis van de locatie?"
+            },
+            "nl-BE": {
+                "singular": "Zou u deze woning aanraden op basis van de locatie?"
+            },
+            "nl-NL": {
+                "singular": "Zou u deze woning aanraden op basis van de locatie?"
+            },
+            "no": {
+                "singular": "Ville du anbefale beliggenheten til dette overnattingsstedet?"
+            },
+            "pl": {
+                "singular": "Czy okolice obiektu są jego zaletą?"
+            },
+            "pt": {
+                "singular": "Você recomendaria a localização dessa propriedade?"
+            },
+            "ru": {
+                "singular": "Вы рекомендуете местоположение этого объекта?"
+            },
+            "sv": {
+                "singular": "Skulle du rekommendera verksamhetens läge?"
+            }
+        }
+    }
+}

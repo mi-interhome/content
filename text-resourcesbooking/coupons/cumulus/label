@@ -1,0 +1,111 @@
+{
+    "id": "booking.coupons.cumulus.label",
+    "name": "label",
+    "path": "text-resourcesbooking/coupons/cumulus/label",
+    "folder": "text-resources",
+    "full_slug": "booking/coupons/cumulus/label",
+    "slug": "label",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "coupons",
+        "cumulus",
+        "label"
+    ],
+    "content": {
+        "key": "booking.coupons.cumulus.label",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím svůj Cumulus kód"
+            },
+            "da": {
+                "singular": "Oplys venligst kumulativ kode"
+            },
+            "de": {
+                "singular": "Bitte Ihren Cumulus Code eingeben"
+            },
+            "de-AT": {
+                "singular": "Bitte Ihren Cumulus Code eingeben"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie Ihre Cumulus Nummer ein"
+            },
+            "de-DE": {
+                "singular": "Bitte Ihren Cumulus Code eingeben"
+            },
+            "en": {
+                "singular": "Please enter cumulus code"
+            },
+            "en-AU": {
+                "singular": "Please enter cumulus code"
+            },
+            "en-CA": {
+                "singular": "Please enter cumulus code"
+            },
+            "en-GB": {
+                "singular": "Please enter cumulus code"
+            },
+            "en-IE": {
+                "singular": "Please enter cumulus code"
+            },
+            "en-US": {
+                "singular": "Please enter cumulus code"
+            },
+            "es": {
+                "singular": "Por favor indique el código cumulus"
+            },
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {
+                "singular": "Merci d'entrer votre code cumulus"
+            },
+            "fr-BE": {
+                "singular": "Merci d'entrer votre code cumulus"
+            },
+            "fr-CA": {
+                "singular": "Merci d'entrer votre code cumulus"
+            },
+            "fr-CH": {
+                "singular": "Merci d'indiquer votre code Cumulus"
+            },
+            "fr-FR": {
+                "singular": "Merci d'entrer votre code cumulus"
+            },
+            "hr": {
+                "singular": "Molimo unesite Vaš cumulus broj"
+            },
+            "it": {
+                "singular": "Ti preghiamo di inserire il codice cumulus"
+            },
+            "it-CH": {
+                "singular": "Ti preghiamo di inserire il codice cumulus"
+            },
+            "it-IT": {
+                "singular": "Ti preghiamo di inserire il codice cumulus"
+            },
+            "nl": {
+                "singular": "Gelieve cumulus code invoeren"
+            },
+            "nl-BE": {
+                "singular": "Gelieve cumulus code invoeren"
+            },
+            "nl-NL": {
+                "singular": "Gelieve cumulus code invoeren"
+            },
+            "no": {},
+            "pl": {},
+            "pt": {
+                "singular": "Por favor, insira o seu código/número cumulativo"
+            },
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

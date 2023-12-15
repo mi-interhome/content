@@ -1,0 +1,157 @@
+{
+    "id": "booking.summary.babies",
+    "name": "babies",
+    "path": "text-resourcesbooking/summary/babies",
+    "folder": "text-resources",
+    "full_slug": "booking/summary/babies",
+    "slug": "babies",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "summary",
+        "babies"
+    ],
+    "content": {
+        "key": "booking.summary.babies",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Batole ",
+                "plural": " Batole"
+            },
+            "da": {
+                "singular": "Spædbarn ",
+                "plural": " Spædbørn"
+            },
+            "de": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "de-AT": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "de-CH": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "de-DE": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "en": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "en-AU": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "en-CA": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "en-GB": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "en-IE": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "en-US": {
+                "singular": "Baby ",
+                "plural": " Babies"
+            },
+            "es": {
+                "singular": "Bebés ",
+                "plural": " Bebés"
+            },
+            "fi": {
+                "singular": "Vauva ",
+                "plural": " Lapset"
+            },
+            "fi-EE": {
+                "singular": "Vauva ",
+                "plural": " Lapset"
+            },
+            "fi-FI": {
+                "singular": "Vauva ",
+                "plural": " Lapset"
+            },
+            "fr": {
+                "singular": "Bébé ",
+                "plural": " Bébés"
+            },
+            "fr-BE": {
+                "singular": "Bébé ",
+                "plural": " Bébés"
+            },
+            "fr-CA": {
+                "singular": "Bébé ",
+                "plural": " Bébés"
+            },
+            "fr-CH": {
+                "singular": "Bébé ",
+                "plural": " Bébés"
+            },
+            "fr-FR": {
+                "singular": "Bébé ",
+                "plural": " Bébés"
+            },
+            "hr": {
+                "singular": "Bebe ",
+                "plural": " Bebe"
+            },
+            "it": {
+                "singular": "Bebé ",
+                "plural": " Neonati"
+            },
+            "it-CH": {
+                "singular": "Bebé ",
+                "plural": " Neonati"
+            },
+            "it-IT": {
+                "singular": "Neonato ",
+                "plural": " Neonati"
+            },
+            "nl": {
+                "singular": "Baby ",
+                "plural": " Baby's"
+            },
+            "nl-BE": {
+                "singular": "Baby ",
+                "plural": " Baby's"
+            },
+            "nl-NL": {
+                "singular": "Baby ",
+                "plural": " Baby's"
+            },
+            "no": {
+                "singular": "Spedbarn ",
+                "plural": " Babyer"
+            },
+            "pl": {
+                "singular": "Niemowlę ",
+                "plural": " Niemowlęta"
+            },
+            "pt": {
+                "singular": "Bebé ",
+                "plural": " Bebês"
+            },
+            "ru": {
+                "singular": "Младенец ",
+                "plural": " Младенцы"
+            },
+            "sv": {
+                "singular": "Spädbarn ",
+                "plural": " Småbarn"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "precheckin.components.precheckinIntro.precheckinIntro.paragraph1",
+    "name": "paragraph1",
+    "path": "text-resourcesprecheckin/components/precheckinIntro/precheckinIntro/paragraph1",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/precheckinIntro/precheckinIntro/paragraph1",
+    "slug": "paragraph1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "precheckinIntro",
+        "precheckinIntro",
+        "paragraph1"
+    ],
+    "content": {
+        "key": "precheckin.components.precheckinIntro.precheckinIntro.paragraph1",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Abychom Vám urychlili a usnadnili vyřizování formalit při příjezdu, prosíme Vás, abyste využili naši službu {precheckin}."
+            },
+            "da": {
+                "singular": "Brug venligst vores {precheckin} for at komme hurtigere i gang."
+            },
+            "de": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren {precheckin} zu nutzen."
+            },
+            "de-AT": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren {precheckin} zu nutzen."
+            },
+            "de-CH": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren {precheckin} zu nutzen."
+            },
+            "de-DE": {
+                "singular": "Um die Anreiseformalitäten schneller und für Sie bequemer zu erledigen, bitten wir Sie, unseren {precheckin} zu nutzen."
+            },
+            "en": {
+                "singular": "In order to speed up the arrival procedures and make it easier for you, we kindly ask you to use our {precheckin} service."
+            },
+            "en-AU": {
+                "singular": "In order to speed up the arrival procedures and make it easier for you, we kindly ask you to use our {precheckin} service."
+            },
+            "en-CA": {
+                "singular": "In order to speed up the arrival procedures and make it easier for you, we kindly ask you to use our {precheckin} service."
+            },
+            "en-GB": {
+                "singular": "In order to speed up the arrival procedures and make it easier for you, we kindly ask you to use our {precheckin} service."
+            },
+            "en-IE": {
+                "singular": "In order to speed up the arrival procedures and make it easier for you, we kindly ask you to use our {precheckin} service."
+            },
+            "en-US": {
+                "singular": "In order to speed up the arrival procedures and make it easier for you, we kindly ask you to use our {precheckin} service."
+            },
+            "es": {
+                "singular": "Para agilizar los trámites de llegada y facilitarle las cosas, le rogamos que utilice nuestro servicio {precheckin}."
+            },
+            "fi": {
+                "singular": "Nopeuttaaksemme ja helpottaaksemme saapumistasi, pyydämme käyttämään {precheckin} palveluamme."
+            },
+            "fi-EE": {
+                "singular": "Nopeuttaaksemme ja helpottaaksemme saapumistasi, pyydämme käyttämään {precheckin} palveluamme."
+            },
+            "fi-FI": {
+                "singular": "Nopeuttaaksemme ja helpottaaksemme saapumistasi, pyydämme käyttämään {precheckin} palveluamme."
+            },
+            "fr": {
+                "singular": "Afin de régler les formalités à l'arrivée plus rapidement et plus confortablement pour vous, nous vous prions d'utiliser notre service de {precheckin}."
+            },
+            "fr-BE": {
+                "singular": "Afin de régler les formalités à l'arrivée plus rapidement et plus confortablement pour vous, nous vous prions d'utiliser notre service de {precheckin}."
+            },
+            "fr-CA": {
+                "singular": "Afin de régler les formalités à l'arrivée plus rapidement et plus confortablement pour vous, nous vous prions d'utiliser notre service de {precheckin}."
+            },
+            "fr-CH": {
+                "singular": "Afin de régler les formalités à l'arrivée plus rapidement et plus confortablement pour vous, nous vous prions d'utiliser notre service de {precheckin}."
+            },
+            "fr-FR": {
+                "singular": "Afin de régler les formalités à l'arrivée plus rapidement et plus confortablement pour vous, nous vous prions d'utiliser notre service de {precheckin}."
+            },
+            "hr": {
+                "singular": "Kako bi ubrzali postupke dolaska i olakšali Vam, molimo Vas da koristite naš {precheckin} servis."
+            },
+            "it": {
+                "singular": "Per espletare le formalità di arrivo in modo più rapido e conveniente, Le chiediamo di utilizzare il nostro {precheckin}."
+            },
+            "it-CH": {
+                "singular": "Per espletare le formalità di arrivo in modo più rapido e conveniente, Le chiediamo di utilizzare il nostro {precheckin}."
+            },
+            "it-IT": {
+                "singular": "Per espletare le formalità di arrivo in modo più rapido e conveniente, Le chiediamo di utilizzare il nostro {precheckin}."
+            },
+            "nl": {
+                "singular": "Om de aankomstprocedures te versnellen en het u gemakkelijker te maken, verzoeken wij u vriendelijk om gebruik te maken van onze {precheckin}-service."
+            },
+            "nl-BE": {
+                "singular": "Om de aankomstprocedures te versnellen en het u gemakkelijker te maken, verzoeken wij u vriendelijk om gebruik te maken van onze {precheckin}-service."
+            },
+            "nl-NL": {
+                "singular": "Om de aankomstprocedures te versnellen en het u gemakkelijker te maken, verzoeken wij u vriendelijk om gebruik te maken van onze {precheckin}-service."
+            },
+            "no": {
+                "singular": "For å øke hastigheten på ankomstprosedyrene og gjøre det enklere for deg, ber vi deg om å bruke vår {precheckin}-tjeneste."
+            },
+            "pl": {
+                "singular": "W celu szybszego i wygodniejszego dopełnienia formalności związanych z przyjazdem, prosimy o skorzystanie z {precheckin}."
+            },
+            "pt": {
+                "singular": "Para acelerar os procedimentos de chegada e facilitar-lhe as coisas, pedimos que use o nosso serviço {precheckin}."
+            },
+            "ru": {
+                "singular": "Чтобы ускорить процедуру прибытия и упростить вам задачу, мы просим вас воспользоваться нашей службой {precheckin}."
+            },
+            "sv": {
+                "singular": "För att påskynda ankomstprocessen och göra det lättare för dig ber vi dig att använda vår {precheckin}-service."
+            }
+        }
+    }
+}

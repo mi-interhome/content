@@ -1,0 +1,124 @@
+{
+    "id": "booking.privacyPolicy.linktext",
+    "name": "linktext",
+    "path": "text-resourcesbooking/privacyPolicy/linktext",
+    "folder": "text-resources",
+    "full_slug": "booking/privacyPolicy/linktext",
+    "slug": "linktext",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "privacyPolicy",
+        "linktext"
+    ],
+    "content": {
+        "key": "booking.privacyPolicy.linktext",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zásady ochrany osobních údajů"
+            },
+            "da": {
+                "singular": "Privatlivspolitik"
+            },
+            "de": {
+                "singular": "Datenschutz"
+            },
+            "de-AT": {
+                "singular": "Datenschutz"
+            },
+            "de-CH": {
+                "singular": "Datenschutz"
+            },
+            "de-DE": {
+                "singular": "Datenschutz"
+            },
+            "en": {
+                "singular": "privacy policy"
+            },
+            "en-AU": {
+                "singular": "privacy policy"
+            },
+            "en-CA": {
+                "singular": "privacy policy"
+            },
+            "en-GB": {
+                "singular": "privacy policy"
+            },
+            "en-IE": {
+                "singular": "privacy policy"
+            },
+            "en-US": {
+                "singular": "privacy policy"
+            },
+            "es": {
+                "singular": "Política de privacidad"
+            },
+            "fi": {
+                "singular": "yksityisyyskäytäntö"
+            },
+            "fi-EE": {
+                "singular": "tietosuojaseloste"
+            },
+            "fi-FI": {
+                "singular": "yksityisyyskäytäntö"
+            },
+            "fr": {
+                "singular": "protection des données"
+            },
+            "fr-BE": {
+                "singular": "protection des données"
+            },
+            "fr-CA": {
+                "singular": "protection des données"
+            },
+            "fr-CH": {
+                "singular": "protection des données"
+            },
+            "fr-FR": {
+                "singular": "protection des données"
+            },
+            "hr": {
+                "singular": "pravila privatnosti"
+            },
+            "it": {
+                "singular": "Privacy policy"
+            },
+            "it-CH": {
+                "singular": "Privacy policy"
+            },
+            "it-IT": {
+                "singular": "Privacy policy"
+            },
+            "nl": {
+                "singular": "privacybeleid"
+            },
+            "nl-BE": {
+                "singular": "privacybeleid"
+            },
+            "nl-NL": {
+                "singular": "privacybeleid"
+            },
+            "no": {
+                "singular": "\nPersonvernpolicy"
+            },
+            "pl": {
+                "singular": "polityka prywatności"
+            },
+            "pt": {
+                "singular": "Política de Privacidade"
+            },
+            "ru": {
+                "singular": "политика конфиденциальности"
+            },
+            "sv": {
+                "singular": "integritetspolicy"
+            }
+        }
+    }
+}

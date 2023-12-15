@@ -1,0 +1,129 @@
+{
+    "id": "webccBooking.components.reservation.services.servicePosition.price.rules.P1",
+    "name": "P1",
+    "path": "text-resourceswebccBooking/components/reservation/services/servicePosition/price/rules/P1",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/services/servicePosition/price/rules/P1",
+    "slug": "P1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "services",
+        "servicePosition",
+        "price",
+        "rules",
+        "P1"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.services.servicePosition.price.rules.P1",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "za osobu"
+            },
+            "da": {
+                "singular": "per person"
+            },
+            "de": {
+                "singular": "pro Person"
+            },
+            "de-AT": {
+                "singular": "pro Person"
+            },
+            "de-CH": {
+                "singular": "pro Person"
+            },
+            "de-DE": {
+                "singular": "pro Person"
+            },
+            "en": {
+                "singular": "per person"
+            },
+            "en-AU": {
+                "singular": "per person"
+            },
+            "en-CA": {
+                "singular": "per person"
+            },
+            "en-GB": {
+                "singular": "per person"
+            },
+            "en-IE": {
+                "singular": "per person"
+            },
+            "en-US": {
+                "singular": "per person"
+            },
+            "es": {
+                "singular": "por persona"
+            },
+            "fi": {
+                "singular": "per henkilö"
+            },
+            "fi-EE": {
+                "singular": "per henkilö"
+            },
+            "fi-FI": {
+                "singular": "per henkilö"
+            },
+            "fr": {
+                "singular": "par personne"
+            },
+            "fr-BE": {
+                "singular": "par personne"
+            },
+            "fr-CA": {
+                "singular": "par personne"
+            },
+            "fr-CH": {
+                "singular": "par personne"
+            },
+            "fr-FR": {
+                "singular": "par personne"
+            },
+            "hr": {
+                "singular": "po osobi"
+            },
+            "it": {
+                "singular": "per persona"
+            },
+            "it-CH": {
+                "singular": "per persona"
+            },
+            "it-IT": {
+                "singular": "per persona"
+            },
+            "nl": {
+                "singular": "per persoon"
+            },
+            "nl-BE": {
+                "singular": "per persoon"
+            },
+            "nl-NL": {
+                "singular": "per persoon"
+            },
+            "no": {
+                "singular": "per person"
+            },
+            "pl": {
+                "singular": "za osobę"
+            },
+            "pt": {
+                "singular": "por pessoa"
+            },
+            "ru": {
+                "singular": "за человека"
+            },
+            "sv": {
+                "singular": "per person"
+            }
+        }
+    }
+}

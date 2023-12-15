@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalIban.error401",
+    "name": "error401",
+    "path": "text-resourceswebccBooking/components/reservation/refund/modalIban/error401",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalIban/error401",
+    "slug": "error401",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalIban",
+        "error401"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalIban.error401",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Your verification code has expired"
+            },
+            "da": {
+                "singular": "Your verification code has expired"
+            },
+            "de": {
+                "singular": "Ihr Verifikationscode ist abgelaufen"
+            },
+            "de-AT": {
+                "singular": "Ihr Verifikationscode ist abgelaufen"
+            },
+            "de-CH": {
+                "singular": "Ihr Verifikationscode ist abgelaufen"
+            },
+            "de-DE": {
+                "singular": "Ihr Verifikationscode ist abgelaufen"
+            },
+            "en": {
+                "singular": "Your verification code has expired"
+            },
+            "en-AU": {
+                "singular": "Your verification code has expired"
+            },
+            "en-CA": {
+                "singular": "Your verification code has expired"
+            },
+            "en-GB": {
+                "singular": "Your verification code has expired"
+            },
+            "en-IE": {
+                "singular": "Your verification code has expired"
+            },
+            "en-US": {
+                "singular": "Your verification code has expired"
+            },
+            "es": {
+                "singular": "Your verification code has expired"
+            },
+            "fi": {
+                "singular": "Your verification code has expired"
+            },
+            "fi-EE": {
+                "singular": "Your verification code has expired"
+            },
+            "fi-FI": {
+                "singular": "Your verification code has expired"
+            },
+            "fr": {
+                "singular": "Your verification code has expired"
+            },
+            "fr-BE": {
+                "singular": "Your verification code has expired"
+            },
+            "fr-CA": {
+                "singular": "Your verification code has expired"
+            },
+            "fr-CH": {
+                "singular": "Your verification code has expired"
+            },
+            "fr-FR": {
+                "singular": "Your verification code has expired"
+            },
+            "hr": {
+                "singular": "Your verification code has expired"
+            },
+            "it": {
+                "singular": "Your verification code has expired"
+            },
+            "it-CH": {
+                "singular": "Your verification code has expired"
+            },
+            "it-IT": {
+                "singular": "Your verification code has expired"
+            },
+            "nl": {
+                "singular": "Your verification code has expired"
+            },
+            "nl-BE": {
+                "singular": "Your verification code has expired"
+            },
+            "nl-NL": {
+                "singular": "Your verification code has expired"
+            },
+            "no": {
+                "singular": "Your verification code has expired"
+            },
+            "pl": {
+                "singular": "Your verification code has expired"
+            },
+            "pt": {
+                "singular": "Your verification code has expired"
+            },
+            "ru": {
+                "singular": "Your verification code has expired"
+            },
+            "sv": {
+                "singular": "Your verification code has expired"
+            }
+        }
+    }
+}

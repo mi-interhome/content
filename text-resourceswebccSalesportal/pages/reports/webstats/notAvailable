@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.notAvailable",
+    "name": "notAvailable",
+    "path": "text-resourceswebccSalesportal/pages/reports/webstats/notAvailable",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/notAvailable",
+    "slug": "notAvailable",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "notAvailable"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.notAvailable",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Není k dispozici"
+            },
+            "da": {
+                "singular": "Ikke tilgængelig"
+            },
+            "de": {
+                "singular": "Nicht verfügbar"
+            },
+            "de-AT": {
+                "singular": "Nicht verfügbar"
+            },
+            "de-CH": {
+                "singular": "Nicht verfügbar"
+            },
+            "de-DE": {
+                "singular": "Nicht verfügbar"
+            },
+            "en": {
+                "singular": "Not Available"
+            },
+            "en-AU": {
+                "singular": "Not Available"
+            },
+            "en-CA": {
+                "singular": "Not Available"
+            },
+            "en-GB": {
+                "singular": "Not Available"
+            },
+            "en-IE": {
+                "singular": "Not Available"
+            },
+            "en-US": {
+                "singular": "Not Available"
+            },
+            "es": {
+                "singular": "No disponible"
+            },
+            "fi": {
+                "singular": "Ei saatavilla"
+            },
+            "fi-EE": {
+                "singular": "Ei saatavilla"
+            },
+            "fi-FI": {
+                "singular": "Ei saatavilla"
+            },
+            "fr": {
+                "singular": "Indisponible"
+            },
+            "fr-BE": {
+                "singular": "Indisponible"
+            },
+            "fr-CA": {
+                "singular": "Indisponible"
+            },
+            "fr-CH": {
+                "singular": "Indisponible"
+            },
+            "fr-FR": {
+                "singular": "Indisponible"
+            },
+            "hr": {
+                "singular": "Nije dostupno"
+            },
+            "it": {
+                "singular": "Non disponibile"
+            },
+            "it-CH": {
+                "singular": "Non disponibile"
+            },
+            "it-IT": {
+                "singular": "Non disponibile"
+            },
+            "nl": {
+                "singular": "Niet beschikbaar"
+            },
+            "nl-BE": {
+                "singular": "Niet beschikbaar"
+            },
+            "nl-NL": {
+                "singular": "Niet beschikbaar"
+            },
+            "no": {
+                "singular": "Ikke tilgjengelig"
+            },
+            "pl": {
+                "singular": "Niedostępne"
+            },
+            "pt": {
+                "singular": "Não disponível"
+            },
+            "ru": {
+                "singular": "Недоступно"
+            },
+            "sv": {
+                "singular": "Inte tillgängligt"
+            }
+        }
+    }
+}

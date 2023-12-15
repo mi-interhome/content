@@ -1,0 +1,125 @@
+{
+    "id": "reservations.pages.cancellation.title",
+    "name": "title",
+    "path": "text-resourcesreservations/pages/cancellation/title",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/cancellation/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "cancellation",
+        "title"
+    ],
+    "content": {
+        "key": "reservations.pages.cancellation.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Storno podmínky"
+            },
+            "da": {
+                "singular": "Afbestillingspolitik"
+            },
+            "de": {
+                "singular": "Stornierungsbedingungen"
+            },
+            "de-AT": {
+                "singular": "Stornierungsbedingungen"
+            },
+            "de-CH": {
+                "singular": "Stornierungsbedingungen"
+            },
+            "de-DE": {
+                "singular": "Stornierungsbedingungen"
+            },
+            "en": {
+                "singular": "Cancellation policy"
+            },
+            "en-AU": {
+                "singular": "Cancellation policy"
+            },
+            "en-CA": {
+                "singular": "Cancellation policy"
+            },
+            "en-GB": {
+                "singular": "Cancellation policy"
+            },
+            "en-IE": {
+                "singular": "Cancellation policy"
+            },
+            "en-US": {
+                "singular": "Cancellation policy"
+            },
+            "es": {
+                "singular": "Política de cancelación"
+            },
+            "fi": {
+                "singular": "Peruutusehdot"
+            },
+            "fi-EE": {
+                "singular": "Peruutusehdot"
+            },
+            "fi-FI": {
+                "singular": "Peruutusehdot"
+            },
+            "fr": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-BE": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-CA": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-CH": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-FR": {
+                "singular": "Conditions d'annulation"
+            },
+            "hr": {
+                "singular": "Uvjeti otkazivanja"
+            },
+            "it": {
+                "singular": "Condizioni di cancellazione"
+            },
+            "it-CH": {
+                "singular": "Condizioni di cancellazione"
+            },
+            "it-IT": {
+                "singular": "Condizioni di cancellazione"
+            },
+            "nl": {
+                "singular": "Annuleringsvoorwaarden"
+            },
+            "nl-BE": {
+                "singular": "Annuleringsvoorwaarden"
+            },
+            "nl-NL": {
+                "singular": "Annuleringsvoorwaarden"
+            },
+            "no": {
+                "singular": "Retningslinjer for avbestilling"
+            },
+            "pl": {
+                "singular": "Warunki anulacji"
+            },
+            "pt": {
+                "singular": "Política de cancelamento"
+            },
+            "ru": {
+                "singular": "Политика отмены"
+            },
+            "sv": {
+                "singular": "Villkor för avbeställning"
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.pax.modalCheckoutPax.error.message",
+    "name": "message",
+    "path": "text-resourceswebccBooking/components/reservation/pax/modalCheckoutPax/error/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/pax/modalCheckoutPax/error/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "pax",
+        "modalCheckoutPax",
+        "error",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.pax.modalCheckoutPax.error.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Změna se nepodařila"
+            },
+            "da": {
+                "singular": "Ændringen kunne ikke gennemføres"
+            },
+            "de": {
+                "singular": "Die Änderung ist fehlgeschlagen"
+            },
+            "de-AT": {
+                "singular": "Die Änderung ist fehlgeschlagen"
+            },
+            "de-CH": {
+                "singular": "Die Änderung ist fehlgeschlagen"
+            },
+            "de-DE": {
+                "singular": "Die Änderung ist fehlgeschlagen"
+            },
+            "en": {
+                "singular": "The change has failed"
+            },
+            "en-AU": {
+                "singular": "The change has failed"
+            },
+            "en-CA": {
+                "singular": "The change has failed"
+            },
+            "en-GB": {
+                "singular": "The change has failed"
+            },
+            "en-IE": {
+                "singular": "The change has failed"
+            },
+            "en-US": {
+                "singular": "The change has failed"
+            },
+            "es": {
+                "singular": "El cambio ha fallado"
+            },
+            "fi": {
+                "singular": "Muutos epäonnistui"
+            },
+            "fi-EE": {
+                "singular": "Muutos epäonnistui"
+            },
+            "fi-FI": {
+                "singular": "Muutos epäonnistui"
+            },
+            "fr": {
+                "singular": "La modification n'a pas pu être enregistrée."
+            },
+            "fr-BE": {
+                "singular": "La modification n'a pas pu être enregistrée."
+            },
+            "fr-CA": {
+                "singular": "La modification n'a pas pu être enregistrée."
+            },
+            "fr-CH": {
+                "singular": "La modification n'a pas pu être enregistrée."
+            },
+            "fr-FR": {
+                "singular": "La modification n'a pas pu être enregistrée."
+            },
+            "hr": {
+                "singular": "Promjena nije uspjela"
+            },
+            "it": {
+                "singular": "Non è stato possibile salvare la modifica"
+            },
+            "it-CH": {
+                "singular": "Non è stato possibile salvare la modifica"
+            },
+            "it-IT": {
+                "singular": "Non è stato possibile salvare la modifica"
+            },
+            "nl": {
+                "singular": "De wijziging is mislukt"
+            },
+            "nl-BE": {
+                "singular": "De wijziging is mislukt"
+            },
+            "nl-NL": {
+                "singular": "De wijziging is mislukt"
+            },
+            "no": {
+                "singular": "Endringen mislyktes"
+            },
+            "pl": {
+                "singular": "Nie udało się dokonać zmiany"
+            },
+            "pt": {
+                "singular": "A alteração falhou"
+            },
+            "ru": {
+                "singular": "Изменение не удалось"
+            },
+            "sv": {
+                "singular": "Ändringen misslyckades"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.paymentMethod.INV",
+    "name": "INV",
+    "path": "text-resourcescheckout/components/booking/paymentMethod/INV",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/paymentMethod/INV",
+    "slug": "INV",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "paymentMethod",
+        "INV"
+    ],
+    "content": {
+        "key": "checkout.components.booking.paymentMethod.INV",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Faktura"
+            },
+            "da": {
+                "singular": "Faktura"
+            },
+            "de": {
+                "singular": "Rechnung"
+            },
+            "de-AT": {
+                "singular": "Rechnung"
+            },
+            "de-CH": {
+                "singular": "Rechnung"
+            },
+            "de-DE": {
+                "singular": "Rechnung"
+            },
+            "en": {
+                "singular": "Invoice"
+            },
+            "en-AU": {
+                "singular": "Invoice"
+            },
+            "en-CA": {
+                "singular": "Invoice"
+            },
+            "en-GB": {
+                "singular": "Invoice"
+            },
+            "en-IE": {
+                "singular": "Invoice"
+            },
+            "en-US": {
+                "singular": "Invoice"
+            },
+            "es": {
+                "singular": "Factura"
+            },
+            "fi": {
+                "singular": "Lasku"
+            },
+            "fi-EE": {
+                "singular": "Lasku"
+            },
+            "fi-FI": {
+                "singular": "Lasku"
+            },
+            "fr": {
+                "singular": "Facture"
+            },
+            "fr-BE": {
+                "singular": "Facture"
+            },
+            "fr-CA": {
+                "singular": "Facture"
+            },
+            "fr-CH": {
+                "singular": "Facture"
+            },
+            "fr-FR": {
+                "singular": "Facture et/ou Chèque (libellé à l'ordre de HHD Sarl) et/ou Chèque-Vacances (papier)\r\n\r\n"
+            },
+            "hr": {
+                "singular": "Bankovni račun"
+            },
+            "it": {
+                "singular": "Bonifico"
+            },
+            "it-CH": {
+                "singular": "Bonifico"
+            },
+            "it-IT": {
+                "singular": "Bonifico"
+            },
+            "nl": {
+                "singular": "Factuur"
+            },
+            "nl-BE": {
+                "singular": "Factuur"
+            },
+            "nl-NL": {
+                "singular": "Factuur"
+            },
+            "no": {
+                "singular": "Faktura"
+            },
+            "pl": {
+                "singular": "Przelew"
+            },
+            "pt": {
+                "singular": "Fatura"
+            },
+            "ru": {
+                "singular": "Подтверждение бронирования и счёт"
+            },
+            "sv": {
+                "singular": "Faktura"
+            }
+        }
+    }
+}

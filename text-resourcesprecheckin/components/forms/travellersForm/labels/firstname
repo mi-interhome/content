@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.firstname",
+    "name": "firstname",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/labels/firstname",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/firstname",
+    "slug": "firstname",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "firstname"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.firstname",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Jméno"
+            },
+            "da": {
+                "singular": "Fornavn"
+            },
+            "de": {
+                "singular": "Vorname"
+            },
+            "de-AT": {
+                "singular": "Vorname"
+            },
+            "de-CH": {
+                "singular": "Vorname"
+            },
+            "de-DE": {
+                "singular": "Vorname"
+            },
+            "en": {
+                "singular": "Firstname"
+            },
+            "en-AU": {
+                "singular": "Firstname"
+            },
+            "en-CA": {
+                "singular": "Firstname"
+            },
+            "en-GB": {
+                "singular": "Firstname"
+            },
+            "en-IE": {
+                "singular": "Firstname"
+            },
+            "en-US": {
+                "singular": "Firstname"
+            },
+            "es": {
+                "singular": "Nombre"
+            },
+            "fi": {
+                "singular": "Etunimi"
+            },
+            "fi-EE": {
+                "singular": "Etunimi"
+            },
+            "fi-FI": {
+                "singular": "Etunimi"
+            },
+            "fr": {
+                "singular": "Prénom"
+            },
+            "fr-BE": {
+                "singular": "Prénom"
+            },
+            "fr-CA": {
+                "singular": "Prénom"
+            },
+            "fr-CH": {
+                "singular": "Prénom"
+            },
+            "fr-FR": {
+                "singular": "Prénom"
+            },
+            "hr": {
+                "singular": "Ime"
+            },
+            "it": {
+                "singular": "Nome"
+            },
+            "it-CH": {
+                "singular": "Nome"
+            },
+            "it-IT": {
+                "singular": "Nome"
+            },
+            "nl": {
+                "singular": "Voornaam"
+            },
+            "nl-BE": {
+                "singular": "Voornaam"
+            },
+            "nl-NL": {
+                "singular": "Voornaam"
+            },
+            "no": {
+                "singular": "Fornavn"
+            },
+            "pl": {
+                "singular": "Imię"
+            },
+            "pt": {
+                "singular": "Prenome"
+            },
+            "ru": {
+                "singular": "Имя"
+            },
+            "sv": {
+                "singular": "Förnamn"
+            }
+        }
+    }
+}

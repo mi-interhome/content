@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.newFilter.filterPopup.clearAll",
+    "name": "clearAll",
+    "path": "text-resourceswww/components/views/search/newFilter/filterPopup/clearAll",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterPopup/clearAll",
+    "slug": "clearAll",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterPopup",
+        "clearAll"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterPopup.clearAll",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Odstranit všechny filtry"
+            },
+            "da": {
+                "singular": "Fjern alle filtre"
+            },
+            "de": {
+                "singular": "Alle Filter entfernen"
+            },
+            "de-AT": {
+                "singular": "Alle Filter entfernen"
+            },
+            "de-CH": {
+                "singular": "Alle Filter entfernen"
+            },
+            "de-DE": {
+                "singular": "Alle Filter entfernen"
+            },
+            "en": {
+                "singular": "Remove all filters"
+            },
+            "en-AU": {
+                "singular": "Remove all filters"
+            },
+            "en-CA": {
+                "singular": "Remove all filters"
+            },
+            "en-GB": {
+                "singular": "Remove all filters"
+            },
+            "en-IE": {
+                "singular": "Remove all filters"
+            },
+            "en-US": {
+                "singular": "Remove all filters"
+            },
+            "es": {
+                "singular": "Eliminar todos los filtros"
+            },
+            "fi": {
+                "singular": "Poista kaikki valinnat"
+            },
+            "fi-EE": {
+                "singular": "Poista kaikki valinnat"
+            },
+            "fi-FI": {
+                "singular": "Poista kaikki valinnat"
+            },
+            "fr": {
+                "singular": "Supprimer tous les filtres"
+            },
+            "fr-BE": {
+                "singular": "Supprimer tous les filtres"
+            },
+            "fr-CA": {
+                "singular": "Supprimer tous les filtres"
+            },
+            "fr-CH": {
+                "singular": "Supprimer tous les filtres"
+            },
+            "fr-FR": {
+                "singular": "Supprimer tous les filtres"
+            },
+            "hr": {
+                "singular": "Obriši sve filtere"
+            },
+            "it": {
+                "singular": "Rimuovi tutti i filtri"
+            },
+            "it-CH": {
+                "singular": "Rimuovi tutti i filtri"
+            },
+            "it-IT": {
+                "singular": "Rimuovi tutti i filtri"
+            },
+            "nl": {
+                "singular": "Verwijder alle filters"
+            },
+            "nl-BE": {
+                "singular": "Verwijder alle filters"
+            },
+            "nl-NL": {
+                "singular": "Verwijder alle filters"
+            },
+            "no": {
+                "singular": "Ta bort alle filter"
+            },
+            "pl": {
+                "singular": "Usuń wszystkie filtry"
+            },
+            "pt": {
+                "singular": "Remover todos os filtros"
+            },
+            "ru": {
+                "singular": "Удалить все фильтры"
+            },
+            "sv": {
+                "singular": "Ta bort alla filter"
+            }
+        }
+    }
+}

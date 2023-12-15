@@ -1,0 +1,128 @@
+{
+    "id": "precheckin.pages.precheckins._token.checkin.arrival.info",
+    "name": "info",
+    "path": "text-resourcesprecheckin/pages/precheckins/_token/checkin/arrival/info",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/checkin/arrival/info",
+    "slug": "info",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "checkin",
+        "arrival",
+        "info"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.checkin.arrival.info",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Detaily cesty (číslo letu, předpokládaný čas příjezdu)"
+            },
+            "da": {
+                "singular": "Rejsedetaljer (fx.flynummer, forventet ankomstidspunkt med bil eller fly)"
+            },
+            "de": {
+                "singular": "Anreisedetails (Flugnummer, ca. Ankunftszeit mit Auto/Zug)"
+            },
+            "de-AT": {
+                "singular": "Anreisedetails (Flugnummer, ca. Ankunftszeit mit Auto/Zug)"
+            },
+            "de-CH": {
+                "singular": "Anreisedetails (Flugnummer, ca. Ankunftszeit mit Auto/Zug)"
+            },
+            "de-DE": {
+                "singular": "Anreisedetails (Flugnummer, ca. Ankunftszeit mit Auto/Zug)"
+            },
+            "en": {
+                "singular": "Travel details (flight number, estimated arrival time by car / train)"
+            },
+            "en-AU": {
+                "singular": "Travel details (flight number, estimated arrival time by car / train)"
+            },
+            "en-CA": {
+                "singular": "Travel details (flight number, estimated arrival time by car / train)"
+            },
+            "en-GB": {
+                "singular": "Travel details (flight number, estimated arrival time by car / train)"
+            },
+            "en-IE": {
+                "singular": "Travel details (flight number, estimated arrival time by car / train)"
+            },
+            "en-US": {
+                "singular": "Travel details (flight number, estimated arrival time by car / train)"
+            },
+            "es": {
+                "singular": "Detalles del viaje (número de vuelo, hora estimada de llegada en coche o tren)"
+            },
+            "fi": {
+                "singular": "Tulotietosi (lennon numero, arvioitu saapumisaika autolla / junalla)"
+            },
+            "fi-EE": {
+                "singular": "Saapumistietosi (lennon numero, arvioitu saapumisaika autolla / junalla)"
+            },
+            "fi-FI": {
+                "singular": "Tulotietosi (lennon numero, arvioitu saapumisaika autolla / junalla)"
+            },
+            "fr": {
+                "singular": "Informations de voyage (votre numéro de vol, heure d'arrivée approximative en voiture / train)"
+            },
+            "fr-BE": {
+                "singular": "Informations de voyage (votre numéro de vol, heure d'arrivée approximative en voiture / train)"
+            },
+            "fr-CA": {
+                "singular": "Informations de voyage (votre numéro de vol, heure d'arrivée approximative en voiture / train)"
+            },
+            "fr-CH": {
+                "singular": "Informations de voyage (votre numéro de vol, heure d'arrivée approximative en voiture / train)"
+            },
+            "fr-FR": {
+                "singular": "Informations de voyage (votre numéro de vol, heure d'arrivée approximative en voiture / train)"
+            },
+            "hr": {
+                "singular": "Podaci o putovanju (broj leta, okvirno vrijeme dolaska autom ili vlakom)"
+            },
+            "it": {
+                "singular": "Dettagli del viaggio (numero di volo, orario di arrivo previsto - in auto/treno)"
+            },
+            "it-CH": {
+                "singular": "Dettagli del viaggio (numero di volo, orario di arrivo previsto - in auto/treno)"
+            },
+            "it-IT": {
+                "singular": "Dettagli del viaggio (numero di volo, orario di arrivo previsto - in auto/treno)"
+            },
+            "nl": {
+                "singular": "Reisdetails (vluchtnummer, verwachte aankomst per auto /trein)"
+            },
+            "nl-BE": {
+                "singular": "Reisdetails (vluchtnummer, verwachte aankomst per auto /trein)"
+            },
+            "nl-NL": {
+                "singular": "Reisdetails (vluchtnummer, verwachte aankomst per auto /trein)"
+            },
+            "no": {
+                "singular": "Reisedetaljer (flynummer, estimert ankomsttid med bil/tog)"
+            },
+            "pl": {
+                "singular": "Informacje na temat przyjazdu (numer lotu, przewidywany czas przybycia samochodem/pociągiem/innym środkiem transportu)"
+            },
+            "pt": {
+                "singular": "Detalhes da viagem (número de voo, hora estimada de chegada de carro / comboio)"
+            },
+            "ru": {
+                "singular": "Детали путешествия (номер рейса, расчетное время прибытия на машине / поезде)"
+            },
+            "sv": {
+                "singular": "Resdetaljer (flygnummer, estimerad ankomsttid med bil / tåg)"
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.cancelConditionsBooking.heading",
+    "name": "heading",
+    "path": "text-resourcescheckout/components/booking/cancelConditionsBooking/heading",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/cancelConditionsBooking/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "cancelConditionsBooking",
+        "heading"
+    ],
+    "content": {
+        "key": "checkout.components.booking.cancelConditionsBooking.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Storno podmínky"
+            },
+            "da": {
+                "singular": "Afbestillingsvilkår"
+            },
+            "de": {
+                "singular": "Stornobedingungen"
+            },
+            "de-AT": {
+                "singular": "Stornobedingungen"
+            },
+            "de-CH": {
+                "singular": "Stornobedingungen"
+            },
+            "de-DE": {
+                "singular": "Stornobedingungen"
+            },
+            "en": {
+                "singular": "Cancellation Conditions"
+            },
+            "en-AU": {
+                "singular": "Cancellation Conditions"
+            },
+            "en-CA": {
+                "singular": "Cancellation Conditions"
+            },
+            "en-GB": {
+                "singular": "Cancellation Conditions"
+            },
+            "en-IE": {
+                "singular": "Cancellation Conditions"
+            },
+            "en-US": {
+                "singular": "Cancellation Conditions"
+            },
+            "es": {
+                "singular": "Condiciones de cancelación"
+            },
+            "fi": {
+                "singular": "Peruutusehdot"
+            },
+            "fi-EE": {
+                "singular": "Peruutusehdot"
+            },
+            "fi-FI": {
+                "singular": "Peruutusehdot"
+            },
+            "fr": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-BE": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-CA": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-CH": {
+                "singular": "Conditions d'annulation"
+            },
+            "fr-FR": {
+                "singular": "Conditions d'annulation"
+            },
+            "hr": {
+                "singular": "Uvjeti otkaza rezervacije"
+            },
+            "it": {
+                "singular": "Condizioni di cancellazione"
+            },
+            "it-CH": {
+                "singular": "Condizioni di cancellazione"
+            },
+            "it-IT": {
+                "singular": "Condizioni di cancellazione"
+            },
+            "nl": {
+                "singular": "Annuleringsvoorwaarden"
+            },
+            "nl-BE": {
+                "singular": "Annuleringsvoorwaarden"
+            },
+            "nl-NL": {
+                "singular": "Annuleringsvoorwaarden"
+            },
+            "no": {
+                "singular": "Avbestillingsvillkår"
+            },
+            "pl": {
+                "singular": "Warunki anulacji"
+            },
+            "pt": {
+                "singular": "Condições de Cancelamento"
+            },
+            "ru": {
+                "singular": "Условия аннуляция"
+            },
+            "sv": {
+                "singular": "Avbeställningsvillkor"
+            }
+        }
+    }
+}

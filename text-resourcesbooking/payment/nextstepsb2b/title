@@ -1,0 +1,123 @@
+{
+    "id": "booking.payment.nextstepsb2b.title",
+    "name": "title",
+    "path": "text-resourcesbooking/payment/nextstepsb2b/title",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/nextstepsb2b/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "nextstepsb2b",
+        "title"
+    ],
+    "content": {
+        "key": "booking.payment.nextstepsb2b.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další kroky k dovolené Vašeho klienta"
+            },
+            "da": {
+                "singular": "Næste trin til dine kunders ferie"
+            },
+            "de": {
+                "singular": "Die nächsten Schritte bis zu den Ferien Ihres Kunden"
+            },
+            "de-AT": {
+                "singular": "Die nächsten Schritte bis zu den Ferien Ihres Kunden"
+            },
+            "de-CH": {
+                "singular": "Die nächsten Schritte bis zu den Ferien Ihres Kunden"
+            },
+            "de-DE": {
+                "singular": "Die nächsten Schritte bis zu den Ferien Ihres Kunden"
+            },
+            "en": {
+                "singular": "Next steps to your customer's holiday"
+            },
+            "en-AU": {
+                "singular": "Next steps to your customer's holiday"
+            },
+            "en-CA": {
+                "singular": "Next steps to your customer's holiday"
+            },
+            "en-GB": {
+                "singular": "Next steps to your customer's holiday"
+            },
+            "en-IE": {
+                "singular": "Next steps to your customer's holiday"
+            },
+            "en-US": {
+                "singular": "Next steps to your customer's holiday"
+            },
+            "es": {
+                "singular": "Siguiente paso hacia las vacaciones de su cliente"
+            },
+            "fi": {
+                "singular": "Seuraavat vaiheet asiakkaasi lomalle"
+            },
+            "fi-EE": {
+                "singular": "Seuraavat vaiheet asiakkaasi lomalle"
+            },
+            "fi-FI": {
+                "singular": "Seuraavat vaiheet asiakkaasi lomalle"
+            },
+            "fr": {
+                "singular": "Prochaines étapes vers les vacances de vos clients"
+            },
+            "fr-BE": {
+                "singular": "Prochaines étapes vers les vacances de vos clients"
+            },
+            "fr-CA": {
+                "singular": "Prochaines étapes vers les vacances de vos clients"
+            },
+            "fr-CH": {
+                "singular": "Prochaines étapes vers les vacances de vos clients"
+            },
+            "fr-FR": {
+                "singular": "Prochaines étapes vers les vacances de vos clients"
+            },
+            "hr": {},
+            "it": {
+                "singular": "I prossimi passi verso le vacanze dei tuoi clienti"
+            },
+            "it-CH": {
+                "singular": "I prossimi passi verso le vacanze dei tuoi clienti"
+            },
+            "it-IT": {
+                "singular": "I prossimi passi verso le vacanze dei tuoi clienti"
+            },
+            "nl": {
+                "singular": "De volgende stappen voor de vakantie van uw klant"
+            },
+            "nl-BE": {
+                "singular": "De volgende stappen voor de vakantie van uw klant"
+            },
+            "nl-NL": {
+                "singular": "De volgende stappen voor de vakantie van uw klant"
+            },
+            "no": {
+                "singular": "De neste trinnene til kundene dine ferie"
+            },
+            "pl": {
+                "singular": "Dalsze kroki do udanego wypoczynku"
+            },
+            "pt": {
+                "singular": "Próximo passo para as férias do seu cliente"
+            },
+            "ru": {
+                "singular": "Следующие шаги к отдыху Ваших клиентов"
+            },
+            "sv": {
+                "singular": "Nästa steg till dina kunder semester"
+            }
+        }
+    }
+}

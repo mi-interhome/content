@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.details.Sidebar.saved",
+    "name": "saved",
+    "path": "text-resourceswww/components/views/details/Sidebar/saved",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Sidebar/saved",
+    "slug": "saved",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Sidebar",
+        "saved"
+    ],
+    "content": {
+        "key": "www.components.views.details.Sidebar.saved",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "ušetříte"
+            },
+            "da": {
+                "singular": "gemt"
+            },
+            "de": {
+                "singular": "gespart"
+            },
+            "de-AT": {
+                "singular": "gespart"
+            },
+            "de-CH": {
+                "singular": "gespart"
+            },
+            "de-DE": {
+                "singular": "gespart"
+            },
+            "en": {
+                "singular": "saved"
+            },
+            "en-AU": {
+                "singular": "saved"
+            },
+            "en-CA": {
+                "singular": "saved"
+            },
+            "en-GB": {
+                "singular": "saved"
+            },
+            "en-IE": {
+                "singular": "saved"
+            },
+            "en-US": {
+                "singular": "saved"
+            },
+            "es": {
+                "singular": "ahorrado"
+            },
+            "fi": {
+                "singular": "edullisempi"
+            },
+            "fi-EE": {
+                "singular": "säästetty"
+            },
+            "fi-FI": {
+                "singular": "edullisempi"
+            },
+            "fr": {
+                "singular": "d'économisé"
+            },
+            "fr-BE": {
+                "singular": "d'économisé"
+            },
+            "fr-CA": {
+                "singular": "d'économisé"
+            },
+            "fr-CH": {
+                "singular": "d'économisé"
+            },
+            "fr-FR": {
+                "singular": "d'économisé"
+            },
+            "hr": {
+                "singular": "ušteda"
+            },
+            "it": {
+                "singular": "risparmiati"
+            },
+            "it-CH": {
+                "singular": "risparmiati"
+            },
+            "it-IT": {
+                "singular": "risparmiati"
+            },
+            "nl": {
+                "singular": "korting"
+            },
+            "nl-BE": {
+                "singular": "korting"
+            },
+            "nl-NL": {
+                "singular": "korting"
+            },
+            "no": {
+                "singular": "spart"
+            },
+            "pl": {
+                "singular": "oszczędzasz"
+            },
+            "pt": {
+                "singular": "gravado"
+            },
+            "ru": {
+                "singular": "Ваша экономия"
+            },
+            "sv": {
+                "singular": "sparad"
+            }
+        }
+    }
+}

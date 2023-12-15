@@ -1,0 +1,128 @@
+{
+    "id": "www.pages.emails._hash.confirm.error.heading",
+    "name": "heading",
+    "path": "text-resourceswww/pages/emails/_hash/confirm/error/heading",
+    "folder": "text-resources",
+    "full_slug": "www/pages/emails/_hash/confirm/error/heading",
+    "slug": "heading",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "emails",
+        "_hash",
+        "confirm",
+        "error",
+        "heading"
+    ],
+    "content": {
+        "key": "www.pages.emails._hash.confirm.error.heading",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Bohužel došlo k chybě při potvrzování Vaší e-mailové adresy"
+            },
+            "da": {
+                "singular": "Desværre opstod der en fejl under bekræftelse af din e-mailadresse"
+            },
+            "de": {
+                "singular": "Leider ist bei der Bestätigung ihrer E-Mail-Adresse ein Fehler aufgetreten"
+            },
+            "de-AT": {
+                "singular": "Leider ist bei der Bestätigung ihrer E-Mail-Adresse ein Fehler aufgetreten"
+            },
+            "de-CH": {
+                "singular": "Leider ist bei der Bestätigung ihrer E-Mail-Adresse ein Fehler aufgetreten"
+            },
+            "de-DE": {
+                "singular": "Leider ist bei der Bestätigung ihrer E-Mail-Adresse ein Fehler aufgetreten"
+            },
+            "en": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "en-AU": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "en-CA": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "en-GB": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "en-IE": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "en-US": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "es": {
+                "singular": "Lamentablemente, ocurrió un error durante la confirmación de su email."
+            },
+            "fi": {
+                "singular": "Valitettavasti sähköpostiosoitettasi vahvistettaessa tapahtui virhe"
+            },
+            "fi-EE": {
+                "singular": "Unfortunately, an error occurred while confirming your e-mail address"
+            },
+            "fi-FI": {
+                "singular": "Valitettavasti sähköpostiosoitettasi vahvistettaessa tapahtui virhe"
+            },
+            "fr": {
+                "singular": "Malheureusement une erreur est intervenue lors de la confirmation de l'adresse e-mail."
+            },
+            "fr-BE": {
+                "singular": "Malheureusement une erreur est intervenue lors de la confirmation de l'adresse e-mail."
+            },
+            "fr-CA": {
+                "singular": "Malheureusement une erreur est intervenue lors de la confirmation de l'adresse e-mail."
+            },
+            "fr-CH": {
+                "singular": "Malheureusement une erreur est intervenue lors de la confirmation de l'adresse e-mail."
+            },
+            "fr-FR": {
+                "singular": "Malheureusement une erreur est intervenue lors de la confirmation de l'adresse e-mail."
+            },
+            "hr": {
+                "singular": "Nažalost došloje do greške prilikom potvrde e amil adrese"
+            },
+            "it": {
+                "singular": "Purtroppo si è verificato un errore"
+            },
+            "it-CH": {
+                "singular": "Purtroppo si è verificato un errore"
+            },
+            "it-IT": {
+                "singular": "Purtroppo si è verificato un errore"
+            },
+            "nl": {
+                "singular": "Helaas is er een fout opgetreden bij het bevestigen van uw e-mail adres"
+            },
+            "nl-BE": {
+                "singular": "Helaas is er een fout opgetreden bij het bevestigen van uw e-mail adres"
+            },
+            "nl-NL": {
+                "singular": "Helaas is er een fout opgetreden bij het bevestigen van uw e-mail adres"
+            },
+            "no": {
+                "singular": "Beklager, det oppstod en feil under bekreftelse av e-postadressen din"
+            },
+            "pl": {
+                "singular": "Wystąpił błąd podczas potwierdzania Państwa adresu e-mail."
+            },
+            "pt": {
+                "singular": "Infelizmente, ocorreu um erro durante a confirmação do seu e-mail."
+            },
+            "ru": {
+                "singular": "Извините, произошла ошибка при подтверждении вашего адреса электронной почты"
+            },
+            "sv": {
+                "singular": "Tyvärr uppstod ett fel när din e-postadress skulle verifieras"
+            }
+        }
+    }
+}

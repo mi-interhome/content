@@ -1,0 +1,126 @@
+{
+    "id": "webccBooking.components.common.bookingSteps.step1",
+    "name": "step1",
+    "path": "text-resourceswebccBooking/components/common/bookingSteps/step1",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/common/bookingSteps/step1",
+    "slug": "step1",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "common",
+        "bookingSteps",
+        "step1"
+    ],
+    "content": {
+        "key": "webccBooking.components.common.bookingSteps.step1",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše údaje"
+            },
+            "da": {
+                "singular": "Adresseinformationer"
+            },
+            "de": {
+                "singular": "Daten eingeben"
+            },
+            "de-AT": {
+                "singular": "Daten eingeben"
+            },
+            "de-CH": {
+                "singular": "Daten eingeben"
+            },
+            "de-DE": {
+                "singular": "Daten eingeben"
+            },
+            "en": {
+                "singular": "Enter your details "
+            },
+            "en-AU": {
+                "singular": "Enter your details "
+            },
+            "en-CA": {
+                "singular": "Enter your details "
+            },
+            "en-GB": {
+                "singular": "Enter your details "
+            },
+            "en-IE": {
+                "singular": "Enter your details "
+            },
+            "en-US": {
+                "singular": "Enter your details "
+            },
+            "es": {
+                "singular": "Datos personales"
+            },
+            "fi": {
+                "singular": "Tietosi"
+            },
+            "fi-EE": {
+                "singular": "Tietosi"
+            },
+            "fi-FI": {
+                "singular": "Tietosi"
+            },
+            "fr": {
+                "singular": "Coordonnées et Options"
+            },
+            "fr-BE": {
+                "singular": "Coordonnées et Options"
+            },
+            "fr-CA": {
+                "singular": "Coordonnées et Options"
+            },
+            "fr-CH": {
+                "singular": "Coordonnées et Options"
+            },
+            "fr-FR": {
+                "singular": "Coordonnées et Options"
+            },
+            "hr": {
+                "singular": "Vaši podaci"
+            },
+            "it": {
+                "singular": "I tuoi dati"
+            },
+            "it-CH": {
+                "singular": "I tuoi dati"
+            },
+            "it-IT": {
+                "singular": "Inserisci i tuoi dati"
+            },
+            "nl": {
+                "singular": "Adresgegevens"
+            },
+            "nl-BE": {
+                "singular": "Adresgegevens"
+            },
+            "nl-NL": {
+                "singular": "Adresgegevens"
+            },
+            "no": {
+                "singular": "Dine opplysninger"
+            },
+            "pl": {
+                "singular": "Dane adresowe"
+            },
+            "pt": {
+                "singular": "Introduza os seus dados"
+            },
+            "ru": {
+                "singular": "Ваши данные"
+            },
+            "sv": {
+                "singular": "Dina uppgifter"
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Vacancy.legend.discount",
+    "name": "discount",
+    "path": "text-resourceswww/components/views/details/Vacancy/legend/discount",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Vacancy/legend/discount",
+    "slug": "discount",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Vacancy",
+        "legend",
+        "discount"
+    ],
+    "content": {
+        "key": "www.components.views.details.Vacancy.legend.discount",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Speciální cena: Termín příjezdu se slevou"
+            },
+            "da": {
+                "singular": "Specialpris: ankomstdato til rabat"
+            },
+            "de": {
+                "singular": "Profitieren Sie: Anreisedatum mit Spezialpreis"
+            },
+            "de-AT": {
+                "singular": "Profitieren Sie: Anreisedatum mit Spezialpreis"
+            },
+            "de-CH": {
+                "singular": "Profitieren Sie: Anreisedatum mit Spezialpreis"
+            },
+            "de-DE": {
+                "singular": "Profitieren Sie: Anreisedatum mit Spezialpreis"
+            },
+            "en": {
+                "singular": "Special price: Arrival date with discount"
+            },
+            "en-AU": {
+                "singular": "Special price: Arrival date with discount"
+            },
+            "en-CA": {
+                "singular": "Special price: Arrival date with discount"
+            },
+            "en-GB": {
+                "singular": "Special price: Arrival date with discount"
+            },
+            "en-IE": {
+                "singular": "Special price: Arrival date with discount"
+            },
+            "en-US": {
+                "singular": "Special price: Arrival date with discount"
+            },
+            "es": {
+                "singular": "Precio especial: fecha de llegada con descuento"
+            },
+            "fi": {
+                "singular": "Tarjoushinta: saapumispäivällä alennus"
+            },
+            "fi-EE": {
+                "singular": "Tarjoushinta: saapumispäivällä alennus"
+            },
+            "fi-FI": {
+                "singular": "Tarjoushinta: saapumispäivällä alennus"
+            },
+            "fr": {
+                "singular": "Promotion: date d'arrivée à tarif spécial"
+            },
+            "fr-BE": {
+                "singular": "Promotion: date d'arrivée à tarif spécial"
+            },
+            "fr-CA": {
+                "singular": "Promotion: date d'arrivée à tarif spécial"
+            },
+            "fr-CH": {
+                "singular": "Promotion: date d'arrivée à tarif spécial"
+            },
+            "fr-FR": {
+                "singular": "Promotion: date d'arrivée à tarif spécial"
+            },
+            "hr": {
+                "singular": "Posebna cijena: datum dolaska uz popust"
+            },
+            "it": {
+                "singular": "Prezzo speciale: data di arrivo con sconto"
+            },
+            "it-CH": {
+                "singular": "Prezzo speciale: data di arrivo con sconto"
+            },
+            "it-IT": {
+                "singular": "Prezzo speciale: data di arrivo con sconto"
+            },
+            "nl": {
+                "singular": "Speciale prijs: aankomstdatum met korting"
+            },
+            "nl-BE": {
+                "singular": "Speciale prijs: aankomstdatum met korting"
+            },
+            "nl-NL": {
+                "singular": "Speciale prijs: aankomstdatum met korting"
+            },
+            "no": {
+                "singular": "Spesialpris: ankomstdato til rabatt"
+            },
+            "pl": {
+                "singular": "Promocja: cena specjalna w wybranym terminie"
+            },
+            "pt": {
+                "singular": "Preço especial: data de chegada com desconto\r\n"
+            },
+            "ru": {
+                "singular": "Специальная цена: дата заезда со скидкой"
+            },
+            "sv": {
+                "singular": "Specialpris: ankomstdatum med rabatt"
+            }
+        }
+    }
+}

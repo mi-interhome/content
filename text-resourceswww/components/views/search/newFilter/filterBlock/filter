@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.newFilter.filterBlock.filter",
+    "name": "filter",
+    "path": "text-resourceswww/components/views/search/newFilter/filterBlock/filter",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/newFilter/filterBlock/filter",
+    "slug": "filter",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "newFilter",
+        "filterBlock",
+        "filter"
+    ],
+    "content": {
+        "key": "www.components.views.search.newFilter.filterBlock.filter",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "upřesnit vyhledávání"
+            },
+            "da": {
+                "singular": "Forbedr din søgning"
+            },
+            "de": {
+                "singular": "Suche verfeinern"
+            },
+            "de-AT": {
+                "singular": "Suche verfeinern"
+            },
+            "de-CH": {
+                "singular": "Suche verfeinern"
+            },
+            "de-DE": {
+                "singular": "Suche verfeinern"
+            },
+            "en": {
+                "singular": "refine search"
+            },
+            "en-AU": {
+                "singular": "refine search"
+            },
+            "en-CA": {
+                "singular": "refine search"
+            },
+            "en-GB": {
+                "singular": "refine search"
+            },
+            "en-IE": {
+                "singular": "refine search"
+            },
+            "en-US": {
+                "singular": "refine search"
+            },
+            "es": {
+                "singular": "mejorar búsqueda"
+            },
+            "fi": {
+                "singular": "Tarkenna hakua"
+            },
+            "fi-EE": {
+                "singular": "tarkenna hakua"
+            },
+            "fi-FI": {
+                "singular": "Tarkenna hakua"
+            },
+            "fr": {
+                "singular": "affiner la recherche"
+            },
+            "fr-BE": {
+                "singular": "affiner la recherche"
+            },
+            "fr-CA": {
+                "singular": "affiner la recherche"
+            },
+            "fr-CH": {
+                "singular": "affiner la recherche"
+            },
+            "fr-FR": {
+                "singular": "affiner la recherche"
+            },
+            "hr": {
+                "singular": "precizirajte pretragu"
+            },
+            "it": {
+                "singular": "Affina la ricerca"
+            },
+            "it-CH": {
+                "singular": "Affina la ricerca"
+            },
+            "it-IT": {
+                "singular": "Affina la ricerca"
+            },
+            "nl": {
+                "singular": "Definiëer zoekopdracht"
+            },
+            "nl-BE": {
+                "singular": "Definiëer zoekopdracht"
+            },
+            "nl-NL": {
+                "singular": "Definiëer zoekopdracht"
+            },
+            "no": {
+                "singular": "Forbedre ditt søk"
+            },
+            "pl": {
+                "singular": "Kryteria"
+            },
+            "pt": {
+                "singular": "refinar a pesquisa"
+            },
+            "ru": {
+                "singular": " Поиск"
+            },
+            "sv": {
+                "singular": "förfina din sökning"
+            }
+        }
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "booking.pax.babiesAgeRange",
+    "name": "babiesAgeRange",
+    "path": "text-resourcesbooking/pax/babiesAgeRange",
+    "folder": "text-resources",
+    "full_slug": "booking/pax/babiesAgeRange",
+    "slug": "babiesAgeRange",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "pax",
+        "babiesAgeRange"
+    ],
+    "content": {
+        "key": "booking.pax.babiesAgeRange",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "(do 24 měsíců)"
+            },
+            "da": {
+                "singular": "(op til 24 måneder)"
+            },
+            "de": {
+                "singular": "(bis 24 Monate)"
+            },
+            "de-AT": {
+                "singular": "(bis 24 Monate)"
+            },
+            "de-CH": {
+                "singular": "(bis 24 Monate)"
+            },
+            "de-DE": {
+                "singular": "(bis 24 Monate)"
+            },
+            "en": {
+                "singular": "(up to 24 months)"
+            },
+            "en-AU": {
+                "singular": "(up to 24 months)"
+            },
+            "en-CA": {
+                "singular": "(up to 24 months)"
+            },
+            "en-GB": {
+                "singular": "(up to 24 months)"
+            },
+            "en-IE": {
+                "singular": "(up to 24 months)"
+            },
+            "en-US": {
+                "singular": "(up to 24 months)"
+            },
+            "es": {
+                "singular": "(hasta 24 meses)"
+            },
+            "fi": {
+                "singular": "(enintään 24 kuukautta)"
+            },
+            "fi-EE": {
+                "singular": "(enintään 24 kuukautta)"
+            },
+            "fi-FI": {
+                "singular": "(enintään 24 kuukautta)"
+            },
+            "fr": {
+                "singular": "(jusqu'à 24 mois)"
+            },
+            "fr-BE": {
+                "singular": "(jusqu'à 24 mois)"
+            },
+            "fr-CA": {
+                "singular": "(jusqu'à 24 mois)"
+            },
+            "fr-CH": {
+                "singular": "(jusqu'à 24 mois)"
+            },
+            "fr-FR": {
+                "singular": "(jusqu'à 24 mois)"
+            },
+            "hr": {
+                "singular": "(0-24 mjeseca)"
+            },
+            "it": {
+                "singular": "(0-2 anni)"
+            },
+            "it-CH": {
+                "singular": "(0-2 anni)"
+            },
+            "it-IT": {
+                "singular": "(0-2 anni)"
+            },
+            "nl": {
+                "singular": "(tot 24 maanden)"
+            },
+            "nl-BE": {
+                "singular": "(tot 24 maanden)"
+            },
+            "nl-NL": {
+                "singular": "(tot 24 maanden)"
+            },
+            "no": {
+                "singular": "(opptil 24 måneder)"
+            },
+            "pl": {
+                "singular": "(0-24 miesiące)"
+            },
+            "pt": {
+                "singular": "(até aos 24 meses)"
+            },
+            "ru": {
+                "singular": "(до 24 месяцев)"
+            },
+            "sv": {
+                "singular": "(upp till 24 månader)"
+            }
+        }
+    }
+}

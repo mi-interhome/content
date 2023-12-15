@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.search.content.WeatherInfo.min",
+    "name": "min",
+    "path": "text-resourceswww/components/views/search/content/WeatherInfo/min",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/content/WeatherInfo/min",
+    "slug": "min",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "content",
+        "WeatherInfo",
+        "min"
+    ],
+    "content": {
+        "key": "www.components.views.search.content.WeatherInfo.min",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "min. {value}° "
+            },
+            "da": {
+                "singular": "min. {value}° "
+            },
+            "de": {
+                "singular": "min. {value}°"
+            },
+            "de-AT": {
+                "singular": "min. {value}°"
+            },
+            "de-CH": {
+                "singular": "min. {value}°"
+            },
+            "de-DE": {
+                "singular": "min. {value}°"
+            },
+            "en": {
+                "singular": "min. {value}° "
+            },
+            "en-AU": {
+                "singular": "min. {value}° "
+            },
+            "en-CA": {
+                "singular": "min. {value}° "
+            },
+            "en-GB": {
+                "singular": "min. {value}° "
+            },
+            "en-IE": {
+                "singular": "min. {value}° "
+            },
+            "en-US": {
+                "singular": "min. {value}° "
+            },
+            "es": {
+                "singular": "min. {value}°"
+            },
+            "fi": {
+                "singular": "min. {value}° "
+            },
+            "fi-EE": {
+                "singular": "min. {value}° "
+            },
+            "fi-FI": {
+                "singular": "min. {value}° "
+            },
+            "fr": {
+                "singular": "min. {value}°"
+            },
+            "fr-BE": {
+                "singular": "min. {value}°"
+            },
+            "fr-CA": {
+                "singular": "min. {value}°"
+            },
+            "fr-CH": {
+                "singular": "min. {value}°"
+            },
+            "fr-FR": {
+                "singular": "min. {value}°"
+            },
+            "hr": {
+                "singular": "min. {value}° "
+            },
+            "it": {
+                "singular": "min. {value}° "
+            },
+            "it-CH": {
+                "singular": "min. {value}° "
+            },
+            "it-IT": {
+                "singular": "min. {value}° "
+            },
+            "nl": {
+                "singular": "min. {value}°"
+            },
+            "nl-BE": {
+                "singular": "min. {value}°"
+            },
+            "nl-NL": {
+                "singular": "min. {value}°"
+            },
+            "no": {
+                "singular": "min. {value}° "
+            },
+            "pl": {
+                "singular": "min. {value}° "
+            },
+            "pt": {
+                "singular": "min. {value}°"
+            },
+            "ru": {
+                "singular": "min. {value}° "
+            },
+            "sv": {
+                "singular": "min. {value}° "
+            }
+        }
+    }
+}

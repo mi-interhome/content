@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.error.language_unavailable",
+    "name": "language_unavailable",
+    "path": "text-resourceswebccSalesportal/error/language_unavailable",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/error/language_unavailable",
+    "slug": "language_unavailable",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "error",
+        "language_unavailable"
+    ],
+    "content": {
+        "key": "webccSalesportal.error.language_unavailable",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Tento jazyk není pro aktuální stránku k dispozici"
+            },
+            "da": {
+                "singular": "Dette sprog er ikke tilgængeligt på den aktuelle side"
+            },
+            "de": {
+                "singular": "Diese Seite ist nicht in Ihrer Sprache verfügbar"
+            },
+            "de-AT": {
+                "singular": "Diese Seite ist nicht in Ihrer Sprache verfügbar"
+            },
+            "de-CH": {
+                "singular": "Diese Seite ist nicht in Ihrer Sprache verfügbar"
+            },
+            "de-DE": {
+                "singular": "Diese Seite ist nicht in Ihrer Sprache verfügbar"
+            },
+            "en": {
+                "singular": "This language is not available for the current page"
+            },
+            "en-AU": {
+                "singular": "This language is not available for the current page"
+            },
+            "en-CA": {
+                "singular": "This language is not available for the current page"
+            },
+            "en-GB": {
+                "singular": "This language is not available for the current page"
+            },
+            "en-IE": {
+                "singular": "This language is not available for the current page"
+            },
+            "en-US": {
+                "singular": "This language is not available for the current page"
+            },
+            "es": {
+                "singular": "Este idioma no está disponible para esta página"
+            },
+            "fi": {
+                "singular": "Valitsemaasi kieltä ei tueta tällä sivulla"
+            },
+            "fi-EE": {
+                "singular": "Sivua jota etsit, ei ole enää olemassa."
+            },
+            "fi-FI": {
+                "singular": "Valitsemaasi kieltä ei tueta tällä sivulla"
+            },
+            "fr": {
+                "singular": "La langue souhaitée n'est pas disponible sur cette page"
+            },
+            "fr-BE": {
+                "singular": "La langue souhaitée n'est pas disponible sur cette page"
+            },
+            "fr-CA": {
+                "singular": "La langue souhaitée n'est pas disponible sur cette page"
+            },
+            "fr-CH": {
+                "singular": "La langue souhaitée n'est pas disponible sur cette page"
+            },
+            "fr-FR": {
+                "singular": "La langue souhaitée n'est pas disponible sur cette page"
+            },
+            "hr": {
+                "singular": "Ovaj jezik nije dostupan za stranicu na kojoj se nalazite"
+            },
+            "it": {
+                "singular": "Questa lingua non è disponibile per questa sezione"
+            },
+            "it-CH": {
+                "singular": "Questa lingua non è disponibile per questa sezione"
+            },
+            "it-IT": {
+                "singular": "Questa lingua non è disponibile per questa sezione"
+            },
+            "nl": {
+                "singular": "Deze taal is niet beschikbaar voor de huidige pagina"
+            },
+            "nl-BE": {
+                "singular": "Deze taal is niet beschikbaar voor de huidige pagina"
+            },
+            "nl-NL": {
+                "singular": "Deze taal is niet beschikbaar voor de huidige pagina"
+            },
+            "no": {
+                "singular": "Dette språket er ikke tilgjengelig for den aktuelle siden"
+            },
+            "pl": {
+                "singular": "Ta wersja językowa nie jest dostępna dla wyświetlanej strony"
+            },
+            "pt": {
+                "singular": "Este idioma não está disponível para a página atual"
+            },
+            "ru": {
+                "singular": "Эта страница недоступна на Вашем языке"
+            },
+            "sv": {
+                "singular": "Det här språket är inte tillgängligt för den aktuella sidan"
+            }
+        }
+    }
+}

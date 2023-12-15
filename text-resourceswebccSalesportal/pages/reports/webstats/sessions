@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.pages.reports.webstats.sessions",
+    "name": "sessions",
+    "path": "text-resourceswebccSalesportal/pages/reports/webstats/sessions",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/pages/reports/webstats/sessions",
+    "slug": "sessions",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "pages",
+        "reports",
+        "webstats",
+        "sessions"
+    ],
+    "content": {
+        "key": "webccSalesportal.pages.reports.webstats.sessions",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Relace"
+            },
+            "da": {
+                "singular": "Sessioner"
+            },
+            "de": {
+                "singular": "Sitzungen"
+            },
+            "de-AT": {
+                "singular": "Sitzungen"
+            },
+            "de-CH": {
+                "singular": "Sitzungen"
+            },
+            "de-DE": {
+                "singular": "Sitzungen"
+            },
+            "en": {
+                "singular": "Sessions"
+            },
+            "en-AU": {
+                "singular": "Sessions"
+            },
+            "en-CA": {
+                "singular": "Sessions"
+            },
+            "en-GB": {
+                "singular": "Sessions"
+            },
+            "en-IE": {
+                "singular": "Sessions"
+            },
+            "en-US": {
+                "singular": "Sessions"
+            },
+            "es": {
+                "singular": "Sesiones"
+            },
+            "fi": {
+                "singular": "Istunnot"
+            },
+            "fi-EE": {
+                "singular": "Istunnot"
+            },
+            "fi-FI": {
+                "singular": "Istunnot"
+            },
+            "fr": {
+                "singular": "Sessions"
+            },
+            "fr-BE": {
+                "singular": "Sessions"
+            },
+            "fr-CA": {
+                "singular": "Sessions"
+            },
+            "fr-CH": {
+                "singular": "Sessions"
+            },
+            "fr-FR": {
+                "singular": "Sessions"
+            },
+            "hr": {
+                "singular": "Sjednice"
+            },
+            "it": {
+                "singular": "Sessioni"
+            },
+            "it-CH": {
+                "singular": "Sessioni"
+            },
+            "it-IT": {
+                "singular": "Sessioni"
+            },
+            "nl": {
+                "singular": "Sessies"
+            },
+            "nl-BE": {
+                "singular": "Sessies"
+            },
+            "nl-NL": {
+                "singular": "Sessies"
+            },
+            "no": {
+                "singular": "Økter"
+            },
+            "pl": {
+                "singular": "Sesje"
+            },
+            "pt": {
+                "singular": "Sessões"
+            },
+            "ru": {
+                "singular": "Сессии"
+            },
+            "sv": {
+                "singular": "Sessioner"
+            }
+        }
+    }
+}

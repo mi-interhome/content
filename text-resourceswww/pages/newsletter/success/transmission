@@ -1,0 +1,126 @@
+{
+    "id": "www.pages.newsletter.success.transmission",
+    "name": "transmission",
+    "path": "text-resourceswww/pages/newsletter/success/transmission",
+    "folder": "text-resources",
+    "full_slug": "www/pages/newsletter/success/transmission",
+    "slug": "transmission",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "newsletter",
+        "success",
+        "transmission"
+    ],
+    "content": {
+        "key": "www.pages.newsletter.success.transmission",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vaše údaje byly úspěšně odeslány."
+            },
+            "da": {
+                "singular": "Dine data er blevet indsendt."
+            },
+            "de": {
+                "singular": "Ihre Daten wurden erfolgreich übermittelt."
+            },
+            "de-AT": {
+                "singular": "Ihre Daten wurden erfolgreich übermittelt."
+            },
+            "de-CH": {
+                "singular": "Ihre Daten wurden erfolgreich übermittelt."
+            },
+            "de-DE": {
+                "singular": "Ihre Daten wurden erfolgreich übermittelt."
+            },
+            "en": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "en-AU": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "en-CA": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "en-GB": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "en-IE": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "en-US": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "es": {
+                "singular": "Sus datos han sido enviados con éxito."
+            },
+            "fi": {
+                "singular": "Tietosi on lähetetty onnistuneesti."
+            },
+            "fi-EE": {
+                "singular": "Your data has been successfully submitted."
+            },
+            "fi-FI": {
+                "singular": "Tietosi on lähetetty onnistuneesti."
+            },
+            "fr": {
+                "singular": "Vos données ont été transmises avec succès."
+            },
+            "fr-BE": {
+                "singular": "Vos données ont été transmises avec succès."
+            },
+            "fr-CA": {
+                "singular": "Vos données ont été transmises avec succès."
+            },
+            "fr-CH": {
+                "singular": "Vos données ont été transmises avec succès."
+            },
+            "fr-FR": {
+                "singular": "Vos données ont été transmises avec succès."
+            },
+            "hr": {
+                "singular": "Vaši su podaci uspješno poslani."
+            },
+            "it": {
+                "singular": "I dati sono stati trasmessi con successo."
+            },
+            "it-CH": {
+                "singular": "I dati sono stati trasmessi con successo."
+            },
+            "it-IT": {
+                "singular": "I dati sono stati trasmessi con successo."
+            },
+            "nl": {
+                "singular": "Uw gegevens zijn succesvol ingediend."
+            },
+            "nl-BE": {
+                "singular": "Uw gegevens zijn succesvol ingediend."
+            },
+            "nl-NL": {
+                "singular": "Uw gegevens zijn succesvol ingediend."
+            },
+            "no": {
+                "singular": "Dine data er sendt inn."
+            },
+            "pl": {
+                "singular": "Państwa dane zostały pomyślnie przesłane."
+            },
+            "pt": {
+                "singular": "Os seus dados foram enviados com sucesso."
+            },
+            "ru": {
+                "singular": "Ваши данные успешно переданы."
+            },
+            "sv": {
+                "singular": "Dina uppgifter har skickats."
+            }
+        }
+    }
+}

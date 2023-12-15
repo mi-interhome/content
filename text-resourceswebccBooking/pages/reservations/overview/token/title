@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.pages.reservations.overview.token.title",
+    "name": "title",
+    "path": "text-resourceswebccBooking/pages/reservations/overview/token/title",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/pages/reservations/overview/token/title",
+    "slug": "title",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "pages",
+        "reservations",
+        "overview",
+        "token",
+        "title"
+    ],
+    "content": {
+        "key": "webccBooking.pages.reservations.overview.token.title",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím Váš elektronický klíč"
+            },
+            "da": {
+                "singular": "Indtast dit token"
+            },
+            "de": {
+                "singular": "Bitte geben Sie Ihr Token ein"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie Ihr Token ein"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie Ihr Token ein"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie Ihr Token ein"
+            },
+            "en": {
+                "singular": "Please enter your token"
+            },
+            "en-AU": {
+                "singular": "Please enter your token"
+            },
+            "en-CA": {
+                "singular": "Please enter your token"
+            },
+            "en-GB": {
+                "singular": "Please enter your token"
+            },
+            "en-IE": {
+                "singular": "Please enter your token"
+            },
+            "en-US": {
+                "singular": "Please enter your token"
+            },
+            "es": {
+                "singular": "Por favor, introduzca su token"
+            },
+            "fi": {
+                "singular": "Ole hyvä ja syötä tunnisteesi"
+            },
+            "fi-EE": {
+                "singular": "Please enter your token"
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja syötä tunnisteesi"
+            },
+            "fr": {
+                "singular": "Veuillez saisir votre token"
+            },
+            "fr-BE": {
+                "singular": "Veuillez saisir votre token"
+            },
+            "fr-CA": {
+                "singular": "Veuillez saisir votre token"
+            },
+            "fr-CH": {
+                "singular": "Veuillez saisir votre token"
+            },
+            "fr-FR": {
+                "singular": "Veuillez saisir votre token"
+            },
+            "hr": {
+                "singular": "Molimo unesite Vaš token"
+            },
+            "it": {
+                "singular": "Si prega di inserire il token"
+            },
+            "it-CH": {
+                "singular": "Si prega di inserire il token"
+            },
+            "it-IT": {
+                "singular": "Si prega di inserire il token"
+            },
+            "nl": {
+                "singular": "Voer uw token in"
+            },
+            "nl-BE": {
+                "singular": "Voer uw token in"
+            },
+            "nl-NL": {
+                "singular": "Voer uw token in"
+            },
+            "no": {
+                "singular": "Angi tokenet ditt"
+            },
+            "pl": {
+                "singular": "Prosimy podać swój token"
+            },
+            "pt": {
+                "singular": "Por favor, insira o seu token"
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите свой токен"
+            },
+            "sv": {
+                "singular": "Vänligen ange din kod"
+            }
+        }
+    }
+}

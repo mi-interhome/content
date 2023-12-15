@@ -1,0 +1,126 @@
+{
+    "id": "www.components.site.DomainLanguageSwitcher.countryAndLanguage",
+    "name": "countryAndLanguage",
+    "path": "text-resourceswww/components/site/DomainLanguageSwitcher/countryAndLanguage",
+    "folder": "text-resources",
+    "full_slug": "www/components/site/DomainLanguageSwitcher/countryAndLanguage",
+    "slug": "countryAndLanguage",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "site",
+        "DomainLanguageSwitcher",
+        "countryAndLanguage"
+    ],
+    "content": {
+        "key": "www.components.site.DomainLanguageSwitcher.countryAndLanguage",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vyberte zemi a jazyk"
+            },
+            "da": {
+                "singular": "Vælg dit land og sprog"
+            },
+            "de": {
+                "singular": "Wählen Sie Ihr Land und Ihre Sprache"
+            },
+            "de-AT": {
+                "singular": "Wählen Sie Ihr Land und Ihre Sprache"
+            },
+            "de-CH": {
+                "singular": "Wählen Sie Ihr Land und Ihre Sprache"
+            },
+            "de-DE": {
+                "singular": "Wählen Sie Ihr Land und Ihre Sprache"
+            },
+            "en": {
+                "singular": "Choose your country and language"
+            },
+            "en-AU": {
+                "singular": "Choose your country and language"
+            },
+            "en-CA": {
+                "singular": "Choose your country and language"
+            },
+            "en-GB": {
+                "singular": "Choose your country and language"
+            },
+            "en-IE": {
+                "singular": "Choose your country and language"
+            },
+            "en-US": {
+                "singular": "Choose your country and language"
+            },
+            "es": {
+                "singular": "Elija su país e idioma"
+            },
+            "fi": {
+                "singular": "Valitse maa ja kieli"
+            },
+            "fi-EE": {
+                "singular": "Valitse maa ja kieli"
+            },
+            "fi-FI": {
+                "singular": "Valitse maa ja kieli"
+            },
+            "fr": {
+                "singular": "Choisissez votre pays et votre langue"
+            },
+            "fr-BE": {
+                "singular": "Choisissez votre pays et votre langue"
+            },
+            "fr-CA": {
+                "singular": "Choisissez votre pays et votre langue"
+            },
+            "fr-CH": {
+                "singular": "Choisissez votre pays et votre langue"
+            },
+            "fr-FR": {
+                "singular": "Choisissez votre pays et votre langue"
+            },
+            "hr": {
+                "singular": "Odaberi zemlju i jezik"
+            },
+            "it": {
+                "singular": "Choose your country and language"
+            },
+            "it-CH": {
+                "singular": "Choose your country and language"
+            },
+            "it-IT": {
+                "singular": "Choose your country and language"
+            },
+            "nl": {
+                "singular": "Kies uw land en taal "
+            },
+            "nl-BE": {
+                "singular": "Kies uw land en taal "
+            },
+            "nl-NL": {
+                "singular": "Kies uw land en taal "
+            },
+            "no": {
+                "singular": "Velg ditt land og språk"
+            },
+            "pl": {
+                "singular": "Wybierz kraj i język"
+            },
+            "pt": {
+                "singular": "Escolha o seu país e idioma"
+            },
+            "ru": {
+                "singular": "Выберите страну и язык"
+            },
+            "sv": {
+                "singular": "Välj ditt land och språk"
+            }
+        }
+    }
+}

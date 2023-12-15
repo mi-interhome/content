@@ -1,0 +1,127 @@
+{
+    "id": "checkout.components.booking.closing.nextSteps.two",
+    "name": "two",
+    "path": "text-resourcescheckout/components/booking/closing/nextSteps/two",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/closing/nextSteps/two",
+    "slug": "two",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "closing",
+        "nextSteps",
+        "two"
+    ],
+    "content": {
+        "key": "checkout.components.booking.closing.nextSteps.two",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Faktura Vám bude odeslána v následujících dnech."
+            },
+            "da": {
+                "singular": "Fakturaen vil blive sendt til dig indenfor de næste par dage."
+            },
+            "de": {
+                "singular": "Die Rechnung wird Ihnen in den nächsten Tagen zugeschickt."
+            },
+            "de-AT": {
+                "singular": "Die Rechnung wird Ihnen in den nächsten Tagen zugeschickt."
+            },
+            "de-CH": {
+                "singular": "Die Rechnung wird Ihnen in den nächsten Tagen zugeschickt."
+            },
+            "de-DE": {
+                "singular": "Die Rechnung wird Ihnen in den nächsten Tagen zugeschickt."
+            },
+            "en": {
+                "singular": "An invoice will be sent to you in the next few days. "
+            },
+            "en-AU": {
+                "singular": "An invoice will be sent to you in the next few days. "
+            },
+            "en-CA": {
+                "singular": "An invoice will be sent to you in the next few days. "
+            },
+            "en-GB": {
+                "singular": "An invoice will be sent to you in the next few days. "
+            },
+            "en-IE": {
+                "singular": "An invoice will be sent to you in the next few days. "
+            },
+            "en-US": {
+                "singular": "An invoice will be sent to you in the next few days. "
+            },
+            "es": {
+                "singular": "Le enviaremos la factura en los próximos días"
+            },
+            "fi": {
+                "singular": "Lasku lähetetään sinulle muutaman päivän sisällä-"
+            },
+            "fi-EE": {
+                "singular": "Lasku lähetetään sinulle muutaman päivän sisällä."
+            },
+            "fi-FI": {
+                "singular": "Lasku lähetetään sinulle muutaman päivän sisällä-"
+            },
+            "fr": {
+                "singular": "La facture vous sera envoyée dans les prochains jours."
+            },
+            "fr-BE": {
+                "singular": "La facture vous sera envoyée dans les prochains jours."
+            },
+            "fr-CA": {
+                "singular": "La facture vous sera envoyée dans les prochains jours."
+            },
+            "fr-CH": {
+                "singular": "La facture vous sera envoyée dans les prochains jours."
+            },
+            "fr-FR": {
+                "singular": "La facture vous sera envoyée dans les prochains jours."
+            },
+            "hr": {
+                "singular": "Račun ćemo Vam poslati u narednim danima."
+            },
+            "it": {
+                "singular": "Nei prossimi giorni riceverai il nostro estratto conto"
+            },
+            "it-CH": {
+                "singular": "Nei prossimi giorni riceverai il nostro estratto conto"
+            },
+            "it-IT": {
+                "singular": "Nei prossimi giorni riceverai il nostro estratto conto"
+            },
+            "nl": {
+                "singular": "De definitieve bevestiging (factuur) ontvangt u binnen enkele dagen."
+            },
+            "nl-BE": {
+                "singular": "De definitieve bevestiging (factuur) ontvangt u binnen enkele dagen."
+            },
+            "nl-NL": {
+                "singular": "De definitieve bevestiging (factuur) ontvangt u binnen enkele dagen."
+            },
+            "no": {
+                "singular": "Fakturaen vil bli sendt til deg i løpet av de neste dagene."
+            },
+            "pl": {
+                "singular": "Umowa rezerwacji zostanie wysłana w osobnym mailu. "
+            },
+            "pt": {
+                "singular": "A fatura será enviada nos próximos dias"
+            },
+            "ru": {
+                "singular": "Счет будет отправлен в течение нескольких дней"
+            },
+            "sv": {
+                "singular": "Fakturan kommer att skickas till dig inom de närmaste dagarna."
+            }
+        }
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "id": "www.components.common.Chatbot.placeholder",
+    "name": "placeholder",
+    "path": "text-resourceswww/components/common/Chatbot/placeholder",
+    "folder": "text-resources",
+    "full_slug": "www/components/common/Chatbot/placeholder",
+    "slug": "placeholder",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "common",
+        "Chatbot",
+        "placeholder"
+    ],
+    "content": {
+        "key": "www.components.common.Chatbot.placeholder",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {},
+            "da": {},
+            "de": {
+                "singular": "Nachricht hier eingeben..."
+            },
+            "de-AT": {
+                "singular": "Nachricht hier eingeben..."
+            },
+            "de-CH": {
+                "singular": "Nachricht hier eingeben..."
+            },
+            "de-DE": {
+                "singular": "Nachricht hier eingeben..."
+            },
+            "en": {},
+            "en-AU": {},
+            "en-CA": {},
+            "en-GB": {},
+            "en-IE": {},
+            "en-US": {},
+            "es": {},
+            "fi": {},
+            "fi-EE": {},
+            "fi-FI": {},
+            "fr": {},
+            "fr-BE": {},
+            "fr-CA": {},
+            "fr-CH": {},
+            "fr-FR": {},
+            "hr": {},
+            "it": {},
+            "it-CH": {},
+            "it-IT": {},
+            "nl": {},
+            "nl-BE": {},
+            "nl-NL": {},
+            "no": {},
+            "pl": {},
+            "pt": {},
+            "ru": {},
+            "sv": {}
+        }
+    }
+}

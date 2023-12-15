@@ -1,0 +1,127 @@
+{
+    "id": "webccBooking.components.reservation.refund.modalIban.error",
+    "name": "error",
+    "path": "text-resourceswebccBooking/components/reservation/refund/modalIban/error",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/refund/modalIban/error",
+    "slug": "error",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "refund",
+        "modalIban",
+        "error"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.refund.modalIban.error",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte platný IBAN."
+            },
+            "da": {
+                "singular": "Indtast et gyldigt IBAN-nummer."
+            },
+            "de": {
+                "singular": "Bitte geben Sie eine gültige IBAN ein."
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie eine gültige IBAN ein."
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie eine gültige IBAN ein."
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie eine gültige IBAN ein."
+            },
+            "en": {
+                "singular": "Please enter a valid IBAN."
+            },
+            "en-AU": {
+                "singular": "Please enter a valid IBAN."
+            },
+            "en-CA": {
+                "singular": "Please enter a valid IBAN."
+            },
+            "en-GB": {
+                "singular": "Please enter a valid IBAN."
+            },
+            "en-IE": {
+                "singular": "Please enter a valid IBAN."
+            },
+            "en-US": {
+                "singular": "Please enter a valid IBAN."
+            },
+            "es": {
+                "singular": "Por favor, introduzca un IBAN válido."
+            },
+            "fi": {
+                "singular": "Ole hyvä ja syötä voimassa oleva IBAN."
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja syötä voimassa oleva IBAN."
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja syötä voimassa oleva IBAN."
+            },
+            "fr": {
+                "singular": "Veuillez saisir un no. IBAN valide."
+            },
+            "fr-BE": {
+                "singular": "Veuillez saisir un no. IBAN valide."
+            },
+            "fr-CA": {
+                "singular": "Veuillez saisir un no. IBAN valide."
+            },
+            "fr-CH": {
+                "singular": "Veuillez saisir un no. IBAN valide."
+            },
+            "fr-FR": {
+                "singular": "Veuillez saisir un no. IBAN valide."
+            },
+            "hr": {
+                "singular": "Molimo unesite važeći IBAN."
+            },
+            "it": {
+                "singular": "Si prega di inserire un codice IBAN valido."
+            },
+            "it-CH": {
+                "singular": "Si prega di inserire un codice IBAN valido."
+            },
+            "it-IT": {
+                "singular": "Si prega di inserire un codice IBAN valido."
+            },
+            "nl": {
+                "singular": "Vul alstublieft een geldig IBAN in"
+            },
+            "nl-BE": {
+                "singular": "Vul alstublieft een geldig IBAN in"
+            },
+            "nl-NL": {
+                "singular": "Vul alstublieft een geldig IBAN in"
+            },
+            "no": {
+                "singular": "Skriv in et gyldig IBAN-nummer."
+            },
+            "pl": {
+                "singular": "Prosimy podać poprawny IBAN"
+            },
+            "pt": {
+                "singular": "Insira um IBAN válido."
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите действительный IBAN."
+            },
+            "sv": {
+                "singular": "Skriv in ett giltigt IBAN-nummer."
+            }
+        }
+    }
+}

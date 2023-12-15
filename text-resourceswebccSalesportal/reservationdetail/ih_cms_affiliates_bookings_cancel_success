@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.reservationdetail.ih_cms_affiliates_bookings_cancel_success",
+    "name": "ih_cms_affiliates_bookings_cancel_success",
+    "path": "text-resourceswebccSalesportal/reservationdetail/ih_cms_affiliates_bookings_cancel_success",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/reservationdetail/ih_cms_affiliates_bookings_cancel_success",
+    "slug": "ih_cms_affiliates_bookings_cancel_success",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "reservationdetail",
+        "ih_cms_affiliates_bookings_cancel_success"
+    ],
+    "content": {
+        "key": "webccSalesportal.reservationdetail.ih_cms_affiliates_bookings_cancel_success",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Tato rezervace byla úspěšně zrušena"
+            },
+            "da": {
+                "singular": "Reservationen er nu afbestilt"
+            },
+            "de": {
+                "singular": "Die Buchung wurde erfolgreich storniert"
+            },
+            "de-AT": {
+                "singular": "Die Buchung wurde erfolgreich storniert"
+            },
+            "de-CH": {
+                "singular": "Die Buchung wurde erfolgreich storniert"
+            },
+            "de-DE": {
+                "singular": "Die Buchung wurde erfolgreich storniert"
+            },
+            "en": {
+                "singular": "The booking was cancelled successfully"
+            },
+            "en-AU": {
+                "singular": "The booking was cancelled successfully"
+            },
+            "en-CA": {
+                "singular": "The booking was cancelled successfully"
+            },
+            "en-GB": {
+                "singular": "The booking was cancelled successfully"
+            },
+            "en-IE": {
+                "singular": "The booking was cancelled successfully"
+            },
+            "en-US": {
+                "singular": "The booking was cancelled successfully"
+            },
+            "es": {
+                "singular": "La reserva se ha cancelado correctamente"
+            },
+            "fi": {
+                "singular": "Varaus on peruttu"
+            },
+            "fi-EE": {
+                "singular": "Varaus on peruttu"
+            },
+            "fi-FI": {
+                "singular": "Varaus on peruttu"
+            },
+            "fr": {
+                "singular": "La réservation a été annulée avec succès"
+            },
+            "fr-BE": {
+                "singular": "La réservation a été annulée avec succès"
+            },
+            "fr-CA": {
+                "singular": "La réservation a été annulée avec succès"
+            },
+            "fr-CH": {
+                "singular": "La réservation a été annulée avec succès"
+            },
+            "fr-FR": {
+                "singular": "La réservation a été annulée avec succès"
+            },
+            "hr": {
+                "singular": "Rezervacija je otkazana"
+            },
+            "it": {
+                "singular": "La prenotazione è stata cancellata con successo"
+            },
+            "it-CH": {
+                "singular": "La prenotazione è stata cancellata con successo"
+            },
+            "it-IT": {
+                "singular": "La prenotazione è stata cancellata con successo"
+            },
+            "nl": {
+                "singular": "De boeking is succesvol geannuleerd"
+            },
+            "nl-BE": {
+                "singular": "De boeking is succesvol geannuleerd"
+            },
+            "nl-NL": {
+                "singular": "De boeking is succesvol geannuleerd"
+            },
+            "no": {
+                "singular": "Bookingen har avbookets"
+            },
+            "pl": {
+                "singular": "Rezerwacja została anulowana"
+            },
+            "pt": {
+                "singular": "A reserva foi cancelada com sucesso"
+            },
+            "ru": {
+                "singular": "Бронирование отменено"
+            },
+            "sv": {
+                "singular": "Bokningen har avbokats"
+            }
+        }
+    }
+}

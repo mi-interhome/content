@@ -1,0 +1,127 @@
+{
+    "id": "precheckin.components.forms.travellersForm.labels.profession",
+    "name": "profession",
+    "path": "text-resourcesprecheckin/components/forms/travellersForm/labels/profession",
+    "folder": "text-resources",
+    "full_slug": "precheckin/components/forms/travellersForm/labels/profession",
+    "slug": "profession",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "components",
+        "forms",
+        "travellersForm",
+        "labels",
+        "profession"
+    ],
+    "content": {
+        "key": "precheckin.components.forms.travellersForm.labels.profession",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zaměstnání"
+            },
+            "da": {
+                "singular": "Profession"
+            },
+            "de": {
+                "singular": "Beruf"
+            },
+            "de-AT": {
+                "singular": "Beruf"
+            },
+            "de-CH": {
+                "singular": "Beruf"
+            },
+            "de-DE": {
+                "singular": "Beruf"
+            },
+            "en": {
+                "singular": "Profession"
+            },
+            "en-AU": {
+                "singular": "Profession"
+            },
+            "en-CA": {
+                "singular": "Profession"
+            },
+            "en-GB": {
+                "singular": "Profession"
+            },
+            "en-IE": {
+                "singular": "Profession"
+            },
+            "en-US": {
+                "singular": "Profession"
+            },
+            "es": {
+                "singular": "Empleo"
+            },
+            "fi": {
+                "singular": "Ammatti"
+            },
+            "fi-EE": {
+                "singular": "Ammatti"
+            },
+            "fi-FI": {
+                "singular": "Ammatti"
+            },
+            "fr": {
+                "singular": "Profession"
+            },
+            "fr-BE": {
+                "singular": "Profession"
+            },
+            "fr-CA": {
+                "singular": "Profession"
+            },
+            "fr-CH": {
+                "singular": "Profession"
+            },
+            "fr-FR": {
+                "singular": "Profession"
+            },
+            "hr": {
+                "singular": "Zanimanje"
+            },
+            "it": {
+                "singular": "Profession"
+            },
+            "it-CH": {
+                "singular": "Profession"
+            },
+            "it-IT": {
+                "singular": "Professione"
+            },
+            "nl": {
+                "singular": "Beroep"
+            },
+            "nl-BE": {
+                "singular": "Beroep"
+            },
+            "nl-NL": {
+                "singular": "Beroep"
+            },
+            "no": {
+                "singular": "Yrke"
+            },
+            "pl": {
+                "singular": "Zawód"
+            },
+            "pt": {
+                "singular": "Profissão"
+            },
+            "ru": {
+                "singular": "Profession"
+            },
+            "sv": {
+                "singular": "Yrke"
+            }
+        }
+    }
+}

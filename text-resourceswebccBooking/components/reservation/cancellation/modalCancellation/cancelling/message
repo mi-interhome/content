@@ -1,0 +1,128 @@
+{
+    "id": "webccBooking.components.reservation.cancellation.modalCancellation.cancelling.message",
+    "name": "message",
+    "path": "text-resourceswebccBooking/components/reservation/cancellation/modalCancellation/cancelling/message",
+    "folder": "text-resources",
+    "full_slug": "webccBooking/components/reservation/cancellation/modalCancellation/cancelling/message",
+    "slug": "message",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccBooking",
+        "components",
+        "reservation",
+        "cancellation",
+        "modalCancellation",
+        "cancelling",
+        "message"
+    ],
+    "content": {
+        "key": "webccBooking.components.reservation.cancellation.modalCancellation.cancelling.message",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Může to chvíli trvat. Nezavírejte prosím toto okno prohlížeče."
+            },
+            "da": {
+                "singular": "Dette kan tage noget tid. Luk ikke siden."
+            },
+            "de": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie den Dialog nicht."
+            },
+            "de-AT": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie den Dialog nicht."
+            },
+            "de-CH": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie den Dialog nicht."
+            },
+            "de-DE": {
+                "singular": "Das kann ein bisschen dauern. Bitte schließen sie den Dialog nicht."
+            },
+            "en": {
+                "singular": "This may take a while. Please do not close the dialogue."
+            },
+            "en-AU": {
+                "singular": "This may take a while. Please do not close the dialogue."
+            },
+            "en-CA": {
+                "singular": "This may take a while. Please do not close the dialogue."
+            },
+            "en-GB": {
+                "singular": "This may take a while. Please do not close the dialogue."
+            },
+            "en-IE": {
+                "singular": "This may take a while. Please do not close the dialogue."
+            },
+            "en-US": {
+                "singular": "This may take a while. Please do not close the dialogue."
+            },
+            "es": {
+                "singular": "Esto puede llevar un tiempo. Por favor, no cierre esta ventana."
+            },
+            "fi": {
+                "singular": "Tässä voi kestää hetken. Ole hyvä ja odota sulkematta selainikkunaa."
+            },
+            "fi-EE": {
+                "singular": "Tässä voi kestää hetken. Ole hyvä ja odota sulkematta selainikkunaa."
+            },
+            "fi-FI": {
+                "singular": "Tässä voi kestää hetken. Ole hyvä ja odota sulkematta selainikkunaa."
+            },
+            "fr": {
+                "singular": "Cela peut durer un instant, merci de ne pas fermer cette fenêtre."
+            },
+            "fr-BE": {
+                "singular": "Cela peut durer un instant, merci de ne pas fermer cette fenêtre."
+            },
+            "fr-CA": {
+                "singular": "Cela peut durer un instant, merci de ne pas fermer cette fenêtre."
+            },
+            "fr-CH": {
+                "singular": "Cela peut durer un instant, merci de ne pas fermer cette fenêtre."
+            },
+            "fr-FR": {
+                "singular": "Cela peut durer un instant, merci de ne pas fermer cette fenêtre."
+            },
+            "hr": {
+                "singular": "Ovo može potrajati. Molimo da ne zatvarate ovaj prozor."
+            },
+            "it": {
+                "singular": "Potrebbe volerci un po' di tempo. La preghiamo di non chiudere questa finestra."
+            },
+            "it-CH": {
+                "singular": "Potrebbe volerci un po' di tempo. La preghiamo di non chiudere questa finestra."
+            },
+            "it-IT": {
+                "singular": "Potrebbe volerci un po' di tempo. La preghiamo di non chiudere questa finestra."
+            },
+            "nl": {
+                "singular": "Dit kan even duren. Sluit dit scherm alstublieft niet"
+            },
+            "nl-BE": {
+                "singular": "Dit kan even duren. Sluit dit scherm alstublieft niet"
+            },
+            "nl-NL": {
+                "singular": "Dit kan even duren. Sluit dit scherm alstublieft niet"
+            },
+            "no": {
+                "singular": "Dette kan ta litt tid. Ikke lukk siden."
+            },
+            "pl": {
+                "singular": "Prosimy zaczekać i nie zamykać tego okna."
+            },
+            "pt": {
+                "singular": "Esta ação pode demorar um pouco. Por favor, não feche esta janela."
+            },
+            "ru": {
+                "singular": "Это может занять некоторое время. Пожалуйста, не закрывайте это окно."
+            },
+            "sv": {
+                "singular": "Detta kan ta lite tid. Var vänlig stäng inte sidan."
+            }
+        }
+    }
+}

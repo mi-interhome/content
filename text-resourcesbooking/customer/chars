@@ -1,0 +1,124 @@
+{
+    "id": "booking.customer.chars",
+    "name": "chars",
+    "path": "text-resourcesbooking/customer/chars",
+    "folder": "text-resources",
+    "full_slug": "booking/customer/chars",
+    "slug": "chars",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "customer",
+        "chars"
+    ],
+    "content": {
+        "key": "booking.customer.chars",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Další kritéria:"
+            },
+            "da": {
+                "singular": "Tegn tilbage:"
+            },
+            "de": {
+                "singular": "Verbleibende Zeichen:"
+            },
+            "de-AT": {
+                "singular": "Verbleibende Zeichen:"
+            },
+            "de-CH": {
+                "singular": "Verbleibende Zeichen:"
+            },
+            "de-DE": {
+                "singular": "Verbleibende Zeichen:"
+            },
+            "en": {
+                "singular": "Remaining characters:"
+            },
+            "en-AU": {
+                "singular": "Remaining characters:"
+            },
+            "en-CA": {
+                "singular": "Remaining characters:"
+            },
+            "en-GB": {
+                "singular": "Remaining characters:"
+            },
+            "en-IE": {
+                "singular": "Remaining characters:"
+            },
+            "en-US": {
+                "singular": "Remaining characters:"
+            },
+            "es": {
+                "singular": "Caracteres:"
+            },
+            "fi": {
+                "singular": "Merkkejä jäljellä:"
+            },
+            "fi-EE": {
+                "singular": "Merkkejä jäljellä:"
+            },
+            "fi-FI": {
+                "singular": "Merkkejä jäljellä:"
+            },
+            "fr": {
+                "singular": "Caractères :"
+            },
+            "fr-BE": {
+                "singular": "Caractères :"
+            },
+            "fr-CA": {
+                "singular": "Caractères :"
+            },
+            "fr-CH": {
+                "singular": "Caractères restants:"
+            },
+            "fr-FR": {
+                "singular": "Caractères restants :"
+            },
+            "hr": {
+                "singular": "Preostalo znakova:"
+            },
+            "it": {
+                "singular": "Caratteri:"
+            },
+            "it-CH": {
+                "singular": "Caratteri:"
+            },
+            "it-IT": {
+                "singular": "Caratteri rimanenti"
+            },
+            "nl": {
+                "singular": "Resterende tekens:"
+            },
+            "nl-BE": {
+                "singular": "Resterende tekens:"
+            },
+            "nl-NL": {
+                "singular": "Resterende tekens:"
+            },
+            "no": {
+                "singular": "Gjenværende tegn:"
+            },
+            "pl": {
+                "singular": "Max ilość znaków:"
+            },
+            "pt": {
+                "singular": "Caracteres restantes:"
+            },
+            "ru": {
+                "singular": "Осталось символов:"
+            },
+            "sv": {
+                "singular": "Återstående tecken:"
+            }
+        }
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "id": "www.components.views.details.Attributes.views.lake_view",
+    "name": "lake_view",
+    "path": "text-resourceswww/components/views/details/Attributes/views/lake_view",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/details/Attributes/views/lake_view",
+    "slug": "lake_view",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "details",
+        "Attributes",
+        "views",
+        "lake_view"
+    ],
+    "content": {
+        "key": "www.components.views.details.Attributes.views.lake_view",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Výhled na jezero"
+            },
+            "da": {
+                "singular": "Søudsigt"
+            },
+            "de": {
+                "singular": "Seeblick"
+            },
+            "de-AT": {
+                "singular": "Seeblick"
+            },
+            "de-CH": {
+                "singular": "Seeblick"
+            },
+            "de-DE": {
+                "singular": "Seeblick"
+            },
+            "en": {
+                "singular": "Lake view"
+            },
+            "en-AU": {
+                "singular": "Lake view"
+            },
+            "en-CA": {
+                "singular": "Lake view"
+            },
+            "en-GB": {
+                "singular": "Lake view"
+            },
+            "en-IE": {
+                "singular": "Lake view"
+            },
+            "en-US": {
+                "singular": "Lake view"
+            },
+            "es": {
+                "singular": "Vista al lago"
+            },
+            "fi": {
+                "singular": "Järvinäkymä"
+            },
+            "fi-EE": {
+                "singular": "Järvinäkymä"
+            },
+            "fi-FI": {
+                "singular": "Järvinäkymä"
+            },
+            "fr": {
+                "singular": "Vue lac"
+            },
+            "fr-BE": {
+                "singular": "Vue lac"
+            },
+            "fr-CA": {
+                "singular": "Vue lac"
+            },
+            "fr-CH": {
+                "singular": "Vue lac"
+            },
+            "fr-FR": {
+                "singular": "Vue lac"
+            },
+            "hr": {
+                "singular": "Pogled na jezero"
+            },
+            "it": {
+                "singular": "Vista sul lago"
+            },
+            "it-CH": {
+                "singular": "Vista sul lago"
+            },
+            "it-IT": {
+                "singular": "Vista sul lago"
+            },
+            "nl": {
+                "singular": "Uitzicht over meer"
+            },
+            "nl-BE": {
+                "singular": "Uitzicht over meer"
+            },
+            "nl-NL": {
+                "singular": "Uitzicht over meer"
+            },
+            "no": {
+                "singular": "Sjøutsikt"
+            },
+            "pl": {
+                "singular": "Widok na jezioro"
+            },
+            "pt": {
+                "singular": "Vista de lado"
+            },
+            "ru": {
+                "singular": "Вид на озеро"
+            },
+            "sv": {
+                "singular": "Sjöutsikt"
+            }
+        }
+    }
+}

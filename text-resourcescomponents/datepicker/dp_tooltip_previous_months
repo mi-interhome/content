@@ -1,0 +1,124 @@
+{
+    "id": "components.datepicker.dp_tooltip_previous_months",
+    "name": "dp_tooltip_previous_months",
+    "path": "text-resourcescomponents/datepicker/dp_tooltip_previous_months",
+    "folder": "text-resources",
+    "full_slug": "components/datepicker/dp_tooltip_previous_months",
+    "slug": "dp_tooltip_previous_months",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "components",
+        "datepicker",
+        "dp_tooltip_previous_months"
+    ],
+    "content": {
+        "key": "components.datepicker.dp_tooltip_previous_months",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "předchozí měsíce"
+            },
+            "da": {
+                "singular": "foregående måneder"
+            },
+            "de": {
+                "singular": "Vorherige Monate"
+            },
+            "de-AT": {
+                "singular": "Vorherige Monate"
+            },
+            "de-CH": {
+                "singular": "Vorherige Monate"
+            },
+            "de-DE": {
+                "singular": "Vorherige Monate"
+            },
+            "en": {
+                "singular": "Previous months"
+            },
+            "en-AU": {
+                "singular": "Previous months"
+            },
+            "en-CA": {
+                "singular": "Previous months"
+            },
+            "en-GB": {
+                "singular": "Previous months"
+            },
+            "en-IE": {
+                "singular": "Previous months"
+            },
+            "en-US": {
+                "singular": "Previous months"
+            },
+            "es": {
+                "singular": "Meses previos"
+            },
+            "fi": {
+                "singular": "Edelliset kuukaudet"
+            },
+            "fi-EE": {
+                "singular": "Edelliset kuukaudet"
+            },
+            "fi-FI": {
+                "singular": "Edelliset kuukaudet"
+            },
+            "fr": {
+                "singular": "Voir les mois précédents"
+            },
+            "fr-BE": {
+                "singular": "Voir les mois précédents"
+            },
+            "fr-CA": {
+                "singular": "Voir les mois précédents"
+            },
+            "fr-CH": {
+                "singular": "Voir les mois précédents"
+            },
+            "fr-FR": {
+                "singular": "Voir les mois précédents"
+            },
+            "hr": {
+                "singular": "Prethodni mjeseci"
+            },
+            "it": {
+                "singular": "Mesi precedenti"
+            },
+            "it-CH": {
+                "singular": "Mesi precedenti"
+            },
+            "it-IT": {
+                "singular": "Mesi precedenti"
+            },
+            "nl": {
+                "singular": "Vorige maanden"
+            },
+            "nl-BE": {
+                "singular": "Vorige maanden"
+            },
+            "nl-NL": {
+                "singular": "Vorige maanden"
+            },
+            "no": {
+                "singular": "foregående måneder"
+            },
+            "pl": {
+                "singular": "wcześniejsze miesiące"
+            },
+            "pt": {
+                "singular": "meses anteriores"
+            },
+            "ru": {
+                "singular": "предыдущие месяца"
+            },
+            "sv": {
+                "singular": "föregående månader"
+            }
+        }
+    }
+}

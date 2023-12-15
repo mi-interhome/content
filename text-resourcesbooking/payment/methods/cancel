@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.methods.cancel",
+    "name": "cancel",
+    "path": "text-resourcesbooking/payment/methods/cancel",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/methods/cancel",
+    "slug": "cancel",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "methods",
+        "cancel"
+    ],
+    "content": {
+        "key": "booking.payment.methods.cancel",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zrušit"
+            },
+            "da": {
+                "singular": "Annullér"
+            },
+            "de": {
+                "singular": "Abbrechen"
+            },
+            "de-AT": {
+                "singular": "Abbrechen"
+            },
+            "de-CH": {
+                "singular": "Abbrechen"
+            },
+            "de-DE": {
+                "singular": "Abbrechen"
+            },
+            "en": {
+                "singular": "Cancel"
+            },
+            "en-AU": {
+                "singular": "Cancel"
+            },
+            "en-CA": {
+                "singular": "Cancel"
+            },
+            "en-GB": {
+                "singular": "Cancel"
+            },
+            "en-IE": {
+                "singular": "Cancel"
+            },
+            "en-US": {
+                "singular": "Cancel"
+            },
+            "es": {
+                "singular": "Cancel"
+            },
+            "fi": {
+                "singular": "Peruuta"
+            },
+            "fi-EE": {
+                "singular": "Peruuta"
+            },
+            "fi-FI": {
+                "singular": "Peruuta"
+            },
+            "fr": {
+                "singular": "Annuler"
+            },
+            "fr-BE": {
+                "singular": "Annuler"
+            },
+            "fr-CA": {
+                "singular": "Annuler"
+            },
+            "fr-CH": {
+                "singular": "Annuler"
+            },
+            "fr-FR": {
+                "singular": "Annuler"
+            },
+            "hr": {
+                "singular": "Poništi"
+            },
+            "it": {
+                "singular": "Cancella"
+            },
+            "it-CH": {
+                "singular": "Cancella"
+            },
+            "it-IT": {
+                "singular": "Cancella"
+            },
+            "nl": {
+                "singular": "Annuleren"
+            },
+            "nl-BE": {
+                "singular": "Annuleren"
+            },
+            "nl-NL": {
+                "singular": "Annuleren"
+            },
+            "no": {
+                "singular": "Avbryt"
+            },
+            "pl": {
+                "singular": "Zamknij"
+            },
+            "pt": {
+                "singular": "Cancelar"
+            },
+            "ru": {
+                "singular": "Отмена"
+            },
+            "sv": {
+                "singular": "Avbryt"
+            }
+        }
+    }
+}

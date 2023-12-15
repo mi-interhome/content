@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.changepassword.enterID",
+    "name": "enterID",
+    "path": "text-resourceswebccSalesportal/changepassword/enterID",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/changepassword/enterID",
+    "slug": "enterID",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "changepassword",
+        "enterID"
+    ],
+    "content": {
+        "key": "webccSalesportal.changepassword.enterID",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zadejte prosím Vaše č. PartnerId"
+            },
+            "da": {
+                "singular": "Indtast venligst dit PartnerId"
+            },
+            "de": {
+                "singular": "Bitte geben Sie Ihre Partner ID ein"
+            },
+            "de-AT": {
+                "singular": "Bitte geben Sie Ihre Partner ID ein"
+            },
+            "de-CH": {
+                "singular": "Bitte geben Sie Ihre Partner ID ein"
+            },
+            "de-DE": {
+                "singular": "Bitte geben Sie Ihre Partner ID ein"
+            },
+            "en": {
+                "singular": "Please enter your partnerId"
+            },
+            "en-AU": {
+                "singular": "Please enter your partnerId"
+            },
+            "en-CA": {
+                "singular": "Please enter your partnerId"
+            },
+            "en-GB": {
+                "singular": "Please enter your partnerId"
+            },
+            "en-IE": {
+                "singular": "Please enter your partnerId"
+            },
+            "en-US": {
+                "singular": "Please enter your partnerId"
+            },
+            "es": {
+                "singular": "Por favor inserte su Partner ID"
+            },
+            "fi": {
+                "singular": "Ole hyvä ja kirjoita PartnerID"
+            },
+            "fi-EE": {
+                "singular": "Ole hyvä ja kirjoita PartnerID"
+            },
+            "fi-FI": {
+                "singular": "Ole hyvä ja kirjoita PartnerID"
+            },
+            "fr": {
+                "singular": "Veuillez rentrer votre ID partenaire"
+            },
+            "fr-BE": {
+                "singular": "Veuillez rentrer votre ID partenaire"
+            },
+            "fr-CA": {
+                "singular": "Veuillez rentrer votre ID partenaire"
+            },
+            "fr-CH": {
+                "singular": "Veuillez rentrer votre ID partenaire"
+            },
+            "fr-FR": {
+                "singular": "Veuillez rentrer votre ID partenaire"
+            },
+            "hr": {
+                "singular": "Molimo unesite svoju Partner oznaku"
+            },
+            "it": {
+                "singular": "Inserire il proprio codice partner"
+            },
+            "it-CH": {
+                "singular": "Inserire il proprio codice partner"
+            },
+            "it-IT": {
+                "singular": "Inserire il proprio codice partner"
+            },
+            "nl": {
+                "singular": "Voer uw partner-Id in"
+            },
+            "nl-BE": {
+                "singular": "Voer uw partner-Id in"
+            },
+            "nl-NL": {
+                "singular": "Voer uw partner-Id in"
+            },
+            "no": {
+                "singular": "Angi partner-ID-en din"
+            },
+            "pl": {
+                "singular": "Prosimy o wprowadzenie  ID partnera"
+            },
+            "pt": {
+                "singular": "Insira o seu ID de parceiro"
+            },
+            "ru": {
+                "singular": "Пожалуйста, введите ваш PartnerId"
+            },
+            "sv": {
+                "singular": "Vänligen ange ditt partnerID."
+            }
+        }
+    }
+}

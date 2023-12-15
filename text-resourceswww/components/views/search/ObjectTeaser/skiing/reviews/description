@@ -1,0 +1,127 @@
+{
+    "id": "www.components.views.search.ObjectTeaser.skiing.reviews.description",
+    "name": "description",
+    "path": "text-resourceswww/components/views/search/ObjectTeaser/skiing/reviews/description",
+    "folder": "text-resources",
+    "full_slug": "www/components/views/search/ObjectTeaser/skiing/reviews/description",
+    "slug": "description",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "components",
+        "views",
+        "search",
+        "ObjectTeaser",
+        "skiing",
+        "reviews",
+        "description"
+    ],
+    "content": {
+        "key": "www.components.views.search.ObjectTeaser.skiing.reviews.description",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "{destination} – užijte si zimní radovánky v našich nejlépe hodnocených prázdninových ubytováních, dokonale přizpůsobených pro Vaši nezapomenutelnou dovolenou na lyžích."
+            },
+            "da": {
+                "singular": "Nyd vintersjov med vores topbedømte ferieboliger i {destination}, ideelt beliggende til din uforglemmelige skiferie."
+            },
+            "de": {
+                "singular": "Genießen Sie den Winterspaß mit unseren top-bewerteten Ferienunterkünften in {destination}, perfekt gelegen für Ihren unvergesslichen Skiurlaub."
+            },
+            "de-AT": {
+                "singular": "Genießen Sie den Winterspaß mit unseren top-bewerteten Ferienunterkünften in {destination}, perfekt gelegen für Ihren unvergesslichen Skiurlaub."
+            },
+            "de-CH": {
+                "singular": "Genießen Sie den Winterspass mit unseren top-bewerteten Ferienunterkünften in {destination}, perfekt gelegen für unvergessliche Skiferien."
+            },
+            "de-DE": {
+                "singular": "Genießen Sie den Winterspaß mit unseren top-bewerteten Ferienunterkünften in {destination}, perfekt gelegen für Ihren unvergesslichen Skiurlaub."
+            },
+            "en": {
+                "singular": "Embrace the winter fun with our top-rated holiday accommodations in {destination}, perfectly situated for your unforgettable skiing holidays."
+            },
+            "en-AU": {
+                "singular": "Embrace the winter fun with our top-rated holiday accommodations in {destination}, perfectly situated for your unforgettable skiing holidays."
+            },
+            "en-CA": {
+                "singular": "Embrace the winter fun with our top-rated holiday accommodations in {destination}, perfectly situated for your unforgettable skiing holidays."
+            },
+            "en-GB": {
+                "singular": "Embrace the winter fun with our top-rated holiday accommodations in {destination}, perfectly situated for your unforgettable skiing holidays."
+            },
+            "en-IE": {
+                "singular": "Embrace the winter fun with our top-rated holiday accommodations in {destination}, perfectly situated for your unforgettable skiing holidays."
+            },
+            "en-US": {
+                "singular": "Embrace the winter fun with our top-rated holiday accommodations in {destination}, perfectly situated for your unforgettable skiing holidays."
+            },
+            "es": {
+                "singular": "Disfrute del invierno con nuestros alojamientos de primera categoría en {destination}, perfectamente situados para pasar unas vacaciones de esquí inolvidables."
+            },
+            "fi": {
+                "singular": "Nauti talven iloista parhaiten arvioiduissa loma-asunnoissamme paikassa {destination}, täydellinen sijainti unohtumattomaan hiihtolomaan."
+            },
+            "fi-EE": {
+                "singular": "Nauti talven iloista parhaiten arvioiduissa loma-asunnoissamme paikassa {destination}, täydellinen sijainti unohtumattomaan hiihtolomaan."
+            },
+            "fi-FI": {
+                "singular": "Nauti talven iloista parhaiten arvioiduissa loma-asunnoissamme paikassa {destination}, täydellinen sijainti unohtumattomaan hiihtolomaan."
+            },
+            "fr": {
+                "singular": "Profitez des plaisirs de l'hiver grâce à nos hébergements de vacances {destination} les mieux classés et parfaitement situés, pour des vacances de ski inoubliables."
+            },
+            "fr-BE": {
+                "singular": "Profitez des plaisirs de l'hiver grâce à nos hébergements de vacances {destination} les mieux classés et parfaitement situés, pour des vacances de ski inoubliables."
+            },
+            "fr-CA": {
+                "singular": "Profitez des plaisirs de l'hiver grâce à nos hébergements de vacances {destination} les mieux classés et parfaitement situés, pour des vacances de ski inoubliables."
+            },
+            "fr-CH": {
+                "singular": "Profitez des plaisirs de l'hiver grâce à nos hébergements de vacances {destination} les mieux classés et parfaitement situés, pour des vacances de ski inoubliables."
+            },
+            "fr-FR": {
+                "singular": "Profitez des plaisirs de l'hiver grâce à nos hébergements de vacances {destination} les mieux classés et parfaitement situés, pour des vacances de ski inoubliables."
+            },
+            "hr": {
+                "singular": "Prihvatite zimsku zabavu uz naš najbolje ocijenjeni smještaj za odmor u {destination}, savršeno smješten za Vaše nezaboravne skijaške praznike."
+            },
+            "it": {
+                "singular": "Abbraccia il divertimento invernale con le nostre migliori sistemazioni per le vacanze a {destination}, in posizione perfetta per indimenticabili vacanze sulla neve."
+            },
+            "it-CH": {
+                "singular": "Abbraccia il divertimento invernale con le nostre migliori sistemazioni per le vacanze a {destination}, in posizione perfetta per indimenticabili vacanze sulla neve."
+            },
+            "it-IT": {
+                "singular": "Abbraccia il divertimento invernale con le nostre migliori sistemazioni per le vacanze a {destination}, in posizione perfetta per indimenticabili vacanze sulla neve."
+            },
+            "nl": {
+                "singular": "Omarm het winterplezier met onze best beoordeelde accommodaties in {destination}, perfect gelegen voor een onvergetelijke wintersportvakantie."
+            },
+            "nl-BE": {
+                "singular": "Omarm het winterplezier met onze best beoordeelde accommodaties in {destination}, perfect gelegen voor een onvergetelijke wintersportvakantie."
+            },
+            "nl-NL": {
+                "singular": "Omarm het winterplezier met onze best beoordeelde accommodaties in {destination}, perfect gelegen voor een onvergetelijke wintersportvakantie."
+            },
+            "no": {
+                "singular": "Ta del i vinterens gleder med våre topprangerte ferieboliger i {destination}, som ligger perfekt til for en uforglemmelig skiferie."
+            },
+            "pl": {
+                "singular": "{destination}: ciesz się urokami zimy w najlepiej ocenianych domkach tuż przy stokach narciarskich w topowych narciarskich resortach."
+            },
+            "pt": {
+                "singular": "Aproveite a diversão do inverno nos nossos alojamentos de férias em {destination} com uma localização perfeita para umas férias de esqui inesquecíveis."
+            },
+            "ru": {},
+            "sv": {
+                "singular": "Maximal vinterglädje i våra topprankade semesterbostäder i {destination}, perfekt belägna för en oförglömlig skidsemester."
+            }
+        }
+    }
+}

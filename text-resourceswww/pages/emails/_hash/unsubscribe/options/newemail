@@ -1,0 +1,128 @@
+{
+    "id": "www.pages.emails._hash.unsubscribe.options.newemail",
+    "name": "newemail",
+    "path": "text-resourceswww/pages/emails/_hash/unsubscribe/options/newemail",
+    "folder": "text-resources",
+    "full_slug": "www/pages/emails/_hash/unsubscribe/options/newemail",
+    "slug": "newemail",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "emails",
+        "_hash",
+        "unsubscribe",
+        "options",
+        "newemail"
+    ],
+    "content": {
+        "key": "www.pages.emails._hash.unsubscribe.options.newemail",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Nová e-mailová adresa"
+            },
+            "da": {
+                "singular": "Ny email adresse"
+            },
+            "de": {
+                "singular": "Neue E-Mail-Adresse"
+            },
+            "de-AT": {
+                "singular": "Neue E-Mail-Adresse"
+            },
+            "de-CH": {
+                "singular": "Neue E-Mail-Adresse"
+            },
+            "de-DE": {
+                "singular": "Neue E-Mail-Adresse"
+            },
+            "en": {
+                "singular": "New e-mail address"
+            },
+            "en-AU": {
+                "singular": "New e-mail address"
+            },
+            "en-CA": {
+                "singular": "New e-mail address"
+            },
+            "en-GB": {
+                "singular": "New e-mail address"
+            },
+            "en-IE": {
+                "singular": "New e-mail address"
+            },
+            "en-US": {
+                "singular": "New e-mail address"
+            },
+            "es": {
+                "singular": "Nueva dirección de email"
+            },
+            "fi": {
+                "singular": "Uusi sähköpostiosoite"
+            },
+            "fi-EE": {
+                "singular": "New e-mail address"
+            },
+            "fi-FI": {
+                "singular": "Uusi sähköpostiosoite"
+            },
+            "fr": {
+                "singular": "Nouvelle adresse mail"
+            },
+            "fr-BE": {
+                "singular": "Nouvelle adresse mail"
+            },
+            "fr-CA": {
+                "singular": "Nouvelle adresse mail"
+            },
+            "fr-CH": {
+                "singular": "Nouvelle adresse mail"
+            },
+            "fr-FR": {
+                "singular": "Nouvelle adresse mail"
+            },
+            "hr": {
+                "singular": "Nova mail adresa"
+            },
+            "it": {
+                "singular": "Nuovo indirizzo e-mail"
+            },
+            "it-CH": {
+                "singular": "Nuovo indirizzo e-mail"
+            },
+            "it-IT": {
+                "singular": "Nuovo indirizzo e-mail"
+            },
+            "nl": {
+                "singular": "Nieuw e-mail adres"
+            },
+            "nl-BE": {
+                "singular": "Nieuw e-mail adres"
+            },
+            "nl-NL": {
+                "singular": "Nieuw e-mail adres"
+            },
+            "no": {
+                "singular": "Din epostadresse"
+            },
+            "pl": {
+                "singular": "Nowy adres email"
+            },
+            "pt": {
+                "singular": "E-mail novo"
+            },
+            "ru": {
+                "singular": "Новый адрес электронной почты"
+            },
+            "sv": {
+                "singular": "Din e-postadress"
+            }
+        }
+    }
+}

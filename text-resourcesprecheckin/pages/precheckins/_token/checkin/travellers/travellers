@@ -1,0 +1,128 @@
+{
+    "id": "precheckin.pages.precheckins._token.checkin.travellers.travellers",
+    "name": "travellers",
+    "path": "text-resourcesprecheckin/pages/precheckins/_token/checkin/travellers/travellers",
+    "folder": "text-resources",
+    "full_slug": "precheckin/pages/precheckins/_token/checkin/travellers/travellers",
+    "slug": "travellers",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "precheckin",
+        "pages",
+        "precheckins",
+        "_token",
+        "checkin",
+        "travellers",
+        "travellers"
+    ],
+    "content": {
+        "key": "precheckin.pages.precheckins._token.checkin.travellers.travellers",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Cestující"
+            },
+            "da": {
+                "singular": "Gæster"
+            },
+            "de": {
+                "singular": "Reisende"
+            },
+            "de-AT": {
+                "singular": "Reisende"
+            },
+            "de-CH": {
+                "singular": "Reisende"
+            },
+            "de-DE": {
+                "singular": "Reisende"
+            },
+            "en": {
+                "singular": "Travellers"
+            },
+            "en-AU": {
+                "singular": "Travellers"
+            },
+            "en-CA": {
+                "singular": "Travellers"
+            },
+            "en-GB": {
+                "singular": "Travellers"
+            },
+            "en-IE": {
+                "singular": "Travellers"
+            },
+            "en-US": {
+                "singular": "Travellers"
+            },
+            "es": {
+                "singular": "Viajeros"
+            },
+            "fi": {
+                "singular": "Matkustajat"
+            },
+            "fi-EE": {
+                "singular": "Matkustajat"
+            },
+            "fi-FI": {
+                "singular": "Matkustajat"
+            },
+            "fr": {
+                "singular": "Voyageurs"
+            },
+            "fr-BE": {
+                "singular": "Voyageurs"
+            },
+            "fr-CA": {
+                "singular": "Voyageurs"
+            },
+            "fr-CH": {
+                "singular": "Voyageurs"
+            },
+            "fr-FR": {
+                "singular": "Voyageurs"
+            },
+            "hr": {
+                "singular": "Putnici"
+            },
+            "it": {
+                "singular": "Ospiti"
+            },
+            "it-CH": {
+                "singular": "Ospiti"
+            },
+            "it-IT": {
+                "singular": "Ospiti"
+            },
+            "nl": {
+                "singular": "Reizigers"
+            },
+            "nl-BE": {
+                "singular": "Reizigers"
+            },
+            "nl-NL": {
+                "singular": "Reizigers"
+            },
+            "no": {
+                "singular": "Reisende"
+            },
+            "pl": {
+                "singular": "Podróżni"
+            },
+            "pt": {
+                "singular": "Viajantes"
+            },
+            "ru": {
+                "singular": "Туристы"
+            },
+            "sv": {
+                "singular": "Resande"
+            }
+        }
+    }
+}

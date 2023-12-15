@@ -1,0 +1,127 @@
+{
+    "id": "reservations.pages.review.rating.awayWith.spouse",
+    "name": "spouse",
+    "path": "text-resourcesreservations/pages/review/rating/awayWith/spouse",
+    "folder": "text-resources",
+    "full_slug": "reservations/pages/review/rating/awayWith/spouse",
+    "slug": "spouse",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "reservations",
+        "pages",
+        "review",
+        "rating",
+        "awayWith",
+        "spouse"
+    ],
+    "content": {
+        "key": "reservations.pages.review.rating.awayWith.spouse",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Druh/partner"
+            },
+            "da": {
+                "singular": "Med ægtefælle/partner"
+            },
+            "de": {
+                "singular": "Ehepartner/Partner"
+            },
+            "de-AT": {
+                "singular": "Ehepartner/Partner"
+            },
+            "de-CH": {
+                "singular": "Ehepartner/Partner"
+            },
+            "de-DE": {
+                "singular": "Ehepartner/Partner"
+            },
+            "en": {
+                "singular": "Spouse/Partner"
+            },
+            "en-AU": {
+                "singular": "Spouse/Partner"
+            },
+            "en-CA": {
+                "singular": "Spouse/Partner"
+            },
+            "en-GB": {
+                "singular": "Spouse/Partner"
+            },
+            "en-IE": {
+                "singular": "Spouse/Partner"
+            },
+            "en-US": {
+                "singular": "Spouse/Partner"
+            },
+            "es": {
+                "singular": "Con mi pareja"
+            },
+            "fi": {
+                "singular": "Aviopuoliso/avopuoliso"
+            },
+            "fi-EE": {
+                "singular": "Puoliso"
+            },
+            "fi-FI": {
+                "singular": "Aviopuoliso/avopuoliso"
+            },
+            "fr": {
+                "singular": "Avec mon époux(se) / partenaire"
+            },
+            "fr-BE": {
+                "singular": "Avec mon époux(se) / partenaire"
+            },
+            "fr-CA": {
+                "singular": "Avec mon époux(se) / partenaire"
+            },
+            "fr-CH": {
+                "singular": "Avec mon époux(se)/partenaire"
+            },
+            "fr-FR": {
+                "singular": "Avec mon époux(se) / partenaire"
+            },
+            "hr": {
+                "singular": "Sa suprugom / partnerom"
+            },
+            "it": {
+                "singular": "Compagno"
+            },
+            "it-CH": {
+                "singular": "Compagno"
+            },
+            "it-IT": {
+                "singular": "Coniuge/compagno"
+            },
+            "nl": {
+                "singular": "Partner"
+            },
+            "nl-BE": {
+                "singular": "Partner"
+            },
+            "nl-NL": {
+                "singular": "Partner"
+            },
+            "no": {
+                "singular": "Med ektefelle/partner"
+            },
+            "pl": {
+                "singular": "Z mężem/żoną/partnerem/partnerką"
+            },
+            "pt": {
+                "singular": "Com cônjuge/parceiro"
+            },
+            "ru": {
+                "singular": "С супругой (супругом) / партнером"
+            },
+            "sv": {
+                "singular": "Med partner"
+            }
+        }
+    }
+}

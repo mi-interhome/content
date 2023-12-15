@@ -1,0 +1,125 @@
+{
+    "id": "booking.payment.anticipation.you_will_spend_your_holiday_here",
+    "name": "you_will_spend_your_holiday_here",
+    "path": "text-resourcesbooking/payment/anticipation/you_will_spend_your_holiday_here",
+    "folder": "text-resources",
+    "full_slug": "booking/payment/anticipation/you_will_spend_your_holiday_here",
+    "slug": "you_will_spend_your_holiday_here",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "payment",
+        "anticipation",
+        "you_will_spend_your_holiday_here"
+    ],
+    "content": {
+        "key": "booking.payment.anticipation.you_will_spend_your_holiday_here",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Zde strávíte svoji dovolenou."
+            },
+            "da": {
+                "singular": "Her vil du tilbringe din drømmeferie."
+            },
+            "de": {
+                "singular": "Hier werden Sie Ihre Traumferien verbringen."
+            },
+            "de-AT": {
+                "singular": "Hier werden Sie Ihre Traumferien verbringen."
+            },
+            "de-CH": {
+                "singular": "Hier werden Sie Ihre Traumferien verbringen."
+            },
+            "de-DE": {
+                "singular": "Hier werden Sie Ihre Traumferien verbringen."
+            },
+            "en": {
+                "singular": "Your dream holiday will be spent here."
+            },
+            "en-AU": {
+                "singular": "Your dream holiday will be spent here."
+            },
+            "en-CA": {
+                "singular": "Your dream holiday will be spent here."
+            },
+            "en-GB": {
+                "singular": "Your dream holiday will be spent here."
+            },
+            "en-IE": {
+                "singular": "Your dream holiday will be spent here."
+            },
+            "en-US": {
+                "singular": "Your dream holiday will be spent here."
+            },
+            "es": {
+                "singular": "Disfrutará de sus soñadas vacaciones aquí"
+            },
+            "fi": {
+                "singular": "Mukavaa loman odotusta!"
+            },
+            "fi-EE": {
+                "singular": "Mukavaa loman odotusta!"
+            },
+            "fi-FI": {
+                "singular": "Mukavaa loman odotusta!"
+            },
+            "fr": {
+                "singular": "Vous allez passer vos vacances ici"
+            },
+            "fr-BE": {
+                "singular": "Vous allez passer vos vacances ici"
+            },
+            "fr-CA": {
+                "singular": "Vous allez passer vos vacances ici"
+            },
+            "fr-CH": {
+                "singular": "Vous allez passer vos vacances ici"
+            },
+            "fr-FR": {
+                "singular": "Vous allez passer vos vacances ici"
+            },
+            "hr": {
+                "singular": "Ovdje ćete provesti Vaš odmor iz snova."
+            },
+            "it": {
+                "singular": "Ecco la casa vacanze prenotata."
+            },
+            "it-CH": {
+                "singular": "Ecco la casa vacanze prenotata."
+            },
+            "it-IT": {
+                "singular": "Ecco la casa vacanze prenotata."
+            },
+            "nl": {
+                "singular": "Hier brengt u uw droomvakantie door."
+            },
+            "nl-BE": {
+                "singular": "Hier brengt u uw droomvakantie door."
+            },
+            "nl-NL": {
+                "singular": "Hier brengt u uw droomvakantie door."
+            },
+            "no": {
+                "singular": "Her vil du tilbringe din drømmeferie.\r\n"
+            },
+            "pl": {
+                "singular": "Tutaj spędzą Państwo swoje wyjątkowe wakacje"
+            },
+            "pt": {
+                "singular": "As suas férias de sonho serão passadas aqui."
+            },
+            "ru": {
+                "singular": "Ваше место отдыха."
+            },
+            "sv": {
+                "singular": "Här kommer du att tillbringa din drömsemester."
+            }
+        }
+    }
+}

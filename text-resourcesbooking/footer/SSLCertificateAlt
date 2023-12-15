@@ -1,0 +1,124 @@
+{
+    "id": "booking.footer.SSLCertificateAlt",
+    "name": "SSLCertificateAlt",
+    "path": "text-resourcesbooking/footer/SSLCertificateAlt",
+    "folder": "text-resources",
+    "full_slug": "booking/footer/SSLCertificateAlt",
+    "slug": "SSLCertificateAlt",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "booking",
+        "footer",
+        "SSLCertificateAlt"
+    ],
+    "content": {
+        "key": "booking.footer.SSLCertificateAlt",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "SSL Certifikát - Bezpečná platba prostřednictvím SSL šifrování"
+            },
+            "da": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "de": {
+                "singular": "SSL Certificate - Sichere Bezahlung über SSL Verschlüsselung"
+            },
+            "de-AT": {
+                "singular": "SSL Certificate - Sichere Bezahlung über SSL Verschlüsselung"
+            },
+            "de-CH": {
+                "singular": "SSL Certificate - Sichere Bezahlung über SSL Verschlüsselung"
+            },
+            "de-DE": {
+                "singular": "SSL Certificate - Sichere Bezahlung über SSL Verschlüsselung"
+            },
+            "en": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "en-AU": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "en-CA": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "en-GB": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "en-IE": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "en-US": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "es": {
+                "singular": "Certificado SSL  - Pago seguro vía encriptación SSL "
+            },
+            "fi": {
+                "singular": "SSL Certificate - Turvallinen maksaminen SSL salauksella"
+            },
+            "fi-EE": {
+                "singular": "SSL Certificate - Turvallinen maksaminen SSL salauksella"
+            },
+            "fi-FI": {
+                "singular": "SSL Certificate - Turvallinen maksaminen SSL salauksella"
+            },
+            "fr": {
+                "singular": "Certificat SSL - Paiement sécurisé via le cryptage SSL"
+            },
+            "fr-BE": {
+                "singular": "Certificat SSL - Paiement sécurisé via le cryptage SSL"
+            },
+            "fr-CA": {
+                "singular": "Certificat SSL - Paiement sécurisé via le cryptage SSL"
+            },
+            "fr-CH": {
+                "singular": "Certificat SSL - Paiement sécurisé via le cryptage SSL"
+            },
+            "fr-FR": {
+                "singular": "Certificat SSL - Paiement sécurisé via le cryptage SSL"
+            },
+            "hr": {
+                "singular": "SSL certifikat - sigurno plaćanje putem SSL enkripcije"
+            },
+            "it": {
+                "singular": "Certificato SSL - Pagamenti sicuri tramite crittografia SSL"
+            },
+            "it-CH": {
+                "singular": "Certificato SSL - Pagamenti sicuri tramite crittografia SSL"
+            },
+            "it-IT": {
+                "singular": "Certificato SSL - Pagamenti sicuri tramite crittografia SSL"
+            },
+            "nl": {
+                "singular": "SSL Certificaat - Beveiligde betaling via SSL versleuteling"
+            },
+            "nl-BE": {
+                "singular": "SSL Certificaat - Beveiligde betaling via SSL versleuteling"
+            },
+            "nl-NL": {
+                "singular": "SSL Certificaat - Beveiligde betaling via SSL versleuteling"
+            },
+            "no": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            },
+            "pl": {
+                "singular": "Certyfikat SSL - gwarancja bezpiecznej płatności"
+            },
+            "pt": {
+                "singular": "Certificado SSL - Pagamento seguro via encriptação SSL\r\n\r\n"
+            },
+            "ru": {
+                "singular": "SSL Certificate - Безопасная оплата через SSL-шифрование"
+            },
+            "sv": {
+                "singular": "SSL Certificate - Secure payment via SSL encryption"
+            }
+        }
+    }
+}

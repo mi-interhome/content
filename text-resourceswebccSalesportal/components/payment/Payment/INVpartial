@@ -1,0 +1,126 @@
+{
+    "id": "webccSalesportal.components.payment.Payment.INVpartial",
+    "name": "INVpartial",
+    "path": "text-resourceswebccSalesportal/components/payment/Payment/INVpartial",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/components/payment/Payment/INVpartial",
+    "slug": "INVpartial",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "components",
+        "payment",
+        "Payment",
+        "INVpartial"
+    ],
+    "content": {
+        "key": "webccSalesportal.components.payment.Payment.INVpartial",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Vložte do ({datedeposit}) ({deposit}) Rezervace do ({datebalance}) ({balance})"
+            },
+            "da": {
+                "singular": "Depositum betales senest ({datedeposit}) ({deposit}) Restbetaling senest ({datebalance}) ({balance})"
+            },
+            "de": {
+                "singular": "Anzahlungsbetrag zahlbar bis {datedeposit} ({deposit}). Restzahlung zahlbar bis {datebalance} ({balance})"
+            },
+            "de-AT": {
+                "singular": "Anzahlungsbetrag zahlbar bis {datedeposit} ({deposit}). Restzahlung zahlbar bis {datebalance} ({balance})"
+            },
+            "de-CH": {
+                "singular": "Anzahlungsbetrag zahlbar bis {datedeposit} ({deposit}). Restzahlung zahlbar bis {datebalance} ({balance})"
+            },
+            "de-DE": {
+                "singular": "Anzahlungsbetrag zahlbar bis {datedeposit} ({deposit}). Restzahlung zahlbar bis {datebalance} ({balance})"
+            },
+            "en": {
+                "singular": "Deposit until {datedeposit} ({deposit}). Booking until {datebalance} ({balance})"
+            },
+            "en-AU": {
+                "singular": "Deposit until {datedeposit} ({deposit}). Booking until {datebalance} ({balance})"
+            },
+            "en-CA": {
+                "singular": "Deposit until {datedeposit} ({deposit}). Booking until {datebalance} ({balance})"
+            },
+            "en-GB": {
+                "singular": "Deposit until {datedeposit} ({deposit}). Booking until {datebalance} ({balance})"
+            },
+            "en-IE": {
+                "singular": "Deposit until {datedeposit} ({deposit}). Booking until {datebalance} ({balance})"
+            },
+            "en-US": {
+                "singular": "Deposit until {datedeposit} ({deposit}). Booking until {datebalance} ({balance})"
+            },
+            "es": {
+                "singular": "Depósito hasta ({datedeposit}) ({deposit}) Reserva hasta ({datebalance}) ({balance})"
+            },
+            "fi": {
+                "singular": "Varausmaksu ({datedeposit}) ({deposit}). Loppumaksu ({datebalance}) ({balance})."
+            },
+            "fi-EE": {
+                "singular": "Varausmaksu ({datedeposit}) ({deposit}). Loppumaksu ({datebalance}) ({balance})."
+            },
+            "fi-FI": {
+                "singular": "Varausmaksu ({datedeposit}) ({deposit}). Loppumaksu ({datebalance}) ({balance})."
+            },
+            "fr": {
+                "singular": "Seulement l'acompte {datedeposit} ({deposit}). Le solde jusqu'au {datebalance} ({balance})"
+            },
+            "fr-BE": {
+                "singular": "Seulement l'acompte {datedeposit} ({deposit}). Le solde jusqu'au {datebalance} ({balance})"
+            },
+            "fr-CA": {
+                "singular": "Seulement l'acompte {datedeposit} ({deposit}). Le solde jusqu'au {datebalance} ({balance})"
+            },
+            "fr-CH": {
+                "singular": "Seulement l'acompte {datedeposit} ({deposit}). Le solde jusqu'au {datebalance} ({balance})"
+            },
+            "fr-FR": {
+                "singular": "Seulement l'acompte {datedeposit} ({deposit}). Le solde jusqu'au {datebalance} ({balance})"
+            },
+            "hr": {
+                "singular": "Predujam do {datedeposit}: {deposit}. Ostatak iznosa rezervacije do {datebalance}: {balance}"
+            },
+            "it": {
+                "singular": "Acconto entro {datedeposit} ({deposit}). Saldo entro {datebalance} ({balance})"
+            },
+            "it-CH": {
+                "singular": "Acconto entro {datedeposit} ({deposit}). Saldo entro {datebalance} ({balance})"
+            },
+            "it-IT": {
+                "singular": "Acconto entro {datedeposit} ({deposit}). Saldo entro {datebalance} ({balance})"
+            },
+            "nl": {
+                "singular": "Aanbetaling voldoen voor {datedeposit} ({deposit}). Restbetaling voldoen voor {datebalance} ({balance})"
+            },
+            "nl-BE": {
+                "singular": "Aanbetaling voldoen voor {datedeposit} ({deposit}). Restbetaling voldoen voor {datebalance} ({balance})"
+            },
+            "nl-NL": {
+                "singular": "Aanbetaling voldoen voor {datedeposit} ({deposit}). Restbetaling voldoen voor {datebalance} ({balance})"
+            },
+            "no": {
+                "singular": "Depositum betales senest ({datedeposit}) ({deposit}) Sluttbetaling senest ({datebalance}) ({balance})"
+            },
+            "pl": {
+                "singular": "Zaliczka do  ({datedeposit}) ({deposit}) Pełna płatność do ({datebalance}) ({balance})"
+            },
+            "pt": {
+                "singular": "Depósito até ({datedeposit}) ({deposit}) reserva até ({datebalance}) ({balance})"
+            },
+            "ru": {
+                "singular": "Предоплата ({datedeposit}) ({deposit}) Полная оплата ({datebalance}) ({balance})"
+            },
+            "sv": {
+                "singular": "Anmälningsavgift betalas senast  ({datedeposit}) ({deposit}) Slutbetalningen betalas senast ({datebalance}) ({balance})"
+            }
+        }
+    }
+}

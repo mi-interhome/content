@@ -1,0 +1,124 @@
+{
+    "id": "webccSalesportal.footer.hotelplan",
+    "name": "hotelplan",
+    "path": "text-resourceswebccSalesportal/footer/hotelplan",
+    "folder": "text-resources",
+    "full_slug": "webccSalesportal/footer/hotelplan",
+    "slug": "hotelplan",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "webccSalesportal",
+        "footer",
+        "hotelplan"
+    ],
+    "content": {
+        "key": "webccSalesportal.footer.hotelplan",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Hotelplan Group"
+            },
+            "da": {
+                "singular": "Hotelplan -koncernen"
+            },
+            "de": {
+                "singular": "Hotelplan-Gruppe"
+            },
+            "de-AT": {
+                "singular": "Hotelplan-Gruppe"
+            },
+            "de-CH": {
+                "singular": "Hotelplan-Gruppe"
+            },
+            "de-DE": {
+                "singular": "Hotelplan-Gruppe"
+            },
+            "en": {
+                "singular": "Hotelplan Group"
+            },
+            "en-AU": {
+                "singular": "Hotelplan Group"
+            },
+            "en-CA": {
+                "singular": "Hotelplan Group"
+            },
+            "en-GB": {
+                "singular": "Hotelplan Group"
+            },
+            "en-IE": {
+                "singular": "Hotelplan Group"
+            },
+            "en-US": {
+                "singular": "Hotelplan Group"
+            },
+            "es": {
+                "singular": "grupo Hotelplan"
+            },
+            "fi": {
+                "singular": "Hotelplan Groupia"
+            },
+            "fi-EE": {
+                "singular": "Hotelplan Group"
+            },
+            "fi-FI": {
+                "singular": "Hotelplan Groupia"
+            },
+            "fr": {
+                "singular": "groupe Hotelplan"
+            },
+            "fr-BE": {
+                "singular": "groupe Hotelplan"
+            },
+            "fr-CA": {
+                "singular": "groupe Hotelplan"
+            },
+            "fr-CH": {
+                "singular": "groupe Hotelplan"
+            },
+            "fr-FR": {
+                "singular": "groupe Hotelplan"
+            },
+            "hr": {
+                "singular": "grupacije Hotelplan"
+            },
+            "it": {
+                "singular": "gruppo Hotelplan"
+            },
+            "it-CH": {
+                "singular": "gruppo Hotelplan"
+            },
+            "it-IT": {
+                "singular": "gruppo Hotelplan"
+            },
+            "nl": {
+                "singular": "Hotelplan Groep"
+            },
+            "nl-BE": {
+                "singular": "Hotelplan Groep"
+            },
+            "nl-NL": {
+                "singular": "Hotelplan Groep"
+            },
+            "no": {
+                "singular": "Hotelplan -gruppen"
+            },
+            "pl": {
+                "singular": "Grupy Hotelplan"
+            },
+            "pt": {
+                "singular": "grupo Hotelplan"
+            },
+            "ru": {
+                "singular": "Hotelplan Group"
+            },
+            "sv": {
+                "singular": "gruppen Hotelplan"
+            }
+        }
+    }
+}

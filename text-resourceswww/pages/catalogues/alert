@@ -1,0 +1,125 @@
+{
+    "id": "www.pages.catalogues.alert",
+    "name": "alert",
+    "path": "text-resourceswww/pages/catalogues/alert",
+    "folder": "text-resources",
+    "full_slug": "www/pages/catalogues/alert",
+    "slug": "alert",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "www",
+        "pages",
+        "catalogues",
+        "alert"
+    ],
+    "content": {
+        "key": "www.pages.catalogues.alert",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Note"
+            },
+            "da": {
+                "singular": "Note"
+            },
+            "de": {
+                "singular": "Hinweis"
+            },
+            "de-AT": {
+                "singular": "Hinweis"
+            },
+            "de-CH": {
+                "singular": "Hinweis"
+            },
+            "de-DE": {
+                "singular": "Hinweis"
+            },
+            "en": {
+                "singular": "Note"
+            },
+            "en-AU": {
+                "singular": "Note"
+            },
+            "en-CA": {
+                "singular": "Note"
+            },
+            "en-GB": {
+                "singular": "Note"
+            },
+            "en-IE": {
+                "singular": "Note"
+            },
+            "en-US": {
+                "singular": "Note"
+            },
+            "es": {
+                "singular": "Note"
+            },
+            "fi": {
+                "singular": "Note"
+            },
+            "fi-EE": {
+                "singular": "Note"
+            },
+            "fi-FI": {
+                "singular": "Note"
+            },
+            "fr": {
+                "singular": "Note"
+            },
+            "fr-BE": {
+                "singular": "Note"
+            },
+            "fr-CA": {
+                "singular": "Note"
+            },
+            "fr-CH": {
+                "singular": "Note"
+            },
+            "fr-FR": {
+                "singular": "Note"
+            },
+            "hr": {
+                "singular": "Note"
+            },
+            "it": {
+                "singular": "Note"
+            },
+            "it-CH": {
+                "singular": "Note"
+            },
+            "it-IT": {
+                "singular": "Note"
+            },
+            "nl": {
+                "singular": "Note"
+            },
+            "nl-BE": {
+                "singular": "Note"
+            },
+            "nl-NL": {
+                "singular": "Note"
+            },
+            "no": {
+                "singular": "Note"
+            },
+            "pl": {
+                "singular": "Note"
+            },
+            "pt": {
+                "singular": "Note"
+            },
+            "ru": {
+                "singular": "Note"
+            },
+            "sv": {
+                "singular": "Note"
+            }
+        }
+    }
+}

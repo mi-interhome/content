@@ -1,0 +1,126 @@
+{
+    "id": "checkout.components.booking.tripPaxModal.persons",
+    "name": "persons",
+    "path": "text-resourcescheckout/components/booking/tripPaxModal/persons",
+    "folder": "text-resources",
+    "full_slug": "checkout/components/booking/tripPaxModal/persons",
+    "slug": "persons",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Textresource",
+    "tags": [
+        "checkout",
+        "components",
+        "booking",
+        "tripPaxModal",
+        "persons"
+    ],
+    "content": {
+        "key": "checkout.components.booking.tripPaxModal.persons",
+        "pluralization": 0,
+        "Markdown": false,
+        "placeholders": null,
+        "translations": {
+            "cs": {
+                "singular": "Informace o cestujících"
+            },
+            "da": {
+                "singular": "Antal personer"
+            },
+            "de": {
+                "singular": "Reisende Personen"
+            },
+            "de-AT": {
+                "singular": "Reisende Personen"
+            },
+            "de-CH": {
+                "singular": "Reisende Personen"
+            },
+            "de-DE": {
+                "singular": "Reisende Personen"
+            },
+            "en": {
+                "singular": "Guest information"
+            },
+            "en-AU": {
+                "singular": "Guest information"
+            },
+            "en-CA": {
+                "singular": "Guest information"
+            },
+            "en-GB": {
+                "singular": "Guest information"
+            },
+            "en-IE": {
+                "singular": "Guest information"
+            },
+            "en-US": {
+                "singular": "Guest information"
+            },
+            "es": {
+                "singular": "Información de Viajeros"
+            },
+            "fi": {
+                "singular": "Matkustajatiedot"
+            },
+            "fi-EE": {
+                "singular": "Matkustajatiedot"
+            },
+            "fi-FI": {
+                "singular": "Matkustajatiedot"
+            },
+            "fr": {
+                "singular": "Personnes participant au séjour"
+            },
+            "fr-BE": {
+                "singular": "Personnes participant au séjour"
+            },
+            "fr-CA": {
+                "singular": "Personnes participant au séjour"
+            },
+            "fr-CH": {
+                "singular": "Personnes participant au séjour"
+            },
+            "fr-FR": {
+                "singular": "Personnes participant au séjour"
+            },
+            "hr": {
+                "singular": "Broj osoba"
+            },
+            "it": {
+                "singular": "Persone che soggiorneranno"
+            },
+            "it-CH": {
+                "singular": "Persone che soggiorneranno"
+            },
+            "it-IT": {
+                "singular": "Numero di viaggiatori"
+            },
+            "nl": {
+                "singular": "Reisgezelschap"
+            },
+            "nl-BE": {
+                "singular": "Reisgezelschap"
+            },
+            "nl-NL": {
+                "singular": "Reisgezelschap"
+            },
+            "no": {
+                "singular": "Personinformasjon"
+            },
+            "pl": {
+                "singular": "Liczba osób"
+            },
+            "pt": {
+                "singular": "Informação viajante"
+            },
+            "ru": {
+                "singular": "Человек"
+            },
+            "sv": {
+                "singular": "Antal personer"
+            }
+        }
+    }
+}
