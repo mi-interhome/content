@@ -162,30 +162,32 @@
             },
             {
                 "id": 0,
-                "component": "",
-                "content": [
-                    {
-                        "refkey": "entries/top-countries/ES.json"
-                    },
-                    {
-                        "refkey": "entries/top-countries/FR.json"
-                    },
-                    {
-                        "refkey": "entries/top-countries/IT.json"
-                    },
-                    {
-                        "refkey": "entries/top-countries/GR.json"
-                    },
-                    {
-                        "refkey": "entries/top-countries/CZ.json"
-                    },
-                    {
-                        "refkey": "entries/top-countries/CH.json"
-                    },
-                    {
-                        "refkey": "entries/top-countries/FI.json"
-                    }
-                ]
+                "component": "TopCountries",
+                "content": {
+                    "countries": [
+                        {
+                            "refkey": "entries/top-countries/ES.json"
+                        },
+                        {
+                            "refkey": "entries/top-countries/FR.json"
+                        },
+                        {
+                            "refkey": "entries/top-countries/IT.json"
+                        },
+                        {
+                            "refkey": "entries/top-countries/GR.json"
+                        },
+                        {
+                            "refkey": "entries/top-countries/CZ.json"
+                        },
+                        {
+                            "refkey": "entries/top-countries/CH.json"
+                        },
+                        {
+                            "refkey": "entries/top-countries/FI.json"
+                        }
+                    ]
+                }
             },
             {
                 "id": 0,
