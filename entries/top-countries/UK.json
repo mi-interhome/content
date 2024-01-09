@@ -10,33 +10,34 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihAUen": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
-            "ihCAen": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
-            "ihCAfr": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1359839-40-fre-XX/United-Kingdom-GB.jpg",
-            "ihUKen": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
-            "ihUSen": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg"
+        "code": "",
+        "image": {
+            "en-AU": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
+            "en-CA": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
+            "en-UK": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
+            "en-US": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1052691-34-eng-XX/United-Kingdom-GB.jpg",
+            "fr-CA": "https://images.interhome.group/ezcms/interhome/features/top-countries/united-kingdom-gb/1359839-40-fre-XX/United-Kingdom-GB.jpg"
         },
-        "ImgAlt": {
-            "ihAUen": "Holiday house UK",
-            "ihCAen": "Holiday house UK",
-            "ihCAfr": "location vacances angleterre",
-            "ihUKen": "Holiday house UK",
-            "ihUSen": "Holiday house UK"
+        "alt": {
+            "en-AU": "Holiday house UK",
+            "en-CA": "Holiday house UK",
+            "en-UK": "Holiday house UK",
+            "en-US": "Holiday house UK",
+            "fr-CA": "location vacances angleterre"
         },
-        "Name": {
-            "ihAUen": "United Kingdom",
-            "ihCAen": "United Kingdom",
-            "ihCAfr": "Grande Bretagne",
-            "ihUKen": "United Kingdom",
-            "ihUSen": "United Kingdom"
+        "name": {
+            "en-AU": "United Kingdom",
+            "en-CA": "United Kingdom",
+            "en-UK": "United Kingdom",
+            "en-US": "United Kingdom",
+            "fr-CA": "Grande Bretagne"
         },
-        "URL": {
-            "ihAUen": "/united-kingdom/",
-            "ihCAen": "/united-kingdom/",
-            "ihCAfr": "/fr/grande-bretagne/",
-            "ihUKen": "/united-kingdom/",
-            "ihUSen": "/united-kingdom/"
+        "url": {
+            "en-AU": "/united-kingdom/",
+            "en-CA": "/united-kingdom/",
+            "en-UK": "/united-kingdom/",
+            "en-US": "/united-kingdom/",
+            "fr-CA": "/fr/grande-bretagne/"
         }
     }
 }

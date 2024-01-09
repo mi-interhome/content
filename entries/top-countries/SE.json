@@ -10,21 +10,22 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihSEen": "https://images.interhome.group/ezcms/interhome/features/top-countries/sweden-se-winter/2277351-1-eng-XX/Sweden-SE-Winter.jpg",
-            "ihSEsv": "https://images.interhome.group/ezcms/interhome/features/top-countries/sweden-se-winter/2277351-2-eng-XX/Sweden-SE-Winter.jpg"
+        "code": "",
+        "image": {
+            "en-SE": "https://images.interhome.group/ezcms/interhome/features/top-countries/sweden-se-winter/2277351-1-eng-XX/Sweden-SE-Winter.jpg",
+            "sv-SE": "https://images.interhome.group/ezcms/interhome/features/top-countries/sweden-se-winter/2277351-2-eng-XX/Sweden-SE-Winter.jpg"
         },
-        "ImgAlt": {
-            "ihSEen": "Holiday house Sweden",
-            "ihSEsv": "Holiday house Sweden"
+        "alt": {
+            "en-SE": "Holiday house Sweden",
+            "sv-SE": "Holiday house Sweden"
         },
-        "Name": {
-            "ihSEen": "Sweden",
-            "ihSEsv": "Sverige"
+        "name": {
+            "en-SE": "Sweden",
+            "sv-SE": "Sverige"
         },
-        "URL": {
-            "ihSEen": "/en/sweden/",
-            "ihSEsv": "/sverige/"
+        "url": {
+            "en-SE": "/en/sweden/",
+            "sv-SE": "/sverige/"
         }
     }
 }

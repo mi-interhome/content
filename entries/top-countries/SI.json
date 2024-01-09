@@ -10,17 +10,18 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihHRhr": "https://images.interhome.group/ezcms/interhome/features/top-countries/slovenia-si-winter/2277319-2-eng-XX/Slovenia-SI-Winter.jpg"
+        "code": "",
+        "image": {
+            "hr-HR": "https://images.interhome.group/ezcms/interhome/features/top-countries/slovenia-si-winter/2277319-2-eng-XX/Slovenia-SI-Winter.jpg"
         },
-        "ImgAlt": {
-            "ihHRhr": "Holiday house Slovenia"
+        "alt": {
+            "hr-HR": "Holiday house Slovenia"
         },
-        "Name": {
-            "ihHRhr": "Slovenija"
+        "name": {
+            "hr-HR": "Slovenija"
         },
-        "URL": {
-            "ihHRhr": "/slovenija/"
+        "url": {
+            "hr-HR": "/slovenija/"
         }
     }
 }

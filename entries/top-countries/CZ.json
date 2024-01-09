@@ -1,0 +1,39 @@
+{
+    "id": "CZ",
+    "name": "",
+    "path": "entries/top-countries/CZ.json",
+    "folder": "entries",
+    "full_slug": "top-countries/CZ",
+    "slug": "CZ",
+    "locale": "*",
+    "suffix": ".json",
+    "mime": "application/json",
+    "type": "Destination",
+    "content": {
+        "code": "",
+        "image": {
+            "cs-CZ": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1057734-25-cze-CZ/Czech-Republic-CZ.jpg",
+            "en-CZ": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1057398-31-eng-XX/Czech-Republic-CZ.jpg",
+            "pl-PL": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1988117-43-pol-PL/Czech-Republic-CZ.jpg",
+            "ru-RU": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1109220-49-rus-RU/Czech-Republic-CZ.jpg"
+        },
+        "alt": {
+            "cs-CZ": "Rekreační domy a apartmány v České republice",
+            "en-CZ": "Holiday homes in Czech Republic",
+            "pl-PL": "Domy wakacyjne w Czechach",
+            "ru-RU": "Аренда вилл и апартаментов в Чехии"
+        },
+        "name": {
+            "cs-CZ": "Česká republika",
+            "en-CZ": "Czech Republic",
+            "pl-PL": "Czechy",
+            "ru-RU": "Чехия"
+        },
+        "url": {
+            "cs-CZ": "/ceska-republika/",
+            "en-CZ": "/en/czech-republic/",
+            "pl-PL": "/czechy/",
+            "ru-RU": "/чехия/"
+        }
+    }
+}

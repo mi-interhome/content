@@ -10,45 +10,46 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihDKda": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111713-27-dan-DK/Denmark-DK.jpg",
-            "ihDKen": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
-            "ihEEen": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
-            "ihEEfi": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-62-eng-XX/Denmark-DK.jpg",
-            "ihNOen": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
-            "ihNOno": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111716-45-nor-NO/Denmark-DK.jpg",
-            "ihSEen": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
-            "ihSEsv": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111719-60-swe-SE/Denmark-DK.jpg"
+        "code": "",
+        "image": {
+            "da-DK": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111713-27-dan-DK/Denmark-DK.jpg",
+            "en-DK": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
+            "en-EE": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
+            "en-NO": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
+            "en-SE": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-33-eng-XX/Denmark-DK.jpg",
+            "fi-EE": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1052917-62-eng-XX/Denmark-DK.jpg",
+            "no-NO": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111716-45-nor-NO/Denmark-DK.jpg",
+            "sv-SE": "https://images.interhome.group/ezcms/interhome/features/top-countries/denmark-dk/1111719-60-swe-SE/Denmark-DK.jpg"
         },
-        "ImgAlt": {
-            "ihDKda": "",
-            "ihDKen": "",
-            "ihEEen": "",
-            "ihEEfi": "",
-            "ihNOen": "",
-            "ihNOno": "",
-            "ihSEen": "",
-            "ihSEsv": ""
+        "alt": {
+            "da-DK": "",
+            "en-DK": "",
+            "en-EE": "",
+            "en-NO": "",
+            "en-SE": "",
+            "fi-EE": "",
+            "no-NO": "",
+            "sv-SE": ""
         },
-        "Name": {
-            "ihDKda": "Danmark",
-            "ihDKen": "Denmark",
-            "ihEEen": "Denmark",
-            "ihEEfi": "Tanska",
-            "ihNOen": "Denmark",
-            "ihNOno": "Danmark",
-            "ihSEen": "Denmark",
-            "ihSEsv": "Danmark"
+        "name": {
+            "da-DK": "Danmark",
+            "en-DK": "Denmark",
+            "en-EE": "Denmark",
+            "en-NO": "Denmark",
+            "en-SE": "Denmark",
+            "fi-EE": "Tanska",
+            "no-NO": "Danmark",
+            "sv-SE": "Danmark"
         },
-        "URL": {
-            "ihDKda": "/danmark/",
-            "ihDKen": "/en/denmark/",
-            "ihEEen": "/denmark/",
-            "ihEEfi": "/fi/tanska/",
-            "ihNOen": "/en/denmark/",
-            "ihNOno": "/danmark/",
-            "ihSEen": "/en/denmark/",
-            "ihSEsv": "/danmark/"
+        "url": {
+            "da-DK": "/danmark/",
+            "en-DK": "/en/denmark/",
+            "en-EE": "/denmark/",
+            "en-NO": "/en/denmark/",
+            "en-SE": "/en/denmark/",
+            "fi-EE": "/fi/tanska/",
+            "no-NO": "/danmark/",
+            "sv-SE": "/danmark/"
         }
     }
 }

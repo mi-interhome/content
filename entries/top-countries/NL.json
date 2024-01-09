@@ -10,29 +10,30 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihBEfr": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1359833-49-fre-XX/Netherlands-NL.jpg",
-            "ihBEnl": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1160479-40-dut-XX/Netherlands-NL.jpg",
-            "ihNLnl": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1160479-40-dut-XX/Netherlands-NL.jpg",
-            "ihPTpt": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1137140-61-por-PT/Netherlands-NL.jpg"
+        "code": "",
+        "image": {
+            "fr-BE": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1359833-49-fre-XX/Netherlands-NL.jpg",
+            "nl-BE": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1160479-40-dut-XX/Netherlands-NL.jpg",
+            "nl-NL": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1160479-40-dut-XX/Netherlands-NL.jpg",
+            "pt-PT": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1137140-61-por-PT/Netherlands-NL.jpg"
         },
-        "ImgAlt": {
-            "ihBEfr": "",
-            "ihBEnl": "",
-            "ihNLnl": "",
-            "ihPTpt": ""
+        "alt": {
+            "fr-BE": "",
+            "nl-BE": "",
+            "nl-NL": "",
+            "pt-PT": ""
         },
-        "Name": {
-            "ihBEfr": "Pays-Bas",
-            "ihBEnl": "Nederland",
-            "ihNLnl": "Nederland",
-            "ihPTpt": "Netherlands"
+        "name": {
+            "fr-BE": "Pays-Bas",
+            "nl-BE": "Nederland",
+            "nl-NL": "Nederland",
+            "pt-PT": "Netherlands"
         },
-        "URL": {
-            "ihBEfr": "/fr/pays-bas/",
-            "ihBEnl": "/nederland/",
-            "ihNLnl": "/nederland/",
-            "ihPTpt": "/netherlands/"
+        "url": {
+            "fr-BE": "/fr/pays-bas/",
+            "nl-BE": "/nederland/",
+            "nl-NL": "/nederland/",
+            "pt-PT": "/netherlands/"
         }
     }
 }

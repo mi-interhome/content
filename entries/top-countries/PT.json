@@ -10,45 +10,46 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihCAen": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028653-45-eng-XX/Portugal-PT.jpg",
-            "ihCAfr": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028656-54-fre-XX/Portugal-PT.jpg",
-            "ihEEen": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028653-45-eng-XX/Portugal-PT.jpg",
-            "ihEEfi": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1147982-51-fin-EE/Portugal-PT.jpg",
-            "ihESes": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1055058-72-esl-ES/Portugal-PT.jpg",
-            "ihFIfi": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1057515-48-fin-FI/Portugal-PT.jpg",
-            "ihPTpt": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1137146-66-por-PT/Portugal-PT.jpg",
-            "ihUKen": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028653-45-eng-XX/Portugal-PT.jpg"
+        "code": "",
+        "image": {
+            "en-CA": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028653-45-eng-XX/Portugal-PT.jpg",
+            "en-EE": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028653-45-eng-XX/Portugal-PT.jpg",
+            "en-UK": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028653-45-eng-XX/Portugal-PT.jpg",
+            "es-ES": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1055058-72-esl-ES/Portugal-PT.jpg",
+            "fi-EE": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1147982-51-fin-EE/Portugal-PT.jpg",
+            "fi-FI": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1057515-48-fin-FI/Portugal-PT.jpg",
+            "fr-CA": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1028656-54-fre-XX/Portugal-PT.jpg",
+            "pt-PT": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1137146-66-por-PT/Portugal-PT.jpg"
         },
-        "ImgAlt": {
-            "ihCAen": "holiday homes portugal",
-            "ihCAfr": "location vacances Portugal",
-            "ihEEen": "holiday homes portugal",
-            "ihEEfi": "Lomatalot ja -huoneistot Portugalissa",
-            "ihESes": "Casas de vacaciones en Portugal",
-            "ihFIfi": "Lomatalot ja -huoneistot Portugalissa",
-            "ihPTpt": "Casas de férias em Portugal",
-            "ihUKen": "holiday homes portugal"
+        "alt": {
+            "en-CA": "holiday homes portugal",
+            "en-EE": "holiday homes portugal",
+            "en-UK": "holiday homes portugal",
+            "es-ES": "Casas de vacaciones en Portugal",
+            "fi-EE": "Lomatalot ja -huoneistot Portugalissa",
+            "fi-FI": "Lomatalot ja -huoneistot Portugalissa",
+            "fr-CA": "location vacances Portugal",
+            "pt-PT": "Casas de férias em Portugal"
         },
-        "Name": {
-            "ihCAen": "Portugal",
-            "ihCAfr": "Portugal",
-            "ihEEen": "Portugal",
-            "ihEEfi": "Portugali",
-            "ihESes": "Portugal",
-            "ihFIfi": "Portugali",
-            "ihPTpt": "Portugal",
-            "ihUKen": "Portugal"
+        "name": {
+            "en-CA": "Portugal",
+            "en-EE": "Portugal",
+            "en-UK": "Portugal",
+            "es-ES": "Portugal",
+            "fi-EE": "Portugali",
+            "fi-FI": "Portugali",
+            "fr-CA": "Portugal",
+            "pt-PT": "Portugal"
         },
-        "URL": {
-            "ihCAen": "/portugal/",
-            "ihCAfr": "/fr/portugal/",
-            "ihEEen": "/portugal/",
-            "ihEEfi": "/fi/portugali/",
-            "ihESes": "/portugal/",
-            "ihFIfi": "/portugali/",
-            "ihPTpt": "/portugal/",
-            "ihUKen": "/portugal/"
+        "url": {
+            "en-CA": "/portugal/",
+            "en-EE": "/portugal/",
+            "en-UK": "/portugal/",
+            "es-ES": "/portugal/",
+            "fi-EE": "/fi/portugali/",
+            "fi-FI": "/portugali/",
+            "fr-CA": "/fr/portugal/",
+            "pt-PT": "/portugal/"
         }
     }
 }

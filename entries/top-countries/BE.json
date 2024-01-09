@@ -10,21 +10,22 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihBEfr": "https://images.interhome.group/ezcms/interhome/features/top-countries/belgium-be/1359818-41-fre-XX/Belgium-BE.jpg",
-            "ihBEnl": "https://images.interhome.group/ezcms/interhome/features/top-countries/belgium-be/1160449-35-dut-XX/Belgium-BE.jpg"
+        "code": "",
+        "image": {
+            "fr-BE": "https://images.interhome.group/ezcms/interhome/features/top-countries/belgium-be/1359818-41-fre-XX/Belgium-BE.jpg",
+            "nl-BE": "https://images.interhome.group/ezcms/interhome/features/top-countries/belgium-be/1160449-35-dut-XX/Belgium-BE.jpg"
         },
-        "ImgAlt": {
-            "ihBEfr": "",
-            "ihBEnl": ""
+        "alt": {
+            "fr-BE": "",
+            "nl-BE": ""
         },
-        "Name": {
-            "ihBEfr": "Belgique",
-            "ihBEnl": "België"
+        "name": {
+            "fr-BE": "Belgique",
+            "nl-BE": "België"
         },
-        "URL": {
-            "ihBEfr": "/fr/belgique/",
-            "ihBEnl": "/belgie/"
+        "url": {
+            "fr-BE": "/fr/belgique/",
+            "nl-BE": "/belgie/"
         }
     }
 }

@@ -10,21 +10,22 @@
     "mime": "application/json",
     "type": "Destination",
     "content": {
-        "Image": {
-            "ihNOen": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-1-eng-XX/Norway-NO-Winter.jpg",
-            "ihNOno": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-2-eng-XX/Norway-NO-Winter.jpg"
+        "code": "",
+        "image": {
+            "en-NO": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-1-eng-XX/Norway-NO-Winter.jpg",
+            "no-NO": "https://images.interhome.group/ezcms/interhome/features/top-countries/norway-no-winter/2277335-2-eng-XX/Norway-NO-Winter.jpg"
         },
-        "ImgAlt": {
-            "ihNOen": "Holiday house Norway",
-            "ihNOno": "Holiday house Norway"
+        "alt": {
+            "en-NO": "Holiday house Norway",
+            "no-NO": "Holiday house Norway"
         },
-        "Name": {
-            "ihNOen": "Norway",
-            "ihNOno": "Norge"
+        "name": {
+            "en-NO": "Norway",
+            "no-NO": "Norge"
         },
-        "URL": {
-            "ihNOen": "/en/norway/",
-            "ihNOno": "/norge/"
+        "url": {
+            "en-NO": "/en/norway/",
+            "no-NO": "/norge/"
         }
     }
 }
