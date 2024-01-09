@@ -173,59 +173,33 @@
             },
             {
                 "id": 0,
-                "component": "TopCountries",
-                "content": {
-                    "elements": [
-                        {
-                            "ImgAlt": "Casa de férias na Suiça",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1363003-220-por-PT/Switzerland-CH-Winter.jpg",
-                            "Title": "Switzerland",
-                            "URL": "/switzerland/"
-                        },
-                        {
-                            "ImgAlt": "Alojamentos em França",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362940-228-por-PT/France-FR-Winter.jpg",
-                            "Title": "France",
-                            "URL": "/france/"
-                        },
-                        {
-                            "ImgAlt": "Casa de férias em Espanha",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1137149-107-por-PT/Spain-ES.jpg",
-                            "Title": "Spain",
-                            "URL": "/spain/"
-                        },
-                        {
-                            "ImgAlt": "Casas de férias em Portugal",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/portugal-pt/1137146-66-por-PT/Portugal-PT.jpg",
-                            "Title": "Portugal",
-                            "URL": "/portugal/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392855-223-por-PT/Italy-IT-Winter.jpg",
-                            "Title": "Italy",
-                            "URL": "/italy/"
-                        },
-                        {
-                            "ImgAlt": "Casas de Férias Austrália",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389191-100-por-PT/Austria-AT-Winter.jpg",
-                            "Title": "Áustria",
-                            "URL": "/áustria/"
-                        },
-                        {
-                            "ImgAlt": "Apartamentos de férias Alemanha",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363066-265-por-PT/Germany-DE-Winter.jpg",
-                            "Title": "Germany",
-                            "URL": "/germany/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/netherlands-nl/1137140-61-por-PT/Netherlands-NL.jpg",
-                            "Title": "Netherlands",
-                            "URL": "/netherlands/"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": [
+                    {
+                        "refkey": "entries/top-countries/CH.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/ES.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/PT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/IT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/AT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/DE.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/NL.json"
+                    }
+                ]
             },
             {
                 "id": 0,

@@ -162,59 +162,30 @@
             },
             {
                 "id": 0,
-                "component": "TopCountries",
-                "content": {
-                    "elements": [
-                        {
-                            "ImgAlt": "Аренда вилл и апартаментов в  Испании",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1109253-110-rus-RU/Spain-ES.jpg",
-                            "Title": "Испания",
-                            "URL": "/испания/"
-                        },
-                        {
-                            "ImgAlt": "Аренда вилл и апартаментов во Франции",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-summer/1109229-106-rus-RU/France-FR-Summer.jpg",
-                            "Title": "Франция",
-                            "URL": "/франция/"
-                        },
-                        {
-                            "ImgAlt": "Аренда вилл и апартаментов в Италии",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-summer/1109241-102-rus-RU/Italy-IT-Summer.jpg",
-                            "Title": "Италия",
-                            "URL": "/италия/"
-                        },
-                        {
-                            "ImgAlt": "Аренда вилл и апартаментов в Греции",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/greece-gr/1109235-88-rus-RU/Greece-GR.jpg",
-                            "Title": "Греция",
-                            "URL": "/греция/"
-                        },
-                        {
-                            "ImgAlt": "Аренда вилл и апартаментов в Хорватии",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/website/top-countries/croatia-hr/729077-4-ger-XX/Croatia-HR.jpg",
-                            "Title": "Хорватия",
-                            "URL": "/хорватия/"
-                        },
-                        {
-                            "ImgAlt": "Аренда вилл и апартаментов в Чехии",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/czech-republic-cz/1109220-49-rus-RU/Czech-Republic-CZ.jpg",
-                            "Title": "Чехия",
-                            "URL": "/чехия/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-summer/1109256-113-rus-RU/Switzerland-CH-Summer.jpg",
-                            "Title": "Швейцария",
-                            "URL": "/швейцария/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-summer/1109226-52-rus-RU/Finland-FI-Summer.jpg",
-                            "Title": "Финляндия",
-                            "URL": "/финляндия/"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": [
+                    {
+                        "refkey": "entries/top-countries/ES.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/IT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/GR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/CZ.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/CH.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FI.json"
+                    }
+                ]
             },
             {
                 "id": 0,

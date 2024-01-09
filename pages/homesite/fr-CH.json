@@ -173,59 +173,33 @@
             },
             {
                 "id": 0,
-                "component": "TopCountries",
-                "content": {
-                    "elements": [
-                        {
-                            "ImgAlt": "Location vacances Suisse",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362973-196-fre-CH/Switzerland-CH-Winter.jpg",
-                            "Title": "Suisse",
-                            "URL": "/fr/suisse/"
-                        },
-                        {
-                            "ImgAlt": "Locations de vacances en France",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1993584-207-fre-CH/France-FR-Winter.jpg",
-                            "Title": "France",
-                            "URL": "/fr/france/"
-                        },
-                        {
-                            "ImgAlt": "Location vacances Autriche",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389163-200-fre-CH/Austria-AT-Winter.jpg",
-                            "Title": "Autriche",
-                            "URL": "/fr/autriche/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392815-202-fre-CH/Italy-IT-Winter.jpg",
-                            "Title": "Italie",
-                            "URL": "/fr/italie/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/finland-fi-winter/1362889-103-fre-XX/Finland-FI-Winter.jpg",
-                            "Title": "Finlande",
-                            "URL": "/fr/finlande/"
-                        },
-                        {
-                            "ImgAlt": "Location vacances Espagne",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1002604-86-fre-CH/Spain-ES.jpg",
-                            "Title": "Espagne",
-                            "URL": "/fr/espagne/"
-                        },
-                        {
-                            "ImgAlt": "Location vacances Croatie",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/1002559-77-fre-CH/Croatia-HR.jpg",
-                            "Title": "Croatie",
-                            "URL": "/fr/croatie/"
-                        },
-                        {
-                            "ImgAlt": "Location vacances Allemagne",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363033-241-fre-CH/Germany-DE-Winter.jpg",
-                            "Title": "Allemagne",
-                            "URL": "/fr/allemagne/"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": [
+                    {
+                        "refkey": "entries/top-countries/CH.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/AT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/IT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FI.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/ES.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/HR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/DE.json"
+                    }
+                ]
             },
             {
                 "id": 0,

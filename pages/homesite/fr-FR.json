@@ -173,59 +173,33 @@
             },
             {
                 "id": 0,
-                "component": "TopCountries",
-                "content": {
-                    "elements": [
-                        {
-                            "ImgAlt": "France",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362916-154-fre-XX/France-FR-Winter.jpg",
-                            "Title": "France",
-                            "URL": "/france/"
-                        },
-                        {
-                            "ImgAlt": "Suisse",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1362976-199-fre-XX/Switzerland-CH-Winter.jpg",
-                            "Title": "Suisse",
-                            "URL": "/suisse/"
-                        },
-                        {
-                            "ImgAlt": "location vacances Autriche",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389167-206-fre-XX/Austria-AT-Winter.jpg",
-                            "Title": "Autriche",
-                            "URL": "/autriche/"
-                        },
-                        {
-                            "ImgAlt": "location vacances Espagne",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1002360-89-fre-XX/Spain-ES.jpg",
-                            "Title": "Espagne",
-                            "URL": "/espagne/"
-                        },
-                        {
-                            "ImgAlt": "location vacances France",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-summer/1002298-85-fre-XX/France-FR-Summer.jpg",
-                            "Title": "France",
-                            "URL": "/france/"
-                        },
-                        {
-                            "ImgAlt": "location vacances Italie",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-summer/1002357-81-fre-XX/Italy-IT-Summer.jpg",
-                            "Title": "Italie",
-                            "URL": "/italie/"
-                        },
-                        {
-                            "ImgAlt": "location vacances Croatie",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/1002345-80-fre-XX/Croatia-HR.jpg",
-                            "Title": "Croatie",
-                            "URL": "/croatie/"
-                        },
-                        {
-                            "ImgAlt": "location vacances Grèce",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/greece-gr/1002354-67-fre-XX/Greece-GR.jpg",
-                            "Title": "Grèce",
-                            "URL": "/grece/"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": [
+                    {
+                        "refkey": "entries/top-countries/FR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/CH.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/AT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/ES.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/IT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/HR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/GR.json"
+                    }
+                ]
             },
             {
                 "id": 0,

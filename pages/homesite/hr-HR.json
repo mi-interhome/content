@@ -173,59 +173,33 @@
             },
             {
                 "id": 0,
-                "component": "TopCountries",
-                "content": {
-                    "elements": [
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/austria-at-winter/1389203-164-cro-HR/Austria-AT-Winter.jpg",
-                            "Title": "Austrija",
-                            "URL": "/austrija/"
-                        },
-                        {
-                            "ImgAlt": "Kuće za odmor Hrvatska",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/croatia-hr/1109296-50-cro-HR/Croatia-HR.jpg",
-                            "Title": "Hrvatska",
-                            "URL": "/hrvatska/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/italy-it-winter/1392859-175-cro-HR/Italy-IT-Winter.jpg",
-                            "Title": "Italija",
-                            "URL": "/italija/"
-                        },
-                        {
-                            "ImgAlt": "Kuće za odmor Švicarska",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/switzerland-ch-winter/1363006-169-cro-HR/Switzerland-CH-Winter.jpg",
-                            "Title": "Švicarska",
-                            "URL": "/svicarska/"
-                        },
-                        {
-                            "ImgAlt": "Kuće za odmor Francuska",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/france-fr-winter/1362943-183-cro-HR/France-FR-Winter.jpg",
-                            "Title": "Francuska",
-                            "URL": "/francuska/"
-                        },
-                        {
-                            "ImgAlt": "Kuće za odmor Njemačka",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/germany-de-winter/1363069-214-cro-HR/Germany-DE-Winter.jpg",
-                            "Title": "Njemačka",
-                            "URL": "/njemacka/"
-                        },
-                        {
-                            "ImgAlt": "",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/spain-es/1147745-59-cro-HR/Spain-ES.jpg",
-                            "Title": "Španjolska",
-                            "URL": "/spanjolska/"
-                        },
-                        {
-                            "ImgAlt": "Holiday house Slovenia",
-                            "ImgSrc": "https://images.interhome.group/ezcms/interhome/features/top-countries/slovenia-si-winter/2277319-2-eng-XX/Slovenia-SI-Winter.jpg",
-                            "Title": "Slovenija",
-                            "URL": "/slovenija/"
-                        }
-                    ]
-                }
+                "component": "",
+                "content": [
+                    {
+                        "refkey": "entries/top-countries/AT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/HR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/IT.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/CH.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/FR.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/DE.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/ES.json"
+                    },
+                    {
+                        "refkey": "entries/top-countries/SI.json"
+                    }
+                ]
             },
             {
                 "id": 0,
